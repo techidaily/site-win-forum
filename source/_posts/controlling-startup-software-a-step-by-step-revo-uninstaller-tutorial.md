@@ -1,7 +1,7 @@
 ---
 title: "Controlling Startup Software: A Step-by-Step Revo Uninstaller Tutorial"
-date: 2024-08-05 21:27:51
-updated: 2024-08-06 10:22:14
+date: 2024-08-05T03:55:40.234Z
+updated: 2024-08-06T03:55:40.234Z
 tags:
   - win11
   - win10
@@ -30,14 +30,27 @@ thumbnail: https://thmb.techidaily.com/fb5f458ad35f6a8088f1d0bc0256a6dfcf5f90caa
 
  The following article outlines the latest additions introduced in this new release.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## What did we add in the new 5.0.0 version of Revo Uninstaller Pro?
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ### Uninstall History module
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ![History Module](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/introducing-revo-5/history-module.png)
 
  With Revo Uninstaller Pro 5 you can now view your uninstall history. The goal is to let our users keep track of all of the completed uninstall operations.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ### Command-Line support for Windows Apps and Browser Extensions
 
  In the latest release of Revo Uninstaller, we’ve made a few changes to the Windows Apps module. Aside from having the ability to uninstall Windows Apps via the standard graphical user interface, we’ve also added the choice of uninstalling them via the command-line interface (CLI).
@@ -62,6 +75,9 @@ Standard user accounts can now uninstall programs and apps
 
  One of the biggest novelties in the latest release of Revo Uninstaller is the added possibility to uninstall programs and apps for standard (non-admin) users. This addition will enable users with standard accounts in Windows to uninstall apps, without the need for Administrator privileges.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Scanning for leftovers for all Windows accounts when uninstalling programs or apps
 
  Revo Uninstaller Pro allows you to scan and remove leftovers from different user accounts on your Windows computer.
@@ -70,6 +86,9 @@ Standard user accounts can now uninstall programs and apps
 
  With the Improved Autorun Manager, you can see a list of Windows Apps and manage their automatic startup for better System Boot speed.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ### Improved leftover and scanning speed
 
  Another major improvement we’ve made is to reduce the loading times when loading and scanning for leftovers. The speed is improved by up to 30-50%. This is especially noticeable when uninstalling large programs.
@@ -94,12 +113,21 @@ Standard user accounts can now uninstall programs and apps
 
  Our improved Quick Uninstall Module includes a better User Interface and visualization of the whole uninstallation process. Now Revo Uninstaller Pro 5 Quick Uninstall lists all Windows Apps and Browser Extensions, so you can get quick access to them and remove the ones you are not using.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Summary
 
  If you want to try out these new features, you can get Revo Uninstaller Pro 5[here](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1) . If you already have an active subscription all you need to do is update to the latest version.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## We can help you every time when…
 
 * you cannot find the program in the Apps & Features list

@@ -1,7 +1,7 @@
 ---
 title: "Essential Social Networking Sites: Navigating Facebook, Twitter, Instagram & YouTube"
-date: 2024-08-04 17:38:13
-updated: 2024-08-06 11:34:45
+date: 2024-08-05T03:55:59.599Z
+updated: 2024-08-06T03:55:59.599Z
 tags:
   - win11
   - win10
@@ -34,6 +34,9 @@ thumbnail: https://thmb.techidaily.com/07be777ce45c307461ad22ca534398f5c53e5285d
 
 1. Press**‘Ctrl + Shift + Esc’** simultaneously to bring up Task Manager
 2. Choose the app you want to force quit
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 3. Click**‘End task’** ![End task](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/force-quit-11/how-to-force-quit-an-app-method-1-task-manager.png)
 
 ## How to force quit on Windows through the Settings menu
@@ -41,9 +44,15 @@ thumbnail: https://thmb.techidaily.com/07be777ce45c307461ad22ca534398f5c53e5285d
 1. Click on the**‘Windows’** start icon, then select**‘Settings’** .
 2. Once in Settings, click on**‘Apps’** .
 3. Scroll down until you locate the troublesome app you want to close. Click on the app’s name.
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 4. This will open the app’s settings. Look for and click on**‘Advanced options’** . ![End task](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/force-quit-11/how-to-force-quit-an-app-method-2-settings-terminate.png)
 5. Finally, click on**‘Terminate’** to force quit the app and its associated processes. ![End task](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/force-quit-11/how-to-force-quit-an-app-method-2-settings-terminate-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Here’s how to force quit an application on Windows using Command Prompt
 
 1. Press**‘Windows + R’** to open the Run dialog box.
@@ -52,6 +61,9 @@ thumbnail: https://thmb.techidaily.com/07be777ce45c307461ad22ca534398f5c53e5285d
 4. Identify the process ID (PID) or name of the application you want to force quit from the list.
 5. Once you’ve identified the application, type**‘taskkill /f /im insertprogram.exe’** (replace “insertprogram.exe” with the name of the program or its process ID) and press**‘Enter’** to forcefully terminate the application.
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Force quit on Windows App quickly with keyboard shortcut
 
 1. Click on the unresponsive application or window to ensure it’s active.
@@ -63,8 +75,14 @@ thumbnail: https://thmb.techidaily.com/07be777ce45c307461ad22ca534398f5c53e5285d
 
  If this final step doesn’t resolve the issue, consider updating your operating system. Keeping your OS up to date ensures smooth performance and access to the latest security updates.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
 ## We can help you every time when…
 
 * you cannot find the program in the Apps & Features list

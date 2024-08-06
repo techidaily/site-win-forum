@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Erasing Protected Folders on Windows 10/11 Using Revo Uninstaller"
-date: 2024-08-05 23:20:16
-updated: 2024-08-06 11:50:57
+date: 2024-08-05T03:55:40.054Z
+updated: 2024-08-06T03:55:40.054Z
 tags:
   - win11
   - win10
@@ -30,14 +30,23 @@ thumbnail: https://thmb.techidaily.com/92290ca438acc7b53d6d463fb220788f23c7aae03
 
  The following article outlines the latest additions introduced in this new release.
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What did we add in the new 5.0.0 version of Revo Uninstaller Pro?
 
 ### Uninstall History module
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ![History Module](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/introducing-revo-5/history-module.png)
 
  With Revo Uninstaller Pro 5 you can now view your uninstall history. The goal is to let our users keep track of all of the completed uninstall operations.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Command-Line support for Windows Apps and Browser Extensions
 
  In the latest release of Revo Uninstaller, we’ve made a few changes to the Windows Apps module. Aside from having the ability to uninstall Windows Apps via the standard graphical user interface, we’ve also added the choice of uninstalling them via the command-line interface (CLI).
@@ -46,6 +55,9 @@ thumbnail: https://thmb.techidaily.com/92290ca438acc7b53d6d463fb220788f23c7aae03
 
 ### 3 new tools to Windows tools and possibility users to add their own tools
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Windows Tools](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/introducing-revo-5/3-new-windows-tools.png)
 
  In Revo Uninstaller Pro 5 we’ve added 3 new additional Windows tools for easy usage:
@@ -56,12 +68,18 @@ thumbnail: https://thmb.techidaily.com/92290ca438acc7b53d6d463fb220788f23c7aae03
 
  Additionally, we added the capability to add custom tools to the Windows Tools module so you can access them easily.
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Possibility to uninstall programs and apps for standard (non-admin) users
 
 Standard user accounts can now uninstall programs and apps
 
  One of the biggest novelties in the latest release of Revo Uninstaller is the added possibility to uninstall programs and apps for standard (non-admin) users. This addition will enable users with standard accounts in Windows to uninstall apps, without the need for Administrator privileges.
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Scanning for leftovers for all Windows accounts when uninstalling programs or apps
 
  Revo Uninstaller Pro allows you to scan and remove leftovers from different user accounts on your Windows computer.
@@ -70,10 +88,16 @@ Standard user accounts can now uninstall programs and apps
 
  With the Improved Autorun Manager, you can see a list of Windows Apps and manage their automatic startup for better System Boot speed.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Improved leftover and scanning speed
 
  Another major improvement we’ve made is to reduce the loading times when loading and scanning for leftovers. The speed is improved by up to 30-50%. This is especially noticeable when uninstalling large programs.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Batch uninstall of Windows Apps and Browser Extensions
 
  Revo Uninstaller Pro 5 allows you to uninstall multiple apps and browser extensions at once.
@@ -100,6 +124,9 @@ Standard user accounts can now uninstall programs and apps
 
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ## We can help you every time when…
 
 * you cannot find the program in the Apps & Features list

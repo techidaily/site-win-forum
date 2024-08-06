@@ -1,7 +1,7 @@
 ---
 title: "Mastering File Deletion: Using Command Prompt in Widows 10 Tutorials"
-date: 2024-08-05 21:33:51
-updated: 2024-08-06 11:30:30
+date: 2024-08-05T03:55:47.958Z
+updated: 2024-08-06T03:55:47.958Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/dba89d459ade8c7de3368900b426d88c278b90eb3
 
  Text file password protection is an essential feature when it comes to safeguarding sensitive information. In today’s digital age, there are various ways to protect your confidential files from unauthorized access. One of the most common methods is by password-protecting your text files. This article will guide you through the steps on how to password-protect a text file.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## How to Password protect a text file
 
  To ensure data protection and password-protect your text file, create the file you wish to safeguard. You may utilize any text editor, such as Notepad, TextEdit, or Microsoft Word, to generate a new text file.
@@ -34,9 +38,15 @@ After that, you need to do the following:
 
 1. Right-click on the text file and choose**Properties** .
 2. Under the General tab, click the**Advanced** button and then select**Encrypt Contents to Secure Data** on the new window. Click**OK** and then**Apply** .  
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![encrypt contents](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/password-protect-text-files/how-to-password-protect-a-text-files-step-2.png)
 3. Continue clicking the**Encrypt the File Only** option and click**OK** .
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to encrypt your text file
 
  After password-protecting your text file, the next crucial step is to encrypt the file to ensure optimal data protection. Encryption is the process of converting the original text file into a coded format, making it unreadable to anyone who does not have the correct decryption key. By encrypting your text file, you can ensure that even if someone gains unauthorized access to it, they will not be able to read the contents without the decryption key.
@@ -65,13 +75,23 @@ So, here are the steps to follow:
 
 1. Right-click on the text file you want to password-protect and select**“Add to archive”** .
 2. Under the**General tab** , you can choose an Archive format among RAR, RAR5, and ZIP, and click**Set password** .  
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ![set password](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/password-protect-text-files/encrypt-your-text-files-with-winrar-step-2.png)
 3. Enter the password you prepared and click**OK** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ## Conclusion
 
  Password-protecting your text files is a simple yet effective way to safeguard sensitive information. By using encryption software, you can easily protect your files from unauthorized access. Remember to choose a strong password and delete the original unencrypted text file to ensure maximum security.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
 
 ## We can help you every time when…

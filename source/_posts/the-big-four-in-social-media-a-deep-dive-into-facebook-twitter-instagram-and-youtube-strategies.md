@@ -1,7 +1,7 @@
 ---
 title: "The Big Four in Social Media: A Deep Dive Into Facebook, Twitter, Instagram, & YouTube Strategies"
-date: 2024-08-04 12:27:19
-updated: 2024-08-06 10:23:13
+date: 2024-08-05T03:56:00.459Z
+updated: 2024-08-06T03:56:00.459Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/a5092d91210ebecc5f12f725b9ff9f61857216831
 
  Wake on Lan is a very neat Windows 10 and Windows 11 feature, that does not get much attention. Used by network administrators for years, this feature allows the user to remotely turn on their PCs. You can use it at home too, to remotely get wake up your PC via the Internet.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## First let’s discover what exactly is Wake on LAN in Windows 10/11
 
  As mentioned above Wake on LAN give you the power to turn on/off your computer remotely. By using the Ethernet connector a small “magic” packet is sent to the BIOS. This alters it to turn the PC on. For this feature to be active you need to connect your computer to the router using a wired Ethernet cable.
@@ -42,11 +46,17 @@ First, you will need to active Wake On LAN from the BIOS menu:
 2. Navigate to Update & Security and click on Windows Update
 3. Click on Recovery
 4. Locate the advanced startup option. Click on Restart Now button next to the advanced startup option  
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Restart now](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/activate-wake-on-lan/Method1-step4.jpg)
 5. Your computer will restart. Select troubleshoot. Next, select advanced options, and then select the UEFI Firmware Settings.
 6. Select the Restart option, and you will be headed to the BIOS.
 7. In the BIOS, head to the power settings section.
 8. Here you will find Wake On LAN option. Enable it  
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Enable wake-on LAN](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/activate-wake-on-lan/Method1-step8.jpg)
 
 Once we enable Wake on LAN from the BIOS menu we need to configure it
@@ -60,13 +70,23 @@ In order to configure Wake on LAN in Windows 10/11 do the following:
 2. Expand the Network adapters menu and look for your PCIe/Ethernet controller. Right-click on it and select “Properties”  
 ![Ethernet connection](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/activate-wake-on-lan/Method2-step2.png)
 3. Navigate to the Power Management tab and enable all the checkboxes. Make sure that the “wake the computer” and “Only allow a magic packet to wake the computer” are checked  
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Power Management](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/activate-wake-on-lan/Method2-step3.png)
 4. After that move to the Advanced tab. Scroll down the list of options under the Property windows. Look for the “Wake on Magic Packet” option and enable it from the “Value” drop-down menu. Finally, click OK to save the changes  
 ![Enable wake on magic packet](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/activate-wake-on-lan/Method2-step4.png)
 5. Finally, restart your PC to enable the Wake on LAN feature on your Windows 10/11 PC
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## We can help you every time when…
 
 * you cannot find the program in the Apps & Features list

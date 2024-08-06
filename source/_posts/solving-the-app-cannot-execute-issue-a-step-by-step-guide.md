@@ -1,7 +1,7 @@
 ---
 title: "Solving the 'App Cannot Execute' Issue: A Step-by-Step Guide"
-date: 2024-08-03 22:40:44
-updated: 2024-08-06 11:39:34
+date: 2024-08-05T03:55:49.766Z
+updated: 2024-08-06T03:55:49.766Z
 tags:
   - win11
   - win10
@@ -47,26 +47,44 @@ First, you will need to active Wake On LAN from the BIOS menu:
 6. Select the Restart option, and you will be headed to the BIOS.
 7. In the BIOS, head to the power settings section.
 8. Here you will find Wake On LAN option. Enable it  
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Enable wake-on LAN](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/activate-wake-on-lan/Method1-step8.jpg)
 
 Once we enable Wake on LAN from the BIOS menu we need to configure it
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## How to configure Wake on LAN
 
 In order to configure Wake on LAN in Windows 10/11 do the following:
 
 1. Press Win Key + X and click Device Manager  
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Device Manager](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/activate-wake-on-lan/Method2-step1.png)
 2. Expand the Network adapters menu and look for your PCIe/Ethernet controller. Right-click on it and select “Properties”  
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 ![Ethernet connection](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/activate-wake-on-lan/Method2-step2.png)
 3. Navigate to the Power Management tab and enable all the checkboxes. Make sure that the “wake the computer” and “Only allow a magic packet to wake the computer” are checked  
 ![Power Management](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/activate-wake-on-lan/Method2-step3.png)
 4. After that move to the Advanced tab. Scroll down the list of options under the Property windows. Look for the “Wake on Magic Packet” option and enable it from the “Value” drop-down menu. Finally, click OK to save the changes  
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Enable wake on magic packet](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/activate-wake-on-lan/Method2-step4.png)
 5. Finally, restart your PC to enable the Wake on LAN feature on your Windows 10/11 PC
 
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## We can help you every time when…
 
 * you cannot find the program in the Apps & Features list

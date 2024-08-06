@@ -1,7 +1,7 @@
 ---
 title: "Tackling the 'Failure to Execute Properly' Problem: A How-To for Windows 11 Users"
-date: 2024-08-04 19:24:26
-updated: 2024-08-06 10:17:15
+date: 2024-08-05T03:55:44.094Z
+updated: 2024-08-06T03:55:44.094Z
 tags:
   - win11
   - win10
@@ -41,6 +41,9 @@ Here are the methods you can use to speed up your Windows 11 boot time:
 
 1. Press**Windows + I** to open Windows**Settings** .
 2. Click the**Apps** tab from the sidebar and tap on**Startup** in the right-hand pane to view all your startup apps.  
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![startup tab](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/speed-up-windows-11-boot-time/disable-startup-programs-in-windows-11-step-2.jpg)
 3. Finally, toggle the switch next to the apps you don’t want to run at startup. Under the toggle switch, you’ll see the status impact of each, which indicates what disabling them does to your system.
 
@@ -50,6 +53,9 @@ Here are the methods you can use to speed up your Windows 11 boot time:
 
  We’ve covered in this[article](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1) how you can remove unnecessary files and programs with Revo Uninstaller and many other methods.
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## III. Enable Fast Startup
 
  Windows 11 comes with a variety of features that can help speed up your computer’s boot time. One such feature is Fast Startup, which allows your computer to start up faster by using a hybrid sleep mode that saves system information to a file on the hard drive.
@@ -59,6 +65,10 @@ Here is how you can turn Fast Starup On:
 1. Press**Win + R** to open**Run** .
 2. Type`control` and click**OK** to open the Control Panel.
 3. Go to**System and Security** and then click on**Power Options** .  
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 ![startup options](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/speed-up-windows-11-boot-time/enable-fast-startup-step-2.png)
 4. In the left pane, click on**Choose what the power buttons do** .
 5. Next, click the**Change settings that are currently unavailable** link.
@@ -76,6 +86,9 @@ Here is how you can turn Fast Starup On:
 1. Press the Windows key + S to open the search bar.
 2. Type in “Defragment and Optimize Drives” and select it from the search results.
 3. Select the hard drive you want to defragment.  
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![defragment hard drive](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/speed-up-windows-11-boot-time/defragment-your-hard-drive-step-3.png)
 4. Click on the Optimize button.
 5. Wait for the defragmentation process to complete.
@@ -86,6 +99,9 @@ Here is how you can turn Fast Starup On:
 
  In addition to upgrading your SSD, another way to speed up your PC’s boot time is to upgrade your RAM. With more RAM, your PC will have more volatile memory available to load temporary items, resulting in faster boot times and an overall improvement in your PC’s performance.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## VI. Adjust BIOS settings for faster Windows 11 boot time
 
  Adjusting the BIOS settings can help speed up the boot time on your Windows 11 computer. Here are the steps you need to follow in order to adjust your BIOS settings to improve your Windows 11 boot time:
@@ -100,6 +116,9 @@ Here is how you can turn Fast Starup On:
 
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ## We can help you every time when…
 
 * you cannot find the program in the Apps & Features list

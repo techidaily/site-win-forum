@@ -1,7 +1,7 @@
 ---
 title: Leading Online Communities - A Guide to Facebook, Twitter, Instagram and YouTube
-date: 2024-08-04 22:16:42
-updated: 2024-08-06 12:44:44
+date: 2024-08-05T03:55:46.261Z
+updated: 2024-08-06T03:55:46.261Z
 tags:
   - win11
   - win10
@@ -38,6 +38,9 @@ thumbnail: https://thmb.techidaily.com/d1c93d03f28bcd5dba090eaa199ea22428e61a4a7
 
  With Revo Uninstaller Pro 5 you can now view your uninstall history. The goal is to let our users keep track of all of the completed uninstall operations.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ### Command-Line support for Windows Apps and Browser Extensions
 
  In the latest release of Revo Uninstaller, we’ve made a few changes to the Windows Apps module. Aside from having the ability to uninstall Windows Apps via the standard graphical user interface, we’ve also added the choice of uninstalling them via the command-line interface (CLI).
@@ -56,6 +59,9 @@ thumbnail: https://thmb.techidaily.com/d1c93d03f28bcd5dba090eaa199ea22428e61a4a7
 
  Additionally, we added the capability to add custom tools to the Windows Tools module so you can access them easily.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ### Possibility to uninstall programs and apps for standard (non-admin) users
 
 Standard user accounts can now uninstall programs and apps
@@ -70,26 +76,44 @@ Standard user accounts can now uninstall programs and apps
 
  With the Improved Autorun Manager, you can see a list of Windows Apps and manage their automatic startup for better System Boot speed.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Improved leftover and scanning speed
 
  Another major improvement we’ve made is to reduce the loading times when loading and scanning for leftovers. The speed is improved by up to 30-50%. This is especially noticeable when uninstalling large programs.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### Batch uninstall of Windows Apps and Browser Extensions
 
  Revo Uninstaller Pro 5 allows you to uninstall multiple apps and browser extensions at once.
 
  Another improvement to the Windows Apps module is the functionality of batch uninstall. This allows the users to uninstall multiple apps and browser extensions at once.
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Dark Mode to the user interface (UI) of Revo Uninstaller Pro 5
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Dark mode](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/introducing-revo-5/dark-mode.png)
 
  Revo Uninstaller Pro 5 brings a new Dark mode to the user interface. If you prefer to use dark mode with your apps, you can now set Revo Uninstaller to match your preferences by enabling this feature.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Customization options for most program colors
 
  If Dark mode is not your thing, we’ve got you covered. Aside from Dark mode, Revo Uninstaller Pro 5 now lets you customize most of the program colors, so you can make it look the way you like. To make this easier, we’ve added an extended color customization palette.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ### Improved and Redesigned Quick Uninstall
 
  Our improved Quick Uninstall Module includes a better User Interface and visualization of the whole uninstallation process. Now Revo Uninstaller Pro 5 Quick Uninstall lists all Windows Apps and Browser Extensions, so you can get quick access to them and remove the ones you are not using.
@@ -100,6 +124,9 @@ Standard user accounts can now uninstall programs and apps
 
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## We can help you every time when…
 
 * you cannot find the program in the Apps & Features list

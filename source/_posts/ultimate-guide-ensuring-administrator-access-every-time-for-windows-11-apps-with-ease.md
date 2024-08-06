@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Ensuring Administrator Access Every Time for Windows 11 Apps with Ease"
-date: 2024-08-03 14:53:50
-updated: 2024-08-06 10:45:38
+date: 2024-08-05T03:55:52.901Z
+updated: 2024-08-06T03:55:52.901Z
 tags:
   - win11
   - win10
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/d01f6c0274e2880e91afbb32b22a67b6646c0f35e
 
 ## Ultimate Trick for Protecting Text Documents with Strong Passwords - Learn Today
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ## [How to Password protect a text file](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1)
 
 * Share
@@ -34,9 +37,16 @@ After that, you need to do the following:
 
 1. Right-click on the text file and choose**Properties** .
 2. Under the General tab, click the**Advanced** button and then select**Encrypt Contents to Secure Data** on the new window. Click**OK** and then**Apply** .  
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![encrypt contents](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/password-protect-text-files/how-to-password-protect-a-text-files-step-2.png)
 3. Continue clicking the**Encrypt the File Only** option and click**OK** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## How to encrypt your text file
 
  After password-protecting your text file, the next crucial step is to encrypt the file to ensure optimal data protection. Encryption is the process of converting the original text file into a coded format, making it unreadable to anyone who does not have the correct decryption key. By encrypting your text file, you can ensure that even if someone gains unauthorized access to it, they will not be able to read the contents without the decryption key.
@@ -65,15 +75,24 @@ So, here are the steps to follow:
 
 1. Right-click on the text file you want to password-protect and select**“Add to archive”** .
 2. Under the**General tab** , you can choose an Archive format among RAR, RAR5, and ZIP, and click**Set password** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ![set password](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/password-protect-text-files/encrypt-your-text-files-with-winrar-step-2.png)
 3. Enter the password you prepared and click**OK** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Conclusion
 
  Password-protecting your text files is a simple yet effective way to safeguard sensitive information. By using encryption software, you can easily protect your files from unauthorized access. Remember to choose a strong password and delete the original unencrypted text file to ensure maximum security.
 
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 ## We can help you every time when…
 
 * you cannot find the program in the Apps & Features list

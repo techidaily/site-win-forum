@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting 'PC Not Supported': How to Get Your Application Running Smoothly Again"
-date: 2024-08-03 21:52:11
-updated: 2024-08-06 12:26:17
+date: 2024-08-05T03:55:50.489Z
+updated: 2024-08-06T03:55:50.489Z
 tags:
   - win11
   - win10
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/37824763b4fe230259d6bef6fbaeb97e72f010976
 
 ## Navigating the Web of Communication on Leading Platforms: Facebook, Twitter, Instagram, and Youtube
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
 ## [How to Force Delete a Folder – Windows 10 & 11](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1)
 
 * Share
@@ -34,12 +37,18 @@ thumbnail: https://thmb.techidaily.com/37824763b4fe230259d6bef6fbaeb97e72f010976
 
  If nothing of the aforementioned scenarios applies to your situation, you could choose to use one of the following:
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ## Method 1: Use Command Prompt
 
  Using Command Prompt is a quick way to delete a folder. You can use this tool to run a command that deletes the folder you’ve chosen.
 
  To begin, open your “Start” menu and look for “Command Prompt.” Then, on the right, select “Run as Administrator.”
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ![run as Administrator](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/force-delete-folder/method-1-command-prompt.png)
 
 A “User Account Control” prompt will appear. Choose “Yes.”
@@ -57,6 +66,9 @@ If your path contains spaces, enclose it with double quotes.
 
 ![command prompt](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/force-delete-folder/method-1-command-prompts-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Method 2: Boot in Windows Safe Mode
 
  If you are unsure which app has hijacked your folder and prevented you from deleting it, restart your PC in safe mode and then attempt to delete the folder. In safe mode, your PC only loads the necessary Windows files, preventing any third-party apps from launching automatically.
@@ -81,10 +93,16 @@ Your folder has been deleted.
 
  When your computer restarts, launch File Explorer and navigate to the folder you want to delete. Then, right-click on this folder and select**“Add to Archive”**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![add to archive](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/force-delete-folder/method-3-add-to-archive.jpg)
 
  On the “Archive Name and Parameters” window, in the “Archiving Options” section, enable the “Delete Files After Archiving” option. Then, at the bottom of the window, select “OK.”
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ![archive](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/force-delete-folder/method-3-add-to-archive-2.jpg)
 
  Allow WinRAR to create an archive from the folder you’ve chosen. After that, WinRAR will delete the original folder. You may now delete your recently created archive.

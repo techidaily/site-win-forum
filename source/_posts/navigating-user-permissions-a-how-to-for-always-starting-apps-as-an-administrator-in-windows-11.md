@@ -1,7 +1,7 @@
 ---
 title: "Navigating User Permissions: A How-To for Always Starting Apps as an Administrator in Windows 11"
-date: 2024-08-03 23:30:19
-updated: 2024-08-06 12:52:45
+date: 2024-08-05T03:55:43.917Z
+updated: 2024-08-06T03:55:43.917Z
 tags:
   - win11
   - win10
@@ -34,6 +34,9 @@ thumbnail: https://thmb.techidaily.com/2b0be1d254da9a28eb7fb0462b3c66de235332cf8
 
  If nothing of the aforementioned scenarios applies to your situation, you could choose to use one of the following:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Method 1: Use Command Prompt
 
  Using Command Prompt is a quick way to delete a folder. You can use this tool to run a command that deletes the folder you’ve chosen.
@@ -57,6 +60,9 @@ If your path contains spaces, enclose it with double quotes.
 
 ![command prompt](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/force-delete-folder/method-1-command-prompts-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Method 2: Boot in Windows Safe Mode
 
  If you are unsure which app has hijacked your folder and prevented you from deleting it, restart your PC in safe mode and then attempt to delete the folder. In safe mode, your PC only loads the necessary Windows files, preventing any third-party apps from launching automatically.
@@ -81,18 +87,31 @@ Your folder has been deleted.
 
  When your computer restarts, launch File Explorer and navigate to the folder you want to delete. Then, right-click on this folder and select**“Add to Archive”**
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![add to archive](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/force-delete-folder/method-3-add-to-archive.jpg)
 
  On the “Archive Name and Parameters” window, in the “Archiving Options” section, enable the “Delete Files After Archiving” option. Then, at the bottom of the window, select “OK.”
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 ![archive](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/force-delete-folder/method-3-add-to-archive-2.jpg)
 
  Allow WinRAR to create an archive from the folder you’ve chosen. After that, WinRAR will delete the original folder. You may now delete your recently created archive.
 
  That’s how you get rid of any unwanted or stubborn folders on your Windows PC.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## We can help you every time when…
 
 * you cannot find the program in the Apps & Features list

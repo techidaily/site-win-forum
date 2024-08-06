@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Major Social Networks: An In-Depth Guide to Facebook, Twitter, Instagram & YouTube"
-date: 2024-08-05 15:28:49
-updated: 2024-08-06 11:35:18
+date: 2024-08-05T03:55:45.101Z
+updated: 2024-08-06T03:55:45.101Z
 tags:
   - win11
   - win10
@@ -26,12 +26,18 @@ thumbnail: https://thmb.techidaily.com/571b6953560c969952a7e82657ab3c73d752ed211
 
  Wake on Lan is a very neat Windows 10 and Windows 11 feature, that does not get much attention. Used by network administrators for years, this feature allows the user to remotely turn on their PCs. You can use it at home too, to remotely get wake up your PC via the Internet.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## First let’s discover what exactly is Wake on LAN in Windows 10/11
 
  As mentioned above Wake on LAN give you the power to turn on/off your computer remotely. By using the Ethernet connector a small “magic” packet is sent to the BIOS. This alters it to turn the PC on. For this feature to be active you need to connect your computer to the router using a wired Ethernet cable.
 
  As smart homes setups become more popular, Wake on LAN can be super handy. You can set up a voice command to turn on your PC using Google Assistant or Alexa.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Configure Wake On Lan on Windows 10/11
 
  In order to activate Wake On LAN feature on your Windows 10/11 PC, do the following:
@@ -56,8 +62,14 @@ Once we enable Wake on LAN from the BIOS menu we need to configure it
 In order to configure Wake on LAN in Windows 10/11 do the following:
 
 1. Press Win Key + X and click Device Manager  
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Device Manager](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/activate-wake-on-lan/Method2-step1.png)
 2. Expand the Network adapters menu and look for your PCIe/Ethernet controller. Right-click on it and select “Properties”  
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ![Ethernet connection](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/activate-wake-on-lan/Method2-step2.png)
 3. Navigate to the Power Management tab and enable all the checkboxes. Make sure that the “wake the computer” and “Only allow a magic packet to wake the computer” are checked  
 ![Power Management](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/activate-wake-on-lan/Method2-step3.png)
@@ -65,8 +77,15 @@ In order to configure Wake on LAN in Windows 10/11 do the following:
 ![Enable wake on magic packet](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/activate-wake-on-lan/Method2-step4.png)
 5. Finally, restart your PC to enable the Wake on LAN feature on your Windows 10/11 PC
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## We can help you every time when…
 
 * you cannot find the program in the Apps & Features list

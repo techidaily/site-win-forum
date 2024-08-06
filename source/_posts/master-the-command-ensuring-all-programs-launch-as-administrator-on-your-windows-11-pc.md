@@ -1,7 +1,7 @@
 ---
 title: "Master the Command: Ensuring All Programs Launch as Administrator on Your Windows 11 PC"
-date: 2024-08-05 19:28:15
-updated: 2024-08-06 10:56:15
+date: 2024-08-05T03:55:49.653Z
+updated: 2024-08-06T03:55:49.653Z
 tags:
   - win11
   - win10
@@ -26,6 +26,9 @@ thumbnail: https://thmb.techidaily.com/c2d68683c182adeb644872ae9b6efd92813d48ae8
 
  Do you need help removing a folder from your Windows 10 or Windows 11 computer? If so, it could be a system folder or a folder utilized by another software. We’ll show you how to remove “undeletable” folders from your PC.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Why you can’t delete your folder?
 
  The most common cause for being unable to delete a folder is that it is a Windows system folder. In this scenario, the system blocks you from eliminating the folder since doing so may cause your PC to become unstable.
@@ -34,12 +37,18 @@ thumbnail: https://thmb.techidaily.com/c2d68683c182adeb644872ae9b6efd92813d48ae8
 
  If nothing of the aforementioned scenarios applies to your situation, you could choose to use one of the following:
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 1: Use Command Prompt
 
  Using Command Prompt is a quick way to delete a folder. You can use this tool to run a command that deletes the folder you’ve chosen.
 
  To begin, open your “Start” menu and look for “Command Prompt.” Then, on the right, select “Run as Administrator.”
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![run as Administrator](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/force-delete-folder/method-1-command-prompt.png)
 
 A “User Account Control” prompt will appear. Choose “Yes.”
@@ -81,16 +90,25 @@ Your folder has been deleted.
 
  When your computer restarts, launch File Explorer and navigate to the folder you want to delete. Then, right-click on this folder and select**“Add to Archive”**
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![add to archive](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/force-delete-folder/method-3-add-to-archive.jpg)
 
  On the “Archive Name and Parameters” window, in the “Archiving Options” section, enable the “Delete Files After Archiving” option. Then, at the bottom of the window, select “OK.”
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![archive](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/force-delete-folder/method-3-add-to-archive-2.jpg)
 
  Allow WinRAR to create an archive from the folder you’ve chosen. After that, WinRAR will delete the original folder. You may now delete your recently created archive.
 
  That’s how you get rid of any unwanted or stubborn folders on your Windows PC.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
 
 ## We can help you every time when…

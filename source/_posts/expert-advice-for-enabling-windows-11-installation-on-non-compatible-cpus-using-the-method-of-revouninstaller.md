@@ -1,7 +1,7 @@
 ---
 title: Expert Advice for Enabling Windows 11 Installation on Non-Compatible CPUs Using the Method of RevoUninstaller
-date: 2024-08-03 22:40:31
-updated: 2024-08-06 11:49:23
+date: 2024-08-05T03:56:00.238Z
+updated: 2024-08-06T03:56:00.238Z
 tags:
   - win11
   - win10
@@ -40,6 +40,9 @@ thumbnail: https://thmb.techidaily.com/81ac4ba09f7fbb502f897ca0c55434cc97c04fe41
 
  To begin, open your “Start” menu and look for “Command Prompt.” Then, on the right, select “Run as Administrator.”
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![run as Administrator](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/force-delete-folder/method-1-command-prompt.png)
 
 A “User Account Control” prompt will appear. Choose “Yes.”
@@ -57,6 +60,9 @@ If your path contains spaces, enclose it with double quotes.
 
 ![command prompt](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/force-delete-folder/method-1-command-prompts-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 2: Boot in Windows Safe Mode
 
  If you are unsure which app has hijacked your folder and prevented you from deleting it, restart your PC in safe mode and then attempt to delete the folder. In safe mode, your PC only loads the necessary Windows files, preventing any third-party apps from launching automatically.
@@ -65,12 +71,18 @@ If your path contains spaces, enclose it with double quotes.
 
  Once in safe mode, open**File Explorer** and navigate to the folder you want to delete. Then, right-click on the folder and select**“Delete”** .
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![delete folder](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/force-delete-folder/method-2-delete-folder.jpg)
 
 Your folder has been deleted.
 
  You may also want to remove the folder from the Recycle Bin, which you can do by opening it, right-clicking your folder, and selecting**“Delete”** .
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
 ## Method 3: Use WinRAR to Force Remove Folders
 
  This may sound strange, but you can delete stubborn folders using[WinRAR](https://www.win-rar.com/) (a file compression app). This works by creating an archive from your “undeletable” folder and then asking the app to delete the original folder after the archive is created.
@@ -85,12 +97,18 @@ Your folder has been deleted.
 
  On the “Archive Name and Parameters” window, in the “Archiving Options” section, enable the “Delete Files After Archiving” option. Then, at the bottom of the window, select “OK.”
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![archive](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/force-delete-folder/method-3-add-to-archive-2.jpg)
 
  Allow WinRAR to create an archive from the folder you’ve chosen. After that, WinRAR will delete the original folder. You may now delete your recently created archive.
 
  That’s how you get rid of any unwanted or stubborn folders on your Windows PC.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
 
 ## We can help you every time when…

@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Big Four Networks: Facebook, Twitter, Instagram & YouTube"
-date: 2024-08-03 14:55:35
-updated: 2024-08-06 11:30:11
+date: 2024-08-05T03:56:00.263Z
+updated: 2024-08-06T03:56:00.263Z
 tags:
   - win11
   - win10
@@ -24,6 +24,9 @@ thumbnail: https://thmb.techidaily.com/9ed1822c884a606f5ae36981b782d8b43a1eaddd1
 
 [How to Fix the “Something Didn’t Go As Planned” Error in Windows 11](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/something-didnt-go-as-planned-error/cover.png) ](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ## What is the “Something Didn’t Go As Planned” error and why you can encounter it
 
  The “Something Didn’t Go As Planned” error is a common occurrence that Windows 11 users may encounter while using their computers. This error message typically appears when an unexpected issue arises during the execution of a task or operation on the operating system. While the error message itself doesn’t provide much information about the specific cause of the problem, there are several common factors that can contribute to its occurrence.
@@ -53,6 +56,9 @@ thumbnail: https://thmb.techidaily.com/9ed1822c884a606f5ae36981b782d8b43a1eaddd1
    1. Open the Settings app, and navigate to Update & Security.  
    2. Select Troubleshoot from the left-hand side menu.  
    3. Click on Additional Troubleshooters  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
    ![troubleshoot](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/something-didnt-go-as-planned-error/method-3-windows-update.jpg)  
    4. Select Windows Update and follow the on-screen instructions to run the troubleshooter.
 4. Check for hardware compatibility issues: Windows 11 has specific system requirements, and not all computers may be compatible with the new operating system. Ensure that your hardware meets the minimum requirements for Windows 11\. Visit the official Microsoft website or use the PC Health Check tool to determine if your system is compatible.
@@ -61,13 +67,27 @@ thumbnail: https://thmb.techidaily.com/9ed1822c884a606f5ae36981b782d8b43a1eaddd1
    2. In the System Configuration window, go to the Services tab and check the “Hide all Microsoft services” box.  
    ![system configuration](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/something-didnt-go-as-planned-error/method-5-system-configuration-step-b.jpg)  
    3. Click on “Disable all” and then go to the Startup tab, selecting “Open Task Manager.”  
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
    ![system configuration](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/something-didnt-go-as-planned-error/method-5-system-configuration-step-c.jpg)  
    4. Disable all the startup applications one by one.  
    5. Restart your computer, and check if the error persists.
 6. Use System File Checker (SFC) and DISM: Corrupted system files can lead to various errors in Windows, including the “Something Didn’t Go As Planned” error. To fix this, you can use the built-in System File Checker (SFC) and Deployment Image Servicing and Management (DISM) tools. Open Command Prompt as an administrator, then run the following commands one by one:  
    * sfc /scannow  
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
    ![command prompt](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/something-didnt-go-as-planned-error/method-6-command-prompt-1.jpg)  
    * dism /online /cleanup-image /restorehealth  
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
    ![command prompt](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/something-didnt-go-as-planned-error/method-6-command-prompt-2.jpg)  
 Wait for the process to complete and restart your computer.
 7. Perform a system restore: If you recently made any changes to your system, such as installing new software or drivers, and started encountering the error, performing a system restore can help revert your system back to a working state. Open the Control Panel, select System and Security, and choose System. Click on “System Protection” from the left-hand side menu, then click on[“System Restore.”](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1) Follow the on-screen instructions to restore your system to an earlier point.
@@ -79,6 +99,9 @@ Wait for the process to complete and restart your computer.
 
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## We can help you every time when…
 
 * you cannot find the program in the Apps & Features list
