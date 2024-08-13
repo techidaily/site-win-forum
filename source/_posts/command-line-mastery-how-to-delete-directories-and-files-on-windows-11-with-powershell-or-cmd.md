@@ -1,0 +1,215 @@
+---
+title: "Command Line Mastery: How to Delete Directories and Files on Windows 11 with PowerShell or CMD"
+date: 2024-08-12T04:55:47.613Z
+updated: 2024-08-13T04:55:47.613Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - tips
+description: "This Article Describes Command Line Mastery: How to Delete Directories and Files on Windows 11 with PowerShell or CMD"
+excerpt: "This Article Describes Command Line Mastery: How to Delete Directories and Files on Windows 11 with PowerShell or CMD"
+thumbnail: https://thmb.techidaily.com/b1dca77248729ae79ab1361747a38e85586597f7f453dbe6b343c97f8212615b.jpg
+---
+
+## The Ultimate Troubleshooting Steps to Get Windows 11 Up and Running Again
+
+## [How to fix Windows 11 Wont Run on my PC error](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1)
+
+* Share
+* [](http://www.facebook.com/share.php?u=https://www.revouninstaller.com/blog/how-to-fix-windows-11-wont-run-on-my-pc-error/&title=How+to+fix+Windows+11+Wont+Run+on+my+PC+error)
+* [](https://twitter.com/intent/tweet?text=How+to+fix+Windows+11+Wont+Run+on+my+PC+error&url=https://www.revouninstaller.com/blog/how-to-fix-windows-11-wont-run-on-my-pc-error/ "Click to share on Twitter")
+* [](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1)
+
+[fix Windows 11 Wont Run on my PC error](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-windows-11-wont-run/fix-windows-11-wont-run-on-my-pc.jpg) ](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1)
+
+ June 24th was the date that Windows 11 was announced. To ease the Windows 10 user’s life, Microsoft provided a tool called PC Health Check. With this tool, the users can check if their computer is compatible with the new operating system. A lot of people were surprised once they ran the software that they received the message “This PC Can’t Run Windows 11”.
+
+ If you were one of those users, that means that your current PC is not compatible with Windows 11 and you won’t be able to directly install it.
+
+ There are several workarounds and if you follow this guide, we will show you how to fix the “This PC Can’t Run Windows 11” error.
+
+## So why are you getting the “This PC Can’t Run Windows 11” error?
+
+ When you run PC Health Check and you get the error it is probably because your PC does not meet the minimum system requirements. Check the table below to see if you cover the requirements:
+
+| Processor                                 | 1 gigahertz (GHz) or faster with 2 or more cores on a compatible 64-bit processor or System on a Chip (SoC).                             |
+| ----------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| RAM                                       | 4 gigabyte (GB).                                                                                                                         |
+| Storage                                   | 64 GB or larger storage device Note: See below under “More information on storage space to keep Windows 11 up-to-date” for more details. |
+| System firmware                           | UEFI, Secure Boot capable. Check here for information on how your PC might be able to meet this requirement.                             |
+| TPM                                       | Trusted Platform Module (TPM) version 2.0\. Check here for instructions on how your PC might be enabled to meet this requirement.        |
+| Graphics card                             | Compatible with DirectX 12 or later with WDDM 2.0 driver.                                                                                |
+| Display                                   | High definition (720p) display that is greater than 9″ diagonally, 8 bits per colour channel.                                            |
+| Internet connection and Microsoft account | Windows 11 Home edition requires internet connectivity and a Microsoft account.                                                          |
+
+ The majority of requirements are not so different from the Windows 10 ones and most computers can meet them. The problems with the upgrade come from the requirements for UEFI, Secure Boot, and TPM 2.0.
+
+ Here is a list of all error messages that you can see when you run PC Health Check. If you encounter one of them, follow the solutions below to fix them:
+
+* [This PC can’t run Windows 11. TPM 2.0 is a requirement for running Windows 11,+](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1)
+* [This PC can’t run Windows 11. The PC must support Secure Boot.](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1)
+* [This PC can’t run Windows 11. The processor isn’t supported for Windows 11.](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1)
+
+## Guide 1: How to fix “This PC can’t run Windows 11\. TPM 2.0 is a requirement for running Windows 11” error
+
+![TPM required](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-windows-11-wont-run/guide1-overview.jpg)
+
+In this case there are 2 issues:
+
+1. Your PC contains a TPM chip, but it is not enabled.
+2. Your PC does not have a TPM chip and you won’t be able to update to Windows 11.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### How to fix the issue
+
+1. Check if your PC supports TPM:  
+   1. Step1 – Press Win Key + R. Type tpm.msc in the dialog window, and hit Enter.  
+   2. Step 2 – When the TPM utility pops up, check if the chip is in use.  
+    If yes, you’ll see it under the Status section, marked as The TPM is ready to use.  
+   3. Step 3 – The TPM Manufacturer Information section will provide you with information about the TPM version.  
+   ![TPM ready to use](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-windows-11-wont-run/guide1-step3.jpg) If it is TPM 2.0, you will be able to install and run Windows 11.If the version of TPM is not 2.0 or if it is lower, that means that you won’t be able to update to Windows 11.  
+    When your computer warns “Compatible TPM cannot be found” or the TPM module version is lower than 2.0, staying with your current computer operating system will be a wise decision.
+2. Enable TPM 2.0 chip for Windows 11  
+   1. Step 1 – Restart your PC and press the F2/F10/Del key to enter your BIOS  
+   2. Step 2 – Navigate with your keyboard to the Security section.  
+   3. Step 3 – Enable the TMP State  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
+   ![enable tpm chip](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-windows-11-wont-run/enable-tpm-20-chip-for-windows-11-step-3.jpg)  
+   4. Step 4 – Hit the F10 key and press Enter to exit the BIOS.Restart your PC and get the Windows 11 update successfully.
+
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
+## Guide 2 – How to fix “This PC can’t run Windows 11\. The PC must support Secure Boot” error
+
+![secure boot not supported](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-windows-11-wont-run/guide2-overview.png)
+
+ Secure Boot mode is usually enabled for most modern computers. Its’ role is to keep your computer safe. In order to update to Windows 11 the Secure Boot mode needs to be enabled.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
+### How to enable Secure Boot
+
+1. #### Check if your system supports Secure Boot  
+
+   1. Press Win Key + R. Type msinfo32.exe, and hit Enter.  
+   2. Select System Summary  
+   3. On the right-side pane scroll down and try to find a section named Secure Boot State (as shown in the screenshot)  
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
+   ![secure boot info](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-windows-11-wont-run/guide21-how-to-enable-secure-boot-step-3.png) If the Secure Boot State shows as “Off”, that means that your PC support Secure Boot and just follow this guide in order to enable it.If the Secure Boot State shows as “Unsupported”, that means that your computer hardware does not support Secure Boot. To fix this issue you need to check if your PC supports UEFI mode first.
+
+2. #### Check if your PC supports UEFI mode  
+
+   1. Restart your PC and press the F2/F10/Del key to enter your BIOS  
+   2. Navigate to the Boot Menu. Locate the Boot Mode section and click to see if your computer supports UEFI mode.If you see a UEFI mode, that means that your PC supports this boot mode. If it is currently disabled follow the next steps to enable both UEFI and Secure Mode.Note that, if your computer doesn’t support UEFI mode, you can’t enable Secure Boot and upgrade to Windows 11.
+
+3. #### Enable UEFI Mode and Secure Boot  
+
+##### Enable UEFI Mode  
+
+   1. 1. Restart your PC and press the F2/F10/Del key to enter your BIOS  
+         2. Navigate to the Boot Menu. Locate the Boot Mode section and click to see if your computer supports UEFI mode.  
+         ![uefi mode](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-windows-11-wont-run/guide22-check-if-your-pc-supports-uefi-mode-step-2.jpg)  
+         3. Select UEFI boot mode and press F10 to Save and Exit your BIOS.  
+         ![select uefi mode](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-windows-11-wont-run/guide23-enable-uefi-step-3.jpg)  
+
+##### Enable Secure Boot  
+
+   1. 1. Restart your PC and re-enter your BIOS settings.  
+         2. Navigate to the Boot Menu, select Secure Boot settings and set it to “Enabled”  
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
+         ![enable uefi mode](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-windows-11-wont-run/guide24-enable-secure-boot-step-2.jpg) Once you enable the UEFI mode and Secure Boot you can continue installing the Windows 100 update on your computer.
+
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Guide 3 – How to fix “This PC can’t run Windows 11\. The processor isn’t supported for Windows 11.” error
+
+![processor not supported](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-windows-11-wont-run/guide3-overview.jpg)
+
+ This error message means that your computer processor is not included in the supported processor list.
+
+ We’ve cover this error in a separate article that you can find[here](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1)
+
+## Conclusion
+
+ As a new operating system, every user wants to try out its’ new features. However, because there are minimum system requirements, many users receive the “This PC can’t run Windows” error. The most common reason for the message is the lack of secure boot or TPM 2.0.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
+## We can help you every time when…
+
+* you cannot find the program in the Apps & Features list
+* the program's built-in uninstaller is non-functional
+* you have a lot of leftovers slowing down your computer's performance
+* you want to batch uninstall
+* many more things
+[Download now](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-six-offbeat-sources-for-customized-video-theme-elements/"><u>[New] 2024 Approved  Six Offbeat Sources for Customized Video Theme Elements</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-virtually-vault-securing-your-screened-shows-online/"><u>[New] In 2024, Virtually Vault  Securing Your Screened Shows Online</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-incredible-method-unlock-mac-using-apple-watch/"><u>[New] Incredible Method  Unlock Mac Using Apple Watch</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-instagram-video-magic-techniques-to-elevate-your-social-media-impact/"><u>[New] Instagram Video Magic  Techniques to Elevate Your Social Media Impact</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-ultimate-checklist-for-professional-live-streaming/"><u>[New] The Ultimate Checklist for Professional Live Streaming</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-adjusting-windows-11-settings-for-adaptive-hdr/"><u>2024 Approved  Adjusting Windows 11 Settings for Adaptive HDR</u></a></li>
+<li><a href="https://win-forum.techidaily.com/a-guide-to-navigating-major-social-channels-facebook-twitter-instagram-and-youtube/"><u>A Guide to Navigating Major Social Channels - Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/activating-your-revo-toolbox-with-ease-a-users-manual/"><u>Activating Your Revo Toolbox with Ease – A User's Manual</u></a></li>
+<li><a href="https://win-forum.techidaily.com/connect-with-the-world-on-popular-channels-facebook-twitter-instagram-youtube/"><u>Connect with the World on Popular Channels - Facebook, Twitter, Instagram, Youtube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/connecting-in-a-virtual-world-a-guide-to-facebook-twitter-instagram-and-youtube-usage/"><u>Connecting in a Virtual World: A Guide to Facebook, Twitter, Instagram, and YouTube Usage</u></a></li>
+<li><a href="https://win-forum.techidaily.com/connecting-the-world-through-social-platforms-facebook-twitter-instagram-youtube/"><u>Connecting the World Through Social Platforms: Facebook, Twitter, Instagram, Youtube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/discover-the-power-of-revo-uninstaller-pro-5-advanced-app-removal-solutions/"><u>Discover the Power of Revo Uninstaller Pro 5: Advanced App Removal Solutions</u></a></li>
+<li><a href="https://win-forum.techidaily.com/effective-methods-to-clean-up-bloatware-from-your-windows-pc/"><u>Effective Methods to Clean Up Bloatware From Your Windows PC</u></a></li>
+<li><a href="https://win-forum.techidaily.com/elevate-to-admin-every-open-the-definitive-guide-for-windows-hemove-11-application-access/"><u>Elevate to Admin Every Open - The Definitive Guide for Windows Hemove 11 Application Access</u></a></li>
+<li><a href="https://win-forum.techidaily.com/engage-with-users-through-popular-sites-twitter-youtube-instagram-and-facebook/"><u>Engage with Users Through Popular Sites: Twitter, YouTube, Instagram, & Facebook</u></a></li>
+<li><a href="https://win-forum.techidaily.com/essential-online-platforms-engage-with-facebook-twitter-instagram-and-youtube/"><u>Essential Online Platforms: Engage with Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/expert-tips-on-reverting-from-the-latest-windows-11-patch/"><u>Expert Tips on Reverting From the Latest Windows 11 Patch</u></a></li>
+<li><a href="https://driver-error.techidaily.com/full-disk-alert-in-windows-10-task-manager/"><u>Full Disk Alert in Windows 10 Task Manager</u></a></li>
+<li><a href="https://win-forum.techidaily.com/guide-to-overcoming-the-class-not-registered-bug-in-your-windows-system/"><u>Guide to Overcoming the ‘Class Not Registered’ Bug in Your Windows System</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-lock-on-your-apple-iphone-xs-max-and-ipad-by-drfone-ios/"><u>How to Unlock iCloud lock on your Apple iPhone XS Max and iPad?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-complete-guide-to-the-latest-in-lgs-ultra-clear-monitoring/"><u>In 2024, The Complete Guide to the Latest in LG’s Ultra-Clear Monitoring</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-unleashing-the-power-of-playback-turning-youtube-content-into-engaging-gifs-pcmobile/"><u>In 2024, Unleashing the Power of Playback  Turning YouTube Content Into Engaging GIFs (PC/Mobile)</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-social-media-giants-the-intersection-of-facebook-twitter-instagram-and-youtube/"><u>Navigating Social Media Giants: The Intersection of Facebook, Twitter, Instagram and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-digital-landscape-exploring-facebook-twitter-instagram-and-youtube/"><u>Navigating the Digital Landscape: Exploring Facebook, Twitter, Instagram & Youtube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-worlds-most-influential-social-sites-a-closer-look-at-facebook-twitter-instagram-and-youtube/"><u>Navigating the World's Most Influential Social Sites: A Closer Look at Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/optimize-system-performance-in-windows-11-by-learning-how-to-defrag-using-revo-uninstaller/"><u>Optimize System Performance in Windows 11 by Learning How to Defrag Using Revo Uninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/overcoming-unforeseen-complications-in-windows-11-fixing-unexpected-execution-errors/"><u>Overcoming Unforeseen Complications in Windows 11: Fixing Unexpected Execution Errors</u></a></li>
+<li><a href="https://win-forum.techidaily.com/quick-guide-terminating-unresponsive-windows-programs-with-ease/"><u>Quick Guide: Terminating Unresponsive Windows Programs with Ease</u></a></li>
+<li><a href="https://win-forum.techidaily.com/social-media-titans-for-digital-communication-friendbook-tweetspace-picturegram-and-vidicast/"><u>Social Media Titans for Digital Communication: Friendbook, TweetSpace, PictureGram & VidiCast</u></a></li>
+<li><a href="https://win-forum.techidaily.com/social-medias-big-four-exploring-facebook-twitter-instagram-and-youtube/"><u>Social Media's Big Four: Exploring Facebook, Twitter, Instagram and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-powerhouse-quartet-of-social-networking-facebook-to-youtube/"><u>The Powerhouse Quartet of Social Networking: Facebook to YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-ultimate-guide-to-keeping-your-laptop-running-smoothly-with-updated-windows-10-drivers/"><u>The Ultimate Guide to Keeping Your Laptop Running Smoothly with Updated Windows 10 Drivers</u></a></li>
+</ul></div>
