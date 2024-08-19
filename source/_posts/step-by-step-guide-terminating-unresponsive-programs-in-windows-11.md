@@ -1,0 +1,204 @@
+---
+title: "Step-by-Step Guide: Terminating Unresponsive Programs in Windows 11"
+date: 2024-08-18T11:07:53.384Z
+updated: 2024-08-19T11:07:53.384Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - tips
+description: "This Article Describes Step-by-Step Guide: Terminating Unresponsive Programs in Windows 11"
+excerpt: "This Article Describes Step-by-Step Guide: Terminating Unresponsive Programs in Windows 11"
+thumbnail: https://thmb.techidaily.com/81ebff8fdaf42fd74fab3caf1df319bd8e37362bcaaab93f9b1c17f1267af060.png
+---
+
+## Navigating the Digital Sphere with Leading Platforms: Facebook, Twitter, Instagram & Youtube Guides
+
+## [How to Speed up Windows 11 boot time](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1)
+
+* Share
+* [](http://www.facebook.com/share.php?u=https://www.revouninstaller.com/blog/how-to-speed-up-windows-11-boot-time/&title=How+to+Speed+up+Windows+11+boot+time)
+* [](https://twitter.com/intent/tweet?text=How+to+Speed+up+Windows+11+boot+time&url=https://www.revouninstaller.com/blog/how-to-speed-up-windows-11-boot-time/ "Click to share on Twitter")
+* [](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1)
+
+[How to Speed up Windows 11 boot time](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/speed-up-windows-11-boot-time/cover.png) ](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1)
+
+ Windows 11 is Microsoft’s latest operating system, and it’s designed to be faster and more efficient than its predecessors. However, if your computer takes too long to boot up, it can be frustrating and time-consuming. Here are some tips on how to speed up your Windows 11 boot time.
+
+Here are the methods you can use to speed up your Windows 11 boot time:
+
+1. [Disable startup programs](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1)
+2. [Remove unnecessary files and programs](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1)
+3. [Enable Fast Startup](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1)
+4. [Defragment your hard drive](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1)
+5. [Use an SSD](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1)
+6. [Adjust BIOS settings](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1)
+
+## I. Disable startup programs in Windows 11
+
+ Windows 11 comes with several programs that start automatically with the operating system. While some of these programs may be useful, others can slow down your computer’s startup and take up valuable resources. Disabling unnecessary startup programs can help speed up your Windows 11 boot time. This is how you can disable them:
+
+1. Press**Windows + I** to open Windows**Settings** .
+2. Click the**Apps** tab from the sidebar and tap on**Startup** in the right-hand pane to view all your startup apps.  
+![startup tab](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/speed-up-windows-11-boot-time/disable-startup-programs-in-windows-11-step-2.jpg)
+3. Finally, toggle the switch next to the apps you don’t want to run at startup. Under the toggle switch, you’ll see the status impact of each, which indicates what disabling them does to your system.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
+## II. Remove unnecessary files and programs
+
+ Over time, your computer may become cluttered with unnecessary files and programs that can slow down your computer’s startup time. By removing these files and programs, you can speed up your Windows 11 boot time and improve your overall computer performance.
+
+ We’ve covered in this[article](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1) how you can remove unnecessary files and programs with Revo Uninstaller and many other methods.
+
+## III. Enable Fast Startup
+
+ Windows 11 comes with a variety of features that can help speed up your computer’s boot time. One such feature is Fast Startup, which allows your computer to start up faster by using a hybrid sleep mode that saves system information to a file on the hard drive.
+
+Here is how you can turn Fast Starup On:
+
+1. Press**Win + R** to open**Run** .
+2. Type`control` and click**OK** to open the Control Panel.
+3. Go to**System and Security** and then click on**Power Options** .  
+![startup options](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/speed-up-windows-11-boot-time/enable-fast-startup-step-2.png)
+4. In the left pane, click on**Choose what the power buttons do** .
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
+5. Next, click the**Change settings that are currently unavailable** link.
+6. Under the**Shutdown settings** section, check the**Turn on fast startup (recommended)** option to turn on the feature.
+7. Uncheck the**Turn on fast startup option** to turn it off.  
+![fast startup](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/speed-up-windows-11-boot-time/enable-fast-startup-step-5.jpg)
+8. Click**Save changes** to apply the changes.
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## IV. Defragment your hard drive
+
+ If you are experiencing slow boot times on your Windows 11 computer, one possible cause could be a fragmented hard drive.
+
+ Defragmenting your hard drive in Windows 11 is a simple process. Here are the steps to follow:
+
+1. Press the Windows key + S to open the search bar.
+2. Type in “Defragment and Optimize Drives” and select it from the search results.
+3. Select the hard drive you want to defragment.  
+![defragment hard drive](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/speed-up-windows-11-boot-time/defragment-your-hard-drive-step-3.png)
+4. Click on the Optimize button.
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+5. Wait for the defragmentation process to complete.
+
+## V. Use an SSD
+
+ If you have a modern PC running Windows 11, chances are that it uses an SSD (Solid State Drive), which is faster than a traditional hard disk drive. However, if you’re experiencing slow boot times, upgrading to a new SSD can help improve your boot time.
+
+ In addition to upgrading your SSD, another way to speed up your PC’s boot time is to upgrade your RAM. With more RAM, your PC will have more volatile memory available to load temporary items, resulting in faster boot times and an overall improvement in your PC’s performance.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
+## VI. Adjust BIOS settings for faster Windows 11 boot time
+
+ Adjusting the BIOS settings can help speed up the boot time on your Windows 11 computer. Here are the steps you need to follow in order to adjust your BIOS settings to improve your Windows 11 boot time:
+
+1. Accessing the BIOSWe’ve covered in depth[how to access your BIOS settings](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1) .
+2. Changing the Boot OrderOnce you have accessed the BIOS, you need to change the boot order to prioritize the drive that contains your Windows 11 operating system. To do this, navigate to the Boot tab and find the option called “Boot Order” or “Boot Priority.” Use the arrow keys to move the boot drive with Windows 11 to the top of the list.
+3. Disabling Unused DevicesDisabling unused devices can help speed up the boot time of your Windows 11 computer. In the BIOS, navigate to the Peripheral or Integrated Devices section and look for devices that you don’t use, such as serial ports or parallel ports. Disable these devices by selecting them and pressing Enter, then selecting Disabled or Off.
+4. Enabling Fast BootMost modern BIOS systems have a Fast Boot option that can help speed up the boot time of your computer. In the BIOS, navigate to the Boot tab and look for the Fast Boot option. Enable it by selecting it and pressing Enter, then selecting Enabled or On.
+5. Saving Changes and Exiting the BIOSAfter making the necessary changes, save your settings and exit the BIOS. To do this, navigate to the Exit tab and select Save Changes and Exit, then confirm your choice.
+
+ In conclusion, these are some tips on how to speed up your Windows 11 boot time. By following these steps, you can optimize your computer’s performance and reduce the time it takes to start up.
+
+![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
+
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## We can help you every time when…
+
+* you cannot find the program in the Apps & Features list
+* the program's built-in uninstaller is non-functional
+* you have a lot of leftovers slowing down your computer's performance
+* you want to batch uninstall
+* many more things
+[Download now](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-reaping-rewards-a-comprehensive-guide-to-7-14-stardew-mods/"><u>[New] 2024 Approved  Reaping Rewards  A Comprehensive Guide to #7-14 Stardew Mods</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-explore-free-options-10-leading-mac-artists-preferences/"><u>[New] Explore Free Options  10 Leading Mac Artists' Preferences</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-finding-gratuitous-software-for-streaming-online-seminars-for-2024/"><u>[New] Finding Gratuitous Software for Streaming Online Seminars for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-navigate-instagram-video-problems-with-ease-for-2024/"><u>[New] Navigate Instagram Video Problems with Ease for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-5-essential-ios-downloader-apps-for-your-favorite-facebook-videos-for-2024/"><u>[Updated] 5 Essential iOS Downloader Apps for Your Favorite Facebook Videos for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-crafting-revenue-in-20-second-chunks-youtube-shorts-magic/"><u>[Updated] In 2024, Crafting Revenue in 20-Second Chunks  YouTube Shorts Magic</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-from-flat-to-fantastic-animated-text-transformations/"><u>[Updated] In 2024, From Flat to Fantastic  Animated Text Transformations</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-secrets-from-pros-how-to-convert-insta-videos-to-premium-mp4/"><u>[Updated] Secrets From Pros  How to Convert Insta Videos to Premium MP4</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-perfecting-cgi-in-depth-tutorial-for-kinemaster-users/"><u>2024 Approved  Perfecting CGI  In-Depth Tutorial for Kinemaster Users</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-win11-easy-capture-and-save-tool/"><u>2024 Approved  Win11 Easy Capture & Save Tool</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/beyond-social-media-norms-the-distinctive-features-of-triller-for-2024/"><u>Beyond Social Media Norms  The Distinctive Features of Triller for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/eliminating-unwanted-glances-the-ultimate-fb-privacy-guide/"><u>Eliminating Unwanted Glances: The Ultimate FB Privacy Guide</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-the-giants-of-social-platforms-facebook-twitter-instagram-and-youtube/"><u>Exploring the Giants of Social Platforms: Facebook, Twitter, Instagram and YouTube</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/exploring-the-j5-pro-a-miniaturized-indestructible-night-vision-tool-reviewed-for-ultimate-brightness-and-portability/"><u>Exploring the J5 Pro: A Miniaturized, Indestructible Night Vision Tool Reviewed for Ultimate Brightness & Portability</u></a></li>
+<li><a href="https://win-forum.techidaily.com/find-out-your-windows-10s-powershell-version-with-this-quick-method/"><u>Find Out Your Windows 10'S PowerShell Version with This Quick Method</u></a></li>
+<li><a href="https://win-forum.techidaily.com/fix-your-persistent-windows-explorer-problems-with-these-7-tactics/"><u>Fix Your Persistent Windows Explorer Problems with These 7 Tactics</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-non-working-keys-focus-on-windows-enter/"><u>Fixing Non-Working Keys: Focus on Windows Enter</u></a></li>
+<li><a href="https://win-forum.techidaily.com/harnessing-remote-power-how-to-setup-and-activate-wake-on-lan-on-windows-operating-systems-windows-1011/"><u>Harnessing Remote Power: How to Setup and Activate Wake-on-LAN on Windows Operating Systems (Windows 10/11)</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-edit-delete-and-create-registry-keys-revouninstaller/"><u>How to Edit, Delete and Create Registry Keys - RevoUninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-manage-and-delete-memory-dumps-on-your-windows-11-pc/"><u>How To: Manage and Delete Memory Dumps on Your Windows 11 PC</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-vivo-v29-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Vivo V29 | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-uncovering-other-powerful-video-players-beyond-vlc/"><u>In 2024, Uncovering Other Powerful Video Players Beyond VLC</u></a></li>
+<li><a href="https://win-forum.techidaily.com/master-the-command-ensuring-all-programs-launch-as-administrator-on-your-windows-11-pc/"><u>Master the Command: Ensuring All Programs Launch as Administrator on Your Windows 11 PC</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-the-art-of-remote-pc-awakening-on-windows-11-using-wake-on-lan/"><u>Mastering the Art of Remote PC Awakening on Windows 11 Using Wake-on-LAN</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-your-systems-bios-with-the-help-of-revo-uninstaller-techniques/"><u>Mastering Your System's BIOS with the Help of Revo Uninstaller Techniques</u></a></li>
+<li><a href="https://win-forum.techidaily.com/maximize-storage-efficiency-remove-files-and-apps-in-windows-11-using-revo-uninstaller/"><u>Maximize Storage Efficiency: Remove Files & Apps in Windows 11 Using Revo Uninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/maximize-your-storage-efficiently-clearing-disk-space-on-windows-11/"><u>Maximize Your Storage: Efficiently Clearing Disk Space on Windows 11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mordhau-crashes-no-more-expert-solutions-and-troubleshooting-guide/"><u>Mordhau Crashes No More: Expert Solutions & Troubleshooting Guide</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigate-digital-connections-on-popular-channels-fb-twttr-insta-and-ytub/"><u>Navigate Digital Connections on Popular Channels: FB, Twttr, Insta & YTub</u></a></li>
+<li><a href="https://win-forum.techidaily.com/protecting-files-from-unauthorized-access-how-to-encrypt-text-files/"><u>Protecting Files From Unauthorized Access: How to Encrypt Text Files</u></a></li>
+<li><a href="https://win-forum.techidaily.com/reverting-windows-11-enhancements-a-comprehensive-how-to-guide/"><u>Reverting Windows 11 Enhancements: A Comprehensive How-To Guide</u></a></li>
+<li><a href="https://win-forum.techidaily.com/securing-your-documents-a-step-by-step-guide-to-encrypting-text-files/"><u>Securing Your Documents: A Step-by-Step Guide to Encrypting Text Files</u></a></li>
+<li><a href="https://win-forum.techidaily.com/social-media-showdown-benchmarks-for-facebook-twitter-instagram-and-youtube-engagement-strategies/"><u>Social Media Showdown: Benchmarks for Facebook, Twitter, Instagram, and YouTube Engagement Strategies</u></a></li>
+<li><a href="https://win-forum.techidaily.com/social-media-success-tactics-engaging-audiences-across-facebook-twitter-instagram-and-youtube/"><u>Social Media Success Tactics: Engaging Audiences Across Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/solving-the-app-cannot-execute-issue-a-step-by-step-guide/"><u>Solving the 'App Cannot Execute' Issue: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-process-to-completely-remove-troublesome-folders-in-windows-revo-uninstaller/"><u>Step-by-Step Process to Completely Remove Troublesome Folders in WINDOWS (Revo Uninstaller)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-missing-mcuicnt-file-execution-issue-on-windows/"><u>Tackling Missing McUICnt File Execution Issue on Windows</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-big-four-in-digital-communication-unpacking-facebook-twitter-instagram-and-youtube/"><u>The Big Four in Digital Communication: Unpacking Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-complete-how-to-for-implementing-wake-on-lan-technology-on-windows-11-devices/"><u>The Complete How-To for Implementing Wake-on-LAN Technology on Windows 11 Devices</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-essential-quartet-of-social-media-understanding-facebook-twitter-instagram-and-youtube/"><u>The Essential Quartet of Social Media: Understanding Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-quintessential-social-media-quartet-for-digital-marketing-facebook-twitter-instagram-youtube/"><u>The Quintessential Social Media Quartet for Digital Marketing: Facebook, Twitter, Instagram, YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-social-media-titans-maximizing-reach-on-facebook-twitter-instagram-and-youtube/"><u>The Social Media Titans: Maximizing Reach on Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-ultimate-guide-clearing-out-user-profile-data-on-your-windows-10-machine/"><u>The Ultimate Guide: Clearing Out User Profile Data on Your Windows 10 Machine</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-ultimate-social-circle-mastering-engagement-on-facebook-twitter-instagram-and-youtube/"><u>The Ultimate Social Circle: Mastering Engagement on Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-giants-of-online-networks-exploring-facebook-twitter-instagram-and-youtube/"><u>Top Giants of Online Networks: Exploring Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/troubleshooting-the-plan-not-executed-issue-on-windows-11/"><u>Troubleshooting the 'Plan Not Executed' Issue on Windows 11</u></a></li>
+<li><a href="https://extra-information.techidaily.com/virtual-verification-a-new-look-at-app-quality/"><u>Virtual Verification  A New Look at App Quality</u></a></li>
+</ul></div>
