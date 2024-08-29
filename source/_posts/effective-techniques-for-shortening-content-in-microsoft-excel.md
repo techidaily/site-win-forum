@@ -1,7 +1,7 @@
 ---
 title: Effective Techniques for Shortening Content in Microsoft Excel
-date: 2024-08-26 11:30:42
-updated: 2024-08-29 10:39:22
+date: 2024-08-28T04:29:03.640Z
+updated: 2024-08-29T04:29:03.640Z
 tags:
   - excel
 categories:
@@ -49,6 +49,9 @@ Related: [How to Count Characters in Microsoft Excel](https://fox-http.techidail
 
 ![Keep eight characters on the right](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/RIGHT8-ExcelTruncateText.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Truncate Text in Excel with LEFT or LEFTB
 
  The LEFT and LEFTB functions work like the RIGHT and RIGHTB functions where you use either the number of characters or bytes respectively. But with these [functions](https://visual-screen-recording.techidaily.com/in-2024-a-step-by-step-recorder-for-discord-enthusiasts/), you're shortening your text string from the opposite side.
@@ -63,12 +66,22 @@ Related: [12 Basic Excel Functions Everybody Should Know](https://visual-screen-
 
 ![Keep 32 characters on the left](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/LEFT32-ExcelTruncateText.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
  For another example, we want to keep only the first word in the string. This formula retains only the first four characters on the left.
 
 =LEFT(A2,4)
 
 ![Keep four characters on the left](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/LEFT4-ExcelTruncateText.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Truncate Text in Excel with MID or MIDB
 
  If the [text that you want to keep](https://youtube-web.techidaily.com/024-approved-ultimate-routine-personalize-your-youtube-shorts-image-credits/) is in the middle of a text string, you'll use the MID or MIDB functions. These functions are like the other two in that you enter a number or characters for MID and number of bytes for MIDB.
@@ -83,12 +96,19 @@ Related: [How to Shrink or Expand Cells to Fit Text in Microsoft Excel](https://
 
 ![Keep 24 characters in the middle](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/MID35-ExcelTruncateText.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<!-- affiliate ads end -->
  As another example, using the following formula you can shorten the text in cell A2 and keep only the second word. We use 6 for the `start` argument and 3 for the `number_characters` argument.
 
 =MID(A2,6,3)
 
 ![Keep three characters in the middle](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/MID6-ExcelTruncateText.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
  Shortening text in your sheet may be necessary or simply something you prefer. These [functions and formulas](https://games-able.techidaily.com/is-premium-play-on-demand-worth-it/) help you truncate text in Excel from the right, left, or middle, as you need it.
 
 Related: [How to Add Text to a Cell With a Formula in Excel](https://buynow-reviews.techidaily.com/a-comprehensive-review-top-long-reach-routers-dominating-the-market-in-ebytes/)
@@ -107,3 +127,40 @@ Related: [How to Add Text to a Cell With a Formula in Excel](https://buynow-revi
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-the-secret-sauce-to-viral-instagram-movie-magic/"><u>[New] 2024 Approved  The Secret Sauce to Viral Instagram Movie Magic</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-learn-to-record-your-xbox-games-with-ease/"><u>[New] Learn to Record Your Xbox Games with Ease</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-best-splashproof-cameras-for-child-filmmakers-in-rainy-days-for-2024/"><u>[Updated] Best Splashproof Cameras For Child Filmmakers in Rainy Days for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/8-best-free-websites-for-3d-text-psd-files-for-2024/"><u>8 Best Free Websites for 3D Text PSD Files for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-practices-for-hospitals-social-media-health-promos-for-2024/"><u>Best Practices for Hospitals' Social Media Health Promos for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/digital-engagement-essentials-mastering-the-art-on-facebook-twitter-instagram-and-youtube/"><u>Digital Engagement Essentials: Mastering the Art on Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/digital-interaction-hubs-unpacking-the-phenomenon-of-facebook-twitter-instagram-and-youtube/"><u>Digital Interaction Hubs - Unpacking the Phenomenon of Facebook, Twitter, Instagram and YouTube.</u></a></li>
+<li><a href="https://win-forum.techidaily.com/engage-and-grow-with-key-social-media-sites-facebook-twitter-instagram-and-youtube/"><u>Engage and Grow with Key Social Media Sites: Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/expert-advice-how-to-use-revo-uninstaller-for-total-erasure-of-folders-in-windows-11/"><u>Expert Advice: How to Use Revo Uninstaller for Total Erasure of Folders in Windows 11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/fixing-unforeseen-issues-tackling-the-unexpected-planning-failure-in-windows-11/"><u>Fixing Unforeseen Issues: Tackling the Unexpected Planning Failure in Windows 11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/guide-to-finding-and-checking-your-powershell-version-on-windows-11/"><u>Guide to Finding and Checking Your PowerShell Version on Windows 11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-delete-user-profile-in-windows-11-revouninstaller/"><u>How to Delete User Profile in Windows 11 - RevoUninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-perform-factory-reset-windows-10-revo-uninstaller-pro-4/"><u>How to Perform Factory Reset Windows 10 - Revo Uninstaller Pro 4</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-infinix-hot-40-pro-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Infinix Hot 40 Pro to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-6-proven-ways-to-unlock-infinix-hot-40i-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Infinix Hot 40i Phone When You Forget the Password</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-xiaomi-redmi-note-13-proplus-5g-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Xiaomi Redmi Note 13 Pro+ 5G Pattern Lock Screen</u></a></li>
+<li><a href="https://win-forum.techidaily.com/master-the-art-of-fixing-recurring-windows-explorer-breakdowns-top-7-methods-revealed/"><u>Master the Art of Fixing Recurring Windows Explorer Breakdowns - Top 7 Methods Revealed</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-remote-power-on-a-comprehensive-tutorial-for-windows-10-and-11-users/"><u>Mastering Remote Power On: A Comprehensive Tutorial for Windows 10 and 11 Users</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-digital-sphere-an-insight-into-facebook-twitter-instagram-and-youtube-usage/"><u>Navigating the Digital Sphere: An Insight Into Facebook, Twitter, Instagram & YouTube Usage</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-world-of-third-party-software-uninstallers-are-they-worth-it/"><u>Navigating the World of Third-Party Software Uninstallers - Are They Worth It?</u></a></li>
+<li><a href="https://win-forum.techidaily.com/quickstart-guide-accelerating-your-windows-11-booting-process/"><u>QuickStart Guide: Accelerating Your Windows 11 Booting Process</u></a></li>
+<li><a href="https://win-forum.techidaily.com/seamless-elevation-tactics-for-enhanced-app-functionality-in-windows-nix/"><u>Seamless Elevation Tactics for Enhanced App Functionality in Windows Nix</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-complete-guide-to-help-you-convert-srt-to-xml-ssa-ttml-and-othe/"><u>The Complete Guide to Help You Convert SRT to XML, SSA, TTML, and Othe</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-powerhouses-of-social-media-a-closer-look-at-facebook-twitter-instagram-and-youtube/"><u>The Powerhouses of Social Media: A Closer Look at Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-top-four-navigating-the-giants-of-social-networking-facebook-twitter-instagram-and-youtube/"><u>The Top Four: Navigating the Giants of Social Networking - Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-4-social-networking-titans-mastering-facebook-twitter-instagram-and-youtube-engagement/"><u>Top 4 Social Networking Titans: Mastering Facebook, Twitter, Instagram, and YouTube Engagement</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-digital-networking-sites-facebook-tweetdeck-gramfeed-and-videohub-youtube/"><u>Top Digital Networking Sites: FaceBook, TweetDeck, GramFeed, and VideoHub (YouTube)</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-giants-of-online-networking-facebook-twitter-instagram-youtube/"><u>Top Giants of Online Networking - Facebook | Twitter | Instagram | YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-social-networks-unveiled-exploring-facebook-twitter-instagram-and-youtube/"><u>Top Social Networks Unveiled: Exploring Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/troubleshooting-unforeseen-issues-the-windows-11-guide-to-unexpected-mishaps/"><u>Troubleshooting Unforeseen Issues: The Windows 11 Guide to Unexpected Mishaps</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-playfields-trophies-terrains/"><u>Ultimate Playfields: Trophies Terrains</u></a></li>
+<li><a href="https://win-forum.techidaily.com/waking-up-remotely-enabling-wake-on-lan-on-your-latest-windows-pcs/"><u>Waking Up Remotely: Enabling Wake-on-LAN on Your Latest Windows PCs</u></a></li>
+<li><a href="https://win-forum.techidaily.com/windows-11-users-learn-how-to-delete-system-memory-dumps-easily/"><u>Windows 11 Users! Learn How to Delete System Memory Dumps Easily</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Essential 10 Command Line Utilities Every New PC User Must Know
-date: 2024-08-27 23:54:38
-updated: 2024-08-29 12:34:34
+date: 2024-08-28T04:28:02.285Z
+updated: 2024-08-29T04:28:02.285Z
 tags:
   - windows
 categories:
@@ -50,6 +50,9 @@ cd C:\Windows\System32
 
  It's all about making your file system a lot more accessible. For a deeper dive into changing directories on Windows, learn [how to change directories in command prompt on Windows 10](https://extra-information.techidaily.com/quick-and-easy-iphone-burst-techniques/).
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2  dir: List Directory Contents 
 
  Do you want to see what's inside a folder without opening it? The dir (directory) command is your answer. It lists all files and directories right in the terminal. Just type **dir** to get a list of everything in the current directory.
@@ -70,12 +73,24 @@ mkdir NewFolder
 
 ![Using the mkdir command in Windows to create a new directory.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/mkdir_newfolder.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
  This command is a great way to keep your system organized.
 
  If you want to create a nested directory structure in one go, you can use the **mkdir a\\b\\c** command. This command will create directory "a," and within "a," it will create directory "b," and within "b," it will create directory "c." It's a convenient way to set up multiple levels of directories with a single command rather than having to create each directory individually.
 
 ![Using mkdir to create nested directories in Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/mkdir_nested.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ## 4  rmdir: Remove Directories 
 
  Do you have an empty folder you don’t need? The rmdir (remove directory) command will take care of it. But if it’s not empty, you’ll need a different approach. To remove an empty directory, simply type:
@@ -94,6 +109,9 @@ rmdir NewFolder
 
  If you need more information on a specific command, simply enter help followed by the command. For example, if you need more information on the rmdir command, type the **help rmdir** command.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5  del: Delete Files 
 
  Do you need to delete a file? The del command will do it. Use it wisely because once it's gone, it's gone (sort of). [Deleted files on hard drives aren't immediately erased](https://screen-recording.techidaily.com/updated-enhancing-facebook-viewership-with-obs-broadcasts/), while on solid-state drives, the data may be wiped more quickly.
@@ -134,6 +152,9 @@ move file.txt C:\Backup
 
 ![Using the move command in Windows to move a file to a new location.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/move_tobackup.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ## 8  type: Display the Contents of a Text File 
 
  Do you want to peek inside a text file without opening it? The type command displays its contents right in the terminal. This can be done by entering type followed by the text file you want to read. To read file.txt, use this command:
@@ -142,14 +163,26 @@ type file.txt
 
 ![Using the type command in Windows to display the contents of a text file.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/type_file.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
  The cls command clears all text from the terminal screen, giving you a clean slate to work from.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ## 9  systeminfo: View System Information 
 
  The systeminfo command provides an [overview of your Windows system](https://phone-solutions.techidaily.com/complete-guide-for-recovering-music-files-on-redmi-k70-pro-by-fonelab-android-recover-music/), perfect for troubleshooting or satisfying your curiosity. It displays information such as the operating system version, processor type, and installed RAM. It also includes details about the computer's network configuration.
 
 ![Using the systeminfo command in Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/systeminfo.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 10  tree: Display Directory Structure 
 
  The tree command displays a graphical representation of the directory structure of a drive or path. It's a handy way to see the layout of your files and folders. To see the structure of the Users directory, type this command:
@@ -158,6 +191,9 @@ tree C:\Users
 
 ![Using the tree command to see the structure of the Users folder in Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/tree.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 ---
 
  So there you have it: 10 basic Windows commands for beginners that will make you feel like a computer whiz. Practice these commands, and you'll soon be navigating, managing, and troubleshooting your Windows system with ease. Keep exploring, keep experimenting, and watch your command-line skills grow.
@@ -176,3 +212,49 @@ tree C:\Users
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-extract-translate-and-save-youtube-subtitles-for-free/"><u>[New] In 2024, Extract, Translate & Save YouTube Subtitles for FREE</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-in-depth-tutorial-effective-screenshot-practices-on-lenovo/"><u>[New] In 2024, In-Depth Tutorial  Effective Screenshot Practices on Lenovo</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-maximizing-memories-the-ultimate-guide-for-overwatch-players/"><u>[New] In 2024, Maximizing Memories  The Ultimate Guide for Overwatch Players</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-elevate-your-artistry-the-finest-android-drawing-apps-reviewed/"><u>[Updated] In 2024, Elevate Your Artistry  The Finest Android Drawing Apps Reviewed</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-core-principles-for-online-storytelling-craftsmanship/"><u>2024 Approved  Core Principles for Online Storytelling Craftsmanship</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-crystal-clear-capture-amping-up-your-home-studio-recordings/"><u>2024 Approved  Crystal Clear Capture  Amping Up Your Home Studio Recordings</u></a></li>
+<li><a href="https://win-forum.techidaily.com/bypass-the-restrictions-install-windows-11-on-unsupported-processor-models/"><u>Bypass the Restrictions: Install Windows 11 on Unsupported Processor Models</u></a></li>
+<li><a href="https://win-forum.techidaily.com/clear-cache-made-easy-on-windows-11-using-software-name-what-you-need-to-know/"><u>Clear Cache Made Easy on Windows 11 Using [Software Name]: What You Need to Know</u></a></li>
+<li><a href="https://win-forum.techidaily.com/connecting-in-a-connected-world-unraveling-the-secrets-of-facebook-twitter-instagram-and-youtube/"><u>Connecting in a Connected World: Unraveling The Secrets of Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/connecting-the-world-on-digital-platforms-an-insight-into-facebook-twitter-instagram-and-youtube/"><u>Connecting the World on Digital Platforms - An Insight Into Facebook, Twitter, Instagram & Youtube</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/correct-windows-11-printer-connection-fails/"><u>Correct Windows 11 Printer Connection Fails</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/enhance-and-refine-techniques-for-optimizing-video-resolution-with-advanced-video-enhancement-tools/"><u>Enhance and Refine: Techniques for Optimizing Video Resolution with Advanced Video Enhancement Tools</u></a></li>
+<li><a href="https://win-forum.techidaily.com/expert-tips-on-disentangling-from-recent-windows-11-upgrades/"><u>Expert Tips on Disentangling From Recent Windows 11 Upgrades</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-digital-communication-hubs-the-power-of-facebook-twitter-instagram-against-youtube-dominance/"><u>Exploring Digital Communication Hubs: The Power of Facebook, Twitter, Instagram Against YouTube Dominance</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-digital-conversations-on-facebook-twitter-instagram-and-youtube/"><u>Exploring Digital Conversations on Facebook, Twitter, Instagram and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/1722915373130-exploring-the-giants-of-online-networking-facebook-twitter-instagram-and-youtube/"><u>Exploring the Giants of Online Networking: Facebook, Twitter, Instagram and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-clean-out-persistent-folders-from-your-system-a-guide-for-windows-1011-users-with-revo-uninstaller/"><u>How to Clean Out Persistent Folders From Your System: A Guide for Windows 10/11 Users with Revo Uninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-factory-reset-windows-11-revouninstaller/"><u>How to Factory Reset Windows 11 - RevoUninstaller</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-xiaomi-redmi-note-12-pro-4g-to-mac-drfone-by-drfone-android/"><u>How to Mirror Xiaomi Redmi Note 12 Pro 4G to Mac? | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/how-to-skyrocket-likes-and-views-on-your-tiktok-unboxings/"><u>How to Skyrocket 'Likes' And Views on Your TikTok Unboxings</u></a></li>
+<li><a href="https://win-forum.techidaily.com/improve-performance-a-comprehensive-guide-on-driver-updates-for-windows-11-via-revo-uninstaller/"><u>Improve Performance: A Comprehensive Guide on Driver Updates for Windows 11 via Revo Uninstaller</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-motorola-moto-g14-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Motorola Moto G14 without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/installing-windows-13-on-incompatible-cpus-using-tricks-and-techniques-comprehensive-tutorial/"><u>Installing Windows 13 on Incompatible CPUs Using Tricks & Techniques - Comprehensive Tutorial</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-giants-of-social-sharing-a-guide-to-facebook-twitter-instagram-and-youtube/"><u>Navigating the Giants of Social Sharing: A Guide to Facebook, Twitter, Instagram & Youtube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-social-spectrum-a-guide-to-facebook-twitter-instagram-and-youtube/"><u>Navigating the Social Spectrum: A Guide to Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-world-of-social-media-insights-on-facebook-twitter-instagram-and-youtube/"><u>Navigating the World of Social Media: Insights on Facebook, Twitter, Instagram & Youtube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-through-top-digital-platforms-insights-into-facebook-twitter-instagram-and-youtube-strategies/"><u>Navigating Through Top Digital Platforms: Insights Into Facebook, Twitter, Instagram, and YouTube Strategies</u></a></li>
+<li><a href="https://win-forum.techidaily.com/simplifying-computer-management-dive-into-the-features-of-revo-uninstaller-pro-5/"><u>Simplifying Computer Management: Dive Into the Features of Revo Uninstaller Pro 5</u></a></li>
+<li><a href="https://win-forum.techidaily.com/social-media-mastery-unlocking-the-secrets-of-facebook-twitter-instagram-and-youtube/"><u>Social Media Mastery: Unlocking the Secrets of Facebook, Twitter, Instagram & Youtube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/solving-application-cannot-be-launched-on-your-computer-issue/"><u>Solving 'Application Cannot Be Launched on Your Computer' Issue</u></a></li>
+<li><a href="https://win-forum.techidaily.com/solving-performance-issues-in-wsappx-techniques-to-reduce-high-disk-and-cpu-usage/"><u>Solving Performance Issues in WSAPPX: Techniques to Reduce High Disk and CPU Usage</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-power-of-digital-connection-mastering-facebook-twitter-instagram-and-youtube/"><u>The Power of Digital Connection: Mastering Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-power-of-social-media-giants-navigating-facebook-twitter-instagram-youtube/"><u>The Power of Social Media Giants: Navigating Facebook, Twitter, Instagram, YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-powerhouse-platforms-strategies-for-mastery-on-facebook-twitter-instagram-and-youtube/"><u>The Powerhouse Platforms: Strategies for Mastery on Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-ultimate-comparison-of-leading-social-media-giants-facebook-vs-twitter-vs-instagram-vs-youtube/"><u>The Ultimate Comparison of Leading Social Media Giants: Facebook Vs. Twitter Vs. Instagram Vs. YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-digital-giants-navigating-through-facebook-twitter-instagram-and-youtube/"><u>Top Digital Giants: Navigating Through Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/1722915295243-top-platforms-in-social-networking-exploring-facebook-twitter-instagram-and-youtube/"><u>Top Platforms in Social Networking: Exploring Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/troubleshooting-tips-to-address-maximum-storage-space-consumption-in-windows-11/"><u>Troubleshooting Tips to Address Maximum Storage Space Consumption in Windows 11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/1722915145446-understanding-digital-interaction-the-powerhouses-facebook-twitter-instagram-and-youtube/"><u>Understanding Digital Interaction: The Powerhouses - Facebook, Twitter, Instagram & Youtube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/unveiling-the-trick-to-dispose-of-non-standard-apps-from-your-pc/"><u>Unveiling the Trick to Dispose of Non-Standard Apps From Your PC</u></a></li>
+<li><a href="https://win-forum.techidaily.com/what-is-the-windows-registry-revouninstaller/"><u>What Is the Windows Registry - RevoUninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/1723008614501-xcom-2-stability-improved-say-goodbye-to-windows-crashes/"><u>XCOM 2 Stability Improved – Say Goodbye to Windows Crashes</u></a></li>
+</ul></div>

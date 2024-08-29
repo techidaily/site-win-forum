@@ -1,7 +1,7 @@
 ---
 title: "1. Uncover Hidden Gems: Essential Yet Overlooked Windows Functionality"
-date: 2024-08-28 13:46:53
-updated: 2024-08-29 10:37:34
+date: 2024-08-28T04:27:56.457Z
+updated: 2024-08-29T04:27:56.457Z
 tags:
   - windows
 categories:
@@ -44,6 +44,9 @@ thumbnail: https://thmb.techidaily.com/7031118575fc7c4b871e9bc0318e22904e8a5da64
 
 ![Adjusting the volume and muting an app in Volume Mixer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/2-adjusting-the-volume-and-muting-an-app-in-volume-mixer.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Minimize the Blue Light Emission
 
  Have you ever found it harder to sleep after using your laptop at night? This happens because blue light emitted from the screen suppresses the production of melatonin, a hormone that makes you sleepy. Windows offers a solution with its [Night Light feature](https://buynow-tips.techidaily.com/get-ready-to-roll-with-the-revolutionary-dash-from-wonder-workshop-our-complete-analysis/), which reduces blue light emission, making the display easier on your eyes and less disruptive to your circadian rhythm.
@@ -54,6 +57,9 @@ thumbnail: https://thmb.techidaily.com/7031118575fc7c4b871e9bc0318e22904e8a5da64
 
 ![Changing the night light feature settings in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/3-changing-the-night-light-feature-settings-in-the-windows-settings-app.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Automatically Lock Your Screen When You Move Away
 
  If you work in an office environment and often leave your laptop unattended, you’ll love the [Dynamic Lock feature](https://extra-lessons.techidaily.com/a-critical-look-at-huawei-p10-for-photography-enthusiasts-for-2024/). This feature pairs your smartphone with your laptop, and whenever your paired smartphone moves out of range, the laptop notices and locks your screen in less than 30 seconds.
@@ -62,10 +68,19 @@ thumbnail: https://thmb.techidaily.com/7031118575fc7c4b871e9bc0318e22904e8a5da64
 
 ![Pair a device via Bluetooth in the Windows settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/4-pair-a-device-via-bluetooth-in-the-windows-settings-app.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Once paired, select the “Accounts” tab on the left, go to “Sign-In Options,” scroll down and expand the “Dynamic Lock” section, and check the box next to “Allow Windows to lock your device automatically when you're away.” Now, whenever your smartphone moves out of range (typically 30 feet), your laptop will automatically lock.
 
 ![Setting up the dynamic lock feature in the Windows Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/5-setting-up-the-dynamic-lock-feature-in-the-windows-settings.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ##  Automate Tasks With Task Scheduler
 
  Task Scheduler is a useful but often overlooked utility in Windows. It allows you to [schedule tasks to run at specific times or in response to certain events](https://fox-direct.techidaily.com/updated-banish-the-chaos-strategies-to-refine-overwhelming-tiktok-drafts/), helping you automate routine tasks, improve efficiency, and save time. You can define one or more triggers and specify the action that Windows needs to take when the triggers are activated.
@@ -100,6 +115,9 @@ thumbnail: https://thmb.techidaily.com/7031118575fc7c4b871e9bc0318e22904e8a5da64
 
 ![Recording a screen with the Game Bar in Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/9-recording-a-screen-with-the-game-bar-in-windows.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
  The downside is that you can't annotate screenshots and videos, crop screenshots, clip recordings, or screen record in File Explorer and on the desktop.
 
 ---
@@ -120,3 +138,60 @@ thumbnail: https://thmb.techidaily.com/7031118575fc7c4b871e9bc0318e22904e8a5da64
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-10-pro-ways-to-upgrade-your-twitch-broadcast-experience/"><u>[New] In 2024, 10 Pro Ways to Upgrade Your Twitch Broadcast Experience</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-premier-robotic-companions-online/"><u>[New] In 2024, Premier Robotic Companions Online</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-the-pros-guide-to-documenting-your-online-facebook-interactions/"><u>[New] In 2024, The Pro's Guide to Documenting Your Online Facebook Interactions</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-make-waves-with-a-new-look-customize-pre-designed-brand-symbols/"><u>[Updated] In 2024, Make Waves with a New Look  Customize Pre-Designed Brand Symbols</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-innovative-shooting-modes-smart-hdr-3-and-4-explained-simply/"><u>[Updated] Innovative Shooting Modes  Smart HDR 3 & 4 Explained Simply</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-crafting-comfortable-cinematography-amidst-the-chill/"><u>2024 Approved  Crafting Comfortable Cinematography Amidst the Chill</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-kinemaster-proficiency-unleashed-strategies-features-and-10-online-rivals/"><u>2024 Approved  KineMaster Proficiency Unleashed  Strategies, Features & 10 Online Rivals</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>6 Ways to Change Spotify Location On Your Apple iPhone 11 | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/ace-system-performance-update-devices-drivers-on-windows-10-using-revouninstaller/"><u>Ace System Performance: Update Devices Drivers on Windows 10 Using RevoUninstaller</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/apple-iphone-15-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>Apple iPhone 15 Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
+<li><a href="https://win-forum.techidaily.com/complete-disk-saturation-problems-in-windows-11-heres-how-to-fix-them/"><u>Complete Disk Saturation Problems in Windows 11? Here's How to Fix Them!</u></a></li>
+<li><a href="https://win-forum.techidaily.com/connect-and-grow-your-network-through-leading-platforms-facebook-twitter-instagram-and-youtube/"><u>Connect and Grow Your Network Through Leading Platforms: Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/connecting-in-the-digital-age-understanding-key-platforms-fb-ttter-igram-yoodlebox/"><u>Connecting in the Digital Age: Understanding Key Platforms – Fb, Ttter, IGram, Yoodlebox</u></a></li>
+<li><a href="https://win-forum.techidaily.com/dominant-giants-in-digital-interaction-facebook-twitter-instagram-and-youtube/"><u>Dominant Giants in Digital Interaction: Facebook, Twitter, Instagram & Youtube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/effective-tips-to-eliminate-disk-usage-overflow-on-your-windows-11-machine/"><u>Effective Tips to Eliminate Disk Usage Overflow on Your Windows 11 Machine</u></a></li>
+<li><a href="https://win-forum.techidaily.com/effortless-registry-key-management-with-revo-uninstaller-create-edit-and-delete-like-a-pro/"><u>Effortless Registry Key Management with Revo Uninstaller: Create, Edit, and Delete Like a Pro</u></a></li>
+<li><a href="https://win-forum.techidaily.com/engage-with-social-giants-facebook-twitter-instagram-and-youtube/"><u>Engage with Social Giants: Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/ensure-safety-with-these-five-windows-computer-lock-techniques/"><u>Ensure Safety with These Five Windows Computer Lock Techniques</u></a></li>
+<li><a href="https://win-forum.techidaily.com/expert-advice-for-deleting-windows-11-memory-dump-data/"><u>Expert Advice for Deleting Windows 11 Memory Dump Data</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-major-social-media-platforms-facebook-twitter-and-instagram/"><u>Exploring Major Social Media Platforms: Facebook, Twitter & Instagram</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-the-elite-circle-of-connectivity-facebook-twitter-instagram-and-youtube-breakdown/"><u>Exploring the Elite Circle of Connectivity: Facebook, Twitter, Instagram & YouTube Breakdown</u></a></li>
+<li><a href="https://win-forum.techidaily.com/forcefully-terminating-held-up-applications-on-your-pc-a-comprehensive-overview-with-revouninstaller-advice/"><u>Forcefully Terminating Held Up Applications on Your PC: A Comprehensive Overview with RevoUninstaller Advice</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-resetting-and-changing-login-credentials-in-win-11/"><u>Guide to Resetting and Changing Login Credentials in Win 11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-block-web-trackers-on-both-your-windows-11-computer-and-android-smartphone/"><u>How to Block Web Trackers on Both Your Windows 11 Computer and Android Smartphone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-speed-up-windows-11-boot-time-revouninstaller/"><u>How to Speed up Windows 11 Boot Time - RevoUninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-stop-windows-explorer-from-constantly-crashing-a-7-step-guide/"><u>How to Stop Windows Explorer From Constantly Crashing: A 7-Step Guide</u></a></li>
+<li><a href="https://win-forum.techidaily.com/inside-the-worlds-leading-social-networks-facebook-twitter-instagram-and-youtube-explained/"><u>Inside the World's Leading Social Networks: Facebook, Twitter, Instagram and YouTube Explained</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-the-art-of-android-app-management-using-revo-uninstaller/"><u>Mastering the Art of Android App Management Using Revo Uninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-the-search-how-to-check-and-confirm-powershell-version-on-windows-11/"><u>Mastering the Search: How to Check and Confirm PowerShell Version on Windows 11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-window-security-a-guide-to-5-key-precautions-for-your-computer/"><u>Mastering Window Security: A Guide to 5 Key Precautions for Your Computer</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/melodies-meet-graphics-adding-soundtracks-to-powerpoint/"><u>Melodies Meet Graphics  Adding Soundtracks to PowerPoint</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-digital-landsprise-a-comprehensive-guide-to-facebook-twitter-instagram-and-youtube/"><u>Navigating the Digital Landsprise: A Comprehensive Guide to Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-giants-of-online-communication-facebook-twitter-instagram-and-youtube/"><u>Navigating the Giants of Online Communication: Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-giants-of-social-networking-facebook-twitter-instagram-and-youtube-explained/"><u>Navigating the Giants of Social Networking: Facebook, Twitter, Instagram and YouTube Explained</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-power-of-command-prompt-how-to-eliminate-data-on-windows-10-systems/"><u>Navigating the Power of Command Prompt: How to Eliminate Data on Windows 10 Systems</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-web-of-connections-with-facebook-twitter-instagram-and-youtube/"><u>Navigating the Web of Connections with Facebook, Twitter, Instagram, and Youtube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-world-of-online-interactions-with-facebook-twitter-instagram-youtube/"><u>Navigating the World of Online Interactions with Facebook, Twitter, Instagram, Youtube</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-discover-the-best-glitch-video-editors-for-windows-mac-and-online-use/"><u>New 2024 Approved Discover the Best Glitch Video Editors for Windows, Mac, and Online Use</u></a></li>
+<li><a href="https://win-forum.techidaily.com/revo-uninstaller-guide-resolving-persistent-crashes-in-windows-explorer-7-tips/"><u>Revo Uninstaller Guide: Resolving Persistent Crashes in Windows Explorer (7 Tips)</u></a></li>
+<li><a href="https://win-forum.techidaily.com/social-media-networks-facebook-twitter-instagram-and-youtube-explained/"><u>Social Media Networks: Facebook, Twitter, Instagram & YouTube Explained</u></a></li>
+<li><a href="https://win-forum.techidaily.com/social-networking-unveiled-mastering-facebook-twitter-instagram-and-youtube-usage/"><u>Social Networking Unveiled: Mastering Facebook, Twitter, Instagram & Youtube Usage</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-removing-windows-11-updates-efficiently/"><u>Step-by-Step Guide: Removing Windows 11 Updates Efficiently</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/streamline-your-workflow-10-essential-chatgpt-pdf-generator-extensions/"><u>Streamline Your Workflow: 10 Essential ChatGPT PDF Generator Extensions</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-social-media-quartet-mastering-engagement-on-facebook-twitter-instagram-youtube/"><u>The Social Media Quartet: Mastering Engagement on Facebook, Twitter, Instagram, YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-7-solutions-to-stop-windows-file-explorer-continuous-freezing-with-revo-uninstaller/"><u>Top 7 Solutions to Stop Windows File Explorer Continuous Freezing with Revo Uninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/troubleshooting-complete-hard-drive-occupancy-on-windows-10-machines/"><u>Troubleshooting Complete Hard Drive Occupancy on Windows 10 Machines</u></a></li>
+<li><a href="https://win-forum.techidaily.com/troubleshooting-guide-how-to-roll-back-recent-updates-on-windows-11/"><u>Troubleshooting Guide: How to Roll Back Recent Updates on Windows 11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/1722915430381-troubleshooting-the-plan-not-executed-issue-on-windows-11/"><u>Troubleshooting the Plan Not Executed Issue on Windows 11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/ultimate-techniques-for-bypassing-default-deletion-protocols-on-windows-revo-uninstaller-tips/"><u>Ultimate Techniques for Bypassing Default Deletion Protocols on Windows: Revo Uninstaller Tips</u></a></li>
+<li><a href="https://win-forum.techidaily.com/understanding-the-giants-a-guide-to-facebook-twitter-instagram-and-youtube/"><u>Understanding the Giants: A Guide to Facebook, Twitter, Instagram, & YouTube</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/vanguards-choice-top-7-fps-wonders/"><u>Vanguard's Choice  Top 7 FPS Wonders</u></a></li>
+<li><a href="https://win-forum.techidaily.com/waking-up-pcs-from-afar-learn-to-enable-wake-n-shine-in-windows-10-and-11/"><u>Waking Up PCs From Afar? Learn to Enable Wake-N-Shine in Windows 10 & 11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/why-cant-i-open-my-application-diagnosing-and-repairing-launch-errors-on-a-pc/"><u>Why Can't I Open My Application? Diagnosing and Repairing Launch Errors on a PC</u></a></li>
+</ul></div>

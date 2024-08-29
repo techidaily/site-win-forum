@@ -1,7 +1,7 @@
 ---
 title: "The Inconspicuous Upheaval of AI: Witnessing Change Beyond Sight"
-date: 2024-08-26 21:12:44
-updated: 2024-08-29 11:52:43
+date: 2024-08-28T04:28:26.174Z
+updated: 2024-08-29T04:28:26.174Z
 tags:
   - windows
 categories:
@@ -41,6 +41,9 @@ Corbin Davenport / How-To Geek
 
  These advancements are pointing towards a future where more on-device AI features will be possible, and they will be implemented just like any other functionality in your favorite applications. The trend of obnoxious AI chatbots or AI-suggested replies on social media posts will eventually fade away (hopefully), but we’ll be left with the features that are _actually useful_. That’s the real AI revolution: not a giant Copilot button in Microsoft Edge, but your apps and devices becoming smarter and accomplishing specific tasks much quicker and more efficiently.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ##  What’s Old Is New
 
  The word “AI” has lost most of its meaning over the past year or two, much like “crypto” became meaningless during [the last cryptocurrency bubble](https://en.wikipedia.org/wiki/Cryptocurrency%5Fbubble#2020%E2%80%932022%5Fcryptocurrency%5Fbubble). It might mean large language models that require expensive datacenters, or it might be the image processing algorithms used when taking a photo on a modern smartphone. There are also many AI-enabled devices that are clearly just using the term for the hype value, like [rice cookers](https://www.youtube.com/watch?v=F%5FHOrMmWoMA) with “AI Smart Cooking Technology.”
@@ -65,3 +68,76 @@ _Disclosure: My trip to San Diego, California to visit the AI Analyst & Media Wo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-the-filmmakers-guide-to-stunning-spherical-videos-9-must-knows/"><u>[New] 2024 Approved  The Filmmaker's Guide to Stunning Spherical Videos (9 Must-Knows)</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-aquatic-videography-evolved-top-camcorders-of-the-year-for-2024/"><u>[New] Aquatic Videography Evolved - Top Camcorders of the Year for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-become-a-biography-guru-top-tips-for-standout-bios-on-facebook/"><u>[New] Become a Biography Guru  Top Tips for Standout Bios on Facebook</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-glow-up-guide-3-masterful-instagram-highlight-tricks/"><u>[Updated] In 2024, Glow-Up Guide  3 Masterful Instagram Highlight Tricks</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-integrating-real-time-collaboration-slack-and-filmoras-meeting-guide/"><u>[Updated] Integrating Real-Time Collaboration  Slack & Filmora's Meeting Guide</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-leap-into-efficiency-with-quick-srt-to-txt-2023-guide-for-2024/"><u>[Updated] Leap Into Efficiency with Quick SRT to TXT 2023 Guide for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-real-time-unfollowers-detection-on-insta-for-2024/"><u>[Updated] Real-Time Unfollowers Detection on Insta for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-effortless-screen-captures-for-pc-users-free-guide/"><u>2024 Approved  Effortless Screen Captures for PC Users (Free Guide)</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-powerpoint-and-voice-a-seamless-journey-explored/"><u>2024 Approved  PowerPoint and Voice  A Seamless Journey Explored</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-securing-brand-deals-with-youtube-personalities/"><u>2024 Approved  Securing Brand Deals with YouTube Personalities</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-newbies-roadmap-to-understanding-av1/"><u>2024 Approved  The Newbie’s Roadmap to Understanding AV1</u></a></li>
+<li><a href="https://win-forum.techidaily.com/a-guide-to-dominant-social-media-giants-facebook-twitter-instagram-and-youtube/"><u>A Guide to Dominant Social Media Giants: Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/a-guide-to-leading-social-media-giants-facebook-twitter-instagram-and-youtube/"><u>A Guide to Leading Social Media Giants: Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/affordable-path-to-4k-top-budget-cameras-(1k-for-2024/"><u>Affordable Path to 4K  Top Budget Cameras (<$1K) for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/comprehensive-tutorial-on-entering-the-bios-configuration-of-a-windows-11-device/"><u>Comprehensive Tutorial on Entering the BIOS Configuration of a Windows 11 Device</u></a></li>
+<li><a href="https://win-forum.techidaily.com/connect-with-millions-a-guide-to-facebook-twitter-instagram-and-youtube/"><u>Connect with Millions: A Guide to Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/crafting-cinematic-stories-in-extended-seconds-a-guide-to-creating-spectacularly-long-lasting-video-from-still-images-online-for-2024/"><u>Crafting Cinematic Stories in Extended Seconds  A Guide to Creating Spectacularly Long Lasting Video From Still Images Online for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/deciphering-your-ps4s-led-light-signals-understanding-the-meanings-of-blue-white-red-and-orange/"><u>Deciphering Your PS4's LED Light Signals: Understanding the Meanings of Blue, White, Red & Orange</u></a></li>
+<li><a href="https://win-forum.techidaily.com/determining-your-current-powershell-version-on-windows-11-a-step-by-step-guide/"><u>Determining Your Current PowerShell Version on Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-fixes-making-your-logitech-g430-mic-function-again/"><u>DIY Fixes: Making Your Logitech G430 Mic Function Again</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/enhancing-youtube-viewing-experience-with-right-video-formats-for-2024/"><u>Enhancing YouTube Viewing Experience with Right Video Formats for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/evaluating-protection-levels-the-fintie-case-for-apples-laptop-series-a-detailed-macbook-pro-13-assessment-on-worth-and-endurance/"><u>Evaluating Protection Levels: The Fintie Case for Apple's Laptop Series - A Detailed MacBook Pro 13 Assessment on Worth & Endurance</u></a></li>
+<li><a href="https://win-forum.techidaily.com/expert-troubleshooting-for-recurring-windows-file-explorer-glitches-discover-7-fixes/"><u>Expert Troubleshooting for Recurring Windows File Explorer Glitches - Discover 7 Fixes</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-the-big-four-of-social-networks-facebook-twitter-instagram-and-youtube/"><u>Exploring the Big Four of Social Networks: Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-the-giants-of-social-media-facebook-twitter-instagram-and-youtubes-role-in-our-lives/"><u>Exploring the Giants of Social Media: Facebook, Twitter, Instagram and Youtube’s Role in Our Lives</u></a></li>
+<li><a href="https://win-forum.techidaily.com/guard-your-written-data-a-comprehhemode-on-securing-text-files-with-passwords/"><u>Guard Your Written Data: A Comprehhemode on Securing Text Files with Passwords</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-realme-gt-5-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Realme GT 5 | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-capturing-eats-a-chefs-handbook-to-food-photography/"><u>In 2024, Capturing Eats  A Chef's Handbook to Food Photography</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-filmmaking-simplified-create-an-inviting-youtube-subscription-button-in-filmora/"><u>In 2024, Filmmaking Simplified  Create an Inviting YouTube Subscription Button in Filmora</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-tecno-pova-5-pro-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Tecno Pova 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Nubia Z50S Pro? | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-screen-recording-face-off-bandicam-vs-camtasias-features/"><u>In 2024, Screen Recording Face-Off  Bandicam vs Camtasia's Features</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-nokia-c300-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Nokia C300? | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-depth-look-lg-bp350-screen-resolution-and-aspect-ratio-for-2024/"><u>In-Depth Look  LG BP350 Screen Resolution and Aspect Ratio for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/latest-nvidia-fermi-series-update-geforce-210-windows-integration/"><u>Latest NVidia Fermi Series Update: GeForce 210 Windows Integration</u></a></li>
+<li><a href="https://win-forum.techidaily.com/life-q30-reviewed-soundcores-compact-affordable-anc-speaker/"><u>Life Q30 Reviewed: Soundcore's Compact Affordable ANC Speaker</u></a></li>
+<li><a href="https://win-forum.techidaily.com/master-efficient-software-removal-using-revo-uninstaller-professional-edition-v5/"><u>Master Efficient Software Removal Using Revo Uninstaller Professional Edition, V5</u></a></li>
+<li><a href="https://win-forum.techidaily.com/master-the-quick-solutions-for-windows-class-not-registered-problems/"><u>Master the Quick Solutions for Windows 'Class Not Registered' Problems</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-popular-social-channels-insights-on-facebook-twitter-instagram-and-youtube/"><u>Navigating Popular Social Channels: Insights on Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-digital-landscape-facebook-twitter-instagram-and-youtube-guide/"><u>Navigating the Digital Landscape: Facebook, Twitter, Instagram and YouTube Guide</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-landscape-of-popular-networking-sites-facebook-twitter-instagram-and-youtube/"><u>Navigating the Landscape of Popular Networking Sites: Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-through-top-digital-landscapes-a-look-at-facebook-twitter-instagram-and-youtube/"><u>Navigating Through Top Digital Landscapes: A Look at Facebook, Twitter, Instagram & Youtube</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/nombre-a-aprender-de-fauna-en-espanol/"><u>Nombre a Aprender De Fauna en Español</u></a></li>
+<li><a href="https://win-forum.techidaily.com/overcoming-errors-preventing-windows-11-setup-on-pc-revouninstaller-methods-explained/"><u>Overcoming Errors Preventing Windows 11 Setup on PC - RevoUninstaller Methods Explained</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/securing-your-fb-conversations-with-recordings-for-2024/"><u>Securing Your FB Conversations with Recordings for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/social-media-titans-for-content-sharing-faceygram-tweetube-youtagram-and-finsta/"><u>Social Media Titans for Content Sharing: Faceygram, TweeTube, Youtagram & Finsta</u></a></li>
+<li><a href="https://win-forum.techidaily.com/social-media-titans-showdown-facebook-vs-twitter-vs-instagram-vs-youtube-explained/"><u>Social Media Titans Showdown: Facebook Vs. Twitter Vs. Instagram Vs. YouTube Explained</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-vivo-y77t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Vivo Y77t | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-clearing-windows-11-memory-dump-files/"><u>Step-by-Step Guide: Clearing Windows 11 Memory Dump Files</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-setting-up-your-revoapps-manager-and-reactivating-with-ease/"><u>Step-by-Step Guide: Setting Up Your RevoApps Manager & Reactivating with Ease</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-tutorial-for-enabling-wake-on-lan-feature-in-win10win11/"><u>Step-by-Step Tutorial for Enabling Wake-on-LAN Feature in Win10/Win11</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/strategic-use-of-chatgpt-in-employment-searches/"><u>Strategic Use of ChatGPT in Employment Searches</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-big-four-of-social-networking-exploring-facebook-twitter-instagram-and-youtube/"><u>The Big Four of Social Networking: Exploring Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-comprehensive-technique-for-revamping-driver-software-in-windows-10-systems/"><u>The Comprehensive Technique for Revamping Driver Software in Windows 10 Systems</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-definitive-guide-to-removing-windows-1sic-10-accounts-using-revo-uninstaller/"><u>The Definitive Guide to Removing Windows 1([Sic] 10 Accounts Using Revo Uninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-digital-worlds-leaders-engaging-with-facebook-twitter-instagram-youtube/"><u>The Digital World's Leaders: Engaging with Facebook, Twitter, Instagram, YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-leading-digital-hubs-understanding-facebook-twitter-instagram-and-youtube/"><u>The Leading Digital Hubs: Understanding Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-powerhouse-of-social-networks-facebook-twitter-instagram-and-youtube-insights/"><u>The Powerhouse of Social Networks - Facebook, Twitter, Instagram & YouTube Insights</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-powerhouse-trio-plus-one-mastering-facebook-twitter-instagram-and-youtube-for-greater-reach/"><u>The Powerhouse Trio-Plus One: Mastering Facebook, Twitter, Instagram, and YouTube for Greater Reach</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/the-ultimate-guide-to-setting-your-youtube-video-width-and-height/"><u>The Ultimate Guide to Setting Your YouTube Video Width and Height</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-ultimate-tutorial-for-finding-and-erasing-threatening-android-programs-with-revouninstaller/"><u>The Ultimate Tutorial for Finding and Erasing Threatening Android Programs with RevoUninstaller</u></a></li>
+<li><a href="https://some-skills.techidaily.com/transform-your-photos-into-dynamic-time-lapses-the-gopro-way-for-2024/"><u>Transform Your Photos Into Dynamic Time-Lapses  The GoPro Way for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-opening-the-microsoft-store-after-unexpected-crashes/"><u>Troubleshooting Tips - Opening the Microsoft Store After Unexpected Crashes</u></a></li>
+<li><a href="https://win-forum.techidaily.com/troubleshooting-tips-for-a-smooth-amazon-prime-video-experience/"><u>Troubleshooting Tips for a Smooth Amazon Prime Video Experience</u></a></li>
+<li><a href="https://win-forum.techidaily.com/understanding-modern-connectivity-the-impact-of-facebook-twitter-instagram-and-youtube-on-our-lives/"><u>Understanding Modern Connectivity: The Impact of Facebook, Twitter, Instagram and YouTube on Our Lives</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unleashing-creativity-with-pro-gopro-guidance-for-2024/"><u>Unleashing Creativity with Pro-GoPro Guidance for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/unleashing-your-brands-potential-on-major-platforms-facebook-twitter-instagram-and-youtube-explained/"><u>Unleashing Your Brand's Potential on Major Platforms: Facebook, Twitter, Instagram & YouTube Explained</u></a></li>
+<li><a href="https://win-forum.techidaily.com/unraveling-the-world-of-social-networks-a-deep-dive-into-facebook-twitter-instagram-and-youtube/"><u>Unraveling the World of Social Networks: A Deep Dive Into Facebook, Twitter, Instagram and YouTubе</u></a></li>
+<li><a href="https://win-forum.techidaily.com/windows-11-installation-guide-overcoming-incompatible-processor-restrictions/"><u>Windows 11 Installation Guide: Overcoming Incompatible Processor Restrictions</u></a></li>
+</ul></div>

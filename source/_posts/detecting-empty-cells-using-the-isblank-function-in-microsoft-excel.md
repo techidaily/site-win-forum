@@ -1,7 +1,7 @@
 ---
 title: Detecting Empty Cells Using the ISBLANK Function in Microsoft Excel
-date: 2024-08-27 11:22:47
-updated: 2024-08-29 10:38:50
+date: 2024-08-28T04:28:56.966Z
+updated: 2024-08-29T04:28:56.966Z
 tags:
   - excel
 categories:
@@ -29,6 +29,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
 Related: [How to Count Blank or Empty Cells in Microsoft Excel](https://fox-blue.techidaily.com/2024-approved-revel-in-richness-your-pcs-pathway-to-exceptional-video-quality/) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  What Is the ISBLANK Function in Excel?
 
  Excel's 
@@ -59,12 +62,19 @@ Related: [How to Count Blank or Empty Cells in Microsoft Excel](https://fox-blue
 
 Related: [How to Use the IS Functions in Microsoft Excel](https://win-amazing.techidaily.com/new-release-gtx-1650-super-driver-updates-compatible-with-windows-11/) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ##  Check If a Cell Is Blank With Excel's ISBLANK Function
 
  To use the function, first, open your spreadsheet with the Excel app and click the cell where you want to display the function's result.
 
 ![Select a cell.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/1-select-cell-excel.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
  In the selected cell, type the following function and press Enter. In this function, replace `C2` with the cell that you want to check.
 
 =ISBLANK(C2)
@@ -75,10 +85,16 @@ Related: [How to Use the IS Functions in Microsoft Excel](https://win-amazing.te
 
 ![The result of the ISBLANK function.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/3-excel-isblank-function-result.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
  Now you know what cell is and isn't blank in your spreadsheet.
 
 Related: [How to Fill Excel Cells Automatically with Flash Fill and Auto Fill](https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-honor-magic-6-drfone-by-drfone-virtual-android/) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ##  Perform an Action When a Cell Is Blank or Non-Blank
 
  Often, you may want to [perform an action depending on your cell's status](https://android-unlock.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-huawei-phone-by-drfone-android/). You may want to display a message that says something when your cell is blank and says something else when your cell isn't blank.
@@ -97,6 +113,9 @@ Related: [How to Fill Excel Cells Automatically with Flash Fill and Auto Fill](h
 
 ![The result of the IF and ISBLANK functions.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/5-excel-isblank-if-function-result.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<!-- affiliate ads end -->
  And you now have your chosen text displayed for your blank and non-blank cells.
 
 Related: [How to Skip Pasting Blank Cells When Copying in Microsoft Excel](https://extra-information.techidaily.com/new-brand-alliances-elevating-youtube-content/)
@@ -115,3 +134,38 @@ Related: [How to Skip Pasting Blank Cells When Copying in Microsoft Excel](https
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-preserve-your-animated-fun-discover-the-best-9-gif-recorder-apps-for-pc/"><u>[Updated] 2024 Approved  Preserve Your Animated Fun  Discover the Best 9 GIF Recorder Apps for PC</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-step-by-step-guide-for-capturing-fb-streams/"><u>[Updated] 2024 Approved  Step-by-Step Guide for Capturing FB Streams</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-the-basic-routes-to-sync-obs-with-zoom/"><u>[Updated] 2024 Approved  The Basic Routes to Sync OBS with Zoom</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-transform-your-videos-swiftly-with-these-top-8-iphone-apps/"><u>[Updated] Transform Your Videos Swiftly with These Top 8 iPhone Apps</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-adventure-aces-ranking-games-that-make-you-want-to-explore/"><u>2024 Approved  Adventure Aces  Ranking Games That Make You Want to Explore</u></a></li>
+<li><a href="https://win-forum.techidaily.com/bypass-limitations-windows-11-setup-for-ineligible-cpus-explained/"><u>Bypass Limitations: Windows 11 Setup for Ineligible CPUs Explained</u></a></li>
+<li><a href="https://win-forum.techidaily.com/complete-guide-step-by-step-factory-reset-process-in-windows-11/"><u>Complete Guide: Step-by-Step Factory Reset Process in Windows 11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/comprehensive-tutorial-on-deleting-user-profiles-in-windows-10-operating-system/"><u>Comprehensive Tutorial on Deleting User Profiles in Windows 10 Operating System</u></a></li>
+<li><a href="https://win-forum.techidaily.com/conquering-cyberspace-with-social-giants-facebook-twitter-insta-world-and-youtube/"><u>Conquering Cyberspace with Social Giants: Facebook, Twitter, Insta-World and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/enhance-your-pc-maintenance-with-revo-uninstallers-latest-pro-version/"><u>Enhance Your PC Maintenance with Revo Uninstaller's Latest Pro Version</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-samsung-galaxy-a15-5g-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Samsung Galaxy A15 5G Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/hassle-free-mobile-checks-abbyys-ocr-sdk-transforms-portable-loan-verifications/"><u>Hassle-Free Mobile Checks: ABBYY's OCR SDK Transforms Portable Loan Verifications</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-roll-back-an-unwanted-windows-11-update-a-comprehensive-guide/"><u>How to Roll Back an Unwanted Windows 11 Update: A Comprehensive Guide</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-vivo-v29e-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Vivo V29e phone? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-vivo-v30-pro-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Vivo V30 Pro Without PUK Codes</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-use-face-id-to-pay-for-apple-music-on-iphone-14-plus-by-drfone-ios-unlock-ios-unlock/"><u>How to Use Face ID to Pay for Apple Music on iPhone 14 Plus</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Vivo V30 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/in-depth-strategies-to-curb-total-disk-consumption-by-windows-10-applications/"><u>In-Depth Strategies to Curb Total Disk Consumption by Windows 10 Applications</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-social-media-landscapes-insights-on-facebook-twitter-instagram-and-youtube-usage/"><u>Navigating Social Media Landscapes: Insights on Facebook, Twitter, Instagram and Youtube Usage</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-world-of-digital-networking-insights-on-facebook-twitter-instagram-and-youtube/"><u>Navigating the World of Digital Networking: Insights on Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/social-media-networks-facebook-twitter-instagram-and-youtube/"><u>Social Media Networks: Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/social-media-titans-a-deep-dive-into-facebook-twitter-instagram-and-youtube-usage/"><u>Social Media Titans: A Deep Dive Into Facebook, Twitter, Instagram & YouTube Usage</u></a></li>
+<li><a href="https://win-forum.techidaily.com/stop-the-halt-effective-ways-to-address-and-repair-pc-stops-and-jams/"><u>Stop the Halt: Effective Ways to Address and Repair PC Stops & Jams</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-quintessential-social-media-sites-navigating-facebook-twitter-insta-and-youtube/"><u>The Quintessential Social Media Sites: Navigating Facebook, Twitter, Insta, and Youtube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-networking-sites-facebook-twitter-instagram-and-youtube/"><u>Top Networking Sites - Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/ultimate-instructions-for-eliminating-kernel-memory-files-in-windows-11/"><u>Ultimate Instructions for Eliminating Kernel-Memory Files in Windows 11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/understanding-digital-engagement-on-leading-channels-facebook-twitter-instagram-and-youtube/"><u>Understanding Digital Engagement on Leading Channels: Facebook, Twitter, Instagram & Youtube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/unlocking-full-control-running-software-with-admin-privileges-in-windows-11-without-hesitation/"><u>Unlocking Full Control: Running Software with Admin Privileges in Windows 11 Without Hesitation</u></a></li>
+<li><a href="https://win-forum.techidaily.com/unveiling-the-basics-understanding-bios-with-revouninstaller/"><u>Unveiling the Basics: Understanding BIOS with RevoUninstaller</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-smooth-operator-a-plugin-free-guide-to-skin-retouching-in-fcpx/"><u>Updated Smooth Operator A Plugin-Free Guide to Skin Retouching in FCPX</u></a></li>
+<li><a href="https://win-forum.techidaily.com/wireless-network-management-using-wake-on-lan-in-windows-operating-systems/"><u>Wireless Network Management: Using Wake-on-LAN in Windows Operating Systems</u></a></li>
+</ul></div>

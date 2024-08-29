@@ -1,7 +1,7 @@
 ---
 title: "11 Hidden Excel Tricks You Need to Know: Boost Your Productivity"
-date: 2024-08-26 22:55:33
-updated: 2024-08-29 10:56:42
+date: 2024-08-28T04:30:05.727Z
+updated: 2024-08-29T04:30:05.727Z
 tags:
   - excel
 categories:
@@ -53,6 +53,9 @@ Related: [12 Basic Excel Functions Everybody Should Know](https://visual-screen-
 
 ![CEILING function in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/Ceiling-ExcelFunctionsLittleKnown.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  MODE.SNGL for Finding Repetitive Values
 
  Originally simply the [MODE function](https://support.microsoft.com/en-us/office/mode-function-e45192ce-9122-4980-82ed-4bdc34973120), Microsoft created a newer version of this statistical function for improved accuracy. Use MODE.SNGL to find a single frequently recurring number in an array or cell range.
@@ -65,12 +68,18 @@ Related: [12 Basic Excel Functions Everybody Should Know](https://visual-screen-
 
 ![MODE.SNGL function for one array](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/ModeSnglArray-ExcelFunctionsLittleKnown.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
  To find a recurring number in A1 through A5 and C1 through C5, you'd use this formula:
 
 =MODE.SNGL(A1:A5, C1:C5)
 
 ![MODE.SNGL function for two arrays](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/ModeSnglArrays-ExcelFunctionsLittleKnown.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  CONVERT for Converting From One Measurement to Another
 
  For a useful engineering function, you can [use CONVERT](https://discord-videos.techidaily.com/mastering-discord-speaking-tts-basics-guide-for-2024/) to change a value from one measurement system to another.
@@ -109,6 +118,22 @@ Related: [How to Convert Almost Any Unit in Microsoft Excel](https://discord-vid
 
 ![DELTA function using numbers](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/DeltaNumber-ExcelFunctionsLittleKnown.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  GESTEP for Testing Greater Than or Equal To a Threshold
 
  One more engineering function you may find useful is GESTEP which allows you to test values that are [greater than or equal to](https://buynow-reviews.techidaily.com/easy-steps-to-activate-your-own-nintendo-network-id-on-the-nintendo-3ds-handheld-system/) a step (threshold). The result is either 1 (true) or 0 (false).
@@ -127,6 +152,9 @@ Related: [How to Convert Almost Any Unit in Microsoft Excel](https://discord-vid
 
 ![GESTEP function using a number](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/GestepNumbers-ExcelFunctionsLittleKnown.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ##  ADDRESS for Finding the Location of a Cell
 
  Let's move on to a lookup function in Excel. To find the exact address of a cell, you can use the ADDRESS function. This is convenient if you want an error-free [reference to a cell](https://extra-information.techidaily.com/in-2024-chic-coverage-for-your-portable-screen/).
@@ -159,6 +187,12 @@ Related: [How to Cross Reference Cells Between Microsoft Excel Spreadsheets](htt
 
 ![ADDRESS function with a sheet name in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/AddressSheet-ExcelFunctionsLittleKnown.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  PI for the Value of Pi
 
  If you need to use the value of pi for equations in your sheet, you can obtain it with the PI function.
@@ -177,6 +211,9 @@ Related: [How to Cross Reference Cells Between Microsoft Excel Spreadsheets](htt
 
 ![PI function times ten in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/Pi10-ExcelFunctionsLittleKnown.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  ARABIC and ROMAN for Converting Numerals
 
  Another math function you may find handy is for converting to and from [Arabic](https://en.wikipedia.org/wiki/Arabic%5Fnumerals) and [Roman numerals](https://en.wikipedia.org/wiki/Roman%5Fnumerals).
@@ -191,12 +228,18 @@ Related: [How to Cross Reference Cells Between Microsoft Excel Spreadsheets](htt
 
 ![ARABIC function in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/Arabic-ExcelFunctionsLittleKnown.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
  To convert 2,999 to a Roman numeral, you'd use this formula:
 
 =ROMAN(2999)
 
 ![ROMAN function in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/Roman-ExcelFunctionsLittleKnown.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
  To convert the same number in Simplified form, use one of these formulas:
 
 =ROMAN(2999,4)
@@ -205,6 +248,9 @@ Related: [How to Cross Reference Cells Between Microsoft Excel Spreadsheets](htt
 
 ![ROMAN function with an argument](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/RomanArgument-ExcelFunctionsLittleKnown.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  REPT for Entering Repeating Text
 
  If you want to add a series of characters, symbols, or text as a placeholder or for a visual effect, use the REPT [text function](https://video-screen-grab.techidaily.com/updated-the-art-of-smooth-video-transitioning-for-2024/).
@@ -247,3 +293,53 @@ Related: [How to Add Text to a Cell With a Formula in Excel](https://buynow-revi
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-premiere-pros-guide-to-avoiding-overlit-iphone-hdr-videos/"><u>[New] Premiere Pro's Guide to Avoiding Overlit iPhone HDR Videos</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-tap-into-endless-creativity-our-compilation-of-over-50-free-advertising-masterpieces/"><u>[New] Tap Into Endless Creativity – Our Compilation of over 50 FREE Advertising Masterpieces</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-crafting-compelling-storylines-with-top-20-anime-influences-on-tiktok/"><u>[Updated] In 2024, Crafting Compelling Storylines with Top 20 Anime Influences on TikTok</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-ultimate-intro-video-guide-for-iphone-and-android-users/"><u>[Updated] The Ultimate Intro Video Guide for iPhone and Android Users</u></a></li>
+<li><a href="https://win-forum.techidaily.com/ace-system-performance-update-devices-drivers-on-windows-10-using-revouninstaller/"><u>Ace System Performance: Update Devices Drivers on Windows 10 Using RevoUninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/an-in-depth-guide-to-what-the-windows-registry-does-for-your-pc/"><u>An In-Depth Guide to What the Windows Registry Does for Your PC</u></a></li>
+<li><a href="https://win-forum.techidaily.com/comparative-analysis-of-leading-social-media-outlets-facebook-twitter-instagram-and-youtube/"><u>Comparative Analysis of Leading Social Media Outlets: Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/connect-and-grow-your-network-through-leading-platforms-facebook-twitter-instagram-and-youtube/"><u>Connect and Grow Your Network Through Leading Platforms: Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/connecting-in-the-digital-age-understanding-key-platforms-fb-ttter-igram-yoodlebox/"><u>Connecting in the Digital Age: Understanding Key Platforms – Fb, Ttter, IGram, Yoodlebox</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/crafting-customized-clips-on-iphone-3-free-music-integration-techniques/"><u>Crafting Customized Clips on iPhone – 3 Free Music Integration Techniques</u></a></li>
+<li><a href="https://win-forum.techidaily.com/dominant-giants-in-digital-interaction-facebook-twitter-instagram-and-youtube/"><u>Dominant Giants in Digital Interaction: Facebook, Twitter, Instagram & Youtube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/effective-tips-to-eliminate-disk-usage-overflow-on-your-windows-11-machine/"><u>Effective Tips to Eliminate Disk Usage Overflow on Your Windows 11 Machine</u></a></li>
+<li><a href="https://win-forum.techidaily.com/effortless-registry-key-management-with-revo-uninstaller-create-edit-and-delete-like-a-pro/"><u>Effortless Registry Key Management with Revo Uninstaller: Create, Edit, and Delete Like a Pro</u></a></li>
+<li><a href="https://win-forum.techidaily.com/engage-with-social-giants-facebook-twitter-instagram-and-youtube/"><u>Engage with Social Giants: Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/engagement-essentials-for-leading-social-platforms-strategies-for-facebook-twitter-instagram-and-youtube-success/"><u>Engagement Essentials for Leading Social Platforms: Strategies for Facebook, Twitter, Instagram & YouTube Success</u></a></li>
+<li><a href="https://win-forum.techidaily.com/ensure-safety-with-these-five-windows-computer-lock-techniques/"><u>Ensure Safety with These Five Windows Computer Lock Techniques</u></a></li>
+<li><a href="https://win-forum.techidaily.com/expert-guide-to-correcting-the-msedgeexe-application-error-on-pc/"><u>Expert Guide to Correcting the 'Msedge.exe Application Error on PC'</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-major-social-media-platforms-facebook-twitter-and-instagram/"><u>Exploring Major Social Media Platforms: Facebook, Twitter & Instagram</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-the-elite-circle-of-connectivity-facebook-twitter-instagram-and-youtube-breakdown/"><u>Exploring the Elite Circle of Connectivity: Facebook, Twitter, Instagram & YouTube Breakdown</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-activate-wake-on-lan-in-windows-10-and-11/"><u>How to Activate Wake-on-LAN in Windows 10 and 11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-block-web-trackers-on-both-your-windows-11-computer-and-android-smartphone/"><u>How to Block Web Trackers on Both Your Windows 11 Computer and Android Smartphone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Motorola Moto G04? | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-stop-windows-explorer-from-constantly-crashing-a-7-step-guide/"><u>How to Stop Windows Explorer From Constantly Crashing: A 7-Step Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-turn-off-games-for-you-recommendations-on-windows-11/"><u>How to Turn Off Games for You Recommendations on Windows 11</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-grandmasters-guide-to-virtual-combat-excellence/"><u>In 2024, Grandmasters' Guide to Virtual Combat Excellence</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-poco-c55-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Poco C55 Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://win-forum.techidaily.com/inside-look-how-the-windows-registry-works-according-to-revouninstaller-experts/"><u>Inside Look: How the Windows Registry Works According to RevoUninstaller Experts</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-the-art-of-android-app-management-using-revo-uninstaller/"><u>Mastering the Art of Android App Management Using Revo Uninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-digital-landsprise-a-comprehensive-guide-to-facebook-twitter-instagram-and-youtube/"><u>Navigating the Digital Landsprise: A Comprehensive Guide to Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-giants-of-online-communication-facebook-twitter-instagram-and-youtube/"><u>Navigating the Giants of Online Communication: Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-giants-of-social-networking-facebook-twitter-instagram-and-youtube-explained/"><u>Navigating the Giants of Social Networking: Facebook, Twitter, Instagram and YouTube Explained</u></a></li>
+<li><a href="https://win-forum.techidaily.com/optimizing-digital-footprint-with-facebook-twitter-instagram-and-youtubing-techniques/"><u>Optimizing Digital Footprint with Facebook, Twitter, Instagram & YouTubing Techniques</u></a></li>
+<li><a href="https://win-forum.techidaily.com/quick-guide-forcing-closure-of-unresponsive-programs-in-windows-11/"><u>Quick Guide: Forcing Closure of Unresponsive Programs in Windows 11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/social-media-giants-unveiled-facebook-twitter-instagram-and-youtube-for-todays-content-creators/"><u>Social Media Giants Unveiled: Facebook, Twitter, Instagram & YouTube for Today's Content Creators</u></a></li>
+<li><a href="https://win-forum.techidaily.com/social-media-powerhouses-a-guide-to-facebook-twitter-instagram-and-youtube-uses/"><u>Social Media Powerhouses: A Guide to Facebook, Twitter, Instagram, and YouTube Uses</u></a></li>
+<li><a href="https://win-forum.techidaily.com/social-media-titans-explored-insights-into-facebook-twitter-instagram-and-youtube-popularity/"><u>Social Media Titans Explored: Insights Into Facebook, Twitter, Instagram, and YouTube Popularity</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-social-media-quartet-mastering-engagement-on-facebook-twitter-instagram-youtube/"><u>The Social Media Quartet: Mastering Engagement on Facebook, Twitter, Instagram, YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-7-solutions-to-stop-windows-file-explorer-continuous-freezing-with-revo-uninstaller/"><u>Top 7 Solutions to Stop Windows File Explorer Continuous Freezing with Revo Uninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/troubleshooting-techniques-eliminating-memory-dumps-on-your-windows-11-pc/"><u>Troubleshooting Techniques: Eliminating Memory Dumps on Your Windows 11 PC</u></a></li>
+<li><a href="https://win-forum.techidaily.com/1722915430381-troubleshooting-the-plan-not-executed-issue-on-windows-11/"><u>Troubleshooting the Plan Not Executed Issue on Windows 11</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-selection-6-premier-online-vendors-for-premium-tvs/"><u>Ultimate Selection: 6 Premier Online Vendors for Premium TVs</u></a></li>
+<li><a href="https://win-forum.techidaily.com/ultimate-techniques-for-bypassing-default-deletion-protocols-on-windows-revo-uninstaller-tips/"><u>Ultimate Techniques for Bypassing Default Deletion Protocols on Windows: Revo Uninstaller Tips</u></a></li>
+<li><a href="https://win-forum.techidaily.com/ultimate-tricks-to-boost-boot-speed-on-windows-11-systems/"><u>Ultimate Tricks to Boost Boot Speed on Windows 11 Systems</u></a></li>
+<li><a href="https://win-forum.techidaily.com/updating-your-pcs-hardware-a-step-by-step-guide-to-refresh-windows-10-drivers/"><u>Updating Your PC's Hardware: A Step-by-Step Guide to Refresh Windows 10 Drivers</u></a></li>
+<li><a href="https://win-forum.techidaily.com/why-cant-i-open-my-application-diagnosing-and-repairing-launch-errors-on-a-pc/"><u>Why Can't I Open My Application? Diagnosing and Repairing Launch Errors on a PC</u></a></li>
+<li><a href="https://win-forum.techidaily.com/windows-11-installation-hack-overcoming-ineligible-processor-restrictions/"><u>Windows 11 Installation Hack: Overcoming Ineligible Processor Restrictions</u></a></li>
+</ul></div>

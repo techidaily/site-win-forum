@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Crafting Interactive Visualizations with Excel's Dropdown Selection Feature"
-date: 2024-08-27 17:10:31
-updated: 2024-08-29 11:48:33
+date: 2024-08-28T04:29:54.139Z
+updated: 2024-08-29T04:29:54.139Z
 tags:
   - excel
 categories:
@@ -37,6 +37,9 @@ thumbnail: https://thmb.techidaily.com/e0931ca8ae70302ccf65495c157857813d9635f22
 
 ![An Excel spreadsheet containing a table and a drop-down list with the options showing as the column headers in the table.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/drop-down-list-in-excel.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Step 2: Create a Data Retrieval Table
 
  We now need to create a second table that is separate from our raw data but pulls information from it when we adjust the drop-down menu we have created. The chart we create later on will be created using the information in this data retrieval table.
@@ -47,6 +50,9 @@ thumbnail: https://thmb.techidaily.com/e0931ca8ae70302ccf65495c157857813d9635f22
 
 ![An Excel sheet with a table on the left, and the first column copied and pasted to the right.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/data-retrieval-table.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
  Select and right-click the pasted data, hover over "Sort," and click "Sort A To Z."
 
 ![An Excel spreadsheet with data in Table 2 selected, and the Sort A to Z option highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/sort-data-a-to-z.png) 
@@ -55,6 +61,9 @@ thumbnail: https://thmb.techidaily.com/e0931ca8ae70302ccf65495c157857813d9635f22
 
 ![An Excel spreadsheet with a column in Table 2 referencing a drop-down cell.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/reference-drop-down-cell.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Press Enter to see the column heading in Table 2 adopt the drop-down selection. Try changing the drop-down selection to see the column heading in Table 2 change.
 
 ##  Step 3: Extract Data from Table 1 to Table 2
@@ -115,18 +124,32 @@ thumbnail: https://thmb.techidaily.com/e0931ca8ae70302ccf65495c157857813d9635f22
 
 ![An Excel spreadsheet with Table 2 selected and the charts highlighted in the Insert tab.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/create-chart.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
  We've gone with a simple 2D column chart.
 
 ![An Excel chart with the data chosen by a drop-down box, which uses Table 2 to retrieve data from Table 1.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/data-chart-based-on-drop-down-1.png) 
 
  Format the chart to appear as you wish, and again, play with your drop-down to see Table 2—and, consequently, your chart—adjust to your selection. You'll also see your chart title change.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ##  Step 5: Add an Average Line to Your Chart
 
  To add an average line to the chart, you need to add more data to Table 2\. Add another column heading to Table 2, and call it **Average**.
 
 ![An Excel spreadsheet with two tables and a chart. Table 2 has a new column, headed 'Average.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/table-2-average-column.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
  Now, [use the AVERAGE function](https://win-able.techidaily.com/fixing-overwatch-startup-issues-how-to-get-rid-of-the-persistent-black-screen/) to capture the average of the selected data. In our case, we've selected game 4, so we want to find the average rating among all five players for this game. To do this, type
 
 ​​​​​​​=AVERAGE
@@ -151,6 +174,9 @@ thumbnail: https://thmb.techidaily.com/e0931ca8ae70302ccf65495c157857813d9635f22
 
 ![An Excel sheet showing the Edit Series dialog box, the data in 'Series Values' is taken from Table 2, and the chart shows the average value as a column.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/add-data-source-2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
  To change this average data to a line over your existing bars, right-click one of the new bars and click "Change Series Chart Type."
 
 ![An Excel chart with an average column selected through a right-click, and 'Change Series Chart Type' selected.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/change-series-chart-type.png) 
@@ -159,10 +185,16 @@ thumbnail: https://thmb.techidaily.com/e0931ca8ae70302ccf65495c157857813d9635f22
 
 ![The Change Chart Type window in Excel, with the 'All Charts' tab opened, the 'Combo' menu selected, and Series 2 changed to 'Line.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/change-data-to-line.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Click OK to see the outcome, and change the drop-down choice to see your chart change dynamically!
 
 ![An Excel chart reflecting the drop-down choice and with an average line included as an additional data set.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/dynamic-chart-with-average-line.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  You can then format your line so that it stands out in the way that you want it to.
 
 ---
@@ -183,3 +215,65 @@ thumbnail: https://thmb.techidaily.com/e0931ca8ae70302ccf65495c157857813d9635f22
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-mastering-video-direction-on-instagram-in-reverse/"><u>[New] Mastering Video Direction on Instagram in Reverse</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/tep-up-your-game-free-software-for-professional-thumbnails-for-2024/"><u>[New] Step Up Your Game  Free Software for Professional Thumbnails for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-harness-the-power-of-iphones-shutter-speed-for-motion-blurs/"><u>[Updated] Harness the Power of iPhone’s Shutter Speed for Motion Blurs</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-premier-8-safe-video-communication-programs-for-smbs/"><u>[Updated] Premier 8 Safe Video Communication Programs for SMBs</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-premium-top-tier-vr-game-equipment-list/"><u>[Updated] Premium Top-Tier VR Game Equipment List</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-the-ultimate-image-editor-repertoire-for-text-addition-for-2024/"><u>[Updated] The Ultimate Image Editor Repertoire for Text Addition for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-navigating-the-spectrum-in-hands-on-recognition-technology/"><u>2024 Approved  Navigating the Spectrum in Hands-On Recognition Technology</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-cyber-companion-tone-downloads-guide/"><u>2024 Approved  Ultimate Cyber Companion  Tone Downloads Guide</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/2024-approved-youtube-gold-strategies-for-financial-flourishing/"><u>2024 Approved  YouTube Gold Strategies for Financial Flourishing</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/5-best-websites-for-securing-snappy-soundtracks-for-2024/"><u>5 Best Websites for Securing Snappy Soundtracks for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/clearing-up-black-screens-in-youtube-playback/"><u>Clearing Up Black Screens in YouTube Playback</u></a></li>
+<li><a href="https://win-forum.techidaily.com/command-prompt-mastery-efficiently-deleting-filesfolders-in-windows-10/"><u>Command Prompt Mastery: Efficiently Deleting Files/Folders in Windows 10</u></a></li>
+<li><a href="https://win-forum.techidaily.com/complete-guide-erasing-your-windows-11-user-account/"><u>Complete Guide: Erasing Your Windows 11 User Account</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/complete-step-by-step-tutorial-solving-the-dell-laptops-dark-display-issue/"><u>Complete Step-by-Step Tutorial: Solving the Dell Laptop's Dark Display Issue</u></a></li>
+<li><a href="https://win-forum.techidaily.com/comprehensive-guide-to-leading-social-media-giants-facebook-twitter-instagram-and-youtube/"><u>Comprehensive Guide to Leading Social Media Giants: Facebook, Twitter, Instagram and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/comprehensive-walkthrough-purging-temporary-files-from-windows-5-master-the-art-of-cleanup-optimizing-your-pc-by-clearing-cache-in-windows-10/"><u>Comprehensive Walkthrough: Purging Temporary Files From Windows #5 Master the Art of Cleanup: Optimizing Your PC by Clearing Cache in Windows 10</u></a></li>
+<li><a href="https://win-forum.techidaily.com/confidentiality-matters-the-definitive-guide-to-adding-passwords-to-text-files/"><u>Confidentiality Matters: The Definitive Guide to Adding Passwords to Text Files</u></a></li>
+<li><a href="https://win-forum.techidaily.com/connect-with-the-world-through-top-social-media-sites-facebook-twitter-instagram-youtube/"><u>Connect with the World Through Top Social Media Sites: Facebook, Twitter, Instagram, YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/1723016010025-corsair-virtuoso-mic-woes-heres-how-to-get-it-working-again/"><u>Corsair Virtuoso Mic Woes? Here's How to Get It Working Again!</u></a></li>
+<li><a href="https://win-forum.techidaily.com/decoding-the-windows-registry-functionality-and-maintenance-tips-from-revouninstaller/"><u>Decoding the Windows Registry Functionality and Maintenance Tips From RevoUninstaller</u></a></li>
+<li><a href="https://win-able.techidaily.com/defeat-phasmophobias-stagnant-90-load-barrier-step-by-step-solutions-for-ultimate-progress/"><u>Defeat Phasmophobia's Stagnant 90%% Load Barrier: Step-by-Step Solutions for Ultimate Progress</u></a></li>
+<li><a href="https://win-forum.techidaily.com/effective-fixes-for-unexpected-outcomes-when-running-plans-on-windows-11/"><u>Effective Fixes for Unexpected Outcomes When Running Plans on Windows 11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/efficient-drive-cleanup-tips-for-windows-11-the-role-of-revo-uninstaller/"><u>Efficient Drive Cleanup Tips for Windows 11: The Role of Revo Uninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/expert-advice-uninstalling-unlisted-software-without-control-panel-access/"><u>Expert Advice: Uninstalling Unlisted Software Without Control Panel Access</u></a></li>
+<li><a href="https://win-forum.techidaily.com/1722915345020-explore-the-giants-of-online-engagement-facebook-twitter-instagram-and-youtube/"><u>Explore the Giants of Online Engagement: Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-monochrome-to-vivid-mastering-the-sdr-to-hdr-video-transition-for-2024/"><u>From Monochrome to Vivid  Mastering the SDR-to-HDR Video Transition for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-safely-force-close-hanging-apps-on-your-windows-11-machine-a-step-by-step-tutorial/"><u>How to Safely Force Close Hanging Apps on Your Windows 11 Machine - A Step by Step Tutorial</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Vivo Y27 4G | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-gt-3-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Realme GT 3 Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-social-media-landscapes-a-deep-dive-into-instagram-twitter-facebook-and-youtube/"><u>Mastering Social Media Landscapes: A Deep Dive Into Instagram, Twitter, Facebook & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-your-audience-across-leading-platforms-facebook-twitter-instagram-and-youtube/"><u>Mastering Your Audience Across Leading Platforms - Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-world-of-online-interaction-insights-into-facebook-twitter-instagram-and-youtube/"><u>Navigating the World of Online Interaction: Insights Into Facebook, Twitter, Instagram and YouTube</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/optimal-aging-strategy-edit-and-confirm-on-tiktok-for-2024/"><u>Optimal Aging Strategy  Edit and Confirm On TikTok for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/overcoming-installation-obstacles-how-to-make-windows-11-run-smoothly-again/"><u>Overcoming Installation Obstacles: How to Make Windows 11 Run Smoothly Again</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/perfect-your-presence-advanced-tactics-for-youtube-live-visuals/"><u>Perfect Your Presence  Advanced Tactics for YouTube Live Visuals</u></a></li>
+<li><a href="https://win-forum.techidaily.com/protect-your-device-effective-strategies-for-detecting-dangerous-apps-on-android/"><u>Protect Your Device: Effective Strategies for Detecting Dangerous Apps on Android</u></a></li>
+<li><a href="https://win-forum.techidaily.com/resolving-disk-space-issues-in-windows-11-a-step-by-step-guide/"><u>Resolving Disk Space Issues in Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-forum.techidaily.com/revolutionize-your-system-discover-the-power-of-revo-uninstaller-pro-version-5/"><u>Revolutionize Your System: Discover the Power of Revo Uninstaller Pro Version 5!</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-sony-xperia-1-v-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Sony Xperia 1 V</u></a></li>
+<li><a href="https://win-forum.techidaily.com/social-media-essentials-mastering-interaction-on-facebook-twitter-instagram-and-youtube/"><u>Social Media Essentials: Mastering Interaction on Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/solving-your-sluggish-pc-woes-a-guide-using-revo-uninstaller/"><u>Solving Your Sluggish PC Woes: A Guide Using Revo Uninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-updating-your-windows-10-device-drivers/"><u>Step-by-Step Guide: Updating Your Windows 10 Device Drivers</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-8-best-chatgpt-prompts-to-eliminate-digital-distractions/"><u>The 8 Best ChatGPT Prompts to Eliminate Digital Distractions</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-convenience-of-using-hunter-mode-revo-uninstaller/"><u>The Convenience of Using Hunter Mode - Revo Uninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-powerhouse-platforms-of-social-interaction-a-deep-dive-into-facebook-twitter-instagram-and-youtube/"><u>The Powerhouse Platforms of Social Interaction: A Deep Dive Into Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-ultimate-walkthrough-how-to-refresh-device-drivers-on-windows-10-with-the-help-of-revouninstaller/"><u>The Ultimate Walkthrough: How to Refresh Device Drivers on Windows 10 with the Help of RevoUninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-social-networking-sites-unveiled-facebook-twitter-instagram-and-youtube/"><u>Top Social Networking Sites Unveiled: Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/troubleshooting-guide-freeing-up-space-by-deleting-winlogon-files/"><u>Troubleshooting Guide: Freeing Up Space by Deleting Winlogon Files</u></a></li>
+<li><a href="https://win-forum.techidaily.com/troubleshooting-unexpected-issues-in-windows-11-operating-system/"><u>Troubleshooting Unexpected Issues in Windows 11 Operating System</u></a></li>
+<li><a href="https://win-forum.techidaily.com/ultimate-guide-complete-steps-for-permanently-deleting-folders-in-windows-1011-using-revo-uninstaller/"><u>Ultimate Guide: Complete Steps for Permanently Deleting Folders in Windows 10/11 Using Revo Uninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/ultimate-guide-ensuring-administrative-access-every-time-for-your-windows-11-apps/"><u>Ultimate Guide: Ensuring Administrative Access Every Time for Your Windows 11 Apps</u></a></li>
+<li><a href="https://win-forum.techidaily.com/ultimate-guide-how-to-forcibly-close-unresponsive-apps-in-windows-11-using-quick-fixes/"><u>Ultimate Guide: How to Forcibly Close Unresponsive Apps in Windows 11 Using Quick Fixes</u></a></li>
+<li><a href="https://win-forum.techidaily.com/ultimate-trick-for-permanent-administrator-access-when-opening-programs-on-windows-11/"><u>Ultimate Trick for Permanent Administrator Access When Opening Programs on Windows 11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/understanding-social-media-titans-a-deep-dive-into-facebook-twitter-instagram-and-youtube/"><u>Understanding Social Media Titans: A Deep Dive Into Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/understanding-the-digital-era-a-guide-to-facebook-twitter-instagram-and-youtube/"><u>Understanding the Digital Era: A Guide to Facebook, Twitter, Instagram, and Youtube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/understanding-the-impact-of-social-media-giants-facebook-twitter-instagram-and-youtube/"><u>Understanding the Impact of Social Media Giants: Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/understanding-the-windows-registry-and-its-role-with-revo-uninstaller/"><u>Understanding the Windows Registry & Its Role with Revo Uninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/windows-11-users-tutorial-how-to-terminate-a-frozen-application-via-task-manager/"><u>Windows 11 User's Tutorial: How to Terminate a Frozen Application via Task Manager</u></a></li>
+</ul></div>

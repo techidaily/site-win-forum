@@ -1,7 +1,7 @@
 ---
 title: Top 8 Essential Settings to Optimize Any Windows Laptop (For Starters)
-date: 2024-08-26 22:45:50
-updated: 2024-08-29 10:54:17
+date: 2024-08-28T04:28:29.678Z
+updated: 2024-08-29T04:28:29.678Z
 tags:
   - windows
 categories:
@@ -30,6 +30,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  If they are the sole user and won't use the device in a shared environment, you can [bypass the password screen](https://network-issues.techidaily.com/gladiator-glitch-gadget-grind/) entirely, allowing them to go directly to the desktop upon startup, though that does introduce security risks.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ## 2  Remove Unnecessary Programs From the Startup List 
 
  No one appreciates dealing with random apps popping up whenever they turn on their computer. To make a beginner's experience smoother, ensure you [remove unnecessary apps from the startup list](https://tech-recovery.techidaily.com/get-clarity-back-in-photos-how-to-repair-iphone-camera-focusing-problems/). This will eliminate annoyance and speed up the system’s boot time, a perk anyone would greatly appreciate.
@@ -38,8 +41,14 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Disabling startup apps from Task Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/1-disabling-a-startup-apps-from-task-manager.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
  Some applications automatically add themselves to the startup list when installed. So, periodically review their startup list and remove any unnecessary programs.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3  Pin Frequently Used Apps to the Taskbar 
 
  Web browsers, email clients, word processors, and media players are some of the frequently used apps that the person you're setting up the Windows device for will likely use often. While they can search for the required app in Windows Search, you can [pin these apps to the taskbar](https://tech-hub.techidaily.com/understanding-the-five-main-causes-of-chatgpt-prohibitions-in-businesses/) for easier access.
@@ -48,6 +57,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Pinning an app to the taskbar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/2-pinning-an-app-to-the-taskbar.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
  Likewise, remove any apps already pinned to the taskbar that they won’t use. To do that, right-click on the item and select "Unpin from Taskbar."
 
 ![Unpinning Microsoft Edge from the taskbar on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/4-unpinning-microsoft-edge-from-the-taskbar-on-windows-11.jpg) 
@@ -60,10 +72,17 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  One option is OneDrive, though it only backs up specific folders. For more thorough backups, [consider a premium backup service like Backblaze](https://audio-shaping.techidaily.com/in-2024-probing-sound-clarity-an-updated-analysis-of-cambridges-cxu-series/) that can back up their entire computer.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## 5  Foolproof the System's Security 
 
 ![A hand increasing the security level using a knob.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/a-hand-increasing-the-security-level-using-a-knob.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
   
 Lucas Gouveia / How-To Geek | Shutterstock.AI
 
@@ -77,6 +96,9 @@ Lucas Gouveia / How-To Geek | Shutterstock.AI
 
  Afterward, you should install helpful apps to enhance their computer experience. For example, you could add Everything to make file searching easier, Auto Dark Mode to automatically switch between dark and light modes at different times of the day, ShareX for capturing screenshots and recording videos, and other [helpful apps and tools](https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-honor-90-drfone-by-drfone-virtual-android/).
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ## 7  Customize Screen Element Sizes to Their Preferences 
 
  Check with the person to see if they’re comfortable with the default size of text, icons, mouse cursor, and other display elements. If not, adjust the display settings according to their preferences. To do this, right-click the Start button and select "Settings." Then, go to System > Display and modify the Scale and Display Resolution.
@@ -115,3 +137,57 @@ Lucas Gouveia / How-To Geek | Shutterstock.AI
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-cant-see-only-cursor-a6400-issue-for-2024/"><u>[New] Can't See, Only Cursor! - A6400 Issue for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ow-to-bypass-a-youtube-strike-and-keep-creating-videos/"><u>[New] How to Bypass a YouTube Strike and Keep Creating Videos</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-precise-video-queue-a-step-by-step-guide-to-creating-an-effective-playlist-on-youtube/"><u>[New] Precise Video Queue  A Step-by-Step Guide to Creating an Effective Playlist on YouTube</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-a-step-by-step-roadmap-for-masterful-instagram-photos/"><u>[Updated] 2024 Approved  A Step-by-Step Roadmap for Masterful Instagram Photos</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-conquering-remote-work-mastering-the-use-of-zoom-and-gmail-for-2024/"><u>[Updated] Conquering Remote Work  Mastering the Use of Zoom and Gmail for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-earn-big-stay-safe-top-5-income-boosting-posts-for-2024/"><u>[Updated] Earn Big, Stay Safe  Top 5 Income Boosting Posts for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-unlock-fb-story-potential-4-effective-techniques/"><u>[Updated] In 2024, Unlock FB Story Potential - 4 Effective Techniques</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-leading-platforms-enhancing-online-collaboration/"><u>[Updated] Leading Platforms Enhancing Online Collaboration</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-essential-steps-for-resizing-videos-in-igtv/"><u>2024 Approved  Essential Steps for Resizing Videos in IGTV</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-prime-pick-all-angle-action-cameras/"><u>2024 Approved  Prime Pick  All-Angle Action Cameras</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/additional-tips-about-sinnoh-stone-for-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>Additional Tips About Sinnoh Stone For Apple iPhone 6s Plus | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/command-prompt-mastery-efficiently-deleting-filesfolders-in-windows-10/"><u>Command Prompt Mastery: Efficiently Deleting Files/Folders in Windows 10</u></a></li>
+<li><a href="https://win-forum.techidaily.com/complete-guide-erasing-your-windows-11-user-account/"><u>Complete Guide: Erasing Your Windows 11 User Account</u></a></li>
+<li><a href="https://win-forum.techidaily.com/comprehensive-guide-to-leading-social-media-giants-facebook-twitter-instagram-and-youtube/"><u>Comprehensive Guide to Leading Social Media Giants: Facebook, Twitter, Instagram and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/comprehensive-walkthrough-purging-temporary-files-from-windows-5-master-the-art-of-cleanup-optimizing-your-pc-by-clearing-cache-in-windows-10/"><u>Comprehensive Walkthrough: Purging Temporary Files From Windows #5 Master the Art of Cleanup: Optimizing Your PC by Clearing Cache in Windows 10</u></a></li>
+<li><a href="https://win-forum.techidaily.com/confidentiality-matters-the-definitive-guide-to-adding-passwords-to-text-files/"><u>Confidentiality Matters: The Definitive Guide to Adding Passwords to Text Files</u></a></li>
+<li><a href="https://win-forum.techidaily.com/connect-with-the-world-through-top-social-media-sites-facebook-twitter-instagram-youtube/"><u>Connect with the World Through Top Social Media Sites: Facebook, Twitter, Instagram, YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/1723016010025-corsair-virtuoso-mic-woes-heres-how-to-get-it-working-again/"><u>Corsair Virtuoso Mic Woes? Here's How to Get It Working Again!</u></a></li>
+<li><a href="https://win-forum.techidaily.com/decoding-the-windows-registry-functionality-and-maintenance-tips-from-revouninstaller/"><u>Decoding the Windows Registry Functionality and Maintenance Tips From RevoUninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/effective-fixes-for-unexpected-outcomes-when-running-plans-on-windows-11/"><u>Effective Fixes for Unexpected Outcomes When Running Plans on Windows 11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/efficient-drive-cleanup-tips-for-windows-11-the-role-of-revo-uninstaller/"><u>Efficient Drive Cleanup Tips for Windows 11: The Role of Revo Uninstaller</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/essential-picks-the-ultimate-list-of-alarm-clock-apps/"><u>Essential Picks: The Ultimate List of Alarm Clock Apps</u></a></li>
+<li><a href="https://win-forum.techidaily.com/expert-advice-uninstalling-unlisted-software-without-control-panel-access/"><u>Expert Advice: Uninstalling Unlisted Software Without Control Panel Access</u></a></li>
+<li><a href="https://win-forum.techidaily.com/1722915345020-explore-the-giants-of-online-engagement-facebook-twitter-instagram-and-youtube/"><u>Explore the Giants of Online Engagement: Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-safely-force-close-hanging-apps-on-your-windows-11-machine-a-step-by-step-tutorial/"><u>How to Safely Force Close Hanging Apps on Your Windows 11 Machine - A Step by Step Tutorial</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-gamers-paradise-our-candidate-7-best-fps-titles/"><u>In 2024, Gamer's Paradise  Our Candidate 7 Best FPS Titles</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-social-media-landscapes-a-deep-dive-into-instagram-twitter-facebook-and-youtube/"><u>Mastering Social Media Landscapes: A Deep Dive Into Instagram, Twitter, Facebook & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-the-digital-age-with-major-platforms-insights-into-facebook-twitter-instagram-and-youtube/"><u>Mastering the Digital Age with Major Platforms: Insights Into Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-your-audience-across-leading-platforms-facebook-twitter-instagram-and-youtube/"><u>Mastering Your Audience Across Leading Platforms - Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/overcoming-installation-obstacles-how-to-make-windows-11-run-smoothly-again/"><u>Overcoming Installation Obstacles: How to Make Windows 11 Run Smoothly Again</u></a></li>
+<li><a href="https://win-forum.techidaily.com/protect-your-device-effective-strategies-for-detecting-dangerous-apps-on-android/"><u>Protect Your Device: Effective Strategies for Detecting Dangerous Apps on Android</u></a></li>
+<li><a href="https://win-forum.techidaily.com/revolutionize-your-system-discover-the-power-of-revo-uninstaller-pro-version-5/"><u>Revolutionize Your System: Discover the Power of Revo Uninstaller Pro Version 5!</u></a></li>
+<li><a href="https://win-forum.techidaily.com/social-media-essentials-mastering-interaction-on-facebook-twitter-instagram-and-youtube/"><u>Social Media Essentials: Mastering Interaction on Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-big-four-in-online-interaction-connect-and-engage-on-facebook-twitter-instagram-and-youtube/"><u>The Big Four in Online Interaction: Connect and Engage on Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-funniest-in-the-business-5-reaction-video-makers-youll-love/"><u>The Funniest in the Business 5 Reaction Video Makers Youll Love</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-powerhouse-platforms-of-social-interaction-a-deep-dive-into-facebook-twitter-instagram-and-youtube/"><u>The Powerhouse Platforms of Social Interaction: A Deep Dive Into Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-ultimate-walkthrough-how-to-refresh-device-drivers-on-windows-10-with-the-help-of-revouninstaller/"><u>The Ultimate Walkthrough: How to Refresh Device Drivers on Windows 10 with the Help of RevoUninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-social-networking-sites-unveiled-facebook-twitter-instagram-and-youtube/"><u>Top Social Networking Sites Unveiled: Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-social-networks-for-sharing-content-facebook-twitter-instagram-and-youtube/"><u>Top Social Networks for Sharing Content: Facebook, Twitter, Instagram and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/troubleshooting-guide-freeing-up-space-by-deleting-winlogon-files/"><u>Troubleshooting Guide: Freeing Up Space by Deleting Winlogon Files</u></a></li>
+<li><a href="https://win-forum.techidaily.com/troubleshooting-unexpected-issues-in-windows-11-operating-system/"><u>Troubleshooting Unexpected Issues in Windows 11 Operating System</u></a></li>
+<li><a href="https://win-forum.techidaily.com/ultimate-guide-complete-steps-for-permanently-deleting-folders-in-windows-1011-using-revo-uninstaller/"><u>Ultimate Guide: Complete Steps for Permanently Deleting Folders in Windows 10/11 Using Revo Uninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/ultimate-guide-ensuring-administrative-access-every-time-for-your-windows-11-apps/"><u>Ultimate Guide: Ensuring Administrative Access Every Time for Your Windows 11 Apps</u></a></li>
+<li><a href="https://win-forum.techidaily.com/ultimate-guide-how-to-forcibly-close-unresponsive-apps-in-windows-11-using-quick-fixes/"><u>Ultimate Guide: How to Forcibly Close Unresponsive Apps in Windows 11 Using Quick Fixes</u></a></li>
+<li><a href="https://win-forum.techidaily.com/ultimate-trick-for-permanent-administrator-access-when-opening-programs-on-windows-11/"><u>Ultimate Trick for Permanent Administrator Access When Opening Programs on Windows 11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/understanding-social-media-titans-a-deep-dive-into-facebook-twitter-instagram-and-youtube/"><u>Understanding Social Media Titans: A Deep Dive Into Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/understanding-the-digital-era-a-guide-to-facebook-twitter-instagram-and-youtube/"><u>Understanding the Digital Era: A Guide to Facebook, Twitter, Instagram, and Youtube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/understanding-the-impact-of-social-media-giants-facebook-twitter-instagram-and-youtube/"><u>Understanding the Impact of Social Media Giants: Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/understanding-the-windows-registry-and-its-role-with-revo-uninstaller/"><u>Understanding the Windows Registry & Its Role with Revo Uninstaller</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-mobile-video-editing-with-music-top-apps-for-android-and-ios-for-2024/"><u>Updated Mobile Video Editing with Music Top Apps for Android and iOS for 2024</u></a></li>
+</ul></div>

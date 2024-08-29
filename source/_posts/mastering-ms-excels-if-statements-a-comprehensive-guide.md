@@ -1,7 +1,7 @@
 ---
 title: "Mastering MS Excel's IF Statements: A Comprehensive Guide"
-date: 2024-08-28 10:29:32
-updated: 2024-08-29 12:44:10
+date: 2024-08-28T04:29:21.318Z
+updated: 2024-08-29T04:29:21.318Z
 tags:
   - excel
 categories:
@@ -26,6 +26,9 @@ thumbnail: https://thmb.techidaily.com/d1114cdd62049ffd7653e7094748e36a17e96d607
 
  When you use these functions in conjunction with others, like [the IF function](https://extra-skills.techidaily.com/in-2024-spark-engagement-the-ultimate-list-of-video-text-effects/), you can put parameters around your true/false statements. But, you can also use the IS functions on their own if it's beneficial. Let's take a look at how they work.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ##  The IS Functions in Excel
 
  The syntax for each function's formula is the same with just one argument: 
@@ -74,6 +77,9 @@ thumbnail: https://thmb.techidaily.com/d1114cdd62049ffd7653e7094748e36a17e96d607
 
 ![ISBLANK function in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/ISBLANK-ExcelISFunctions.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Now we'll include the IF function to display a question mark (?) for a blank cell and a hyphen (-) for a cell containing data.
 
 =IF(ISBLANK(A1),"?","-")
@@ -94,6 +100,9 @@ thumbnail: https://thmb.techidaily.com/d1114cdd62049ffd7653e7094748e36a17e96d607
 
 ![ISERROR function in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/ISERROR-ExcelISFunctions.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
  Now we can add the IF function to display something other than True or False. If the calculation results in an error, we'll display 1, otherwise, we'll display 2.
 
 =IF(ISERROR(A1/B1),A,B)
@@ -128,18 +137,29 @@ Related: [How to Hide Error Values and Indicators in Microsoft Excel](https://in
 
 ![ISNUMBER function in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/ISNUMBER-ExcelISFunctions.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
  We can do the same thing with the ISTEXT function. Here we have our ISTEXT function to see if [the value is text](https://video-screen-grab.techidaily.com/updated-the-art-of-smooth-video-transitioning-for-2024/) or not.
 
 =ISTEXT(A1)
 
 ![ISTEXT function in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/ISTEXT-ExcelISFunctions.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  And with the IF function, we can display "Please enter text" if the value is something other than text.
 
 =IF(ISTEXT(A1)," ","Please enter text")
 
 ![ISTEXT function in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/ISTEXT-ExcelISFunctions.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
  These are basic examples of how to use the IS functions in Excel. They are available for simple checks of data on their own or more complex tests when combined with other functions.
 
 | |  Mastering Excel Functions |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |  |
@@ -162,3 +182,43 @@ Related: [How to Hide Error Values and Indicators in Microsoft Excel](https://in
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-unlocking-the-million-sub-code-insights-for-digital-growth/"><u>[New] 2024 Approved  Unlocking the Million-Sub Code  Insights for Digital Growth</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-inside-look-whatsapps-voice-message-technology/"><u>[New] Inside Look  WhatsApp's Voice Message Technology</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-mastering-the-music-merger-for-captivating-social-media-vids/"><u>[New] Mastering the Music Merger for Captivating Social Media Vids</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-perfect-your-crafting-skills-using-these-7-sounds-tracks/"><u>[Updated] Perfect Your Crafting Skills Using These 7 Sounds Tracks</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-ranking-the-top-12-streamlined-screen-swivel-cams-for-content-for-2024/"><u>[Updated] Ranking the Top 12 Streamlined Screen-Swivel Cams for Content for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-step-by-step-method-for-selecting-tiktok-screenshots/"><u>[Updated] Step-by-Step Method for Selecting TikTok Screenshots</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-uniting-zoom-timings-with-phone-and-pc-schedules-effortlessly/"><u>2024 Approved  Uniting Zoom Timings with Phone & PC Schedules Effortlessly</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-unveiling-youtubes-cc-policy-for-aspiring-creators/"><u>2024 Approved  Unveiling YouTube's CC Policy for Aspiring Creators</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-lava-blaze-curve-5g-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Lava Blaze Curve 5G? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/comparing-major-platforms-the-battle-of-facebook-twitter-instagram-and-youtube/"><u>Comparing Major Platforms: The Battle of Facebook, Twitter, Instagram and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/connect-with-billions-a-comprehensive-guide-to-facebook-twitter-instagram-and-youtube/"><u>Connect with Billions: A Comprehensive Guide to Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/effective-methods-for-permanent-removal-of-windows-10-users-with-revouninstaller-tools/"><u>Effective Methods for Permanent Removal of Windows 10 Users with RevoUninstaller Tools</u></a></li>
+<li><a href="https://win-forum.techidaily.com/expert-tips-for-disabling-and-uninstalling-windows-os-version-updates-in-win10-and-win11-through-revouninstaller-software/"><u>Expert Tips for Disabling and Uninstalling Windows OS Version Updates in Win10 & Win11 Through RevoUninstaller Software</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-popular-social-networks-insights-into-facebook-twitter-instagram-and-youtube-usage/"><u>Exploring Popular Social Networks: Insights Into Facebook, Twitter, Instagram, and YouTube Usage</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-social-media-giants-insights-into-facebook-twitter-instagram-and-youtube-usage/"><u>Exploring Social Media Giants: Insights Into Facebook, Twitter, Instagram and YouTube Usage</u></a></li>
+<li><a href="https://video-capture.techidaily.com/full-features-explored-logitechs-professional-4k-cam/"><u>Full Features Explored  Logitech’s Professional 4K Cam</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-stop-windows-explorer-from-endlessly-closing-down-top-remedies-explored/"><u>How to Stop Windows Explorer From Endlessly Closing Down - Top Remedies Explored</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-best-honor-magic-v2-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Honor Magic V2 Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-pro-tips-for-iphone-burst-photo-sequences/"><u>In 2024, Pro Tips for iPhone Burst Photo Sequences</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-scripts-to-screen-a-filmmakers-guide/"><u>In 2024, Scripts to Screen  A Filmmaker's Guide</u></a></li>
+<li><a href="https://win-forum.techidaily.com/master-the-art-of-removing-stubborn-folders-on-windows-11-using-revo-uninstaller/"><u>Master the Art of Removing Stubborn Folders on Windows 11 Using Revo Uninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-power-of-command-prompt-how-to-eliminate-data-on-windows-10-systems/"><u>Navigating the Power of Command Prompt: How to Eliminate Data on Windows 10 Systems</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-world-of-online-interactions-with-facebook-twitter-instagram-youtube/"><u>Navigating the World of Online Interactions with Facebook, Twitter, Instagram, Youtube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/1722915233634-social-media-titans-facebook-twitter-instagram-and-youtube/"><u>Social Media Titans: Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-clearing-the-domain-name-system-cache-on-windows-10-and-11/"><u>Step-by-Step Guide: Clearing the Domain Name System Cache on Windows 10 & 11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-troubleshooting-eliminating-lag-in-new-world-adventures/"><u>Step-by-Step Troubleshooting: Eliminating Lag in 'New World' Adventures</u></a></li>
+<li><a href="https://win-forum.techidaily.com/stop-file-explorer-disruptions-with-these-7-proven-fixes/"><u>Stop File Explorer Disruptions with These 7 Proven Fixes</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-digital-mosaic-a-guide-to-successful-branding-on-facebook-twitter-instagram-and-youtube/"><u>The Digital Mosaic: A Guide to Successful Branding on Facebook, Twitter, Instagram & Youtube.</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-essential-hubs-for-online-connection-unpacking-facebook-twitter-instagram-and-youtubes-impact/"><u>The Essential Hubs for Online Connection: Unpacking Facebook, Twitter, Instagram & Youtube's Impact</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-power-of-networking-unpacking-facebook-twitter-instagram-and-youtubes-influence/"><u>The Power of Networking: Unpacking Facebook, Twitter, Instagram & YouTube's Influence</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-power-trio-of-social-networks-unpacking-facebook-twitter-instagram-and-youtube-influence/"><u>The Power Trio of Social Networks: Unpacking Facebook, Twitter, Instagram & YouTube Influence</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-social-media-giants-an-overview-of-facebook-twitter-instagram-and-youtube-trends/"><u>The Social Media Giants: An Overview of Facebook, Twitter, Instagram & YouTube Trends</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-ultimate-guide-to-system-restore-for-troubleshooting-your-windows-10-pc/"><u>The Ultimate Guide to System Restore for Troubleshooting Your Windows 10 PC</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-unwatermark-your-tiktok-videos-top-online-removal-methods/"><u>Updated 2024 Approved Unwatermark Your TikTok Videos Top Online Removal Methods</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-pursuit-of-quality-sound-capture-on-a-budget-ultimate-guide-to-free-voice-recorders-for-the-year-2024/"><u>Updated In Pursuit of Quality Sound Capture on a Budget - Ultimate Guide to Free Voice Recorders for the Year 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-itel-a70-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Itel A70 | Dr.fone</u></a></li>
+</ul></div>

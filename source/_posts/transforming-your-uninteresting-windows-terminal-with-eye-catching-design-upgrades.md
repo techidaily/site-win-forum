@@ -1,7 +1,7 @@
 ---
 title: Transforming Your Uninteresting Windows Terminal with Eye-Catching Design Upgrades
-date: 2024-08-28 11:54:14
-updated: 2024-08-29 11:56:29
+date: 2024-08-28T04:27:46.419Z
+updated: 2024-08-29T04:27:46.419Z
 tags:
   - windows
 categories:
@@ -45,6 +45,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Transparent Windows Terminal title bar](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/transparent-windows-terminal-title-bar.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ###  Changing Themes
 
  In the "Appearance" menu, you can choose Light and Dark themes from the "Application Theme" drop-down menu.
@@ -55,6 +61,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Windows Terminal color schemes](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/windows-terminal-color-schemes.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  When adding a new color scheme, you have two options.
 
  You can press the "Add New" button, play around with the color selection, and press the "Save" button to save it as a new color scheme. Then, you can choose that scheme from the list of color schemes. You need to set it as default to start using it.
@@ -75,18 +84,39 @@ Close
 
 ![Opening the Windows Terminal JSON file](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/windows-terminal-json-file.png) 
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  It will open in your default [text editor](https://android-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-lava-yuva-3-drfone-by-drfone-virtual-android/) for JSON files, which is probably [Notepad](https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-poco-x6-pro-drfone-by-drfone-android/). After that, scroll down until you find the Schemes section. You can also use the search functionality to find it faster.
 
 ![Windows Terminal JSON color schemes](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/windows-terminal-json-color-schemes.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
  After finding the schemes section, scroll down a bit further until you reach the last scheme (each scheme is closed between curly braces and then comma separated.) Add a comma after the last scheme and then paste the JSON code of your color scheme.
 
 ![Adding a new color scheme to the Windows Terminal using JSON](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/adding-a-new-color-scheme-to-the-windows-terminal-using-json.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Save the file and exit the JSON file. Go back to the "Color Schemes" menu, and you should see the newly added theme in the list. Set it as default to use it. Press the "Save" button to save your changes. To see the new theme in action, restart the Windows Terminal.
 
 ![Dark Solarized Patched color scheme on the Windows Terminal](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/dark-solarized-patched-color-scheme-on-the-windows-terminal.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ###  Fonts
 
  To change the fonts you use in the Terminal, go to "Defaults" under Profiles. Then, under Additional Settings, go to "Appearance."
@@ -105,14 +135,24 @@ Close
 
 ![Choosing colors in the Windows Terminal](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/choosing-colors-in-the-windows-terminal.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  If you don't like using solid colors for the Terminal background, you can also choose images. Go to Defaults > Appearance, then under Background Image, provide a path for the image you'd like to use as the background. You can also use your desktop wallpaper. Once you choose an image, you'll notice more options, such as the image stretch mode, alignment, and opacity.
 
 ![Windows Terminal background settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/windows-terminal-background-settings.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
  Make sure to choose a less bright image as your background. Otherwise, you'll have a hard time seeing the text. Another option is to lower the opacity to about 50%.
 
 ![Windows Terminal with an image background](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/windows-terminal-with-an-image-background.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ##  Using Oh My Posh to Beautify the Windows Terminal
 
  Oh My Posh is a custom prompt theme engine for shells, including CMD and PowerShell. It allows you to set colorful and meaningful themes on the Terminal prompt.
@@ -131,6 +171,9 @@ oh-my-posh
 
 ![Using Oh My Posh in the Windows Terminal](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/using-oh-my-posh-in-the-windows-terminal.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Great! It's been installed successfully. Now we can customize our Terminal using this tool.
 
 ###  Customizing the Terminal
@@ -143,6 +186,9 @@ oh-my-posh font install
 
 ![Installing the Meslo font using Oh My Posh](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/installing-the-meslo-font-using-oh-my-posh.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
  Alternatively, you can install the font by adding its name to the previous command, like this:
 
 oh-my-posh font install meslo
@@ -171,6 +217,9 @@ oh-my-posh init pwsh | Invoke-Expression
 
 ![Editing PowerShell profile on Windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/editing-powershell-profile-on-windows.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Save the file and reload the profile with this command:
 
 . $PROFILE
@@ -187,12 +236,18 @@ Get-PoshThemes
 
 ![Oh My Posh themes displayed in PowerShell](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/oh-my-posh-themes.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
  I really like the "atomic" theme, so I'll switch to that. To switch the theme, I'll run:
 
 oh-my-posh init pwsh --config "$env:POSH_THEMES_PATH/atomic.omp.json" | Invoke-Expression
 
 ![Changing the theme in Oh My Posh](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/changing-the-theme-in-oh-my-posh.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  If you want to switch to another theme, just replace "atomic" with your theme name in the above script.
 
  If you see an error about Get-PSReadLineKeyHandler, run **Install-Module PsReadLine -Force** as administrator first.
@@ -223,10 +278,16 @@ Import-Module -Name Terminal-Icons
 
 ![Listing the directory content in Windows 11 using PowerShell](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/listing-the-directory-content-in-windows-11-using-powershell.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
  Combining everything so far, here's my final result.
 
 ![A customized Windows Terminal](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/customized-windows-terminal-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  A Beautiful Windows Terminal at Your Service
 
  By now, you should have a cool looking Terminal on your Windows computer. With some creativity, you can make it more flashy. If you'd like to read more on what you can do with Oh My Posh, check the [official documentation](https://ohmyposh.dev/docs).
@@ -245,3 +306,47 @@ Import-Module -Name Terminal-Icons
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-discovering-your-lately-watched-fb-movies-made-simple/"><u>[New] 2024 Approved  Discovering Your Lately Watched Fb Movies Made Simple</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-advanced-tactics-preserving-the-integrity-of-whatsapp-talks-for-2024/"><u>[New] Advanced Tactics  Preserving the Integrity of WhatsApp Talks for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exploring-the-features-of-asuss-proart-pa-329q-the-ultimate-professional-display/"><u>[Updated] Exploring the Features of Asus's ProArt PA 329Q – The Ultimate Professional Display</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-studio-vs-campers-arena/"><u>[Updated] In 2024, Studio vs Camper's Arena</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-depicting-facial-dynamics-blur-effects-in-picsart/"><u>2024 Approved  Depicting Facial Dynamics  Blur Effects in Picsart</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-from-blurred-to-bold-a-comprehensive-approach-to-buying-high-resolution-monitors/"><u>2024 Approved  From Blurred to Bold  A Comprehensive Approach to Buying High-Resolution Monitors</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-marketing-edge-with-video-based-client-advocacy/"><u>2024 Approved  Marketing Edge with Video-Based Client Advocacy</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/2024-approved-perfecting-the-pitch-audio-amplification-for-impactful-tiktok-videos/"><u>2024 Approved  Perfecting the Pitch  Audio Amplification for Impactful TikTok Videos</u></a></li>
+<li><a href="https://windows11.techidaily.com/boost-command-line-capabilities-in-latest-windows-releases/"><u>Boost Command-Line Capabilities in Latest Windows Releases</u></a></li>
+<li><a href="https://win-forum.techidaily.com/bypassing-control-panel-limits-for-complete-software-deletion/"><u>Bypassing Control Panel Limits for Complete Software Deletion</u></a></li>
+<li><a href="https://win-forum.techidaily.com/command-prompt-mastery-efficiently-deleting-filesfolders-in-windows-10/"><u>Command Prompt Mastery: Efficiently Deleting Files/Folders in Windows 10</u></a></li>
+<li><a href="https://win-forum.techidaily.com/comprehensive-guide-to-leading-social-media-giants-facebook-twitter-instagram-and-youtube/"><u>Comprehensive Guide to Leading Social Media Giants: Facebook, Twitter, Instagram and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/comprehensive-walkthrough-purging-temporary-files-from-windows-5-master-the-art-of-cleanup-optimizing-your-pc-by-clearing-cache-in-windows-10/"><u>Comprehensive Walkthrough: Purging Temporary Files From Windows #5 Master the Art of Cleanup: Optimizing Your PC by Clearing Cache in Windows 10</u></a></li>
+<li><a href="https://win-forum.techidaily.com/confidentiality-matters-the-definitive-guide-to-adding-passwords-to-text-files/"><u>Confidentiality Matters: The Definitive Guide to Adding Passwords to Text Files</u></a></li>
+<li><a href="https://win-forum.techidaily.com/connect-with-the-world-through-top-social-media-sites-facebook-twitter-instagram-youtube/"><u>Connect with the World Through Top Social Media Sites: Facebook, Twitter, Instagram, YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/connecting-through-digital-age-giants-a-look-at-facebook-twitter-instagram-and-youtube/"><u>Connecting Through Digital Age Giants: A Look at Facebook, Twitter, Instagram & Youtube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/1723016010025-corsair-virtuoso-mic-woes-heres-how-to-get-it-working-again/"><u>Corsair Virtuoso Mic Woes? Here's How to Get It Working Again!</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/cost-effective-canon-t6-review-dslr-essentials/"><u>Cost-Effective Canon T6 Review: DSLR Essentials</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-samsung-galaxy-z-fold-5-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Samsung Galaxy Z Fold 5 Activity | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-fb-activity-preview-insight-or-intrusion-whats-safer/"><u>In 2024, FB Activity Preview  Insight or Intrusion – What's Safer?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlock-your-visuals-quick-and-costless-video-downloads-on-pinterest/"><u>In 2024, Unlock Your Visuals  Quick & Costless Video Downloads on Pinterest</u></a></li>
+<li><a href="https://win-forum.techidaily.com/master-the-art-of-text-file-security-a-detailed-walkthrough-on-applying-password-protection/"><u>Master the Art of Text File Security: A Detailed Walkthrough on Applying Password Protection</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-world-of-online-interaction-insights-into-facebook-twitter-instagram-and-youtube/"><u>Navigating the World of Online Interaction: Insights Into Facebook, Twitter, Instagram and YouTube</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-vn-video-editor-for-computer-a-concise-review-and-guide/"><u>New In 2024, VN Video Editor for Computer A Concise Review and Guide</u></a></li>
+<li><a href="https://win-forum.techidaily.com/overcoming-installation-obstacles-how-to-make-windows-11-run-smoothly-again/"><u>Overcoming Installation Obstacles: How to Make Windows 11 Run Smoothly Again</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/quick-and-simple-fix-laptop-display-vertical-alignment/"><u>Quick & Simple Fix: Laptop Display Vertical Alignment</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/quick-glance-at-stars-contribution/"><u>Quick Glance at Star's Contribution</u></a></li>
+<li><a href="https://win-forum.techidaily.com/resolving-disk-space-issues-in-windows-11-a-step-by-step-guide/"><u>Resolving Disk Space Issues in Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-forum.techidaily.com/solving-your-sluggish-pc-woes-a-guide-using-revo-uninstaller/"><u>Solving Your Sluggish PC Woes: A Guide Using Revo Uninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-updating-your-windows-10-device-drivers/"><u>Step-by-Step Guide: Updating Your Windows 10 Device Drivers</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-convenience-of-using-hunter-mode-revo-uninstaller/"><u>The Convenience of Using Hunter Mode - Revo Uninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-powerhouse-platforms-of-social-interaction-a-deep-dive-into-facebook-twitter-instagram-and-youtube/"><u>The Powerhouse Platforms of Social Interaction: A Deep Dive Into Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-ultimate-guide-to-unlocking-apple-watch-or-iphone-se-2022-from-icloud-by-drfone-ios/"><u>The Ultimate Guide to Unlocking Apple Watch Or iPhone SE (2022) from iCloud</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-ultimate-guide-deleting-items-using-cmd-on-windows-10/"><u>The Ultimate Guide: Deleting Items Using CMD on Windows 10</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-ultimate-walkthrough-resetting-your-windows-11-system-to-its-roots-with-revo-uninstaller/"><u>The Ultimate Walkthrough: Resetting Your Windows 11 System to Its Roots with Revo Uninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-social-networking-sites-unveiled-facebook-twitter-instagram-and-youtube/"><u>Top Social Networking Sites Unveiled: Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/ultimate-guide-complete-steps-for-permanently-deleting-folders-in-windows-1011-using-revo-uninstaller/"><u>Ultimate Guide: Complete Steps for Permanently Deleting Folders in Windows 10/11 Using Revo Uninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/ultimate-guide-ensuring-administrative-access-every-time-for-your-windows-11-apps/"><u>Ultimate Guide: Ensuring Administrative Access Every Time for Your Windows 11 Apps</u></a></li>
+<li><a href="https://win-forum.techidaily.com/ultimate-guide-how-to-forcibly-close-unresponsive-apps-in-windows-11-using-quick-fixes/"><u>Ultimate Guide: How to Forcibly Close Unresponsive Apps in Windows 11 Using Quick Fixes</u></a></li>
+<li><a href="https://win-forum.techidaily.com/windows-11-users-tutorial-how-to-terminate-a-frozen-application-via-task-manager/"><u>Windows 11 User's Tutorial: How to Terminate a Frozen Application via Task Manager</u></a></li>
+</ul></div>

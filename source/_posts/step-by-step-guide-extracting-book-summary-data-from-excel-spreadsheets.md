@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Extracting Book Summary Data From Excel Spreadsheets"
-date: 2024-08-26 21:45:53
-updated: 2024-08-29 11:26:20
+date: 2024-08-28T04:29:58.698Z
+updated: 2024-08-29T04:29:58.698Z
 tags:
   - excel
 categories:
@@ -36,6 +36,9 @@ thumbnail: https://thmb.techidaily.com/98a12915cb3d2cb54c3468dae6fd64cafa98af714
 
 ![Workbooks Statistics for two sheets](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/WorkbooksStatisticsTwoWindows-Excel.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ##  Data Included in Workbook Statistics
 
  You can see a decent amount of data with the Workbook Statistics feature. This is helpful for situations where you expect to see something in your current sheet or workbook and you don't, or vice versa. Statistics differ slightly between the spreadsheet and the entire workbook. Also, keep in mind that most are simple counts (numbers).
@@ -77,3 +80,50 @@ thumbnail: https://thmb.techidaily.com/98a12915cb3d2cb54c3468dae6fd64cafa98af714
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-parrots-in-flight-a-deep-dive-into-bebops-essence/"><u>[New] In 2024, Parrots in Flight  A Deep Dive Into Bebop's Essence</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-navigating-self-viewer-phenomenon-in-facebook-live-conversations-for-2024/"><u>[New] Navigating Self-Viewer Phenomenon in Facebook Live Conversations for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-how-to-amend-blurry-mobile-streaming-on-social-platforms/"><u>[Updated] In 2024, How to Amend Blurry Mobile Streaming on Social Platforms</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-perfect-timeline-control-with-top-20-tweet-management-apps/"><u>[Updated] In 2024, Perfect Timeline Control with Top 20 Tweet Management Apps</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-sprinkle-some-joy-incorporating-emojis-into-youtube-discussions/"><u>[Updated] In 2024, Sprinkle Some Joy  Incorporating Emojis Into Youtube Discussions</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-rev-voice-recorder-review-for-2024/"><u>[Updated] Rev Voice Recorder Review for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-the-insiders-guide-to-recording-on-itunes-for-2024/"><u>[Updated] The Insider's Guide to Recording on iTunes for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-charting-the-course-for-profitable-youtube-videos/"><u>2024 Approved  Charting the Course for Profitable Youtube Videos</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-expertise-in-quick-creation-professional-valorant-thumbnail-art/"><u>2024 Approved  Expertise in Quick Creation  Professional Valorant Thumbnail Art</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-quick-click-quests-top-10-agile-gaming-platforms/"><u>2024 Approved  Quick Click Quests  Top 10 Agile Gaming Platforms</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-honor-magic-6-lite-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Honor Magic 6 Lite | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-oneplus-12r-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On OnePlus 12R | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/becoming-an-expert-at-scheduling-virtual-team-sessions-google/"><u>Becoming an Expert at Scheduling Virtual Team Sessions (Google)</u></a></li>
+<li><a href="https://win-forum.techidaily.com/connect-and-engage-on-major-online-channels-facebook-twitter-instagram-and-youtube/"><u>Connect and Engage on Major Online Channels: Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/demystifying-srt-to-sub-clear-practical-solutions/"><u>Demystifying SRT to SUB  Clear, Practical Solutions</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-to-samsung-galaxy-xcover-6-pro-tactical-edition-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Samsung Galaxy XCover 6 Pro Tactical Edition FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://win-forum.techidaily.com/expert-techniques-for-forcefully-expunging-resistant-folders-from-windows-os-using-revo-uninstaller/"><u>Expert Techniques for Forcefully Expunging Resistant Folders From Windows OS Using Revo Uninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/freeing-up-space-on-your-windows-11-system-a-comprehensive-guide/"><u>Freeing Up Space on Your Windows 11 System: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-fix-pc-issues-preventing-windows-11-installation-successfully/"><u>How to Fix PC Issues Preventing Windows 11 Installation Successfully</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-implement-driver-updates-on-your-computer-running-windows-10-effortlessly/"><u>How to Implement Driver Updates on Your Computer Running Windows 10 Effortlessly</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-implement-power-on-by-lan-functionality-on-windows-11/"><u>How to Implement Power On By LAN Functionality on Windows 11</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-any-samsung-galaxy-f34-5g-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Samsung Galaxy F34 5G Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-poco-c51-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Poco C51</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-gopro-vs-yi-updated-battle-for-ultimate-action-recording/"><u>In 2024, GoPro Vs. YI  Updated Battle for Ultimate Action Recording</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-implementing-visual-learning-strategies-in-classrooms/"><u>In 2024, Implementing Visual Learning Strategies in Classrooms</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-honor-100-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Honor 100 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-optimal-downloaders-your-guide-to-superior-4k-content/"><u>In 2024, Optimal Downloaders  Your Guide to Superior 4K Content</u></a></li>
+<li><a href="https://win-forum.techidaily.com/manual-methods-for-deleting-dump-files-in-windows-11-os/"><u>Manual Methods for Deleting Dump Files in Windows 11 OS</u></a></li>
+<li><a href="https://win-forum.techidaily.com/master-network-troubleshooting-how-to-perform-a-dns-purge-on-windows-1011/"><u>Master Network Troubleshooting: How to Perform a DNS Purge on Windows 10/11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/master-the-art-of-file-management-avoid-locked-folders-in-windows-11-for-a-cleaner-drive/"><u>Master the Art of File Management: Avoid-Locked-Folders in Windows 11 for a Cleaner Drive</u></a></li>
+<li><a href="https://win-forum.techidaily.com/master-the-installation-of-revo-permission-manager-using-revouninstaller-a-detailed-guide/"><u>Master the Installation of Revo Permission Manager Using RevoUninstaller - A Detailed Guide</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-social-media-landscapes-with-facebook-twitter-instagram-and-youtube/"><u>Mastering Social Media Landscapes with Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-the-windows-11-installation-hurdle-on-incompatible-systems/"><u>Mastering the Windows 11 Installation Hurdle on Incompatible Systems</u></a></li>
+<li><a href="https://win-forum.techidaily.com/maximize-performance-with-revouninstaller-pro-5-advanced-uninstalling-at-its-best/"><u>Maximize Performance with RevoUninstaller Pro 5 - Advanced Uninstalling at Its Best</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-digital-world-mastering-engagement-across-facebook-twitter-instagram-and-youtube-platforms/"><u>Navigating the Digital World: Mastering Engagement Across Facebook, Twitter, Instagram & YouTube Platforms</u></a></li>
+<li><a href="https://win-forum.techidaily.com/resolving-full-hard-drive-utilization-on-windows-11-a-comprehensive-guide/"><u>Resolving Full Hard Drive Utilization on Windows 11: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-forum.techidaily.com/social-media-powerhouses-stay-connected-with-facebook-twitter-insta-gram-and-tubeyou/"><u>Social Media Powerhouses: Stay Connected with Facebook, Twitter, Insta-Gram & TubeYou</u></a></li>
+<li><a href="https://win-forum.techidaily.com/solving-windows-11-cannot-launch-issues-in-your-system/"><u>Solving 'Windows 11 Cannot Launch' Issues in Your System</u></a></li>
+<li><a href="https://win-forum.techidaily.com/synergy-of-popular-platforms-strategies-for-facebook-twitter-instagram-and-youtubers/"><u>Synergy of Popular Platforms: Strategies for Facebook, Twitter, Instagram and YouTubers</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-big-players-of-online-networking-navigating-through-facebook-twitter-instagram-and-youtube/"><u>The Big Players of Online Networking: Navigating Through Facebook, Twitter, Instagram and Youtube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-ultimate-guide-to-major-social-media-sites-twitter-instagram-and-more/"><u>The Ultimate Guide to Major Social Media Sites: Twitter, Instagram & More!</u></a></li>
+<li><a href="https://win-forum.techidaily.com/understanding-social-media-impact-with-facebook-twitter-instagram-and-youtube-analysis/"><u>Understanding Social Media Impact with Facebook, Twitter, Instagram, and YouTube Analysis</u></a></li>
+<li><a href="https://win-forum.techidaily.com/unpacking-the-powerhouses-of-digital-communication-facebook-twitter-instagram-and-youtube/"><u>Unpacking the Powerhouses of Digital Communication: Facebook, Twitter, Instagram & YouTube</u></a></li>
+</ul></div>

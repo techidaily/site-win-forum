@@ -1,7 +1,7 @@
 ---
 title: "Efficiently Creating & Handling Windows 11 Passkeys: An In-Depth Tutorial"
-date: 2024-08-27 21:32:28
-updated: 2024-08-29 12:56:55
+date: 2024-08-28T04:27:25.652Z
+updated: 2024-08-29T04:27:25.652Z
 tags:
   - windows
 categories:
@@ -50,6 +50,9 @@ thumbnail: https://thmb.techidaily.com/d8fe7e494aebabf85039c3b9cb2bea4831c07f6e7
 
  You can [find a list of passkey-supported platforms on the Passkeys site](https://www.passkeys.io/who-supports-passkeys).
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  How to Create and Save a Passkey to Your Windows 11 PC
 
  To generate and save a passkey, you'll first visit your favorite website or app’s account settings. From there, you’ll create the key and then save it to your PC. In this guide, we’ll demonstrate how to do that with a Google account.
@@ -60,6 +63,10 @@ thumbnail: https://thmb.techidaily.com/d8fe7e494aebabf85039c3b9cb2bea4831c07f6e7
 
 !['Security' and 'Passkeys and Security Keys' highlighted on Google My Account site.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/1-google-passkey-settings.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
  Google will likely prompt you to enter your account password. Do so and continue.
 
  When the following page opens, at the top, click "Create a Passkey."
@@ -74,6 +81,9 @@ thumbnail: https://thmb.techidaily.com/d8fe7e494aebabf85039c3b9cb2bea4831c07f6e7
 
 !['OK' highlighted in the 'Windows Security' prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/4-google-passkey-created1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  And that’s it. You’ve successfully created a replacement for your Google account password.
 
 ##  How to Use a Passkey to Sign In to a Site or App
@@ -84,6 +94,9 @@ thumbnail: https://thmb.techidaily.com/d8fe7e494aebabf85039c3b9cb2bea4831c07f6e7
 
 !['Sign In' highlighted on Google.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/5-sign-in-google.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
  Enter your Google account username and click "Next."
 
 ![The 'Email or Phone' field and the 'Next' button highlighted on Google's login page.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/6-enter-google-username1.jpg) 
@@ -92,10 +105,16 @@ thumbnail: https://thmb.techidaily.com/d8fe7e494aebabf85039c3b9cb2bea4831c07f6e7
 
 !['Try Another Way' highlighted on Google's password page.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/7-choose-another-way1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Select "Use Your Passkey" to utilize the saved passkey to log in to your account.
 
 !['Use Your Passkey' highlighted on Google's alternate password options.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/8-google-use-passkey1-1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
  Select "Continue" and Google will trigger the "Windows Security" prompt.
 
 !['Continue' highlighted on Google's passkey usage page.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/9-google-continue-passkey1.jpg) 
@@ -106,6 +125,9 @@ thumbnail: https://thmb.techidaily.com/d8fe7e494aebabf85039c3b9cb2bea4831c07f6e7
 
  After you’ve authenticated yourself, you’ll be signed in to your account.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ##  How to View and Delete Passkeys on Windows 11
 
  If you want to see what passkeys you’ve saved, or you want to delete a specific passkey, use the Settings app.
@@ -122,10 +144,16 @@ thumbnail: https://thmb.techidaily.com/d8fe7e494aebabf85039c3b9cb2bea4831c07f6e7
 
 !['Delete Passkey' highlighted for a passkey in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/13-delete-passkey-windows-11.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
  In the open prompt, confirm your action by selecting "Delete."
 
 !['Delete' highlighted in the passkey removal prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/14-passkey-deletion-prompt-windows-11.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Windows 11 has removed the chosen passkey from the database. You can’t log in to that site or app using your PC’s authentication method any more (but you can always re-create any required passkeys).
 
 ---
@@ -146,3 +174,60 @@ thumbnail: https://thmb.techidaily.com/d8fe7e494aebabf85039c3b9cb2bea4831c07f6e7
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-capturing-with-snap-zoom-guide/"><u>[Updated] In 2024, Capturing with Snap  Zoom Guide</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-to-network-or-not-a-detailed-guide-for-youtubers-considering-mncs/"><u>[Updated] To Network, Or Not  A Detailed Guide for YouTubers Considering MNCs</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-unlock-your-fb-potential-with-these-video-engagement-techniques-for-2024/"><u>[Updated] Unlock Your FB Potential with These Video Engagement Techniques for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/10-best-voice-modification-apps-for-vtubing-success-for-2024/"><u>10 Best Voice Modification Apps for VTubing Success for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/bypassing-control-panel-limits-for-complete-software-deletion/"><u>Bypassing Control Panel Limits for Complete Software Deletion</u></a></li>
+<li><a href="https://win-forum.techidaily.com/command-prompt-mastery-efficiently-deleting-filesfolders-in-windows-10/"><u>Command Prompt Mastery: Efficiently Deleting Files/Folders in Windows 10</u></a></li>
+<li><a href="https://win-forum.techidaily.com/comprehensive-guide-to-leading-social-media-giants-facebook-twitter-instagram-and-youtube/"><u>Comprehensive Guide to Leading Social Media Giants: Facebook, Twitter, Instagram and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/comprehensive-walkthrough-purging-temporary-files-from-windows-5-master-the-art-of-cleanup-optimizing-your-pc-by-clearing-cache-in-windows-10/"><u>Comprehensive Walkthrough: Purging Temporary Files From Windows #5 Master the Art of Cleanup: Optimizing Your PC by Clearing Cache in Windows 10</u></a></li>
+<li><a href="https://win-forum.techidaily.com/confidentiality-matters-the-definitive-guide-to-adding-passwords-to-text-files/"><u>Confidentiality Matters: The Definitive Guide to Adding Passwords to Text Files</u></a></li>
+<li><a href="https://win-forum.techidaily.com/connect-with-the-world-through-top-social-media-sites-facebook-twitter-instagram-youtube/"><u>Connect with the World Through Top Social Media Sites: Facebook, Twitter, Instagram, YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/connecting-through-digital-age-giants-a-look-at-facebook-twitter-instagram-and-youtube/"><u>Connecting Through Digital Age Giants: A Look at Facebook, Twitter, Instagram & Youtube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/1723016010025-corsair-virtuoso-mic-woes-heres-how-to-get-it-working-again/"><u>Corsair Virtuoso Mic Woes? Here's How to Get It Working Again!</u></a></li>
+<li><a href="https://win-forum.techidaily.com/effective-fixes-for-unexpected-outcomes-when-running-plans-on-windows-11/"><u>Effective Fixes for Unexpected Outcomes When Running Plans on Windows 11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/expert-advice-uninstalling-unlisted-software-without-control-panel-access/"><u>Expert Advice: Uninstalling Unlisted Software Without Control Panel Access</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-lock-screen-wallpaper-on-samsung-galaxy-s24plus-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Samsung Galaxy S24+</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-oppo-a56s-5g-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Oppo A56s 5G? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-vivo-y36i-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Vivo Y36i Quickly? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-nokia-g310-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Nokia G310</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Xiaomi 13T? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-successfully-bypass-icloud-activation-lock-on-iphone-7-plus-by-drfone-ios/"><u>In 2024, How to Successfully Bypass iCloud Activation Lock on iPhone 7 Plus</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-top-15-cameras-excelling-in-live-streaming/"><u>In 2024, Top 15 Cameras Excelling in Live Streaming</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722878440801-ipad-printing-problems-a-step-by-nstep-guide-to-diagnose-and-repair/"><u>IPad Printing Problems? A Step-by-nStep Guide to Diagnose & Repair!</u></a></li>
+<li><a href="https://win-forum.techidaily.com/master-the-art-of-text-file-security-a-detailed-walkthrough-on-applying-password-protection/"><u>Master the Art of Text File Security: A Detailed Walkthrough on Applying Password Protection</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-social-media-landscapes-a-deep-dive-into-instagram-twitter-facebook-and-youtube/"><u>Mastering Social Media Landscapes: A Deep Dive Into Instagram, Twitter, Facebook & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/maximize-your-pcs-performance-using-revo-uninstaller-pro-5-now/"><u>Maximize Your PC's Performance Using Revo Uninstaller Pro 5 Now</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-giants-of-online-engagement-facebooktwitterinstagramyoutube-guide/"><u>Navigating the Giants of Online Engagement: Facebook/Twitter/Instagram/YouTube Guide</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-world-of-online-interaction-insights-into-facebook-twitter-instagram-and-youtube/"><u>Navigating the World of Online Interaction: Insights Into Facebook, Twitter, Instagram and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/overcoming-installation-obstacles-how-to-make-windows-11-run-smoothly-again/"><u>Overcoming Installation Obstacles: How to Make Windows 11 Run Smoothly Again</u></a></li>
+<li><a href="https://win-forum.techidaily.com/protect-your-device-effective-strategies-for-detecting-dangerous-apps-on-android/"><u>Protect Your Device: Effective Strategies for Detecting Dangerous Apps on Android</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/reactivated-guardrails-strengthening-local-security-protocols/"><u>Reactivated Guardrails: Strengthening Local Security Protocols</u></a></li>
+<li><a href="https://win-forum.techidaily.com/resolving-disk-space-issues-in-windows-11-a-step-by-step-guide/"><u>Resolving Disk Space Issues in Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-forum.techidaily.com/revolutionize-your-system-discover-the-power-of-revo-uninstaller-pro-version-5/"><u>Revolutionize Your System: Discover the Power of Revo Uninstaller Pro Version 5!</u></a></li>
+<li><a href="https://win-forum.techidaily.com/solving-the-windows-11-wont-run-error-on-your-pc-with-revouninstaller/"><u>Solving the 'Windows 11 Wont Run' Error on Your PC with RevoUninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/solving-your-sluggish-pc-woes-a-guide-using-revo-uninstaller/"><u>Solving Your Sluggish PC Woes: A Guide Using Revo Uninstaller</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-simple-setup-of-your-new-brother-printer/"><u>Step-by-Step Guide: Simple Setup of Your New Brother Printer</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-updating-your-windows-10-device-drivers/"><u>Step-by-Step Guide: Updating Your Windows 10 Device Drivers</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-convenience-of-using-hunter-mode-revo-uninstaller/"><u>The Convenience of Using Hunter Mode - Revo Uninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-powerhouse-platforms-of-social-interaction-a-deep-dive-into-facebook-twitter-instagram-and-youtube/"><u>The Powerhouse Platforms of Social Interaction: A Deep Dive Into Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-ultimate-guide-deleting-items-using-cmd-on-windows-10/"><u>The Ultimate Guide: Deleting Items Using CMD on Windows 10</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-ultimate-walkthrough-resetting-your-windows-11-system-to-its-roots-with-revo-uninstaller/"><u>The Ultimate Walkthrough: Resetting Your Windows 11 System to Its Roots with Revo Uninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-four-platforms-in-social-networking-insights-on-facebook-twitter-instagram-and-youtube/"><u>Top Four Platforms in Social Networking: Insights on Facebook, Twitter, Instagram and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-social-networking-sites-unveiled-facebook-twitter-instagram-and-youtube/"><u>Top Social Networking Sites Unveiled: Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/troubleshooting-guide-freeing-up-space-by-deleting-winlogon-files/"><u>Troubleshooting Guide: Freeing Up Space by Deleting Winlogon Files</u></a></li>
+<li><a href="https://win-forum.techidaily.com/troubleshooting-unexpected-issues-in-windows-11-operating-system/"><u>Troubleshooting Unexpected Issues in Windows 11 Operating System</u></a></li>
+<li><a href="https://win-forum.techidaily.com/ultimate-guide-complete-steps-for-permanently-deleting-folders-in-windows-1011-using-revo-uninstaller/"><u>Ultimate Guide: Complete Steps for Permanently Deleting Folders in Windows 10/11 Using Revo Uninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/ultimate-guide-ensuring-administrative-access-every-time-for-your-windows-11-apps/"><u>Ultimate Guide: Ensuring Administrative Access Every Time for Your Windows 11 Apps</u></a></li>
+<li><a href="https://win-forum.techidaily.com/ultimate-guide-how-to-forcibly-close-unresponsive-apps-in-windows-11-using-quick-fixes/"><u>Ultimate Guide: How to Forcibly Close Unresponsive Apps in Windows 11 Using Quick Fixes</u></a></li>
+<li><a href="https://win-forum.techidaily.com/ultimate-trick-for-permanent-administrator-access-when-opening-programs-on-windows-11/"><u>Ultimate Trick for Permanent Administrator Access When Opening Programs on Windows 11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/understanding-the-impact-of-social-media-giants-facebook-twitter-instagram-and-youtube/"><u>Understanding the Impact of Social Media Giants: Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-exploring-archives-for-articulated-grunt-effects/"><u>Updated In 2024, Exploring Archives for Articulated Grunt Effects</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/virtual-playstation-experience-at-your-fingertips-top-5/"><u>Virtual PlayStation Experience at Your Fingertips (Top 5)</u></a></li>
+<li><a href="https://win-forum.techidaily.com/windows-11-troubleshooting-guide-how-to-fix-high-resource-use-by-hard-drive/"><u>Windows 11 Troubleshooting Guide: How to Fix High Resource Use by Hard Drive</u></a></li>
+<li><a href="https://win-forum.techidaily.com/windows-11-users-tutorial-how-to-terminate-a-frozen-application-via-task-manager/"><u>Windows 11 User's Tutorial: How to Terminate a Frozen Application via Task Manager</u></a></li>
+</ul></div>

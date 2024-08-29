@@ -1,7 +1,7 @@
 ---
 title: Complete Tutorial on Adding Strikethrough Formatting in Excel Spreadsheets
-date: 2024-08-28 10:55:39
-updated: 2024-08-29 10:24:16
+date: 2024-08-28T04:29:39.079Z
+updated: 2024-08-29T04:29:39.079Z
 tags:
   - excel
 categories:
@@ -40,6 +40,18 @@ Related: [All the Best Microsoft Excel Keyboard Shortcuts](https://eaxpv-info.te
 
 Related: [How to Rotate Text in Cells in Excel](https://common-error.techidaily.com/rectifying-system-deficiency-msvcr71/) 
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  How to Apply Strikethrough From the Formatting Menu
 
  There's also a graphical menu option to apply strikethrough in your cells.
@@ -48,22 +60,38 @@ Related: [How to Rotate Text in Cells in Excel](https://common-error.techidaily.
 
 ![Select a cell.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/3-choose-cell.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
  At the top, in Excel's ribbon, click the "Home" tab.
 
 ![Click the "Home" tab in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/4-excel-home-tab.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
  On the "Home" tab, from the "Font" section, select the arrow icon.
 
 ![Select the arrow icon in the "Font" section of the "Home" tab.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/5-excel-font-option.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
  A "Format Cells" window will open. Here, in the "Effects" section, enable the "Strikethrough" option. Then, at the bottom, click "OK."
 
 ![Enable "Strikethrough" and click "OK" on the "Format Cells" window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/6-apply-strikethrough-excel.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
  Your selected cell now has the strikethrough effect applied to it.
 
 ![Strikethrough text in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/7-strikethrough-applied-excel.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
  And that's how you check things off in your Microsoft Excel spreadsheets. Very handy!
 
 ---
@@ -86,3 +114,49 @@ Related: [How to Draw a Line Through Words in Microsoft Word](https://media-tips
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-elite-guide-selecting-high-quality-ringtone-downloads/"><u>[New] Elite Guide  Selecting High-Quality Ringtone Downloads</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-game-on-with-premium-screens-for-your-xbox-series-x-console/"><u>[New] Game on with Premium Screens for Your Xbox Series X Console</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-top-12-game-choices-for-the-ultimate-pc-clicking-journey-for-2024/"><u>[New] Top 12 Game Choices for the Ultimate PC Clicking Journey for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-elevate-zooms-audio-tailored-settings-for-immersive-listening/"><u>[Updated] In 2024, Elevate Zoom's Audio  Tailored Settings for Immersive Listening</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-androids-fastest-video-speed-adjusters/"><u>2024 Approved  Android's Fastest Video Speed Adjusters</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-creative-composite-imagery-for-a-brighter-tomorrow/"><u>2024 Approved  Creative Composite Imagery for a Brighter Tomorrow</u></a></li>
+<li><a href="https://win-forum.techidaily.com/advanced-tutorial-deleting-undetected-programs-from-windows-operating-systems/"><u>Advanced Tutorial: Deleting Undetected Programs From Windows Operating Systems</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/affordable-protection-the-ultimate-review-of-the-procase-macbook-pro-13-case/"><u>Affordable Protection: The Ultimate Review of the ProCase MacBook Pro 13 Case</u></a></li>
+<li><a href="https://win-forum.techidaily.com/building-your-online-presence-across-platforms-effective-techniques-for-facebook-twitter-instagram-and-youtube/"><u>Building Your Online Presence Across Platforms: Effective Techniques for Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/complete-tutorial-how-to-remove-memory-dump-files-in-windows-10/"><u>Complete Tutorial: How to Remove Memory Dump Files in Windows 10</u></a></li>
+<li><a href="https://win-forum.techidaily.com/connect-and-engage-on-major-online-channels-facebook-twitter-instagram-and-youtube/"><u>Connect and Engage on Major Online Channels: Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/connecting-in-the-age-of-media-giants-the-power-of-facebook-twitter-instagram-youtube/"><u>Connecting in the Age of Media Giants: The Power of Facebook, Twitter, Instagram, YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/1722915159357-digital-connectivity-essentials-mastering-facebook-twitter-instagram-and-youtube/"><u>Digital Connectivity Essentials: Mastering Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/engage-online-with-leading-sites-facebook-twitter-instagram-youtube/"><u>Engage Online with Leading Sites: Facebook, Twitter, Instagram, Youtube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/expert-advice-for-disabling-new-features-in-your-windows-11-update/"><u>Expert Advice for Disabling New Features in Your Windows 11 Update</u></a></li>
+<li><a href="https://win-forum.techidaily.com/expert-advice-how-to-easily-eliminate-windows-11-user-profiles-via-revouninstaller/"><u>Expert Advice: How to Easily Eliminate Windows 11 User Profiles via RevoUninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-major-online-communities-a-look-at-facebook-twitter-instagram-youtube/"><u>Exploring Major Online Communities - A Look at Facebook, Twitter, Instagram, Youtube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-the-world-of-social-networking-on-fb-twtr-ig-yt/"><u>Exploring the World of Social Networking on FB, TWTR, IG, YT</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-nvidia-geforce-rtx-2080-super-graphics-card-driver-software-compatible-with-windows-10-and-11/"><u>Get the Latest NVIDIA GeForce RTX 2080 Super Graphics Card Driver Software – Compatible with Windows 10 and 11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/guide-to-identifying-the-latest-powershell-version-installed-in-windows-11/"><u>Guide to Identifying the Latest PowerShell Version Installed in Windows 11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/guide-enabling-wake-on-lan-feature-on-your-pc-with-windows-11/"><u>Guide: Enabling Wake-on-LAN Feature on Your PC with Windows 11</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-itel-p55t-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Itel P55T? | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/master-the-factory-reset-process-in-windows-11-with-ease/"><u>Master the Factory Reset Process in Windows 11 with Ease</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-powershell-versions-discover-how-to-check-and-update-in-windows-11/"><u>Mastering PowerShell Versions: Discover How to Check and Update in Windows 11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-system-information-accessing-bios-on-windows-11/"><u>Mastering System Information: Accessing BIOS on Windows 11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-your-pc-with-windows-10-system-restore-explained/"><u>Mastering Your PC with Windows 10 System Restore Explained</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigate-through-social-giants-strategies-for-facebook-twitter-instagram-and-youtube-success/"><u>Navigate Through Social Giants: Strategies for Facebook, Twitter, Instagram, and Youtube Success</u></a></li>
+<li><a href="https://win-forum.techidaily.com/1722915316632-navigating-the-giants-of-online-networking-facebook-twitter-instagram-and-youtube/"><u>Navigating the Giants of Online Networking - Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/optimize-your-windows-11-hard-drive-by-reclaiming-lost-space/"><u>Optimize Your Windows 11 Hard Drive by Reclaiming Lost Space</u></a></li>
+<li><a href="https://win-forum.techidaily.com/revitalize-your-network-connection-a-comprehensive-tutorial-for-flushing-dns-on-windows-operating-systems/"><u>Revitalize Your Network Connection: A Comprehensive Tutorial for Flushing DNS on Windows Operating Systems</u></a></li>
+<li><a href="https://win-forum.techidaily.com/social-media-titans-unveiled-a-deep-dive-into-facebook-twitter-instagram-and-youtube-dynamics/"><u>Social Media Titans Unveiled: A Deep Dive Into Facebook, Twitter, Instagram & YouTube Dynamics</u></a></li>
+<li><a href="https://win-forum.techidaily.com/social-success-strategies-across-key-platforms-insights-for-facebook-twitter-instagram-and-youtube-users/"><u>Social Success Strategies Across Key Platforms: Insights for Facebook, Twitter, Instagram and Youtube Users</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-closing-unresponsive-windows-programs-using-quick-fixes/"><u>Step-by-Step Guide: Closing Unresponsive Windows Programs Using Quick Fixes</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-removing-windows-11-updates-successfully/"><u>Step-by-Step Guide: Removing Windows 11 Updates Successfully</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-tutorial-for-fixing-a-change-of-plan-error-on-windows-11-machines/"><u>Step-by-Step Tutorial for Fixing 'A Change of Plan' Error on Windows 11 Machines</u></a></li>
+<li><a href="https://win-forum.techidaily.com/strategies-for-freeing-up-space-when-windows-10-reports-a-full-disk/"><u>Strategies for Freeing Up Space When Windows 10 Reports a Full Disk</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-top-social-networking-platforms-facebook-twitter-instagram-and-youtube/"><u>The Top Social Networking Platforms: Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-ultimate-guide-to-major-social-media-sites-twitter-instagram-and-more/"><u>The Ultimate Guide to Major Social Media Sites: Twitter, Instagram & More!</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-xiaomi-14-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Xiaomi 14 Ultra | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/1722915367154-top-four-social-media-giants-facebook-twitter-instagram-and-youtube/"><u>Top Four Social Media Giants: Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-platforms-in-social-networking-facebook-twitter-instagram-youtube/"><u>Top Platforms in Social Networking - Facebook, Twitter, Instagram, Youtube</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Realme GT Neo 5 SE | Dr.fone</u></a></li>
+</ul></div>

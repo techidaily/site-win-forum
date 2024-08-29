@@ -1,7 +1,7 @@
 ---
 title: "Mastering File Management: Setting Up Directories & Documents via Windows Command Line"
-date: 2024-08-28 22:57:29
-updated: 2024-08-29 10:26:11
+date: 2024-08-28T04:28:10.364Z
+updated: 2024-08-29T04:28:10.364Z
 tags:
   - windows
 categories:
@@ -35,6 +35,9 @@ thumbnail: https://thmb.techidaily.com/cb670c879e89656e881160d22473efee38dda114d
 
 !['Copy as Path' highlighted for a folder on a Windows PC.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-copy-folder-path-windows.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
  To [open Command Prompt](https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-oppo-a78-frp-by-drfone-android/), click the Start button, search for **command prompt**, then click the relevant result or press Enter. While making folders, if you encounter an error, [run Command Prompt as an admin](https://instagram-videos.techidaily.com/updated-2024-approved-unlocking-instagram-potential-a-comprehensible-guide/) by right-clicking the utility and choosing "Run as Administrator." Make sure to select "Yes" in the User Account Control prompt.
 
 !['Run as Administrator' highlighted for Command Prompt in Start Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-open-command-prompt-as-admin.jpg) 
@@ -43,6 +46,9 @@ thumbnail: https://thmb.techidaily.com/cb670c879e89656e881160d22473efee38dda114d
 
 !['cd' command typed in Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-change-current-directory-command-prompt.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ##  Create a Single Folder
 
  To make a single folder, type the following command, replacing "FolderName" with the name you want to assign to your folder. Then, press Enter.
@@ -59,6 +65,9 @@ mkdir Mahesh
 
 mkdir “Mahesh Makvana”
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ##  Create a Folder Inside Another Folder (Subfolder)
 
  One way to make a folder inside another folder is to make that other folder the current working directory. To do that, type **cd**, press Spacebar, enter the name of the folder in which you want to create a new folder, and press Enter. Then, type the following command, replace "MyFolder" with the name you want to give to your new folder, and press Enter.
@@ -71,6 +80,9 @@ mkdir Photos\Personal
 
 ![Create a subfolder using Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-create-subfolder-cmd.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Create Multiple Folders at Once
 
  To [make several folders at once](https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/), add the required folder names to the mkdir command.
@@ -81,6 +93,9 @@ mkdir Documents Photos Videos
 
 ![Create multiple folders with Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6-create-multiple-folders-cmd.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Make sure to enclose the folder name with double quotes if its name has spaces.
 
 ##  Create a File with Command Prompt
@@ -97,6 +112,9 @@ type nul > document.txt
 
 ![Create a file with Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/7-create-file-cmd.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
  To create a text file and add some actual text to it, use the following command. Replace "Welcome to How-To Geek" with the text you want to add and "howtogeek" with the name you want to use for the file.
 
 echo Welcome to How-To Geek > howtogeek.txt
@@ -121,3 +139,50 @@ echo Welcome to How-To Geek > howtogeek.txt
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-dual-display-dynamics-video-recorder-rankings/"><u>[New] 2024 Approved  Dual Display Dynamics  Video Recorder Rankings</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-essential-steps-to-curate-youtube-music-selections/"><u>[Updated] Essential Steps to Curate YouTube Music Selections</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-breaking-down-instagrams-hashtag-system-tips-and-techniques/"><u>[Updated] In 2024, Breaking Down Instagram's Hashtag System  Tips and Techniques</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-empires-edge-scoring-the-ultimate-7-grand-wars/"><u>[Updated] In 2024, Empire's Edge  Scoring the Ultimate 7 Grand Wars</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-secrets-to-successful-youtube-filmmaking-with-pc-editing-software-for-2024/"><u>[Updated] Secrets to Successful YouTube Filmmaking with PC Editing Software for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-unveiling-yuneecs-typhoon-h-an-aerial-powerhouse-review-for-2024/"><u>[Updated] Unveiling Yuneec’s Typhoon H  An Aerial Powerhouse Review for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/advanced-file-deletion-techniques-with-command-prompt-for-windows-10-users/"><u>Advanced File Deletion Techniques with Command Prompt for Windows 10 Users</u></a></li>
+<li><a href="https://win-forum.techidaily.com/complete-guide-forcibly-deleting-files-and-folders-in-windows-11-using-revo-uninstaller/"><u>Complete Guide: Forcibly Deleting Files and Folders in Windows 11 Using Revo Uninstaller</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/creative-channel-themes-get-them-for-free-for-2024/"><u>Creative Channel Themes  Get Them for Free for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-poco-c51-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Poco C51 | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/easy-ways-to-resolve-class-not-registered-errors-on-your-pc/"><u>Easy Ways to Resolve ‘Class Not Registered’ Errors on Your PC</u></a></li>
+<li><a href="https://win-forum.techidaily.com/efficiently-clear-filesfolders-from-your-pc-with-windows-10s-command-line/"><u>Efficiently Clear Files/Folders From Your PC with Windows 10'S Command Line</u></a></li>
+<li><a href="https://win-forum.techidaily.com/expert-advice-eliminating-unwanted-memory-dump-files-on-your-pc/"><u>Expert Advice: Eliminating Unwanted Memory Dump Files on Your PC</u></a></li>
+<li><a href="https://win-forum.techidaily.com/1722915310660-exploring-popular-digital-hubs-connect-with-facebook-twitter-instagram-and-youtube/"><u>Exploring Popular Digital Hubs: Connect with Facebook, Twitter, Instagram and Youtube</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/exploring-the-cost-effective-vuebell-video-entryway-monitor-review/"><u>Exploring the Cost-Effective VueBell Video Entryway Monitor Review</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-top-platforms-navigating-through-facebook-twitter-instagram-and-youtube/"><u>Exploring Top Platforms: Navigating Through Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-newest-geforce-rtx-3090-driver-for-your-windows-pc-save-and-install-today/"><u>Get the Newest GeForce RTX ˈ3090 Driver for Your Windows PC - Save and Install Today!</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-v27-phone-without-password-by-drfone-android/"><u>How To Unlock Vivo V27 Phone Without Password?</u></a></li>
+<li><a href="https://win-forum.techidaily.com/identifying-your-windows-10-powershell-version-a-comprehensive-guide/"><u>Identifying Your Windows 10 PowerShell Version: A Comprehensive Guide</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-realme-gt-5-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Realme GT 5 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-auto-lock-greyed-out-on-apple-iphone-6-drfone-by-drfone-ios/"><u>In 2024, How To Fix Auto Lock Greyed Out on Apple iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-auto-lock-greyed-out-on-iphone-12-mini-drfone-by-drfone-ios/"><u>In 2024, How To Fix Auto Lock Greyed Out on iPhone 12 mini | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-streamers-crossroad-navigating-between-vimeo-youtube-dailymotion/"><u>In 2024, The Streamer's Crossroad  Navigating Between Vimeo, YouTube, Dailymotion</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/in-2024-where-the-magic-of-video-editing-begins-on-youtube/"><u>In 2024, Where the Magic of Video Editing Begins on YouTube</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-canon-s-series-multifunction-printer-driver-software-for-microsoft-windows-systems/"><u>Latest Canon S Series Multifunction Printer Driver Software for Microsoft Windows Systems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/make-your-iphone-work-like-a-home-wi-fi-network-a-complete-tutorial/"><u>Make Your iPhone Work Like a Home Wi-Fi Network: A Complete Tutorial</u></a></li>
+<li><a href="https://win-forum.techidaily.com/master-the-art-of-social-media-with-four-titans-facebook-twitter-instagram-and-youtube/"><u>Master the Art of Social Media with Four Titans: Facebook, Twitter, Instagram & Youtube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-the-art-of-driver-updates-for-windows-10-devices-with-revouninstaller/"><u>Mastering the Art of Driver Updates for Windows 10 Devices with RevoUninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-digital-landscape-of-facebook-twitter-instagram-and-youtube/"><u>Navigating the Digital Landscape of Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-webs-giants-a-look-at-facebook-twitter-instagram-and-youtube/"><u>Navigating the Web's Giants: A Look at Facebook, Twitter, Instagram, and Youtube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-world-of-online-networking-a-look-at-facebook-twitter-instagram-and-youtube/"><u>Navigating the World of Online Networking: A Look at Facebook, Twitter, Instagram and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/overcoming-the-issue-of-apps-not-launching-on-your-computer-expert-tips-and-solutions/"><u>Overcoming the Issue of Apps Not Launching on Your Computer: Expert Tips & Solutions</u></a></li>
+<li><a href="https://win-forum.techidaily.com/quickly-terminate-stubborn-windows-applications-using-revouninstallers-advanced-features/"><u>Quickly Terminate Stubborn Windows Applications Using RevoUninstaller's Advanced Features</u></a></li>
+<li><a href="https://win-forum.techidaily.com/say-goodbye-to-clutter-with-revo-uninstaller-pros-version-5-enhanced-features/"><u>Say Goodbye to Clutter with Revo Uninstaller Pro's Version 5 Enhanced Features</u></a></li>
+<li><a href="https://win-forum.techidaily.com/social-media-titans-harnessing-the-power-of-facebook-twitter-instagram-and-youtube-for-your-brand/"><u>Social Media Titans: Harnessing the Power of Facebook, Twitter, Instagram & YouTube for Your Brand</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-enabling-wake-on-lan-feature-on-your-pc-with-windows-1011/"><u>Step-by-Step Guide: Enabling Wake-on-LAN Feature on Your PC with Windows 10/11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-instructions-on-how-to-refresh-device-drivers-in-windows-10/"><u>Step-by-Step Instructions on How to Refresh Device Drivers in Windows 10</u></a></li>
+<li><a href="https://win-forum.techidaily.com/tackling-complete-hard-drive-overuse-in-windows-11-effective-solutions-explored/"><u>Tackling Complete Hard Drive Overuse in Windows 11: Effective Solutions Explored</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-final-word-on-deleting-files-permanently-from-your-windows/"><u>The Final Word on Deleting Files Permanently From Your Windows 지구토록스</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/0-no-cost-youtube-sbd-tools/"><u>Top 10 No-Cost YouTube SBD Tools</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transform-your-edits-with-smart-use-of-luts-in-premiere-pro-for-2024/"><u>Transform Your Edits with Smart Use of LUTs in Premiere Pro for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/unraveling-the-massive-social-sphere-of-fb-tweeter-ig-and-youtubeland/"><u>Unraveling the Massive Social Sphere of FB, Tweeter, IG & YouTubeland</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-free-avi-video-rotation-solutions-a-comprehensive-review-of-16-options/"><u>Updated In 2024, Free AVI Video Rotation Solutions A Comprehensive Review of 16 Options</u></a></li>
+</ul></div>

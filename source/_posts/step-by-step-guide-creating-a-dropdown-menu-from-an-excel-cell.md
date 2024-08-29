@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Creating a Dropdown Menu From an Excel Cell"
-date: 2024-08-28 16:14:47
-updated: 2024-08-29 12:47:26
+date: 2024-08-28T04:29:55.288Z
+updated: 2024-08-29T04:29:55.288Z
 tags:
   - excel
 categories:
@@ -44,6 +44,9 @@ thumbnail: https://thmb.techidaily.com/8cc2f26346852b595fe32553f266efaeb26b116a6
 
 ![The age cells selected and named "Age."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/name-cells-age.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
  Now, select the cell into which you want to add a drop-down list and click the “Data” tab.
 
 ![The first cell in the "Age" column is selected.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/select-the-cell-then-click-data.png) 
@@ -56,12 +59,18 @@ thumbnail: https://thmb.techidaily.com/8cc2f26346852b595fe32553f266efaeb26b116a6
 
 ![The "Data Validation" window, with the "Allow" drop-down box open.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/select-list-from-dropdown.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
  Now, we’re going to use the name we assigned to the range of cells containing the options for our drop-down list. Enter ` =Age ` in the “Source” box (if you named your cell range something else, replace “Age” with that name). Make sure the “In-cell dropdown” box is checked.
 
  The “Ignore blank” check box is checked by default. This means that the user can select the cell and then deselect the cell without selecting an item. If you want to require the user to select an option from the drop-down list, uncheck the Ignore blank check box.
 
 ![The "Source" field is set to "=Age".](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/set-equal-age.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
  You can add a popup message that displays when the cell containing the drop-down list is selected. To do this, click the “Input Message” tab on the Data Validation dialog box. Make sure the “Show input message when the cell is selected” box is checked. Enter a Title and an Input message and then click the “OK” button.
 
 ![The "Input Message" tab.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/input-message.png) 
@@ -70,14 +79,38 @@ thumbnail: https://thmb.techidaily.com/8cc2f26346852b595fe32553f266efaeb26b116a6
 
 ![The input message displayed with an "Age" cell selected.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/age-input-cell.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
  Click the down arrow button to drop down the list of options and select one.
 
 ![The drop-down menu listing the age ranges we programmed.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/age-input-options-listed-dropdown.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
  Of course, we have an entire column we want to take age values. There are a few ways to make that happen. The first — and easiest — is just to select all of the cells you want to have a drop-down menu _before_ you go to Data Validation and actually add the drop-down menu. The simplest way to select every cell in a column is to click the column header. If you have a cell you're using for a label, just Ctrl+Click it to deselect it, so the formatting doesn't get applied there.
 
 ![Select the whole column, then deselect the label cell.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/deselect-label.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Then just apply the formatting just like we showed you previously.
 
  The other scenario is when you've already applied the drop-down menu formatting to one cell, but don't want to have to repeat the process of creating a drop-down menu. In this case, just click and select the cell that already has the drop-down menu. Note the small square in the bottom-right corner of the cell. Left-Click and drag that corner down to all of the cells you want to have a drop-down menu, then release your mouse. The cells you dragged to will have inherited the drop-down menu from the original cell. It'll look like this:
@@ -90,10 +123,16 @@ thumbnail: https://thmb.techidaily.com/8cc2f26346852b595fe32553f266efaeb26b116a6
 
 ![Click "Clear All" to remove the drop-down menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/clear-all-cell.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The options on the Data Validation dialog box are reset to their defaults. Click “OK” to remove the drop-down list and restore the cell to its default format.
 
 ![The cell now has no data validation criteria.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/clear-all-click-ok-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  If there was an option selected when you removed the drop-down list, the cell is populated with the value of that option.
 
 ![The data applied with the drop-down menu box will be retained by default.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/data-still-in-cell.png) 
@@ -114,3 +153,47 @@ thumbnail: https://thmb.techidaily.com/8cc2f26346852b595fe32553f266efaeb26b116a6
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-swift-guide-eliminating-images-backdrops-with-affinity-photo/"><u>[New] In 2024, Swift Guide  Eliminating Images' Backdrops with Affinity Photo</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/innacle-partnership-portrayal-picking-an-ideal-mcn-for-2024/"><u>[New] Pinnacle Partnership Portrayal  Picking an Ideal MCN for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-record-video-with-logitech-webcam-guide-for-2024/"><u>[New] Record Video with Logitech Webcam [Guide] for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-twitters-visual-treats-free-video-to-gif-transformation/"><u>[Updated] In 2024, Twitter's Visual Treats  Free Video to Gif Transformation</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-harmonizing-colors-tips-for-a-cohesive-gopro-scene/"><u>2024 Approved  Harmonizing Colors  Tips for a Cohesive GoPro Scene</u></a></li>
+<li><a href="https://extra-information.techidaily.com/360-degree-panoramic-stands/"><u>360-Degree Panoramic Stands</u></a></li>
+<li><a href="https://win-blog.techidaily.com/closing-the-loop-why-rainbow-six-extraction-no-longer-crashes-on-personal-computers/"><u>Closing the Loop: Why Rainbow Six Extraction No Longer Crashes on Personal Computers</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/different-methods-to-unlock-your-iphone-xr-drfone-by-drfone-ios/"><u>Different Methods To Unlock Your iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/efficient-installation-top-ranked-keyboard-drivers-for-windows-7-users/"><u>Efficient Installation: Top-Ranked Keyboard Drivers for Windows 7 Users</u></a></li>
+<li><a href="https://win-forum.techidaily.com/efficiently-manage-your-pc-how-to-erase-windows-1/"><u>Efficiently Manage Your PC: How to Erase Windows 1</u></a></li>
+<li><a href="https://win-forum.techidaily.com/enhancing-privacy-for-text-documents-master-the-art-of-file-encryption-and-password-protection-methods/"><u>Enhancing Privacy for Text Documents: Master the Art of File Encryption & Password Protection Methods</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/essential-tips-precise-video-trimming-on-vimeo-5-methods/"><u>Essential Tips  Precise Video Trimming on Vimeo [5 Methods]</u></a></li>
+<li><a href="https://win-forum.techidaily.com/expert-advice-how-to-erase-tracker-footprints-on-your-windows-and-android-devices/"><u>Expert Advice: How to Erase Tracker Footprints on Your Windows and Android Devices</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/expert-iphone-file-recovery-for-mac-users-bring-your-deleted-media-and-contacts-back-to-life/"><u>Expert iPhone File Recovery for Mac Users: Bring Your Deleted Media & Contacts Back to Life</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/fabulous-critique-and-diverse-suggestions/"><u>Fabulous Critique & Diverse Suggestions</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-fix-this-app-cant-run-on-your-pc-error/"><u>How to Fix This App Can't Run on Your PC Error</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-fresh-start-windows-11-installation-with-the-factory-default-settings/"><u>How To Fresh Start Windows 11 Installation With The Factory Default Settings</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-asus-rog-phone-7-ultimate-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Asus ROG Phone 7 Ultimate Without Password | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-full-tutorial-to-bypass-your-tecno-spark-go-2024-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Tecno Spark Go (2024) Face Lock?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-nokia-105-classic-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Nokia 105 Classic to Outlook | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-disk-maintenance-the-ultimate-guide-to-defragging-on-windows-11-with-revo-uninstaller/"><u>Mastering Disk Maintenance: The Ultimate Guide to Defragging on Windows 11 with Revo Uninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-system-diagnostics-a-users-manual-for-windows-11-bios-tools/"><u>Mastering System Diagnostics: A User's Manual for Windows 11 BIOS Tools</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-task-management-in-windows-how-to-force-quit-stubborn-apps/"><u>Mastering Task Management in Windows: How to Force Quit Stubborn Apps</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-the-digital-age-with-major-platforms-insights-into-facebook-twitter-instagram-and-youtube/"><u>Mastering the Digital Age with Major Platforms: Insights Into Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-the-fresh-start-steps-to-full-factory-reset-on-your-windows-11-pc/"><u>Mastering the Fresh Start: Steps to Full Factory Reset on Your Windows 11 PC</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-organizational-policy-mastery-over-critical-windows-system-configurations/"><u>Navigating Organizational Policy: Mastery Over Critical Windows System Configurations</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-social-media-giants-facebook-twitter-instagram-and-youtube/"><u>Navigating Social Media Giants: Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-major-networks-understanding-facebook-twitter-instagram-and-youtube/"><u>Navigating the Major Networks: Understanding Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-social-media-landscape-mastering-facebook-twitter-instagram-and-youtube/"><u>Navigating the Social Media Landscape: Mastering Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-world-of-social-networking-with-facebook-twitter-instagram-and-youtube/"><u>Navigating the World of Social Networking with Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-through-and-resolving-class-not-found-hiccups-on-windows/"><u>Navigating Through and Resolving 'Class Not Found' Hiccups on Windows</u></a></li>
+<li><a href="https://win-forum.techidaily.com/overcoming-hardware-barriers-how-to-run-windows-11-on-unsupported-chipsets/"><u>Overcoming Hardware Barriers: How to Run Windows 11 on Unsupported Chipsets</u></a></li>
+<li><a href="https://win-forum.techidaily.com/race-away-from-restarts-7-surefire-fixes-for-forza-horizon-5-freeze/"><u>Race Away From Restarts: 7 Surefire Fixes for Forza Horizon 5 Freeze</u></a></li>
+<li><a href="https://win-forum.techidaily.com/revitalize-your-network-the-ultimate-guide-to-flush-dns-in-windows-environments/"><u>Revitalize Your Network: The Ultimate Guide to Flush DNS in Windows Environments</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-accessing-windows-11s-system-information-using-command-prompt/"><u>Step-by-Step Guide: Accessing Windows 11'S System Information Using Command Prompt</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-big-four-in-online-interaction-connect-and-engage-on-facebook-twitter-instagram-and-youtube/"><u>The Big Four in Online Interaction: Connect and Engage on Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-social-networks-for-sharing-content-facebook-twitter-instagram-and-youtube/"><u>Top Social Networks for Sharing Content: Facebook, Twitter, Instagram and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/troubleshooting-errors-why-this-application-wont-start-on-windows/"><u>Troubleshooting Errors: Why This Application Won't Start on Windows</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/unveiling-the-excellence-of-microsoft-surface-laptop-4-review/"><u>Unveiling the Excellence of Microsoft Surface Laptop 4 Review</u></a></li>
+<li><a href="https://win-forum.techidaily.com/why-doesnt-my-file-explorer-work-discover-the-best-troubleshooting-techniques/"><u>Why Doesn't My File Explorer Work? Discover the Best Troubleshooting Techniques</u></a></li>
+</ul></div>

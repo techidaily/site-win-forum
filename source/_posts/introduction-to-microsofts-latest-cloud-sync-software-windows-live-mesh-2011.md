@@ -1,7 +1,7 @@
 ---
 title: "Introduction to Microsoft's Latest Cloud Sync Software: Windows Live Mesh 2011"
-date: 2024-08-26 12:23:50
-updated: 2024-08-29 11:21:13
+date: 2024-08-28T04:29:14.251Z
+updated: 2024-08-29T04:29:14.251Z
 tags:
   - excel
 categories:
@@ -87,18 +87,31 @@ Recently Microsoft has been indecisive with it's Live Mesh / Sync cloud based se
 
 ![sshot-2010-10-14-[18-27-48]](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/sshot-2010-10-14-18-27-481.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
  This time instead of clicking another PC, you want to select SkyDrive synced storage and click OK. 
 
 ![sshot-2010-10-14-[18-28-28]](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/sshot-2010-10-14-18-28-28.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  You'll see a message that the files are being synced and after the process completes. 
 
 ![sshot-2010-10-14-[18-30-05]](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/sshot-2010-10-14-18-30-05.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
  To see the folders and files you synced to your synced storage, click on SkyDrive synced storage and sign into your Live account if prompted. 
 
 ![sshot-2010-10-14-[18-44-58]](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/sshot-2010-10-14-18-44-58.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Here we can see the Excel documents folder that we synced to our SkyDrive. Click on the folder to view its content. 
 
 ![sshot-2010-10-14-[18-45-32]](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/sshot-2010-10-14-18-45-32.png) 
@@ -117,16 +130,25 @@ Recently Microsoft has been indecisive with it's Live Mesh / Sync cloud based se
 
 ![sshot-2010-10-14-[19-02-59]](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/sshot-2010-10-14-19-02-59.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ##  Remotely Connect to Another Computer
 
  Another neat feature with Live Mesh 2011 is the ability to remotely connect to another computer. So for example maybe you want to connect to to your Work computer at Home or vice-versa. 
 
 ![sshot-2010-10-14-[19-31-39]](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/sshot-2010-10-14-19-31-39.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
  If you haven't done so already you'll need to click on Allow remote connections to this computer on each of the machines you want to access remotely. 
 
 ![sshot-2010-10-14-[19-35-54]](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/sshot-2010-10-14-19-35-54.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
  For example here in our list of computers, not all of them are set up for remote access. 
 
 ![sshot-2010-10-14-[19-38-29]](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/sshot-2010-10-14-19-38-29.png) 
@@ -155,20 +177,36 @@ Recently Microsoft has been indecisive with it's Live Mesh / Sync cloud based se
 
 ![sshot-2010-10-14-[20-12-55]](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/sshot-2010-10-14-20-12-55.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Here is an example where we connected to a Vista computer. 
 
 ![sshot-2010-10-14-[22-07-15]](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/sshot-2010-10-14-22-07-15.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
  When you're done with a session just disconnect from the other machine. 
 
 ![sshot-2010-10-14-[19-42-10]](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/sshot-2010-10-14-19-42-10.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Sync Program Settings Between Computers
 
  Another thing you might want to do is sync Internet Explorer and MS Office settings between machines. In Live Mesh 2011 under Program Settings, click Turn on syncing next to each one you want to sync. Do this for each machine you want program settings synced to. 
 
 ![sshot-2010-10-14-[20-49-38]](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/sshot-2010-10-14-20-49-38.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  For one of our computers, IE 9 has the standard MSN bookmarks, and we turned on IE syncing. 
 
 ![sshot-2010-10-14-[22-20-12]](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/sshot-2010-10-14-22-20-12.png) 
@@ -177,6 +215,9 @@ Recently Microsoft has been indecisive with it's Live Mesh / Sync cloud based se
 
 ![sshot-2010-10-14-[22-23-30]](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/sshot-2010-10-14-22-23-30.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  This should get you started with Windows Live Mesh 2011 to sync your files and folders between computers. The service is still rather clunky, semi-confusing, and some users might just want to stick with [Dropbox for folder syncing](https://fox-boxes.techidaily.com/new-zero-cost-green-screens-for-professionals/). Live Mesh 2011 will work with Vista, Server 2008, OS X 10.5 or higher, Server 2003, and Windows Home Server Version 1...unfortunately they left out the love for XP. [Download Windows Live Mesh 2011](http://explore.live.com/windows-live-mesh?os=other) 
 
 ---
@@ -197,3 +238,43 @@ Recently Microsoft has been indecisive with it's Live Mesh / Sync cloud based se
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-navigating-file-transfers-from-android-to-apple-devices/"><u>[New] 2024 Approved  Navigating File Transfers From Android to Apple Devices</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-effortless-privacy-blur-face-edges-picsart/"><u>[Updated] 2024 Approved  Effortless Privacy  Blur Face Edges Picsart</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-7-key-strategies-for-perfect-macro-video-shooting/"><u>[Updated] 7 Key Strategies for Perfect Macro Video Shooting</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-accelerate-keyword-acquisition-the-finest-7-free-taggification-apps-for-youtube-videos/"><u>[Updated] Accelerate Keyword Acquisition  The Finest 7 Free Taggification Apps for YouTube Videos</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-innovative-reclaim-review-the-ultimate-screen-recorder/"><u>[Updated] Innovative 'Reclaim' Review – The Ultimate Screen Recorder?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mobile-panorama-tips-for-skyward-shots/"><u>[Updated] Mobile Panorama Tips for Skyward Shots</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-smooth-sailing-navigating-the-world-of-igtv-videos-for-2024/"><u>[Updated] Smooth Sailing  Navigating the World of IGTV Videos for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-prime-video-capturing-applications/"><u>2024 Approved  Prime Video Capturing Applications</u></a></li>
+<li><a href="https://win-forum.techidaily.com/beat-game-lag-effective-ways-to-eliminate-performance-issues-in-forza-horizon-5-issues-addressed/"><u>Beat Game Lag: Effective Ways to Eliminate Performance Issues In Forza Horizon 5 (Issues Addressed)</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/cgp-a-verified-source-or-vague-suggestions/"><u>CGP: A Verified Source or Vague Suggestions?</u></a></li>
+<li><a href="https://win-forum.techidaily.com/connecting-with-millions-insights-into-facebook-twitter-instagram-and-youtube-usage/"><u>Connecting with Millions: Insights Into Facebook, Twitter, Instagram, and YouTube Usage</u></a></li>
+<li><a href="https://win-forum.techidaily.com/decoding-the-windows-registry-strategies-and-tools-including-revo-uninstaller/"><u>Decoding the Windows Registry: Strategies and Tools, Including Revo Uninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/easy-ways-to-resolve-class-not-registered-errors-on-your-pc/"><u>Easy Ways to Resolve ‘Class Not Registered’ Errors on Your PC</u></a></li>
+<li><a href="https://win-forum.techidaily.com/efficiently-clear-filesfolders-from-your-pc-with-windows-10s-command-line/"><u>Efficiently Clear Files/Folders From Your PC with Windows 10'S Command Line</u></a></li>
+<li><a href="https://win-forum.techidaily.com/1722915310660-exploring-popular-digital-hubs-connect-with-facebook-twitter-instagram-and-youtube/"><u>Exploring Popular Digital Hubs: Connect with Facebook, Twitter, Instagram and Youtube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-top-platforms-navigating-through-facebook-twitter-instagram-and-youtube/"><u>Exploring Top Platforms: Navigating Through Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/identifying-your-windows-10-powershell-version-a-comprehensive-guide/"><u>Identifying Your Windows 10 PowerShell Version: A Comprehensive Guide</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-did-your-apple-iphone-6-plus-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>In 2024, Did Your Apple iPhone 6 Plus Passcode Change Itself? Unlock It Now</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-ignite-your-creative-journey-blending-photography-and-videos-through-pixiz/"><u>In 2024, Ignite Your Creative Journey  Blending Photography & Videos Through Pixiz</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-pickup-or-overkill-navigating-the-ultimate-android-photo-editor/"><u>In 2024, PickUp or Overkill? Navigating the Ultimate Android Photo Editor</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-sensory-engaging-e-commerce-platforms/"><u>In 2024, Sensory Engaging E-Commerce Platforms</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-troubleshooting-error-connecting-to-the-apple-id-server-on-apple-iphone-6-by-drfone-ios/"><u>In 2024, Troubleshooting Error Connecting to the Apple ID Server On Apple iPhone 6</u></a></li>
+<li><a href="https://win-forum.techidaily.com/master-the-art-of-social-media-with-four-titans-facebook-twitter-instagram-and-youtube/"><u>Master the Art of Social Media with Four Titans: Facebook, Twitter, Instagram & Youtube</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/navigating-instagrams-unexpected-video-timings-for-2024/"><u>Navigating Instagram's Unexpected Video Timings for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-digital-landscape-of-facebook-twitter-instagram-and-youtube/"><u>Navigating the Digital Landscape of Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-webs-giants-a-look-at-facebook-twitter-instagram-and-youtube/"><u>Navigating the Web's Giants: A Look at Facebook, Twitter, Instagram, and Youtube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-world-of-online-networking-a-look-at-facebook-twitter-instagram-and-youtube/"><u>Navigating the World of Online Networking: A Look at Facebook, Twitter, Instagram and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/proven-techniques-clearing-out-user-accounts-on-your-windows-11-machine-with-the-help-of-revouninstaller/"><u>Proven Techniques: Clearing Out User Accounts on Your Windows 11 Machine with the Help of RevoUninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/quickly-terminate-stubborn-windows-applications-using-revouninstallers-advanced-features/"><u>Quickly Terminate Stubborn Windows Applications Using RevoUninstaller's Advanced Features</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-enabling-wake-on-lan-feature-on-your-pc-with-windows-1011/"><u>Step-by-Step Guide: Enabling Wake-on-LAN Feature on Your PC with Windows 10/11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-instructions-on-how-to-refresh-device-drivers-in-windows-10/"><u>Step-by-Step Instructions on How to Refresh Device Drivers in Windows 10</u></a></li>
+<li><a href="https://win-forum.techidaily.com/tackling-complete-hard-drive-overuse-in-windows-11-effective-solutions-explored/"><u>Tackling Complete Hard Drive Overuse in Windows 11: Effective Solutions Explored</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-final-word-on-deleting-files-permanently-from-your-windows/"><u>The Final Word on Deleting Files Permanently From Your Windows 지구토록스</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-ultimate-guide-to-unlocking-your-iphone-7-plus-on-metropcs-by-drfone-ios/"><u>The Ultimate Guide to Unlocking Your iPhone 7 Plus on MetroPCS</u></a></li>
+<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-honor-magic-6-lite-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Honor Magic 6 Lite</u></a></li>
+<li><a href="https://win-forum.techidaily.com/unraveling-the-massive-social-sphere-of-fb-tweeter-ig-and-youtubeland/"><u>Unraveling the Massive Social Sphere of FB, Tweeter, IG & YouTubeland</u></a></li>
+</ul></div>

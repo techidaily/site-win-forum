@@ -1,7 +1,7 @@
 ---
 title: "Understanding the Distinction: Functions Vs. Formulas in Microsoft Excel"
-date: 2024-08-27 18:42:25
-updated: 2024-08-29 11:52:28
+date: 2024-08-28T04:29:35.542Z
+updated: 2024-08-29T04:29:35.542Z
 tags:
   - excel
 categories:
@@ -57,6 +57,9 @@ Related: [How to Use Logical Functions in Excel: IF, AND, OR, XOR, NOT](https://
 
 Related: [12 Basic Excel Functions Everybody Should Know](https://visual-screen-recording.techidaily.com/in-2024-a-step-by-step-recorder-for-discord-enthusiasts/) 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  What Is a Formula in Excel?
 
  A formula in Excel is an expression, such as an equation, that you create inside a cell. You can insert a function into your formula or create an equation without one.
@@ -65,6 +68,12 @@ Related: [12 Basic Excel Functions Everybody Should Know](https://visual-screen-
 
 ![Formula bar in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/FormulaBar-ExcelFunctionsFormulas.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 ###  Formulas With Functions
 
  If you select a function you want to use, you add it to the formula and then include the arguments which can include cell references, numbers, or text values. Examples of simple formulas using functions in Excel include:
@@ -83,6 +92,11 @@ Related: [12 Basic Excel Functions Everybody Should Know](https://visual-screen-
 
 ![SUM function](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/Sum-ExcelFunctionsFormulas.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ###  Formulas Without Functions
 
  Formulas can be used on their own, without functions. So you can perform tasks like adding numbers and [multiplying values in cells](https://extra-support.techidaily.com/2024-approved-step-by-step-perfectly-sharing-your-photography-on-youtube/). Examples of basic formulas without functions in Excel include:
@@ -95,8 +109,14 @@ Related: [12 Basic Excel Functions Everybody Should Know](https://visual-screen-
 
 ![Formula without function in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/Formula-ExcelFunctionsFormulas.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Related: [How to Add or Multiply Values with Paste Special in Microsoft Excel](https://extra-support.techidaily.com/2024-approved-step-by-step-perfectly-sharing-your-photography-on-youtube/) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ##  Remembering the Difference Between Functions and Formulas
 
  Even though a function is technically a formula, it's a predefined formula, not one that you create. So, the easiest way to distinguish the difference between a function and a formula in Excel is that you can insert a function into a formula that you create.
@@ -120,3 +140,51 @@ Related: [How to Add or Multiply Values with Paste Special in Microsoft Excel](h
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-converting-vimeo-selections-the-pathway-to-memorable-gifs/"><u>[New] 2024 Approved  Converting Vimeo Selections  The Pathway to Memorable GIFs</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-propel-your-productivity-mastering-marketing-in-the-telegram-world/"><u>[New] 2024 Approved  Propel Your Productivity  Mastering Marketing in the Telegram World</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-online-gaming-earnings-in-the-future/"><u>[New] In 2024, Online Gaming Earnings in the Future</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-the-blue-bands-promise-tips-for-longevity/"><u>[New] The Blue Bands Promise  Tips for Longevity</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-ultimate-asmr-content-guides/"><u>[New] Ultimate ASMR Content Guides</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-exploring-the-finest-8-no-cost-open-source-video-communication-apps/"><u>[Updated] Exploring the Finest 8 No-Cost, Open Source Video Communication Apps</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-making-your-mark-with-video-content-in-captivate/"><u>[Updated] Making Your Mark with Video Content in Captivate</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-navigating-hd-disruptions-clear-screening-challenges-in-fir-safari-chrome/"><u>[Updated] Navigating HD Disruptions  Clear Screening Challenges in Fir, Safari, Chrome</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-power-of-perception-iconic-podcast-design-tips/"><u>2024 Approved  The Power of Perception  Iconic Podcast Design Tips</u></a></li>
+<li><a href="https://win-forum.techidaily.com/beat-game-lag-effective-ways-to-eliminate-performance-issues-in-forza-horizon-5-issues-addressed/"><u>Beat Game Lag: Effective Ways to Eliminate Performance Issues In Forza Horizon 5 (Issues Addressed)</u></a></li>
+<li><a href="https://win-forum.techidaily.com/comprehensive-guide-to-popular-platforms-facebook-twitter-instagram-and-youtube/"><u>Comprehensive Guide to Popular Platforms: Facebook, Twitter, Instagram & Youtube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/connecting-with-millions-insights-into-facebook-twitter-instagram-and-youtube-usage/"><u>Connecting with Millions: Insights Into Facebook, Twitter, Instagram, and YouTube Usage</u></a></li>
+<li><a href="https://win-forum.techidaily.com/decoding-the-windows-registry-strategies-and-tools-including-revo-uninstaller/"><u>Decoding the Windows Registry: Strategies and Tools, Including Revo Uninstaller</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/driver-inaccessible-for-windows-print/"><u>Driver Inaccessible for Windows Print</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/eduverse-a-new-dimension-for-linguistic-education/"><u>Eduverse: A New Dimension for Linguistic Education</u></a></li>
+<li><a href="https://win-forum.techidaily.com/efficiently-clear-filesfolders-from-your-pc-with-windows-10s-command-line/"><u>Efficiently Clear Files/Folders From Your PC with Windows 10'S Command Line</u></a></li>
+<li><a href="https://win-forum.techidaily.com/enhancing-privacy-for-text-documents-master-the-art-of-file-encryption-and-password-protection-methods/"><u>Enhancing Privacy for Text Documents: Master the Art of File Encryption & Password Protection Methods</u></a></li>
+<li><a href="https://win-forum.techidaily.com/expert-advice-how-to-erase-tracker-footprints-on-your-windows-and-android-devices/"><u>Expert Advice: How to Erase Tracker Footprints on Your Windows and Android Devices</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-digital-giants-a-guide-to-facebook-twitter-instagram-and-the-power-of-youtube/"><u>Exploring Digital Giants: A Guide to Facebook, Twitter, Instagram, and the Power of YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/guide-enable-admin-access-for-applications-in-windows-11-every-time/"><u>Guide: Enable Admin Access for Applications in Windows 11 Every Time</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-fix-this-app-cant-run-on-your-pc-error/"><u>How to Fix This App Can't Run on Your PC Error</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-realme-12plus-5g-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Realme 12+ 5G to New Phone | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-v29-phone-without-pin-by-drfone-android/"><u>How to Unlock Vivo V29 Phone without PIN</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-disk-maintenance-the-ultimate-guide-to-defragging-on-windows-11-with-revo-uninstaller/"><u>Mastering Disk Maintenance: The Ultimate Guide to Defragging on Windows 11 with Revo Uninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-system-diagnostics-a-users-manual-for-windows-11-bios-tools/"><u>Mastering System Diagnostics: A User's Manual for Windows 11 BIOS Tools</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-task-management-in-windows-how-to-force-quit-stubborn-apps/"><u>Mastering Task Management in Windows: How to Force Quit Stubborn Apps</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-organizational-policy-mastery-over-critical-windows-system-configurations/"><u>Navigating Organizational Policy: Mastery Over Critical Windows System Configurations</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-social-media-giants-facebook-twitter-instagram-and-youtube/"><u>Navigating Social Media Giants: Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-major-networks-understanding-facebook-twitter-instagram-and-youtube/"><u>Navigating the Major Networks: Understanding Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-social-media-landscape-mastering-facebook-twitter-instagram-and-youtube/"><u>Navigating the Social Media Landscape: Mastering Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-world-of-online-networking-a-look-at-facebook-twitter-instagram-and-youtube/"><u>Navigating the World of Online Networking: A Look at Facebook, Twitter, Instagram and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-world-of-social-networking-with-facebook-twitter-instagram-and-youtube/"><u>Navigating the World of Social Networking with Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/overcoming-hardware-barriers-how-to-run-windows-11-on-unsupported-chipsets/"><u>Overcoming Hardware Barriers: How to Run Windows 11 on Unsupported Chipsets</u></a></li>
+<li><a href="https://win-forum.techidaily.com/proven-techniques-clearing-out-user-accounts-on-your-windows-11-machine-with-the-help-of-revouninstaller/"><u>Proven Techniques: Clearing Out User Accounts on Your Windows 11 Machine with the Help of RevoUninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/quickly-terminate-stubborn-windows-applications-using-revouninstallers-advanced-features/"><u>Quickly Terminate Stubborn Windows Applications Using RevoUninstaller's Advanced Features</u></a></li>
+<li><a href="https://win-forum.techidaily.com/race-away-from-restarts-7-surefire-fixes-for-forza-horizon-5-freeze/"><u>Race Away From Restarts: 7 Surefire Fixes for Forza Horizon 5 Freeze</u></a></li>
+<li><a href="https://win-forum.techidaily.com/social-media-giants-unveiled-a-guide-to-facebook-twitter-instagram-and-youtube/"><u>Social Media Giants Unveiled: A Guide to Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-accessing-windows-11s-system-information-using-command-prompt/"><u>Step-by-Step Guide: Accessing Windows 11'S System Information Using Command Prompt</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-enabling-wake-on-lan-feature-on-your-pc-with-windows-1011/"><u>Step-by-Step Guide: Enabling Wake-on-LAN Feature on Your PC with Windows 10/11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-instructions-for-permanent-deletion-of-filesfolders-in-windows-11-via-revo-uninstaller/"><u>Step-by-Step Instructions for Permanent Deletion of Files/Folders in Windows 11 via Revo Uninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/tackling-complete-hard-drive-overuse-in-windows-11-effective-solutions-explored/"><u>Tackling Complete Hard Drive Overuse in Windows 11: Effective Solutions Explored</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-final-word-on-deleting-files-permanently-from-your-windows/"><u>The Final Word on Deleting Files Permanently From Your Windows 지구토록스</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-powerhouses-of-social-sharing-exploring-facebook-twitter-instagram-and-youtube/"><u>The Powerhouses of Social Sharing: Exploring Facebook, Twitter, Instagram and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/unraveling-the-massive-social-sphere-of-fb-tweeter-ig-and-youtubeland/"><u>Unraveling the Massive Social Sphere of FB, Tweeter, IG & YouTubeland</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "Beginner's Guide: Easy Steps to Prepare Your New Windows Laptop"
-date: 2024-08-26 23:14:59
-updated: 2024-08-29 10:27:54
+date: 2024-08-28T04:27:58.790Z
+updated: 2024-08-29T04:27:58.790Z
 tags:
   - windows
 categories:
@@ -38,8 +38,14 @@ thumbnail: https://thmb.techidaily.com/4916a6d483134297a5c5a01cc889f69aabd6291d8
 
 ![Disabling startup apps from Task Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/1-disabling-a-startup-apps-from-task-manager.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
  Some applications automatically add themselves to the startup list when installed. So, periodically review their startup list and remove any unnecessary programs.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ## 3  Pin Frequently Used Apps to the Taskbar 
 
  Web browsers, email clients, word processors, and media players are some of the frequently used apps that the person you're setting up the Windows device for will likely use often. While they can search for the required app in Windows Search, you can [pin these apps to the taskbar](https://tech-hub.techidaily.com/understanding-the-five-main-causes-of-chatgpt-prohibitions-in-businesses/) for easier access.
@@ -48,10 +54,17 @@ thumbnail: https://thmb.techidaily.com/4916a6d483134297a5c5a01cc889f69aabd6291d8
 
 ![Pinning an app to the taskbar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/2-pinning-an-app-to-the-taskbar.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Likewise, remove any apps already pinned to the taskbar that they won’t use. To do that, right-click on the item and select "Unpin from Taskbar."
 
 ![Unpinning Microsoft Edge from the taskbar on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/4-unpinning-microsoft-edge-from-the-taskbar-on-windows-11.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
  Be careful not to clutter up the taskbar, as this can make finding relevant apps more complex. If pinning all frequently used apps clutters the taskbar, consider creating desktop shortcuts for some of them. This way, they will still easily access their frequently used apps without overloading the taskbar.
 
 ## 4  Set Up Automatic Data Backups 
@@ -64,6 +77,10 @@ thumbnail: https://thmb.techidaily.com/4916a6d483134297a5c5a01cc889f69aabd6291d8
 
 ![A hand increasing the security level using a knob.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/a-hand-increasing-the-security-level-using-a-knob.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
   
 Lucas Gouveia / How-To Geek | Shutterstock.AI
 
@@ -77,6 +94,9 @@ Lucas Gouveia / How-To Geek | Shutterstock.AI
 
  Afterward, you should install helpful apps to enhance their computer experience. For example, you could add Everything to make file searching easier, Auto Dark Mode to automatically switch between dark and light modes at different times of the day, ShareX for capturing screenshots and recording videos, and other [helpful apps and tools](https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-honor-90-drfone-by-drfone-virtual-android/).
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 7  Customize Screen Element Sizes to Their Preferences 
 
  Check with the person to see if they’re comfortable with the default size of text, icons, mouse cursor, and other display elements. If not, adjust the display settings according to their preferences. To do this, right-click the Start button and select "Settings." Then, go to System > Display and modify the Scale and Display Resolution.
@@ -91,6 +111,9 @@ Lucas Gouveia / How-To Geek | Shutterstock.AI
 
 ![Enabling the magnifier, narrator and captions in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/5-enabling-the-magnifier-narrator-and-captions-in-the-windows-settings-app.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 8  Teach Them Basic Windows Actions 
 
  Although this isn’t strictly a setup step, it’s essential to teach a few basic skills to someone new to Windows. You can show them how to use Task Manager to find and close processes consuming too many resources. You can also teach them to [check for and install Windows updates](https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-realme-v30-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/), connect to Wi-Fi or Ethernet, and [adjust brightness](https://win-blog.techidaily.com/wwe-2k22-pc-performance-issues-understanding-and-solving-sudden-game-exits/) and volume.
@@ -115,3 +138,56 @@ Lucas Gouveia / How-To Geek | Shutterstock.AI
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-from-front-to-back-a-step-by-step-guide-to-angled-photography-on-social-platforms/"><u>[New] 2024 Approved  From Front to Back  A Step-by-Step Guide to Angled Photography on Social Platforms</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-decoding-the-route-to-achieving-facebook-verification/"><u>[New] Decoding the Route to Achieving Facebook Verification</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-mouthwatering-masters-culinary-youtube-experts/"><u>[New] Mouthwatering Masters  Culinary YouTube Experts</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-art-of-crafting-dynamic-luts/"><u>[New] The Art of Crafting Dynamic LUTs</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-the-complete-screenrec-manual-for-laptops/"><u>[New] The Complete ScreenRec Manual for Laptops</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-win-customer-trust-incorporating-these-20-marketing-expressions/"><u>[New] Win Customer Trust  Incorporating These 20 Marketing Expressions</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-crafting-viral-videos-on-youtube-a-strategic-plan-for-2024/"><u>[Updated] Crafting Viral Videos on YouTube  A Strategic Plan for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-animators-companion-expertly-reviewed-3d-modeling-software/"><u>[Updated] The Animator's Companion  Expertly Reviewed 3D Modeling Software</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-unseen-algorithms-powering-youtubes-viewer-statistics/"><u>[Updated] Unseen Algorithms Powering YouTube's Viewer Statistics</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-a-comprehensive-guide-to-creating-viral-youtube-shorts-videos/"><u>2024 Approved  A Comprehensive Guide to Creating Viral YouTube Shorts Videos</u></a></li>
+<li><a href="https://win-forum.techidaily.com/best-practices-for-resolving-high-disk-usage-at-100-on-your-windows-10-system/"><u>Best Practices for Resolving High Disk Usage at 100%% on Your Windows 10 System</u></a></li>
+<li><a href="https://win-forum.techidaily.com/complete-guide-removing-user-accounts-on-windows-11-with-revo-uninstaller/"><u>Complete Guide: Removing User Accounts on Windows 11 with Revo Uninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/complete-tutorial-how-to-erase-user-profiles-using-revo-uninstaller-on-windows-11/"><u>Complete Tutorial: How to Erase User Profiles Using Revo Uninstaller on Windows 11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/connect-and-share-on-major-social-media-facebook-twitter-instagram-youtube-overview/"><u>Connect and Share on Major Social Media: Facebook, Twitter, Instagram, YouTube Overview</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/convincing-audiences-to-join-a-positive-approach-for-2024/"><u>Convincing Audiences to Join  A Positive Approach for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/defeating-the-persistent-problem-of-unrecognized-usb-devices/"><u>Defeating the Persistent Problem of Unrecognized USB Devices</u></a></li>
+<li><a href="https://win-forum.techidaily.com/digital-engagement-essentials-mastering-the-art-on-facebook-twitter-instagram-and-youtube/"><u>Digital Engagement Essentials: Mastering the Art on Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/digital-interaction-hubs-unpacking-the-phenomenon-of-facebook-twitter-instagram-and-youtube/"><u>Digital Interaction Hubs - Unpacking the Phenomenon of Facebook, Twitter, Instagram and YouTube.</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-top-notch-hardware-tips-with-toms-hardware-hub/"><u>Discover Top-Notch Hardware Tips with Tom's Hardware Hub</u></a></li>
+<li><a href="https://win-forum.techidaily.com/effective-solutions-to-overcome-apps-not-running-error-in-pc/"><u>Effective Solutions to Overcome Apps Not Running Error in PC</u></a></li>
+<li><a href="https://win-forum.techidaily.com/engage-on-the-web-with-leading-networks-facebook-twitter-instagram-and-youtube/"><u>Engage on the Web with Leading Networks: Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/expert-advice-how-to-use-revo-uninstaller-for-total-erasure-of-folders-in-windows-11/"><u>Expert Advice: How to Use Revo Uninstaller for Total Erasure of Folders in Windows 11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/explore-social-networks-facebook-twitter-and-instagram-youtube/"><u>Explore Social Networks: Facebook, Twitter & Instagram, YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-digital-connections-through-leading-platforms-facebook-twitter-instagram-and-youtube/"><u>Exploring Digital Connections Through Leading Platforms: Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-top-social-platforms-facebook-twitter-instagram-and-youtube-unveiled/"><u>Exploring Top Social Platforms: Facebook, Twitter, Instagram & YouTube Unveiled</u></a></li>
+<li><a href="https://win-forum.techidaily.com/guide-to-finding-and-checking-your-powershell-version-on-windows-11/"><u>Guide to Finding and Checking Your PowerShell Version on Windows 11</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-realme-11-5g-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Realme 11 5G? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-iphone-7-passcode-not-working-by-drfone-ios/"><u>How to Fix iPhone 7 Passcode not Working?</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-perform-a-clean-installation-on-windows-11-essential-steps-and-tips/"><u>How to Perform a Clean Installation on Windows 11 - Essential Steps and Tips</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-perform-factory-reset-windows-10-revo-uninstaller-pro-4/"><u>How to Perform Factory Reset Windows 10 - Revo Uninstaller Pro 4</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-reclaim-disk-capacity-in-windows-11-the-ultimate-troubleshooting-and-cleanup-tutorial/"><u>How to Reclaim Disk Capacity in Windows 11: The Ultimate Troubleshooting and Cleanup Tutorial</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-messages-from-apple-iphone-xr-to-other-iphone-all-ios-versions-drfone-by-drfone-transfer-from-ios/"><u>How To Transfer Messages From Apple iPhone XR to other iPhone All iOS Versions | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-apple-iphone-x-without-itunes-drfone-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked Apple iPhone X Without iTunes | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-on-screen-labels-and-descriptions-for-video-files-windows-11-for-2024/"><u>Mastering On-Screen Labels and Descriptions for Video Files (Windows 11) for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-digital-sphere-an-insight-into-facebook-twitter-instagram-and-youtube-usage/"><u>Navigating the Digital Sphere: An Insight Into Facebook, Twitter, Instagram & YouTube Usage</u></a></li>
+<li><a href="https://win-forum.techidaily.com/revo-uninstallers-powerful-method-to-force-delete-non-responding-folders-on-windows-os/"><u>Revo Uninstaller's Powerful Method to Force Delete Non-Responding Folders on Windows OS</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-definitive-technique-to-grant-administrator-rights-automatically-to-all-your-apps-on-windows-11/"><u>The Definitive Technique to Grant Administrator Rights Automatically to All Your Apps on Windows 11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-powerhouses-of-social-media-a-closer-look-at-facebook-twitter-instagram-and-youtube/"><u>The Powerhouses of Social Media: A Closer Look at Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-quintessential-quad-of-digital-sphere-exploring-facebook-twitter-instagram-and-youtube/"><u>The Quintessential Quad of Digital Sphere: Exploring Facebook, Twitter, Instagram & Youtube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-quintessential-social-media-platforms-for-engagement-facebook-twitter-instagram-and-youtube/"><u>The Quintessential Social Media Platforms for Engagement: Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-ultimate-guide-to-top-social-media-sites-facebook-twitter-instagram-and-youtube/"><u>The Ultimate Guide to Top Social Media Sites - Facebook, Twitter, Instagram & Youtube</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-realme-v30t-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Realme V30T? | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-4-social-networking-titans-mastering-facebook-twitter-instagram-and-youtube-engagement/"><u>Top 4 Social Networking Titans: Mastering Facebook, Twitter, Instagram, and YouTube Engagement</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-5-methods-for-securing-your-pc-protecting-windows-devices/"><u>Top 5 Methods for Securing Your PC: Protecting Windows Devices</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-giants-of-online-networking-facebook-twitter-instagram-youtube/"><u>Top Giants of Online Networking - Facebook | Twitter | Instagram | YouTube</u></a></li>
+<li><a href="https://article-files.techidaily.com/top-handheld-tech-to-eliminate-shaky-screenshot-videos-for-2024/"><u>Top Handheld Tech to Eliminate Shaky Screenshot Videos for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/unveiling-the-giants-of-digital-communication-facebook-twitter-instagram-and-youtube/"><u>Unveiling the Giants of Digital Communication: Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-unlock-efficient-video-editing-6-essential-adobe-premiere-pro-tips/"><u>Updated Unlock Efficient Video Editing 6 Essential Adobe Premiere Pro Tips</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/youtube-prodigy-vs-creative-hub-beta-edition/"><u>YouTube Prodigy Vs. Creative Hub Beta Edition</u></a></li>
+</ul></div>

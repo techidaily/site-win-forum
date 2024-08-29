@@ -1,7 +1,7 @@
 ---
 title: "Mastering Averages: Easy Methods to Find Median in Excel Spreadsheets"
-date: 2024-08-27 15:52:47
-updated: 2024-08-29 11:56:13
+date: 2024-08-28T04:29:17.683Z
+updated: 2024-08-29T04:29:17.683Z
 tags:
   - excel
 categories:
@@ -32,6 +32,14 @@ thumbnail: https://thmb.techidaily.com/8009d92085bbb2b59b0e3b6dadde39baefbadc66e
 
  Let's explore these in more detail.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ##  How to Use AVERAGE in Excel
 
  To calculate the average in Excel, use the following syntax:
@@ -44,6 +52,9 @@ thumbnail: https://thmb.techidaily.com/8009d92085bbb2b59b0e3b6dadde39baefbadc66e
 
 ![Excel sheet showing a table with two columns: column A contains student names and column B contains their exam scores. Next to this table is an 'average' cell, where their average scores will be calculated using the AVERAGE function.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/average-uncalculated.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
  As you can see, Student C scored 0 and Student F has yet to take the exam. As a result, we want Excel to work out the scores of those who have taken the exam (all students except for Student F).
 
  To do this, we would type the following formula into cell D2:
@@ -52,6 +63,9 @@ thumbnail: https://thmb.techidaily.com/8009d92085bbb2b59b0e3b6dadde39baefbadc66e
 
 ![Excel sheet showing a table with two columns: column A contains student names and column B contains their exam scores. Next to this table is an 'average' cell, where their average scores has been calculated using the AVERAGE function.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/average-calculated-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The AVERAGE function includes 0 within its calculations, but ignores all empty cells, text, and logical values (TRUE or FALSE). So, we can be confident that this calculation will include Student C's score, but ignore Student F's score.
 
  If any of the values being used in the AVERAGE calculation were to contain [one of Excel's formula errors](https://extra-lessons.techidaily.com/step-into-premium-sound-quality-garageband-edition/), the calculation would not work.
@@ -96,6 +110,9 @@ thumbnail: https://thmb.techidaily.com/8009d92085bbb2b59b0e3b6dadde39baefbadc66e
 
 ![Excel sheet showing a table with three columns: column A contains student names, column B contains their exam scores, and column C contains their ages. Next to this table are cells where the AVERAGEIF functions will be tested.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/averageif-uncalculated.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  To work out the average score of all students who scored more than 10, we would use the following formula:
 
 =AVERAGEIF(B2:B8,">10")
@@ -116,10 +133,16 @@ thumbnail: https://thmb.techidaily.com/8009d92085bbb2b59b0e3b6dadde39baefbadc66e
 
 ![Excel sheet showing a table with three columns: column A contains student names, column B contains their exam scores, and column C contains their ages. Next to this table, both AVERAGEIF calculations have been performed.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/averageif-calculated-2-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
  This has correctly picked up the scores of Students A, B, D, and E, as they are all over 12 years of age. The calculation also ignores logical values, which is why it hasn't considered Student F, even though they are over 12 years old.
 
  The criteria used in AVERAGEIF can use one of Excel's six logical operators—these are > (greater than), < (less than), = (equal to), <= (less than or equal to), >= (greater than or equal to), or <> (not equal to)—and wildcards (\* and ?). If you want to include an actual question mark or asterisk, add a tilde (\~) before the character.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  How to Use AVERAGEIFS in Excel
 
  The AVERAGEIFs function allows you to include several criteria to assess before calculating the average. It works using the following syntax:
@@ -165,3 +188,53 @@ thumbnail: https://thmb.techidaily.com/8009d92085bbb2b59b0e3b6dadde39baefbadc66e
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-amped-arcs-and-zigzags-in-olympic-speed/"><u>[New] Amped Arcs & Zigzags in Olympic Speed</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-audio-visual-vanguard-evaluating-the-best-classroom-recorders/"><u>[New] Audio-Visual Vanguard  Evaluating the Best Classroom Recorders</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-expert-opinions-best-browser-recording-apps-uncovered-for-2024/"><u>[New] Expert Opinions  Best Browser Recording Apps Uncovered for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-profiling-excellence-a-guide-to-refined-youtube-summaries/"><u>[New] Profiling Excellence  A Guide to Refined YouTube Summaries</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-best-facebook-video-downloader-and-addons-for-firefox/"><u>[Updated] 2024 Approved  Best Facebook Video Downloader And Addons for Firefox</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-how-to-easily-create-captions-and-subtitles-for-facebook-videos/"><u>[Updated] 2024 Approved  How to Easily Create Captions and Subtitles for Facebook Videos</u></a></li>
+<li><a href="https://win-forum.techidaily.com/building-your-online-presence-across-platforms-effective-techniques-for-facebook-twitter-instagram-and-youtube/"><u>Building Your Online Presence Across Platforms: Effective Techniques for Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/complete-tutorial-how-to-remove-memory-dump-files-in-windows-10/"><u>Complete Tutorial: How to Remove Memory Dump Files in Windows 10</u></a></li>
+<li><a href="https://win-forum.techidaily.com/connecting-in-the-age-of-media-giants-the-power-of-facebook-twitter-instagram-youtube/"><u>Connecting in the Age of Media Giants: The Power of Facebook, Twitter, Instagram, YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/expert-advice-for-disabling-new-features-in-your-windows-11-update/"><u>Expert Advice for Disabling New Features in Your Windows 11 Update</u></a></li>
+<li><a href="https://win-forum.techidaily.com/expert-advice-eliminating-a-profile-from-windows-11-safely-and-easily/"><u>Expert Advice: Eliminating a Profile From Windows 11 Safely and Easily</u></a></li>
+<li><a href="https://win-forum.techidaily.com/expert-advice-how-to-easily-eliminate-windows-11-user-profiles-via-revouninstaller/"><u>Expert Advice: How to Easily Eliminate Windows 11 User Profiles via RevoUninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-major-online-communities-a-look-at-facebook-twitter-instagram-youtube/"><u>Exploring Major Online Communities - A Look at Facebook, Twitter, Instagram, Youtube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-the-world-of-social-networking-on-fb-twtr-ig-yt/"><u>Exploring the World of Social Networking on FB, TWTR, IG, YT</u></a></li>
+<li><a href="https://win-forum.techidaily.com/guide-to-identifying-the-latest-powershell-version-installed-in-windows-11/"><u>Guide to Identifying the Latest PowerShell Version Installed in Windows 11</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-correctly-solve-the-persistent-error-0x803f8001-on-your-minecraft-launcher-for-modern-windows-versions/"><u>How to Correctly Solve the Persistent 'Error 0X803f8001' On Your Minecraft Launcher for Modern Windows Versions</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-zte-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted ZTE Contacts  An Easy Method Explained.</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlink-your-apple-iphone-6-plus-from-your-apple-id-by-drfone-ios/"><u>How To Unlink Your Apple iPhone 6 Plus From Your Apple ID</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-instagram-video-descriptions-the-key-to-threefold-success/"><u>In 2024, Instagram Video Descriptions - The Key to Threefold Success</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/in-2024-ultimate-guide-how-to-live-stream-on-facebook/"><u>In 2024, Ultimate Guide How to Live Stream on Facebook?</u></a></li>
+<li><a href="https://win-forum.techidaily.com/in-depth-strategies-to-curb-total-disk-consumption-by-windows-10-applications/"><u>In-Depth Strategies to Curb Total Disk Consumption by Windows 10 Applications</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723202305157-kodi-continuous-playback-solution-say-goodbye-to-buffering/"><u>Kodi Continuous Playback Solution - Say Goodbye to Buffering!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/leading-network-server-enclosure-solutions-reviewed/"><u>Leading Network Server Enclosure Solutions Reviewed</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-powershell-versions-discover-how-to-check-and-update-in-windows-11/"><u>Mastering PowerShell Versions: Discover How to Check and Update in Windows 11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-system-information-accessing-bios-on-windows-11/"><u>Mastering System Information: Accessing BIOS on Windows 11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-your-pc-with-windows-10-system-restore-explained/"><u>Mastering Your PC with Windows 10 System Restore Explained</u></a></li>
+<li><a href="https://win-forum.techidaily.com/1722915316632-navigating-the-giants-of-online-networking-facebook-twitter-instagram-and-youtube/"><u>Navigating the Giants of Online Networking - Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/optimize-your-windows-11-hard-drive-by-reclaiming-lost-space/"><u>Optimize Your Windows 11 Hard Drive by Reclaiming Lost Space</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-oppo-reno-11-pro-5g-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Oppo Reno 11 Pro 5G Screen | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/social-media-showdown-comparing-facebook-twitter-instagram-and-youtube-popularity/"><u>Social Media Showdown: Comparing Facebook, Twitter, Instagram and YouTube Popularity</u></a></li>
+<li><a href="https://win-forum.techidaily.com/social-media-titans-a-deep-dive-into-facebook-twitter-instagram-and-youtube-usage/"><u>Social Media Titans: A Deep Dive Into Facebook, Twitter, Instagram & YouTube Usage</u></a></li>
+<li><a href="https://win-forum.techidaily.com/social-success-strategies-across-key-platforms-insights-for-facebook-twitter-instagram-and-youtube-users/"><u>Social Success Strategies Across Key Platforms: Insights for Facebook, Twitter, Instagram and Youtube Users</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-closing-unresponsive-windows-programs-using-quick-fixes/"><u>Step-by-Step Guide: Closing Unresponsive Windows Programs Using Quick Fixes</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-removing-windows-11-updates-successfully/"><u>Step-by-Step Guide: Removing Windows 11 Updates Successfully</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-tutorial-for-fixing-a-change-of-plan-error-on-windows-11-machines/"><u>Step-by-Step Tutorial for Fixing 'A Change of Plan' Error on Windows 11 Machines</u></a></li>
+<li><a href="https://win-forum.techidaily.com/stop-the-halt-effective-ways-to-address-and-repair-pc-stops-and-jams/"><u>Stop the Halt: Effective Ways to Address and Repair PC Stops & Jams</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1723808136522-the-complete-guide-to-speeding-up-your-windows-update-time-discover-why-it-takes-so-long/"><u>The Complete Guide to Speeding Up Your Windows Update Time - Discover Why It Takes So Long!</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-quintessential-social-media-sites-navigating-facebook-twitter-insta-and-youtube/"><u>The Quintessential Social Media Sites: Navigating Facebook, Twitter, Insta, and Youtube</u></a></li>
+<li><a href="https://fox-info.techidaily.com/top-10-android-and-ios-wedding-timers-latest-app-rankings-for-2024/"><u>Top 10 Android & iOS Wedding Timers  Latest App Rankings for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/1722915367154-top-four-social-media-giants-facebook-twitter-instagram-and-youtube/"><u>Top Four Social Media Giants: Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-live-streaming-hardware-encoder-and-equipment-you-should-know-for-2024/"><u>Top Live Streaming Hardware Encoder and Equipment You Should Know for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-networking-sites-facebook-twitter-instagram-and-youtube/"><u>Top Networking Sites - Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/transform-workforce-skills-with-premier-linguistic-software/"><u>Transform Workforce Skills with Premier Linguistic Software</u></a></li>
+<li><a href="https://win-forum.techidaily.com/understanding-digital-engagement-on-leading-channels-facebook-twitter-instagram-and-youtube/"><u>Understanding Digital Engagement on Leading Channels: Facebook, Twitter, Instagram & Youtube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/unveiling-the-basics-understanding-bios-with-revouninstaller/"><u>Unveiling the Basics: Understanding BIOS with RevoUninstaller</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-mac-video-editing-made-easy-discover-the-best-software-for-you-for-2024/"><u>Updated Mac Video Editing Made Easy Discover the Best Software for You for 2024</u></a></li>
+</ul></div>

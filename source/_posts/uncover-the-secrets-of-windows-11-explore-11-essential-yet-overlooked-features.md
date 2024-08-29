@@ -1,7 +1,7 @@
 ---
 title: Uncover the Secrets of Windows 11 - Explore 11 Essential Yet Overlooked Features!
-date: 2024-08-28 12:21:15
-updated: 2024-08-29 12:51:20
+date: 2024-08-28T04:28:33.157Z
+updated: 2024-08-29T04:28:33.157Z
 tags:
   - windows
 categories:
@@ -56,12 +56,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  There are more [privacy settings on Windows 11](https://win-able.techidaily.com/reviving-game-playthroughs-solve-xbox-headset-problems-with-these-proven-steps/) that you can change for a [better Windows user experience](https://instagram-video-files.techidaily.com/new-in-2024-essential-app-picks-best-10-editors-to-transform-reels/).
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Live Captions Anywhere
 
  If you find it hard to listen to what's going on in meetings or want to read subtitles when watching videos, Live Captions on Windows 11 makes that happen. It works throughout your whole system, even if you're listening or watching something on your browser. To find Live Captions, go to Settings > Accessibility > Captions.
 
 ![Windows Accessibility settings being displayed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/windows-accessibility-settings.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
  Turn on "Live Captions." You should see a prompt about permitting Microsoft to process your voice data locally. Press "Download" to agree.
 
 ![Windows Live Captions settings being displayed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/windows-live-captions.png) 
@@ -70,8 +76,14 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Windows Live Captions feature generating captions for a YouTube video](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/windows-live-captions-feature.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  You can play around the settings of the caption box to suit your preferences.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Voice Typing Anywhere
 
  Another useful accessibility feature on Windows 11 is Voice Access. You can type by speaking whenever you're on a text prompt. Enable Voice Access by going into Settings > Accessibility > Speech.
@@ -84,6 +96,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  You'll be guided through a tutorial on using Voice Access. You can say different commands to perform actions or type using your voice when the mouse cursor is active on a typing box. Try using it on the Notepad.
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Focus Sessions
 
  I use [Focus Mode on Android](https://extra-approaches.techidaily.com/in-2024-premier-podplay-writing-treasures/) a lot. When you need to get some work done free of distractions, it comes in handy. Windows has its own focus mode called Focus Sessions. To start a Focus Session, go to Settings > System > Focus.
@@ -110,24 +125,39 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Ending a task from the taskbar on Windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ending-task-from-the-taskbar-on-windows.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Minimize Windows by Shaking
 
  This is a fun little feature when you have a lot of windows open together, and you need to minimize all of them quickly. You can drag a single window's title bar and shake it to minimize all other windows. To turn this feature on, go to Settings > System > Multitasking.
 
 ![Different Windows System settings being displayed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/windows-multitasking-settings.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
  Turn on the "Title Bar Windows Shake" option.
 
 ![Title bar windows shake option in the Windows settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/title-bar-windows-shake.png) 
 
  Be cautious though, because sometimes this can become a problem when you're just trying to move a window, but it's registered as a shake.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  Scrolling Over the Volume Icon to Change the Volume
 
  A lot of apps and software already have this feature, so Windows might be a little late for the party. But yes, now you can simply go to the volume option on the taskbar and scroll your mouse wheel to increase or decrease the volume. If you use your touchpad quite often, this should be even more useful. You don't need to hold the scroll bar and drag it.
 
 ![Scrolling to change volume on Windows-anim](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/scroll-to-change-volume-on-windows-anim.gif) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ##  Instant Photo Transfer From Android
 
  A new Windows update now allows you to transfer photos and screenshots the moment you take them on your Android phone. But it's turned off by default. You first need to [connect your Android phone to your Windows PC](https://desktop-recording.techidaily.com/in-2024-zoom-savvy-key-techniques-for-clear-and-confident-remote-conversations/) via the Link to Windows app from Play Store. You may also need to log in using your Microsoft account on both.
@@ -136,6 +166,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The option to turn on the Get new photo notifications setting being displyaed on Windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/7-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  After that, take a photo or screenshot on your Android device while connected to the PC. You should see a notification on your Windows PC.
 
 ![A notification being displayed on Windows 11 after taking a photo on Android](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/android-photo-notification-on-windows-11-1.png) 
@@ -150,6 +183,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  One advantage of pressing Windows+X instead of right-clicking the Start button is that you'll notice all the options in the menu have an underlined letter. Pressing that underlined letter on your keyboard will open that option. For example, if you press Windows+X and then T, it will open the [Task Manager](https://some-skills.techidaily.com/new-unveiling-the-secret-sauce-for-massive-tiktok-content-grabs/). No need to touch the mouse.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  OCR in the Snipping Tool
 
  If you need to quickly extract some text from an image, the Windows Snipping Tool can help you with that. It's known as the [Text Actions feature](https://fox-hovers.techidaily.com/updated-2024-approved-mastering-time-warp-in-video-editing/). Open the Snipping Tool and [take a screenshot](https://techtrends.techidaily.com/diy-tech-support-overcoming-the-frequent-hurdles-with-your-tv/) of the image that you want to extract text from. If the photo is already on your PC, you can right-click it and open it in Snipping Tool.
@@ -158,12 +194,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The OCR feature in Windows Snipping Tool being used to extract text from a screenshot](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ocr-feature-in-windows-snipping-tool.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Built-in Image Editing in the Photos App
 
  This is a big one for me personally. For small edits, I either had to rely on a large program like [Photoshop,](https://facebook-clips.techidaily.com/new-2024-approved-tips-to-incorrante-tv-with-facebook-live-integration/) which would be overkill, or apps on the web, which would sometimes force watermarks and limit the resolution. Now, with some useful editing features integrated into the Windows Photos app, it's easier than ever to make small tweaks to give a perfect shape to your photos.
 
 ![Editing an image on the Windows Photos app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/windows-photos-app.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  To get access to the editing options, open any image in the app and then press Ctrl+E. You can crop the image, make light and color adjustments, add filters, erase objects, and remove the background from the image.
 
 ##  No More Hiding Behind the Windows
@@ -184,3 +226,47 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-twitters-wild-ride-the-hottest-tweets-unveiled/"><u>[New] 2024 Approved  Twitter's Wild Ride  The Hottest Tweets Unveiled</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-contrasting-youtubes-ownership-norms-with-cc-ideals/"><u>[New] In 2024, Contrasting YouTube's Ownership Norms with CC Ideals</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-instagram-image-protection-the-art-of-photowatermarking-for-2024/"><u>[New] Instagram Image Protection  The Art of Photowatermarking for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-optimizing-your-imovie-content-for-vimeo-display/"><u>[New] Optimizing Your iMovie Content for Vimeo Display</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-capturing-snapchat-moments-mobile-screen-recording-guide/"><u>[Updated] 2024 Approved  Capturing Snapchat Moments  Mobile Screen-Recording Guide</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-lenssplit-viewer-insight/"><u>[Updated] 2024 Approved  LensSplit Viewer Insight</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722167606350-50-mobile-discounts-and-expert-insights-on-cracking-ransomware-codes-podcast-with-chatgpt/"><u>$50 Mobile Discounts & Expert Insights on Cracking Ransomware Codes - Podcast with ChatGPT</u></a></li>
+<li><a href="https://win-forum.techidaily.com/android-11-features-one-time-permission-revouninstaller/"><u>Android 11 Features: One-Time Permission - RevoUninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/connecting-the-dots-in-digital-networking-through-facebook-twitter-instagram-and-youtube/"><u>Connecting the Dots in Digital Networking Through Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/connecting-the-world-online-through-major-platforms-facebook-twitter-instagram-and-youtube/"><u>Connecting the World Online Through Major Platforms - Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/conquering-common-challenges-easy-steps-for-your-ipad-capture-process-for-2024/"><u>Conquering Common Challenges  Easy Steps for Your iPad Capture Process for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/crafting-content-that-captivates-a-guide-to-facebook-reels-for-2024/"><u>Crafting Content that Captivates  A Guide to Facebook Reels for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/determining-your-current-windows-11-powershell-version-a-comprehensive-guide/"><u>Determining Your Current Windows 11 PowerShell Version: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-forum.techidaily.com/expert-techniques-for-forcefully-expunging-resistant-folders-from-windows-os-using-revo-uninstaller/"><u>Expert Techniques for Forcefully Expunging Resistant Folders From Windows OS Using Revo Uninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-the-giants-of-online-engagement-facebook-twitter-instagram-and-youtube/"><u>Exploring the Giants of Online Engagement: Facebook, Twitter, Instagram and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/1722915371234-exploring-the-giants-of-social-networking-facebook-twitter-instagram-and-youtube/"><u>Exploring the Giants of Social Networking: Facebook, Twitter, Instagram and YouTube</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-vivo-t2-pro-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Vivo T2 Pro 5G without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-vivo-y100i-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Vivo Y100i Phone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-vivo-y77t-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Vivo Y77t | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Samsung Galaxy S21 FE 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-perceiving-beyond-understanding-ars-impact/"><u>In 2024, Perceiving Beyond  Understanding AR's Impact</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-precision-color-correction-with-mastery-over-ps-3d-luts/"><u>In 2024, Precision Color Correction with Mastery over PS 3D LUTs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-upgrade-your-photo-edits-the-ultimate-guide-to-pixlr-power/"><u>In 2024, Upgrade Your Photo Edits  The Ultimate Guide to Pixlr Power</u></a></li>
+<li><a href="https://win-forum.techidaily.com/master-the-art-of-windows-11-driver-updates-with-revouninstaller/"><u>Master the Art of Windows 11 Driver Updates with RevoUninstaller</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-nubia-red-magic-9-proplus-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Nubia Red Magic 9 Pro+</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-social-media-engagement-across-major-platforms-facebook-twitter-instagram-and-youtube/"><u>Mastering Social Media Engagement Across Major Platforms: Facebook, Twitter, Instagram and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-the-social-sphere-with-facebook-twitter-instagram-and-youtube/"><u>Mastering the Social Sphere with Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-social-media-giants-facebook-twitter-instagram-and-youtube/"><u>Navigating the Social Media Giants: Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/remove-unwanted-online-trackers-a-complete-walkthrough-for-windows-11android-users/"><u>Remove Unwanted Online Trackers: A Complete Walkthrough for Windows 11/Android Users</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-nokia-105-classic-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Nokia 105 Classic</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solutions-for-preventing-self-activating-boot-sequences-on-windows-10-devices/"><u>Solutions for Preventing Self-Activating Boot Sequences on Windows 10 Devices</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-on-removing-or-disabling-the-latest-windows-11-update/"><u>Step-by-Step Guide on Removing or Disabling the Latest Windows 11 Update</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-removing-hidden-applications-from-your-pc-without-using-control-panel/"><u>Step-by-Step Guide: Removing Hidden Applications From Your PC Without Using Control Panel</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-process-to-immediately-end-frozen-windows-programs-using-revouninstaller/"><u>Step-by-Step Process to Immediately End Frozen Windows Programs Using RevoUninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-power-of-online-influence-understanding-facebook-twitter-instagram-and-youtube/"><u>The Power of Online Influence: Understanding Facebook, Twitter, Instagram and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-powerhouse-quartet-of-online-interaction-facebook-twitter-insta-grams-and-youtubes-explained/"><u>The Powerhouse Quartet of Online Interaction: Facebook, Twitter, Insta-Grams & Youtubes Explained</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-social-platforms-compared-facebook-vs-twitter-vs-instagram-vs-youtube/"><u>Top Social Platforms Compared: Facebook Vs. Twitter Vs. Instagram Vs. YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/ultimate-guide-secure-file-deletion-on-windows-11/"><u>Ultimate Guide: Secure File Deletion on Windows 11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/ultimate-protection-safeguarding-your-text-files-with-password-encryption-techniques/"><u>Ultimate Protection: Safeguarding Your Text Files with Password Encryption Techniques</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-iphone-6-without-passcode-easily-by-drfone-ios/"><u>Unlock iPhone 6 Without Passcode Easily</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Turning Off Microsoft's SmartScreen in Windows 10 and 8"
-date: 2024-08-27 15:18:57
-updated: 2024-08-29 10:23:43
+date: 2024-08-28T04:28:20.822Z
+updated: 2024-08-29T04:28:20.822Z
 tags:
   - windows
 categories:
@@ -31,20 +31,32 @@ thumbnail: https://thmb.techidaily.com/ce0abe7bceafa506ef01b02e0cca98d1b8784a398
 
  On the other hand, disabling it may allow a malicious application to slip through the cracks. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  How to Disable SmartScreen on Windows 10
 
  SmartScreen settings are located in the Windows Security Center interface. Open up the Start menu, then search for and open "Windows Security." 
 
 ![Search for and launch 'Windows Security' from the Start Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-launch-windows-security.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
  Click the "App and Browser Control" icon in Windows Security to find these settings.
 
 ![Click 'App and Browser Control.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-app-and-browser-control.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
  Then click on "Reputation-based Protection Settings." 
 
 ![Click 'Reputation-based Protection Settings' to access SmartScreen settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-reputation.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
  There are four different Windows SmartScreen options, and you can disable them individually. 
 
  The "Check Apps and Files" option controls the operating system's SmartScreen filter, which protects you no matter where you download files from. When you try to open a downloaded application or file in File Explorer or another application, Windows will check that application or file and block it or display a warning if it's unrecognized.
@@ -63,12 +75,18 @@ thumbnail: https://thmb.techidaily.com/ce0abe7bceafa506ef01b02e0cca98d1b8784a398
 
 ## ![The SmartScreen for Microsoft Store apps](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/for-windows-smartscreen.png)Disable SmartScreen on Windows 8
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
  On Windows 8, you'll find this option in the Control Panel. Navigate to Control Panel > System and Security > Action Center.
 
  Expand the "Security" section, locate Windows SmartScreen in the list, and click "Change settings" under it.
 
 ![img_5912453496fed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/05/img_5912453496fed.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
  You can then choose what Windows does with unrecognized programs. You can have Windows require administrator approval before running an unknown program, warn you without requiring administrator approval, or select "Don't do anything" to turn off Windows SmartScreen.
 
 <ins class="adsbygoogle"
@@ -85,3 +103,72 @@ thumbnail: https://thmb.techidaily.com/ce0abe7bceafa506ef01b02e0cca98d1b8784a398
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-capturing-action-fraps-recorder-insights/"><u>[New] 2024 Approved  Capturing Action  Fraps Recorder Insights</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-capturing-contentment-a-practical-guide-to-daily-vlogging/"><u>[New] 2024 Approved  Capturing Contentment  A Practical Guide to Daily Vlogging</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-how-to-find-uplifting-faith-songs-for-smartphone-alerts/"><u>[Updated] How to Find Uplifting Faith Songs for Smartphone Alerts</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-making-social-video-viewing-a-breeze-on-your-appletv/"><u>[Updated] In 2024, Making Social Video Viewing a Breeze on Your AppleTV</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-master-techniques-for-live-sport-broadcast-recording/"><u>[Updated] In 2024, Master Techniques for Live Sport Broadcast Recording</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-step-by-step-audio-preservation-in-the-digital-age-for-2024/"><u>[Updated] Step-by-Step Audio Preservation in the Digital Age for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-firefox-pip-simplified-for-the-everyday-user/"><u>2024 Approved  Firefox PIP  Simplified for the Everyday User</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/2024-approved-how-to-translate-youtube-videos-without-cc/"><u>2024 Approved How to Translate YouTube Videos Without CC</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-vivo-s17e-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Vivo S17e Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/all-you-need-to-know-about-mega-greninja-for-infinix-hot-30-5g-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Infinix Hot 30 5G | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/best-practices-for-resolving-high-disk-usage-at-100-on-your-windows-10-system/"><u>Best Practices for Resolving High Disk Usage at 100%% on Your Windows 10 System</u></a></li>
+<li><a href="https://win-forum.techidaily.com/complete-guide-removing-user-accounts-on-windows-11-with-revo-uninstaller/"><u>Complete Guide: Removing User Accounts on Windows 11 with Revo Uninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/complete-tutorial-how-to-erase-user-profiles-using-revo-uninstaller-on-windows-11/"><u>Complete Tutorial: How to Erase User Profiles Using Revo Uninstaller on Windows 11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/connect-and-share-on-major-social-media-facebook-twitter-instagram-youtube-overview/"><u>Connect and Share on Major Social Media: Facebook, Twitter, Instagram, YouTube Overview</u></a></li>
+<li><a href="https://win-forum.techidaily.com/defeating-the-persistent-problem-of-unrecognized-usb-devices/"><u>Defeating the Persistent Problem of Unrecognized USB Devices</u></a></li>
+<li><a href="https://win-forum.techidaily.com/digital-engagement-essentials-mastering-the-art-on-facebook-twitter-instagram-and-youtube/"><u>Digital Engagement Essentials: Mastering the Art on Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/digital-interaction-hubs-unpacking-the-phenomenon-of-facebook-twitter-instagram-and-youtube/"><u>Digital Interaction Hubs - Unpacking the Phenomenon of Facebook, Twitter, Instagram and YouTube.</u></a></li>
+<li><a href="https://win-forum.techidaily.com/do-you-really-need-a-third-party-app-to-remove-programs-exploring-the-alternatives/"><u>Do You Really Need a Third-Party App to Remove Programs: Exploring the Alternatives</u></a></li>
+<li><a href="https://win-forum.techidaily.com/effective-solutions-to-overcome-apps-not-running-error-in-pc/"><u>Effective Solutions to Overcome Apps Not Running Error in PC</u></a></li>
+<li><a href="https://win-forum.techidaily.com/engage-on-the-web-with-leading-networks-facebook-twitter-instagram-and-youtube/"><u>Engage on the Web with Leading Networks: Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/enhanced-targeting-with-our-cookiebot-driven-analytics-solutions/"><u>Enhanced Targeting with Our Cookiebot-Driven Analytics Solutions</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/enriching-visitor-experiences-through-advanced-cookiebot-solutions/"><u>Enriching Visitor Experiences Through Advanced Cookiebot Solutions</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/ensuring-peak-performance-acquire-and-update-your-epson-wf-352n-printers-windows-driver-software-now/"><u>Ensuring Peak Performance: Acquire and Update Your Epson WF 352N Printer's Windows Driver Software Now</u></a></li>
+<li><a href="https://win-forum.techidaily.com/expert-advice-how-to-use-revo-uninstaller-for-total-erasure-of-folders-in-windows-11/"><u>Expert Advice: How to Use Revo Uninstaller for Total Erasure of Folders in Windows 11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/explore-social-networks-facebook-twitter-and-instagram-youtube/"><u>Explore Social Networks: Facebook, Twitter & Instagram, YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-digital-connections-through-leading-platforms-facebook-twitter-instagram-and-youtube/"><u>Exploring Digital Connections Through Leading Platforms: Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-top-social-platforms-facebook-twitter-instagram-and-youtube-unveiled/"><u>Exploring Top Social Platforms: Facebook, Twitter, Instagram & YouTube Unveiled</u></a></li>
+<li><a href="https://win-forum.techidaily.com/fixing-unforeseen-issues-tackling-the-unexpected-planning-failure-in-windows-11/"><u>Fixing Unforeseen Issues: Tackling the Unexpected Planning Failure in Windows 11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/guide-to-finding-and-checking-your-powershell-version-on-windows-11/"><u>Guide to Finding and Checking Your PowerShell Version on Windows 11</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-perform-a-clean-installation-on-windows-11-essential-steps-and-tips/"><u>How to Perform a Clean Installation on Windows 11 - Essential Steps and Tips</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-perform-factory-reset-windows-10-revo-uninstaller-pro-4/"><u>How to Perform Factory Reset Windows 10 - Revo Uninstaller Pro 4</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-reclaim-disk-capacity-in-windows-11-the-ultimate-troubleshooting-and-cleanup-tutorial/"><u>How to Reclaim Disk Capacity in Windows 11: The Ultimate Troubleshooting and Cleanup Tutorial</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-converting-youtube-to-gif-a-comprehensive-online-process/"><u>In 2024, Converting YouTube to GIF  A Comprehensive Online Process</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Motorola G54 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-infographic-roundup-yts-shocking-reality-of-17/"><u>In 2024, Infographic Roundup  YT's Shocking Reality of '17</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-motorola-moto-g24-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Motorola Moto G24 to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-vivo-v27e-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Vivo V27e? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Tecno Spark 10 4G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Apple iPhone X | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-remote-power-on-a-comprehensive-tutorial-for-windows-10-and-11-users/"><u>Mastering Remote Power On: A Comprehensive Tutorial for Windows 10 and 11 Users</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/mastering-video-loading-on-facebook-for-2024/"><u>Mastering Video Loading on Facebook for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-digital-sphere-an-insight-into-facebook-twitter-instagram-and-youtube-usage/"><u>Navigating the Digital Sphere: An Insight Into Facebook, Twitter, Instagram & YouTube Usage</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-social-media-powerhouses-insight-into-facebook-twitter-instagram-and-youtube/"><u>Navigating the Social Media Powerhouses: Insight Into Facebook, Twitter, Instagram & Youtube</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-in-2024-guide-to-generating-speech-in-different-languages-with-the-best-tools/"><u>New In 2024, Guide to Generating Speech in Different Languages With the Best Tools</u></a></li>
+<li><a href="https://win-forum.techidaily.com/revo-uninstallers-powerful-method-to-force-delete-non-responding-folders-on-windows-os/"><u>Revo Uninstaller's Powerful Method to Force Delete Non-Responding Folders on Windows OS</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/snappy-business-tactics-on-snapchat/"><u>Snappy Business Tactics on Snapchat</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-solving-minecrafts-troublesome-error-code-5/"><u>Step-by-Step Guide: Solving Minecraft’s Troublesome Error Code 5</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-tutorial-for-setting-up-wake-on-lan-on-microsofts-latest-operating-systems/"><u>Step-by-Step Tutorial for Setting Up Wake-on-LAN on Microsoft's Latest Operating Systems</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-update-your-windows-bluetooth-stick-hardware-drivers-easily/"><u>Step-by-Step: Update Your Windows Bluetooth Stick Hardware Drivers Easily</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721451777998-struggling-to-access-a-vpn-via-iphone-follow-this-guide-for-7-remedies/"><u>Struggling to Access a VPN via iPhone? Follow This Guide for 7 Remedies.</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-definitive-technique-to-grant-administrator-rights-automatically-to-all-your-apps-on-windows-11/"><u>The Definitive Technique to Grant Administrator Rights Automatically to All Your Apps on Windows 11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-power-players-in-social-media-exploring-facebook-twitter-instagram-and-youtubes-dominance/"><u>The Power Players in Social Media: Exploring Facebook, Twitter, Instagram & Youtube's Dominance</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-powerhouses-of-social-media-a-closer-look-at-facebook-twitter-instagram-and-youtube/"><u>The Powerhouses of Social Media: A Closer Look at Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-quintessential-quad-of-digital-sphere-exploring-facebook-twitter-instagram-and-youtube/"><u>The Quintessential Quad of Digital Sphere: Exploring Facebook, Twitter, Instagram & Youtube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-quintessential-social-media-platforms-for-engagement-facebook-twitter-instagram-and-youtube/"><u>The Quintessential Social Media Platforms for Engagement: Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-quintessential-social-networks-explained-facebook-twitter-instagram-and-youtube/"><u>The Quintessential Social Networks Explained: Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-top-four-navigating-the-giants-of-social-networking-facebook-twitter-instagram-and-youtube/"><u>The Top Four: Navigating the Giants of Social Networking - Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-ultimate-guide-to-top-social-media-sites-facebook-twitter-instagram-and-youtube/"><u>The Ultimate Guide to Top Social Media Sites - Facebook, Twitter, Instagram & Youtube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-4-social-networking-titans-mastering-facebook-twitter-instagram-and-youtube-engagement/"><u>Top 4 Social Networking Titans: Mastering Facebook, Twitter, Instagram, and YouTube Engagement</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-5-methods-for-securing-your-pc-protecting-windows-devices/"><u>Top 5 Methods for Securing Your PC: Protecting Windows Devices</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-digital-networking-sites-facebook-tweetdeck-gramfeed-and-videohub-youtube/"><u>Top Digital Networking Sites: FaceBook, TweetDeck, GramFeed, and VideoHub (YouTube)</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-giants-of-online-networking-facebook-twitter-instagram-youtube/"><u>Top Giants of Online Networking - Facebook | Twitter | Instagram | YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/troubleshooting-windows-11-solutions-for-wont-run-issues/"><u>Troubleshooting Windows 11: Solutions for Wont Run Issues</u></a></li>
+<li><a href="https://win-forum.techidaily.com/unveiling-the-giants-of-digital-communication-facebook-twitter-instagram-and-youtube/"><u>Unveiling the Giants of Digital Communication: Facebook, Twitter, Instagram & YouTube</u></a></li>
+</ul></div>

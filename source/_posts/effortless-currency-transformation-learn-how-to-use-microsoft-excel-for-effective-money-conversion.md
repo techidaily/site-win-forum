@@ -1,7 +1,7 @@
 ---
 title: "Effortless Currency Transformation: Learn How to Use Microsoft Excel for Effective Money Conversion"
-date: 2024-08-26 19:31:59
-updated: 2024-08-29 12:47:57
+date: 2024-08-28T04:30:08.742Z
+updated: 2024-08-29T04:30:08.742Z
 tags:
   - excel
 categories:
@@ -56,6 +56,9 @@ Related: [How to Convert Currency in Google Sheets](https://fox-blue.techidaily.
 
 ![Press Data > Refresh All to refresh your data sources manually](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/01/Excel-Refresh-Data.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Converting Currency in Microsoft Excel
 
  You can use the up-to-date data you imported to convert currency figures with a simple multiplication formula.
@@ -66,6 +69,9 @@ Related: [How to Convert Currency in Google Sheets](https://fox-blue.techidaily.
 
 ![Currency exchange rates, imported from an external data source in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/01/Excel-GBP-Currency-Rate.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
  Return to your existing worksheet, and type the USD price from which you want to convert into a cell. In a second cell, use the formula 
 
         `=A2*Sheet2!$I$3`
@@ -76,6 +82,10 @@ Related: [How to Convert Currency in Google Sheets](https://fox-blue.techidaily.
 
 ![Various currency conversion prices in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/01/Excel-Currency-Conversion.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
  In the example above, Column A lists U.S. dollars. Column B lists the converted currency rates from U.S. dollars to British pounds (1 USD to GBP is in cell B2).
 
  When you change the absolute cell reference and use alternative data sources (like the FloatRates GBP data source to convert from GBP to other currencies), you can convert from any currency to another.
@@ -84,6 +94,9 @@ Related: [How to Convert Currency in Google Sheets](https://fox-blue.techidaily.
 
 ![Manual currency conversion in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/01/Excel-Manual-Currency-Conversion.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The same multiplication formula converts your currency. However, if you're not using an external data source, you'll have to update the rate manually to see the correct price.
 
 <ins class="adsbygoogle"
@@ -100,3 +113,55 @@ Related: [How to Convert Currency in Google Sheets](https://fox-blue.techidaily.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-enhance-productivity-mac-screen-capture-made-simple-using-shortcut-keys/"><u>[Updated] Enhance Productivity  Mac Screen Capture Made Simple Using Shortcut Keys</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-the-ultimate-list-of-premium-androidpc-video-editors/"><u>[Updated] In 2024, The Ultimate List of Premium Android/PC Video Editors</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-initiate-google-meet-using-your-gadget/"><u>[Updated] Initiate Google Meet Using Your Gadget</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-understanding-imovies-editing-edge/"><u>[Updated] Understanding iMovie's Editing Edge</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-digital-duet-syncing-videos-for-twitter-and-tumble/"><u>2024 Approved  Digital Duet  Syncing Videos for Twitter and Tumble</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/compatible-brother-hl-2280dw-printer-drivers-for-windows-111087-fast-and-easy-installation/"><u>Compatible Brother HL-2280DW Printer Drivers for Windows 11/10/8/7: Fast and Easy Installation</u></a></li>
+<li><a href="https://win-forum.techidaily.com/connecting-in-a-connected-world-unraveling-the-secrets-of-facebook-twitter-instagram-and-youtube/"><u>Connecting in a Connected World: Unraveling The Secrets of Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/conveniently-start-your-pc-from-afar-with-wake-on-lan-in-modern-windows-oses/"><u>Conveniently Start Your PC From Afar with Wake-on-LAN in Modern Windows OSes</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-new-usb-to-hdmi-drivers-enhance-your-device-compatibility/"><u>Download New USB to HDMI Drivers: Enhance Your Device Compatibility</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-how-to-bypass-oppo-find-n3-flip-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Oppo Find N3 Flip FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://win-forum.techidaily.com/effortless-registry-key-customization-how-to-use-revo-uninstaller-for-editing-and-deletion-tasks/"><u>Effortless Registry Key Customization: How to Use Revo Uninstaller for Editing and Deletion Tasks</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/essential-2023s-selection-of-top-tier-pc-vr-gear/"><u>Essential 2023'S Selection of Top-Tier PC VR Gear</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/expanding-horizons-the-vr-in-classroom-effect/"><u>Expanding Horizons  The VR in Classroom Effect</u></a></li>
+<li><a href="https://win-forum.techidaily.com/expert-tips-on-disentangling-from-recent-windows-11-upgrades/"><u>Expert Tips on Disentangling From Recent Windows 11 Upgrades</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-the-powerhouses-in-digital-communication-facebook-twitter-instagram-and-youtube/"><u>Exploring the Powerhouses in Digital Communication: Facebook, Twitter, Instagram & Youtube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-clean-out-persistent-folders-from-your-system-a-guide-for-windows-1011-users-with-revo-uninstaller/"><u>How to Clean Out Persistent Folders From Your System: A Guide for Windows 10/11 Users with Revo Uninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-get-rid-of-programs-not-showing-up-in-windows-control-panel/"><u>How To Get Rid of Programs Not Showing Up In Windows Control Panel</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-iphone-8-plus-data-from-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover iPhone 8 Plus Data From iTunes? | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-reorganize-your-android-apps-a-comprehensive-tutorial-using-organizing-tools/"><u>How to Reorganize Your Android Apps: A Comprehensive Tutorial Using Organizing Tools</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-tackle-the-notorious-blue-screen-of-death-stop-code-0x00000124-on-windows-systems/"><u>How to Tackle the Notorious Blue Screen of Death (Stop Code 0X00000124) on Windows Systems</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-or-downgrade-iphone-6-plus-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade iPhone 6 Plus Without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/improve-performance-a-comprehensive-guide-on-driver-updates-for-windows-11-via-revo-uninstaller/"><u>Improve Performance: A Comprehensive Guide on Driver Updates for Windows 11 via Revo Uninstaller</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Motorola Edge 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-edit-mov-files-for-free-top-10-video-editors/"><u>In 2024, Edit MOV Files for Free Top 10 Video Editors</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-13-mini-with-a-mask-on-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 13 mini with a Mask On | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-master-level-stardew-upgrades-for-ultimate-growth/"><u>In 2024, Master Level Stardew Upgrades for Ultimate Growth</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/inclusivity-in-tech-the-expert-take-on-easeus/"><u>Inclusivity in Tech  The Expert Take on EaseUS</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/instagrams-step-by-step-guide-to-green-room-editing-for-2024/"><u>Instagram's Step-by-Step Guide to Green Room Editing for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/installing-windows-13-on-incompatible-cpus-using-tricks-and-techniques-comprehensive-tutorial/"><u>Installing Windows 13 on Incompatible CPUs Using Tricks & Techniques - Comprehensive Tutorial</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/introducing-shape-revolutionary-ai-interpretability-solution-by-openai/"><u>Introducing SHAPE: Revolutionary AI Interpretability Solution by OpenAI</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-digital-age-with-major-networks-facebook-twitter-instagram-and-youtube/"><u>Navigating the Digital Age with Major Networks - Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-giants-of-social-sharing-a-guide-to-facebook-twitter-instagram-and-youtube/"><u>Navigating the Giants of Social Sharing: A Guide to Facebook, Twitter, Instagram & Youtube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-titans-of-online-networks-facebook-twitter-instagram-and-youtube/"><u>Navigating the Titans of Online Networks: Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-through-top-digital-platforms-insights-into-facebook-twitter-instagram-and-youtube-strategies/"><u>Navigating Through Top Digital Platforms: Insights Into Facebook, Twitter, Instagram, and YouTube Strategies</u></a></li>
+<li><a href="https://win-forum.techidaily.com/permanent-data-erasure-techniques-for-windows-11-users/"><u>Permanent Data Erasure Techniques for Windows 11 Users</u></a></li>
+<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/simplifying-computer-management-dive-into-the-features-of-revo-uninstaller-pro-5/"><u>Simplifying Computer Management: Dive Into the Features of Revo Uninstaller Pro 5</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-clearing-out-windows-11-memory-dump-files/"><u>Step-by-Step Guide: Clearing Out Windows 11 Memory Dump Files</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-tutorial-setting-up-permanent-admin-rights-in-windows-11-software/"><u>Step-by-Step Tutorial: Setting Up Permanent Admin Rights in Windows 11 Software</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/steps-to-acquire-free-picture-frame-videos/"><u>Steps to Acquire Free Picture Frame Videos</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-big-four-of-online-interaction-diving-into-facebook-twitter-instagram-and-youtube/"><u>The Big Four of Online Interaction: Diving Into Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-big-four-of-social-networks-diving-deep-into-facebook-twitter-instagram-and-youtubes-ecosystem/"><u>The Big Four of Social Networks: Diving Deep Into Facebook, Twitter, Instagram and YouTube's Ecosystem.</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-powerhouse-platforms-strategies-for-mastery-on-facebook-twitter-instagram-and-youtube/"><u>The Powerhouse Platforms: Strategies for Mastery on Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-ultimate-list-of-androids-best-music-video-apps-for-2024/"><u>The Ultimate List of Android's Best Music Video Apps for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-ultimate-social-experience-exploring-the-power-of-facebook-twitter-instagram-and-youtube/"><u>The Ultimate Social Experience: Exploring the Power of Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/unveiling-the-trick-to-dispose-of-non-standard-apps-from-your-pc/"><u>Unveiling the Trick to Dispose of Non-Standard Apps From Your PC</u></a></li>
+<li><a href="https://win-forum.techidaily.com/windows-10-driver-update-tutorial-keeping-your-system-smooth-and-fast/"><u>Windows 10 Driver Update Tutorial - Keeping Your System Smooth and Fast</u></a></li>
+<li><a href="https://win-forum.techidaily.com/windows-11-installation-hacks-for-unsupported-cpu-users/"><u>Windows 11 Installation Hacks for Unsupported CPU Users</u></a></li>
+</ul></div>

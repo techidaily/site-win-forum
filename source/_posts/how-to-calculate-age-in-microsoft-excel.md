@@ -1,7 +1,7 @@
 ---
 title: How to Calculate Age in Microsoft Excel.
-date: 2024-08-28 21:38:52
-updated: 2024-08-29 10:49:14
+date: 2024-08-28T04:29:11.856Z
+updated: 2024-08-29T04:29:11.856Z
 tags:
   - excel
 categories:
@@ -51,6 +51,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
 Related: [How to Get Microsoft Excel to Calculate Uncertainty](https://extra-resources.techidaily.com/chrome-os-vocal-personalization-guide-review-of-the-best-speech-converters-for-2024/) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  How to Calculate Age in Months
 
  You can use the `DATEDIF` function to find someone's age in months, too.
@@ -69,6 +72,9 @@ Related: [How to Get Microsoft Excel to Calculate Uncertainty](https://extra-res
 
 ![Enter =DATEDIF(B2,TODAY(),"M") in the C2 cell and press Enter in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/7-enter-month-formula.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
  Press Enter and you'll see the age in months in the C2 cell.
 
 ![Age in months in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/8-age-months-answer.png) 
@@ -95,6 +101,9 @@ Related: [How to Get Microsoft Excel to Calculate Uncertainty](https://extra-res
 
 ![Age in days in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/12-age-days-answer.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  You can use Excel to [add and subtract dates](https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-vivo-s17-pro-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/), too.
 
 ##  How to Calculate Age in Years, Months, and Days at the Same Time
@@ -105,6 +114,9 @@ Related: [How to Get Microsoft Excel to Calculate Uncertainty](https://extra-res
 
 ![A sample spreadsheet to find age in years, months, and days in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/13-age-combination-spreadsheet.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  In this spreadsheet, we'll click the C2 cell, type the following function, and press Enter:
 
 =DATEDIF(B2,TODAY(),"Y") & " Years " & DATEDIF(B2,TODAY(),"YM") & " Months " & DATEDIF(B2,TODAY(),"MD") & " Days"
@@ -115,6 +127,12 @@ Related: [How to Get Microsoft Excel to Calculate Uncertainty](https://extra-res
 
 ![Age in years, months, and days in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/15-age-combination-answer.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  How to Calculate Age on a Specific Date
 
  With Excel's `DATEDIF` function, you can go as far as to finding someone's age on a specific date.
@@ -123,10 +141,16 @@ Related: [How to Get Microsoft Excel to Calculate Uncertainty](https://extra-res
 
 ![A specific date in the C2 cell in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/16-specific-date.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  We'll click the D2 cell where we want to show the age on the specified date.
 
 ![Click the D2 cell in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/17-d2-cell.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
  In the D2 cell, we'll type the following function. In this function, "C2" refers to the cell where we've entered the specific date, on which the answer will be based:
 
 =DATEDIF(B2,C2,"Y")
@@ -137,6 +161,9 @@ Related: [How to Get Microsoft Excel to Calculate Uncertainty](https://extra-res
 
 ![Age on a specific date in the D2 cell in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/19-specific-formula-answer.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
  And that's how you find someone or something's oldness in Microsoft Excel!
 
 ---
@@ -163,3 +190,41 @@ Related: [How to Get Microsoft Excel to Calculate Uncertainty](https://extra-res
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-guide-incorporating-youtube-videos-in-google-slides/"><u>[New] 2024 Approved  Guide  Incorporating YouTube Videos in Google Slides</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-the-screen-recording-faceoff-bandicam-versus-camtasiaenas/"><u>[New] The Screen Recording Faceoff  Bandicam Versus Camtasia'enas</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-best-mac-video-editing-tools-reviewed-bandicam-vs-camtasia/"><u>[Updated] 2024 Approved  Best Mac Video Editing Tools Reviewed  Bandicam Vs Camtasia</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-pro-android-pixel-perfect-techniques/"><u>[Updated] 2024 Approved  Pro Android Pixel Perfect Techniques</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-the-ultimate-guide-to-evaluating-and-enhancing-your-instream-ads-on-facebook/"><u>[Updated] 2024 Approved  The Ultimate Guide to Evaluating & Enhancing Your Instream Ads on Facebook</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-seamless-audio-visual-synchronization-in-premiere-pro/"><u>2024 Approved  Seamless Audio-Visual Synchronization in Premiere Pro</u></a></li>
+<li><a href="https://win-forum.techidaily.com/complete-guide-erasing-your-windows-11-user-account/"><u>Complete Guide: Erasing Your Windows 11 User Account</u></a></li>
+<li><a href="https://win-forum.techidaily.com/decoding-the-windows-registry-functionality-and-maintenance-tips-from-revouninstaller/"><u>Decoding the Windows Registry Functionality and Maintenance Tips From RevoUninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/efficient-drive-cleanup-tips-for-windows-11-the-role-of-revo-uninstaller/"><u>Efficient Drive Cleanup Tips for Windows 11: The Role of Revo Uninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/efficiently-manage-your-pc-how-to-erase-windows-1/"><u>Efficiently Manage Your PC: How to Erase Windows 1</u></a></li>
+<li><a href="https://win-forum.techidaily.com/1722915345020-explore-the-giants-of-online-engagement-facebook-twitter-instagram-and-youtube/"><u>Explore the Giants of Online Engagement: Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://article-helps.techidaily.com/exploring-popularity-stock-images-meme-journey-for-2024/"><u>Exploring Popularity  Stock Images' Meme Journey for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/from-sampling-to-subscribing-mastering-the-art-of-effective-trial-to-paying-user-transitions/"><u>From Sampling to Subscribing: Mastering the Art of Effective Trial-to-Paying User Transitions</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-fresh-start-windows-11-installation-with-the-factory-default-settings/"><u>How To Fresh Start Windows 11 Installation With The Factory Default Settings</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-safely-force-close-hanging-apps-on-your-windows-11-machine-a-step-by-step-tutorial/"><u>How to Safely Force Close Hanging Apps on Your Windows 11 Machine - A Step by Step Tutorial</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-motorola-moto-g84-5g-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Motorola Moto G84 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Meizu 21 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-a-stutter-free-experience-in-halo-infinite-with-these-fixes/"><u>Mastering a Stutter-Free Experience in Halo Infinite with These Fixes</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-the-digital-age-with-major-platforms-insights-into-facebook-twitter-instagram-and-youtube/"><u>Mastering the Digital Age with Major Platforms: Insights Into Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-the-fresh-start-steps-to-full-factory-reset-on-your-windows-11-pc/"><u>Mastering the Fresh Start: Steps to Full Factory Reset on Your Windows 11 PC</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-your-audience-across-leading-platforms-facebook-twitter-instagram-and-youtube/"><u>Mastering Your Audience Across Leading Platforms - Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-through-and-resolving-class-not-found-hiccups-on-windows/"><u>Navigating Through and Resolving 'Class Not Found' Hiccups on Windows</u></a></li>
+<li><a href="https://win-forum.techidaily.com/revitalize-your-network-the-ultimate-guide-to-flush-dns-in-windows-environments/"><u>Revitalize Your Network: The Ultimate Guide to Flush DNS in Windows Environments</u></a></li>
+<li><a href="https://win-forum.techidaily.com/social-media-essentials-mastering-interaction-on-facebook-twitter-instagram-and-youtube/"><u>Social Media Essentials: Mastering Interaction on Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-big-four-in-online-interaction-connect-and-engage-on-facebook-twitter-instagram-and-youtube/"><u>The Big Four in Online Interaction: Connect and Engage on Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-ultimate-walkthrough-how-to-refresh-device-drivers-on-windows-10-with-the-help-of-revouninstaller/"><u>The Ultimate Walkthrough: How to Refresh Device Drivers on Windows 10 with the Help of RevoUninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-social-networks-for-sharing-content-facebook-twitter-instagram-and-youtube/"><u>Top Social Networks for Sharing Content: Facebook, Twitter, Instagram and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/troubleshooting-errors-why-this-application-wont-start-on-windows/"><u>Troubleshooting Errors: Why This Application Won't Start on Windows</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/ultimate-collection-top-6-fb-lite-vids-for-2024/"><u>Ultimate Collection  #Top 6 FB Lite Vids for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/understanding-social-media-titans-a-deep-dive-into-facebook-twitter-instagram-and-youtube/"><u>Understanding Social Media Titans: A Deep Dive Into Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/understanding-the-digital-era-a-guide-to-facebook-twitter-instagram-and-youtube/"><u>Understanding the Digital Era: A Guide to Facebook, Twitter, Instagram, and Youtube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/understanding-the-windows-registry-and-its-role-with-revo-uninstaller/"><u>Understanding the Windows Registry & Its Role with Revo Uninstaller</u></a></li>
+<li><a href="https://techidaily.com/what-to-do-if-iphone-15-pro-is-not-listed-when-i-run-the-software-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>What to do if iPhone 15 Pro is not listed when I run the software? | Stellar</u></a></li>
+<li><a href="https://win-forum.techidaily.com/why-doesnt-my-file-explorer-work-discover-the-best-troubleshooting-techniques/"><u>Why Doesn't My File Explorer Work? Discover the Best Troubleshooting Techniques</u></a></li>
+</ul></div>

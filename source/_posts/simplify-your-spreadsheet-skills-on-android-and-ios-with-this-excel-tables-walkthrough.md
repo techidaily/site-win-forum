@@ -1,7 +1,7 @@
 ---
 title: Simplify Your Spreadsheet Skills on Android & iOS with This Excel Tables Walkthrough
-date: 2024-08-26 21:53:24
-updated: 2024-08-29 11:27:35
+date: 2024-08-28T04:29:51.735Z
+updated: 2024-08-29T04:29:51.736Z
 tags:
   - excel
 categories:
@@ -42,18 +42,35 @@ Related: [How to Insert a Total Row in a Table in Microsoft Excel](https://howto
 
 ![Table column to a card](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/ColumnToCard-ExcelMobileTableCardsView.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Edit Table Data
 
  To edit the existing data in the table, select the card containing the data you want to change. Tap the data, make your change, and select "Done" on the keyboard.
 
 ![Edit card data](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/EditCardData-ExcelMobileTableCardsView.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
  You'll notice when you select a specific card, the Previous and Next buttons appear at the bottom. This allows you to move through each card and make additional changes easily.
 
 ![Previous and Next buttons on a card](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/PreviousNext-ExcelMobileTableCardsView.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
  Tap the arrow on the top left to return to the main Cards View screen.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ##  Add a Card
 
  You can add a card, which is [another row](https://fox-glue.techidaily.com/2024-approved-the-ultimate-guide-to-top-online-tools-for-perfecting-your-video-subtitles/), to your table easily. To simply add a row to the end of your table and list in Cards View, tap the plus sign at the bottom.
@@ -66,6 +83,9 @@ Related: [How to Insert a Total Row in a Table in Microsoft Excel](https://howto
 
 ![Insert a card, row, above or below](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/InsertCardAboveBelow-ExcelMobileTableCardsView.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 ##  Delete a Card
 
  To remove a card, tap the three dots on the top right in Cards View or the card's detail screen, pick "Delete," and confirm by tapping "Yes."
@@ -90,6 +110,9 @@ Related: [How to Insert a Total Row in a Table in Microsoft Excel](https://howto
 
 ![Share a card](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/ShareCard-ExcelMobileTableCardsView.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Edit the Table Structure 
 
  In addition to editing your existing data or adding more as described above, you can change the current table fields (columns) and formatting.
@@ -100,6 +123,9 @@ Related: [How to Use the Accounting Number Format in Microsoft Excel](https://an
 
 ![Table Settings icon to access the data fields](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/TableFields-ExcelMobileTableCardsView.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Tap a Field Label to change the text or the Format icon to change the format.
 
 ![Edit a field or its format](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/EditFormatField-ExcelMobileTableCardsView.png) 
@@ -112,6 +138,9 @@ Related: [How to Use the Accounting Number Format in Microsoft Excel](https://an
 
 ![Delete a field, column](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/DeleteField-ExcelMobileTableCardsView.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
  Keep in mind that removing a field deletes that column in your table.
 
  While [working in Microsoft Excel](https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-vivo-s17e-drfone-by-drfone-virtual-android/) can be easier on your computer, there may be a time when you have to use the mobile app. In these situations, keep Cards View for tables in mind.
@@ -132,3 +161,75 @@ Related: [How to Use the Accounting Number Format in Microsoft Excel](https://an
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-selecting-the-top-5-youtube-grabber-software/"><u>[New] 2024 Approved  Selecting the Top 5 YouTube Grabber Software</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-superior-fb-video-tools-save-as-top-quality-mp4s/"><u>[New] 2024 Approved  Superior FB Video Tools – Save as Top Quality MP4s</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-monetization-matrix-how-maker-gains-from-shorter-videos/"><u>[New] The Monetization Matrix  How Maker Gains From Shorter Videos</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-chasing-likes-and-loads-jake-pauls-youtube-ambition/"><u>[Updated] 2024 Approved  Chasing Likes and Loads  Jake Paul's YouTube Ambition</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-discover-how-to-design-dynamic-youtube-music-playlists/"><u>[Updated] 2024 Approved  Discover How to Design Dynamic YouTube Music Playlists</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-virtually-vivacious-top-humorous-memes-for-the-metaverse-enthusiasts/"><u>[Updated] 2024 Approved  Virtually Vivacious  Top Humorous Memes for the Metaverse Enthusiasts</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-enhancing-image-aesthetics-with-effective-instagram-borders/"><u>[Updated] In 2024, Enhancing Image Aesthetics with Effective Instagram Borders</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-rewind-revolution-iphones-time-turning-ability/"><u>[Updated] In 2024, Rewind Revolution  IPhone's Time-Turning Ability</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-storyremix-for-windows-11-enhancing-videos-with-photos/"><u>[Updated] Mastering StoryRemix for Windows 11  Enhancing Videos with Photos</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-step-by-step-borders-enhancing-images-with-style-on-social-platforms-for-2024/"><u>[Updated] Step By Step Borders  Enhancing Images with Style on Social Platforms for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-speed-up-srt-to-text-conversion-with-this-essential-guide/"><u>2024 Approved  Speed Up SRT to Text Conversion with This Essential Guide</u></a></li>
+<li><a href="https://win-forum.techidaily.com/a-guide-to-leading-social-media-giants-facebook-twitter-instagram-and-youtube/"><u>A Guide to Leading Social Media Giants: Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-oneplus-ace-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On OnePlus Ace 2 | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/comprehensive-tutorial-on-entering-the-bios-configuration-of-a-windows-11-device/"><u>Comprehensive Tutorial on Entering the BIOS Configuration of a Windows 11 Device</u></a></li>
+<li><a href="https://win-forum.techidaily.com/connect-with-millions-a-guide-to-facebook-twitter-instagram-and-youtube/"><u>Connect with Millions: A Guide to Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/conversion-rate-optimization-improving-failed-conversions/"><u>Conversion Rate Optimization: Improving Failed Conversions</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/craftsmanship-in-photos-and-videos-the-ultimate-8-mobile-enhancement-tools/"><u>Craftsmanship in Photos & Videos  The Ultimate 8 Mobile Enhancement Tools</u></a></li>
+<li><a href="https://extra-information.techidaily.com/critique-of-the-gopro-hero5-camera-sessions/"><u>Critique of the GoPro Hero5 Camera Sessions</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/cutting-costs-with-low-priced-vr-technology-china/"><u>Cutting Costs with Low-Priced VR Technology (China)</u></a></li>
+<li><a href="https://win-forum.techidaily.com/determining-the-powershell-version-on-windows-11-with-ease/"><u>Determining the PowerShell Version on Windows 11 with Ease</u></a></li>
+<li><a href="https://win-forum.techidaily.com/determining-your-current-powershell-version-on-windows-11-a-step-by-step-guide/"><u>Determining Your Current PowerShell Version on Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/efficient-storage-of-androidmac-snaps-for-longevity/"><u>Efficient Storage of Android/Mac Snaps for Longevity</u></a></li>
+<li><a href="https://win-forum.techidaily.com/engage-with-your-audience-on-major-digital-channels-facebook-twitter-instagram-youtube/"><u>Engage With Your Audience on Major Digital Channels: Facebook, Twitter, Instagram, Youtube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/engaging-audiennces-on-leading-social-networks-facey-twittle-insta-and-vidiostreams/"><u>Engaging Audiennces on Leading Social Networks: Facey, Twittle, Insta, and Vidiostreams</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/evaluating-color-accuracy-the-srgb-alternative-to-rgb/"><u>Evaluating Color Accuracy  The Srgb Alternative to Rgb</u></a></li>
+<li><a href="https://win-forum.techidaily.com/expert-troubleshooting-for-recurring-windows-file-explorer-glitches-discover-7-fixes/"><u>Expert Troubleshooting for Recurring Windows File Explorer Glitches - Discover 7 Fixes</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-the-big-four-of-social-networks-facebook-twitter-instagram-and-youtube/"><u>Exploring the Big Four of Social Networks: Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-the-giants-of-social-media-facebook-twitter-instagram-and-youtubes-role-in-our-lives/"><u>Exploring the Giants of Social Media: Facebook, Twitter, Instagram and Youtube’s Role in Our Lives</u></a></li>
+<li><a href="https://win-forum.techidaily.com/fixing-the-dreaded-class-not-found-problem-in-windows-computers-easily/"><u>Fixing the Dreaded 'Class Not Found' Problem in Windows Computers Easily</u></a></li>
+<li><a href="https://win-forum.techidaily.com/guard-your-written-data-a-comprehhemode-on-securing-text-files-with-passwords/"><u>Guard Your Written Data: A Comprehhemode on Securing Text Files with Passwords</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-examining-video-sharing-platforms-the-vimeo-and-youtube-divide/"><u>In 2024, Examining Video Sharing Platforms  The Vimeo & YouTube Divide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-first-steps-to-picture-perfection-demystifying-pixels/"><u>In 2024, First Steps to Picture Perfection  Demystifying Pixels</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-auto-lock-greyed-out-on-iphone-15-pro-drfone-by-drfone-ios/"><u>In 2024, How To Fix Auto Lock Greyed Out on iPhone 15 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-make-a-video-from-photo-with-music/"><u>In 2024, How to Make a Video From Photo with Music</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-tecno-camon-30-pro-5g-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Tecno Camon 30 Pro 5G to Another | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-streamlining-multi-camera-setup-with-obs/"><u>In 2024, Streamlining Multi-Camera Setup with OBS</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlocking-the-secrets-to-superior-gaming-on-android-with-kinemaster/"><u>In 2024, Unlocking the Secrets to Superior Gaming on Android With KineMaster</u></a></li>
+<li><a href="https://win-forum.techidaily.com/keep-your-system-running-smoothly-update-windows-10-driver-software-via-revo-uninstaller/"><u>Keep Your System Running Smoothly: Update Windows 10 Driver Software via Revo Uninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/life-q30-reviewed-soundcores-compact-affordable-anc-speaker/"><u>Life Q30 Reviewed: Soundcore's Compact Affordable ANC Speaker</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/logitechs-4k-webcam-masterclass-a-complete-review/"><u>Logitech’s 4K Webcam Masterclass - A Complete Review</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-zte-blade-a73-5g-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your ZTE Blade A73 5G Device</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-popular-social-channels-insights-on-facebook-twitter-instagram-and-youtube/"><u>Navigating Popular Social Channels: Insights on Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-digital-landscape-facebook-twitter-instagram-and-youtube-guide/"><u>Navigating the Digital Landscape: Facebook, Twitter, Instagram and YouTube Guide</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-landscape-of-popular-networking-sites-facebook-twitter-instagram-and-youtube/"><u>Navigating the Landscape of Popular Networking Sites: Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-through-top-digital-landscapes-a-look-at-facebook-twitter-instagram-and-youtube/"><u>Navigating Through Top Digital Landscapes: A Look at Facebook, Twitter, Instagram & Youtube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/optimizing-your-pc-fixing-excessive-hard-drive-load-in-windows-11/"><u>Optimizing Your PC: Fixing Excessive Hard Drive Load in Windows 11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/overcoming-errors-preventing-windows-11-setup-on-pc-revouninstaller-methods-explained/"><u>Overcoming Errors Preventing Windows 11 Setup on PC - RevoUninstaller Methods Explained</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-samsung-galaxy-s21-fe-5g-2023-by-fonelab-android-recover-data/"><u>Recover lost data from Samsung Galaxy S21 FE 5G (2023)</u></a></li>
+<li><a href="https://win-forum.techidaily.com/social-media-titans-for-content-sharing-faceygram-tweetube-youtagram-and-finsta/"><u>Social Media Titans for Content Sharing: Faceygram, TweeTube, Youtagram & Finsta</u></a></li>
+<li><a href="https://win-forum.techidaily.com/social-media-titans-showdown-facebook-vs-twitter-vs-instagram-vs-youtube-explained/"><u>Social Media Titans Showdown: Facebook Vs. Twitter Vs. Instagram Vs. YouTube Explained</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-clearing-windows-11-memory-dump-files/"><u>Step-by-Step Guide: Clearing Windows 11 Memory Dump Files</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-resolving-line-artifacts-on-your-television-display/"><u>Step-by-Step Guide: Resolving Line Artifacts on Your Television Display</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-setting-up-your-revoapps-manager-and-reactivating-with-ease/"><u>Step-by-Step Guide: Setting Up Your RevoApps Manager & Reactivating with Ease</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-tutorial-for-enabling-wake-on-lan-feature-in-win10win11/"><u>Step-by-Step Tutorial for Enabling Wake-on-LAN Feature in Win10/Win11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/tackling-the-complete-disk-occupancy-dilemma-on-your-computer-running-windows-10/"><u>Tackling the Complete Disk Occupancy Dilemma on Your Computer Running Windows 10</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-comprehensive-technique-for-revamping-driver-software-in-windows-10-systems/"><u>The Comprehensive Technique for Revamping Driver Software in Windows 10 Systems</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-definitive-guide-to-removing-windows-1sic-10-accounts-using-revo-uninstaller/"><u>The Definitive Guide to Removing Windows 1([Sic] 10 Accounts Using Revo Uninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-digital-worlds-leaders-engaging-with-facebook-twitter-instagram-youtube/"><u>The Digital World's Leaders: Engaging with Facebook, Twitter, Instagram, YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-powerhouse-trio-plus-one-mastering-facebook-twitter-instagram-and-youtube-for-greater-reach/"><u>The Powerhouse Trio-Plus One: Mastering Facebook, Twitter, Instagram, and YouTube for Greater Reach</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-tecno-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Tecno</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/they-are-suited-for-large-volumes-of-low-viscosity-fluids-at-lower-pressures/"><u>They Are Suited for Large Volumes of Low-Viscosity Fluids at Lower Pressures</u></a></li>
+<li><a href="https://win-forum.techidaily.com/troubleshooting-guide-freeing-up-space-by-deleting-win-11-memory-dumps/"><u>Troubleshooting Guide: Freeing Up Space by Deleting Win 11 Memory Dumps</u></a></li>
+<li><a href="https://win-forum.techidaily.com/understanding-modern-connectivity-the-impact-of-facebook-twitter-instagram-and-youtube-on-our-lives/"><u>Understanding Modern Connectivity: The Impact of Facebook, Twitter, Instagram and YouTube on Our Lives</u></a></li>
+<li><a href="https://win-forum.techidaily.com/unraveling-the-world-of-social-networks-a-deep-dive-into-facebook-twitter-instagram-and-youtube/"><u>Unraveling the World of Social Networks: A Deep Dive Into Facebook, Twitter, Instagram and YouTubе</u></a></li>
+<li><a href="https://win-forum.techidaily.com/unveiling-the-powerhouses-a-comprehensive-guide-to-facebook-twitter-instagram-and-youtube/"><u>Unveiling the Powerhouses: A Comprehensive Guide to Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-galaxy-s23-fe-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Galaxy S23 FE</u></a></li>
+<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-vivo-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Vivo</u></a></li>
+<li><a href="https://win-forum.techidaily.com/windows-11-installation-guide-overcoming-incompatible-processor-restrictions/"><u>Windows 11 Installation Guide: Overcoming Incompatible Processor Restrictions</u></a></li>
+</ul></div>

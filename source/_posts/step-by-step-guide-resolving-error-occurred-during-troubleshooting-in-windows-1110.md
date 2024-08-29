@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Resolving 'Error Occurred During Troubleshooting' In Windows 11/10"
-date: 2024-08-28 19:49:21
-updated: 2024-08-29 12:41:27
+date: 2024-08-28T04:27:39.450Z
+updated: 2024-08-29T04:27:39.450Z
 tags:
   - windows
 categories:
@@ -49,12 +49,26 @@ services.msc
 
 !['Restart' highlighted for the 'Background Intelligent Transfer Service' service.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-restart-bits-service.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Similarly, right-click the "Cryptographic Services" service and select "Restart."
 
 !['Restart' highlighted for the 'Cryptographic Services' service.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-restart-cryptographic-services-service.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
  Close the Services window.
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Fix Broken Troubleshooters
 
  It’s possible Windows’ system files are corrupted, causing the troubleshooters to malfunction. In this case, you must [repair the damaged core files](https://some-guidance.techidaily.com/twirl-forge-instruments-for-2024/) using the built-in System File Checker (SFC) tool.
@@ -63,6 +77,9 @@ services.msc
 
 !['Run as Administrator' highlighted for Command Prompt in Windows Search.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-open-cmd-as-admin.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
  In the User Account Control"(UAC) prompt, select "Yes."
 
  In Command Prompt, type the following command and press Enter. This command will download the files required to fix the broken system files.
@@ -85,6 +102,9 @@ sfc /scannow
 
 !['Restart Now' highlighted for 'Advanced Startup' in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/7-advanced-restart-windows-11.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  To [boot your Windows 10 PC in safe mode](https://screen-recording.techidaily.com/updated-leveraging-obs-establishing-an-efficient-countdown-clock/), head into Settings > Update & Security > Recovery. In the "Advanced Startup" section, click "Get Started."
 
 !['Get Started' highlighted for 'Advanced Startup' in Windows 10 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/8-advanced-restart-windows-10.jpg) 
@@ -93,6 +113,9 @@ sfc /scannow
 
  If the tool works, a third-party app is likely the culprit. Review the list of your installed apps and remove any suspicious ones. It’s quick and easy to [uninstall apps on Windows 11](https://youtube-docs.techidaily.com/ed-in-2024-strategies-for-using-youtube-to-boost-classroom-engagement/) and [Windows 10](https://tech-recovery.techidaily.com/top-savings-on-apple-watches-in-april/).
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ##  Reset Windows
 
  If nothing else works, you can reset your Windows 11 or Windows 10 PC to the factory defaults. Resetting the system will fix any issues related to settings or corrupted files, but it should only be used as an last resort.
@@ -125,3 +148,47 @@ sfc /scannow
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-maximizing-visibility-in-a-newly-updated-social-platform-for-2024/"><u>[Updated] Maximizing Visibility in a Newly Updated Social Platform for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-unveiling-the-mysteries-of-ig-metrics-an-essential-toolkit-for-marketers/"><u>2024 Approved  Unveiling the Mysteries of IG Metrics  An Essential Toolkit for Marketers</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/animated-photos-made-easy-top-picks-for-2024/"><u>Animated Photos Made Easy Top Picks for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/complete-guide-removing-user-accounts-on-windows-11-with-revo-uninstaller/"><u>Complete Guide: Removing User Accounts on Windows 11 with Revo Uninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/complete-tutorial-how-to-erase-user-profiles-using-revo-uninstaller-on-windows-11/"><u>Complete Tutorial: How to Erase User Profiles Using Revo Uninstaller on Windows 11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/digital-engagement-essentials-mastering-the-art-on-facebook-twitter-instagram-and-youtube/"><u>Digital Engagement Essentials: Mastering the Art on Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/digital-interaction-hubs-unpacking-the-phenomenon-of-facebook-twitter-instagram-and-youtube/"><u>Digital Interaction Hubs - Unpacking the Phenomenon of Facebook, Twitter, Instagram and YouTube.</u></a></li>
+<li><a href="https://solve-info.techidaily.com/elevate-your-online-marketing-experience-the-magic-of-cookiebot-automation/"><u>Elevate Your Online Marketing: Experience the Magic of Cookiebot Automation</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/elite-group-16-youtube-entries-boosting-views-for-2024/"><u>Elite Group  16 YouTube Entries Boosting Views for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/expert-advice-how-to-use-revo-uninstaller-for-total-erasure-of-folders-in-windows-11/"><u>Expert Advice: How to Use Revo Uninstaller for Total Erasure of Folders in Windows 11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-digital-connections-through-leading-platforms-facebook-twitter-instagram-and-youtube/"><u>Exploring Digital Connections Through Leading Platforms: Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/fbx-guide-to-flawless-gameplay-archives-for-2024/"><u>FBX Guide to Flawless Gameplay Archives for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/fixing-unforeseen-issues-tackling-the-unexpected-planning-failure-in-windows-11/"><u>Fixing Unforeseen Issues: Tackling the Unexpected Planning Failure in Windows 11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/guide-to-finding-and-checking-your-powershell-version-on-windows-11/"><u>Guide to Finding and Checking Your PowerShell Version on Windows 11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-does-openais-shap-enhance-model-insight/"><u>How Does OpenAI's SHAP Enhance Model Insight?</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-delete-user-profile-in-windows-11-revouninstaller/"><u>How to Delete User Profile in Windows 11 - RevoUninstaller</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-poco-x6-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Poco X6 | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-perform-a-clean-installation-on-windows-11-essential-steps-and-tips/"><u>How to Perform a Clean Installation on Windows 11 - Essential Steps and Tips</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-perform-factory-reset-windows-10-revo-uninstaller-pro-4/"><u>How to Perform Factory Reset Windows 10 - Revo Uninstaller Pro 4</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-reclaim-disk-capacity-in-windows-11-the-ultimate-troubleshooting-and-cleanup-tutorial/"><u>How to Reclaim Disk Capacity in Windows 11: The Ultimate Troubleshooting and Cleanup Tutorial</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-from-novice-to-pro-mastering-mac-preview-features/"><u>In 2024, From Novice to Pro  Mastering Mac Preview Features</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-x-stream-recorder-pc-edition/"><u>In 2024, X-Stream Recorder PC Edition</u></a></li>
+<li><a href="https://win-forum.techidaily.com/master-the-art-of-fixing-recurring-windows-explorer-breakdowns-top-7-methods-revealed/"><u>Master the Art of Fixing Recurring Windows Explorer Breakdowns - Top 7 Methods Revealed</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-remote-power-on-a-comprehensive-tutorial-for-windows-10-and-11-users/"><u>Mastering Remote Power On: A Comprehensive Tutorial for Windows 10 and 11 Users</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-digital-sphere-an-insight-into-facebook-twitter-instagram-and-youtube-usage/"><u>Navigating the Digital Sphere: An Insight Into Facebook, Twitter, Instagram & YouTube Usage</u></a></li>
+<li><a href="https://win-forum.techidaily.com/quickstart-guide-accelerating-your-windows-11-booting-process/"><u>QuickStart Guide: Accelerating Your Windows 11 Booting Process</u></a></li>
+<li><a href="https://win-forum.techidaily.com/seamless-elevation-tactics-for-enhanced-app-functionality-in-windows-nix/"><u>Seamless Elevation Tactics for Enhanced App Functionality in Windows Nix</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-definitive-technique-to-grant-administrator-rights-automatically-to-all-your-apps-on-windows-11/"><u>The Definitive Technique to Grant Administrator Rights Automatically to All Your Apps on Windows 11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-powerhouses-of-social-media-a-closer-look-at-facebook-twitter-instagram-and-youtube/"><u>The Powerhouses of Social Media: A Closer Look at Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-quintessential-quad-of-digital-sphere-exploring-facebook-twitter-instagram-and-youtube/"><u>The Quintessential Quad of Digital Sphere: Exploring Facebook, Twitter, Instagram & Youtube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-quintessential-social-media-platforms-for-engagement-facebook-twitter-instagram-and-youtube/"><u>The Quintessential Social Media Platforms for Engagement: Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-top-four-navigating-the-giants-of-social-networking-facebook-twitter-instagram-and-youtube/"><u>The Top Four: Navigating the Giants of Social Networking - Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/the-ultimate-tutorial-iphoneipad-time-lapse-recording/"><u>The Ultimate Tutorial  IPhone/iPad Time Lapse Recording</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-4-social-networking-titans-mastering-facebook-twitter-instagram-and-youtube-engagement/"><u>Top 4 Social Networking Titans: Mastering Facebook, Twitter, Instagram, and YouTube Engagement</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-digital-networking-sites-facebook-tweetdeck-gramfeed-and-videohub-youtube/"><u>Top Digital Networking Sites: FaceBook, TweetDeck, GramFeed, and VideoHub (YouTube)</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-giants-of-online-networking-facebook-twitter-instagram-youtube/"><u>Top Giants of Online Networking - Facebook | Twitter | Instagram | YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-social-networks-unveiled-exploring-facebook-twitter-instagram-and-youtube/"><u>Top Social Networks Unveiled: Exploring Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/troubleshooting-unforeseen-issues-the-windows-11-guide-to-unexpected-mishaps/"><u>Troubleshooting Unforeseen Issues: The Windows 11 Guide to Unexpected Mishaps</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-timeline-tools-at-no-cost-for-2024/"><u>Ultimate Timeline Tools at No Cost for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/windows-11-users-learn-how-to-delete-system-memory-dumps-easily/"><u>Windows 11 Users! Learn How to Delete System Memory Dumps Easily</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "Collaborative Excellence: Monitoring Update Progression in Shared Excel Web Sheets"
-date: 2024-08-26 23:59:50
-updated: 2024-08-29 10:30:30
+date: 2024-08-28T04:28:53.924Z
+updated: 2024-08-29T04:28:53.924Z
 tags:
   - excel
 categories:
@@ -31,6 +31,9 @@ thumbnail: https://thmb.techidaily.com/c7c73b7c4a7efc6c835802b5aee6775aac1b5aafc
 
 ![Click the arrow to minimize Changes](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/05/MinimizeChanges-ExcelWeb.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ##  Review Changes Made in Excel
 
  When you first open the Show Changes panel, you'll see all the changes that have been made to the workbook. Each edit lists the user's name, the time and/or date, and the change.
@@ -53,22 +56,38 @@ thumbnail: https://thmb.techidaily.com/c7c73b7c4a7efc6c835802b5aee6775aac1b5aafc
 
 ![Click the Filter drop-down](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/05/FilterChanges-ExcelWeb.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  To filter by spreadsheet name, move your cursor to "Sheet" and pick one from the pop-out menu.
 
 ![Select a Sheet to filter](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/05/FilterSheetChanges-ExcelWeb.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  To filter by cell range, first, make sure that you're on the tab for the sheet containing that range. Then, click the filter drop-down list and select "Range."
 
 ![Select Range for the filter](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/05/FilterRangeChanges-ExcelWeb.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
  Enter the cell range into the text box that appears and click Commit (green arrow button) on the right.
 
 ![Enter the cell range and click Commit](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/05/FilterRangeCommit-ExcelWeb.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  You'll then see results for the cell range filter.
 
 ![Cell range filter results](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/05/FilterRangeResults-ExcelWeb.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
  When you finish with a filter, you can clear it to see all the changes in the workbook or apply a new filter. Click the Filter drop-down list and pick "Clear Filter."
 
 ![Click the Filter drop-down](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/05/FilterChanges-ExcelWeb.png) 
@@ -91,3 +110,59 @@ Related: [What's the Difference Between Microsoft Office's Desktop, Web, and Mob
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-keep-your-shorts-viewer-friendly-fixing-image-absence/"><u>[New] 2024 Approved  Keep Your Shorts Viewer-Friendly  Fixing Image Absence</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-beginners-handbook-to-vimeo-footage-capture/"><u>[New] In 2024, Beginner's Handbook to Vimeo Footage Capture</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-the-photographers-guide-to-online-image-editing-and-cropping/"><u>[New] In 2024, The Photographer's Guide to Online Image Editing and Cropping</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-snapchat-voice-overhaul-two-efficient-ways-revealed/"><u>[New] Snapchat Voice Overhaul  Two Efficient Ways Revealed</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-a-straightforward-approach-screen-record-on-macbook-air-for-2024/"><u>[Updated] A Straightforward Approach  Screen Record on Macbook Air for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-cyberlinks-screen-recorder-an-expert-evaluation-for-2024/"><u>[Updated] Cyberlink's Screen Recorder  An Expert Evaluation for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-expert-picks-ideal-software-for-screenshots-and-recordings/"><u>[Updated] In 2024, Expert Picks  Ideal Software for Screenshots & Recordings</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-top-20-inspiring-ideas-for-instagram-photos/"><u>[Updated] In 2024, Top 20 Inspiring Ideas for Instagram Photos</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-boundless-realms-discovering-new-worlds-in-top-10-sci-fi-epics/"><u>2024 Approved  Boundless Realms  Discovering New Worlds in Top 10 Sci-Fi Epics</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-xiaomi-redmi-a2-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Xiaomi Redmi A2 Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/advanced-file-deletion-techniques-with-command-prompt-for-windows-10-users/"><u>Advanced File Deletion Techniques with Command Prompt for Windows 10 Users</u></a></li>
+<li><a href="https://win-forum.techidaily.com/android-11-features-one-time-permission-revouninstaller/"><u>Android 11 Features: One-Time Permission - RevoUninstaller</u></a></li>
+<li><a href="https://extra-information.techidaily.com/anonymizing-faces-a-compendium-of-photographic-shielders-for-2024/"><u>Anonymizing Faces  A Compendium of Photographic Shielders for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/complete-guide-forcibly-deleting-files-and-folders-in-windows-11-using-revo-uninstaller/"><u>Complete Guide: Forcibly Deleting Files and Folders in Windows 11 Using Revo Uninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/connect-and-engage-on-the-webs-most-popular-sites-a-look-at-facebook-twitter-instagram-and-youtube/"><u>Connect and Engage on the Web's Most Popular Sites: A Look at Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/connecting-the-dots-in-digital-networking-through-facebook-twitter-instagram-and-youtube/"><u>Connecting the Dots in Digital Networking Through Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/connecting-the-world-online-through-major-platforms-facebook-twitter-instagram-and-youtube/"><u>Connecting the World Online Through Major Platforms - Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/determining-your-current-windows-11-powershell-version-a-comprehensive-guide/"><u>Determining Your Current Windows 11 PowerShell Version: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-dash.techidaily.com/effortless-driver-downloads-and-installation-for-hewlett-packard-devices/"><u>Effortless Driver Downloads and Installation for Hewlett-Packard Devices</u></a></li>
+<li><a href="https://win-forum.techidaily.com/expert-advice-eliminating-unwanted-memory-dump-files-on-your-pc/"><u>Expert Advice: Eliminating Unwanted Memory Dump Files on Your PC</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/exploring-the-impact-of-marvels-spider-man-miles-morales-intimate-adventures-widespread-effect/"><u>Exploring the Impact of Marvel’s Spider-Man: Miles Morales – Intimate Adventures, Widespread Effect</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-top-platforms-navigating-through-facebook-twitter-instagram-and-youtube/"><u>Exploring Top Platforms: Navigating Through Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-engineer-your-fofacebook-experience/"><u>In 2024, Engineer Your FOFacebook Experience</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Fixing Foneazy MockGo Not Working On Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-oneplus-ace-2-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from OnePlus Ace 2 to iPad | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-on-iphone-8-by-drfone-ios/"><u>In 2024, Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives On iPhone 8</u></a></li>
+<li><a href="https://extra-information.techidaily.com/iphones-quintet-of-premier-podcast-tools/"><u>IPhone's Quintet of Premier Podcast Tools</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/limitless-text-in-format-best-free-psd-for-2024/"><u>Limitless Text in Format  Best FREE PSD for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-oppo-f23-5g-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Oppo F23 5G? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/master-the-art-of-social-media-with-four-titans-facebook-twitter-instagram-and-youtube/"><u>Master the Art of Social Media with Four Titans: Facebook, Twitter, Instagram & Youtube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-social-media-engagement-across-major-platforms-facebook-twitter-instagram-and-youtube/"><u>Mastering Social Media Engagement Across Major Platforms: Facebook, Twitter, Instagram and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-the-art-of-driver-updates-for-windows-10-devices-with-revouninstaller/"><u>Mastering the Art of Driver Updates for Windows 10 Devices with RevoUninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-the-social-sphere-with-facebook-twitter-instagram-and-youtube/"><u>Mastering the Social Sphere with Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/meet-your-new-record-keeping-companion-the-mycam-cam/"><u>Meet Your New Record-Keeping Companion  The MyCam Cam</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-social-media-giants-facebook-twitter-instagram-and-youtube/"><u>Navigating the Social Media Giants: Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/overcoming-the-issue-of-apps-not-launching-on-your-computer-expert-tips-and-solutions/"><u>Overcoming the Issue of Apps Not Launching on Your Computer: Expert Tips & Solutions</u></a></li>
+<li><a href="https://win-forum.techidaily.com/remove-unwanted-online-trackers-a-complete-walkthrough-for-windows-11android-users/"><u>Remove Unwanted Online Trackers: A Complete Walkthrough for Windows 11/Android Users</u></a></li>
+<li><a href="https://win-forum.techidaily.com/say-goodbye-to-clutter-with-revo-uninstaller-pros-version-5-enhanced-features/"><u>Say Goodbye to Clutter with Revo Uninstaller Pro's Version 5 Enhanced Features</u></a></li>
+<li><a href="https://win-forum.techidaily.com/social-giants-of-the-internet-era-exploring-facebook-twitter-instagram-and-youtube/"><u>Social Giants of the Internet Era - Exploring Facebook, Twitter, Instagram, and Youtube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/social-media-titans-harnessing-the-power-of-facebook-twitter-instagram-and-youtube-for-your-brand/"><u>Social Media Titans: Harnessing the Power of Facebook, Twitter, Instagram & YouTube for Your Brand</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-removing-hidden-applications-from-your-pc-without-using-control-panel/"><u>Step-by-Step Guide: Removing Hidden Applications From Your PC Without Using Control Panel</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-process-to-immediately-end-frozen-windows-programs-using-revouninstaller/"><u>Step-by-Step Process to Immediately End Frozen Windows Programs Using RevoUninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/tackling-complete-disk-use-in-windows-11-expert-solutions-and-tips/"><u>Tackling Complete Disk Use in Windows 11: Expert Solutions and Tips</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-power-of-online-influence-understanding-facebook-twitter-instagram-and-youtube/"><u>The Power of Online Influence: Understanding Facebook, Twitter, Instagram and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-powerhouse-quartet-of-online-interaction-facebook-twitter-insta-grams-and-youtubes-explained/"><u>The Powerhouse Quartet of Online Interaction: Facebook, Twitter, Insta-Grams & Youtubes Explained</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-quintessential-social-hubs-unveiling-facebook-twitter-instagram-and-youtubes-powerful-influence/"><u>The Quintessential Social Hubs: Unveiling Facebook, Twitter, Instagram & Youtube's Powerful Influence</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-ultimate-guide-to-bypassing-icloud-activation-lock-on-iphone-6-by-drfone-ios/"><u>The Ultimate Guide to Bypassing iCloud Activation Lock on iPhone 6</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-ultimate-walkthrough-on-how-to-rollback-a-windows-11-patch/"><u>The Ultimate Walkthrough on How to Rollback a Windows 11 Patch</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-oppo-find-x7-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Oppo Find X7 Phone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-social-platforms-compared-facebook-vs-twitter-vs-instagram-vs-youtube/"><u>Top Social Platforms Compared: Facebook Vs. Twitter Vs. Instagram Vs. YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/ultimate-protection-safeguarding-your-text-files-with-password-encryption-techniques/"><u>Ultimate Protection: Safeguarding Your Text Files with Password Encryption Techniques</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/understanding-a-symbol-the-purpose-of-facebooks-blue-emoji/"><u>Understanding a Symbol  The Purpose of Facebook's Blue Emoji</u></a></li>
+</ul></div>

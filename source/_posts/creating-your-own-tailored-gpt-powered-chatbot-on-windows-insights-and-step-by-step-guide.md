@@ -1,7 +1,7 @@
 ---
 title: "Creating Your Own Tailored GPT-Powered Chatbot on Windows: Insights & Step-by-Step Guide"
-date: 2024-08-28 16:57:38
-updated: 2024-08-29 12:30:34
+date: 2024-08-28T04:27:24.449Z
+updated: 2024-08-29T04:27:24.449Z
 tags:
   - windows
 categories:
@@ -37,12 +37,19 @@ thumbnail: https://thmb.techidaily.com/721844d81a2674aaafe28cc93fa85dbee744a7d0e
 
  You can find models for just about anything, from fictional character interactions, to programming, to general knowledge, and many other use cases that more general online models may not cover.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  How to Host Your Own Local GPT Chatbot on Windows
 
  This tutorial will use [text-generation-web-ui-docker](https://github.com/Atinoda/text-generation-webui-docker "https://github.com/oobabooga/text-generation-webui"), an open-source interface for large language models, that simplifies installing and using LLMs.
 
  text-generation-web-ui-docker bundles the text-generation-web-ui project using [Docker](https://vp-tips.techidaily.com/new-ultimate-auditory-interface-win-for-2024/), which removes the need for installing and managing all the complex dependencies that local AI tools usually require by storing everything in a container separate to your system. The only thing you need to run your local chatbot is a Windows PC that [supports Docker running using the Windows Subsystem for Linux (WSL)](https://docs.docker.com/desktop/install/windows-install/ "https://docs.docker.com/desktop/install/windows-install/"). You'll also need a fairly recent GPU, ideally one from NVIDIA, for maximum compatibility.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ##  Step 1: Install Docker and the Windows Terminal App
 
  Docker containers are similar to [virtual machines](https://remote-screen-capture.techidaily.com/2024-approved-essential-guide-video-recording-with-vlc/) in that they contain a whole running system, but they are much more lightweight, and perfect for distributing applications and all of their requirements in a single, easy-to-install bundle. To run text-generation-web-ui-docker in Docker, [download and install Docker on your Windows system](https://www.docker.com/products/docker-desktop/ "https://www.docker.com/products/docker-desktop/").
@@ -51,6 +58,9 @@ thumbnail: https://thmb.techidaily.com/721844d81a2674aaafe28cc93fa85dbee744a7d0e
 
  It's also recommended to [install the Windows Terminal app](https://youtube-tips.techidaily.com/ed-mastering-youtube-streaming-a-guide-for-gamers-for-2024/), as it provides a convenient interface for WSL, PowerShell, and the Windows command line.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Step 2: Download the Text Generation Web UI GitHub Repository
 
  To download text-generation-web-ui-docker, [visit its GitHub page](https://github.com/Atinoda/text-generation-webui-docker "https://github.com/oobabooga/text-generation-webui"). You can download a ".zip" file containing all the files you need by clicking on the green "Code" button and then clicking on "Download Zip" from the drop-down menu.
@@ -59,10 +69,16 @@ thumbnail: https://thmb.techidaily.com/721844d81a2674aaafe28cc93fa85dbee744a7d0e
 
 ![Where to download the .zip file for a GitHub repository.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/download-zip-2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Brad Morton / How-To Geek
 
 [Extract the downloaded ZIP file](https://video-screen-grab.techidaily.com/updated-in-2024-essential-screen-capture-software-top-picks-ranked/) into its own folder, and then open the folder containing the unzipped files. Don't worry too much about the contents of this folder: it's all the moving parts for your AI chatbot, but Docker will take care of setting everything up for you.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Step 3: Launch the Text Generation Web UI
 
  Before you launch text-generation-web-ui-docker, you need to make sure it's configured for your PC hardware. Edit the file **docker-compose.yml** to specify the variant that matches your hardware: **default-nvidia** or **default-cpu** (if you don't have a compatible GPU).
@@ -75,6 +91,11 @@ Brad Morton / How-To Geek
 
 ![The location of the 'Open in Terminal' in the context menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/open-in-terminal.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 Brad Morton / How-To Geek
 
  Make sure Docker Desktop is running before typing in the following Docker command into the Terminal window:
@@ -89,6 +110,9 @@ docker compose up -d
 
 ![The command for bringing up a Docker container.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/up.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 Brad Morton / How-To Geek
 
  If you haven't run this command before and the application needs to be downloaded (pulled), you might need to go and make a cup of tea, as it could take a while. Once the command has completed running successfully, you'll see that the text-generation-web-ui-docker Docker container has been created and started.
@@ -101,6 +125,9 @@ Brad Morton / How-To Geek
 
 ![Docker Desktop showing a running container.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/docker.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 Brad Morton / How-To Geek
 
 ##  Step 4: Install the GPT-2 Model From OpenAI
@@ -151,3 +178,58 @@ _Hoo boy, while it got the right answer, this AI chatbot needs a bit of fine-tun
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-elite-arsenal-choosing-the-top-7-fps/"><u>[New] Elite Arsenal  Choosing the Top 7 FPS</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-firstrow-leisure-without-the-sports-commitment/"><u>[New] FirstRow Leisure Without the Sports Commitment</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-setting-up-your-mac-for-flawless-minecraft-sessions-for-2024/"><u>[New] Setting Up Your Mac for Flawless Minecraft Sessions for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-streamlining-movie-file-processing-in-windows-11-for-2024/"><u>[New] Streamlining Movie File Processing in Windows 11 for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-guide-to-digital-mastery-of-vhs-visuals/"><u>[New] The Ultimate Guide to Digital Mastery of VHS Visuals</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-unlock-potential-in-social-media-storytelling-fb-slideshows/"><u>[Updated] 2024 Approved  Unlock Potential in Social Media Storytelling  FB Slideshows</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-are-opinions-on-goods-compensated-in-videos/"><u>[Updated] Are Opinions on Goods Compensated in Videos?</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-eliminating-audio-absence-in-live-obs-sessions/"><u>[Updated] In 2024, Eliminating Audio Absence in Live OBS Sessions</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-harmonic-highlights-on-the-home-feed/"><u>2024 Approved  Harmonic Highlights on the Home Feed</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-masterclass-softening-auditory-peaks-gently-in-logic-pro/"><u>2024 Approved  Masterclass  Softening Auditory Peaks Gently in Logic Pro</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-professionals-secret-utilizing-windows-movie-maker-expertly-in-windows-8-systems/"><u>2024 Approved  The Professional's Secret  Utilizing Windows Movie Maker Expertly in Windows 8 Systems</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-the-ultimate-editor-showdown-for-superior-reels/"><u>2024 Approved  The Ultimate Editor Showdown for Superior Reels</u></a></li>
+<li><a href="https://fox-info.techidaily.com/5-best-4k-monitors-color-grading/"><u>5 Best 4K Monitors Color Grading</u></a></li>
+<li><a href="https://win-forum.techidaily.com/achieve-a-cleaner-system-release-unused-space-on-your-pc-with-windows-11/"><u>Achieve a Cleaner System: Release Unused Space on Your PC with Windows 11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/boost-system-efficiency-using-revo-uninstaller-pro-navigate-your-way-to-a-cleaner-faster-computer/"><u>Boost System Efficiency Using Revo Uninstaller Pro Navigate Your Way to a Cleaner, Faster Computer</u></a></li>
+<li><a href="https://win-forum.techidaily.com/comparing-giants-of-social-networking-insights-into-facebook-twitter-instagram-and-youtube-usage/"><u>Comparing Giants of Social Networking: Insights Into Facebook, Twitter, Instagram, and YouTube Usage</u></a></li>
+<li><a href="https://win-forum.techidaily.com/comprehensive-guide-to-setting-up-file-encryption-and-password-protection-for-text-files/"><u>Comprehensive Guide to Setting Up File Encryption and Password Protection for Text Files</u></a></li>
+<li><a href="https://win-forum.techidaily.com/comprehensive-tutorial-on-locking-text-files-behind-strong-passwords/"><u>Comprehensive Tutorial on Locking Text Files Behind Strong Passwords</u></a></li>
+<li><a href="https://win-forum.techidaily.com/comprehensive-tutorial-solving-teardown-application-crashes-a-complete-step-by-step-guide/"><u>Comprehensive Tutorial: Solving Teardown Application Crashes - A Complete Step-by-Step Guide</u></a></li>
+<li><a href="https://win-forum.techidaily.com/connect-with-the-world-mastering-facebook-twitter-instagram-and-youtube-strategies/"><u>Connect with the World: Mastering Facebook, Twitter, Instagram, and YouTube Strategies</u></a></li>
+<li><a href="https://windows11.techidaily.com/crafting-a-unique-windows-11-search-interface/"><u>Crafting a Unique Windows 11 Search Interface</u></a></li>
+<li><a href="https://win-forum.techidaily.com/determining-your-systems-powershell-version-on-windows-10-a-step-by-step-guide/"><u>Determining Your System's PowerShell Version on Windows 10: A Step-by-Step Guide</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/discover-the-most-effective-wi-fi-extenders-of-2veer/"><u>Discover the Most Effective Wi-Fi Extenders of 2Veer</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1723808255967-discover-your-motherboard-type-with-simple-steps/"><u>Discover Your Motherboard Type with Simple Steps!</u></a></li>
+<li><a href="https://win-forum.techidaily.com/engaging-audiences-across-key-social-channels-expert-tips-for-facebook-twitter-instagram-and-youtube/"><u>Engaging Audiences Across Key Social Channels: Expert Tips for Facebook, Twitter, Instagram and YouTube</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/expert-analysis-of-the-bookbook-v2-a-smart-choice-for-macbook-protection-twelve-south/"><u>Expert Analysis of the BookBook V2 - A Smart Choice for MacBook Protection (Twelve South)</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/guidelines-for-hosting-multiple-video-streaming-portals-can-you-have-2plus-youtube-channels/"><u>Guidelines for Hosting Multiple Video Streaming Portals: Can You Have 2+ YouTube Channels?</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-clean-user-data-from-windows-11-operating-system-using-revo-uninstaller/"><u>How to Clean User Data From Windows 11 Operating System Using Revo Uninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-ensure-optimal-performance-by-keeping-device-drivers-current-in-windows-10/"><u>How to Ensure Optimal Performance by Keeping Device Drivers Current in Windows 10</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-eradicate-directories-and-files-using-powershell-or-command-prompt-in-windows-11/"><u>How to Eradicate Directories & Files Using PowerShell or Command Prompt in Windows 11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-fix-class-not-registered-error-on-windows/"><u>How to Fix “Class Not Registered” Error on Windows</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-xiaomi-13t-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Xiaomi 13T?</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-seamlessly-install-the-latest-driver-updates-for-your-devices-in-windows-11-with-revo-uninstaller/"><u>How to Seamlessly Install the Latest Driver Updates for Your Devices in Windows 11 With Revo Uninstaller</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-best-practices-in-selecting-premium-hdr-cameras/"><u>In 2024, Best Practices in Selecting Premium HDR Cameras</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-giggle-guild-creepy-cybernetic-comedians/"><u>In 2024, Giggle Guild  Creepy Cybernetic Comedians</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-unveiling-the-leading-online-stores-for-customized-gift-boxes/"><u>In 2024, Unveiling the Leading Online Stores for Customized Gift Boxes</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-popular-networks-unveiling-facebook-twitter-instagram-and-youtube-insights/"><u>Navigating Popular Networks: Unveiling Facebook, Twitter, Instagram & YouTube Insights</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-web-of-friendship-a-guide-to-facebook-twitter-instagram-youtube/"><u>Navigating the Web of Friendship - A Guide to Facebook, Twitter, Instagram, Youtube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/optimize-windows-11-initial-load-time-for-seamless-performance-gains/"><u>Optimize Windows 11 Initial Load Time for Seamless Performance Gains</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-solution-conquer-camera-fails-in-windows-os/"><u>Quick Solution: Conquer Camera Fails in Windows OS</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/restoring-corrupted-vids-on-apple-computers-tips-and-tricks/"><u>Restoring Corrupted Vids on Apple Computers: Tips & Tricks</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-to-updating-device-drivers-on-windows-11/"><u>Step-by-Step Guide to Updating Device Drivers on Windows 11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/1722915406026-tackle-constant-windows-explorer-errors-using-our-proven-7-tricks/"><u>Tackle Constant Windows Explorer Errors Using Our Proven 7 Tricks</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-definitive-method-for-auto-elevation-always-opening-apps-as-an-admin-on-windows-11/"><u>The Definitive Method for Auto-Elevation: Always Opening Apps as an Admin on Windows 11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-5-methods-for-securing-your-windows-pc-a-comprehensive-guide/"><u>Top 5 Methods for Securing Your Windows PC: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-forum.techidaily.com/troubleshooting-steps-overcoming-app-incompatibility-messages-in-windows/"><u>Troubleshooting Steps: Overcoming App Incompatibility Messages in Windows</u></a></li>
+<li><a href="https://win-forum.techidaily.com/ultimate-guide-to-reducing-windows-11-startup-duration-with-ease/"><u>Ultimate Guide to Reducing Windows 11 Startup Duration with Ease</u></a></li>
+<li><a href="https://win-forum.techidaily.com/understanding-online-interaction-the-powerhouses-facebook-twitter-instagram-and-youtube/"><u>Understanding Online Interaction: The Powerhouses - Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/unlock-the-secrets-of-your-windows-11-powershell-edition-and-version-info/"><u>Unlock the Secrets of Your Windows 11 PowerShell Edition and Version Info</u></a></li>
+<li><a href="https://win-forum.techidaily.com/winning-against-stubborn-files-advanced-techniques-to-force-delete-folders-on-your-windows-11-system/"><u>Winning Against Stubborn Files: Advanced Techniques to Force Delete Folders on Your Windows 11 System</u></a></li>
+<li><a href="https://win-forum.techidaily.com/workaround-for-windows-11-installation-tips-for-non-qualifying-cpus/"><u>Workaround for Windows 11: Installation Tips for Non-Qualifying CPUs</u></a></li>
+</ul></div>

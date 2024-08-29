@@ -1,7 +1,7 @@
 ---
 title: "DIY Windows Alerts: Setting Up an Easy Event Log Notification Tool"
-date: 2024-08-27 22:43:10
-updated: 2024-08-29 11:36:23
+date: 2024-08-28T04:28:59.349Z
+updated: 2024-08-29T04:28:59.349Z
 tags:
   - excel
 categories:
@@ -25,6 +25,9 @@ thumbnail: https://thmb.techidaily.com/fa51da89f91ea3306806b0c92d6d119cfa0eae393
 
  Our solution works by using a freeware utility, MyEventViewer, by Nirsoft which allows you to easily export Windows Event Logs to a comma separated file. Based on this output, we have developed an easy to configure batch script which filters these results and then can email and/or save the filtered results file. Because the results are a comma separated file, it can be opened in Excel (or your favorite CSV program) and further sorted and filtered.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ##  Configuration
 
  The configuration settings and options are documented as inline comments in the script, however we will cover a few of them in a bit of detail here.
@@ -37,16 +40,25 @@ thumbnail: https://thmb.techidaily.com/fa51da89f91ea3306806b0c92d6d119cfa0eae393
 
 ![image](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2011/08/image1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Note the value in the Full Name value, in this case "OAlerts". This would be the value you would need to enter into the script's configuration.
 
 ![image](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2011/08/image2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 **Event Types** 
 
  The values for the Event Types is simply the text you see in the "Level" column when you are viewing Event Logs. Typically these are either Information, Warning or Error but various logs may have different values.
 
 ![image](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2011/08/image3.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Scheduled Task Setup** 
 
  The typical usage of this script is most likely in an automated process. So to make sure there is no overlap between your capture interval and when the process runs, you should set up a Windows Scheduled Task to complement the capture time.
@@ -57,6 +69,12 @@ thumbnail: https://thmb.techidaily.com/fa51da89f91ea3306806b0c92d6d119cfa0eae393
 
 ![image](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2011/08/image4.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ##  Examples
 
  This configuration would email Errors and Warnings from the System and Application Event Logs recorded in the past day (24 hours) to my@email.com as well as save the output to the C:\\EventNotices folder:
@@ -113,3 +131,48 @@ thumbnail: https://thmb.techidaily.com/fa51da89f91ea3306806b0c92d6d119cfa0eae393
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-influence-unleashed-5-crucial-steps-to-thriving-on-instagram-marketing/"><u>[New] Influence Unleashed  5 Crucial Steps to Thriving on Instagram Marketing</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-basic-recorder-your-windows-10-companion/"><u>[Updated] In 2024, Basic Recorder - Your Windows 10 Companion</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-mastering-image-quality-a-guide-without-watermarks-for-2024/"><u>[Updated] Mastering Image Quality  A Guide Without Watermarks for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-shopping-spree-simplified-the-compreenas-guide-to-creating-and-crafting-haul-vids/"><u>2024 Approved  Shopping Spree Simplified  The Compreenas Guide to Creating & Crafting Haul Vids</u></a></li>
+<li><a href="https://win-forum.techidaily.com/a-comprehensive-guide-to-leading-social-platforms-facebook-twitter-instagram-and-youtube/"><u>A Comprehensive Guide to Leading Social Platforms: Facebook, Twitter, Instagram and YouTube</u></a></li>
+<li><a href="https://android-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-sony-xperia-5-v-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Sony Xperia 5 V</u></a></li>
+<li><a href="https://win-forum.techidaily.com/connect-and-engage-with-audience-through-major-platforms-facebook-twitter-instagram-and-youtube-explained/"><u>Connect and Engage with Audience Through Major Platforms: Facebook, Twitter, Instagram & YouTube Explained</u></a></li>
+<li><a href="https://win-forum.techidaily.com/connecting-billions-an-in-depth-look-at-facebook-twitter-instagram-and-youtube/"><u>Connecting Billions: An In-Depth Look at Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/digital-giants-unveiled-mastering-interactions-on-facebook-twitter-instagram-and-youtube/"><u>Digital Giants Unveiled: Mastering Interactions on Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-setup-intel-chipset-serial-io-drivers/"><u>Download & Setup: Intel Chipset Serial I/O Drivers</u></a></li>
+<li><a href="https://win-forum.techidaily.com/effective-ways-to-delete-user-settings-in-windows-11-via-revouninstaller-software/"><u>Effective Ways to Delete User Settings in Windows 11 via RevoUninstaller Software</u></a></li>
+<li><a href="https://win-forum.techidaily.com/expert-advice-efficiently-flush-dns-caches-across-both-windows-10-and-windows-11-platforms/"><u>Expert Advice: Efficiently Flush DNS Caches Across Both Windows 10 and Windows 11 Platforms</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-social-media-giants-a-guide-to-facebook-twitter-instagram-and-youtube/"><u>Exploring Social Media Giants: A Guide to Facebook, Twitter, Instagram & Youtube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-social-media-giants-insights-into-facebook-twitter-instagram-and-youtube-usage/"><u>Exploring Social Media Giants: Insights Into Facebook, Twitter, Instagram and YouTube Usage</u></a></li>
+<li><a href="https://win-forum.techidaily.com/guide-updating-graphics-and-sound-cards-in-windows-11-made-simple/"><u>Guide: Updating Graphics and Sound Cards in Windows 11 Made Simple</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-contacts-from-redmi-note-12-proplus-5g-by-fonelab-android-recover-contacts/"><u>How to recover deleted contacts from Redmi Note 12 Pro+ 5G.</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Oppo A1x 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-honor-play-40c-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Honor Play 40C Phone? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-realme-c67-4g-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Realme C67 4G Pattern Lock Screen</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Watch Hulu Outside US On Apple iPhone 13 | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/journey-from-photographic-moments-to-sequential-videos/"><u>Journey From Photographic Moments to Sequential Videos</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-the-fix-for-peak-disk-usage-spike-on-your-windows-10-device-top-tips-and-tricks/"><u>Mastering the Fix for Peak Disk Usage Spike on Your Windows 10 Device: Top Tips & Tricks</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-the-windows-registry-edit-add-or-remove-key-steps/"><u>Mastering the Windows Registry: Edit, Add, or Remove Key Steps</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-big-four-of-online-networking-facebook-twitter-instagram-youtube/"><u>Navigating The Big Four of Online Networking: Facebook, Twitter, Instagram, Youtube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-giants-of-online-networking-facebook-twitter-instagram-and-youtube/"><u>Navigating the Giants of Online Networking: Facebook, Twitter, Instagram and Youtube</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/premium-memory-device-for-sony-a7s-cameras/"><u>Premium Memory Device for Sony A7S Cameras</u></a></li>
+<li><a href="https://win-forum.techidaily.com/secure-superuser-access-for-applications-a-step-by-step-tutorial-for-windows-11-users/"><u>Secure Superuser Access for Applications: A Step-by-Step Tutorial for Windows 11 Users</u></a></li>
+<li><a href="https://win-forum.techidaily.com/1722915274991-social-media-success-strategies-for-facebook-twitter-instagram-and-you/"><u>Social Media Success Strategies for Facebook, Twitter, Instagram & You.</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-clearing-the-domain-name-system-cache-on-windows-10-and-11/"><u>Step-by-Step Guide: Clearing the Domain Name System Cache on Windows 10 & 11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-clearing-windows-10-system-cache-with-ease/"><u>Step-by-Step Guide: Clearing Windows 10 System Cache with Ease</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-clearing-your-domain-name-system-cache-on-windows-1011/"><u>Step-by-Step Guide: Clearing Your Domain Name System Cache on Windows 10/11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-updating-your-windows-10-hardware-drivers-easily/"><u>Step-by-Step Guide: Updating Your Windows 10 Hardware Drivers Easily</u></a></li>
+<li><a href="https://win-forum.techidaily.com/stop-file-explorer-disruptions-with-these-7-proven-fixes/"><u>Stop File Explorer Disruptions with These 7 Proven Fixes</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-digital-mosaic-a-guide-to-successful-branding-on-facebook-twitter-instagram-and-youtube/"><u>The Digital Mosaic: A Guide to Successful Branding on Facebook, Twitter, Instagram & Youtube.</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-power-trio-of-social-networks-unpacking-facebook-twitter-instagram-and-youtube-influence/"><u>The Power Trio of Social Networks: Unpacking Facebook, Twitter, Instagram & YouTube Influence</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-powerhouses-of-digital-connection-facebook-twitter-instagram-and-youtube/"><u>The Powerhouses of Digital Connection: Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-quintessential-social-giants-for-digital-engagement-fb-twitter-ig-and-yt/"><u>The Quintessential Social Giants for Digital Engagement: FB, TWITTER, IG and YT</u></a></li>
+<li><a href="https://common-error.techidaily.com/top-8-solutions-to-resolve-windows-10-error-message-0x800f0922/"><u>Top 8 Solutions to Resolve Windows 10 Error Message: 0X800F0922</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/-guide-to-video-dimensions-and-proportion-harmony-on-youtube-for-2024/"><u>Total Guide to Video Dimensions & Proportion Harmony on YouTube for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/unlocking-new-possibilities-configuring-windows-11-on-cpus-not-officially-supported/"><u>Unlocking New Possibilities: Configuring Windows 11 on CPUs Not Officially Supported</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-and-fix-enhance-performance-on-windows-11-v2004-with-new-conexant-driver/"><u>Update and Fix: Enhance Performance on Windows 11 (v2004) With New Conexant Driver</u></a></li>
+</ul></div>

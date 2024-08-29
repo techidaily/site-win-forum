@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Naming Cell Ranges Efficiently in Microsoft Excel"
-date: 2024-08-26 16:23:58
-updated: 2024-08-29 12:57:31
+date: 2024-08-28T04:29:31.635Z
+updated: 2024-08-29T04:29:31.635Z
 tags:
   - excel
 categories:
@@ -69,6 +69,9 @@ Related: [How to Use VLOOKUP in Excel](https://extra-tips.techidaily.com/integra
 
 ![07_clicking_edit_on_name_manager](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/02/07_clicking_edit_on_name_manager.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
  The "Edit Name" dialog box displays. You can change the "Name" itself as well as add a "Comment" to the name, providing more details about what the name represents. You can also change the range of cells to which this name is assigned by clicking the "Expand Dialog" button on the right side of the "Refers to" edit box.
 
  NOTE: You'll see that the "Scope" drop-down list is grayed out. When you edit an existing name, you cannot change the "Scope" of that name. You must choose the scope when you first create the name. If you want the scope to be a specific worksheet, rather than the entire workbook, you can create a name in a way that allows you to specify the scope initially. We'll show you how to do that in a later section.
@@ -79,6 +82,9 @@ Related: [How to Use VLOOKUP in Excel](https://extra-tips.techidaily.com/integra
 
 ![08a_selecting_new_cell_range](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/02/08a_selecting_new_cell_range.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  How to Delete a Name Using the Name Manager
 
  If you decide you don't need a name anymore, it's easy to delete it. Simply, access the "Name Manager" dialog box as we discussed in the previous section. Then, select the name you want to delete in the list of names and click "Delete".
@@ -89,6 +95,12 @@ Related: [How to Use VLOOKUP in Excel](https://extra-tips.techidaily.com/integra
 
 ![10_delete_confirmation](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/02/10_delete_confirmation.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ##  How to Create a Name Using the "New Name" Dialog Box
 
  When you create a new name by selecting one or more cells and then entering a name in the "Name Box", the default scope of the name is the entire workbook. So, what do you do if you want to limit the scope of a name to just a specific worksheet?
@@ -107,6 +119,9 @@ Related: [How to Use VLOOKUP in Excel](https://extra-tips.techidaily.com/integra
 
 ![13_selecting_scope](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/02/13_selecting_scope.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
  Enter more details about the name, if desired, in the "Comment" box. If you didn't select the cells to which you're assigning the name, click the "Expand Dialog" button to the right of the "Refers to" edit box to select the cells the same way we did when we edited the name earlier. Click "OK" to finish creating the new name.
 
 ![14_clicking_ok_on_new_name_dialog](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/02/14_clicking_ok_on_new_name_dialog.png) 
@@ -125,6 +140,9 @@ Related: [How to Use VLOOKUP in Excel](https://extra-tips.techidaily.com/integra
 
 ![18_formula_with_cell_reference](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/02/18_formula_with_cell_reference.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
  To create a name that will be assigned to a constant value, open the "New Name" dialog box by clicking the "Formulas" tab and then clicking "Define Name" in the "Defined Names" section. Enter a name to represent the constant value, such as "ExchangeRate". To assign a value to this name, enter an equal sign (=) in the "Refers to" edit box followed by the value. There should not be a space between the equal sign and the value. Click "OK" to finish creating the name.
 
  NOTE: If there's a formula you use in many places in your workbook, you can enter that formula into the "Refers to" edit box so you can simply enter the name in every cell where you need to use the formula.
@@ -135,18 +153,30 @@ Related: [How to Use VLOOKUP in Excel](https://extra-tips.techidaily.com/integra
 
 ![20_cell_reference_results](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/02/20_cell_reference_results.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
  Highlight the cell reference (or other part of the formula you want to replace with a name) and start typing the name you created. As you type, any matching names display in a popup box. Select the name you want to insert into the formula by clicking on it in the popup box.
 
 ![21_selecting_name](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/02/21_selecting_name.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The name is inserted into the formula. Press "Enter" to accept the change and update the cell.
 
 ![22_name_inserted](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/02/22_name_inserted.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
  Note that the result is updated using the exchange rate referred to by the name.
 
 ![23_formula_using_constant_name](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/02/23_formula_using_constant_name.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Names are very useful if you create complex Excel workbooks with a lot of formulas. When you need to distribute your workbooks to others, using names makes it easier for others, as well as yourself, to understand your formulas.
 
 <ins class="adsbygoogle"
@@ -163,3 +193,53 @@ Related: [How to Use VLOOKUP in Excel](https://extra-tips.techidaily.com/integra
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-eyedome-recorder-chromeos-screen-snapshots/"><u>[New] EyeDome Recorder  ChromeOS Screen Snapshots</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-how-to-use-star-feature-to-your-advantage-for-2024/"><u>[New] How to Use Star Feature to Your Advantage for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/aximizing-online-exposure-on-youtube-by-keeping-up-creative-commons-usage-for-2024/"><u>[New] Maximizing Online Exposure on YouTube by Keeping Up Creative Commons Usage for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-architectural-marvels-for-vr-display/"><u>[Updated] Architectural Marvels for VR Display</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-budget-friendly-microphones-for-online-broadcasters/"><u>[Updated] In 2024, Budget-Friendly Microphones for Online Broadcasters</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-ideal-portals-to-rewind-at-your-computer-ps3-edition/"><u>[Updated] In 2024, Ideal Portals to Rewind at Your Computer (PS3 Edition)</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-navigating-instagram-marketing-ultimate-guide-to-video-success/"><u>[Updated] Navigating Instagram Marketing  Ultimate Guide to Video Success</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-the-essential-guide-to-expanding-your-tiktok-reach-and-interactions/"><u>[Updated] The Essential Guide to Expanding Your TikTok Reach & Interactions</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-honor-play-8t-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Honor Play 8T Activity | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-the-complete-guide-to-iphone-silhouette-mastery/"><u>2024 Approved  The Complete Guide to iPhone Silhouette Mastery</u></a></li>
+<li><a href="https://win11.techidaily.com/achieving-flawless-youtube-viewing-on-chrome-windows/"><u>Achieving Flawless YouTube Viewing on Chrome, Windows</u></a></li>
+<li><a href="https://win-forum.techidaily.com/boost-system-efficiency-using-revo-uninstaller-pro-navigate-your-way-to-a-cleaner-faster-computer/"><u>Boost System Efficiency Using Revo Uninstaller Pro Navigate Your Way to a Cleaner, Faster Computer</u></a></li>
+<li><a href="https://win-forum.techidaily.com/comparing-giants-of-social-networking-insights-into-facebook-twitter-instagram-and-youtube-usage/"><u>Comparing Giants of Social Networking: Insights Into Facebook, Twitter, Instagram, and YouTube Usage</u></a></li>
+<li><a href="https://win-forum.techidaily.com/comprehensive-guide-to-setting-up-file-encryption-and-password-protection-for-text-files/"><u>Comprehensive Guide to Setting Up File Encryption and Password Protection for Text Files</u></a></li>
+<li><a href="https://win-forum.techidaily.com/comprehensive-tutorial-on-locking-text-files-behind-strong-passwords/"><u>Comprehensive Tutorial on Locking Text Files Behind Strong Passwords</u></a></li>
+<li><a href="https://win-forum.techidaily.com/comprehensive-tutorial-solving-teardown-application-crashes-a-complete-step-by-step-guide/"><u>Comprehensive Tutorial: Solving Teardown Application Crashes - A Complete Step-by-Step Guide</u></a></li>
+<li><a href="https://win-forum.techidaily.com/connect-with-the-world-mastering-facebook-twitter-instagram-and-youtube-strategies/"><u>Connect with the World: Mastering Facebook, Twitter, Instagram, and YouTube Strategies</u></a></li>
+<li><a href="https://win-forum.techidaily.com/determining-your-systems-powershell-version-on-windows-10-a-step-by-step-guide/"><u>Determining Your System's PowerShell Version on Windows 10: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/discovering-the-most-effective-tool-for-win-soft-dependency/"><u>Discovering the Most Effective Tool for Win Soft Dependency</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-access-freshest-canon-software-and-driver-updates-for-windows-systems/"><u>Easy Access: Freshest Canon Software and Driver Updates for Windows Systems</u></a></li>
+<li><a href="https://win-forum.techidaily.com/engaging-audiences-across-key-social-channels-expert-tips-for-facebook-twitter-instagram-and-youtube/"><u>Engaging Audiences Across Key Social Channels: Expert Tips for Facebook, Twitter, Instagram and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-clean-user-data-from-windows-11-operating-system-using-revo-uninstaller/"><u>How to Clean User Data From Windows 11 Operating System Using Revo Uninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-ensure-optimal-performance-by-keeping-device-drivers-current-in-windows-10/"><u>How to Ensure Optimal Performance by Keeping Device Drivers Current in Windows 10</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-eradicate-directories-and-files-using-powershell-or-command-prompt-in-windows-11/"><u>How to Eradicate Directories & Files Using PowerShell or Command Prompt in Windows 11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-fix-class-not-registered-error-on-windows/"><u>How to Fix “Class Not Registered” Error on Windows</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-corrupt-video-files-of-oneplus-12r-using-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix corrupt video files of OnePlus 12R using Video Repair Utility on Windows?</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-seamlessly-install-the-latest-driver-updates-for-your-devices-in-windows-11-with-revo-uninstaller/"><u>How to Seamlessly Install the Latest Driver Updates for Your Devices in Windows 11 With Revo Uninstaller</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-stop-team-fortress-2-from-continuously-crashing-fixed/"><u>How to Stop Team Fortress 2 From Continuously Crashing (Fixed)</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-honor-x50-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Honor X50? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-masterclass-in-virtual-reality-finger-hacks/"><u>In 2024, Masterclass in Virtual Reality Finger Hacks</u></a></li>
+<li><a href="https://extra-information.techidaily.com/magix-visual-compendium-an-examination/"><u>MAGIX Visual Compendium  An Examination</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-popular-networks-unveiling-facebook-twitter-instagram-and-youtube-insights/"><u>Navigating Popular Networks: Unveiling Facebook, Twitter, Instagram & YouTube Insights</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-web-of-friendship-a-guide-to-facebook-twitter-instagram-youtube/"><u>Navigating the Web of Friendship - A Guide to Facebook, Twitter, Instagram, Youtube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/optimize-windows-11-initial-load-time-for-seamless-performance-gains/"><u>Optimize Windows 11 Initial Load Time for Seamless Performance Gains</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-to-updating-device-drivers-on-windows-11/"><u>Step-by-Step Guide to Updating Device Drivers on Windows 11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/1722915406026-tackle-constant-windows-explorer-errors-using-our-proven-7-tricks/"><u>Tackle Constant Windows Explorer Errors Using Our Proven 7 Tricks</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-definitive-method-for-auto-elevation-always-opening-apps-as-an-admin-on-windows-11/"><u>The Definitive Method for Auto-Elevation: Always Opening Apps as an Admin on Windows 11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-5-methods-for-securing-your-windows-pc-a-comprehensive-guide/"><u>Top 5 Methods for Securing Your Windows PC: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-forum.techidaily.com/troubleshooting-steps-overcoming-app-incompatibility-messages-in-windows/"><u>Troubleshooting Steps: Overcoming App Incompatibility Messages in Windows</u></a></li>
+<li><a href="https://win-forum.techidaily.com/ultimate-guide-to-reducing-windows-11-startup-duration-with-ease/"><u>Ultimate Guide to Reducing Windows 11 Startup Duration with Ease</u></a></li>
+<li><a href="https://win-forum.techidaily.com/understanding-online-interaction-the-powerhouses-facebook-twitter-instagram-and-youtube/"><u>Understanding Online Interaction: The Powerhouses - Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/unlock-the-secrets-of-your-windows-11-powershell-edition-and-version-info/"><u>Unlock the Secrets of Your Windows 11 PowerShell Edition and Version Info</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-two-screens-one-goal-the-best-split-screen-video-apps-for-ios-and-android-users/"><u>Updated In 2024, Two Screens, One Goal The Best Split-Screen Video Apps for iOS and Android Users</u></a></li>
+<li><a href="https://win-forum.techidaily.com/workaround-for-windows-11-installation-tips-for-non-qualifying-cpus/"><u>Workaround for Windows 11: Installation Tips for Non-Qualifying CPUs</u></a></li>
+<li><a href="https://solve-info.techidaily.com/abbyy-timeline-5er/"><u>タスクマイニング機能付きのABBYY Timeline 5でネットワーク分析:人間関�er、プロセス、コンテンツ</u></a></li>
+</ul></div>

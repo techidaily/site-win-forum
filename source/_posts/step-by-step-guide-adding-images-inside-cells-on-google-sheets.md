@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Adding Images Inside Cells on Google Sheets"
-date: 2024-08-26 11:12:13
-updated: 2024-08-29 12:44:15
+date: 2024-08-28T04:29:29.351Z
+updated: 2024-08-29T04:29:29.351Z
 tags:
   - excel
 categories:
@@ -28,6 +28,9 @@ thumbnail: https://thmb.techidaily.com/d5331824a0fea73eb882bba4127a05283f17e46d7
 
 ![Click any blank cell in the spreadsheet and go to Insert > Image.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/05/google-sheets-insert-menu-image.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
  Since our goal is to add a picture inside the selected cell, let's select "Image in Cell."
 
 ![Click "Image in Cell" after you go to Insert > Image in Google Sheets.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/05/google-sheets-insert-image-in-cell.png) 
@@ -46,6 +49,9 @@ thumbnail: https://thmb.techidaily.com/d5331824a0fea73eb882bba4127a05283f17e46d7
 
 ![Click the "Camera" tab to take a photo in Google Sheets.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/05/google-sheets-click-camera.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Hit the yellow camera icon in the "Camera" tab when you're ready to take a picture.
 
 ![Click the "Camera" tab to take a photo in Google Sheets.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/05/google-sheets-click-camera.png) 
@@ -54,10 +60,16 @@ thumbnail: https://thmb.techidaily.com/d5331824a0fea73eb882bba4127a05283f17e46d7
 
 ![Click "Insert" to add a picture inside a cell in Google Sheets.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/05/google-sheets-camera-click-insert.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Click the "By URL" tab to import an image using its URL.
 
 ![Click "By URL" to add an image using its link in Google Sheets.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/05/google-sheets-by-url.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Paste the link in the text box in the "By URL" tab.
 
 ![Click "By URL" to add an image using its link in Google Sheets.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/05/google-sheets-by-url.png) 
@@ -70,10 +82,20 @@ thumbnail: https://thmb.techidaily.com/d5331824a0fea73eb882bba4127a05283f17e46d7
 
 ![Click the "Photos" tab in Google Sheets.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/05/google-sheets-photos-tab.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Click any picture to select it from the "Photos" tab.
 
 ![Click the "Photos" tab in Google Sheets.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/05/google-sheets-photos-tab.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
  Then, click the blue "Insert" button near the bottom of the pop-up to add it to the cell.
 
 ![Click the "Photos" tab in Google Sheets.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/05/google-sheets-photos-tab.png) 
@@ -82,10 +104,17 @@ thumbnail: https://thmb.techidaily.com/d5331824a0fea73eb882bba4127a05283f17e46d7
 
 ![Click "Google Drive" to select images from there for Google Sheets.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/05/google-sheets-insert-image-google-drive.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
  Once you've done that, click any photo to select it, and then hit "Insert" to add it to the selected cell.
 
 ![Select the image from Google Drive and click "Insert" to add it to a cell in Google Sheets.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/05/google-sheets-select-image-google-drive-click-insert.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
  Finally, you can select "Google Image Search" and use the "Search for Images" text box at the top to look for images from the internet. You can type any search query here as you would on Google search.
 
 ![Use the search box to find an image from Google Images within Google Sheets.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/05/google-sheets-click-google-image-search-search.png) 
@@ -100,10 +129,25 @@ thumbnail: https://thmb.techidaily.com/d5331824a0fea73eb882bba4127a05283f17e46d7
 
 ![Images added to cells in Google Sheets automatically scale to the size of the cell, leading to barely visible images sometimes.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/05/google-sheets-image-in-cell-barely-visible.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
  You can easily do this by moving your mouse pointer to the bar above or below the row number on the extreme left side of the spreadsheet. Make sure that the mouse pointer turns into an up arrow icon and drag it up or down to adjust the size of the row.
 
 ![Adjust the row size in Google Sheets.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/05/google-sheets-adjust-row-size.png) 
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Similarly, you can drag the mouse pointer to the separators between two columns at the top of the spreadsheet. Columns are denoted by alphabets in Google Sheets. Once the mouse pointer has turned into a right arrow, click and drag it to adjust the size of the column.
 
 ![Adjust the column size in Google Sheets.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/05/google-sheets-adjust-column-size.png) 
@@ -120,10 +164,16 @@ thumbnail: https://thmb.techidaily.com/d5331824a0fea73eb882bba4127a05283f17e46d7
 
 ![Select any cell and go to Insert > Function > Google.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/05/google-sheets-insert-function-google.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  To insert images inside a cell in Google Sheets, click "Image."
 
 ![Select any cell and go to Insert > Function > Google.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/05/google-sheets-insert-function-google.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
  You'll see a pop-up that shows you the syntax for the Image function and tells you what each parameter does. The syntax looks something like this:
 
         ``
@@ -149,6 +199,9 @@ thumbnail: https://thmb.techidaily.com/d5331824a0fea73eb882bba4127a05283f17e46d7
 
 ![A screenshot showing the effects of the four sizing modes for the Image function in Google Sheets.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/05/google-sheets-image-function-syntax-screenshot.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
  Here's how you can correctly use the first three sizing modes:
 
         `=IMAGE("https://www.howtogeek.com/wp-content/uploads/2018/08/new-design-social-coverphoto.png", 1)`
@@ -175,3 +228,53 @@ thumbnail: https://thmb.techidaily.com/d5331824a0fea73eb882bba4127a05283f17e46d7
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-best-of-the-best-10-acclaimed-online-vimeo-downloaders/"><u>[New] 2024 Approved  Best of the Best  10 Acclaimed Online Vimeo Downloaders</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-ultimate-list-best-mac-videos-grabber-software/"><u>[New] In 2024, Ultimate List  Best Mac Videos Grabber Software</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-enhancing-clarity-in-low-quality-facebook-streams/"><u>[Updated] 2024 Approved  Enhancing Clarity in Low-Quality Facebook Streams</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-the-elite-video-cameras-for-2-point-zero-four-two/"><u>2024 Approved  Unveiling the Elite Video Cameras for 2 Point Zero Four Two</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-wrapping-up-with-impactful-endings/"><u>2024 Approved  Wrapping Up with Impactful Endings</u></a></li>
+<li><a href="https://win-forum.techidaily.com/a-guide-to-dominant-social-media-giants-facebook-twitter-instagram-and-youtube/"><u>A Guide to Dominant Social Media Giants: Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://games-able.techidaily.com/all-about-baldurs-gate-3-dlc-and-downloads/"><u>All About Baldur's Gate 3: DLC & Downloads</u></a></li>
+<li><a href="https://win-forum.techidaily.com/bypass-limits-how-to-get-windows-11-working-on-unsupported-chips-via-revouninstaller/"><u>Bypass Limits: How to Get Windows 11 Working on Unsupported Chips via RevoUninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/connecting-the-world-one-post-at-a-time-insights-on-facebook-twitter-instagram-and-youtube/"><u>Connecting the World One Post at a Time: Insights on Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/essential-expenses-for-launching-your-podcast/"><u>Essential Expenses for Launching Your Podcast</u></a></li>
+<li><a href="https://win-forum.techidaily.com/evaluating-protection-levels-the-fintie-case-for-apples-laptop-series-a-detailed-macbook-pro-13-assessment-on-worth-and-endurance/"><u>Evaluating Protection Levels: The Fintie Case for Apple's Laptop Series - A Detailed MacBook Pro 13 Assessment on Worth & Endurance</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/experience-final-cut-pro-for-free-90-day-trial-offer-for-2024/"><u>Experience Final Cut Pro for Free 90-Day Trial Offer for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/experience-lightning-fast-speeds-with-the-motorola-mg7-groove-phone-review/"><u>Experience Lightning Fast Speeds with the Motorola MG7 Groove Phone Review.</u></a></li>
+<li><a href="https://win-forum.techidaily.com/expert-techniques-to-delete-foldersfiles-with-powershell-or-command-prompt-on-windows-11/"><u>Expert Techniques to Delete Folders/Files with PowerShell or Command Prompt on Windows 11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-the-big-4-in-social-media-an-insight-into-facebook-twitter-instagram-and-youtube/"><u>Exploring the Big 4 in Social Media - An Insight Into Facebook, Twitter, Instagram and Youtube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/1722915271217-facebook-to-youtube-a-comprehhemic-view-on-the-leading-social-networks-of-our-time/"><u>Facebook to Youtube: A Comprehhemic View on the Leading Social Networks of Our Time.</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-nokia-c300-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Nokia C300 | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-iphone-15-without-passcode-easily-by-drfone-ios/"><u>In 2024, Unlock iPhone 15 Without Passcode Easily</u></a></li>
+<li><a href="https://win-forum.techidaily.com/leading-platforms-of-digital-expression-facebook-twitter-instagram-and-youtube/"><u>Leading Platforms of Digital Expression - Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/lenovo-thinkpad-x1-titanium-yoga-the-ultimate-2-in-one-laptop-for-fans-of-the-iconic-thinkpad-line/"><u>Lenovo ThinkPad X1 Titanium Yoga - The Ultimate 2-In-One Laptop for Fans of the Iconic ThinkPad Line</u></a></li>
+<li><a href="https://win-forum.techidaily.com/master-efficient-software-removal-using-revo-uninstaller-professional-edition-v5/"><u>Master Efficient Software Removal Using Revo Uninstaller Professional Edition, V5</u></a></li>
+<li><a href="https://win-forum.techidaily.com/master-the-quick-solutions-for-windows-class-not-registered-problems/"><u>Master the Quick Solutions for Windows 'Class Not Registered' Problems</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-digital-engagement-with-top-platforms-facebook-twitter-instagram-and-youtube/"><u>Mastering Digital Engagement with Top Platforms: Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximizing-ram-capacity-with-enhanced-virtual-memory-tactics/"><u>Maximizing RAM Capacity with Enhanced Virtual Memory Tactics</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-big-four-of-social-media-strategies-for-successful-presence-on-facebook-twitter-instagram-and-youtube/"><u>Navigating the Big Four of Social Media - Strategies for Successful Presence on Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-digital-landscape-a-dive-into-facebook-twitter-instagram-and-youtube/"><u>Navigating the Digital Landscape: A Dive Into Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/1722915306397-navigating-the-giants-of-social-networking-fb-twtr-igtv-and-gotube/"><u>Navigating the Giants of Social Networking: FB, TWTR, IGTV, and GoTube!</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-web-of-social-interaction-facebook-twitter-instagram-youtube-insights/"><u>Navigating the Web of Social Interaction: Facebook, Twitter, Instagram, Youtube Insights</u></a></li>
+<li><a href="https://win-forum.techidaily.com/quick-guide-mastering-forced-closure-of-windows-programs-with-revo-uninstaller/"><u>Quick Guide: Mastering Forced Closure of Windows Programs with Revo Uninstaller</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/swift-screen-preserve-audio-accompanying-for-2024/"><u>Swift Screen Preserve  Audio Accompanying for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-amazonbasics-high-security-shredder-unveiled-a-detailed-look-at-the-12-sheet-micro-cut-innovation/"><u>The AmazonBasics High-Security Shredder Unveiled: A Detailed Look at the 12-Sheet Micro Cut Innovation.</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-big-four-of-social-networking-exploring-facebook-twitter-instagram-and-youtube/"><u>The Big Four of Social Networking: Exploring Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-leading-digital-hubs-understanding-facebook-twitter-instagram-and-youtube/"><u>The Leading Digital Hubs: Understanding Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-powerhouse-of-social-networks-facebook-twitter-instagram-and-youtube-insights/"><u>The Powerhouse of Social Networks - Facebook, Twitter, Instagram & YouTube Insights</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-quintessential-quartet-understanding-facebook-twitter-instagram-and-youtubes-impact/"><u>The Quintessential Quartet: Understanding Facebook, Twitter, Instagram & YouTube's Impact</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-quintessential-social-media-mix-harnessing-facebook-twitter-instagram-and-youtube-for-success/"><u>The Quintessential Social Media Mix: Harnessing Facebook, Twitter, Instagram & YouTube for Success</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-ultimate-tutorial-for-finding-and-erasing-threatening-android-programs-with-revouninstaller/"><u>The Ultimate Tutorial for Finding and Erasing Threatening Android Programs with RevoUninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-verdict-on-revo-uninstaller-and-alternatives-for-thorough-application-removal/"><u>The Verdict on Revo Uninstaller and Alternatives for Thorough Application Removal</u></a></li>
+<li><a href="https://win-forum.techidaily.com/troubleshooting-the-class-registration-error-on-your-pc-expert-tips-and-tricks/"><u>Troubleshooting the 'Class Registration Error' On Your PC: Expert Tips & Tricks</u></a></li>
+<li><a href="https://win-forum.techidaily.com/troubleshooting-tips-for-a-smooth-amazon-prime-video-experience/"><u>Troubleshooting Tips for a Smooth Amazon Prime Video Experience</u></a></li>
+<li><a href="https://win-forum.techidaily.com/understanding-modern-connectivity-the-impact-of-facebook-twitter-instagram-and-youtube-on-our-lives/"><u>Understanding Modern Connectivity: The Impact of Facebook, Twitter, Instagram and YouTube on Our Lives</u></a></li>
+<li><a href="https://win-forum.techidaily.com/understanding-the-giants-of-social-media-a-look-at-facebook-twitter-instagram-and-youtube/"><u>Understanding the Giants of Social Media: A Look at Facebook, Twitter, Instagram and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/understanding-the-giants-a-look-at-facebook-twitter-instagram-and-youtube/"><u>Understanding the Giants: A Look at Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/unleashing-your-brands-potential-on-major-platforms-facebook-twitter-instagram-and-youtube-explained/"><u>Unleashing Your Brand's Potential on Major Platforms: Facebook, Twitter, Instagram & YouTube Explained</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/voice-enabled-chatgpt-on-your-android-device-the-ultimate-how-to/"><u>Voice-Enabled ChatGPT on Your Android Device - The Ultimate How-To</u></a></li>
+<li><a href="https://win-forum.techidaily.com/your-ultimate-guide-to-popular-online-hubs-twitter-instagram-facebook-and-youtube/"><u>Your Ultimate Guide to Popular Online Hubs: Twitter, Instagram, Facebook & Youtube</u></a></li>
+</ul></div>

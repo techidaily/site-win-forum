@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Removing Items From Clipboard Memory in Windows 11"
-date: 2024-08-28 11:53:39
-updated: 2024-08-29 11:33:41
+date: 2024-08-28T04:28:19.639Z
+updated: 2024-08-29T04:28:19.639Z
 tags:
   - windows
 categories:
@@ -42,6 +42,9 @@ thumbnail: https://thmb.techidaily.com/d599dad7b998abdf06ca417d32becc28547b33f18
 
 ![Click the ellipses in Clipboard history on Windows 10](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/05/click_ellipses.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
  A small menu will pop up. Click "Delete" and the item will be removed from the list.
 
 ![Click Delete in Clipboard history on Windows 10](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/05/click_delete.png) 
@@ -50,16 +53,25 @@ thumbnail: https://thmb.techidaily.com/d599dad7b998abdf06ca417d32becc28547b33f18
 
 ![Click clear all in Clipboard history on Windows 10](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/05/click_clear_all.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
  Any remaining items on the list after you click "Clear All" are pinned in place. If you'd like to remove a pinned item, click the ellipses beside it and select "Unpin." Then you can either delete it or try "Clear All" from the ellipses menu again.
 
  Note that with Clipboard history enabled, new items will continue to appear in the Clipboard history list every time you copy something to the Clipboard. If you would like to prevent Windows from storing your Clipboard history, you will need to disable the feature in Windows Settings.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ##  Another Way to Clear All Clipboard Data
 
  You can also clear your clipboard data in Windows Settings. Navigate to Settings > System > Clipboard and locate the "Clear Clipboard Data" section. Click on the "Clear" button, and the clipboard will be erased.
 
 ![Tap 'Clear' to clear your clipboard history.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/clear-clipboard-data.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
  This is equivalent to pushing the "Clear All" button in the Clipboard history window, but it also works with Clipboard history turned off.
 
 ##  How to Disable Clipboard History in Windows 10
@@ -70,10 +82,16 @@ thumbnail: https://thmb.techidaily.com/d599dad7b998abdf06ca417d32becc28547b33f18
 
 ![Click 'Settings.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/click-settings.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  On the Settings sidebar, click on "Clipboard." In Clipboard settings, locate the section called "Clipboard history" and toggle the switch to "Off."
 
 ![Select 'Clipboard' to the left, then disable 'Clipboard History.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/clipboard.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Once disabled, if you press Windows+V, you will see a small window alerting you that Windows 10 cannot show your Clipboard history because the feature is turned off.
 
 ![Can't show Clipboard history message in Windows 10](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/05/cant_show_history.png) 
@@ -94,3 +112,60 @@ thumbnail: https://thmb.techidaily.com/d599dad7b998abdf06ca417d32becc28547b33f18
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-best-talker-alteration-apps-for-video-content-makers/"><u>[New] 2024 Approved  Best Talker Alteration Apps for Video Content Makers</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-download-your-instagram-masterpieces-easily-for-2024/"><u>[New] Download Your Instagram Masterpieces Easily for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlocking-potential-the-right-propeller-match-in-fpv-flight/"><u>[New] Unlocking Potential  The Right Propeller Match in FPV Flight</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/1716069646022-updated-2024-approved-capturing-screen-content-on-huawei-mate-10-20-and-p-series-phones-via-built-in-recorders/"><u>[Updated] 2024 Approved  Capturing Screen Content on Huawei Mate 10, 20 & P-Series Phones via Built-In Recorders.</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-discover-the-best-offline-ios-games-your-ultimate-guide/"><u>[Updated] 2024 Approved  Discover the Best Offline iOS Games – Your Ultimate Guide</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-revolutionize-mobile-broadcasting-integrating-obs-studio-into-android-for-2024/"><u>[Updated] Revolutionize Mobile Broadcasting  Integrating OBS Studio Into Android for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-blueprint-to-blockbuster-scriptwriting-for-films/"><u>2024 Approved  Blueprint to Blockbuster  Scriptwriting for Films</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-expert-guide-6-ways-to-document-your-minecraft-experiences/"><u>2024 Approved  Expert Guide  6 Ways to Document Your Minecraft Experiences</u></a></li>
+<li><a href="https://win-forum.techidaily.com/an-in-depth-guide-to-what-the-windows-registry-does-for-your-pc/"><u>An In-Depth Guide to What the Windows Registry Does for Your PC</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/boost-productivity-utilizing-gmails-tools-to-filter-messages-and-expand-contact-list-efficiently/"><u>Boost Productivity: Utilizing Gmail's Tools to Filter Messages & Expand Contact List Efficiently</u></a></li>
+<li><a href="https://win-forum.techidaily.com/clear-out-pc-clutter-on-windows-11-a-detailed-walkthrough-using-revo-uninstaller/"><u>Clear Out PC Clutter on Windows 11 – A Detailed Walkthrough Using Revo Uninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/comparative-analysis-of-leading-social-media-outlets-facebook-twitter-instagram-and-youtube/"><u>Comparative Analysis of Leading Social Media Outlets: Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-honor-x50iplus-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Honor X50i+</u></a></li>
+<li><a href="https://win-forum.techidaily.com/effective-tips-to-eliminate-disk-usage-overflow-on-your-windows-11-machine/"><u>Effective Tips to Eliminate Disk Usage Overflow on Your Windows 11 Machine</u></a></li>
+<li><a href="https://win-forum.techidaily.com/efficient-techniques-for-killing-hanging-programs-in-the-latest-windows-operating-system/"><u>Efficient Techniques for Killing Hanging Programs in the Latest Windows Operating System</u></a></li>
+<li><a href="https://win-forum.techidaily.com/engagement-essentials-for-leading-social-platforms-strategies-for-facebook-twitter-instagram-and-youtube-success/"><u>Engagement Essentials for Leading Social Platforms: Strategies for Facebook, Twitter, Instagram & YouTube Success</u></a></li>
+<li><a href="https://apple-account.techidaily.com/everything-to-know-about-apple-id-password-requirements-for-apple-iphone-12-pro-by-drfone-ios/"><u>Everything To Know About Apple ID Password Requirements For Apple iPhone 12 Pro</u></a></li>
+<li><a href="https://win-forum.techidaily.com/expert-guide-to-correcting-the-msedgeexe-application-error-on-pc/"><u>Expert Guide to Correcting the 'Msedge.exe Application Error on PC'</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-the-core-of-windows-os-a-guide-to-the-windows-registry-system/"><u>Exploring The Core of Windows OS: A Guide to the Windows Registry System</u></a></li>
+<li><a href="https://win-forum.techidaily.com/harnessing-engagement-on-popular-networks-facebook-twitter-instagram-and-youtube-insights/"><u>Harnessing Engagement on Popular Networks: Facebook, Twitter, Instagram, and YouTube Insights</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-activate-wake-on-lan-in-windows-10-and-11/"><u>How to Activate Wake-on-LAN in Windows 10 and 11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-enter-the-bios-in-windows-11-revouninstaller/"><u>How to Enter the Bios in Windows 11 - RevoUninstaller</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-fix-ssleay32dll-not-found-or-missing-errors/"><u>How to Fix Ssleay32.dll Not Found or Missing Errors</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-get-the-apple-id-verification-code-from-apple-iphone-x-in-the-best-ways-by-drfone-ios/"><u>How To Get the Apple ID Verification Code From Apple iPhone X in the Best Ways</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-xiaomi-redmi-note-12-4g-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Xiaomi Redmi Note 12 4G on Mac?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-samsung-galaxy-f54-5g-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Samsung Galaxy F54 5G</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Xiaomi Redmi 13C | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-oppo-reno-10-proplus-5gmirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Oppo Reno 10 Pro+ 5GMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Oppo Reno 11 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-motorola-edge-40-pro-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Motorola Edge 40 Pro to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-web-based-movie-trailer-creation-platforms/"><u>In 2024, Web-Based Movie Trailer Creation Platforms</u></a></li>
+<li><a href="https://win-forum.techidaily.com/inside-look-how-the-windows-registry-works-according-to-revouninstaller-experts/"><u>Inside Look: How the Windows Registry Works According to RevoUninstaller Experts</u></a></li>
+<li><a href="https://win-forum.techidaily.com/launch-of-revo-uninstaller-pro-version-5-enhanced-system-cleanup/"><u>Launch of Revo Uninstaller Pro Version 5: Enhanced System Cleanup</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-the-art-of-forcing-quit-uncooperative-software-on-windows-11-computers/"><u>Mastering the Art of Forcing Quit Uncooperative Software on Windows 11 Computers</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-giants-of-social-networking-facebook-twitter-instagram-and-youtube-explained/"><u>Navigating the Giants of Social Networking: Facebook, Twitter, Instagram and YouTube Explained</u></a></li>
+<li><a href="https://win-forum.techidaily.com/optimizing-digital-footprint-with-facebook-twitter-instagram-and-youtubing-techniques/"><u>Optimizing Digital Footprint with Facebook, Twitter, Instagram & YouTubing Techniques</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Realme GT Neo 5 | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/quick-guide-forcing-closure-of-unresponsive-programs-in-windows-11/"><u>Quick Guide: Forcing Closure of Unresponsive Programs in Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-solutions-stop-your-mouse-from-wandering-solo/"><u>Quick Solutions: Stop Your Mouse From Wandering Solo</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reinstate-preview-screens-for-files-troubleshoot-on-win-11/"><u>Reinstate Preview Screens for Files – Troubleshoot on Win 11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/social-media-giants-unveiled-facebook-twitter-instagram-and-youtube-for-todays-content-creators/"><u>Social Media Giants Unveiled: Facebook, Twitter, Instagram & YouTube for Today's Content Creators</u></a></li>
+<li><a href="https://win-forum.techidaily.com/social-media-powerhouses-a-guide-to-facebook-twitter-instagram-and-youtube-uses/"><u>Social Media Powerhouses: A Guide to Facebook, Twitter, Instagram, and YouTube Uses</u></a></li>
+<li><a href="https://win-forum.techidaily.com/social-media-titans-explored-insights-into-facebook-twitter-instagram-and-youtube-popularity/"><u>Social Media Titans Explored: Insights Into Facebook, Twitter, Instagram, and YouTube Popularity</u></a></li>
+<li><a href="https://win-forum.techidaily.com/solution-found-troubleshooting-far-cry-6-pc-game-wont-start/"><u>Solution Found: Troubleshooting Far Cry 6 PC Game Won't Start</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-big-four-of-online-social-interaction-facebook-twitter-instagram-and-youtube-explained/"><u>The Big Four of Online Social Interaction: Facebook, Twitter, Instagram & YouTube Explained</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-oneplus-12-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for OnePlus 12 | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/troubleshooting-techniques-eliminating-memory-dumps-on-your-windows-11-pc/"><u>Troubleshooting Techniques: Eliminating Memory Dumps on Your Windows 11 PC</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/ultimate-guide-assessing-vidmas-video-capture-capabilities-for-2024/"><u>Ultimate Guide  Assessing Vidma's Video Capture Capabilities for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/ultimate-tricks-to-boost-boot-speed-on-windows-11-systems/"><u>Ultimate Tricks to Boost Boot Speed on Windows 11 Systems</u></a></li>
+<li><a href="https://win-forum.techidaily.com/unveil-your-windows-11-powershell-version-with-simple-steps-a-comprehensive-guide/"><u>Unveil Your Windows 11 PowerShell Version with Simple Steps – A Comprehensive Guide</u></a></li>
+<li><a href="https://win-forum.techidaily.com/updating-your-pcs-hardware-a-step-by-step-guide-to-refresh-windows-10-drivers/"><u>Updating Your PC's Hardware: A Step-by-Step Guide to Refresh Windows 10 Drivers</u></a></li>
+<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-vivo-s18-pro-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Vivo S18 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/windows-11-installation-hack-overcoming-ineligible-processor-restrictions/"><u>Windows 11 Installation Hack: Overcoming Ineligible Processor Restrictions</u></a></li>
+</ul></div>

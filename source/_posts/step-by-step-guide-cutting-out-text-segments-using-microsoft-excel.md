@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Cutting Out Text Segments Using Microsoft Excel"
-date: 2024-08-28 17:22:42
-updated: 2024-08-29 11:59:41
+date: 2024-08-28T04:29:57.582Z
+updated: 2024-08-29T04:29:57.582Z
 tags:
   - excel
 categories:
@@ -44,6 +44,9 @@ Related: [12 Basic Excel Functions Everybody Should Know](https://visual-screen-
 
 ![Select a cell.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/1-left-select-cell.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
  In your selected cell, type the following function. In this function, replace `B2` with the cell where your full text is and `@` with the search character. The function will retrieve the entire string to the left of this character.
 
  Then press Enter.
@@ -52,12 +55,18 @@ Related: [12 Basic Excel Functions Everybody Should Know](https://visual-screen-
 
 ![Use the LEFT function.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/2-enter-left-function.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Your selected cell will display the result of the function, which is the full text before your specified character in your cell.
 
 ![The result of the LEFT function.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/3-left-function-result.png) 
 
  You're all set.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  Extract the String to the Right of Your Text
 
  To get all the text that's to the right of the specified character in your cell, use Excel's `RIGHT` , `LEN` , and `FIND` functions.
@@ -90,6 +99,10 @@ Related: [13 Essential Excel Functions for Data Entry](https://vimeo-videos.tech
 
 ![Click a cell.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/7-mid-select-cell.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
  In the selected cell, enter the following function. In this function, replace `B2` with the cell where you have the full text, `1` with the position of the character where you want to start the string selection, and `3` with the number of characters you want to extract.
 
  Then press Enter.
@@ -98,10 +111,16 @@ Related: [13 Essential Excel Functions for Data Entry](https://vimeo-videos.tech
 
 ![Enter the MID function.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/8-enter-mid-function.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
  Excel will extract the specified number of characters from the given position in your cell.
 
 ![The result of the MID function.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/9-mid-function-result.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
  And that's all there is to it.
 
 ---
@@ -124,3 +143,65 @@ Related: [How to Count Cells With Text in Microsoft Excel](https://buynow-tips.t
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-achieving-visual-harmony-in-your-fb-videos-with-proper-ratio-adjustments/"><u>[New] Achieving Visual Harmony in Your FB Videos with Proper Ratio Adjustments</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-apples-finest-free-apps-to-perfect-your-selfies/"><u>[New] Apple's Finest FREE Apps to Perfect Your Selfies</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-behind-the-scenes-using-instagrams-virtual-backdrops-for-2024/"><u>[New] Behind-the-Scenes  Using Instagram's Virtual Backdrops for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-dynamic-audio-excellence-best-cameras-microphones-for-2024/"><u>[New] Dynamic Audio Excellence  Best Cameras' Microphones for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-lenssnap-feature-examination/"><u>[New] In 2024, LensSnap Feature Examination</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-infuse-style-in-vids-3-proven-methods-for-instagram-borders/"><u>[Updated] 2024 Approved  Infuse Style in Vids  3 Proven Methods for Instagram Borders</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-pinnacle-7-action-shooter-games/"><u>[Updated] 2024 Approved  Pinnacle 7 Action Shooter Games</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-best-8-subtitle-transformers-seamless-switch-from-sub-to-srtr-in-seconds-on-windowsmacos-for-2024/"><u>[Updated] Best 8 Subtitle Transformers  Seamless Switch From SUB to SRTR in Seconds on Windows/MacOS for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-craft-your-signature-snaps-with-easeful-lens-design-for-2024/"><u>[Updated] Craft Your Signature Snaps with Easeful Lens Design for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-unlocking-the-power-of-zoom-with-your-chrome-os-device/"><u>2024 Approved  Unlocking the Power of Zoom with Your Chrome OS Device</u></a></li>
+<li><a href="https://win-forum.techidaily.com/advanced-file-deletion-techniques-with-command-prompt-for-windows-10-users/"><u>Advanced File Deletion Techniques with Command Prompt for Windows 10 Users</u></a></li>
+<li><a href="https://win-forum.techidaily.com/android-11-features-one-time-permission-revouninstaller/"><u>Android 11 Features: One-Time Permission - RevoUninstaller</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/climb-the-linguistic-ladder-for-workplace-success/"><u>Climb the Linguistic Ladder for Workplace Success</u></a></li>
+<li><a href="https://win-forum.techidaily.com/complete-guide-forcibly-deleting-files-and-folders-in-windows-11-using-revo-uninstaller/"><u>Complete Guide: Forcibly Deleting Files and Folders in Windows 11 Using Revo Uninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/connect-and-engage-on-the-webs-most-popular-sites-a-look-at-facebook-twitter-instagram-and-youtube/"><u>Connect and Engage on the Web's Most Popular Sites: A Look at Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/connecting-the-dots-in-digital-networking-through-facebook-twitter-instagram-and-youtube/"><u>Connecting the Dots in Digital Networking Through Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/connecting-the-world-online-through-major-platforms-facebook-twitter-instagram-and-youtube/"><u>Connecting the World Online Through Major Platforms - Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/design-guide-youtube-banners-and-thumbnail-creation/"><u>Design Guide  YouTube Banners & Thumbnail Creation</u></a></li>
+<li><a href="https://win-forum.techidaily.com/determining-your-current-windows-11-powershell-version-a-comprehensive-guide/"><u>Determining Your Current Windows 11 PowerShell Version: A Comprehensive Guide</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/effective-remedies-for-preventing-left-4-dead-2-software-failures-and-crashes/"><u>Effective Remedies for Preventing Left 4 Dead 2 Software Failures and Crashes</u></a></li>
+<li><a href="https://win-forum.techidaily.com/expert-advice-eliminating-unwanted-memory-dump-files-on-your-pc/"><u>Expert Advice: Eliminating Unwanted Memory Dump Files on Your PC</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-the-giants-of-online-engagement-facebook-twitter-instagram-and-youtube/"><u>Exploring the Giants of Online Engagement: Facebook, Twitter, Instagram and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/1722915371234-exploring-the-giants-of-social-networking-facebook-twitter-instagram-and-youtube/"><u>Exploring the Giants of Social Networking: Facebook, Twitter, Instagram and YouTube</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-infinix-hot-30-5g-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Infinix Hot 30 5G without App | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-comprehensive-checkup-vlle-for-app-health/"><u>In 2024, Comprehensive Checkup  VLLE for App Health</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-master-iphone-and-ipad-best-free-video-editors-guide/"><u>In 2024, Master iPhone & iPad  Best Free Video Editors Guide</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-the-comprehensible-guide-to-augmented-snap-editing/"><u>In 2024, The Comprehensible Guide to Augmented Snap Editing</u></a></li>
+<li><a href="https://win-forum.techidaily.com/master-the-art-of-windows-11-driver-updates-with-revouninstaller/"><u>Master the Art of Windows 11 Driver Updates with RevoUninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-social-media-engagement-across-major-platforms-facebook-twitter-instagram-and-youtube/"><u>Mastering Social Media Engagement Across Major Platforms: Facebook, Twitter, Instagram and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-the-art-of-driver-updates-for-windows-10-devices-with-revouninstaller/"><u>Mastering the Art of Driver Updates for Windows 10 Devices with RevoUninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-the-social-sphere-with-facebook-twitter-instagram-and-youtube/"><u>Mastering the Social Sphere with Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-social-media-giants-facebook-twitter-instagram-and-youtube/"><u>Navigating the Social Media Giants: Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-cut-merge-repeat-the-5-best-free-online-video-merging-tools-you-should-know/"><u>New In 2024, Cut, Merge, Repeat The 5 Best Free Online Video Merging Tools You Should Know</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/nozzle-clog-in-hp-printer-cleared-successfully/"><u>Nozzle Clog in HP Printer Cleared Successfully</u></a></li>
+<li><a href="https://win-forum.techidaily.com/overcoming-the-issue-of-apps-not-launching-on-your-computer-expert-tips-and-solutions/"><u>Overcoming the Issue of Apps Not Launching on Your Computer: Expert Tips & Solutions</u></a></li>
+<li><a href="https://win-forum.techidaily.com/remove-unwanted-online-trackers-a-complete-walkthrough-for-windows-11android-users/"><u>Remove Unwanted Online Trackers: A Complete Walkthrough for Windows 11/Android Users</u></a></li>
+<li><a href="https://win-forum.techidaily.com/say-goodbye-to-clutter-with-revo-uninstaller-pros-version-5-enhanced-features/"><u>Say Goodbye to Clutter with Revo Uninstaller Pro's Version 5 Enhanced Features</u></a></li>
+<li><a href="https://win-forum.techidaily.com/social-giants-of-the-internet-era-exploring-facebook-twitter-instagram-and-youtube/"><u>Social Giants of the Internet Era - Exploring Facebook, Twitter, Instagram, and Youtube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/social-media-titans-harnessing-the-power-of-facebook-twitter-instagram-and-youtube-for-your-brand/"><u>Social Media Titans: Harnessing the Power of Facebook, Twitter, Instagram & YouTube for Your Brand</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-on-removing-or-disabling-the-latest-windows-11-update/"><u>Step-by-Step Guide on Removing or Disabling the Latest Windows 11 Update</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-removing-hidden-applications-from-your-pc-without-using-control-panel/"><u>Step-by-Step Guide: Removing Hidden Applications From Your PC Without Using Control Panel</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-process-to-immediately-end-frozen-windows-programs-using-revouninstaller/"><u>Step-by-Step Process to Immediately End Frozen Windows Programs Using RevoUninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/tackling-complete-disk-use-in-windows-11-expert-solutions-and-tips/"><u>Tackling Complete Disk Use in Windows 11: Expert Solutions and Tips</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-lackluster-reality-behind-godfalls-introduction-as-a-ps5-original/"><u>The Lackluster Reality Behind Godfall's Introduction as a PS5 Original</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-online-monetization-mission-youtube-to-your-bank-for-2024/"><u>The Online Monetization Mission  YouTube to Your Bank for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-power-of-online-influence-understanding-facebook-twitter-instagram-and-youtube/"><u>The Power of Online Influence: Understanding Facebook, Twitter, Instagram and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-powerhouse-quartet-of-online-interaction-facebook-twitter-insta-grams-and-youtubes-explained/"><u>The Powerhouse Quartet of Online Interaction: Facebook, Twitter, Insta-Grams & Youtubes Explained</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-quintessential-social-hubs-unveiling-facebook-twitter-instagram-and-youtubes-powerful-influence/"><u>The Quintessential Social Hubs: Unveiling Facebook, Twitter, Instagram & Youtube's Powerful Influence</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-revolutionary-role-of-ai-in-reshaping-todays-world/"><u>The Revolutionary Role of AI in Reshaping Today's World</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-ultimate-walkthrough-on-how-to-rollback-a-windows-11-patch/"><u>The Ultimate Walkthrough on How to Rollback a Windows 11 Patch</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-social-platforms-compared-facebook-vs-twitter-vs-instagram-vs-youtube/"><u>Top Social Platforms Compared: Facebook Vs. Twitter Vs. Instagram Vs. YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/ultimate-guide-secure-file-deletion-on-windows-11/"><u>Ultimate Guide: Secure File Deletion on Windows 11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/ultimate-protection-safeguarding-your-text-files-with-password-encryption-techniques/"><u>Ultimate Protection: Safeguarding Your Text Files with Password Encryption Techniques</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-the-potential-of-llama-2-tips-for-utilizing-this-advanced-ai/"><u>Understanding the Potential of Llama 2 - Tips for Utilizing This Advanced AI</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-power-and-performance-of-the-brand-new-cycwagen-e-cargo-bicycle/"><u>Unveiling the Power and Performance of the Brand-New CycWagen E-Cargo Bicycle</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-never-miss-a-moment-with-free-world-cup-live-streaming/"><u>Updated In 2024, Never Miss a Moment With Free World Cup Live Streaming</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-remove-filmora-stamp-a-comprehensive-guide-for-free-and-paid-users/"><u>Updated In 2024, Remove Filmora Stamp A Comprehensive Guide for Free and Paid Users</u></a></li>
+</ul></div>
