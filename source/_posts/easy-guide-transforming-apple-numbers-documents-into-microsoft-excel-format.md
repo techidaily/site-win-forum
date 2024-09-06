@@ -1,7 +1,7 @@
 ---
 title: "Easy Guide: Transforming Apple Numbers Documents Into Microsoft Excel Format"
-date: 2024-08-28T04:29:01.390Z
-updated: 2024-08-29T04:29:01.390Z
+date: 2024-09-05T07:55:56.271Z
+updated: 2024-09-06T07:55:56.271Z
 tags:
   - excel
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/cf7a08bd282de8a6ab97b6e5d5d8ca10a7266e7f855e68e8c2f62606a22410cc.jpeg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Easy Guide: Transforming Apple Numbers Documents Into Microsoft Excel Format
 
 ### Quick Links
@@ -31,6 +37,12 @@ Related: [How to Insert Data from a Picture in Microsoft Excel for Mac](https://
 
 ![Select File, Export to, Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/FileExportToExcel-NumbersToExcel.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  When the Export Your Sheet window appears, you can adjust a few options before you convert the workbook.
 
 ![Export Your Sheet window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/ExportYourSheet-NumbersToExcel.png) 
@@ -39,23 +51,55 @@ Related: [How to Insert Data from a Picture in Microsoft Excel for Mac](https://
 
 ![Summary sheet in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/Summary-NumbersToExcel.png) 
 
+<!-- affiliate ads begin -->
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Require Password to Open**: If the workbook contains sensitive data, you can [password-protect it](https://smart-video-creator.techidaily.com/updated-2024-approved-premiere-pro-performance-optimization-tips-for-a-faster-workflow/) and provide your recipient with that password. Set the password, verify it, and optionally include a hint.
 
 ![Password, Verify, and Hint](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/RequirePassword-NumbersToExcel.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2024347/7443" target="_top" id="2024347">
+  <img src="//a.impactradius-go.com/display-ad/7443-2024347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024347/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Advanced Options**: You can export the sheet in either XLSX or XLS format depending on the version of Excel your recipient uses. XLS covers older versions of Excel.
 
  When you finish, click "Next."
 
 ![Excel file format selection](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/ExportSheet-NumbersToExcel.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Then, give your file a name, select a location to save it, and click "Export."
 
 ![Export Numbers to Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/Export-NumbersToExcel.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Convert Numbers to Excel Using iCloud
 
@@ -67,20 +111,26 @@ Related: [What Is Apple's iCloud and What Does It Back Up?](https://facebook-vid
 
 ![Select Numbers on iCloud](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/iCloudNumbers-NumbersToExcel.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
  At the top, click the Upload button which is the cloud with the up arrow.
 
 ![Upload a document on iCloud](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/iCloudUpload-NumbersToExcel.png) 
 
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Browse for, select your file, and click "Open."
 
 ![Open the file](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/iCloudOpenFile-NumbersToExcel.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
  You'll then see your file uploaded to iCloud. To view and edit the file online, simply double-click to open it.
 
 ![Numbers file on iCloud](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/iCloudWorkbook-NumbersToExcel.png) 
@@ -93,9 +143,6 @@ Related: [What Is Apple's iCloud and What Does It Back Up?](https://facebook-vid
 
 ![Download as Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/iCloudExcel-NumbersToExcel.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ##  Convert Numbers to Excel Using a File Converter
 
  If you aren't a Mac user and don't have or desire to have an iCloud account, you can convert Numbers to Excel using an online [file converter](https://discord-videos.techidaily.com/in-2024-discord-spoiler-tag-all-you-need-to-know/). There are many free options out there; one popular converter is [CloudConvert](https://cloudconvert.com).
@@ -106,20 +153,32 @@ Related: [The Best Free Video Converters](https://discord-videos.techidaily.com/
 
 ![Select the file location on CloudConvert](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/CloudConvertSelect-NumbersToExcel.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Once your file uploads, you can use the format drop-down box to choose XLS or XLSX. Click "Convert" when you're ready.
 
 ![Choose the file type](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/CloudConvertFormat-NumbersToExcel.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  After the file is converted, you'll see "Finished" and click "Download" to obtain your Excel file.
 
 ![Download the converted file](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/CloudConvertDownload-NumbersToExcel.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can convert up to 25 files per day for free with CloudConvert and without signing up. If you have more than 25 files, you can check out [CloudConvert's packages and subscription plans](https://cloudconvert.com/pricing).
 
  Most online file converters work similarly to CloudConvert. So, if you have a different site you prefer, simply look through the menu for the option to convert Numbers to Excel.

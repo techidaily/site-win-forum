@@ -1,7 +1,7 @@
 ---
 title: Dual Monitor Workbook Management in Microsoft Excel 2013
-date: 2024-08-28T04:29:00.377Z
-updated: 2024-08-29T04:29:00.377Z
+date: 2024-09-05T07:55:56.250Z
+updated: 2024-09-06T07:55:56.250Z
 tags:
   - excel
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2013/04/00_lead_image_two_spreadsheets_side_by_side.png
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Dual Monitor Workbook Management in Microsoft Excel 2013
 
 Previous versions of Excel have had an option for viewing two spreadsheets side-by-side. However, Excel 2013 now makes it easier by allowing you to snap each spreadsheet (opened in separate windows) to each side of the screen.
@@ -17,14 +23,32 @@ Previous versions of Excel have had an option for viewing two spreadsheets side-
 
 ![01_dragging_worksheet_to_side_of_screen](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2013/04/01_dragging_worksheet_to_side_of_screen.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  You can also use the View Side by Side option, which is still available on the View tab in the Window section.
 
 ![02_selecting_view_side_by_side](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2013/04/02_selecting_view_side_by_side.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  By default, the View Side by Side option displays the two spreadsheet windows horizontally.
 
 ![03_viewing_horizontally](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2013/04/03_viewing_horizontally.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  To change the view, click Arrange All in the Window section of the View tab.
 
 ![04_selecting_arrange_all](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2013/04/04_selecting_arrange_all.png) 
@@ -33,10 +57,34 @@ Previous versions of Excel have had an option for viewing two spreadsheets side-
 
 ![05_arrange_windows_dialog](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2013/04/05_arrange_windows_dialog.png) 
 
+<!-- affiliate ads begin -->
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Tiled does the same thing as Vertical when there are two spreadsheet windows open. If you have more than two spreadsheets open, Tiled will arrange them as tiles on the screen some horizontally, some vertically, depending on how many are open.
 
 ![06_tiled_windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2013/04/06_tiled_windows.png) 
 
+<!-- affiliate ads begin -->
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Cascade displays the spreadsheet windows with the title bars cascaded down the screen.
 
 ![07_cascaded_windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2013/04/07_cascaded_windows.png) 
@@ -133,7 +181,3 @@ Previous versions of Excel have had an option for viewing two spreadsheets side-
 <li><a href="https://win-forum.techidaily.com/waking-up-pcs-from-afar-learn-to-enable-wake-n-shine-in-windows-10-and-11/"><u>Waking Up PCs From Afar? Learn to Enable Wake-N-Shine in Windows 10 & 11</u></a></li>
 <li><a href="https://win-forum.techidaily.com/why-cant-i-open-my-application-diagnosing-and-repairing-launch-errors-on-a-pc/"><u>Why Can't I Open My Application? Diagnosing and Repairing Launch Errors on a PC</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->

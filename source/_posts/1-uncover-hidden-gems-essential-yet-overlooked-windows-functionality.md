@@ -1,7 +1,7 @@
 ---
 title: "1. Uncover Hidden Gems: Essential Yet Overlooked Windows Functionality"
-date: 2024-08-28T04:27:56.457Z
-updated: 2024-08-29T04:27:56.457Z
+date: 2024-09-05T07:55:55.247Z
+updated: 2024-09-06T07:55:55.247Z
 tags:
   - windows
 categories:
@@ -11,6 +11,12 @@ thumbnail: https://thmb.techidaily.com/7031118575fc7c4b871e9bc0318e22904e8a5da64
 
 ## 1. Uncover Hidden Gems: Essential Yet Overlooked Windows Functionality
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [Adjust the Volume of Individual Apps](https://extra-hints.techidaily.com/in-2024-budget-friendly-tips-for-acquiring-high-end-gopros/)
@@ -22,6 +28,12 @@ thumbnail: https://thmb.techidaily.com/7031118575fc7c4b871e9bc0318e22904e8a5da64
 
  Did you know you can natively adjust the volume of individual apps, minimize blue light emissions, and make Windows automatically lock your screen when you move away? These are some lesser-known Windows features that you might not have explored before. Let’s look at how you can use these features.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Adjust the Volume of Individual Apps
 
  Windows allows you to [adjust the volume of individual apps](https://youtube-data.techidaily.com/24517605-new-2024-approved-buy-subscribers-wisely-watch-your-numbers-soar/), a feature that many users rely on third-party apps like EarTrumpet for. You can manage the volume of individual apps by opening the Volume Mixer from the system tray or through the Settings app.
@@ -30,14 +42,44 @@ thumbnail: https://thmb.techidaily.com/7031118575fc7c4b871e9bc0318e22904e8a5da64
 
 ![Opening volume mixer from Windows system tray.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/1-opening-volume-mixer-from-windows-system-tray.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Alternatively, click the sound button in the system tray, then click on the Select a Sound Output button.
 
 ![sound button](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/sound-button.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  In the next window, scroll down to find the volume mixer.
 
 ![Accessing volume mixer from the sound menu in the system tray.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/accessing-volume-mixer-from-the-sound-menu-in-the-system-tray.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  You can also open this window directly by using the shortcut Win+Ctrl+V. Then, scroll down to adjust the volume of individual apps.
 
  To directly open the Volume Mixer from the Settings app, open Settings, navigate to System > Sound, and click on "Volume Mixer." In the Volume Mixer, you'll see sliders to adjust the volume of each open app that produces sound. You can move these sliders right or left to adjust the volume or mute individual apps by clicking on the speaker icon beside each slider.
@@ -45,7 +87,10 @@ thumbnail: https://thmb.techidaily.com/7031118575fc7c4b871e9bc0318e22904e8a5da64
 ![Adjusting the volume and muting an app in Volume Mixer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/2-adjusting-the-volume-and-muting-an-app-in-volume-mixer.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Minimize the Blue Light Emission
 
@@ -57,9 +102,6 @@ thumbnail: https://thmb.techidaily.com/7031118575fc7c4b871e9bc0318e22904e8a5da64
 
 ![Changing the night light feature settings in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/3-changing-the-night-light-feature-settings-in-the-windows-settings-app.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Automatically Lock Your Screen When You Move Away
 
  If you work in an office environment and often leave your laptop unattended, you’ll love the [Dynamic Lock feature](https://extra-lessons.techidaily.com/a-critical-look-at-huawei-p10-for-photography-enthusiasts-for-2024/). This feature pairs your smartphone with your laptop, and whenever your paired smartphone moves out of range, the laptop notices and locks your screen in less than 30 seconds.
@@ -69,18 +111,15 @@ thumbnail: https://thmb.techidaily.com/7031118575fc7c4b871e9bc0318e22904e8a5da64
 ![Pair a device via Bluetooth in the Windows settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/4-pair-a-device-via-bluetooth-in-the-windows-settings-app.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Once paired, select the “Accounts” tab on the left, go to “Sign-In Options,” scroll down and expand the “Dynamic Lock” section, and check the box next to “Allow Windows to lock your device automatically when you're away.” Now, whenever your smartphone moves out of range (typically 30 feet), your laptop will automatically lock.
 
 ![Setting up the dynamic lock feature in the Windows Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/5-setting-up-the-dynamic-lock-feature-in-the-windows-settings.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ##  Automate Tasks With Task Scheduler
 
  Task Scheduler is a useful but often overlooked utility in Windows. It allows you to [schedule tasks to run at specific times or in response to certain events](https://fox-direct.techidaily.com/updated-banish-the-chaos-strategies-to-refine-overwhelming-tiktok-drafts/), helping you automate routine tasks, improve efficiency, and save time. You can define one or more triggers and specify the action that Windows needs to take when the triggers are activated.
@@ -95,6 +134,18 @@ thumbnail: https://thmb.techidaily.com/7031118575fc7c4b871e9bc0318e22904e8a5da64
 
 ![Defining conditions for a task in Task Scheduler.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/7-defining-conditions-for-a-task-in-task-scheduler.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Share Content Between Two Windows PCs
 
  While we usually have [various options to share files between a PC and a smartphone](https://on-screen-recording.techidaily.com/new-in-2024-home-sweet-habitat-6-basic-mc-dwellings-demystified/), things get a bit complicated when sharing content between two PCs. If both computers run Windows, and they both have a Bluetooth _and_ Wi-Fi connection, you can use the Nearby Sharing feature for a seamless file transfer. To use this feature, enable the feature on both PCs and ensure they are connected to the internet.
@@ -105,6 +156,12 @@ thumbnail: https://thmb.techidaily.com/7031118575fc7c4b871e9bc0318e22904e8a5da64
 
 ![Enabling Nearby Sharing in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/8-enabling-nearby-sharing-in-the-windows-settings-app.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  With Nearby Sharing enabled, right-click the file you want to share and select “Share.” In the Nearby Sharing window, choose the target laptop. The recipient will receive a notification to accept the file. Once they accept the file transfer notification, they will receive the file wirelessly.
 
 ##  Capture Screenshots and Record the Screen Using the Game Bar
@@ -115,9 +172,6 @@ thumbnail: https://thmb.techidaily.com/7031118575fc7c4b871e9bc0318e22904e8a5da64
 
 ![Recording a screen with the Game Bar in Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/9-recording-a-screen-with-the-game-bar-in-windows.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
  The downside is that you can't annotate screenshots and videos, crop screenshots, clip recordings, or screen record in File Explorer and on the desktop.
 
 ---

@@ -1,7 +1,7 @@
 ---
 title: Master the Art of Converting Table Rows to Columns with These Microsoft Word Tips and Tricks
-date: 2024-08-28T04:29:15.389Z
-updated: 2024-08-29T04:29:15.389Z
+date: 2024-09-05T07:55:56.524Z
+updated: 2024-09-06T07:55:56.524Z
 tags:
   - excel
 categories:
@@ -9,6 +9,18 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/06/00_lead_image_transpose_word_table.png
 ---
 
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Master the Art of Converting Table Rows to Columns with These Microsoft Word Tips and Tricks
 
 You've created a table in Word and started to enter your data. Then, you realize that the table should be transposed, meaning the rows should be columns and vice versa. Rather than recreating the table and manually entering the data again, there's an easier way to do this.
@@ -21,18 +33,60 @@ Related: [How to Convert a Row to a Column in Excel the Easy Way](https://some-s
 
 ![02_copying_selected_table](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/06/02_copying_selected_table.png) 
 
+<!-- affiliate ads begin -->
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Open Excel and place the cursor in a blank cell on the worksheet. Press Ctrl+V to paste the table at the cursor. The pasted cells are automatically selected. Now, [transpose the rows and columns using Excel's Transpose feature as described here](https://some-skills.techidaily.com/updated-transition-to-hdr-a-step-forward-in-high-quality-video/).
 
 ![03_table_pasted_into_excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/06/03_table_pasted_into_excel.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Once you've transposed the rows and columns, the cells are automatically selected again. Press Ctrl+C to copy the selected cells.
 
 ![04_table_copied_in_excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/06/04_table_copied_in_excel.png) 
 
+<!-- affiliate ads begin -->
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Go back to your Word document, place the cursor where you want the table, and press Ctrl+V to paste the transposed table. The rows are now columns and the columns are rows.
 
 ![05_transposed_table_pasted_in_word](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/06/05_transposed_table_pasted_in_word.png) 
 
+<!-- affiliate ads begin -->
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  You may find that your text is not aligned or formatted the way you want. For example, in our transposed table, the row headings were centered and the column headings were left aligned after we transposed the table. That's because the formatting from the original row and column headings was preserved. However, reformatting the transposed table is easier than retyping all your data.
 
 <ins class="adsbygoogle"
@@ -103,7 +157,3 @@ Related: [How to Convert a Row to a Column in Excel the Easy Way](https://some-s
 <li><a href="https://win-forum.techidaily.com/top-social-platforms-compared-facebook-vs-twitter-vs-instagram-vs-youtube/"><u>Top Social Platforms Compared: Facebook Vs. Twitter Vs. Instagram Vs. YouTube</u></a></li>
 <li><a href="https://win-forum.techidaily.com/ultimate-protection-safeguarding-your-text-files-with-password-encryption-techniques/"><u>Ultimate Protection: Safeguarding Your Text Files with Password Encryption Techniques</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

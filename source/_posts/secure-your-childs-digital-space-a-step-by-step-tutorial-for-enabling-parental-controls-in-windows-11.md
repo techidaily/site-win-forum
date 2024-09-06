@@ -1,7 +1,7 @@
 ---
 title: "Secure Your Child's Digital Space: A Step-by-Step Tutorial for Enabling Parental Controls in Windows 11"
-date: 2024-08-28T04:28:18.495Z
-updated: 2024-08-29T04:28:18.495Z
+date: 2024-09-05T07:55:55.586Z
+updated: 2024-09-06T07:55:55.586Z
 tags:
   - windows
 categories:
@@ -9,8 +9,20 @@ categories:
 thumbnail: https://thmb.techidaily.com/35506a9c5eeb39965a6739f4255f2a7fd3073f2c89e35224944b9c79ce0abec8.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Secure Your Child's Digital Space: A Step-by-Step Tutorial for Enabling Parental Controls in Windows 11
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [How to Set Up a Child Account](https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-xiaomi-14-to-enjoy-more-fun-drfone-by-drfone-virtual-android/)
@@ -26,9 +38,6 @@ thumbnail: https://thmb.techidaily.com/35506a9c5eeb39965a6739f4255f2a7fd3073f2c8
 
  Parental controls help you monitor or limit your child's activity on their Windows PC. That way, you can stop them from gaming too much or visiting harmful websites. You can set these limits in the Family app on Windows 11.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ##  How to Set Up a Child Account
 
  To limit a child's device, you need to add their Microsoft account to your Microsoft Family group in the Settings app. If the child doesn't have a Microsoft account, you can create one for them.
@@ -39,12 +48,30 @@ thumbnail: https://thmb.techidaily.com/35506a9c5eeb39965a6739f4255f2a7fd3073f2c8
 
 ![Adding someone to "Your Family" in the Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/add-family-windows.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  In the window that appears, click the "Create One for Child" link.
 
 ![Add someone to Microsoft Families.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/add-someone-to-family.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Then, follow the instructions to set up a new Microsoft account for your child. You will create an Outlook email and password for them during these steps.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  How to Link a Child's Account to a Windows Device
 
  To make the Family app to show the child's device, link their Microsoft account to their Windows user profile. They shouldn't be using a local account.
@@ -53,9 +80,6 @@ thumbnail: https://thmb.techidaily.com/35506a9c5eeb39965a6739f4255f2a7fd3073f2c8
 
 ![The link to sign in with Microsoft account in Windows 11's settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/screenshot_2.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
  Then, enter the child's Microsoft account details to sign in and link it with their Windows device.
 
  If the child uses another PC with a local account, you'll need to sign in with their Microsoft account there, too. If they don't have an account on that PC, you can easily create one and then link the Microsoft account to it.
@@ -64,9 +88,6 @@ thumbnail: https://thmb.techidaily.com/35506a9c5eeb39965a6739f4255f2a7fd3073f2c8
 
 ![Adding a new user account on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/adding-user-windows-11.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
  Then, follow the instructions to sign in to the child's Microsoft account.
 
  To complete the link, open the Family app while you're logged into your child's Windows account. To do that, press Win + S to open Windows Search. Enter **Family** in the Search box, and then click the Family app in the search results to launch it.
@@ -86,7 +107,10 @@ thumbnail: https://thmb.techidaily.com/35506a9c5eeb39965a6739f4255f2a7fd3073f2c8
 ![Turning on device limits in the Family app on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/turning-on-device-limits-windows-11-2.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  You'll see a schedule appear after you turn on the limits, which allows you to set usage limits on any day of the week.
 
@@ -100,14 +124,19 @@ thumbnail: https://thmb.techidaily.com/35506a9c5eeb39965a6739f4255f2a7fd3073f2c8
 
 ![Setting screen time limits on a device in the Family app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/setting-limit-windows-devices-family-app.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  You can use the dropdown in this window to control days individually. Alternatively, you can set it to "Every Day" and adjust the screen times for all the days simultaneously. When finished, click "Done" to apply the limits to the child's Windows device.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ###  Limiting Apps and Games
 
@@ -119,21 +148,24 @@ No advertising on the website.
 
 ![Setting limits on an app on Windows 11 in the Family app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/block-app-windows-family-app-2.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
  Blocking the app will prevent the child from using it. But if you choose "Set Limits," you can adjust the active times and available times.
 
 ![Setting app and game limits on Windows 11 in the Family app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/screenshot_110.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  And when you're finished, click "Done" to apply the changes and limit the app.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  Blocking Websites
 
  When you block websites in the Family app, the only browser these restrictions apply to is Microsoft Edge. However, that is not a problem since enabling the limits blocks access to all other browsers. 
@@ -142,6 +174,12 @@ No advertising on the website.
 
 ![Turning on activity reporting for Microsoft Edge in the Family app on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/turn-on-activity-reporting.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Then, scroll down and turn on the "Filter Inappropriate Websites and Searches" toggle.
 
 ![Turning on the toggle to filter websites in the Family app on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/turn-on-edge-filter-settings-family-app-windows.jpg) 
@@ -153,13 +191,19 @@ No advertising on the website.
 ![Adding websites to block in the Family app on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/block-websites-family-app-windows-1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  The child won't be able to access that website now. You can repeat these steps to add as many sites as you want.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ##  Managing Account Settings
 
  You can also apply more restrictions to the child's device by managing their account settings. To access them, click "Settings" in the top right.
@@ -171,7 +215,10 @@ No advertising on the website.
 ![The account settings of a child's account in the Family app on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/child-account-settings-family-app-windows.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Afterward, click "Done" to save the changes you've made.
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastering Linear Calibration in Excel: A Comprehensive Tutorial"
-date: 2024-08-28T04:29:20.094Z
-updated: 2024-08-29T04:29:20.094Z
+date: 2024-09-05T07:55:56.617Z
+updated: 2024-09-06T07:55:56.617Z
 tags:
   - excel
 categories:
@@ -9,6 +9,18 @@ categories:
 thumbnail: https://thmb.techidaily.com/e24af9d0b47d7bf3dcde61ab73ef441dcda155d4ef5a243e1a2546d643282d46.jpg
 ---
 
+<!-- affiliate ads begin -->
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Mastering Linear Calibration in Excel: A Comprehensive Tutorial
 
 ### Quick Links
@@ -20,6 +32,12 @@ thumbnail: https://thmb.techidaily.com/e24af9d0b47d7bf3dcde61ab73ef441dcda155d4e
 
  In this article, we'll look at how to use Excel to create a chart, plot a linear calibration curve, display the calibration curve's formula, and then set up simple formulas with the SLOPE and INTERCEPT functions to use the calibration equation in Excel.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  What is a Calibration Curve and How is Excel Useful When Creating One?
 
  To perform a calibration, you compare the readings of a device (like the temperature that a thermometer displays) to known values called standards (like the freezing and boiling points of water). This lets you create a series of data pairs that you'll then use to develop a calibration curve.
@@ -30,6 +48,12 @@ thumbnail: https://thmb.techidaily.com/e24af9d0b47d7bf3dcde61ab73ef441dcda155d4e
 
  Excel has features that allow you to plot the data pairs graphically in a chart, add a trendline (calibration curve), and display the calibration curve's equation on the chart. This is useful for a visual display, but you can also calculate the formula of the line using Excel's SLOPE and INTERCEPT functions. When you enter these values into simple formulas, you will be able to automatically calculate the "true" value based on any measurement.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Let's Look at an Example
 
  For this example, we will develop a calibration curve from a series of ten data pairs, each consisting of an X-value and a Y-value. The X-values will be our "standards," and they could represent anything from the concentration of a chemical solution we are measuring using a scientific instrument to the input variable of a program that controls a marble launching machine.
@@ -39,7 +63,10 @@ thumbnail: https://thmb.techidaily.com/e24af9d0b47d7bf3dcde61ab73ef441dcda155d4e
  After we graphically depict the calibration curve, we will use the SLOPE and INTERCEPT functions to calculate the calibration line's formula and determine the concentration of an "unknown" chemical solution based on the instrument's reading or decide what input we should give the program so that the marble lands a certain distance away from the launcher.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ###  Step One: Create Your Chart
 
@@ -47,18 +74,12 @@ thumbnail: https://thmb.techidaily.com/e24af9d0b47d7bf3dcde61ab73ef441dcda155d4e
 
 ![creating an x-value and y-value column](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/12/Excel-Calibration-Curve-01.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Let's start by selecting the data to plot in the chart.
 
  First, select the 'X-Value' column cells.
 
 ![select the x-value column](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/12/Excel-Calibration-Curve-02.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Now press the Ctrl key and then click the Y-Value column cells.
 
 ![hold Ctrl while clicking the Y-value column](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/12/Excel-Calibration-Curve-03.png) 
@@ -68,25 +89,46 @@ thumbnail: https://thmb.techidaily.com/e24af9d0b47d7bf3dcde61ab73ef441dcda155d4e
 ![insert tab](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/12/Excel-Calibration-Curve-04.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Navigate to the "Charts" menu and select the first option in the "Scatter" drop-down.
 
 ![choose charts &gt; scatter](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/12/Excel-Calibration-Curve-05.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  A chart will appear containing the data points from the two columns.
 
 ![the chart appears](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/12/Excel-Calibration-Curve-06.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2030370/7443" target="_top" id="2030370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2030370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Select the series by clicking on one of the blue points. Once selected, Excel outlines the points will be outlined.
 
 ![select the data points](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/12/Excel-Calibration-Curve-07.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Right-click one of the points and then select the "Add Trendline" option.
 
@@ -96,10 +138,28 @@ thumbnail: https://thmb.techidaily.com/e24af9d0b47d7bf3dcde61ab73ef441dcda155d4e
 
 ![the trendline now displays on the chart](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/12/Excel-Calibration-Curve-09.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  On the right side of the screen, the "Format Trendline" menu will appear. Check the boxes next to "Display Equation on chart" and "Display R-squared value on chart." The R-squared value is a statistic that tells you how closely the line fits the data. The best R-squared value is 1.000, which means every data point touches the line. As the differences between the data points and the line grow, the r-squared value drops, with 0.000 being the lowest possible value.
 
 ![the format trendline pane](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/12/Excel-Calibration-Curve-10.png) 
 
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The equation and R-squared statistic of the trendline will appear on the chart. Note that the correlation of the data is very good in our example, with an R-squared value of 0.988.
 
  The equation is in the form "Y = Mx + B," where M is the slope and B is the y-axis intercept of the straight line.
@@ -116,9 +176,6 @@ thumbnail: https://thmb.techidaily.com/e24af9d0b47d7bf3dcde61ab73ef441dcda155d4e
 
 ![the new titles appears on the chart](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/12/Excel-Calibration-Curve-13.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
  To add titles to the x-axis and y-axis, first, navigate to Chart Tools > Design.
 
 ![head to chart tools &gt; design](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/12/Excel-Calibration-Curve-14.png) 
@@ -127,15 +184,16 @@ thumbnail: https://thmb.techidaily.com/e24af9d0b47d7bf3dcde61ab73ef441dcda155d4e
 
 ![click the add chart element button](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/12/Excel-Calibration-Curve-15.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Now, navigate to Axis Titles > Primary Horizontal.
 
 ![head to axis tools &gt; primary horizontal](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/12/Excel-Calibration-Curve-16.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
  An axis title will appear.
 
 ![the axis title appears](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/12/Excel-Calibration-Curve-17.png) 
@@ -144,9 +202,6 @@ The powerful video editing program for your Windows PC</a>
 
 ![changing the axis title](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/12/Excel-Calibration-Curve-18.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Now, head to Axis Titles > Primary Vertical.
 
 ![adding a primary vertical axis title](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/12/Excel-Calibration-Curve-19.png) 
@@ -159,18 +214,21 @@ The powerful video editing program for your Windows PC</a>
 
 ![renaming the axis title](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/12/Excel-Calibration-Curve-21.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Your chart is now complete.
 
 ![viewing the complete chart](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/12/Excel-Calibration-Curve-22.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ###  Step Two: Calculate the Line Equation and R-Squared Statistic
 
@@ -182,21 +240,42 @@ The powerful video editing program for your Windows PC</a>
 
 ![select the cell for the slope data](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/12/Excel-Calibration-Curve-23.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Navigate to Formulas > More Functions > Statistical > SLOPE.
 
 ![Navigate to Formulas &gt; More Functions &gt; Statistical &gt; SLOPE](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/12/Excel-Calibration-Curve-24.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
  The Function Arguments window pops up. In the "Known\_ys" field, select or type in the Y-Value column cells.
 
 ![select or type in the Y-Value column cells](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/12/Excel-Calibration-Curve-25.png) 
 
+<!-- affiliate ads begin -->
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  In the "Known\_xs" field, select or type in the X-Value column cells. The order of the 'Known\_ys' and 'Known\_xs' fields matters in the SLOPE function.
 
 ![select or type in the X-Value column cells](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/12/Excel-Calibration-Curve-26.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Click "OK." The final formula in the formula bar should look like this:
 
         `=SLOPE(C3:C12,B3:B12)`
@@ -205,27 +284,24 @@ The powerful video editing program for your Windows PC</a>
 
 ![slope value displayed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/12/Excel-Calibration-Curve-27.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Next, select cell B15 and then navigate to Formulas > More Functions > Statistical > INTERCEPT.
 
 ![navigate to Formulas &gt; More Functions &gt; Statistical &gt; INTERCEPT](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/12/Excel-Calibration-Curve-28.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The Function Arguments window pops up. Select or type in the Y-Value column cells for the "Known\_ys" field.
 
 ![Select or type in the Y-Value column cells](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/12/Excel-Calibration-Curve-29.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
  Select or type in the X-Value column cells for the "Known\_xs" field. The order of the 'Known\_ys' and 'Known\_xs' fields also matters in the INTERCEPT function.
 
 ![Select or type in the X-Value column cells](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/12/Excel-Calibration-Curve-30.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
  Click "OK." The final formula in the formula bar should look like this:
 
         `=INTERCEPT(C3:C12,B3:B12)`
@@ -234,6 +310,12 @@ The powerful video editing program for your Windows PC</a>
 
 ![showing the intercept function](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/12/Excel-Calibration-Curve-31.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Next, select cell C15 and navigate to Formulas > More Functions > Statistical > CORREL.
 
 ![navigate to Formulas &gt; More Functions &gt; Statistical &gt; CORREL](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/12/Excel-Calibration-Curve-32.png) 
@@ -246,6 +328,12 @@ The powerful video editing program for your Windows PC</a>
 
 ![enter the second cell range](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/12/Excel-Calibration-Curve-34.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Click "OK." The formula should look like this in the formula bar:
 
         `=CORREL(B3:B12,C3:C12)`
@@ -255,7 +343,10 @@ The powerful video editing program for your Windows PC</a>
 ![showing the correl function](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/12/Excel-Calibration-Curve-35.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Click inside the Function Bar and add "^2" to the end of the formula to square the value returned by the CORREL function. The completed formula should now look like this:
 
@@ -270,7 +361,10 @@ The powerful video editing program for your Windows PC</a>
 ![the r-squared value now matches](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/12/Excel-Calibration-Curve-37.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ###  Step Three: Set Up Formulas For Quickly Calculating Values
 
@@ -281,8 +375,10 @@ The powerful video editing program for your Windows PC</a>
 ![enter an X-value or a Y-value and get the corresponding value](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/12/Excel-Calibration-Curve-38.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  The equation of the line-of-best-fit is in the form "Y-value = SLOPE \* X-value + INTERCEPT," so solving for the "Y-value" is done by multiplying the X-value and SLOPE and then adding the INTERCEPT.
 
@@ -293,7 +389,16 @@ The powerful video editing program for your Windows PC</a>
 ![showing the zero as the X-value being equal to the INTERCEPT](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/12/Excel-Calibration-Curve-40.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Solving for the X-value based on a Y-value is done by subtracting the INTERCEPT from the Y-value and dividing the result by the SLOPE:
 
@@ -306,15 +411,21 @@ X-value=(Y-value-INTERCEPT)/SLOPE
 ![showing a truncated result](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/12/Excel-Calibration-Curve-42.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  You can enter in any X-value you'd like into the first thick-bordered cell and Excel will calculate the corresponding Y-value automatically.
 
 ![solving Y for an x value](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/12/Excel-Calibration-Curve-43.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Entering any Y-value into the second thick-bordered cell will give the corresponding X-value. This formula is what you would use to calculate the concentration of that solution or what input is needed to launch the marble a certain distance.
 
 ![solving x for a y value](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/12/Excel-Calibration-Curve-44.png) 

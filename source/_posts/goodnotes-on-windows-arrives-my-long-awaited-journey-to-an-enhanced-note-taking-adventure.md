@@ -1,7 +1,7 @@
 ---
 title: GoodNotes on Windows Arrives - My Long-Awaited Journey to an Enhanced Note-Taking Adventure
-date: 2024-08-28T04:27:31.325Z
-updated: 2024-08-29T04:27:31.325Z
+date: 2024-09-05T07:55:54.828Z
+updated: 2024-09-06T07:55:54.828Z
 tags:
   - windows
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screens-with-windows-11-and-the-goodnotes-app-window.jpeg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## GoodNotes on Windows Arrives - My Long-Awaited Journey to an Enhanced Note-Taking Adventure
 
 ### Quick Links
@@ -31,10 +37,34 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The 'Goodnotes for Windows' option highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/goodnotes-for-windows-option.jpeg) 
 
+<!-- affiliate ads begin -->
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  As of June 2024, Goodnotes for Windows is priced at $6.99 a year, while Goodnotes Pro is a bit more expensive and costs $9.99 a year. A GoodNote Pro subscription lets you use Goodnotes on iOS, Android, Windows devices, or the web.
 
 ![Tap or click 'Goodnotes Pro.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/goodnotes-pro-option.jpeg) 
 
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Goodnotes on Windows Has Incredible Note-Taking Features
 
  I ran the Goodnotes app on an HP Envy x360 with Windows 11 to get the tablet-like effect. Here are some of the cool features I used.
@@ -44,7 +74,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![A variety of paper formats displayed in Goodnotes.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/paper-formats.jpeg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  After launching the Goodnotes app and setting it up, you’ll need a notebook to start taking notes. Much like the iOS versions, Goodnotes for Windows offers many different page formats for taking notes and even daily planning to stay organized. I was very impressed to see different music sheet options, so you can write music using the app.
 
@@ -56,23 +89,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ###  Planners And To-Do Templates![The Planner page in Goodnotes, with a few different views visible.](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/planner-option-for-goodnotes.jpeg) 
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
  The planner and to-do templates in Goodnotes might be the least exciting feature to many, but if you love [digital planners and organization tools](https://android-pokemon-go.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-nokia-g22-drfone-by-drfone-virtual-android/) like myself, Goodnotes has plenty of options.
 
  From accounting sheets to planning your finances, a variety of monthly and weekly planner sheets and a standard to-do sheet to keep your day organized. The templates are quite basic, but they give you the creative room to customize them and make them your own.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ###  Lasso Tool
 
 ![Selecting the heart diagram in Goodnotes.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/select-diagram.jpeg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you are a student and deal with many charts and diagrams while studying and taking notes, the lasso tool in Goodnotes is like having a rope for your diagrams and charts. If you are unfamiliar with it, the lasso tool, represented by lines forming a rope, lets you select and move multiple elements simultaneously. This makes it easy to copy and paste elements onto your notes or rearrange notes.
 
  It's as simple as selecting the lasso tool and drawing a line around the diagram. Then, you can move and drag the diagram to any part of the page you like.
@@ -80,7 +110,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Another benefit of the lasso tool is if you have a more complex diagram and want to adjust a few things. Instead of erasing and redrawing, you can use the lasso tool to grab what you want and move it around easily.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ###  Sharing Docs And Collaborating
 
@@ -92,17 +131,32 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Note that the sharing feature on your Windows computer is only available with paid subscriptions to Goodnotes for Windows or Goodnotes Pro.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  Beta Testing Marketplace
 
 ![Tap or click 'Marketplace' to check out new features, templates, formats, and more.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/marketplace-option-goodnotes-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Goodnotes on the Windows version is beta testing a marketplace where you can explore and download a wide range of paper templates, notebook covers, and tools to amp up your note-taking experience.
 
  You also have the option to join as a creator and show off your skills, which is a plus. All the templates currently listed in the marketplace section are free for users with a paid subscription to either Goodnotes on Windows or Goodnotes Pro.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  What We’d Like To See
 
  So far, so good, but there are some areas where Goodnotes for Windows could be better. For instance, there should be more instructions on how to navigate the app. This is especially necessary for first-time users who have never used Goodnotes before. It would be helpful to see some instructions pop up when you hold your cursor over tools.

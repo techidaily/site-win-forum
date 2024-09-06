@@ -1,7 +1,7 @@
 ---
 title: "Download Arc Browser: Official Release for Windows 11 Users"
-date: 2024-08-28T04:28:41.386Z
-updated: 2024-08-29T04:28:41.386Z
+date: 2024-09-05T07:55:55.940Z
+updated: 2024-09-06T07:55:55.940Z
 tags:
   - windows
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/2dd4d8c9b9a89a48c334c5f220a58a13ed27cebc631991e7d2875a1b4897165f.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Download Arc Browser: Official Release for Windows 11 Users
 
 Arc, a free web browser developed by The Browser Company, is now available on Windows 10\. The only caveat is that it doesn't work on Windows 10 build 1809, which Microsoft doesn’t support either.
@@ -19,6 +25,12 @@ Arc, a free web browser developed by The Browser Company, is now available on Wi
 
 ![Arc browser running on macOS 13 Ventura](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/arc_browser_featured.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Arc is a new Chromium-based browser released in April 2022 that supports Chrome browser extensions from the Chrome Web Store out of the box. The app comes with [some interesting integrations](https://arc.net/integrations), like the ability to change visual elements of any page, with built-in apps hosted in a sidebar. In addition to Windows 10, Arc is available on iOS, iPadOS, macOS, iOS, and Windows 11\. Linux and Android are unsupported at the moment, but you can sign up for an [Android waitlist](https://browserco.typeform.com/to/i5p2MBU5) or a [Windows on ARM waitlist](https://browserco.typeform.com/Arc-Windows-ARM) to stay informed about when those versions will become available.
 
  Due to Apple's requirements, the iOS and iPadOS versions use Safari's WebKit layout engine. However, that could change for customers in the European Union, where Apple now permits third-party browsers with custom engines. For further information about the browser and what you can do with it, be sure to [peruse our Arc review](https://instagram-video-recordings.techidaily.com/the-art-of-sharing-horizontals-in-igtvs-vertical-world/).
@@ -110,7 +122,3 @@ Arc, a free web browser developed by The Browser Company, is now available on Wi
 <li><a href="https://win-forum.techidaily.com/unveil-your-windows-11-powershell-version-with-simple-steps-a-comprehensive-guide/"><u>Unveil Your Windows 11 PowerShell Version with Simple Steps – A Comprehensive Guide</u></a></li>
 <li><a href="https://win-forum.techidaily.com/unveiling-the-giants-of-digital-communication-facebook-twitter-instagram-and-youtube/"><u>Unveiling the Giants of Digital Communication: Facebook, Twitter, Instagram & YouTube</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->

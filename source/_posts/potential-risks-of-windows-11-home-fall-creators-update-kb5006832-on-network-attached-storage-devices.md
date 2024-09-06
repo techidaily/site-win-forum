@@ -1,7 +1,7 @@
 ---
 title: Potential Risks of Windows 11 Home Fall Creators Update (KB5006832) on Network-Attached Storage Devices
-date: 2024-08-28T04:28:13.761Z
-updated: 2024-08-29T04:28:13.761Z
+date: 2024-09-05T07:55:55.518Z
+updated: 2024-09-06T07:55:55.518Z
 tags:
   - windows
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/windows-11-3.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Potential Risks of Windows 11 Home Fall Creators Update (KB5006832) on Network-Attached Storage Devices
 
 The Windows 11 24H2 update is nearing release, and it comes with a few changes that could break specific apps and workflows. Microsoft is now warning people (again) about changes to SMB connections that might impact NAS drives.
@@ -98,7 +104,3 @@ The Windows 11 24H2 update is nearing release, and it comes with a few changes t
 <li><a href="https://win-forum.techidaily.com/understanding-digital-engagement-on-leading-channels-facebook-twitter-instagram-and-youtube/"><u>Understanding Digital Engagement on Leading Channels: Facebook, Twitter, Instagram & Youtube</u></a></li>
 <li><a href="https://win-forum.techidaily.com/unveiling-the-basics-understanding-bios-with-revouninstaller/"><u>Unveiling the Basics: Understanding BIOS with RevoUninstaller</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->

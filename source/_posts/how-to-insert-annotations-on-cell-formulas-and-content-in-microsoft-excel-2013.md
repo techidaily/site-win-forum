@@ -1,7 +1,7 @@
 ---
 title: How to Insert Annotations on Cell Formulas & Content in Microsoft Excel 2013
-date: 2024-08-28T04:29:13.016Z
-updated: 2024-08-29T04:29:13.016Z
+date: 2024-09-05T07:55:56.486Z
+updated: 2024-09-06T07:55:56.486Z
 tags:
   - excel
 categories:
@@ -20,18 +20,39 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2013
 
  We will show you how to add a comment to a formula and a comment that displays when you move your mouse over a cell.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2024326/7443" target="_top" id="2024326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2024326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Add a Comment to a Formula
 
  The N() function allows you add comments directly inside your cells on your formulas. To use the function to add a comment, simply add a plus sign (+) to the end of your formula, and then enter some text in quotes inside the parentheses, passing that text to the N() function.
 
 ![01_adding_comment_to_formula](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2013/04/01_adding_comment_to_formula.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  When you select the cell, the comment shows as part of the formula in the Formula bar.
 
 ![02_formula_not_on_cell](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2013/04/02_formula_not_on_cell.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Add a Comment to a Cell
 
@@ -53,9 +74,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2013
 
 ![05_clicking_review_tab](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2013/04/05_clicking_review_tab.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  In the Comments section of the Review tab, click New Comment.
 
 ![06_clicking_new_comment](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2013/04/06_clicking_new_comment.png) 
@@ -65,29 +83,40 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2013
 ![07_editing_comment](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2013/04/07_editing_comment.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Once you have entered your text, click on any other cell outside of the comment box. The cell now contains a small, red triangle in the upper, right corner, indicating a comment has been added to it.
 
 ![08_red_triangle_in_cell](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2013/04/08_red_triangle_in_cell.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  When you move your mouse over the cell, the comment box displays.
 
 ![09_comment_displays](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2013/04/09_comment_displays.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  To remove a comment from a cell, right-click on the cell and select Delete Comment from the popup menu.
 
 ![10_selecting_delete_comment](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2013/04/10_selecting_delete_comment.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Comments are a convenient way of documenting your spreadsheet both for your own reference and as “context-sensitive help” for users of your spreadsheet.
 

@@ -1,7 +1,7 @@
 ---
 title: Essential Excel Basics Every Newcomer Should Master
-date: 2024-08-28T04:29:09.578Z
-updated: 2024-08-29T04:29:09.578Z
+date: 2024-09-05T07:55:56.430Z
+updated: 2024-09-06T07:55:56.430Z
 tags:
   - excel
 categories:
@@ -11,6 +11,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
 ## Essential Excel Basics Every Newcomer Should Master
 
+<!-- affiliate ads begin -->
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [Entering Data in Excel](https://youtube-sure.techidaily.com/niting-your-conference-and-youtube-google-meet-broadcast-steps-for-2024/)
@@ -34,6 +46,18 @@ Related: [All the Best Microsoft Excel Keyboard Shortcuts](https://eaxpv-info.te
 
 ![Data entered in a cell and the Formula Bar](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/EnterData-ExcelBeginnersBasics.png) 
 
+<!-- affiliate ads begin -->
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  You can also copy data from another location and [paste it in your sheet](https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-vivo-y100a-drfone-by-drfone-virtual/). Once you copy it, select the cell in your sheet and paste it by doing one of the following:
 
 * Use the [keyboard shortcut](https://eaxpv-info.techidaily.com/updated-2024-approved-high-definition-ready-enabling-av1-on-youtube/) **Ctrl+V** on Windows or **Command+V** on Mac.
@@ -44,9 +68,6 @@ Related: [All the Best Microsoft Excel Keyboard Shortcuts](https://eaxpv-info.te
 
  For more ways to paste like multiplying numbers as you do, look at our how-to on [using Paste Special in Excel](https://extra-support.techidaily.com/2024-approved-step-by-step-perfectly-sharing-your-photography-on-youtube/).
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Managing Spreadsheets
 
  You can add many sheets to your Excel workbook. This is handy for handling projects that require separate spreadsheets.
@@ -58,21 +79,21 @@ Related: [How to Change the Color of the Worksheet Tabs in Excel](https://eaxpv-
 ![Plus sign to add a sheet in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/InsertSheet-ExcelBeginnersBasics.png) 
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Alternatively, go to the Home tab, select the Insert drop-down box in the Cells section of the ribbon, and pick "Insert Sheet." This adds a spreadsheet to the left of the active one.
 
 ![Plus sign to add a sheet in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/InsertSheet-ExcelBeginnersBasics.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  When you add a sheet, it has a default name of Sheet with a number. So, you'll see Sheet1, Sheet2, and so on. To rename a sheet, double-click the current name or right-click and pick "Rename." Then, type the new name and press Enter or Return.
 
 ![Rename in the sheet menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/RenameSheet-ExcelBeginnersBasics.png) 
@@ -81,9 +102,6 @@ Related: [How to Change the Color of the Worksheet Tabs in Excel](https://eaxpv-
 
 ![Rearranged sheets in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/RearrangeSheets-ExcelBeginnersBasics.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  To [color the tab for a sheet](https://eaxpv-info.techidaily.com/updated-harness-your-view-count-cross-platform-studio-methods-for-2024/), right-click the tab, move to Tab Color, and select a color in the pop-out menu. This is a great way to spot certain sheets at a glance or color-code them for specific tasks.
 
 ![Tab Color in the sheet menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/ColorSheet-ExcelBeginnersBasics.png) 
@@ -92,6 +110,12 @@ Related: [How to Change the Color of the Worksheet Tabs in Excel](https://eaxpv-
 
 ![Delete in the sheet menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/DeleteSheet-ExcelBeginnersBasics.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Adding and Removing Columns and Rows
 
  You may discover that you need an additional [column or row](https://article-tips.techidaily.com/updated-frolicsome-media-repository-for-2024/) within your data set. Or, you might decide to remove a column or row you no longer need.
@@ -99,7 +123,10 @@ Related: [How to Change the Color of the Worksheet Tabs in Excel](https://eaxpv-
 Related: [How to Add and Remove Columns and Rows in Microsoft Excel](https://article-tips.techidaily.com/updated-frolicsome-media-repository-for-2024/) 
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ###  Add a Column or Row
 
@@ -110,22 +137,13 @@ Related: [How to Add and Remove Columns and Rows in Microsoft Excel](https://art
 
 ![Insert Sheet Columns and Rows on the Home tab](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/InsertColumnRow-ExcelBeginnersBasics.png) 
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Both of the above actions insert a column to the left of the selected column or a row above the selected row.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ###  Remove a Column or Row
 
@@ -136,15 +154,8 @@ Related: [How to Add and Remove Columns and Rows in Microsoft Excel](https://art
 
 ![Delete Sheet Columns and Rows on the Home tab](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/DeleteColumnRow-ExcelBeginnersBasics.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
  For more, look at our tutorial for [inserting multiple rows in Excel](https://some-tips.techidaily.com/in-2024-stream-side-stacking-pewdiepies-payday-portion/).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Formatting Numbers
 
  When you [enter numbers in Excel](https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-xiaomi-redmi-12-5g-without-them-knowing-drfone-by-drfone-virtual-android/), you can format them as ordinary numbers, currencies, decimals, percentages, dates, times, and fractions. 
@@ -156,19 +167,25 @@ Related: [How to Use the Accounting Number Format in Microsoft Excel](https://an
 ![Number formats in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/FormatNumber-ExcelBeginnersBasics.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Pick the format you want, and you'll see your data update.
 
 ![Currency format in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/FormattedNumber-ExcelBeginnersBasics.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  You can also choose the style for the number format you use. Click the small arrow on the bottom right of the Number section in the ribbon.
 
 ![Number format launcher in the ribbon](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/NumberLauncher-ExcelBeginnersBasics.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
  When the Format Cells box appears, go to the Number tab and select an option on the left.
 
  On the right, you'll see a preview of the format with options below you can adjust. For example, you can [choose the number of decimal places](https://android-pokemon-go.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-lava-storm-5g-drfone-by-drfone-virtual-android/) and how you want to [display negative numbers](https://tech-revival.techidaily.com/discover-time-saving-magic-with-these-10-powerful-chatgpt-pdf-extensions/).
@@ -176,7 +193,16 @@ Related: [How to Use the Accounting Number Format in Microsoft Excel](https://an
 ![Number tab in the Format Cells box](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/FormatCellsNumber-ExcelBeginnersBasics.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  After you make your selections, click "OK" to apply them to the value.
 
@@ -190,6 +216,18 @@ Related: [How To Add and Change Cell Borders In Excel](https://activate-lock.tec
 
 ![Font section of the ribbon on the Home tab](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/HomeFont-ExcelBeginnersBasics.png) 
 
+<!-- affiliate ads begin -->
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Font style and size**: Use the drop-down boxes at the top to change the font style or size. You can also use the buttons to the right to increase or decrease the font size.
 
 **Bold, italics, and underline**: Simply select one of these buttons to apply bold, italics, or underline to the font in a cell.
@@ -198,6 +236,18 @@ Related: [How To Add and Change Cell Borders In Excel](https://activate-lock.tec
 
 **Fill and font colors**: Select the Fill Color drop-down box to pick a color for the cell or the Font Color box to pick a color for the font.
 
+<!-- affiliate ads begin -->
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Performing Quick Calculations
 
  When you work with numbers in your sheet, it's common to perform calculations. Rather than delve into creating formulas in Excel, which is a bit more advanced, you can quickly add, average, or get the minimum or maximum number in a data set.
@@ -208,13 +258,22 @@ Related: [12 Basic Excel Functions Everybody Should Know](https://visual-screen-
 
 ![Cell B7 highlighted on a sheet](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/CellB7-ExcelBeginnersBasics.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Head to the Home tab and select the Sum drop-down box in the Editing section of the ribbon. You'll see the basic calculations you can perform. For our example, we select "Sum."
 
 ![Calculations in the Sum menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/SumCalculations-ExcelBeginnersBasics.png) 
 
+<!-- affiliate ads begin -->
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  You'll then see Excel highlight the cells it believes you want to calculate. It also shows you [the function](https://visual-screen-recording.techidaily.com/in-2024-a-step-by-step-recorder-for-discord-enthusiasts/) and formula it'll use. Simply press Enter or Return to accept the suggestion and get the result.
 
 ![Sum formula and result in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/Sum-ExcelBeginnersBasics.png) 
@@ -227,6 +286,12 @@ Related: [12 Basic Excel Functions Everybody Should Know](https://visual-screen-
 
 ![Sum result in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/SummedSelected-ExcelBeginnersBasics.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  As an Excel beginner, these basic tasks should get you off to a great start using the application. Once you master these actions, be sure to check out our additional Excel articles for things like [creating a graph](https://technical-tips.techidaily.com/top-techniques-for-enhancing-photo-quality-on-your-ios-device/), [using a table](https://instagram-videos.techidaily.com/updated-2024-approved-how-to-convert-your-best-videography-into-melodic-mp3s-insta/), and [sorting or filtering data](https://facebook-video-share.techidaily.com/free-audio-treasures-to-amplify-youtube-in-2024/).
 
 <ins class="adsbygoogle"

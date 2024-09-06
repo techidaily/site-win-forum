@@ -1,7 +1,7 @@
 ---
 title: Upcoming Windows 11 V.24H2 Removes Support for VBScript Technology
-date: 2024-08-28T04:28:35.463Z
-updated: 2024-08-29T04:28:35.463Z
+date: 2024-09-05T07:55:55.856Z
+updated: 2024-09-06T07:55:55.856Z
 tags:
   - windows
 categories:
@@ -9,6 +9,18 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-11-logo.jpg
 ---
 
+<!-- affiliate ads begin -->
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Upcoming Windows 11 V.24H2 Removes Support for VBScript Technology
 
 Visual Basic Scripting Edition, or VBScript, has been a scripting language and automation tool for Windows since it was introduced in 1996\. Microsoft has now confirmed VBScript will be made optional in Windows 11 later this year, before its eventual removal.
@@ -117,7 +129,3 @@ Visual Basic Scripting Edition, or VBScript, has been a scripting language and a
 <li><a href="https://change-location.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Samsung Galaxy S24+? | Dr.fone</u></a></li>
 <li><a href="https://win-forum.techidaily.com/wireless-network-management-using-wake-on-lan-in-windows-operating-systems/"><u>Wireless Network Management: Using Wake-on-LAN in Windows Operating Systems</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

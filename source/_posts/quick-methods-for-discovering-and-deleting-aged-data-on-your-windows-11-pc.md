@@ -1,7 +1,7 @@
 ---
 title: Quick Methods for Discovering and Deleting Aged Data on Your Windows 11 PC
-date: 2024-08-28T04:28:15.010Z
-updated: 2024-08-29T04:28:15.010Z
+date: 2024-09-05T07:55:55.539Z
+updated: 2024-09-06T07:55:55.539Z
 tags:
   - windows
 categories:
@@ -17,6 +17,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [With Microsoft PC Manager](https://screen-sharing-recording.techidaily.com/new-poll-power-play-best-election-strategy-games-for-2024/)
 * [Using Command Prompt](https://ai-video-tools.techidaily.com/updated-in-2024-say-goodbye-to-blemishes-fcpx-skin-smoothing-techniques/)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Use Storage Sense in Settings > System > Storage > Storage Sense to automatically declutter your storage by specifying file deletion criteria.
@@ -33,13 +39,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 !['System' and 'Storage' highlighted in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/1-storage-settings.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  In the Storage Management section, turn on the toggle next to "Storage Sense," then click "Storage Sense."
 
 !['Storage Sense' highlighted in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/2-enable-storage-sense.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
  You’ll now configure Storage Sense's behavior. At the top, enable the option in the "Cleanup of Temporary Files" section so that temporary files are automatically deleted.
 
  Turn on the "Automatic User Content Cleanup" toggle. Then, configure various options as follows:
@@ -52,9 +61,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  To run the feature now, click "Run Storage Sense Now." It will start removing the chosen files.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  With Microsoft PC Manager
 
 [PC Manager is a built-in Windows 11 app](https://driver-install.techidaily.com/nvidia-graphics-driver-enhancement-gtx-1060/) that lets you analyze your storage space and remove downloaded files, large files, and duplicate files. It has a variety of filters that let you quickly find the files you want to let go of.
@@ -63,27 +69,39 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![File cleanup options in PC Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/4-pc-manager-file-cleanup-options.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
  The first option is "Downloaded Files," which lets you remove the files you’ve downloaded using the installed web browsers. Click it, and it’ll open a window listing your recent file downloads. You can sort these files by their type using the tabs at the top.
 
  Then, select the files you’re happy to let go of. At the bottom, you’ll see the storage space you’ll reclaim after deleting these files. To remove the files, click "Permanently Delete."
 
 ![Downloaded files and 'Permanently Delete' highlighted in PC Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/5-delete-downloaded-files.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The second option in PC Manager is "Large Files." As you can guess, it lets you find and remove large files. You can specify the file size here so it only finds files larger than that.
 
  Click the option and use the "Size" drop-down menu to specify your file size.
 
 !['Size' drop-down menu highlighted for large files in PC Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/6-specify-file-size.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  When you see the files listed, choose the ones you want to remove and click "Permanently Delete."
 
 ![Large files and 'Permanently Delete' highlighted in PC Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/7-delete-large-files.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  And that’s it.
 
@@ -91,13 +109,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Duplicate files and 'Permanently Delete' highlighted in PC Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/8-remove-duplicate-files.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  And you’re all set.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Using Command Prompt
 
@@ -107,9 +125,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 !['Run as Administrator' highlighted for Command Prompt in Windows Search.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/9-open-command-prompt.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
  In the User Account Control prompt, choose "Yes."
 
  In Command Prompt, type the following command. Replace "FolderPath" with the [full path to the folder](https://article-posts.techidaily.com/updated-maximizing-visual-variety-with-b-roll-elements-for-2024/) where you want to delete files. Replace "60" with the number of days a file must have existed on your storage for it to be deleted. (Make sure to keep the - (minus sign) before the day number.)
@@ -133,10 +148,28 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Save the ForFiles command as a batch file.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/10-save-batch-file.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  When you want to run your command, right-click your batch script and choose "Run as Administrator."
 
 !['Run as Administrator' highlighted for a batch file in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/11-run-batch-file.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  You can integrate this batch script with Task Manager, and Task Manager will run the script at your specified time. This basically automates the entire process of finding and removing old files from your specified folders.
 
 ---

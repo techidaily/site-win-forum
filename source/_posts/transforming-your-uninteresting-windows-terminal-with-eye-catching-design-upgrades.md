@@ -1,7 +1,7 @@
 ---
 title: Transforming Your Uninteresting Windows Terminal with Eye-Catching Design Upgrades
-date: 2024-08-28T04:27:46.419Z
-updated: 2024-08-29T04:27:46.419Z
+date: 2024-09-05T07:55:55.068Z
+updated: 2024-09-06T07:55:55.068Z
 tags:
   - windows
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/windows-11-screen-with-the-terminal-open.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Transforming Your Uninteresting Windows Terminal with Eye-Catching Design Upgrades
 
 ### Quick Links
@@ -29,27 +35,57 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Opening Windows Terminal](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/opening-windows-terminal.png) 
 
+<!-- affiliate ads begin -->
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  On the title bar, press the drop-down button and go to "Settings."
 
 ![Opening Windows Terminal settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/windows-terminal-settings.png) 
 
  From here on, we'll tweak different settings to change the look and feel of the Windows Terminal.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  Title bar
 
  Let's start with the title bar. Right now, it has a solid black color, but you can make it transparent. Go to "Appearance," turn on "Use acrylic material in the tab row," then click "Save" to commit your changes.
 
 ![Making Windows Terminal title bar transparent](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/make-windows-terminal-title-bar-transparent.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2024338/7443" target="_top" id="2024338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2024338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The title bar should become transparent with a blurry effect. You'll see whatever is behind the Terminal window but behind a blurred glass.
 
 ![Transparent Windows Terminal title bar](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/transparent-windows-terminal-title-bar.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ###  Changing Themes
 
@@ -62,7 +98,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Windows Terminal color schemes](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/windows-terminal-color-schemes.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2030373/7443" target="_top" id="2030373">
+  <img src="//a.impactradius-go.com/display-ad/7443-2030373" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030373/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  When adding a new color scheme, you have two options.
 
@@ -70,6 +109,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Adding a new color scheme to the Windows Terminal](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/adding-a-new-color-scheme-to-the-windows-terminal.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![New color scheme added to the Windows Terminal](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/add-new-color-scheme-to-the-windows-terminal.png) 
 
 ![New color scheme in the Windows Terminal](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/new-color-scheme-in-the-windows-terminal.png) 
@@ -84,38 +129,35 @@ Close
 
 ![Opening the Windows Terminal JSON file](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/windows-terminal-json-file.png) 
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  It will open in your default [text editor](https://android-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-lava-yuva-3-drfone-by-drfone-virtual-android/) for JSON files, which is probably [Notepad](https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-poco-x6-pro-drfone-by-drfone-android/). After that, scroll down until you find the Schemes section. You can also use the search functionality to find it faster.
 
 ![Windows Terminal JSON color schemes](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/windows-terminal-json-color-schemes.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
  After finding the schemes section, scroll down a bit further until you reach the last scheme (each scheme is closed between curly braces and then comma separated.) Add a comma after the last scheme and then paste the JSON code of your color scheme.
 
 ![Adding a new color scheme to the Windows Terminal using JSON](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/adding-a-new-color-scheme-to-the-windows-terminal-using-json.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Save the file and exit the JSON file. Go back to the "Color Schemes" menu, and you should see the newly added theme in the list. Set it as default to use it. Press the "Save" button to save your changes. To see the new theme in action, restart the Windows Terminal.
 
 ![Dark Solarized Patched color scheme on the Windows Terminal](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/dark-solarized-patched-color-scheme-on-the-windows-terminal.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ###  Fonts
 
@@ -123,6 +165,12 @@ Close
 
 ![Font settings in Windows Terminal](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/font-settings-in-windows-terminal.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  You should see a few font-related options here. You can choose the font family, font size, and font weight.
 
 ![Dfferent font settings in Windows Terminal](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/dfferent-font-settings-in-windows-terminal.png) 
@@ -135,23 +183,31 @@ Close
 
 ![Choosing colors in the Windows Terminal](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/choosing-colors-in-the-windows-terminal.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you don't like using solid colors for the Terminal background, you can also choose images. Go to Defaults > Appearance, then under Background Image, provide a path for the image you'd like to use as the background. You can also use your desktop wallpaper. Once you choose an image, you'll notice more options, such as the image stretch mode, alignment, and opacity.
 
 ![Windows Terminal background settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/windows-terminal-background-settings.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
  Make sure to choose a less bright image as your background. Otherwise, you'll have a hard time seeing the text. Another option is to lower the opacity to about 50%.
 
 ![Windows Terminal with an image background](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/windows-terminal-with-an-image-background.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<a href="https://appsumo.8odi.net/c/5597632/2024329/7443" target="_top" id="2024329">
+  <img src="//a.impactradius-go.com/display-ad/7443-2024329" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024329/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Using Oh My Posh to Beautify the Windows Terminal
 
@@ -165,17 +221,26 @@ winget install JanDeDobbeleer.OhMyPosh -s winget
 
 ![Installing Oh My Posh on Windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/installing-oh-my-posh-on-windows.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  After the installation, restart the Terminal to reload [the PATH](https://android-frp.techidaily.com/in-2024-the-complete-guide-to-meizu-frp-bypass-everything-you-need-to-know-by-drfone-android/). To confirm the installation, run:
 
 oh-my-posh
 
 ![Using Oh My Posh in the Windows Terminal](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/using-oh-my-posh-in-the-windows-terminal.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Great! It's been installed successfully. Now we can customize our Terminal using this tool.
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  Customizing the Terminal
 
  To make the most out of Oh My Posh, you should install a Nerd Font. That's because Oh My Posh uses many icons and glyphs not supported by the default installed fonts on your system. If you didn't install a font in the previous step, you can do so now using Oh My Posh. Open the Terminal as an administrator. Then view the available fonts by running this command:
@@ -186,9 +251,6 @@ oh-my-posh font install
 
 ![Installing the Meslo font using Oh My Posh](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/installing-the-meslo-font-using-oh-my-posh.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
  Alternatively, you can install the font by adding its name to the previous command, like this:
 
 oh-my-posh font install meslo
@@ -217,9 +279,6 @@ oh-my-posh init pwsh | Invoke-Expression
 
 ![Editing PowerShell profile on Windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/editing-powershell-profile-on-windows.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Save the file and reload the profile with this command:
 
 . $PROFILE
@@ -230,6 +289,12 @@ oh-my-posh init pwsh | Invoke-Expression
 
 ![Windows PowerShell with Oh My Posh initialized theme](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/windows-powershell-with-oh-my-posh-initialized-theme.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  There are dozens of themes in Oh My Posh. To get a glance of all of them, run this in PowerShell:
 
 Get-PoshThemes
@@ -237,7 +302,10 @@ Get-PoshThemes
 ![Oh My Posh themes displayed in PowerShell](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/oh-my-posh-themes.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  I really like the "atomic" theme, so I'll switch to that. To switch the theme, I'll run:
 
@@ -246,7 +314,10 @@ oh-my-posh init pwsh --config "$env:POSH_THEMES_PATH/atomic.omp.json" | Invoke-E
 ![Changing the theme in Oh My Posh](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/changing-the-theme-in-oh-my-posh.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  If you want to switch to another theme, just replace "atomic" with your theme name in the above script.
 
@@ -279,15 +350,15 @@ Import-Module -Name Terminal-Icons
 ![Listing the directory content in Windows 11 using PowerShell](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/listing-the-directory-content-in-windows-11-using-powershell.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Combining everything so far, here's my final result.
 
 ![A customized Windows Terminal](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/customized-windows-terminal-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  A Beautiful Windows Terminal at Your Service
 
  By now, you should have a cool looking Terminal on your Windows computer. With some creativity, you can make it more flashy. If you'd like to read more on what you can do with Oh My Posh, check the [official documentation](https://ohmyposh.dev/docs).

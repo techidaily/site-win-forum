@@ -1,7 +1,7 @@
 ---
 title: "Mastering Rare File Formats: A Step-by-Step Guide to Opening & Interpreting Them"
-date: 2024-08-28T04:29:46.000Z
-updated: 2024-08-29T04:29:46.000Z
+date: 2024-09-05T07:55:57.044Z
+updated: 2024-09-06T07:55:57.044Z
 tags:
   - excel
 categories:
@@ -9,8 +9,26 @@ categories:
 thumbnail: https://thmb.techidaily.com/3f0dd2ba23afb65e6bd0d3f90edabc5ca5d9604be85f232f57f9da3d1c3125e2.jpg
 ---
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Mastering Rare File Formats: A Step-by-Step Guide to Opening & Interpreting Them
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [Open File in Notepad to See More Info](https://youtube-web.techidaily.com/izing-mastery-a-triple-step-approach-to-understanding-youtube-revenue/)
@@ -28,10 +46,28 @@ thumbnail: https://thmb.techidaily.com/3f0dd2ba23afb65e6bd0d3f90edabc5ca5d9604be
 
 ![image](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/image_thumb24.png) 
 
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Interestingly enough, Microsoft's own Bing search often offers more information about specific file types than Microsoft's dedicated file info search. So, if the first site from Microsoft doesn't show much info, click the Search the web link near the bottom to quickly see the file extension info on Bing.
 
 ![image](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/image_thumb25.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Alternately, you can manually search for information about a file type. Make sure you can [see the file extension](https://youtube-help.techidaily.com/2024-approved-unlocking-youtube-videos-a-guide-to-sequential-viewing/), then search for the extension on your favorite search engine or a dedicated site such as FileInfo.com. FileInfo.com offers information on a wide range of file formats, and includes a very extensive list of applications that can view, create, or edit that file format, so we recommend checking there first. Wikipedia is another good source of information about file formats, though often you'll find more info about the format's history and technical issues than how to actually use it.
 
 ![image](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/image_thumb26.png) 
@@ -40,6 +76,12 @@ thumbnail: https://thmb.techidaily.com/3f0dd2ba23afb65e6bd0d3f90edabc5ca5d9604be
 
 [Information about File Formats from Wikipedia](http://en.wikipedia.org/wiki/File%5Ftype) 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Open File in Notepad to See More Info
 
  Alternately, when you try to open an unknown filetype, you can choose to select a program to open it. If you already know what program this file should be opened with, simply select it or click Browse and locate it on your computer. Alternately, try opening the file in your favorite text editor such as Notepad.
@@ -52,45 +94,74 @@ thumbnail: https://thmb.techidaily.com/3f0dd2ba23afb65e6bd0d3f90edabc5ca5d9604be
 
 ![image](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/image_thumb28.png) 
 
+<!-- affiliate ads begin -->
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Many files will be even less human-readable, but you can still often find clues as to what program was used to create the file or at least what program it was associated with. You may even find the info you're looking for without having to open it in a full viewer, depending on what you're needing to find.
 
 ![image](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/image_thumb29.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  View Almost Any File With Universal Viewer
 
  When you need to view a file itself, looking at it in code form sometimes doesn't cut it. If so, then Universal Viewer is a great tool that you can use to see the file itself. This free viewer is available in portable and installable forms, and can display a wide variety of documents and files. It can display large PSD files quickly, as well as a wide variety of other image formats, including less common ones that you might not normally have a viewer for.
 
 ![image](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/image_thumb30.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  It can also play back a fairly wide range of multimedia formats, including Adobe Flash videos, though note that it is actually using your built-in browser plugins and media player codecs to render media files so if you can't already open it, chances are Universal Viewer won't be able to either. The great thing is, it usually recognized files fine even when Media Player said they were unplayable.
 
 ![image](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/image_thumb31.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Even though Universal Viewer can display many file formats, it still can't display everything. If it cannot open the file you try to open, it'll inform you that it's an unknown format. Click the yellow band to display the file in binary format.
 
 ![image](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/image_thumb32.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  If you click it, Universal Viewer will display the file the same as Notepad would, in binary mode. Here, you still may find clues as to what the file contains. For example, we're able to see that this file apparently includes HTML files, which makes you think it may be an archive file containing multiple different files. We can investigate this in the next step.
 
 ![image](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/image_thumb33.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  This is a great portable app to keep on your flash drive to make sure you can open any type of file no matter what computer you're using.
 
 [Download Universal Viewer](http://www.uvviewsoft.com/uviewer/) 
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ##  View Contents of a File With 7-Zip
 
  Many modern file types are actually renamed archive files containing numerous different files, including XML, HTML, image files, and more. If you think a file may actually be an archive format, you can always open it with the freeware 7-Zip. Once it's installed, right-click the file, select 7-Zip, and then click Open archive.
@@ -98,16 +169,15 @@ thumbnail: https://thmb.techidaily.com/3f0dd2ba23afb65e6bd0d3f90edabc5ca5d9604be
 ![image](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/image_thumb34.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  As we suspected, the file contains a number of HTML files that you can open individually in your browser. Many modern file types, including the newer Office file types like .docx, can be opened this way.
 
 ![image](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/image_thumb35.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Do note that 7-zip will offer to let you Open Archive on all files, including ones that are not archive formats. If you try to open a file that is not an archive, you'll be prompted that 7-zip cannot open the file.
 
 ![image](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/image_thumb36.png) 
@@ -142,13 +212,16 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
 ![sshot-2011-02-01-[13-54-14]](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/sshot-2011-02-01-13-54-14_thumb.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Simply click Close on the prompt, and then your file will open as normal. You won't be able to edit the file at all, but you can view it and search for text in the file. You can also still print the document as before, even with the expired trial.
 
 ![image](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/image_thumb38.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [Download Office 2010 Trial](http://office.microsoft.com/en-us/try) 
 
 ##  Use Webapps to View Files
@@ -157,10 +230,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
 ![/wordpress/wp-content/uploads/2010/06/image183.png](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/06/image183.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
  With all these tools and tricks at your disposal, you're almost guaranteed to be able to view the information you need from your files. No matter what file type you're dealing with, there are tons of tools you can use to dissect, view, and do more with your files. Thanks to webapps and portable apps, you might be able to do it without even installing any extra programs. Do you have any extra tips for dealing with unusual files? Feel free to share them with us below in the comments.
 
 <ins class="adsbygoogle"

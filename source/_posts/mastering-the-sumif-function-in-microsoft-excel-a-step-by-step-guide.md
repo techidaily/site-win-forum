@@ -1,7 +1,7 @@
 ---
 title: Mastering the SUMIF Function in Microsoft Excel - A Step-by-Step Guide
-date: 2024-08-28T04:29:25.943Z
-updated: 2024-08-29T04:29:25.943Z
+date: 2024-09-05T07:55:56.715Z
+updated: 2024-09-06T07:55:56.715Z
 tags:
   - excel
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/microsoft_excel_hero_1200x675.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Mastering the SUMIF Function in Microsoft Excel - A Step-by-Step Guide
 
 ### Quick Links
@@ -41,6 +47,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
 ![SUMIF using greater than for a single cell range](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/SingleGreaterThan-ExcelSUMIF.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  On the flip side, you can add numbers that are less than a certain amount using this formula:
 
 =SUMIF(B2:B7,"<10000")
@@ -49,6 +67,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
 ![SUMIF using less than for a single cell range](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/SingleLessThan-ExcelSUMIF.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  For one more example, you can add numbers that are the same amount with this formula:
 
 =SUMIF(A2:A7,"5000")
@@ -57,6 +81,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
 ![SUMIF using equals for a single cell range](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/SingleEquals-ExcelSUMIF.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Use SUMIF With Number Criteria for Multiple Ranges
 
  Now let's put that conditional argument to work, `sum_range`. Here we're [calculating expenses](https://fox-blue.techidaily.com/updated-diving-into-the-depths-with-gopro-hero5-for-2024/) and revenue. With SUMIF, we can calculate the revenue for locations whose expenses meet our criteria and vice versa.
@@ -70,8 +100,10 @@ Related: [How to Create Expense and Income Spreadsheets in Microsoft Excel](http
 ![SUMIF using less than for multiple cells](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/MultipleLessThan-ExcelSUMIF.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Using the following formula, you can add the expenses in cells B2 through B7 only if the revenue in cells C2 through C7 is greater than 25,000.
 
@@ -79,9 +111,6 @@ Related: [How to Create Expense and Income Spreadsheets in Microsoft Excel](http
 
 ![SUMIF using greater than for multiple cells](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/MultipleGreaterThan-ExcelSUMIF.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can also replace the actual value in the formula with one contained in a cell. For instance, this formula adds the numbers in B2 through B7 if the value in C2 through C7 is greater than the value in cell D2.
 
 =SUMIF(C2:C7,">"&D2,B2:B7)
@@ -90,12 +119,6 @@ Related: [How to Create Expense and Income Spreadsheets in Microsoft Excel](http
 
 ![SUMIF using greater than a cell](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/MultipleGreaterThanCell-ExcelSUMIF.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Use SUMIF With Text Criteria for Multiple Ranges
 
  Maybe the values you want to add correlate to [text rather than numbers](https://buynow-tips.techidaily.com/family-fun-on-wheels-holy-stone-rc-cartoon-race-car-evaluation/). Here we have types, products, and sales. Using SUMIF, you can add values in the Sales column for products that meet certain conditions in the other columns.
@@ -108,9 +131,6 @@ Related: [How to Count Cells With Text in Microsoft Excel](https://buynow-tips.t
 
 ![SUMIF equals a word for multiple cells](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/MultipleTextWord-ExcelSUMIF.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
  For another example, you can add the sales in cells C2 through C7 for products in cells B2 through B7 that end in "ts."
 
 =SUMIF(B2:B7,"*ts",C2:C7)
@@ -119,6 +139,12 @@ Related: [How to Count Cells With Text in Microsoft Excel](https://buynow-tips.t
 
 ![SUMIF ends with letters in multiple cells](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/MultipleTextWildcard-ExcelSUMIF.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  One more example uses our Shoes product whose Type is blank.
 
 =SUMIF(A2:B7,"",C2:C7)
@@ -128,7 +154,10 @@ Related: [How to Count Cells With Text in Microsoft Excel](https://buynow-tips.t
 ![SUMIF using a blank for multiple cells](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/MultipleTextBlank-ExcelSUMIF.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  The SUMIF function in Excel allows you to take a basic equation and spice it up to fit your needs. It's super handy when adding numbers isn't as simple as two plus two.
 

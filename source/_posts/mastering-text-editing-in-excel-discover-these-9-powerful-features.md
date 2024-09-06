@@ -1,7 +1,7 @@
 ---
 title: "Mastering Text Editing in Excel: Discover These 9 Powerful Features"
-date: 2024-08-28T04:29:48.289Z
-updated: 2024-08-29T04:29:48.289Z
+date: 2024-09-05T07:55:57.081Z
+updated: 2024-09-06T07:55:57.081Z
 tags:
   - excel
 categories:
@@ -27,6 +27,12 @@ thumbnail: https://thmb.techidaily.com/d6b13d6022d969432c71e6aff3fa672b2a4e175cf
 
 Related: [12 Basic Excel Functions Everybody Should Know](https://visual-screen-recording.techidaily.com/in-2024-a-step-by-step-recorder-for-discord-enthusiasts/) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Convert the Letter Case: UPPER, LOWER, and PROPER
 
  You may want your text to [contain all uppercase](https://some-skills.techidaily.com/in-2024-streamlining-video-editing-in-obs-with-luts/) or all lowercase letters. Or maybe you want the first letter of each word capitalized. This is when the UPPER, LOWER, and PROPER functions come in handy.
@@ -54,7 +60,10 @@ Related: [How to Quickly and Easily Change Case in Excel 2013 Using a Function](
 ![PROPER function in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/ProperFunction-ExcelTextFunctions.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Remove Spaces: TRIM
 
@@ -68,6 +77,12 @@ Related: [How to Quickly and Easily Change Case in Excel 2013 Using a Function](
 
 ![TRIM text in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/TrimText-ExcelTextFunctions.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  To remove the spaces in the text in cell A1, you would use the cell reference as in this formula:
 
 =TRIM(A1)
@@ -75,7 +90,22 @@ Related: [How to Quickly and Easily Change Case in Excel 2013 Using a Function](
 ![TRIM cell reference in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/TrimCell-ExcelTextFunctions.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Compare Text Strings: EXACT
 
@@ -93,19 +123,31 @@ Related: [How to Use the XLOOKUP Function in Microsoft Excel](https://android-tr
 
 ![EXACT with True result](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/ExactTrue-ExcelTextFunctions.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  In the second example, the result is False. The text in cell A1 has uppercase letters whereas the text in cell B1 does not.
 
 ![EXACT with False due to upper case letters](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/ExactFalseCaps-ExcelTextFunctions.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  In our final example, the result is False once more. The text in cell B1 has spaces that the text in cell A1 does not.
 
 ![EXACT with False due to spaces](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/ExactFalseSpaces-ExcelTextFunctions.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Related: [Functions vs. Formulas in Microsoft Excel: What's the Difference?](https://games-able.techidaily.com/is-premium-play-on-demand-worth-it/) 
 
@@ -132,10 +174,22 @@ Related: [Functions vs. Formulas in Microsoft Excel: What's the Difference?](htt
 ![FIND with an instance](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/FindInstance-ExcelTextFunctions.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Replace Existing Text Using a Position: REPLACE
 
@@ -158,6 +212,12 @@ Related: [How to Find and Replace Text and Numbers in Excel](https://twitter-vid
 
 ![REPLACE text at the beginning](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/ReplaceBeginning-ExcelTextFunctions.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Here's another example for that product ID. Using this formula, we can change the eighth and ninth characters in the string "QR" with "VV."
 
 =REPLACE(A1:A5,8,2,"VV")
@@ -166,9 +226,6 @@ Related: [How to Find and Replace Text and Numbers in Excel](https://twitter-vid
 
 ![REPLACE text at the end](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/ReplaceEnd-ExcelTextFunctions.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Substitute Current With New Text: SUBSTITUTE
 
  Similar to REPLACE, you can use the SUBSTITUTE function to [change the actual text](https://screen-mirror.techidaily.com/how-to-screen-mirroring-samsung-galaxy-xcover-7-drfone-by-drfone-android/) rather than using a character's position.
@@ -181,9 +238,6 @@ Related: [How to Find and Replace Text and Numbers in Excel](https://twitter-vid
 
 ![SUBSTITUTE a name](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/SubstituteName-ExcelTextFunctions.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  To change "Location 1, Quarter 1" to "Location 1, Quarter 2" in cell A1, you would use this formula:
 
 =SUBSTITUTE(A1,"1","2",2)
@@ -192,9 +246,6 @@ Related: [How to Find and Replace Text and Numbers in Excel](https://twitter-vid
 
 ![SUBSTITUTE a number](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/SubstituteNumber-ExcelTextFunctions.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ##  Combine Text: CONCAT
 
  One final function you may find helpful when working with text is CONCAT. This function helps you [join text](https://fake-location.techidaily.com/is-pgsharp-legal-when-you-are-playing-pokemon-on-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/) from multiple strings or locations into one string, or [add to currently existing text](https://buynow-reviews.techidaily.com/a-comprehensive-review-top-long-reach-routers-dominating-the-market-in-ebytes/).

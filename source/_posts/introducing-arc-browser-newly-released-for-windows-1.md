@@ -1,7 +1,7 @@
 ---
 title: Introducing Arc Browser - Newly Released for Windows 1
-date: 2024-08-28T04:28:06.915Z
-updated: 2024-08-29T04:28:06.915Z
+date: 2024-09-05T07:55:55.420Z
+updated: 2024-09-06T07:55:55.420Z
 tags:
   - windows
 categories:
@@ -9,6 +9,18 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/arc-browser.jpg
 ---
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Introducing Arc Browser - Newly Released for Windows 1
 
 Arc, a free web browser developed by The Browser Company, is now available on Windows 10\. The only caveat is that it doesn't work on Windows 10 build 1809, which Microsoft doesn’t support either.
@@ -19,6 +31,12 @@ Arc, a free web browser developed by The Browser Company, is now available on Wi
 
 ![Arc browser running on macOS 13 Ventura](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/arc_browser_featured.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Arc is a new Chromium-based browser released in April 2022 that supports Chrome browser extensions from the Chrome Web Store out of the box. The app comes with [some interesting integrations](https://arc.net/integrations), like the ability to change visual elements of any page, with built-in apps hosted in a sidebar. In addition to Windows 10, Arc is available on iOS, iPadOS, macOS, iOS, and Windows 11\. Linux and Android are unsupported at the moment, but you can sign up for an [Android waitlist](https://browserco.typeform.com/to/i5p2MBU5) or a [Windows on ARM waitlist](https://browserco.typeform.com/Arc-Windows-ARM) to stay informed about when those versions will become available.
 
  Due to Apple's requirements, the iOS and iPadOS versions use Safari's WebKit layout engine. However, that could change for customers in the European Union, where Apple now permits third-party browsers with custom engines. For further information about the browser and what you can do with it, be sure to [peruse our Arc review](https://instagram-video-recordings.techidaily.com/the-art-of-sharing-horizontals-in-igtvs-vertical-world/).
@@ -96,11 +114,3 @@ Arc, a free web browser developed by The Browser Company, is now available on Wi
 <li><a href="https://win-forum.techidaily.com/windows-11-troubleshooting-guide-how-to-fix-high-resource-use-by-hard-drive/"><u>Windows 11 Troubleshooting Guide: How to Fix High Resource Use by Hard Drive</u></a></li>
 <li><a href="https://win-forum.techidaily.com/windows-11-users-tutorial-how-to-terminate-a-frozen-application-via-task-manager/"><u>Windows 11 User's Tutorial: How to Terminate a Frozen Application via Task Manager</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->

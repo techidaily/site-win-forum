@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Creating and Utilizing Data Tables Within MS Excel Visuals"
-date: 2024-08-28T04:29:56.424Z
-updated: 2024-08-29T04:29:56.424Z
+date: 2024-09-05T07:55:57.220Z
+updated: 2024-09-06T07:55:57.220Z
 tags:
   - excel
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/6d193ed35f1214a7fd553c445c38b6b7633741c0bda3a9fe486dfd62eae70d54.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Step-by-Step Guide: Creating and Utilizing Data Tables Within MS Excel Visuals
 
 ### Quick Links
@@ -17,6 +23,18 @@ thumbnail: https://thmb.techidaily.com/6d193ed35f1214a7fd553c445c38b6b7633741c0b
 * [Customize a Data Table in Excel](https://instagram-videos.techidaily.com/instagram-lost-and-found-follower-hunt-for-2024/)
 * [Changing the Table Data](https://snapchat-videos.techidaily.com/speak-with-style-mastering-the-art-of-altering-vocal-effects-on-snapchat-for-2024/)
 
+<!-- affiliate ads begin -->
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
  Select the "Chart Design" tab on the ribbon, click the "Add Chart Element" button, point to "Data Table," and select the type of table you want to add. Select the "More Data Table Options" menu item to further customize your data table.
@@ -25,9 +43,6 @@ thumbnail: https://thmb.techidaily.com/6d193ed35f1214a7fd553c445c38b6b7633741c0b
 
  A data table is a grid of the data you use to [create your chart](https://buynow-help.techidaily.com/detailed-insight-into-the-campfire-chronicles-character-customization-collection/) that sits beneath the graph itself. Once you add a data table, you can format and customize it to your liking.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Add a Data Table to a Chart in Excel
 
  You can add a data table to the most common types of charts in Excel, including [bar](https://extra-support.techidaily.com/updated-premium-psd-aesthetic-optimization/), column, and line. Create your chart as you normally would. When you're ready to add the data table, select the chart.
@@ -39,28 +54,31 @@ Related: [How to Make a Bar Chart in Microsoft Excel](https://extra-support.tech
 ![Add Chart Elements on the Chart Design tab](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/ChartDesignAddElement-ExcelDataLabels.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Move your cursor to Data Table and then choose the type of table you want to add from the pop-out menu. You can choose a table with or without legend keys.
 
 ![Data Table types in the Add Chart Element menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/AddElementDataTable-ExcelDataTableChart.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  In Excel on Windows, you have an additional way to insert a data table. Click the Chart Elements button (+) on the top right or left corner of the chart. Check the box for Data Table and select the arrow to pick the type of table you want to use.
 
 ![Data Table types in the Chart Element menu on Windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/AddElementDataTableWindows-ExcelDataTableChart.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
  Once you add your table, you may need to resize your chart by dragging a corner or edge. This helps you give the chart and data table more room which makes them both easier to read.
 
 ![Resized chart and data table in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/ResizedChart-ExcelDataTableChart.png) 
 
  If you decide later to remove the table, return to Chart Design > Add Chart Element and pick "None" in the Data Table pop-out menu.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Customize a Data Table in Excel
 
  By default, a data table appears in a grid with borders and a white background. But you can [customize the appearance](https://youtube-docs.techidaily.com/approved-strategies-for-effective-youtube-playlist-distribution/) of the table if you like.
@@ -78,7 +96,10 @@ Related: [How to Create and Customize a Waterfall Chart in Microsoft Excel](http
 ![Border options in the Format Data Table sidebar](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/FormatDataTableOptionsTab-ExcelDataTableChart.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  To change the fill and border settings, select the Fill & Line tab. You can choose a fill type and pick a color from the palette.
 
@@ -88,6 +109,18 @@ Related: [How to Create and Customize a Waterfall Chart in Microsoft Excel](http
 
 ![Line and Effects in the Format Data Table sidebar](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/FormatDataTableLineEffects-ExcelDataTableChart.png) 
 
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  You can also change the font that displays within the table. At the top of the sidebar, choose Text Options. Use the Text Fill & Outline and Text Effects tabs to adjust the text fill style, font color, transparency, and effects.
 
 ![Text options in the Format Data Table sidebar](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/FormatDataTableTextOptions-ExcelDataTableChart.png) 
@@ -99,7 +132,10 @@ Related: [How to Create and Customize a Waterfall Chart in Microsoft Excel](http
 ![Column chart with a data table in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/ColumnChartDataTable-ExcelDataTableChart.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  When you want to display the exact details for your Excel chart, consider using a data table. For additional help with graphs in Excel, check out how to [apply a chart filter](https://blog-min.techidaily.com/how-to-install-device-drivers-manually-on-windows-10-by-drivereasy-guide/) or how to [find the chart type that fits](https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-xiaomi-13t-pro-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/) your data best.
 

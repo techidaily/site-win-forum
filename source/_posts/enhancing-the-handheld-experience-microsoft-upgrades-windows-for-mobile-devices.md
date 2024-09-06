@@ -1,7 +1,7 @@
 ---
 title: "Enhancing the Handheld Experience: Microsoft Upgrades Windows for Mobile Devices"
-date: 2024-08-28T04:27:29.076Z
-updated: 2024-08-29T04:27:29.076Z
+date: 2024-09-05T07:55:54.798Z
+updated: 2024-09-06T07:55:54.798Z
 tags:
   - windows
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/a362218194355c666b0860326aa79761dfe27d2518f12f424f4610cd1ffe517b.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Enhancing the Handheld Experience: Microsoft Upgrades Windows for Mobile Devices
 
 Handheld console-like PCs running Windows are becoming more common, but Windows still isn’t really built for tablet-sized screens with controller navigation. Microsoft is now fixing one of the bigger headaches there: the Xbox Game Bar.
@@ -21,6 +27,12 @@ Handheld console-like PCs running Windows are becoming more common, but Windows 
 
 ![Adding a widget in the Windows game bar on a handheld PC.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/2408-widgets-80b614204effb964aca0-1536x864.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Microsoft
 
  Most PC gaming handhelds ship with Windows, such as the [ASUS ROG Ally](https://some-guidance.techidaily.com/2024-approved-streamline-and-shine-the-top-5-video-quality-tools/) and [Lenovo Legion Go](https://buynow-help.techidaily.com/wire-free-wonderment-the-allure-of-m06-headphones/), but the operating system still isn’t optimized for that design. This is one of Microsoft’s first steps towards fixing that. There are still many other actions that will require tapping the screen or using an on-screen keyboard, but making the Game Bar work well with controller input is a step in the right direction.
@@ -96,7 +108,3 @@ Microsoft
 <li><a href="https://win-forum.techidaily.com/top-social-platforms-compared-facebook-vs-twitter-vs-instagram-vs-youtube/"><u>Top Social Platforms Compared: Facebook Vs. Twitter Vs. Instagram Vs. YouTube</u></a></li>
 <li><a href="https://blue-screen-error.techidaily.com/troubleshooting-fixes-for-the-infamous-driver-pnp-watchguard-bsod-issue/"><u>Troubleshooting Fixes for the Infamous Driver PNP Watchguard BSOD Issue</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Elevate Your Computer with a Windows 11 Update"
-date: 2024-08-28T04:27:38.306Z
-updated: 2024-08-29T04:27:38.306Z
+date: 2024-09-05T07:55:54.926Z
+updated: 2024-09-06T07:55:54.926Z
 tags:
   - windows
 categories:
@@ -19,6 +19,12 @@ thumbnail: https://thmb.techidaily.com/e77b802386df347968174243d9eec6b1ff5aaa13a
 * [Create a Bootable Windows 11 USB Drive](https://screen-mirroring-recording.techidaily.com/in-2024-keeping-synchronization-fix-frame-disruptions-in-obs/)
 * [If Your PC Isn't Officially Supported](https://snapchat-videos.techidaily.com/effortless-communication-unveil-the-three-step-method-for-snapchat-calls-for-2024/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Run Microsoft's PC Health Check app to determine if your PC is eligible for an upgrade to Windows 11\.
@@ -28,8 +34,16 @@ thumbnail: https://thmb.techidaily.com/e77b802386df347968174243d9eec6b1ff5aaa13a
  If you've [decided you want to upgrade from Windows 10](https://location-fake.techidaily.com/11-best-location-changers-for-oppo-f23-5g-drfone-by-drfone-virtual-android/), here's how you can get the free upgrade—even if Windows Update doesn't offer it. This works if Windows 11 doesn't officially support your PC, too.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  How to Check if Windows 11 Supports Your PC
 
@@ -38,7 +52,16 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 ![Click the 'Download PC Health Check App.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/download-pc-healthcheck.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Click the "Check Now" button and the tool will tell you whether Windows 11 officially supports your PC. If it doesn't, the tool will give you information about why. If the problem is lack of TPM 2.0, for example, you may be able to [turn TPM 2.0 on in your PC's UEFI firmware (BIOS.)](https://win11.techidaily.com/accelerate-workflow-efficiency-introducing-flow-launcher-methodology/) 
 
@@ -46,12 +69,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
 ![The PC in question meets the requirements for Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/pc-meets-w11-requirements.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ##  The Safe and Slow Way: Windows Update
 
  For the safest possible update process, go to Settings > Update & Security > Windows Update on your Windows 10 PC. (You can press Windows+i to quickly open the Settings app.)
@@ -62,6 +79,12 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
 ![The Windows 11 upgrade available through the Windows Update window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/w11-through-update-manager.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Download Windows 11 with the Update Assistant
 
  Microsoft offers a variety of tools for [downloading Windows 11](https://common-error.techidaily.com/guide-solving-the-problem-of-dysfunctional-usb-mouse-and-keyboard-under-windows-vistawindows-7/), including the Update Assistant. The Update Assistant is designed to be very simple to use. 
@@ -71,7 +94,16 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 ![The Windows 11 Installation Assistant.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/w11-installer-thingy.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Create a Bootable Windows 11 USB Drive
 
@@ -79,11 +111,20 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
 ![The Windows Media Creation Tool set to create a bootable USB drive.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/windows-media-creation-tool.png) 
 
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  If you encounter a problem, note that you can [downgrade back to Windows 10](https://tech-haven.techidaily.com/the-future-of-development-with-artificial-intelligence-professional-insights/) within the first ten days after upgrading.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ##  If Your PC Isn't Officially Supported
 
  If your PC isn't officially supported, and you want to upgrade anyway, you will have to do some legwork to figure out why. There are several [ways to install Windows 11 on an unsupported PC](https://youtube-tips.techidaily.com/ed-the-fastest-rising-youtube-stars-for-personal-growth-and-motivation/).

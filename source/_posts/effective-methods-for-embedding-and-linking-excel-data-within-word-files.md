@@ -1,7 +1,7 @@
 ---
 title: Effective Methods for Embedding and Linking Excel Data Within Word Files
-date: 2024-08-28T04:29:02.520Z
-updated: 2024-08-29T04:29:02.520Z
+date: 2024-09-05T07:55:56.293Z
+updated: 2024-09-06T07:55:56.293Z
 tags:
   - excel
 categories:
@@ -9,8 +9,20 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/07/img_5b40230c5bfe0.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Effective Methods for Embedding and Linking Excel Data Within Word Files
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [What's the Difference Between Linking and Embedding?](https://extra-approaches.techidaily.com/in-2024-night-owls-techniques-for-long-exposure-iphone-pics/)
@@ -34,7 +46,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018
  So, with all that in mind, let's take a look at how to link and embed an Excel Sheet in Microsoft Word.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  How to Link or Embed an Excel Worksheet in Microsoft Word
 
@@ -44,19 +59,25 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018
 
 ![Image 002](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/07/Image-002.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Copy those cells by pressing CTRL+C in Windows or Command+C in macOS. You can also right-click any selected cell, and then choose the "Copy" option on the context menu.
 
 ![Image 1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/07/Image-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Now, switch to your Word document and click to place the insertion point where you would like the linked or embedded material to go. On Home tab of the Ribbon, click the down arrow beneath the "Paste" button, and then choose the "Paste Special" command from the dropdown menu.
 
 ![Image 004](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/07/Image-004.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  This opens the Paste Special window. And it's here where you'll find the only functional different in the processes of linking or embedding a file.
 
@@ -66,15 +87,21 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018
 
 ![Image 007](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/07/Image-007.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
  And you'll see your Excel sheet (or the cells you selected) in your Word document.
 
 ![Image 006](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/07/Image-006.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  If you linked the Excel data, you can't edit it directly in Word, but you can double-click anywhere on it to open the original spreadsheet file. And any updates you make to that original spreadsheet are then reflected in your Word document.
 
@@ -82,9 +109,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018
 
 ![Image 008](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/07/Image-008.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  And when you want to stop editing the spreadsheet and go back to your Word controls, just click anywhere outside the spreadsheet.
 
  Note: If you working on a Word document and want to include a spreadsheet that you haven't created yet, you can. You can actually [insert an Excel Spreadsheet](https://facebook-video-footage.techidaily.com/updated-cut-to-impact-in-depth-youtube-video-editing-mastery-for-2024/) right from the Table dropdown menu on the Ribbon.

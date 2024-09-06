@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Portable Computing: Microsoft's Improvements to Windows for Pocket-Sized PCs"
-date: 2024-08-28T04:27:37.078Z
-updated: 2024-08-29T04:27:37.078Z
+date: 2024-09-05T07:55:54.906Z
+updated: 2024-09-06T07:55:54.906Z
 tags:
   - windows
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/7d1b7d497493e5756a9eae2f81fc5bb531d48fafeba479fd9a0bba8059bd4edc.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Revolutionizing Portable Computing: Microsoft's Improvements to Windows for Pocket-Sized PCs
 
 Handheld console-like PCs running Windows are becoming more common, but Windows still isn’t really built for tablet-sized screens with controller navigation. Microsoft is now fixing one of the bigger headaches there: the Xbox Game Bar.
@@ -21,6 +27,18 @@ Handheld console-like PCs running Windows are becoming more common, but Windows 
 
 ![Adding a widget in the Windows game bar on a handheld PC.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/2408-widgets-80b614204effb964aca0-1536x864.png) 
 
+<!-- affiliate ads begin -->
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Microsoft
 
  Most PC gaming handhelds ship with Windows, such as the [ASUS ROG Ally](https://some-guidance.techidaily.com/2024-approved-streamline-and-shine-the-top-5-video-quality-tools/) and [Lenovo Legion Go](https://buynow-help.techidaily.com/wire-free-wonderment-the-allure-of-m06-headphones/), but the operating system still isn’t optimized for that design. This is one of Microsoft’s first steps towards fixing that. There are still many other actions that will require tapping the screen or using an on-screen keyboard, but making the Game Bar work well with controller input is a step in the right direction.
@@ -116,7 +134,3 @@ Microsoft
 <li><a href="https://win-forum.techidaily.com/why-cant-i-open-my-application-diagnosing-and-repairing-launch-errors-on-a-pc/"><u>Why Can't I Open My Application? Diagnosing and Repairing Launch Errors on a PC</u></a></li>
 <li><a href="https://win-forum.techidaily.com/windows-11-installation-hack-overcoming-ineligible-processor-restrictions/"><u>Windows 11 Installation Hack: Overcoming Ineligible Processor Restrictions</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

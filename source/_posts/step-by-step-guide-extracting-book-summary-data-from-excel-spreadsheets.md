@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Extracting Book Summary Data From Excel Spreadsheets"
-date: 2024-08-28T04:29:58.698Z
-updated: 2024-08-29T04:29:58.698Z
+date: 2024-09-05T07:55:57.257Z
+updated: 2024-09-06T07:55:57.257Z
 tags:
   - excel
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/98a12915cb3d2cb54c3468dae6fd64cafa98af7144806238fd48ac7236bdda16.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Step-by-Step Guide: Extracting Book Summary Data From Excel Spreadsheets
 
 ### Quick Links
@@ -20,6 +26,12 @@ thumbnail: https://thmb.techidaily.com/98a12915cb3d2cb54c3468dae6fd64cafa98af714
 
  Viewing [statistics in Microsoft Word](https://tech-savvy.techidaily.com/ai-and-healthcare-how-can-chatgpt-innovate/) is helpful for seeing the number of pages, words, or characters. But getting statistics in Excel can be just as useful. You may have a workbook for a class with specific requirements, or you may have a spreadsheet for business that you want to review for unnecessary elements.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2030385/7443" target="_top" id="2030385">
+  <img src="//a.impactradius-go.com/display-ad/7443-2030385" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030385/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Get Workbook Statistics in Microsoft Excel
 
  You can view your Workbook Statistics at any point in your spreadsheet creation process, and as many times as you like.
@@ -28,16 +40,43 @@ thumbnail: https://thmb.techidaily.com/98a12915cb3d2cb54c3468dae6fd64cafa98af714
 
 ![Click Workbook Statistics on the Review tab](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/ReviewWorkbookStatistics-Excel.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  When the small window opens, you'll see data for your current sheet at the top and the entire workbook at the bottom.
 
 ![Workbooks Statistics in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/WorkbooksStatisticsWindowNext-Excel.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  If you want details for a different sheet in your workbook, close the Workbook Statistics window by clicking "OK." Then click the tab for the sheet that you want to see and follow the same steps listed above.
 
 ![Workbooks Statistics for two sheets](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/WorkbooksStatisticsTwoWindows-Excel.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Data Included in Workbook Statistics
 

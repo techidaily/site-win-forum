@@ -1,7 +1,7 @@
 ---
 title: "Mastering Personalized Chart Design in Excel: A Step-by-Step Guide"
-date: 2024-08-28T04:29:23.651Z
-updated: 2024-08-29T04:29:23.651Z
+date: 2024-09-05T07:55:56.675Z
+updated: 2024-09-06T07:55:56.675Z
 tags:
   - excel
 categories:
@@ -35,6 +35,12 @@ The world today has way too much data, but very little information. In today's a
 
 ![trends_chart_selection](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/11/trends_chart_selection.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Juice Analytics gives a wide range of custom, ready-to-use Excel charts that we can download as an Excel spreadsheet or as a Powerpoint slide.
 
 ![download_chart](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/11/download_chart.png) 
@@ -51,18 +57,42 @@ The world today has way too much data, but very little information. In today's a
 
 ![page_count_comparison](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/11/page_count_comparison.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  We chose a different type of column chart to give a report of our daily page views, called the stacked column chart---it is basically the same chart, except it stacks the charts on top of one another and sums the data to give a better picture of how many page views each author's article gets on a day-to-day basis.
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/11/column_chart.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  We start keying in the author's name, dates, and page views into the chart data section...
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/11/stacked_data.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  We're also adding a total of the daily page views using the standard "sum" function.
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/11/math_menu.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The "sum" function aggregates each writer's page views under the "Total" column.
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/11/sum_formula.png) 
@@ -75,6 +105,12 @@ The world today has way too much data, but very little information. In today's a
 
 ![other_charts](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/11/other_charts.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  We can see our Chief Geek smiling when he sees that we have been working hard producing better articles for How-To Geek.
 
 ---
@@ -160,7 +196,3 @@ The world today has way too much data, but very little information. In today's a
 <li><a href="https://win-forum.techidaily.com/updating-your-pcs-hardware-a-step-by-step-guide-to-refresh-windows-10-drivers/"><u>Updating Your PC's Hardware: A Step-by-Step Guide to Refresh Windows 10 Drivers</u></a></li>
 <li><a href="https://win-forum.techidaily.com/windows-11-installation-hack-overcoming-ineligible-processor-restrictions/"><u>Windows 11 Installation Hack: Overcoming Ineligible Processor Restrictions</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->

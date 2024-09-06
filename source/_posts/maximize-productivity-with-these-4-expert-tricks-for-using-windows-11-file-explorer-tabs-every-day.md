@@ -1,7 +1,7 @@
 ---
 title: Maximize Productivity with These 4 Expert Tricks for Using Windows 11 File Explorer Tabs Every Day
-date: 2024-08-28T04:28:45.929Z
-updated: 2024-08-29T04:28:45.929Z
+date: 2024-09-05T07:55:56.005Z
+updated: 2024-09-06T07:55:56.005Z
 tags:
   - windows
 categories:
@@ -22,6 +22,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  As someone who uses File Explorer daily to manage my workflow, tabs have helped me to have different folders for work that is at different stages of completion. Here are my top tips for using the tabs for productivity.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Open and Close Tabs
 
  Assuming you [have the latest update of Windows 11](https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-realme-v30-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/) installed on your computer, press Ctrl+E to open File Explorer. Before I discovered the File Explorer tabs, I used to open a second window, which would take more time and clutter my screen.
@@ -30,22 +36,49 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![File Explorer with the new tab '+' highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/new-tab.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  If you know which folder you want to open in a new tab, you can right-click on said folder and select "Open In New Tab." Alternatively, if you are using a mouse with a scrolling wheel, click the scrolling wheel on the relevant folder and this will open it in a new tab. In this example, the Desktop folder will open in the new tab.
 
 ![File Explorer with the 'Open In New Tab' option open having right-clicked a folder to open in the new tab.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/new-tab-2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  It's just as easy to close a tab. Use the shortcut key Ctrl+W to close your active tab, click the small "X" in the corner of a tab to close it, or click your mouse scrolling wheel on the tab you want to close. Whichever method you use, if you have only one tab open in the File Explorer window, this will close the whole window.
 
 ![File Explorer with the 'X' to close the tab highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/close-tab.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  To close all tabs at the same time, simply close the File Explorer window. If you have several tabs open, you can view the other tab closing options by right-clicking on one of the tabs.
 
 ![The tab closing options viewable in File Explorer by right-clicking on an existing tab.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/tab-closing-options.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Click "Close Other Tabs" to leave just that one tab open, or click "Close Tabs To The Right" to keep that tab and the tabs to the left open, while closing all the other tabs.
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Change the Default New Tab Folder
 
@@ -55,24 +88,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The File Explorer 'Options,' accessed via the three dots on the ribbon in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/file-explorer-options.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
  Open the "Home" tab in Folder Options window, and click the "Open File Explorer To" drop-down arrow. From there, you can change the default launch folder to "Home" (if this is not already selected), "This PC," or "\[Your Name\] - Personal" (your OneDrive folder). You'll see this in action next time you open a new File Explorer window or tab.
 
 ![File Explorer's Folder Options Window with the 'Open File Explorer To' drop-down options highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/file-explorer-folder-options-window.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  Jump Between and Reorder Tabs
 
  Now that you have several tabs open, you can simply click between them to access the different folders. However, you can further speed up the process by using keyboard shortcuts:
@@ -82,16 +101,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Five File Explorer tabs numbered from one to five.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/numbered-tabs.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  To reorder your tabs along the tab bar (for example, I like to organize my tabs in terms of work completion, with new tasks on the left, semi-finished tasks in their various degrees of completion in the middle, and completed tasks on the right), simply click and drag the tab you want to move and drop it in its new place.
 
  If you want to split your tabs back into separate windows (for example, if you're working on two screens and would find it easier to see a specific folder on the second screen), drag and drop the tab away from the File Explorer window.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Move or Copy Files or Folders Between Tabs
 
  One of the benefits of having more than one tab open is that you can quickly move and copy files or folders from one place to another, avoiding the need to locate different folders and use Ctrl+C or Ctrl+X.

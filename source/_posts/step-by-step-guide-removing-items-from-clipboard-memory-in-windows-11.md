@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Removing Items From Clipboard Memory in Windows 11"
-date: 2024-08-28T04:28:19.639Z
-updated: 2024-08-29T04:28:19.639Z
+date: 2024-09-05T07:55:55.603Z
+updated: 2024-09-06T07:55:55.603Z
 tags:
   - windows
 categories:
@@ -9,8 +9,26 @@ categories:
 thumbnail: https://thmb.techidaily.com/d599dad7b998abdf06ca417d32becc28547b33f181303fc426d96b899acd4e4b.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Step-by-Step Guide: Removing Items From Clipboard Memory in Windows 11
 
+<!-- affiliate ads begin -->
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [What Gets Stored in Clipboard History?](https://pokemon-go-android.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-realme-c67-5g-drfone-by-drfone-virtual-android/)
@@ -18,6 +36,12 @@ thumbnail: https://thmb.techidaily.com/d599dad7b998abdf06ca417d32becc28547b33f18
 * [Another Way to Clear All Clipboard Data](https://extra-skills.techidaily.com/2024-approved-navigating-through-gopro-models-and-specifications/)
 * [How to Disable Clipboard History in Windows 10](https://android-frp.techidaily.com/top-5-meizu-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Clipboard history in Windows 10 stores the 25 most recent items you've copied, including text, HTML, and images.
@@ -30,6 +54,12 @@ thumbnail: https://thmb.techidaily.com/d599dad7b998abdf06ca417d32becc28547b33f18
 
  Clipboard history, first introduced in Windows 10's [October 2018 Update](https://facebook-record-videos.techidaily.com/new-in-2024-essential-youtube-video-editing-techniques/), stores a list of the 25 most recent items that you've copied to the Clipboard. These items can include text, HTML, and images smaller than 4 MB in size. Unless an item is pinned to the Clipboard, the Clipboard history list gets erased every time you restart your device.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  How to Clear Clipboard History in Windows 10
 
  Unlike other [potentially privacy-invasive features in Windows 10](https://video-capture.techidaily.com/updated-in-2024-the-ultimate-agri-game-guide-for-social-playtime-with-pals/), the Clipboard history feature only works if it has been enabled from Settings > System > Clipboard.
@@ -43,7 +73,10 @@ thumbnail: https://thmb.techidaily.com/d599dad7b998abdf06ca417d32becc28547b33f18
 ![Click the ellipses in Clipboard history on Windows 10](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/05/click_ellipses.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  A small menu will pop up. Click "Delete" and the item will be removed from the list.
 
@@ -53,15 +86,15 @@ thumbnail: https://thmb.techidaily.com/d599dad7b998abdf06ca417d32becc28547b33f18
 
 ![Click clear all in Clipboard history on Windows 10](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/05/click_clear_all.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Any remaining items on the list after you click "Clear All" are pinned in place. If you'd like to remove a pinned item, click the ellipses beside it and select "Unpin." Then you can either delete it or try "Clear All" from the ellipses menu again.
 
  Note that with Clipboard history enabled, new items will continue to appear in the Clipboard history list every time you copy something to the Clipboard. If you would like to prevent Windows from storing your Clipboard history, you will need to disable the feature in Windows Settings.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Another Way to Clear All Clipboard Data
 
@@ -69,9 +102,6 @@ thumbnail: https://thmb.techidaily.com/d599dad7b998abdf06ca417d32becc28547b33f18
 
 ![Tap 'Clear' to clear your clipboard history.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/clear-clipboard-data.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
  This is equivalent to pushing the "Clear All" button in the Clipboard history window, but it also works with Clipboard history turned off.
 
 ##  How to Disable Clipboard History in Windows 10
@@ -82,20 +112,20 @@ thumbnail: https://thmb.techidaily.com/d599dad7b998abdf06ca417d32becc28547b33f18
 
 ![Click 'Settings.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/click-settings.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  On the Settings sidebar, click on "Clipboard." In Clipboard settings, locate the section called "Clipboard history" and toggle the switch to "Off."
 
 ![Select 'Clipboard' to the left, then disable 'Clipboard History.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/clipboard.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Once disabled, if you press Windows+V, you will see a small window alerting you that Windows 10 cannot show your Clipboard history because the feature is turned off.
 
 ![Can't show Clipboard history message in Windows 10](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/05/cant_show_history.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Now you're free to copy and paste in privacy once again.
 
 <ins class="adsbygoogle"

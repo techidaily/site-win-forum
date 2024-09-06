@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Utilizing Office 2016'S Ink Function for Math Equations.
-date: 2024-08-28T04:30:02.216Z
-updated: 2024-08-29T04:30:02.216Z
+date: 2024-09-05T07:55:57.308Z
+updated: 2024-09-06T07:55:57.308Z
 tags:
   - excel
 categories:
@@ -31,22 +31,46 @@ One of the [new features in Office 2016](https://on-screen-recording.techidaily.
 
 ![04_writing_equation](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/09/04_writing_equation.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  When you’ve finished writing your equation, click “Insert” to insert it into the equation box you added to your Word (or Excel or PowerPoint) document.
 
  NOTE: If you need to correct part of your equation, don’t worry. We’ll show you how to do that a little later in this article.
 
 ![05_clicking_insert](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/09/05_clicking_insert.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The equation is inserted into the equation box in your document.
 
 ![06_equation_entered_in_word](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/09/06_equation_entered_in_word.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  When entering equations, it’s a good idea to enter the whole equation before making corrections. It’s more likely your equation will be recognized correctly if you complete the whole equation. If you entered the equation for the area of a circle, you may have noticed that Ink Equation interpreted your equal sign wrong until you continued to the enter the equation, at which point, the program corrected the symbol.
 
  Once you’ve entered your equation and you discover you need to replace part of the equation, you can erase the part you need to replace. To do this, click “Erase”.
 
 ![07_clicking_erase](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/09/07_clicking_erase.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The cursor changes to an eraser. Move the eraser over the part you want to erase, then click and drag over that part of the equation. Once you’ve erased what you want to, click the “Write” button to draw new parts of your equation.
 
 ![08_erasing_part_of_equation](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/09/08_erasing_part_of_equation.png) 
@@ -57,10 +81,28 @@ One of the [new features in Office 2016](https://on-screen-recording.techidaily.
 
 ![09_select_and_correct](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/09/09_select_and_correct.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  If you want to erase the entire equation before inserting it, click “Clear”. All writing in the grid area is erased.
 
 ![10_clicking_clear](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/09/10_clicking_clear.png) 
 
+<!-- affiliate ads begin -->
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  If you use Windows Journal on a tablet to take math notes, you can copy the equations you write in that program into Ink Equation and insert them into Word, Excel, or PowerPoint. To begin, open the Word, Excel, or PowerPoint file into which you want to copy the equation and insert an equation box as discussed earlier in this article. Then, click open the “Ink Equation” tool.
 
  Now, open your math notes in Windows Journal.
@@ -75,10 +117,28 @@ One of the [new features in Office 2016](https://on-screen-recording.techidaily.
 
 ![12_selecting_equation](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/09/12_selecting_equation.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The equation is now selected. Move the mouse over one of the edges of the selection and start to drag the equation…
 
 ![13_dragging_equation](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/09/13_dragging_equation.png) 
 
+<!-- affiliate ads begin -->
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  …to the grid area on the open “Ink Equation” dialog box.
 
 ![14_dragging_into_ink_equation_dialog](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/09/14_dragging_into_ink_equation_dialog.png) 
@@ -143,7 +203,3 @@ One of the [new features in Office 2016](https://on-screen-recording.techidaily.
 <li><a href="https://win-forum.techidaily.com/top-social-platforms-unite-navigating-facebook-twitter-instagram-and-youtube/"><u>Top Social Platforms Unite: Navigating Facebook, Twitter, Instagram & YouTube</u></a></li>
 <li><a href="https://win-forum.techidaily.com/troubleshooting-and-activation-of-wake-on-lan-for-pcs-running-windows-11/"><u>Troubleshooting and Activation of Wake-on-LAN for PCs Running Windows 11</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

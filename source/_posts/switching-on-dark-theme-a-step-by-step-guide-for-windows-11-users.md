@@ -1,7 +1,7 @@
 ---
 title: "Switching on Dark Theme: A Step-by-Step Guide for Windows 11 Users"
-date: 2024-08-28T04:30:01.114Z
-updated: 2024-08-29T04:30:01.114Z
+date: 2024-09-05T07:55:57.292Z
+updated: 2024-09-06T07:55:57.292Z
 tags:
   - excel
 categories:
@@ -11,6 +11,12 @@ thumbnail: https://thmb.techidaily.com/e7ff9df7bb6af3b5e4d65d67011a30e37297e02c3
 
 ## Switching on Dark Theme: A Step-by-Step Guide for Windows 11 Users
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [Enable Dark Mode for Windows 10 Settings and Apps](https://fox-that.techidaily.com/navigating-privacy-ways-to-check-for-an-imessage-block-from-a-specific-user/)
@@ -19,6 +25,18 @@ thumbnail: https://thmb.techidaily.com/e7ff9df7bb6af3b5e4d65d67011a30e37297e02c3
 * [Install Dark Themes for Chrome, Firefox, and Other Applications](https://change-location.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-xiaomi-civi-3-drfone-by-drfone-virtual-android/)
 * [Enable a Dark Mode for Windows Desktop Applications](https://twitter-videos.techidaily.com/updated-ensuring-your-tweets-meet-aspect-ratio-norms/)
 
+<!-- affiliate ads begin -->
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
  To enable dark mode on Windows 10, open the Settings app, go to Personalization > Color, and select "Dark." Some programs may respect your system settings, while others will require you to change them to dark mode manually.
@@ -33,12 +51,6 @@ thumbnail: https://thmb.techidaily.com/e7ff9df7bb6af3b5e4d65d67011a30e37297e02c3
 
 ![Select "Dark" from the drop-down menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/03/change-to-dark-mode.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Enable Dark Mode in Microsoft Edge
 
  The Microsoft Edge web browser included with Windows 10 also has a dark mode. It is set to Light mode by default, but it can be set to respect the system setting, or be forced to use dark mode.
@@ -48,7 +60,10 @@ thumbnail: https://thmb.techidaily.com/e7ff9df7bb6af3b5e4d65d67011a30e37297e02c3
 ![Click "Appearance", then click "System Default" or "Dark."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/03/click-appearance-then-click-system-defualt-or-dark.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  The title bar, toolbars, and menus for Edge turn dark, but most web pages themselves remain unaffected---unless [that website chooses to respect your dark theme](https://youtube-stream.techidaily.com/2024-approved-mr-beasts-financial-reach/). You'll need a browser extension like [Turn Off the Lights](https://www.microsoft.com/en-us/p/turn-off-the-lights-for-microsoft-edge/9nblggh52lrr#activetab=pivot:overviewtab) to make the whole web dark.
 
@@ -57,16 +72,16 @@ thumbnail: https://thmb.techidaily.com/e7ff9df7bb6af3b5e4d65d67011a30e37297e02c3
 Related: [How to Enable Dark Mode in Microsoft Edge](https://screen-activity-recording.techidaily.com/new-adjusting-low-bit-rate-settings-obs-for-2024/) 
 
 <!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Enable the Dark Theme in Microsoft Office
 
@@ -76,6 +91,12 @@ Related: [How to Enable Dark Mode in Microsoft Edge](https://screen-activity-rec
 
 ![Settings for the Office Suite that let you enable dark mode.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/10/img_5bb524ed07d4a.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Your theme choice applies to all Office applications. So, if you set this option in Word and later open Excel, Excel should also use a dark theme.
 
 Related: [How to Enable Dark Mode in Microsoft Office](https://youtube-help.techidaily.com/2024-approved-exploring-biggest-fifa-footage-trends-in-graphics/) 
@@ -92,6 +113,12 @@ Related: [How to Enable Dark Mode in Microsoft Office](https://youtube-help.tech
 
  You'll have to check to see whether the applications you frequently use offer their own theme options.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2024338/7443" target="_top" id="2024338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2024338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Enable a Dark Mode for Windows Desktop Applications
 
  The real problem with the new Dark Mode setting is that it doesn't affect all of the Windows desktop applications. Some desktop applications, like Notepad, continue using the normal, light theme.
@@ -100,6 +127,12 @@ Related: [How to Enable Dark Mode in Microsoft Office](https://youtube-help.tech
 
 ![High contrast settings menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/10/img_5bb525c2a8d34.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Setting this high contrast theme makes most desktop applications show a dark background. However, they don't look all that great. High contrast themes are an accessibility feature designed to increase contrast, so the screen is easier to read and understand. They don't look nearly as slick as a modern dark mode would.
 
 ![Notepad with high contrast mode active.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/10/img_5bb5259ac28b0.png) 
@@ -115,16 +148,10 @@ Related: [How to Install Custom Themes and Visual Styles in Windows](https://iph
 ![Select your theme, then click "Apply to Desktop."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/03/WindowBlinds.png) 
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  WindowBlinds doesn't have a built-in dark mode (though some built-in themes are darker than others). You can always create your own by clicking the "Modify Style" link under any theme. You can adjust pretty much anything you can think of there. But, there's an easier way.
 
@@ -134,9 +161,6 @@ Related: [How to Install Custom Themes and Visual Styles in Windows](https://iph
 
 ![File Explorer with a theme from WindowsBlinds applied.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/08/dt_c.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
  Not bad, right? And with a little tweaking, you could make it look just the way you want.
 
 <ins class="adsbygoogle"

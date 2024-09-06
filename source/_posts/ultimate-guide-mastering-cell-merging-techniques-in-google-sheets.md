@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Mastering Cell Merging Techniques in Google Sheets"
-date: 2024-08-28T04:30:03.232Z
-updated: 2024-08-29T04:30:03.232Z
+date: 2024-09-05T07:55:57.321Z
+updated: 2024-09-06T07:55:57.321Z
 tags:
   - excel
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/1fcdc6cbb778104aee870cc96ea727883cbb745be14bb05420507854521a636d.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Ultimate Guide: Mastering Cell Merging Techniques in Google Sheets
 
 Merging cells in Google Sheets is a great way to keep your spreadsheet well-organized and easy to understand. The most common use is for headers to identify content across multiple columns, but regardless of the reason, it's a simple process.
@@ -31,22 +37,58 @@ Merging cells in Google Sheets is a great way to keep your spreadsheet well-orga
 
 ![Click &quot;OK.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/10/2019-10-28_10h58_02.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  After you select the type of cell merging you want, all of the cells will combine into one big cell. If you have data in the first cell, it will occupy the entirety of the merged cell.
 
 ![The new cell will span the length of the selected cells.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/10/2019-10-28_10h55_22.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Now you can format the text/data in the cell however you want. Because our merged cell is a title for the four columns below it, we'll center align it overtop all of them. Click the Align icon in the toolbar and then click "Center."
 
 ![To center the text in the cell, click the Align icon in the toolbar, and then click &quot;Center.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/10/2019-10-28_11h08_18.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  If you want to unmerge the cells, the process is just as simple. Select the cell, click Format > Merge Cells, and then choose "Unmerge."
 
 ![To unmerge the cell, click the merged cell, and then click Format &gt; Merge cells &gt; Unmerge.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/10/2019-10-28_11h18_56.png) 
 
+<!-- affiliate ads begin -->
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  If the cells you previously merged all contained information in them, none of the data that was previously there will be preserved.
 
 ![The previously merged cell will return to single cells after you unmerge it.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/10/2019-10-28_11h22_06.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  That's it. You've successfully merged the cells in your spreadsheet.
 
 <ins class="adsbygoogle"
@@ -100,7 +142,3 @@ Merging cells in Google Sheets is a great way to keep your spreadsheet well-orga
 <li><a href="https://win-forum.techidaily.com/the-powerhouses-of-digital-connection-facebook-twitter-instagram-and-youtube/"><u>The Powerhouses of Digital Connection: Facebook, Twitter, Instagram & YouTube</u></a></li>
 <li><a href="https://win-forum.techidaily.com/unlocking-new-possibilities-configuring-windows-11-on-cpus-not-officially-supported/"><u>Unlocking New Possibilities: Configuring Windows 11 on CPUs Not Officially Supported</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

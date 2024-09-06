@@ -1,7 +1,7 @@
 ---
 title: "Introduction to Microsoft's Latest Cloud Sync Software: Windows Live Mesh 2011"
-date: 2024-08-28T04:29:14.251Z
-updated: 2024-08-29T04:29:14.251Z
+date: 2024-09-05T07:55:56.511Z
+updated: 2024-09-06T07:55:56.511Z
 tags:
   - excel
 categories:
@@ -23,6 +23,12 @@ Recently Microsoft has been indecisive with it's Live Mesh / Sync cloud based se
 
 ![sshot-2010-10-13-[20-47-48]](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/sshot-2010-10-13-20-47-48.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Remember to uninstall the beta first if you're using it, and you'll need to install it on each computer you want to sync up. 
 
 ![sshot-2010-10-13-[20-48-29]](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/sshot-2010-10-13-20-48-29.png) 
@@ -43,10 +49,34 @@ Recently Microsoft has been indecisive with it's Live Mesh / Sync cloud based se
 
 ![sshot-2010-10-13-[20-58-36]](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/sshot-2010-10-13-20-58-36.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Now you can start using Live Mesh 2011 to sync data between your computers and other compatible devices. 
 
 ![sshot-2010-10-13-[21-01-50]](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/sshot-2010-10-13-21-01-50.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Sync Files & Folders Between Computers
 
  First we'll take a look at syncing data between Windows computers -- there's also support for Macs but we weren't able to test it out at the time of this article. Launch Live Mesh and click on the Sync a folder hyperlink. 
@@ -61,56 +91,115 @@ Recently Microsoft has been indecisive with it's Live Mesh / Sync cloud based se
 
 ![sshot-2010-10-14-[18-01-43]](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/sshot-2010-10-14-18-01-43.png) 
 
+<!-- affiliate ads begin -->
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The synchronization kicks off...you can see it running on each computer you're syncing with. 
 
 ![sshot-2010-10-14-[18-03-46]](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/sshot-2010-10-14-18-03-46.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![sshot-2010-10-14-[18-04-28]](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/sshot-2010-10-14-18-04-28.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Then after the process has completed, you'll be able to see the files were synced successfully. 
 
 ![sshot-2010-10-14-[18-06-48]](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/sshot-2010-10-14-18-06-48.png) 
 
+<!-- affiliate ads begin -->
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Live Mesh runs in the background and monitors the synced folders for any changes. Any time you add a new file or folder to the synced directories, both machines will be updated. You can open it from an icon that lives in the Notification Area on the Taskbar. 
 
 ![sshot-2010-10-14-[18-21-05]](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/sshot-2010-10-14-18-21-05.png) 
 
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  By default, Network Locations aren't able to be synced with Live Mesh 2011, however, it is compatible with Server 2003, 2008, and Windows Home Server Version 1\. 
 
 ![sshot-2010-10-14-[21-46-06]](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/sshot-2010-10-14-21-46-06.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2030395/7443" target="_top" id="2030395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2030395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Sync Folders with Live Mesh & SkyDrive
 
  One of the often overlooked free online storage services from Microsoft is SkyDrive. With the new version of Mesh, it borrows 5GB of storage you can use to sync your data. Open Live Mesh and select Sync a folder, navigate to the folder you want to sync, and click the Sync button. 
 
 ![sshot-2010-10-14-[18-26-23]](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/sshot-2010-10-14-18-26-23.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![sshot-2010-10-14-[18-27-48]](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/sshot-2010-10-14-18-27-481.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
  This time instead of clicking another PC, you want to select SkyDrive synced storage and click OK. 
 
 ![sshot-2010-10-14-[18-28-28]](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/sshot-2010-10-14-18-28-28.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You'll see a message that the files are being synced and after the process completes. 
 
 ![sshot-2010-10-14-[18-30-05]](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/sshot-2010-10-14-18-30-05.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
  To see the folders and files you synced to your synced storage, click on SkyDrive synced storage and sign into your Live account if prompted. 
 
 ![sshot-2010-10-14-[18-44-58]](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/sshot-2010-10-14-18-44-58.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Here we can see the Excel documents folder that we synced to our SkyDrive. Click on the folder to view its content. 
 
@@ -120,6 +209,18 @@ The ultimate burning program for all your needs!</a>
 
 ![sshot-2010-10-14-[18-46-37]](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/sshot-2010-10-14-18-46-37.png) 
 
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Sync Folders with Other Computers & SkyDrive
 
  You can actually choose multiple machines and your SkyDrive Synced Storage at once. For instance, if we wanted to sync our Office Docs folder between other computers and SkyDrive Synced Storage, click on Select devices. 
@@ -131,7 +232,10 @@ The ultimate burning program for all your needs!</a>
 ![sshot-2010-10-14-[19-02-59]](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/sshot-2010-10-14-19-02-59.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2030373/7443" target="_top" id="2030373">
+  <img src="//a.impactradius-go.com/display-ad/7443-2030373" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030373/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Remotely Connect to Another Computer
 
@@ -139,28 +243,46 @@ The ultimate burning program for all your needs!</a>
 
 ![sshot-2010-10-14-[19-31-39]](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/sshot-2010-10-14-19-31-39.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
  If you haven't done so already you'll need to click on Allow remote connections to this computer on each of the machines you want to access remotely. 
 
 ![sshot-2010-10-14-[19-35-54]](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/sshot-2010-10-14-19-35-54.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
  For example here in our list of computers, not all of them are set up for remote access. 
 
 ![sshot-2010-10-14-[19-38-29]](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/sshot-2010-10-14-19-38-29.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Click on Connect to this computer, then wait for the connection to be established. 
 
 ![sshot-2010-10-14-[19-38-46]](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/sshot-2010-10-14-19-38-46.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Here we connected to our Netbook -- both running Windows 7\. Now you'll be able to access your other machine just like as if you were sitting in front of it. 
 
 ![sshot-2010-10-14-[20-06-37]](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/sshot-2010-10-14-20-06-37.png) 
 
+<!-- affiliate ads begin -->
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  From the bar at the top of the Live Mesh remote screen you can control different aspects of the other computer like sending Ctrl+Alt+Del. 
 
 ![sshot-2010-10-14-[20-11-16]](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/sshot-2010-10-14-20-11-16.png) 
@@ -173,30 +295,35 @@ The ultimate burning program for all your needs!</a>
 
 ![sshot-2010-10-14-[22-04-09]](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/sshot-2010-10-14-22-04-09.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Click on the magnifying glass icon to change the size of the display while you're connected to another machine. 
 
 ![sshot-2010-10-14-[20-12-55]](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/sshot-2010-10-14-20-12-55.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Here is an example where we connected to a Vista computer. 
 
 ![sshot-2010-10-14-[22-07-15]](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/sshot-2010-10-14-22-07-15.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  When you're done with a session just disconnect from the other machine. 
 
 ![sshot-2010-10-14-[19-42-10]](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/sshot-2010-10-14-19-42-10.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Sync Program Settings Between Computers
 
@@ -204,20 +331,20 @@ The ultimate burning program for all your needs!</a>
 
 ![sshot-2010-10-14-[20-49-38]](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/sshot-2010-10-14-20-49-38.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  For one of our computers, IE 9 has the standard MSN bookmarks, and we turned on IE syncing. 
 
 ![sshot-2010-10-14-[22-20-12]](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/sshot-2010-10-14-22-20-12.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2024329/7443" target="_top" id="2024329">
+  <img src="//a.impactradius-go.com/display-ad/7443-2024329" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024329/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  And it quickly brought over bookmarks from the other PC. 
 
 ![sshot-2010-10-14-[22-23-30]](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/sshot-2010-10-14-22-23-30.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  This should get you started with Windows Live Mesh 2011 to sync your files and folders between computers. The service is still rather clunky, semi-confusing, and some users might just want to stick with [Dropbox for folder syncing](https://fox-boxes.techidaily.com/new-zero-cost-green-screens-for-professionals/). Live Mesh 2011 will work with Vista, Server 2008, OS X 10.5 or higher, Server 2003, and Windows Home Server Version 1...unfortunately they left out the love for XP. [Download Windows Live Mesh 2011](http://explore.live.com/windows-live-mesh?os=other) 
 
 ---

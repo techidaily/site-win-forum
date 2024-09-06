@@ -1,7 +1,7 @@
 ---
 title: Simplify Your Spreadsheet Skills on Android & iOS with This Excel Tables Walkthrough
-date: 2024-08-28T04:29:51.735Z
-updated: 2024-08-29T04:29:51.736Z
+date: 2024-09-05T07:55:57.137Z
+updated: 2024-09-06T07:55:57.137Z
 tags:
   - excel
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/shutterstock_1397200463.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Simplify Your Spreadsheet Skills on Android & iOS with This Excel Tables Walkthrough
 
 ### Quick Links
@@ -24,6 +30,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
 
  Microsoft introduced what's called Cards View for working with [tables in Excel](https://instagram-videos.techidaily.com/updated-2024-approved-how-to-convert-your-best-videography-into-melodic-mp3s-insta/) on [Android](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU204789/https://play.google.com/store/apps/details?id=com.microsoft.office.excel&hl=en%5FUS&gl=US) and [iPhone](https://apps.apple.com/us/app/microsoft-excel/id586683407). Using this feature, you can see portions of your table in full view. You can then add more data, make changes, and manage your table data easier; here's how it works.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Open Cards View in Excel
 
  To get started, open Excel on your mobile device to the sheet you want to use. Head to your table and select any cell within it. Tap the Cards View icon (a stack of cards) that appears at the bottom.
@@ -38,12 +50,27 @@ Related: [How to Insert a Total Row in a Table in Microsoft Excel](https://howto
 
 ![Table row to a card](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/RowToCard-ExcelMobileTableCardsView.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  And, each column in your table is a field on the card.
 
 ![Table column to a card](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/ColumnToCard-ExcelMobileTableCardsView.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Edit Table Data
 
@@ -52,31 +79,29 @@ Related: [How to Insert a Total Row in a Table in Microsoft Excel](https://howto
 ![Edit card data](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/EditCardData-ExcelMobileTableCardsView.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  You'll notice when you select a specific card, the Previous and Next buttons appear at the bottom. This allows you to move through each card and make additional changes easily.
 
 ![Previous and Next buttons on a card](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/PreviousNext-ExcelMobileTableCardsView.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
  Tap the arrow on the top left to return to the main Cards View screen.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ##  Add a Card
 
  You can add a card, which is [another row](https://fox-glue.techidaily.com/2024-approved-the-ultimate-guide-to-top-online-tools-for-perfecting-your-video-subtitles/), to your table easily. To simply add a row to the end of your table and list in Cards View, tap the plus sign at the bottom.
 
 ![Plus sign to add a card, row, to a table](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/AddCardBottom-ExcelMobileTableCardsView.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  To add a card in a specific spot, open either the main Cards View page or a card's detail screen. Tap the three dots on the top right of a card. Select either "Insert Above" or "Insert Below."
 
  You'll then see a blank card with your existing table fields. Enter your data and tap the arrow on the top left to go back. Your new data saves automatically.
@@ -84,7 +109,16 @@ Related: [How to Insert a Total Row in a Table in Microsoft Excel](https://howto
 ![Insert a card, row, above or below](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/InsertCardAboveBelow-ExcelMobileTableCardsView.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Delete a Card
 
@@ -92,6 +126,12 @@ Related: [How to Insert a Total Row in a Table in Microsoft Excel](https://howto
 
 ![Delete a card](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/DeleteCard-ExcelMobileTableCardsView.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Keep in mind that removing a card [deletes that row](https://facebook-video-recording.techidaily.com/how-to-maximize-revenue-the-secret-of-fb-animation-campaigns/) from your table.
 
 ##  Share a Card
@@ -110,9 +150,6 @@ Related: [How to Insert a Total Row in a Table in Microsoft Excel](https://howto
 
 ![Share a card](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/ShareCard-ExcelMobileTableCardsView.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Edit the Table Structure 
 
  In addition to editing your existing data or adding more as described above, you can change the current table fields (columns) and formatting.
@@ -123,9 +160,6 @@ Related: [How to Use the Accounting Number Format in Microsoft Excel](https://an
 
 ![Table Settings icon to access the data fields](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/TableFields-ExcelMobileTableCardsView.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Tap a Field Label to change the text or the Format icon to change the format.
 
 ![Edit a field or its format](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/EditFormatField-ExcelMobileTableCardsView.png) 
@@ -134,13 +168,16 @@ Related: [How to Use the Accounting Number Format in Microsoft Excel](https://an
 
 ![Add a field, column, to a card](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/AddField-ExcelMobileTableCardsView.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  To remove a field from the table, tap the Delete icon (trash can) on the top right. Select the Delete icon to the right of the field you want to remove and then tap "Yes" to confirm the action.
 
 ![Delete a field, column](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/DeleteField-ExcelMobileTableCardsView.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
  Keep in mind that removing a field deletes that column in your table.
 
  While [working in Microsoft Excel](https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-vivo-s17e-drfone-by-drfone-virtual-android/) can be easier on your computer, there may be a time when you have to use the mobile app. In these situations, keep Cards View for tables in mind.

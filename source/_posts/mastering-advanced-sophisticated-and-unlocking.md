@@ -1,7 +1,7 @@
 ---
 title: Mastering, Advanced, Sophisticated, and Unlocking.
-date: 2024-08-28T04:29:16.545Z
-updated: 2024-08-29T04:29:16.545Z
+date: 2024-09-05T07:55:56.546Z
+updated: 2024-09-06T07:55:56.546Z
 tags:
   - excel
 categories:
@@ -11,6 +11,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
 ## Mastering, Advanced, Sophisticated, and Unlocking.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2024333/7443" target="_top" id="2024333">
+  <img src="//a.impactradius-go.com/display-ad/7443-2024333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024333/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [How to Set Up the Criteria Range](https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-samsung-galaxy-f04-phones-withwithout-a-pc-by-drfone-android/)
@@ -19,6 +25,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 * [How to Use a Multiple Criteria, Single Column Excel Filter](https://techidaily.com/solutions-to-restore-deleted-files-from-infinix-by-fonelab-android-recover-data/)
 * [How to Use a Multiple Criteria, Multiple Column Excel Filter](https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-messages-from-infinix-note-30-by-fonelab-android-recover-messages/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
  To create an advanced filter in Excel, start by setting up your criteria range. Then, select your data set and open the Advanced filter on the Data tab. Complete the fields, click OK, and see your data a new way.
@@ -40,18 +52,30 @@ Related: [How to Insert Multiple Rows in Microsoft Excel](https://some-tips.tech
 ![Data for a filter in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/StartingData-ExcelAdvancedFilter.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  We then insert five rows above our data. We have one row for labels, three for criteria, and one blank row. We then copy our column headers into the first row. So, now our sheet looks like this:
 
 ![Criteria range added to a data set](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/CriteriaRangeAdded-ExcelAdvancedFilter.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Once you have the range for your filter conditions set up, you're ready to create the advanced filter.
 
  You can [name your criteria range](https://fox-blue.techidaily.com/2024-approved-mastering-chroma-key-techniques-in-live-broadcasts/) to automatically pop it into the filter if you like.
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2024326/7443" target="_top" id="2024326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2024326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024326/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Entering Criteria for an Advanced Filter in Excel
 
@@ -77,7 +101,22 @@ Related: [How to Insert Multiple Rows in Microsoft Excel](https://some-tips.tech
 ![Criteria format example in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/CriteriaExample-ExcelAdvancedFilter.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  How to Use a Single Criterion, Single Column Excel Filter
 
@@ -97,9 +136,6 @@ Related: [How to Insert Multiple Rows in Microsoft Excel](https://some-tips.tech
 
 ![Copy To field for filtering in another location](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/CopyTo-ExcelAdvancedFilter.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Now confirm the cells in the List Range box. Excel should have added them for you automatically, so simply make sure they're correct.
 
 ![List Range for a filter](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/ListRange-ExcelAdvancedFilter.png) 
@@ -114,14 +150,8 @@ Related: [How to Insert Multiple Rows in Microsoft Excel](https://some-tips.tech
 
 ![Single condition filtered](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/SingleFiltered-ExcelAdvancedFilter.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 Related: [How to Count Unique Values in Microsoft Excel](https://youtube-help.techidaily.com/in-2024-unleash-potential-with-optimal-hashtags-for-gaming-vids/) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  How to Use a Multiple Criteria, Single Column Excel Filter
 
  Maybe you want to filter data using multiple conditions that appear in a single column. You can do that with an advanced Excel filter. As an example, we'll filter our data for Location ID's 1B and 2B.
@@ -136,6 +166,12 @@ Related: [How to Count Unique Values in Microsoft Excel](https://youtube-help.te
 
 ![Multiple condition for one column in the criteria range](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/MultipleCriteriaSingleColumn-ExcelAdvancedFilter.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Select a cell in your data set, go to the Data tab, and pick "Advanced" to open the filter tool.
 
  Complete the same details as before, but this time, expand the criteria range to include the additional condition. Click "OK" to apply the filter.
@@ -147,10 +183,16 @@ Related: [How to Count Unique Values in Microsoft Excel](https://youtube-help.te
 ![Multiple condition for one column filtered](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/MultipleCriteriaSingleColumnFiltered-ExcelAdvancedFilter.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  How to Use a Multiple Criteria, Multiple Column Excel Filter
 
@@ -158,6 +200,12 @@ Related: [How to Count Unique Values in Microsoft Excel](https://youtube-help.te
 
 Related: [How to Use Logical Functions in Excel: IF, AND, OR, XOR, NOT](https://extra-skills.techidaily.com/in-2024-spark-engagement-the-ultimate-list-of-video-text-effects/) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  All Conditions True
 
  To filter with an AND condition, you'll place both criteria in the same row below their corresponding labels.
@@ -174,9 +222,6 @@ Related: [How to Use Logical Functions in Excel: IF, AND, OR, XOR, NOT](https://
 
 ![AND conditions in the criteria range](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/MultipleCriteriaColumnAND-ExcelAdvancedFilter.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
  And just like before, select a cell in the data set, go to the Data tab, and pick "Advanced" to open the tool.
 
  For this filter, we change our criteria range since it only includes rows 1 and 2\. Adjust the other options as necessary and click "OK."
@@ -185,18 +230,18 @@ Related: [How to Use Logical Functions in Excel: IF, AND, OR, XOR, NOT](https://
 
 ![Criteria range for an advanced filter](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/CriteriaRange-ExcelAdvancedFilter.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  We then have our one result. Remember that placing the criteria in the same row indicates the AND operator. So, even though we have Jones as a Lead for two locations, we filtered for only location 1A with Jones.
 
 ![AND conditions filtered](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/MultipleCriteriaColumnANDFiltered-ExcelAdvancedFilter.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Related: [How to See All of the Named Cell Ranges in an Excel Workbook](https://some-skills.techidaily.com/new-the-impact-of-testimonial-videos-today/) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ###  Any Conditions True
 
  Next, we'll filter by multiple conditions again, but using OR criteria. For this, you place the conditions in separate rows below the corresponding labels.
@@ -217,6 +262,12 @@ Related: [How to See All of the Named Cell Ranges in an Excel Workbook](https://
 
 ![Criteria range for an advanced filter](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/CriteriaRange-ExcelAdvancedFilter.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  As you can see, we have three results, one for 1B and two for Jones. Because we used the OR criteria, any conditions we included were met.
 
 ![OR conditions filtered](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/MultipleCriteriaColumnORFiltered-ExcelAdvancedFilter.png) 
@@ -243,22 +294,25 @@ Related: [How to See All of the Named Cell Ranges in an Excel Workbook](https://
 
 ![AND with OR conditions in the criteria range](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/MultipleCriteriaColumnANDOR-ExcelAdvancedFilter.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Open the Advanced filter tool, double-check or adjust the fields as needed, and click "OK."
 
 ![Criteria range for an advanced filter](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/CriteriaRange-ExcelAdvancedFilter.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  You'll then see the results. Here, we have row 2 containing our AND criteria, 1A and Jones. Then, additional rows 3 through 5 containing our OR criteria for Sales greater than 50,000.
 
 ![AND with OR conditions filtered](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/MultipleCriteriaColumnANDORFiltered-ExcelAdvancedFilter.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  If you have a large amount of data in your spreadsheet and need a more [robust filter option](https://blog-min.techidaily.com/how-to-install-device-drivers-manually-on-windows-10-by-drivereasy-guide/), keep the advanced filter in Excel in mind.
 

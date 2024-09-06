@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Transferring Sheets Between Excel Books"
-date: 2024-08-28T04:30:12.182Z
-updated: 2024-08-29T04:30:12.182Z
+date: 2024-09-05T07:55:57.486Z
+updated: 2024-09-06T07:55:57.486Z
 tags:
   - excel
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/4d8389239c924325f747de29a6fa5fd56f085170de1cb456669c5929df51dc2a.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Step-by-Step Guide: Transferring Sheets Between Excel Books
 
 There may be times when you need to copy or move a worksheet into another workbook in Excel or make a copy of a worksheet in the same workbook. Maybe you want to make changes but preserve the original worksheet.
@@ -17,12 +23,24 @@ There may be times when you need to copy or move a worksheet into another workbo
 
 ![01_selecting_move_or_copy](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/06/01_selecting_move_or_copy.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  On the “Move or Copy” dialog box, select the workbook into which you want to copy the worksheet from the “To book” drop-down list.
 
  NOTE: To copy the selected worksheet into an existing workbook, that workbook has to be open. If the workbook into which you want to copy the worksheet is not open, it will not be available in the “To book” drop-down list.
 
 ![02_selecting_new_book](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/06/02_selecting_new_book.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  We’re going to copy the selected worksheet into a new workbook, so select “(new book)” from the “To book” drop-down list. Select the “Create a copy” check box. Because we’re creating a new workbook, there are no worksheets in the “Before sheet” list before which we can insert the copied worksheet. It will be the only worksheet in the new workbook.
 
  NOTE: If you want to move the worksheet into the other workbook, do not select the “Create a copy” check box.
@@ -31,14 +49,32 @@ There may be times when you need to copy or move a worksheet into another workbo
 
 ![03_select_create_a_copy](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/06/03_select_create_a_copy.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  You can also make a copy of a worksheet in the same workbook. You may want to do this if you want to make changes to a worksheet, but you don’t want to change the original. Open the “Move or Copy” dialog box the same way we described earlier in this article. By default, the current workbook is selected in the “To book” drop-down list, so don’t change that. In the “Before sheet” list, select the sheet before which you want to insert the copied worksheet. We’ll choose to insert the copy of the worksheet at the end of the current worksheets. Select the “Create a copy” check box and click “OK”.
 
 ![04_moving_to_end](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/06/04_moving_to_end.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The worksheet is inserted to the right of the current worksheet tabs.
 
 ![05_copied_in_same_workbook](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/06/05_copied_in_same_workbook.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  This feature is a handy way to rearrange your worksheets and workbooks. You may need do something such as providing only a certain worksheet from a workbook to someone without sending them the whole workbook.
 
 <ins class="adsbygoogle"
@@ -131,12 +167,3 @@ There may be times when you need to copy or move a worksheet into another workbo
 <li><a href="https://win-forum.techidaily.com/windows-11-installation-guide-overcoming-incompatible-processor-restrictions/"><u>Windows 11 Installation Guide: Overcoming Incompatible Processor Restrictions</u></a></li>
 <li><a href="https://win-forum.techidaily.com/winning-against-stubborn-files-advanced-techniques-to-force-delete-folders-on-your-windows-11-system/"><u>Winning Against Stubborn Files: Advanced Techniques to Force Delete Folders on Your Windows 11 System</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

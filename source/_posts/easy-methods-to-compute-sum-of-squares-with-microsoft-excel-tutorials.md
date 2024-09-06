@@ -1,7 +1,7 @@
 ---
 title: Easy Methods to Compute Sum of Squares with Microsoft Excel Tutorials
-date: 2024-08-28T04:29:40.204Z
-updated: 2024-08-29T04:29:40.204Z
+date: 2024-09-05T07:55:56.941Z
+updated: 2024-09-06T07:55:56.941Z
 tags:
   - excel
 categories:
@@ -11,6 +11,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
 
 ## Easy Methods to Compute Sum of Squares with Microsoft Excel Tutorials
 
+<!-- affiliate ads begin -->
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [Finding the Sum of Squares for Multiple Cells](https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-itel-p55-drfone-by-drfone-fix-android-problems-fix-android-problems/)
@@ -18,6 +30,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
 
  Finding the sum of squares in Microsoft Excel can be a repetitive task. The most obvious formula requires a lot of data entry, though there's a lesser-known option that gets you to the same place.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Finding the Sum of Squares for Multiple Cells
 
  Start a new column anywhere in an Excel spreadsheet and label it. It's here that we'll output the solution of our squares. The squares don't have to be next to each other, nor does the output section; it can be anywhere on the page.
@@ -30,6 +48,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
 
 ![sumsq formula excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/11/sumsq-formula.png) 
 
+<!-- affiliate ads begin -->
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  From here you can add the letter and number combination of the column and row manually, or just click it with the mouse. We'll use the mouse, which autofills this section of the formula with cell A2.
 
 ![add cell a2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/11/sumsq-a2.png) 
@@ -38,6 +68,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
 
 ![add cell b2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/11/sumsq-b2.png) 
 
+<!-- affiliate ads begin -->
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Close the parenthesis and press "Enter" on the keyboard to display the sum of both squares. Alternatively, if you can keep going here, adding additional cells by separating each with a comma within the formula.
 
 ![close parenthesis](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/11/sumsq-close-parenthesis.png) 
@@ -51,7 +93,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
 ![drag to bottom](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/11/drag.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Finding the Sum of Squares for Just a Few Cells
 
@@ -61,9 +106,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
 
 ![simple formula for sum of squares](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/11/simple-formula.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Alternatively, we can just add the numbers instead of the cells to the formula, as either way gets us to the same place. That formula looks like this:
 
 =SUM((9)^2, (29)^2)
@@ -71,7 +113,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
 ![simple formula for sum of squares](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/11/simple-formula.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  You can alter these formulas as needed, changing the cells, adding additional numbers, or finding the sum of squares that aren't even in your workbook, for example. And while it's easier to follow along with the above tutorial, using the SUMSQ formula, to find the solution for multiple squares, it's often easier to just type out a quick formula like this if it's not something you'll be repeating throughout the workbook.
 

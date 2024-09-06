@@ -1,7 +1,7 @@
 ---
 title: "Mastering MS Excel: A Comprehensive Guide to Navigating with Ease"
-date: 2024-08-28T04:30:09.797Z
-updated: 2024-08-29T04:30:09.797Z
+date: 2024-09-05T07:55:57.451Z
+updated: 2024-09-06T07:55:57.451Z
 tags:
   - excel
 categories:
@@ -26,9 +26,6 @@ thumbnail: https://thmb.techidaily.com/605743c45d46920946cf620896ea214cdef6126e4
 
 [The Navigation pane](https://techcommunity.microsoft.com/t5/excel-blog/inspiration-for-inclusive-features-comes-from-customers/ba-p/2567520) is available to [Office Insiders](https://insider.office.com/en-us/) and will slowly roll out to Microsoft Excel on Windows users.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ##  Show the Navigation Pane in Excel
 
  To open the Navigation pane, head to the View tab and click "Navigation" in the Show section of the ribbon. You'll then see the pane on the right side of the Excel window.
@@ -36,27 +33,43 @@ thumbnail: https://thmb.techidaily.com/605743c45d46920946cf620896ea214cdef6126e4
 ![Click Navigation on the View tab](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/12/ViewNavigation-ExcelNavigationPane.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Use the Navigation Pane in Excel
 
  As mentioned, the Navigation pane helps you move to a spot in your workbook, adjust some basics for your sheets and items, and find what you want in the workbook. Let's delve into how this works.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  Navigation
 
  When you first open the Navigation pane, you'll see all of the sheets in the workbook listed in order. Simply click a [sheet name](https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-xiaomi-14-ultra-phone-unlock-it-now-by-drfone-android/) in the list to move directly to it in the workbook. If you select a sheet tab, you'll also see the sheet name in bold font in the pane.
 
 ![Sheet list in the Navigation pane](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/12/SheetList-ExcelNavigationPane.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Each sheet in the list also has an arrow to the left allowing you to expand it. You'll then see the various objects, [tables](https://instagram-videos.techidaily.com/updated-2024-approved-how-to-convert-your-best-videography-into-melodic-mp3s-insta/), [charts](https://technical-tips.techidaily.com/top-techniques-for-enhancing-photo-quality-on-your-ios-device/), and other items on the sheet. You can click an item to move directly to it on the sheet as well.
 
 ![Expand a sheet in the pane](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/12/ExpandSheet-ExcelNavigationPane.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ###  Actions
 
  To rename, delete, or [hide or show a sheet](https://youtube-data.techidaily.com/-by-frame-verbalizer-for-2024/), both in the Navigation pane and in the workbook, right-click the sheet's name in the pane. This gives you an easy way to take one of these actions on a spreadsheet.
@@ -64,14 +77,20 @@ The powerful video editing program for your Windows PC</a>
 ![Rename, delete, or hide a sheet](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/12/RenameDeleteHideSheet-ExcelNavigationPane.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  You can also adjust certain types of items on a sheet in the Navigation pane. For example, you can [rename a table](https://facebook-record-videos.techidaily.com/new-your-essential-guide-to-mobile-asmr-sounds/), hide a picture, or delete a chart. Expand the sheet containing the item and then right-click the item for the available actions.
 
 ![Rename, delete, or hide a chart](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/12/RenameDeleteHideChart-ExcelNavigationPane.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ###  Search
 
@@ -80,10 +99,19 @@ The powerful video editing program for your Windows PC</a>
 ![Search for a table](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/12/SearchTable-ExcelNavigationPane.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  When you finish using the Search box, click the "X" on the right to close it and return to the sheet list.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Handy Uses for the Navigation Pane
 
  By using the Navigation pane, you can easily move between the spreadsheets you need. This eliminates [using the scroll arrows](https://youtube-data.techidaily.com/024-approved-finding-your-voice-on-youtube-a-guide-to-selective-audiences/) or dots to move across the bottom of the Excel window to the sheet you want. But there are some other convenient ways to use the Navigation pane.
@@ -95,7 +123,16 @@ Related: [How to Fix Arrow Key Scrolling in Excel](https://youtube-data.techidai
 ![Search for a chart](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/12/SearchChart-ExcelNavigationPane.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  As another example, you may have [inserted check boxes](https://techidaily.com/is-your-oppo-a58-4g-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/) in your workbook but forgot to name them for backend references. You can type "Check Box" into the Search field to see them all listed. Then, [right-click](https://desktop-recording.techidaily.com/updated-the-art-of-recording-fun-6-techniques-to-document-minecraft-for-2024/) to rename each one directly in the Navigation pane without having to open the containing sheets.
 

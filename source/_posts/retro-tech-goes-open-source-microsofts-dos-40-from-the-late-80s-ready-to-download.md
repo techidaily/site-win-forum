@@ -1,7 +1,7 @@
 ---
 title: "Retro Tech Goes Open Source: Microsoft's DOS 4.0 From the Late '80S Ready to Download!"
-date: 2024-08-28T04:28:16.140Z
-updated: 2024-08-29T04:28:16.140Z
+date: 2024-09-05T07:55:55.550Z
+updated: 2024-09-06T07:55:55.550Z
 tags:
   - windows
 categories:
@@ -9,6 +9,18 @@ categories:
 thumbnail: https://thmb.techidaily.com/0e8b59a0a7e5a9b9173ae5feaad5ddb56b135eee3ed22a8b3f83cf8fa8dfaeb8.jpg
 ---
 
+<!-- affiliate ads begin -->
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Retro Tech Goes Open Source: Microsoft's DOS 4.0 From the Late '80S Ready to Download!
 
 Microsoft Disk Operating System, or MS-DOS for short, was the operating system that powered early PCs and served as the underlying framework for early versions of Microsoft Windows. Some older versions have been released as open-source software over the past few years, giving us a better look at early computing history, and now the code for the 1988 release of MS-DOS 4.0 is available.
@@ -80,7 +92,3 @@ Microsoft Disk Operating System, or MS-DOS for short, was the operating system t
 <li><a href="https://win-forum.techidaily.com/the-quintessential-social-giants-for-digital-engagement-fb-twitter-ig-and-yt/"><u>The Quintessential Social Giants for Digital Engagement: FB, TWITTER, IG and YT</u></a></li>
 <li><a href="https://win-forum.techidaily.com/unlocking-new-possibilities-configuring-windows-11-on-cpus-not-officially-supported/"><u>Unlocking New Possibilities: Configuring Windows 11 on CPUs Not Officially Supported</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: How to Calculate Age in Microsoft Excel.
-date: 2024-08-28T04:29:11.856Z
-updated: 2024-08-29T04:29:11.856Z
+date: 2024-09-05T07:55:56.472Z
+updated: 2024-09-06T07:55:56.472Z
 tags:
   - excel
 categories:
@@ -9,8 +9,26 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/05/MS-excel-logo-675.png
 ---
 
+<!-- affiliate ads begin -->
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Calculate Age in Microsoft Excel.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [How to Calculate Age in Years](https://facebook-video-share.techidaily.com/new-viral-verve-top-10-music-to-match-your-freshest-yt-shorts/)
@@ -31,6 +49,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
 ![A sample spreadsheet to find age in years in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/1-age-years-spreadsheet.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  First, we'll click the C2 cell where we want to display the age in years.
 
 ![Click the C2 cell in the spreadsheet in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/2-c2-cell-spreadsheet.png) 
@@ -51,9 +75,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
 Related: [How to Get Microsoft Excel to Calculate Uncertainty](https://extra-resources.techidaily.com/chrome-os-vocal-personalization-guide-review-of-the-best-speech-converters-for-2024/) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  How to Calculate Age in Months
 
  You can use the `DATEDIF` function to find someone's age in months, too.
@@ -66,19 +87,34 @@ Related: [How to Get Microsoft Excel to Calculate Uncertainty](https://extra-res
 
 ![Click the C2 cell in the spreadsheet in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/6-c2-cell.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2030395/7443" target="_top" id="2030395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2030395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  In the C2 cell, we'll type the following function. The "M" argument here tells the function to display the result in months.
 
 =DATEDIF(B2,TODAY(),"M")
 
 ![Enter =DATEDIF(B2,TODAY(),"M") in the C2 cell and press Enter in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/7-enter-month-formula.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
  Press Enter and you'll see the age in months in the C2 cell.
 
 ![Age in months in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/8-age-months-answer.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  How to Calculate Age in Days
 
  Excel's `DATEDIF` function is so powerful that you can use it to find someone's age in days as well.
@@ -102,10 +138,25 @@ Related: [How to Get Microsoft Excel to Calculate Uncertainty](https://extra-res
 ![Age in days in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/12-age-days-answer.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  You can use Excel to [add and subtract dates](https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-vivo-s17-pro-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/), too.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  How to Calculate Age in Years, Months, and Days at the Same Time
 
  To display someone's age in years, months, and days at the same time, use the `DATEDIF` function with all the arguments combined. You can also [combine text from multiple cells into one cell](https://fake-location.techidaily.com/is-pgsharp-legal-when-you-are-playing-pokemon-on-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/) in Excel.
@@ -115,7 +166,10 @@ Related: [How to Get Microsoft Excel to Calculate Uncertainty](https://extra-res
 ![A sample spreadsheet to find age in years, months, and days in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/13-age-combination-spreadsheet.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  In this spreadsheet, we'll click the C2 cell, type the following function, and press Enter:
 
@@ -123,16 +177,16 @@ Related: [How to Get Microsoft Excel to Calculate Uncertainty](https://extra-res
 
 ![Enter =DATEDIF(B2,TODAY(),"Y") & " Years " & DATEDIF(B2,TODAY(),"YM") & " Months " & DATEDIF(B2,TODAY(),"MD") & " Days" in the C2 cell in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/14-enter-age-formula.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2030370/7443" target="_top" id="2030370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2030370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  In the C2 cell, you'll see the age in years, months, and days.
 
 ![Age in years, months, and days in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/15-age-combination-answer.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  How to Calculate Age on a Specific Date
 
  With Excel's `DATEDIF` function, you can go as far as to finding someone's age on a specific date.
@@ -142,28 +196,37 @@ Related: [How to Get Microsoft Excel to Calculate Uncertainty](https://extra-res
 ![A specific date in the C2 cell in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/16-specific-date.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  We'll click the D2 cell where we want to show the age on the specified date.
 
 ![Click the D2 cell in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/17-d2-cell.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
  In the D2 cell, we'll type the following function. In this function, "C2" refers to the cell where we've entered the specific date, on which the answer will be based:
 
 =DATEDIF(B2,C2,"Y")
 
 ![Enter =DATEDIF(B2,C2,"Y") in the D2 cell in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/18-enter-specific-formula.png) 
 
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Press Enter and you'll see the age in years in the D2 cell.
 
 ![Age on a specific date in the D2 cell in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/19-specific-formula-answer.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  And that's how you find someone or something's oldness in Microsoft Excel!
 
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Retrieving File & Folder Locations in Windows 11"
-date: 2024-08-28T04:28:49.368Z
-updated: 2024-08-29T04:28:49.368Z
+date: 2024-09-05T07:55:56.056Z
+updated: 2024-09-06T07:55:56.056Z
 tags:
   - windows
 categories:
@@ -19,6 +19,12 @@ thumbnail: https://thmb.techidaily.com/5f5f5b93e7d5296621d28cc46446de06ad76f2671
 * [How to Copy the Path of an App](https://win11-tips.techidaily.com/breaking-barriers-uniting-pc-and-android-devices/)
 * [Tips for Pasting the File, Folder, or App Path You’ve Copied](https://win-answers.techidaily.com/quick-solution-to-rectify-minecrafts-sudden-crash-with-exit-code-0/)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * ![Ctrl, Shift, and C keys highlighted on a Windows keyboard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-copy-path-keyboard-shortcut.jpg)  
@@ -31,7 +37,10 @@ Hannah Stryker / How-To Geek
  Copying a file or folder’s path on Windows 11 is as easy as selecting an option in the right-click menu or pressing a keyboard shortcut. We’ll show you how to do it in various ways on your PC.
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  From the Right-Click Menu
 
@@ -42,7 +51,10 @@ Hannah Stryker / How-To Geek
 !['Copy as Path' highlighted in an item's right-click menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-copy-path-right-click-menu.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  To copy paths of multiple files or folders, [select all those items](https://on-screen-recording.techidaily.com/updated-effective-strategies-to-capture-and-save-google-voice-dialogues-for-2024/), right-click a selected item, and choose "Copy as Path."
 
@@ -58,15 +70,21 @@ Hannah Stryker / How-To Geek
 
 ![Ctrl, Shift, and C keys highlighted on a Windows keyboard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-copy-path-keyboard-shortcut.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Hannah Stryker / How-To Geek  
   
  Windows has copied the selected file or folder’s path to your clipboard.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  From a File Explorer Toolbar Option
 
@@ -86,15 +104,15 @@ Hannah Stryker / How-To Geek
 
 ![The 'Target' field highlighted on the 'Properties' window of an app shortcut.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-copy-path-app-shortcut-target-field.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
  If you launch your app via Windows Search and not from a desktop shortcut, it’s still possible to find your app’s full path. To do that, open the Start Menu and search for your app. Right-click the app and select "Open File Location."
 
 !['Open File Location' highlighted for an app in Windows Search.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-open-app-location-start-menu.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  On the open window, right-click the app again and select "Open File Location."
 
@@ -102,6 +120,18 @@ Hannah Stryker / How-To Geek
 
 !['Copy as Path' highlighted for an app in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6-copy-app-path.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Tips for Pasting the File, Folder, or App Path You’ve Copied
 
 [Pasting the copied file, folder, or app path](https://twitter-videos.techidaily.com/new-in-2024-gain-twitter-gifs-for-pc-download-made-simple/) is as easy as accessing a text field and pressing Ctrl+V. Alternatively, right-click the text field and choose "Paste."

@@ -1,7 +1,7 @@
 ---
 title: Top 3 Essential Gameplay Analytics Software for Serious PC Gamers
-date: 2024-08-28T04:28:27.333Z
-updated: 2024-08-29T04:28:27.333Z
+date: 2024-09-05T07:55:55.728Z
+updated: 2024-09-06T07:55:55.728Z
 tags:
   - windows
 categories:
@@ -25,10 +25,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  If you want to monitor your in-game performance stats but don’t know which tool to use, fret not. Here are three in-game performance monitoring apps I wholeheartedly recommend to every PC gamer, regardless of which hardware you're using.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ##  NVIDIA Statistics Overlay
 
  The NVIDIA Statistics Overlay is part of [GeForce Experience](https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-13-pro-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-drfone-by-drfone-ios/) and the new [NVIDIA app](https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-lava-blaze-curve-5g-drfone-by-drfone-android/), meaning you probably already have access to it if you own an NVIDIA graphics card. I like this one because it’s fairly simple to set up and use. While it lacks some important performance monitoring stats, such as a frame-time graph, it’s a solid choice for PC gamers who just want the basics. Perhaps the biggest disadvantage of this tool is that, naturally, it isn’t available to owners of AMD GPUs.
@@ -42,16 +38,49 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![NVIDIA Overlay main menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/3-in-game-performance-monitoring-tools-i-recommend-to-every-pc-gamer-01.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Once there, make sure to select the “Custom” statistics view, click on the "View All" button, and then simply enable the performance metrics you want to see on the statistics overlay.
 
 ![NVIDIA overlay in-game statistics options menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/3-in-game-performance-monitoring-tools-i-recommend-to-every-pc-gamer-03.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  You can also configure the heads-up display by clicking the "Configure Heads Up Display" button in the "Statistics" options menu.
 
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## ![NVIDIA Overlay Statistics options menu](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/3-in-game-performance-monitoring-tools-i-recommend-to-every-pc-gamer-02.png) RivaTuner Statistics Server
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The legendary [RivaTuner Statistics Server](https://www.guru3d.com/page/rivatuner-rtss-homepage/), also known as RTSS, is the oldest in-game performance monitoring tool on this list. I’ve been using RTSS for more than a decade, and in that time, I’ve had zero issues with it.
 
  I like it because it has an impressive suite of performance metrics you can monitor and because it’s fairly simple to use after you learn how to configure it. On the other hand, RTSS requires a third-party app to pull the performance data from. Since RTSS is bundled with [MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards), I recommend using that combo because MSI Afterburner can provide most of the GPU and CPU-related stats you’d want to monitor.
@@ -74,20 +103,24 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![MSI Afterburner Main window and the On-Screen Display options menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/3-in-game-performance-monitoring-tools-i-recommend-to-every-pc-gamer-05.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
  Now, click the “Monitoring” tab. In this tab, you can pick any in-game performance metric you want to see on the OSD; to enable it, click the “Show in On-Screen Display” box. You can also rename every metric by clicking the "Override Graph Name" and "Override Group Name" buttons.
 
 ![MSI Afterburner main window and the Monitoring menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/3-in-game-performance-monitoring-tools-i-recommend-to-every-pc-gamer-06-2.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
  After you enable the performance stats you want to see on the OSD, click the “Apply” button, and try out the OSD by entering the game and pressing the button you’ve mapped to open the RTSS performance overlay.
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Intel PresentMon
 
  The third and last entry on this list is [Intel PresentMon](https://game.intel.com/us/intel-presentmon/). I’ve been using PresentMon for a few months and can say that it works great and offers enough performance monitoring metrics for most PC gamers, including advanced users. Compared to RTSS, PresentMon may be a better solution because it doesn’t require third-party software to pull performance metrics from.
@@ -109,27 +142,30 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 ![Intel PresentMon main Window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/3-in-game-performance-monitoring-tools-i-recommend-to-every-pc-gamer-07.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Once in the configuration menu, explore different options and create your perfect monitoring overlay.
 
 ![Intel PresentMon custom preset configuration menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/3-in-game-performance-monitoring-tools-i-recommend-to-every-pc-gamer-08.png) 
 
 <!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2024351/7443" target="_top" id="2024351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2024351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024351/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  You can combine multiple metrics by pressing the “Plus” button. For example, you can combine GPU and CPU busy graphs with GPU and CPU wait graphs, average and 99% low FPS, CPU and GPU utilization, and more. The “Options” button next to the “Plus” button allows you to customize each graph.
 
 ![Intel PresentMon custom preset configuration menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/3-in-game-performance-monitoring-tools-i-recommend-to-every-pc-gamer-09.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Don’t forget that you can show most data as readouts—numbers, in other words—or graphs.
 

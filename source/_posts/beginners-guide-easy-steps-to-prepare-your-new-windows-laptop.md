@@ -1,7 +1,7 @@
 ---
 title: "Beginner's Guide: Easy Steps to Prepare Your New Windows Laptop"
-date: 2024-08-28T04:27:58.790Z
-updated: 2024-08-29T04:27:58.790Z
+date: 2024-09-05T07:55:55.293Z
+updated: 2024-09-06T07:55:55.293Z
 tags:
   - windows
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/4916a6d483134297a5c5a01cc889f69aabd6291d81f85c697a7c6a88a387b0cb.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Beginner's Guide: Easy Steps to Prepare Your New Windows Laptop
 
 ### Quick Links
@@ -24,12 +30,30 @@ thumbnail: https://thmb.techidaily.com/4916a6d483134297a5c5a01cc889f69aabd6291d8
 
  A Windows PC that seems easy to use for you might be quite challenging for someone who is a beginner or isn’t tech-savvy. If you're setting up a new device for a first-time user or passing along your laptop to them, it's essential to make it user-friendly. Here are a few things you can do for them.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1  Make the Login Process Easier 
 
  When setting up a Windows device for a non-tech-savvy user, the first step is to simplify the login process. Choose a password that is easy for them to remember, or set up a login PIN, which is often easier to recall and enter. If the device supports it, you can also [enable Windows Hello for facial recognition or fingerprint login](https://extra-tips.techidaily.com/updated-capturing-brilliance-essential-angles-in-iphone-photography/) to streamline the process further.
 
  If they are the sole user and won't use the device in a shared environment, you can [bypass the password screen](https://network-issues.techidaily.com/gladiator-glitch-gadget-grind/) entirely, allowing them to go directly to the desktop upon startup, though that does introduce security risks.
 
+<!-- affiliate ads begin -->
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2  Remove Unnecessary Programs From the Startup List 
 
  No one appreciates dealing with random apps popping up whenever they turn on their computer. To make a beginner's experience smoother, ensure you [remove unnecessary apps from the startup list](https://tech-recovery.techidaily.com/get-clarity-back-in-photos-how-to-repair-iphone-camera-focusing-problems/). This will eliminate annoyance and speed up the system’s boot time, a perk anyone would greatly appreciate.
@@ -38,14 +62,8 @@ thumbnail: https://thmb.techidaily.com/4916a6d483134297a5c5a01cc889f69aabd6291d8
 
 ![Disabling startup apps from Task Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/1-disabling-a-startup-apps-from-task-manager.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  Some applications automatically add themselves to the startup list when installed. So, periodically review their startup list and remove any unnecessary programs.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ## 3  Pin Frequently Used Apps to the Taskbar 
 
  Web browsers, email clients, word processors, and media players are some of the frequently used apps that the person you're setting up the Windows device for will likely use often. While they can search for the required app in Windows Search, you can [pin these apps to the taskbar](https://tech-hub.techidaily.com/understanding-the-five-main-causes-of-chatgpt-prohibitions-in-businesses/) for easier access.
@@ -55,32 +73,51 @@ thumbnail: https://thmb.techidaily.com/4916a6d483134297a5c5a01cc889f69aabd6291d8
 ![Pinning an app to the taskbar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/2-pinning-an-app-to-the-taskbar.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Likewise, remove any apps already pinned to the taskbar that they won’t use. To do that, right-click on the item and select "Unpin from Taskbar."
 
 ![Unpinning Microsoft Edge from the taskbar on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/4-unpinning-microsoft-edge-from-the-taskbar-on-windows-11.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Be careful not to clutter up the taskbar, as this can make finding relevant apps more complex. If pinning all frequently used apps clutters the taskbar, consider creating desktop shortcuts for some of them. This way, they will still easily access their frequently used apps without overloading the taskbar.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4  Set Up Automatic Data Backups 
 
  It's essential to back up the non-techie person's data to protect against accidental deletion and corruption of important files. While they could use an external drive, this method can be time-consuming and challenging. Therefore, I recommend using a cloud storage service, which will automatically back up their data without requiring any action from them (or you).
 
  One option is OneDrive, though it only backs up specific folders. For more thorough backups, [consider a premium backup service like Backblaze](https://audio-shaping.techidaily.com/in-2024-probing-sound-clarity-an-updated-analysis-of-cambridges-cxu-series/) that can back up their entire computer.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5  Foolproof the System's Security 
 
 ![A hand increasing the security level using a knob.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/a-hand-increasing-the-security-level-using-a-knob.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
   
 Lucas Gouveia / How-To Geek | Shutterstock.AI
 
@@ -94,9 +131,6 @@ Lucas Gouveia / How-To Geek | Shutterstock.AI
 
  Afterward, you should install helpful apps to enhance their computer experience. For example, you could add Everything to make file searching easier, Auto Dark Mode to automatically switch between dark and light modes at different times of the day, ShareX for capturing screenshots and recording videos, and other [helpful apps and tools](https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-honor-90-drfone-by-drfone-virtual-android/).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 7  Customize Screen Element Sizes to Their Preferences 
 
  Check with the person to see if they’re comfortable with the default size of text, icons, mouse cursor, and other display elements. If not, adjust the display settings according to their preferences. To do this, right-click the Start button and select "Settings." Then, go to System > Display and modify the Scale and Display Resolution.
@@ -107,13 +141,16 @@ Lucas Gouveia / How-To Geek | Shutterstock.AI
 
 ![Changing the text size in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/4-changing-the-text-size-in-the-windows-settings-app.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  If the person you're setting up the Windows PC for has visual impairments, enable the Magnifier feature to enlarge parts of the screen for easier reading. You can also activate the Narrator to read text aloud. For those with hearing impairments, turn on Captions to provide closed captions for audio. You can turn these features on in the Accessibility settings.
 
 ![Enabling the magnifier, narrator and captions in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/5-enabling-the-magnifier-narrator-and-captions-in-the-windows-settings-app.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 8  Teach Them Basic Windows Actions 
 
  Although this isn’t strictly a setup step, it’s essential to teach a few basic skills to someone new to Windows. You can show them how to use Task Manager to find and close processes consuming too many resources. You can also teach them to [check for and install Windows updates](https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-realme-v30-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/), connect to Wi-Fi or Ethernet, and [adjust brightness](https://win-blog.techidaily.com/wwe-2k22-pc-performance-issues-understanding-and-solving-sudden-game-exits/) and volume.

@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Crafting Interactive Visualizations with Excel's Dropdown Selection Feature"
-date: 2024-08-28T04:29:54.139Z
-updated: 2024-08-29T04:29:54.139Z
+date: 2024-09-05T07:55:57.182Z
+updated: 2024-09-06T07:55:57.182Z
 tags:
   - excel
 categories:
@@ -23,6 +23,12 @@ thumbnail: https://thmb.techidaily.com/e0931ca8ae70302ccf65495c157857813d9635f22
 
  We're going to use a table of data containing five soccer players' names and their game rating for five games as we talk you through the process.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Step 1: Create a Drop-down List
 
  The first step is to [create the drop-down list](https://hardware-updates.techidaily.com/download-and-install-the-newest-version-of-corsair-k55-drivers-today/) that will make your chart dynamic. Start by typing an action word in the cell next to where your drop-down will go. In our example, we'll put the drop-down in cell B9, so we'll type our action word in cell A9\. Then, click the cell where your drop-down will go, head to the Data tab on the ribbon, and click "Data Validation" in the Data Tools group.
@@ -33,12 +39,21 @@ thumbnail: https://thmb.techidaily.com/e0931ca8ae70302ccf65495c157857813d9635f22
 
 ![An Excel spreadsheet with the data validation window open. The Allow field contains the "List" option, and the Source field contains the column headers from the table.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/data-validation-list.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2030381/7443" target="_top" id="2030381">
+  <img src="//a.impactradius-go.com/display-ad/7443-2030381" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030381/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  You will now see a drop-down list showing the data you selected when you click the arrow. We've also formatted our Choose cell to make it stand out.
 
 ![An Excel spreadsheet containing a table and a drop-down list with the options showing as the column headers in the table.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/drop-down-list-in-excel.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Step 2: Create a Data Retrieval Table
 
@@ -51,7 +66,10 @@ thumbnail: https://thmb.techidaily.com/e0931ca8ae70302ccf65495c157857813d9635f22
 ![An Excel sheet with a table on the left, and the first column copied and pasted to the right.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/data-retrieval-table.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Select and right-click the pasted data, hover over "Sort," and click "Sort A To Z."
 
@@ -61,9 +79,6 @@ thumbnail: https://thmb.techidaily.com/e0931ca8ae70302ccf65495c157857813d9635f22
 
 ![An Excel spreadsheet with a column in Table 2 referencing a drop-down cell.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/reference-drop-down-cell.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Press Enter to see the column heading in Table 2 adopt the drop-down selection. Try changing the drop-down selection to see the column heading in Table 2 change.
 
 ##  Step 3: Extract Data from Table 1 to Table 2
@@ -112,10 +127,28 @@ thumbnail: https://thmb.techidaily.com/e0931ca8ae70302ccf65495c157857813d9635f22
 
 ![A table in Excel being AutoFilled.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/autofill-table-2.png) 
 
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Try changing your drop-down option to a different value and see the data change in Table 2, and check that it aligns with the information in Table 1\. Remember that we sorted the first column in Table 2 alphabetically, so check carefully, as the first column in Table 1 will be in a different order!
 
 ![An Excel sheet with a drop-down selection changed to 'Game 3,' and Table 2 showing the data for this selection.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/drop-down-with-data-in-table-2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Now that Table 2 successfully changes depending on our drop-down selection, we're ready to create the chart.
 
 ##  Step 4: Insert and Format Your Chart
@@ -125,9 +158,16 @@ thumbnail: https://thmb.techidaily.com/e0931ca8ae70302ccf65495c157857813d9635f22
 ![An Excel spreadsheet with Table 2 selected and the charts highlighted in the Insert tab.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/create-chart.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  We've gone with a simple 2D column chart.
 
@@ -135,11 +175,6 @@ The powerful video editing program for your Windows PC</a>
 
  Format the chart to appear as you wish, and again, play with your drop-down to see Table 2—and, consequently, your chart—adjust to your selection. You'll also see your chart title change.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ##  Step 5: Add an Average Line to Your Chart
 
  To add an average line to the chart, you need to add more data to Table 2\. Add another column heading to Table 2, and call it **Average**.
@@ -147,8 +182,10 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 ![An Excel spreadsheet with two tables and a chart. Table 2 has a new column, headed 'Average.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/table-2-average-column.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Now, [use the AVERAGE function](https://win-able.techidaily.com/fixing-overwatch-startup-issues-how-to-get-rid-of-the-persistent-black-screen/) to capture the average of the selected data. In our case, we've selected game 4, so we want to find the average rating among all five players for this game. To do this, type
 
@@ -170,30 +207,51 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
 ![Excel's Select Data Source window with 'Add' highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/add-data.png) 
 
+<!-- affiliate ads begin -->
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Then, in the Edit Series window, clear the Series Values field, and then select the data in the Average column of Table 2\. Click "OK," and you will see the average appear as an additional bar in your chart.
 
 ![An Excel sheet showing the Edit Series dialog box, the data in 'Series Values' is taken from Table 2, and the chart shows the average value as a column.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/add-data-source-2.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  To change this average data to a line over your existing bars, right-click one of the new bars and click "Change Series Chart Type."
 
 ![An Excel chart with an average column selected through a right-click, and 'Change Series Chart Type' selected.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/change-series-chart-type.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Open the "All Charts" tab, click "Combo" in the menu on the left, and change the average data series to "Line."
 
 ![The Change Chart Type window in Excel, with the 'All Charts' tab opened, the 'Combo' menu selected, and Series 2 changed to 'Line.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/change-data-to-line.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Click OK to see the outcome, and change the drop-down choice to see your chart change dynamically!
 
 ![An Excel chart reflecting the drop-down choice and with an average line included as an additional data set.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/dynamic-chart-with-average-line.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  You can then format your line so that it stands out in the way that you want it to.
 

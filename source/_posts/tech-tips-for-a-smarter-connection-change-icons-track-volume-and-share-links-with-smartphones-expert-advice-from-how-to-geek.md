@@ -1,7 +1,7 @@
 ---
 title: "Tech Tips for a Smarter Connection: Change Icons, Track Volume, and Share Links with Smartphones – Expert Advice From How-To Geek"
-date: 2024-08-28T04:29:33.254Z
-updated: 2024-08-29T04:29:33.254Z
+date: 2024-09-05T07:55:56.828Z
+updated: 2024-09-06T07:55:56.828Z
 tags:
   - excel
 categories:
@@ -9,8 +9,20 @@ categories:
 thumbnail: https://thmb.techidaily.com/eb645c13ee9dd9fbe7f99fc761b9dd81222823674663074f051eaef5c591591c.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Tech Tips for a Smarter Connection: Change Icons, Track Volume, and Share Links with Smartphones – Expert Advice From How-To Geek
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [Distinguish Between Similar Documents with Unique Icons](https://android-location-track.techidaily.com/in-2024-top-9-oppo-reno-10-5g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/)
@@ -19,6 +31,12 @@ thumbnail: https://thmb.techidaily.com/eb645c13ee9dd9fbe7f99fc761b9dd81222823674
 
  Every week we dip into our reader mailbag and answer your computer and tech-related questions. This week we're looking at swapping file icons, missing volume icons, and sending links to your smartphone.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Distinguish Between Similar Documents with Unique Icons
 
 ![2011-08-01_153954](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2011/08/2011-08-01_153954.jpg) 
@@ -36,10 +54,19 @@ thumbnail: https://thmb.techidaily.com/eb645c13ee9dd9fbe7f99fc761b9dd81222823674
  We've done the same thing for some highly used but similarly named documents.
 
 <!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Replacing a Missing System Tray Icon![2011-08-01_160154](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2011/08/2011-08-01_160154.jpg "2011-08-01_160154") 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 > Dear How-To Geek,
 > 
 > The volume adjustment icon vanished on my computer. I can still adjust the volume with the multimedia buttons on my computer keyboard but there is no icon in the tray! How do I get it back?
@@ -53,16 +80,21 @@ thumbnail: https://thmb.techidaily.com/eb645c13ee9dd9fbe7f99fc761b9dd81222823674
  Sometimes the system icons vanish in response to other variables on the computer. It's easy enough to get them back. Right click on your taskbar and click Properties. Then click the Taskbar tab in the menu that pops up. Halfway down the Taskbar options menu there is a Customize button in the Notification section. Click on that to toggle Notification Area icons on and off, including your missing volume icon.
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Sharing Links with Your Smartphone
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/gg/up/sshot4d0efba212379.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 > Dear How-To Geek,
 > 
 > I find typing on my smartphone to be a real pain and the browser doesn't support bookmark syncing. How can I easily send bookmarks to my phone?

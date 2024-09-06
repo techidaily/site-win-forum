@@ -1,7 +1,7 @@
 ---
 title: "11 Hidden Excel Tricks You Need to Know: Boost Your Productivity"
-date: 2024-08-28T04:30:05.727Z
-updated: 2024-08-29T04:30:05.727Z
+date: 2024-09-05T07:55:57.376Z
+updated: 2024-09-06T07:55:57.376Z
 tags:
   - excel
 categories:
@@ -27,6 +27,12 @@ thumbnail: https://thmb.techidaily.com/e514549e53689704682ed6ce2de6e46bd9d8c6aa0
 
 Related: [12 Basic Excel Functions Everybody Should Know](https://visual-screen-recording.techidaily.com/in-2024-a-step-by-step-recorder-for-discord-enthusiasts/) 
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  FLOOR and CEILING for Rounding
 
  You can use the FLOOR and CEILING math [functions for rounding](https://youtube-zero.techidaily.com/ed-2024-approved-the-quick-pathway-to-establishing-a-video-channel-on-your-phone/) towards or away from zero by a specified multiple. Use FLOOR to round down and CEILING to round up.
@@ -54,7 +60,16 @@ Related: [12 Basic Excel Functions Everybody Should Know](https://visual-screen-
 ![CEILING function in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/Ceiling-ExcelFunctionsLittleKnown.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  MODE.SNGL for Finding Repetitive Values
 
@@ -68,9 +83,6 @@ Related: [12 Basic Excel Functions Everybody Should Know](https://visual-screen-
 
 ![MODE.SNGL function for one array](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/ModeSnglArray-ExcelFunctionsLittleKnown.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
  To find a recurring number in A1 through A5 and C1 through C5, you'd use this formula:
 
 =MODE.SNGL(A1:A5, C1:C5)
@@ -78,7 +90,16 @@ Related: [12 Basic Excel Functions Everybody Should Know](https://visual-screen-
 ![MODE.SNGL function for two arrays](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/ModeSnglArrays-ExcelFunctionsLittleKnown.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  CONVERT for Converting From One Measurement to Another
 
@@ -94,12 +115,24 @@ Related: [How to Convert Almost Any Unit in Microsoft Excel](https://discord-vid
 
 ![CONVERT function for Celsius to Fahrenheit](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/ConvertTemp-ExcelFunctionsLittleKnown.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  To convert the value in cell B1 from centimeters to inches, use this formula:
 
 =CONVERT(B1,"cm","in")
 
 ![CONVERT function for centimeters to inches](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/ConvertLength-ExcelFunctionsLittleKnown.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  DELTA for Testing Equal or Not Equal Values
 
  Another engineering function that's useful is DELTA. With it, you'll use the [Kronecker delta](https://mathworld.wolfram.com/KroneckerDelta.html) function to test whether two values are equal. Different than the [EXACT function](https://support.microsoft.com/en-us/office/exact-function-d3087698-fc15-4a15-9631-12575cf29926), the result is either 1 (true) or 0 (false).
@@ -119,20 +152,10 @@ Related: [How to Convert Almost Any Unit in Microsoft Excel](https://discord-vid
 ![DELTA function using numbers](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/DeltaNumber-ExcelFunctionsLittleKnown.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  GESTEP for Testing Greater Than or Equal To a Threshold
 
@@ -146,15 +169,18 @@ Related: [How to Convert Almost Any Unit in Microsoft Excel](https://discord-vid
 
 ![GESTEP function using a cell references](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/GestepCell-ExcelFunctionsLittleKnown.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  To test a value of 10 against step 12, use this formula:
 
 =GESTEP(10,12)
 
 ![GESTEP function using a number](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/GestepNumbers-ExcelFunctionsLittleKnown.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ##  ADDRESS for Finding the Location of a Cell
 
  Let's move on to a lookup function in Excel. To find the exact address of a cell, you can use the ADDRESS function. This is convenient if you want an error-free [reference to a cell](https://extra-information.techidaily.com/in-2024-chic-coverage-for-your-portable-screen/).
@@ -175,6 +201,12 @@ Related: [How to Cross Reference Cells Between Microsoft Excel Spreadsheets](htt
 
 ![ADDRESS function in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/AddressFunction-ExcelFunctionsLittleKnown.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  To find the address of the same cell using an absolute row and relative column, you'd use this formula:
 
 =ADDRESS(2,3,2)
@@ -188,10 +220,10 @@ Related: [How to Cross Reference Cells Between Microsoft Excel Spreadsheets](htt
 ![ADDRESS function with a sheet name in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/AddressSheet-ExcelFunctionsLittleKnown.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  PI for the Value of Pi
 
@@ -205,6 +237,12 @@ Related: [How to Cross Reference Cells Between Microsoft Excel Spreadsheets](htt
 
 ![PI function in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/Pi-ExcelFunctionsLittleKnown.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2030395/7443" target="_top" id="2030395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2030395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  To multiply the value of pi by 10, you'd use this formula:
 
 =PI()*10
@@ -212,7 +250,10 @@ Related: [How to Cross Reference Cells Between Microsoft Excel Spreadsheets](htt
 ![PI function times ten in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/Pi10-ExcelFunctionsLittleKnown.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  ARABIC and ROMAN for Converting Numerals
 
@@ -229,7 +270,16 @@ Related: [How to Cross Reference Cells Between Microsoft Excel Spreadsheets](htt
 ![ARABIC function in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/Arabic-ExcelFunctionsLittleKnown.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  To convert 2,999 to a Roman numeral, you'd use this formula:
 
@@ -238,7 +288,10 @@ Related: [How to Cross Reference Cells Between Microsoft Excel Spreadsheets](htt
 ![ROMAN function in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/Roman-ExcelFunctionsLittleKnown.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  To convert the same number in Simplified form, use one of these formulas:
 
@@ -249,7 +302,16 @@ Related: [How to Cross Reference Cells Between Microsoft Excel Spreadsheets](htt
 ![ROMAN function with an argument](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/RomanArgument-ExcelFunctionsLittleKnown.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  REPT for Entering Repeating Text
 

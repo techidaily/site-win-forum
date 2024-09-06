@@ -1,7 +1,7 @@
 ---
 title: "Mastering Number Multiplication: A Step-by-Step Guide Using Microsoft Excel"
-date: 2024-08-28T04:30:11.012Z
-updated: 2024-08-29T04:30:11.012Z
+date: 2024-09-05T07:55:57.468Z
+updated: 2024-09-06T07:55:57.468Z
 tags:
   - excel
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/a65a2d3fb958e05df694286812a1e2454a9d6c6ff463421241eb49561be7ce4c.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Mastering Number Multiplication: A Step-by-Step Guide Using Microsoft Excel
 
 ### Quick Links
@@ -33,12 +39,21 @@ Related: [Functions vs. Formulas in Microsoft Excel: What's the Difference?](htt
 
 ![Multiplying two numbers in a cell.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/Multiplying-two-numbers-in-a-cell..png) 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Next, press Enter and the result of the formula will appear.
 
 ![The result of the equation.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/The-result-of-the-equation..png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Multiply Numbers From Multiple Cells
 
@@ -49,17 +64,20 @@ Related: [Functions vs. Formulas in Microsoft Excel: What's the Difference?](htt
 ![The formulat to multiply numbers from different cells.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/The-formulat-to-multiply-numbers-from-different-cells..png) 
 
 <!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  This formula pulls the data from each entered cell for calculation. Press "Enter" and the result will appear.
 
 ![The product of the two input cells in the multiplication formula.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/The-product-of-the-two-input-cells-in-the-multiplication-forumula..png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Multiply a Column of Numbers (by a Constant Number)
 
@@ -67,9 +85,6 @@ Related: [Functions vs. Formulas in Microsoft Excel: What's the Difference?](htt
 
 ![The multiplicands and multiplier in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/The-multiplicands-and-multiplier-in-Excel..png) 
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
  First, select cell B2, which is where the output of the first formula will be. In B2, enter this formula:
 
 =A1*$C$1
@@ -77,7 +92,10 @@ Related: [Functions vs. Formulas in Microsoft Excel: What's the Difference?](htt
 ![The formula for multiplying the numbers in a column.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/The-formula-for-multiplying-the-numbers-in-a-column.-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Press "Enter" and the product will appear.
 

@@ -1,7 +1,7 @@
 ---
 title: Detecting Empty Cells Using the ISBLANK Function in Microsoft Excel
-date: 2024-08-28T04:28:56.966Z
-updated: 2024-08-29T04:28:56.966Z
+date: 2024-09-05T07:55:56.192Z
+updated: 2024-09-06T07:55:56.192Z
 tags:
   - excel
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/05/MS-excel-logo-675.png
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Detecting Empty Cells Using the ISBLANK Function in Microsoft Excel
 
 ### Quick Links
@@ -17,6 +23,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 * [Check If a Cell Is Blank With Excel's ISBLANK Function](https://facebook-clips.techidaily.com/new-enhancing-fb-video-content-with-streamlined-captioning-tactics/)
 * [Perform an Action When a Cell Is Blank or Non-Blank](https://youtube-web.techidaily.com/n-2024-how-to-get-free-views-on-youtube-2-easy-ways/)
 
+<!-- affiliate ads begin -->
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
  You can use Excel's ISBLANK function with a cell reference as the argument, for example "=ISBLANK(A1)", to check if that cell is blank or non-blank. Combine it with other functions to perform actions depending on the result.
@@ -29,9 +47,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
 Related: [How to Count Blank or Empty Cells in Microsoft Excel](https://fox-blue.techidaily.com/2024-approved-revel-in-richness-your-pcs-pathway-to-exceptional-video-quality/) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  What Is the ISBLANK Function in Excel?
 
  Excel's 
@@ -63,8 +78,10 @@ Related: [How to Count Blank or Empty Cells in Microsoft Excel](https://fox-blue
 Related: [How to Use the IS Functions in Microsoft Excel](https://win-amazing.techidaily.com/new-release-gtx-1650-super-driver-updates-compatible-with-windows-11/) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Check If a Cell Is Blank With Excel's ISBLANK Function
 
@@ -73,7 +90,16 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![Select a cell.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/1-select-cell-excel.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  In the selected cell, type the following function and press Enter. In this function, replace `C2` with the cell that you want to check.
 
@@ -81,20 +107,20 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![Enter the ISBLANK function.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/2-use-isblank-function-excel.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  To [use the function for all your records](https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-honor-magic-6-drfone-by-drfone-virtual-android/) in the spreadsheet, from the bottom-right corner of the cell where you entered the function, drag downwards covering all your rows.
 
 ![The result of the ISBLANK function.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/3-excel-isblank-function-result.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
  Now you know what cell is and isn't blank in your spreadsheet.
 
 Related: [How to Fill Excel Cells Automatically with Flash Fill and Auto Fill](https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-honor-magic-6-drfone-by-drfone-virtual-android/) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ##  Perform an Action When a Cell Is Blank or Non-Blank
 
  Often, you may want to [perform an action depending on your cell's status](https://android-unlock.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-huawei-phone-by-drfone-android/). You may want to display a message that says something when your cell is blank and says something else when your cell isn't blank.
@@ -105,6 +131,12 @@ Related: [How to Fill Excel Cells Automatically with Flash Fill and Auto Fill](h
 
 ![Choose a cell.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/4-choose-cell-excel.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  In your selected cell, type the following function and press Enter. Here, replace `C2` with the cell that you want to check (if it's blank or not), `Sale Not Made` with the text you want to use if the cell is blank, and `Sale Made` with the text if the cell is not blank.
 
 =IF(ISBLANK(C2),"Sale Not Made","Sale Made")
@@ -113,9 +145,6 @@ Related: [How to Fill Excel Cells Automatically with Flash Fill and Auto Fill](h
 
 ![The result of the IF and ISBLANK functions.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/5-excel-isblank-if-function-result.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
  And you now have your chosen text displayed for your blank and non-blank cells.
 
 Related: [How to Skip Pasting Blank Cells When Copying in Microsoft Excel](https://extra-information.techidaily.com/new-brand-alliances-elevating-youtube-content/)

@@ -1,7 +1,7 @@
 ---
 title: Introducing Enhanced Windows 11 Security Patch KB5040442
-date: 2024-08-28T04:27:32.418Z
-updated: 2024-08-29T04:27:32.418Z
+date: 2024-09-05T07:55:54.850Z
+updated: 2024-09-06T07:55:54.850Z
 tags:
   - windows
 categories:
@@ -9,6 +9,18 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-11-logo.jpg
 ---
 
+<!-- affiliate ads begin -->
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Introducing Enhanced Windows 11 Security Patch KB5040442
 
 A great big collection of Windows 11 improvements that were previously limited to beta testers are now available everyone. The Windows 11 KB5040442 cumulative update is currently rolling out to 23H2 and 22H2 installations with new Start menu functionality, expanded file archive options, a revived "show desktop" button, and an obligatory advertisement for Game Pass.
@@ -99,7 +111,3 @@ Close
 <li><a href="https://win-forum.techidaily.com/unveiling-the-basics-understanding-bios-with-revouninstaller/"><u>Unveiling the Basics: Understanding BIOS with RevoUninstaller</u></a></li>
 <li><a href="https://win-forum.techidaily.com/wireless-network-management-using-wake-on-lan-in-windows-operating-systems/"><u>Wireless Network Management: Using Wake-on-LAN in Windows Operating Systems</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

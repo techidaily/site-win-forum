@@ -1,7 +1,7 @@
 ---
 title: Refreshed Windows 11 Experience with Advanced AI Copilot Support, Redesigned Photo Gallery, and Dynamic Widget Features
-date: 2024-08-28T04:27:34.771Z
-updated: 2024-08-29T04:27:34.771Z
+date: 2024-09-05T07:55:54.877Z
+updated: 2024-09-06T07:55:54.877Z
 tags:
   - windows
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/windows-11-3.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Refreshed Windows 11 Experience with Advanced AI Copilot Support, Redesigned Photo Gallery, and Dynamic Widget Features
 
 Microsoft has announced a major update to Windows 11, with many of the improvements that have been in testing over the past few months. That includes changes to Copilot, a Generative Erase option in the Photos app, improved Snap layouts, and much more.
@@ -19,6 +25,12 @@ Microsoft has announced a major update to Windows 11, with many of the improveme
 
 ![Screenshot of Copilot sidebar in Windows 11](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/win24_c2refresh_copilot_hero_3x2-1024x683.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2030375/7443" target="_top" id="2030375">
+  <img src="//a.impactradius-go.com/display-ad/7443-2030375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030375/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Microsoft
 
  The Photos app in Windows 11 is getting a Generative Erase feature, allowing you to select and remove unwanted objects or imperfections from your images. Microsoft started testing [a similar “Spot Fix” feature](https://win11-tips.techidaily.com/harmonize-window-11-settings-for-clear-prime-video-texts/) in the Photos app back in May, but the current iteration is more comparable to the Content-Aware Fill in Adobe Photoshop.
@@ -87,7 +99,3 @@ Microsoft
 <li><a href="https://win-forum.techidaily.com/the-quintessential-social-giants-for-digital-engagement-fb-twitter-ig-and-yt/"><u>The Quintessential Social Giants for Digital Engagement: FB, TWITTER, IG and YT</u></a></li>
 <li><a href="https://win-forum.techidaily.com/unlocking-new-possibilities-configuring-windows-11-on-cpus-not-officially-supported/"><u>Unlocking New Possibilities: Configuring Windows 11 on CPUs Not Officially Supported</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

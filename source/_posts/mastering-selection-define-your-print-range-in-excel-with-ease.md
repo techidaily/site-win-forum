@@ -1,7 +1,7 @@
 ---
 title: "Mastering Selection: Define Your Print Range in Excel with Ease"
-date: 2024-08-28T04:29:47.143Z
-updated: 2024-08-29T04:29:47.143Z
+date: 2024-09-05T07:55:57.060Z
+updated: 2024-09-06T07:55:57.060Z
 tags:
   - excel
 categories:
@@ -11,6 +11,12 @@ thumbnail: https://thmb.techidaily.com/13464bbf7702e727674e34228111122f1f619fb5b
 
 ## Mastering Selection: Define Your Print Range in Excel with Ease
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [How to Set a Print Area in Excel](https://facebook-video-content.techidaily.com/updated-engage-broadly-embedding-twitch-videos-on-fb-for-2024/)
@@ -21,6 +27,12 @@ thumbnail: https://thmb.techidaily.com/13464bbf7702e727674e34228111122f1f619fb5b
 
  If you frequently [print a certain part of your spreadsheet](https://some-guidance.techidaily.com/updated-tuning-into-emotion-background-melodies-in-film/), you can choose a designated print area in Microsoft Excel. This saves you from having to select it every time you want to print. We'll show you how.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2031472/7443" target="_top" id="2031472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2031472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2031472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  How to Set a Print Area in Excel
 
  You can set one or more print areas in the same Excel sheet. To set a single print area, [select the cells](https://buynow-tips.techidaily.com/exploring-a-ravaged-world-on-motorcycle-in-days-gone-our-comprehhavis-review/). Then, go to the Page Layout tab and click the Print Area drop-down arrow in the ribbon. Choose "Set Print Area."
@@ -36,7 +48,10 @@ thumbnail: https://thmb.techidaily.com/13464bbf7702e727674e34228111122f1f619fb5b
  After you set a print area in your Excel sheet, it will save automatically when you save your workbook. This allows you to quickly print that same spot without resetting the print area.
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  How to View a Print Area
 
@@ -46,6 +61,12 @@ thumbnail: https://thmb.techidaily.com/13464bbf7702e727674e34228111122f1f619fb5b
 
  When you finish, click "Normal" or "Page Layout" to return to your sheet, depending on which view you were using.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  How to Add Cells to a Print Area
 
  You may need to add more cells to your print area after you set it up. You have two options for adjusting the print area, depending on if you want to incorporate adjacent cells or not.
@@ -54,26 +75,29 @@ thumbnail: https://thmb.techidaily.com/13464bbf7702e727674e34228111122f1f619fb5b
 
 ![Add Nonadjacent Cells](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/AddNonAdjacentCells-ExcelPrintArea.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  When you do this, those additional cells are considered their own print area because they are not adjacent to another print area in the sheet. So, that group of cells will print on their own page as you can see below in the Page Break Preview.
 
 ![Preview Nonadjacent Cells](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/PageBreakPreviewNonAdjacentCells-ExcelPrintArea.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
  Now if you want to increase the size of a current print area to include more cells, be sure to select the cells adjacent to the area. Then, select "Add to Print Area" in the Print Area drop-down box.
 
 ![Add Adjacent Cells](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/AddAdjacentCells-ExcelPrintArea.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Then if you use the Page Break Preview, you can see that the print area has been increased and stays on the same page.
 
 ![Preview Adjacent Cells](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/PageBreakPreviewAdjacentCells-ExcelPrintArea.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  How to View a Print Preview
 
@@ -82,18 +106,30 @@ thumbnail: https://thmb.techidaily.com/13464bbf7702e727674e34228111122f1f619fb5b
 ![Click the arrow for Page Setup](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/PageSetup-ExcelPrintArea.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Click "Print Preview."
 
 ![Click Print Preview](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/PageSetupPrintPreview-ExcelPrintArea.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  You'll then see exactly what the sheet will look like when you print. Hit the arrow on the top left to return to your sheet.
 
 ![Print preview in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/PrintPreview-ExcelPrintArea.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Alternatively, you can select File > Print or [use a keyboard shortcut](https://eaxpv-info.techidaily.com/updated-2024-approved-high-definition-ready-enabling-av1-on-youtube/), Ctrl+F2, to see your print preview.
 

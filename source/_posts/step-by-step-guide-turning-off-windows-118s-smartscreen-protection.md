@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Turning Off Windows 11/8'S SmartScreen Protection"
-date: 2024-08-28T04:27:40.609Z
-updated: 2024-08-29T04:27:40.609Z
+date: 2024-09-05T07:55:54.961Z
+updated: 2024-09-06T07:55:54.961Z
 tags:
   - windows
 categories:
@@ -25,12 +25,24 @@ thumbnail: https://thmb.techidaily.com/366d048ff390e8ea9501aef5e5e819c7e4080380c
 
  The [SmartScreen filter built into Windows](https://instagram-video-recordings.techidaily.com/updated-your-ultimate-method-for-mobile-igtv-downloads/) automatically scans applications, files, downloads, and websites, blocking known-dangerous content and warning you before you run unknown applications. You can disable it, if you like.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Should You Disable SmartScreen? 
 
  We recommend you leave SmartScreen enabled. It provides an additional layer of security that helps protect your PC, whether you're [using antivirus](https://hardware-updates.techidaily.com/unveiling-the-power-of-the-lenovo-legion-pro-5i-gen-9-an-exceptional-gaming-laptop-with-an-excellent-price-tag/) or not. Even if SmartScreen automatically blocks an unknown application you know is safe, you can click through the warning to run the application anyway. 
 
  On the other hand, disabling it may allow a malicious application to slip through the cracks. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  How to Disable SmartScreen on Windows 10
 
  SmartScreen settings are located in the Windows Security Center interface. Open up the Start menu, then search for and open "Windows Security." 
@@ -41,12 +53,21 @@ thumbnail: https://thmb.techidaily.com/366d048ff390e8ea9501aef5e5e819c7e4080380c
 
 ![Click 'App and Browser Control.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-app-and-browser-control.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Then click on "Reputation-based Protection Settings." 
 
 ![Click 'Reputation-based Protection Settings' to access SmartScreen settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-reputation.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  There are four different Windows SmartScreen options, and you can disable them individually. 
 
@@ -55,26 +76,26 @@ thumbnail: https://thmb.techidaily.com/366d048ff390e8ea9501aef5e5e819c7e4080380c
 ![Toggle 'Check Apps and Files' on or off.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-check-apps-and-files-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<a href="https://appsumo.8odi.net/c/5597632/2031472/7443" target="_top" id="2031472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2031472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2031472/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  You can also control whether or not Windows Security will block potentially unwanted software. You can disable it completely, or you can set it to block apps or downloads individually. 
 
 ![The settings that allow SmartScreen to block Potentially Unwanted Programs.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6-block-pups.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
  The "SmartScreen for Microsoft Edge" option controls [the SmartScreen filter build into the Microsoft Edge browser](https://ios-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-iphone-8-plus-by-drfone-ios/). It blocks malicious websites and downloads, but only in Microsoft Edge.
 
 ![The SmartScreen filter for MS Edge](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-smartscreen-for-microsoft-edge.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The "SmartScreen for Windows Store apps" filter is used when apps you download from the Windows Store access web content. It warns you before those apps load dangerous content.
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
+  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## ![The SmartScreen for Microsoft Store apps](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/for-windows-smartscreen.png)Disable SmartScreen on Windows 8
 
@@ -85,7 +106,10 @@ thumbnail: https://thmb.techidaily.com/366d048ff390e8ea9501aef5e5e819c7e4080380c
 ![img_5912453496fed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/05/img_5912453496fed.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  You can then choose what Windows does with unrecognized programs. You can have Windows require administrator approval before running an unknown program, warn you without requiring administrator approval, or select "Don't do anything" to turn off Windows SmartScreen.
 

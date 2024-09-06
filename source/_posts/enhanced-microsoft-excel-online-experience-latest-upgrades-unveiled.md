@@ -1,7 +1,7 @@
 ---
 title: Enhanced Microsoft Excel Online Experience - Latest Upgrades Unveiled
-date: 2024-08-28T04:29:42.557Z
-updated: 2024-08-29T04:29:42.557Z
+date: 2024-09-05T07:55:56.983Z
+updated: 2024-09-06T07:55:56.983Z
 tags:
   - excel
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/microsoft-excel-logo-3.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2024326/7443" target="_top" id="2024326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2024326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Enhanced Microsoft Excel Online Experience - Latest Upgrades Unveiled
 
 The web version of Microsoft Excel has always lagged behind the desktop versions in features, but these days, it's good enough for most spreadsheet work. Microsoft has been slowly filling in the remaining gaps, and today the company announced several improvements to formulas in web Excel.
@@ -19,12 +25,24 @@ The web version of Microsoft Excel has always lagged behind the desktop versions
 
 ![Excel Insert Function dialog](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/screenshot-2023-10-25-at-2-23-34-pm.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Microsoft has also rolled out several improvements to formula readability. There's now Parenthesis Coupling, which highlights the start and end of the current set of parenthesis when you're typing in a formula — a common feature in code editors. The blog post says this change "simplifies the identification of paired parentheses allowing you to concentrate on the specific section of the formula you are currently editing."
 
  Excel on the web now uses a monospaced font in the formula bar, which Microsoft started testing on Excel for Windows [back in August](https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-tecno-phantom-v-fold-drfone-by-drfone-fix-android-problems-fix-android-problems/). The new font makes formulas generally easier to read and edit, but the regular document font and style options aren't overwritten. When you're done editing a cell, the text goes back to whatever styles were previously applied.
 
 ![Formula bar in Excel on the web](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/screenshot-2023-10-25-at-2-24-50-pm.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Finally, Excel on the Web and Windows are both receiving a "Value Preview" feature, which shows you the result of any part of the formula when you hover over it. This is similar to step-by-step debugging in programming, and it can give you a better idea of what's happening in multi-part formulas without deleting parts and adding them back.
 
  The changes should already be live for everyone in the web version of Excel, which you can try through [onedrive.com](https://onedrive.com).
@@ -127,7 +145,3 @@ The web version of Microsoft Excel has always lagged behind the desktop versions
 <li><a href="https://extra-resources.techidaily.com/top-tricks-to-control-music-paceplay-in-spotify/"><u>Top Tricks to Control Music Paceplay in Spotify</u></a></li>
 <li><a href="https://win-forum.techidaily.com/unlocking-new-possibilities-configuring-windows-11-on-cpus-not-officially-supported/"><u>Unlocking New Possibilities: Configuring Windows 11 on CPUs Not Officially Supported</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->

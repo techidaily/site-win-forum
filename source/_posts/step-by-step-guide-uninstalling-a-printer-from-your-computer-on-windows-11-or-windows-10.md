@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Uninstalling a Printer From Your Computer on Windows 11 or Windows 10"
-date: 2024-08-28T04:27:41.759Z
-updated: 2024-08-29T04:27:41.759Z
+date: 2024-09-05T07:55:54.986Z
+updated: 2024-09-06T07:55:54.986Z
 tags:
   - windows
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/c9a6389a75e39b0704a742bad64a540518e449e3f4b571dd94969d29e2160b68.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Step-by-Step Guide: Uninstalling a Printer From Your Computer on Windows 11 or Windows 10
 
 ### Quick Links
@@ -29,7 +35,10 @@ thumbnail: https://thmb.techidaily.com/c9a6389a75e39b0704a742bad64a540518e449e3f
  If you don’t use a printer anymore and wish to remove it, or you want to uninstall and reinstall a printer to fix its problems, both Windows 11 and Windows 10 make it super easy to uninstall printers. We’ll show you how to do that using two graphical and one command line method.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Three Ways to Uninstall a Printer
 
@@ -39,21 +48,36 @@ thumbnail: https://thmb.techidaily.com/c9a6389a75e39b0704a742bad64a540518e449e3f
 2. If you want to completely remove a printer (and the associated drivers), use the Device Manager method. This is helpful if you’re [troubleshooting issues with the printer](https://pokemon-go-android.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-realme-gt-5-pro-drfone-by-drfone-virtual-android/).
 3. The third method is a command line method that removes the printer’s connection from your PC, just like the Settings app does.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  Uninstall the Printer Using the Settings App 
 
  If you’re on a Windows 11 PC, head into Settings > Bluetooth & Devices > Printers & Scanners. On Windows 10, navigate to Settings > Devices > Printers & Scanners.
 
 !['Printers & Scanners' highlighted in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-printers-scanners-windows-11-settings.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Find and select the printer to remove. On Windows 11, choose "Remove." On Windows 10, select "Remove Device" and click "Yes."
 
 !['Remove' highlighted for a printer in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-remove-printer-windows-11.jpg) 
 
  Windows has removed the selected printer.
 
+<!-- affiliate ads begin -->
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Uninstall a Printer Using Device Manager
 
  To remove a Printer with Device Manager, first [open Device Manager](https://desktop-recording.techidaily.com/updated-2024-approved-easily-record-lenovo-laptop-screen-activity/) by right-clicking the Start Menu icon and selecting "Device Manager."
@@ -61,22 +85,25 @@ thumbnail: https://thmb.techidaily.com/c9a6389a75e39b0704a742bad64a540518e449e3f
 !['Device Manager' highlighted in Power User Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-open-windows-device-manager.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Select "View" in the menu bar, then enable "Show Hidden Devices" to ensure your printer appears even if it's hidden. 
 
 !['Show Hidden Devices' highlighted in Device Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-view-hidden-devices-device-manager.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  In the same window, expand "Printers" and find your printer. If you can't find your printer, expand "Print Queues" and look for it there. Once you've located it, right-click the printer's name and select "Uninstall Device."
 
 !['Uninstall Device' highlighted for a printer in Device Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-uninstall-printer-device-manager.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  In the "Uninstall Device" window, enable the "Attempt to Remove the Driver for This Device" (Windows 11) or "Delete the Driver Software for This Device" (Windows 10) option. Then, click "Uninstall."
 
 ![Delete a printer and its drivers in Device Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6-delete-printer-driver-device-manager.jpg) 
@@ -89,6 +116,12 @@ thumbnail: https://thmb.techidaily.com/c9a6389a75e39b0704a742bad64a540518e449e3f
 
 !['Run as Administrator' highlighted for PowerShell in Start Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/7-run-powershell-as-admin.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  In the User Account Control (UAC) prompt, select "Yes."
 
  In PowerShell, list the available printers by typing the following command and pressing Enter:
@@ -97,39 +130,39 @@ Get-Printer
 
 !['Get-Printer' typed in PowerShell.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/8-view-installed-printers-powershell.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  From the listed printers, note the name of the printer you want to remove. Then, type the following command, replacing "PrinterName" with the noted name, and press Enter. Make sure the printer’s name is enclosed in double quotes.
 
 Remove-Printer -Name “PrinterName”
 
 !['Remove-Printer' typed in PowerShell.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/9-remove-printer-powershell.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
  PowerShell has removed the specified printer. You can run **Get-Printer** again to confirm that it has been removed. 
 
 ##  Delete the Printer's Installed Apps
 
  Most printers (if not all) install their own manufacturer apps when you add a printer to your PC. If you’ve gotten rid of your printer for good, you should remove these installed apps as well. Here’s how to do that.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2030370/7443" target="_top" id="2030370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2030370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  On Windows 11
 
  Open Settings using Windows+i and navigate to Apps > Installed apps.
 
 !['Installed apps' highlighted in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/10-installed-apps-windows-11.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Find your printer’s app on the list. Next to the app, click the three dots and choose "Uninstall."
 
 !['Uninstall' highlighted for a printer app in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/11-delete-printer-app-windows-11.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Select "Uninstall" in the prompt.
 
@@ -144,18 +177,15 @@ Remove-Printer -Name “PrinterName”
 !['Uninstall' highlighted for a printer app in Windows 10 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/13-remove-printer-app-windows-10-settings.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Clean Up the Print Spooler and Leftover Registry Keys
 
  After removing the printer, [clean up any pending print jobs](https://facebook-record-videos.techidaily.com/new-in-2024-cooking-crusaders-youtube-stars-serving-up-deliciousness/) and leftover registry keys. This ensures all traces of your printer are gone from your PC.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ###  Clean Up the Print Spooler
 
  Open Run by pressing Windows+R, type the following command, and press Enter:
@@ -175,10 +205,19 @@ C:\Windows\System32\spool\PRINTERS
 ![The trash can icon highlighted for the print spooler files.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/15-delete-print-spooler-files.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Return to the Services window we opened previously, right-click "Print Spooler" again, and select "Start."
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  Remove the Deleted Printer’s Leftover Registry Keys
 
  Be cautious of deleting things in the Windows Registry, and follow our instructions carefully. Deleting or modifying the wrong key can cause issues with your PC. 
@@ -187,6 +226,12 @@ C:\Windows\System32\spool\PRINTERS
 
 ![Registry Editor highlighted in Start Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/16-open-registry-editor.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  In the User Account Control prompt, select "Yes."
 
  Navigate to the following path in Registry Editor or paste it into the address bar:
@@ -197,6 +242,18 @@ HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Print\Printers
 
 !['Delete' highlighted for a printer's keys in Registry Editor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/17-delete-printer-keys-registry-editor.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Quit Registry Editor and [restart your computer](https://instagram-clips.techidaily.com/2024-approved-15-must-use-hashtags-for-popularity-on-instagram-feed/). And you’ve successfully removed a printer from your Windows machine.
 
 <ins class="adsbygoogle"

@@ -1,7 +1,7 @@
 ---
 title: Significant User Interface Enhancements Elevate the New Version of Windows 11'S Photos Application
-date: 2024-08-28T04:28:48.237Z
-updated: 2024-08-29T04:28:48.237Z
+date: 2024-09-05T07:55:56.036Z
+updated: 2024-09-06T07:55:56.036Z
 tags:
   - windows
 categories:
@@ -17,6 +17,18 @@ Microsoft is now rolling out an updated Photos app to Windows 11 users on the Ca
 
 * ![Photo metadata and a zoom slider in the Windows 11 Photos app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/60.jpg)
 * ![An 'import photos' prompt in the Windows 11 Photos app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/59.jpg)
+<!-- affiliate ads begin -->
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * ![Photo metadata and a zoom slider in the Windows 11 Photos app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/60.jpg)
 * ![An 'import photos' prompt in the Windows 11 Photos app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/59.jpg)
@@ -26,18 +38,60 @@ Close
 * ![Photo metadata and a zoom slider in the Windows 11 Photos app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/60.jpg)
 * ![An 'import photos' prompt in the Windows 11 Photos app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/59.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 * ![Photo metadata and a zoom slider in the Windows 11 Photos app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/60.jpg)
 * ![An 'import photos' prompt in the Windows 11 Photos app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/59.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Close 
 
 * ![Photo metadata and a zoom slider in the Windows 11 Photos app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/60.jpg)  
 Microsoft
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2024338/7443" target="_top" id="2024338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2024338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 * ![An 'import photos' prompt in the Windows 11 Photos app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/59.jpg)  
 Microsoft
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * ![Photo metadata and a zoom slider in the Windows 11 Photos app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/60.jpg)
 * ![An 'import photos' prompt in the Windows 11 Photos app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/59.jpg)
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close 
 
@@ -127,8 +181,3 @@ Close
 <li><a href="https://win-forum.techidaily.com/winning-against-stubborn-files-advanced-techniques-to-force-delete-folders-on-your-windows-11-system/"><u>Winning Against Stubborn Files: Advanced Techniques to Force Delete Folders on Your Windows 11 System</u></a></li>
 <li><a href="https://win-forum.techidaily.com/workaround-for-windows-11-installation-tips-for-non-qualifying-cpus/"><u>Workaround for Windows 11: Installation Tips for Non-Qualifying CPUs</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->

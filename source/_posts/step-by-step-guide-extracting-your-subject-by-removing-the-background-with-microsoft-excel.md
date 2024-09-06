@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Extracting Your Subject by Removing the Background with Microsoft Excel"
-date: 2024-08-28T04:29:59.844Z
-updated: 2024-08-29T04:29:59.844Z
+date: 2024-09-05T07:55:57.274Z
+updated: 2024-09-06T07:55:57.274Z
 tags:
   - excel
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/078ec5c6b19df307c3d053f03815c7d21ecece8ed3226ebe1d118a70909568e6.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2030373/7443" target="_top" id="2030373">
+  <img src="//a.impactradius-go.com/display-ad/7443-2030373" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030373/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Step-by-Step Guide: Extracting Your Subject by Removing the Background with Microsoft Excel
 
 Removing a [distracting background from an image](https://youtube-stream.techidaily.com/new-film-substitutes-to-stream-top-7-picks/) allows your audience to focus on the subject matter. Though it's not known for its image editing suite, you can do this using Microsoft Excel. Here's how it's done.
@@ -17,10 +23,22 @@ Removing a [distracting background from an image](https://youtube-stream.techida
 
 ![Selected image in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/01/Selected-image-in-Excel.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Once it's been inserted, you'll automatically be in the "Picture Format" tab. Here, click "Remove Background," which is found in the "Adjust" group.
 
 ![Remove background option in adjust group](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/01/Remove-background-option-in-adjust-group.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Once it's been selected, the background of the image will appear magenta while the foreground remains untouched. The portion of the image that's highlighted in magenta is the area to be removed.
 
 Related: [How to Remove the Background from a Picture in Microsoft PowerPoint](https://fox-glue.techidaily.com/diving-into-movavis-premium-video-tools-edition/) 
@@ -29,6 +47,12 @@ Related: [How to Remove the Background from a Picture in Microsoft PowerPoint](h
 
 ![Image with magenta highlights](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/01/Image-with-magenta-highlights.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  To mark areas of the image that weren't highlighted for removal by default, click "Mark Areas to Remove" in the "Refine" group of the "Picture Format" tab. For areas that were highlighted that you want to keep, click "Mark Areas to Keep."
 
 ![Mark areas to remove](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/01/Mark-areas-to-remove-1.png) 
@@ -37,6 +61,12 @@ Related: [How to Remove the Background from a Picture in Microsoft PowerPoint](h
 
 ![GIF for marking areas for removal](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/01/GIF-for-marking-areas-for-removal.gif) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Alternatively, click and drag the cursor around the areas that you'd like to keep.
 
 ![Marking areas to keep](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/01/Marking-areas-to-keep.gif) 
@@ -45,6 +75,12 @@ Related: [How to Remove the Background from a Picture in Microsoft PowerPoint](h
 
 ![GIF of reflecting changes by clicking off the image](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/01/GIF-of-reflecting-changes-by-clicking-off-the-image.gif) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The background of the image is now removed.
 
 ---
@@ -116,7 +152,3 @@ Related: [How to Remove the Background from a Picture in Microsoft PowerPoint](h
 <li><a href="https://win-forum.techidaily.com/1722915367154-top-four-social-media-giants-facebook-twitter-instagram-and-youtube/"><u>Top Four Social Media Giants: Facebook, Twitter, Instagram, and YouTube</u></a></li>
 <li><a href="https://win-forum.techidaily.com/top-platforms-in-social-networking-facebook-twitter-instagram-youtube/"><u>Top Platforms in Social Networking - Facebook, Twitter, Instagram, Youtube</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

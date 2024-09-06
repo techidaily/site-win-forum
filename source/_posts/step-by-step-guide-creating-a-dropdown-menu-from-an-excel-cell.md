@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Creating a Dropdown Menu From an Excel Cell"
-date: 2024-08-28T04:29:55.288Z
-updated: 2024-08-29T04:29:55.288Z
+date: 2024-09-05T07:55:57.201Z
+updated: 2024-09-06T07:55:57.201Z
 tags:
   - excel
 categories:
@@ -11,6 +11,12 @@ thumbnail: https://thmb.techidaily.com/8cc2f26346852b595fe32553f266efaeb26b116a6
 
 ## Step-by-Step Guide: Creating a Dropdown Menu From an Excel Cell
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [What is an Excel Drop-Down List?](https://youtube-blog.techidaily.com/n-2024-ultimate-freefire-tag-collection-enhance-your-youtube-channels/)
@@ -38,29 +44,47 @@ thumbnail: https://thmb.techidaily.com/8cc2f26346852b595fe32553f266efaeb26b116a6
 
 ![The age ranges we entered highlighted in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/enter-age-ranges.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Now, we’re going to name our range of cells to make it easier to add them to the drop-down list. To do this, select all the cells containing the drop-down list items and then enter a name for the cell range into the Name box above the grid. We named our cell range Age.
 
  Hold Ctrl while you click to select multiple cells in Excel on Windows. On a Mac, hold Command and click to select multiple items. You can also hold Shift-click the first cell and then Shift-click the last cell to select all of the cells in between as well.
 
 ![The age cells selected and named "Age."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/name-cells-age.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Now, select the cell into which you want to add a drop-down list and click the “Data” tab.
 
 ![The first cell in the "Age" column is selected.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/select-the-cell-then-click-data.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Open the Data Tools section of the Data tab, then click the “Data Validation” button
 
 ![The "Data Tools" flyout open with "Data Validation" highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/data-validation.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The Data Validation dialog box displays. On the Settings tab, select “List” from the Allow drop-down list (see, drop-down lists are everywhere!).
 
 ![The "Data Validation" window, with the "Allow" drop-down box open.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/select-list-from-dropdown.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Now, we’re going to use the name we assigned to the range of cells containing the options for our drop-down list. Enter ` =Age ` in the “Source” box (if you named your cell range something else, replace “Age” with that name). Make sure the “In-cell dropdown” box is checked.
 
@@ -69,7 +93,10 @@ thumbnail: https://thmb.techidaily.com/8cc2f26346852b595fe32553f266efaeb26b116a6
 ![The "Source" field is set to "=Age".](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/set-equal-age.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  You can add a popup message that displays when the cell containing the drop-down list is selected. To do this, click the “Input Message” tab on the Data Validation dialog box. Make sure the “Show input message when the cell is selected” box is checked. Enter a Title and an Input message and then click the “OK” button.
 
@@ -80,36 +107,30 @@ thumbnail: https://thmb.techidaily.com/8cc2f26346852b595fe32553f266efaeb26b116a6
 ![The input message displayed with an "Age" cell selected.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/age-input-cell.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Click the down arrow button to drop down the list of options and select one.
 
 ![The drop-down menu listing the age ranges we programmed.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/age-input-options-listed-dropdown.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
  Of course, we have an entire column we want to take age values. There are a few ways to make that happen. The first — and easiest — is just to select all of the cells you want to have a drop-down menu _before_ you go to Data Validation and actually add the drop-down menu. The simplest way to select every cell in a column is to click the column header. If you have a cell you're using for a label, just Ctrl+Click it to deselect it, so the formatting doesn't get applied there.
 
 ![Select the whole column, then deselect the label cell.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/deselect-label.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Then just apply the formatting just like we showed you previously.
 
@@ -123,15 +144,15 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
 ![Click "Clear All" to remove the drop-down menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/clear-all-cell.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The options on the Data Validation dialog box are reset to their defaults. Click “OK” to remove the drop-down list and restore the cell to its default format.
 
 ![The cell now has no data validation criteria.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/clear-all-click-ok-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  If there was an option selected when you removed the drop-down list, the cell is populated with the value of that option.
 

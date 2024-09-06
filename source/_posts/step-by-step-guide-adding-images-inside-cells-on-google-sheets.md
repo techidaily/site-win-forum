@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Adding Images Inside Cells on Google Sheets"
-date: 2024-08-28T04:29:29.351Z
-updated: 2024-08-29T04:29:29.351Z
+date: 2024-09-05T07:55:56.766Z
+updated: 2024-09-06T07:55:56.766Z
 tags:
   - excel
 categories:
@@ -9,6 +9,18 @@ categories:
 thumbnail: https://thmb.techidaily.com/d5331824a0fea73eb882bba4127a05283f17e46d7c3729b25c19a572afe1817c.jpg
 ---
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Step-by-Step Guide: Adding Images Inside Cells on Google Sheets
 
 ### Quick Links
@@ -17,41 +29,65 @@ thumbnail: https://thmb.techidaily.com/d5331824a0fea73eb882bba4127a05283f17e46d7
 
  Spreadsheets don't always have to look like a solid wall of text. You can break that monotony by adding some images to your cells in [Google Sheets](https://screen-recording.techidaily.com/updated-sharex-review-and-best-alternatives-for-2024/).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Table of Contents
 
 * [**Quickly Insert an Image in a Cell**](https://extra-hints.techidaily.com/in-2024-a-step-by-step-pathway-to-adding-sound-in-adobe-premiere/)
 * [**Use the Image Function to Add an Image to a Cell**](https://snapchat-videos.techidaily.com/new-unseen-snaps-and-silence-could-be-a-block/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quickly Insert an Image in a Cell
 
  Google Sheets has a really simple way to insert an image in a cell. First, go to <https://docs.google.com/spreadsheets/> and open any spreadsheet. Now, click any blank cell in the spreadsheet and go to Insert > Image.
 
 ![Click any blank cell in the spreadsheet and go to Insert > Image.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/05/google-sheets-insert-menu-image.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
  Since our goal is to add a picture inside the selected cell, let's select "Image in Cell."
 
 ![Click "Image in Cell" after you go to Insert > Image in Google Sheets.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/05/google-sheets-insert-image-in-cell.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  This opens an image selection pop-up with a lot of options. We'll quickly walk you through all of these so that you can pick the one that's best for you. To upload a file from your computer, click the "Upload" tab.
 
 ![Click the "Upload" tab in Google Sheets.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/05/google-sheets-upload-tab.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Now, click the blue "Browse" button that appears once you select the "Upload" tab.
 
 ![Click the browse button on the Upload tab](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/05/google-sheets-click-browse.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  You can now easily navigate to any file on your computer and double-click to upload it to the selected cell in Google Sheets.
 
  To take a picture using a webcam, click "Camera."
 
 ![Click the "Camera" tab to take a photo in Google Sheets.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/05/google-sheets-click-camera.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Hit the yellow camera icon in the "Camera" tab when you're ready to take a picture.
 
 ![Click the "Camera" tab to take a photo in Google Sheets.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/05/google-sheets-click-camera.png) 
@@ -61,15 +97,21 @@ thumbnail: https://thmb.techidaily.com/d5331824a0fea73eb882bba4127a05283f17e46d7
 ![Click "Insert" to add a picture inside a cell in Google Sheets.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/05/google-sheets-camera-click-insert.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Click the "By URL" tab to import an image using its URL.
 
 ![Click "By URL" to add an image using its link in Google Sheets.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/05/google-sheets-by-url.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Paste the link in the text box in the "By URL" tab.
 
 ![Click "By URL" to add an image using its link in Google Sheets.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/05/google-sheets-by-url.png) 
@@ -83,19 +125,15 @@ thumbnail: https://thmb.techidaily.com/d5331824a0fea73eb882bba4127a05283f17e46d7
 ![Click the "Photos" tab in Google Sheets.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/05/google-sheets-photos-tab.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Click any picture to select it from the "Photos" tab.
 
 ![Click the "Photos" tab in Google Sheets.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/05/google-sheets-photos-tab.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
  Then, click the blue "Insert" button near the bottom of the pop-up to add it to the cell.
 
 ![Click the "Photos" tab in Google Sheets.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/05/google-sheets-photos-tab.png) 
@@ -105,20 +143,25 @@ No advertising on the website.
 ![Click "Google Drive" to select images from there for Google Sheets.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/05/google-sheets-insert-image-google-drive.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Once you've done that, click any photo to select it, and then hit "Insert" to add it to the selected cell.
 
 ![Select the image from Google Drive and click "Insert" to add it to a cell in Google Sheets.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/05/google-sheets-select-image-google-drive-click-insert.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
  Finally, you can select "Google Image Search" and use the "Search for Images" text box at the top to look for images from the internet. You can type any search query here as you would on Google search.
 
 ![Use the search box to find an image from Google Images within Google Sheets.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/05/google-sheets-click-google-image-search-search.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The next step is to click the image that you want to select, and finally, you can hit "Insert."
 
 ![Double-click the image you want to insert in a cell inside Google Sheets.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/05/google-sheets-click-google-image-search-select.png) 
@@ -130,23 +173,26 @@ No advertising on the website.
 ![Images added to cells in Google Sheets automatically scale to the size of the cell, leading to barely visible images sometimes.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/05/google-sheets-image-in-cell-barely-visible.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  You can easily do this by moving your mouse pointer to the bar above or below the row number on the extreme left side of the spreadsheet. Make sure that the mouse pointer turns into an up arrow icon and drag it up or down to adjust the size of the row.
 
 ![Adjust the row size in Google Sheets.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/05/google-sheets-adjust-row-size.png) 
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Similarly, you can drag the mouse pointer to the separators between two columns at the top of the spreadsheet. Columns are denoted by alphabets in Google Sheets. Once the mouse pointer has turned into a right arrow, click and drag it to adjust the size of the column.
 
@@ -165,14 +211,20 @@ No advertising on the website.
 ![Select any cell and go to Insert > Function > Google.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/05/google-sheets-insert-function-google.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2030391/7443" target="_top" id="2030391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2030391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030391/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  To insert images inside a cell in Google Sheets, click "Image."
 
 ![Select any cell and go to Insert > Function > Google.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/05/google-sheets-insert-function-google.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  You'll see a pop-up that shows you the syntax for the Image function and tells you what each parameter does. The syntax looks something like this:
 
@@ -199,9 +251,6 @@ No advertising on the website.
 
 ![A screenshot showing the effects of the four sizing modes for the Image function in Google Sheets.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/05/google-sheets-image-function-syntax-screenshot.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
  Here's how you can correctly use the first three sizing modes:
 
         `=IMAGE("https://www.howtogeek.com/wp-content/uploads/2018/08/new-design-social-coverphoto.png", 1)`

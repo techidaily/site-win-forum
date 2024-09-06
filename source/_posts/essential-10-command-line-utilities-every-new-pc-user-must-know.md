@@ -1,7 +1,7 @@
 ---
 title: Essential 10 Command Line Utilities Every New PC User Must Know
-date: 2024-08-28T04:28:02.285Z
-updated: 2024-08-29T04:28:02.285Z
+date: 2024-09-05T07:55:55.354Z
+updated: 2024-09-06T07:55:55.354Z
 tags:
   - windows
 categories:
@@ -9,8 +9,32 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/52881909073_c58cd7344b_o.jpg
 ---
 
+<!-- affiliate ads begin -->
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Essential 10 Command Line Utilities Every New PC User Must Know
 
+<!-- affiliate ads begin -->
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [cd: Change Directories Easily](https://facebook-video-share.techidaily.com/updated-essential-free-apps-for-youtube-to-wav-transformation-for-2024/)
@@ -38,6 +62,18 @@ cd Documents
 
 ![Windows change directory command in the terminal.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/cd-2.png) 
 
+<!-- affiliate ads begin -->
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Or maybe you want to go up one level; you can type **cd ..** which will bring you back to the previous directory. This can be useful if you need to navigate through different directories quickly.
 
 ![Using the change directory command in Windows to go up one level.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/cd_up_one_level.png) 
@@ -50,9 +86,6 @@ cd C:\Windows\System32
 
  It's all about making your file system a lot more accessible. For a deeper dive into changing directories on Windows, learn [how to change directories in command prompt on Windows 10](https://extra-information.techidaily.com/quick-and-easy-iphone-burst-techniques/).
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2  dir: List Directory Contents 
 
  Do you want to see what's inside a folder without opening it? The dir (directory) command is your answer. It lists all files and directories right in the terminal. Just type **dir** to get a list of everything in the current directory.
@@ -73,24 +106,12 @@ mkdir NewFolder
 
 ![Using the mkdir command in Windows to create a new directory.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/mkdir_newfolder.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
  This command is a great way to keep your system organized.
 
  If you want to create a nested directory structure in one go, you can use the **mkdir a\\b\\c** command. This command will create directory "a," and within "a," it will create directory "b," and within "b," it will create directory "c." It's a convenient way to set up multiple levels of directories with a single command rather than having to create each directory individually.
 
 ![Using mkdir to create nested directories in Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/mkdir_nested.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ## 4  rmdir: Remove Directories 
 
  Do you have an empty folder you don’t need? The rmdir (remove directory) command will take care of it. But if it’s not empty, you’ll need a different approach. To remove an empty directory, simply type:
@@ -99,19 +120,28 @@ rmdir NewFolder
 
 ![Using the rmdir command in WIndows to remove a folder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/rmdir_newfolder.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  To remove a directory along with everything within it, use the **rmdir /s NewFolder** command.
 
 ![Using the rmdir command in Windows to remove a directory and its contents.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/rmdir_newfolder_andcontents.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Just be careful with that second one, and make sure you really want everything gone.
 
  When using the mkdir or rmdir commands, you won't see any confirmation message if the action is successful. To ensure the directory has been created or removed, you can use the dir command to list the contents of the current directory. If the action is successful, the new directory will appear or disappear from the list accordingly.
 
  If you need more information on a specific command, simply enter help followed by the command. For example, if you need more information on the rmdir command, type the **help rmdir** command.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5  del: Delete Files 
 
  Do you need to delete a file? The del command will do it. Use it wisely because once it's gone, it's gone (sort of). [Deleted files on hard drives aren't immediately erased](https://screen-recording.techidaily.com/updated-enhancing-facebook-viewership-with-obs-broadcasts/), while on solid-state drives, the data may be wiped more quickly.
@@ -122,10 +152,22 @@ del file.txt
 
 ![Using the del command in Windows to delete a file.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/del_file.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  It’s a powerful command, so handle it with care.
 
  The del command doesn't print anything in response to its use, which might surprise you. Once you run the command, the file will be deleted silently. You can verify that the file has been deleted by using the dir command to check the contents of the directory where the file was located.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6  copy: Copy Files to Another Location 
 
  Do you want to back up your files? The copy command makes duplicating files a breeze. To copy file.txt to the C:\\Backup folder, type the following:
@@ -134,12 +176,30 @@ copy file.txt C:\Backup
 
 ![Using the copy command in Windows to copy a file to a new location.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/copy_to_another_location.png) 
 
+<!-- affiliate ads begin -->
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  By using the wildcard symbol "\*" followed by the file extension, you can copy all files with the same extension. For example, to copy all text files to the C:\\Backup directory, you use this command:
 
 copy * .txt C:\Backup
 
 ![Using the copy command to copy multiple files in Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/copy_multiple_files.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Press F7 to view and select from your command history. This allows you to easily re-run previous commands without retyping them.
 
 ## 7  move: Move Files to a New Location 
@@ -153,7 +213,10 @@ move file.txt C:\Backup
 ![Using the move command in Windows to move a file to a new location.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/move_tobackup.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 8  type: Display the Contents of a Text File 
 
@@ -163,13 +226,13 @@ type file.txt
 
 ![Using the type command in Windows to display the contents of a text file.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/type_file.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
  The cls command clears all text from the terminal screen, giving you a clean slate to work from.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 9  systeminfo: View System Information 
 
@@ -178,10 +241,22 @@ type file.txt
 ![Using the systeminfo command in Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/systeminfo.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 10  tree: Display Directory Structure 
 
@@ -191,9 +266,6 @@ tree C:\Users
 
 ![Using the tree command to see the structure of the Users folder in Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/tree.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ---
 
  So there you have it: 10 basic Windows commands for beginners that will make you feel like a computer whiz. Practice these commands, and you'll soon be navigating, managing, and troubleshooting your Windows system with ease. Keep exploring, keep experimenting, and watch your command-line skills grow.

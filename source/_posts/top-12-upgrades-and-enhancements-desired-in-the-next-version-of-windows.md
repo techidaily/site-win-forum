@@ -1,7 +1,7 @@
 ---
 title: Top 12 Upgrades and Enhancements Desired in the Next Version of Windows
-date: 2024-08-28T04:28:50.509Z
-updated: 2024-08-29T04:28:50.509Z
+date: 2024-09-05T07:55:56.079Z
+updated: 2024-09-06T07:55:56.079Z
 tags:
   - windows
 categories:
@@ -9,6 +9,18 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/a-laptop-screen-displaying-a-logo-associated-with-windows-12.jpg
 ---
 
+<!-- affiliate ads begin -->
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Top 12 Upgrades and Enhancements Desired in the Next Version of Windows
 
 ### Quick Links
@@ -28,6 +40,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  It feels like Windows 11 was just released yesterday, but there is good reason to believe Windows 12 will be released in 2024 or 2025\. Here are some things we'd love to see included in Windows 12.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Finish the Settings App and Remove Control Panel
 
  The modern Settings app has been present in Windows since the days of Windows 8, but it still doesn’t contain everything that Control Panel does.
@@ -36,6 +54,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The legacy Control Panel in Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2024-05-06_02h14_47.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Expand Phone Link's Usefulness
 
 [Phone Link](https://data-safeguard.techidaily.com/automated-data-gathering-with-cookiebot-solutions/), formerly Your Phone, has steadily improved over the years, but it is still a far cry from the sort of seamless integration Apple users have access to if they combine a Mac and an iPhone.
@@ -45,7 +69,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![The Microsoft Phone Link app with a Pixel device.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2024-05-06_02h14_14.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Universal Noise Cancellation Built-in
 
@@ -58,23 +85,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![A microphone on a table.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/52730616053_b68b4eca6b_o.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Andrew Heinzman / How-To Geek
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  Live and Dynamic Backgrounds
 
  Linux, macOS, iOS, and Samsung Android devices all allow you to use live or dynamic backgrounds. There are plenty of great tools out there that let you [set a live wallpaper on Windows](https://fake-location.techidaily.com/how-to-fix-vivo-y100-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/), but we’d like to see it included natively in Windows 12.
 
  In the interim, [Wallpaper Engine](https://www.wallpaperengine.io/en) or [Lively](https://apps.microsoft.com/detail/9ntm2qc6qws7) are great, low-cost ways to get your animated background fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ##  More Useful Widgets
 
  Microsoft has made several attempts at implementing widgets in Windows over the years, and none of them have been particularly successful. One—Gadgets in Windows Vista and 7—quite famously [introduced security vulnerabilities](https://learn.microsoft.com/en-us/security-updates/SecurityAdvisories/2013/2719662?redirectedfrom=MSDN).
@@ -85,10 +108,22 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![The widgets on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2024-05-06_02h16_21.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  It would be nice to see Windows 12 offer more granular control over what is displayed in the Widgets menu, how the widgets themselves are displayed, and where you can place them.
 
  Personally, I’d love a little weather widget in the upper right corner of my right monitor.
 
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Control Over the Right-Click Menu
 
  The right-click context menu is an essential part of using a Windows computer, and yet, we have no meaningful built-in tools to customize how it looks and operates. Why not?
@@ -97,6 +132,12 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  We’ve been living with cluttered right-click menus for decades. A native tool would be a small but fantastic addition to Windows 12.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  A Favorites List on the Emoji Picker
 
 [The emoji picker](https://screen-video-capture.techidaily.com/2024-approved-top-6-minecraft-house-ideas-for-beginners/) is one of my favorite additions in the recent versions of Windows, but it is lacking one critical feature: a favorites list!
@@ -105,22 +146,22 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![The Emoji picker on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2024-05-06_02h15_16.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  It would be great to have the option to build a favorites tab that opens by default. It would be even better if the favorites tab let you assign a key to each favorited item for faster access, much like [how the Power User Menu works](https://pokemon-go-android.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/).
 
  The ability to press Win+. and then just tap a single key to enter an emdash? Yes, please.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Better Control Over the Start Menu
 
  The Windows 11 Start menu has proven to be as divisive as it is different. We don’t expect a complete reversal in Windows 12, but more control would be a very welcome change.
 
  Live tiles were a bit of a bust, but allowing users to integrate their favorite widgets into the Start Menu would be a nice start. The ability to toggle between a list display and an icon grid array would also be really nice.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
+  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  The Xbox App Needs a Rework
 
  The Xbox app is notoriously buggy and has been for years. Sometimes it works, sometimes, inexplicably, it doesn’t.
@@ -146,13 +187,19 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![The Run feature from Windows PowerToys.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2024-05-06_02h17_07.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
  We’d love to see something that combines the best of Windows Search (live results, like weather) with PowerToys' Run integrated into Windows 12.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Helpful Local AI Tools
 

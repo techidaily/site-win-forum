@@ -1,7 +1,7 @@
 ---
 title: "Mastering MS Excel's IF Statements: A Comprehensive Guide"
-date: 2024-08-28T04:29:21.318Z
-updated: 2024-08-29T04:29:21.318Z
+date: 2024-09-05T07:55:56.641Z
+updated: 2024-09-06T07:55:56.641Z
 tags:
   - excel
 categories:
@@ -9,13 +9,37 @@ categories:
 thumbnail: https://thmb.techidaily.com/d1114cdd62049ffd7653e7094748e36a17e96d6070583d2a1a451841876e1401.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Mastering MS Excel's IF Statements: A Comprehensive Guide
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
+  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [The IS Functions in Excel](https://facebook-clips.techidaily.com/in-2024-reclaim-inaccessible-watch-icon/)
 * [IS Function Examples](https://extra-resources.techidaily.com/2024-approved-benchmark-analysis-djis-drone-phantom-3/)
 
+<!-- affiliate ads begin -->
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
  Excel's IS functions return "True" or "False" depending on the contents of a cell. For example, =ISBLANK(A1) will return "TRUE" if cell A1 is blank and "FALSE" if it is not. Excel provides the following IS functions: ISBLANK, ISERR, ISERROR, ISLOGICAL, ISNA, ISNONTEXT, ISNUMBER, ISREF, and ISTEXT.
@@ -27,7 +51,10 @@ thumbnail: https://thmb.techidaily.com/d1114cdd62049ffd7653e7094748e36a17e96d607
  When you use these functions in conjunction with others, like [the IF function](https://extra-skills.techidaily.com/in-2024-spark-engagement-the-ultimate-list-of-video-text-effects/), you can put parameters around your true/false statements. But, you can also use the IS functions on their own if it's beneficial. Let's take a look at how they work.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  The IS Functions in Excel
 
@@ -61,6 +88,12 @@ thumbnail: https://thmb.techidaily.com/d1114cdd62049ffd7653e7094748e36a17e96d607
 * **ISREF:** Returns True if the value is a reference or False if it's not a reference.
 * **ISTEXT:** Returns True if the value is text or False if it's not text.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  IS Function Examples
 
  As you review the above list, you can see where some of the IS functions can come in handy. At the same time, you may see a couple that you'll probably rarely use. So, let's look at common uses for a few of the functions.
@@ -77,9 +110,6 @@ thumbnail: https://thmb.techidaily.com/d1114cdd62049ffd7653e7094748e36a17e96d607
 
 ![ISBLANK function in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/ISBLANK-ExcelISFunctions.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Now we'll include the IF function to display a question mark (?) for a blank cell and a hyphen (-) for a cell containing data.
 
 =IF(ISBLANK(A1),"?","-")
@@ -88,6 +118,12 @@ thumbnail: https://thmb.techidaily.com/d1114cdd62049ffd7653e7094748e36a17e96d607
 
 ![ISBLANK function in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/ISBLANK-ExcelISFunctions.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  ISERROR
 
  The ISERROR function is ideal if you want to locate [errors in your sheet](https://extra-lessons.techidaily.com/step-into-premium-sound-quality-garageband-edition/) for constantly changing data. It works well with the IF function in the same way that IFERROR works on its own.
@@ -100,9 +136,6 @@ thumbnail: https://thmb.techidaily.com/d1114cdd62049ffd7653e7094748e36a17e96d607
 
 ![ISERROR function in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/ISERROR-ExcelISFunctions.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Now we can add the IF function to display something other than True or False. If the calculation results in an error, we'll display 1, otherwise, we'll display 2.
 
 =IF(ISERROR(A1/B1),A,B)
@@ -111,6 +144,12 @@ thumbnail: https://thmb.techidaily.com/d1114cdd62049ffd7653e7094748e36a17e96d607
 
 ![ISERROR function in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/ISERROR-ExcelISFunctions.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Again, you can use the newer IFERROR function instead of the IF and ISERROR combination in most cases. But you can also use IF and ISERROR with other functions like VLOOKUP to display certain results for both errors and non-errors, whereas IFERROR displays only the value for the error.
 
  For more on this specific topic, take a look at our guide on [using the IFERROR function to hide errors](https://instagram-videos.techidaily.com/updated-cut-and-paste-success-enhancing-videos-for-instagram-shares/) in your sheet.
@@ -129,6 +168,12 @@ Related: [How to Hide Error Values and Indicators in Microsoft Excel](https://in
 
 ![ISNUMBER function in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/ISNUMBER-ExcelISFunctions.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Now, we'll add the IF function to display nothing if the cell contains a number but "Please enter a number" if the cell doesn't contain a number.
 
 =IF(ISNUMBER(A1)," ","Please enter a number")
@@ -137,29 +182,18 @@ Related: [How to Hide Error Values and Indicators in Microsoft Excel](https://in
 
 ![ISNUMBER function in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/ISNUMBER-ExcelISFunctions.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
  We can do the same thing with the ISTEXT function. Here we have our ISTEXT function to see if [the value is text](https://video-screen-grab.techidaily.com/updated-the-art-of-smooth-video-transitioning-for-2024/) or not.
 
 =ISTEXT(A1)
 
 ![ISTEXT function in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/ISTEXT-ExcelISFunctions.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  And with the IF function, we can display "Please enter text" if the value is something other than text.
 
 =IF(ISTEXT(A1)," ","Please enter text")
 
 ![ISTEXT function in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/ISTEXT-ExcelISFunctions.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
  These are basic examples of how to use the IS functions in Excel. They are available for simple checks of data on their own or more complex tests when combined with other functions.
 
 | |  Mastering Excel Functions |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |  |

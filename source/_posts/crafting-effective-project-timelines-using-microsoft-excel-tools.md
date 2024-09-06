@@ -1,7 +1,7 @@
 ---
 title: Crafting Effective Project Timelines Using Microsoft Excel Tools
-date: 2024-08-28T04:28:54.995Z
-updated: 2024-08-29T04:28:54.995Z
+date: 2024-09-05T07:55:56.162Z
+updated: 2024-09-06T07:55:56.162Z
 tags:
   - excel
 categories:
@@ -32,14 +32,32 @@ Related: [How to Create and Insert a Pyramid in Microsoft PowerPoint](https://fo
 
 ![Project timeline in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/ExcelProjectTimeline.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2030370/7443" target="_top" id="2030370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2030370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  When the Choose a SmartArt Graphic window opens, select "Process" on the left. On the right, find and select the Basic Timeline, then click "OK." If you prefer, you can pick the Circle Accent Timeline for a fancier visual.
 
 ![Project timeline in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/ExcelProjectTimeline.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The Basic Timeline graphic will pop into your sheet for you to add your items. The essential elements of this timeline include blue dots for the milestones or dates with boxes for the corresponding text. You can also add tasks or activities as bullet points within each text box.
 
 ![Project timeline in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/ExcelProjectTimeline.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  Customize the Timeline
 
  As you add your text, the boxes adjust to accommodate the size. So you save time from formatting them yourself. Plus, you can also add more shapes to lengthen your [timeline](https://win-solutions.techidaily.com/mastering-the-battle-solutions-to-tackle-xbox-and-pcs-error-0-166-in-call-of-duty-warzone/) or change the direction of the arrow easily.
@@ -52,6 +70,12 @@ Related: [How to Create a Timeline in Microsoft PowerPoint](https://win-solution
 
 ![Project timeline in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/ExcelProjectTimeline.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  When the Text Pane opens, create your timeline in an outline format using these actions:
 
 * **Add a shape**: Go to the item before the new shape, press Enter or Return, and type the item.
@@ -61,9 +85,6 @@ Related: [How to Create a Timeline in Microsoft PowerPoint](https://win-solution
 
 ![Project timeline in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/ExcelProjectTimeline.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can also use the tools in the ribbon on the SmartArt Design tab to customize the timeline. On the left, you can add a shape, insert a bullet, change the arrow direction, rearrange items, and demote or promote items.
 
  Moving to the right, you can choose a different layout, change the colors, or pick a different style.
@@ -74,13 +95,19 @@ Related: [How to Create a Timeline in Microsoft PowerPoint](https://win-solution
 
 ![Project timeline in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/ExcelProjectTimeline.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  For a nice, basic project timeline, the SmartArt Graphic in Excel is a good option.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Create a Project Timeline Using a Template
 
@@ -89,33 +116,15 @@ Related: [How to Create a Timeline in Microsoft PowerPoint](https://win-solution
 ![Project timeline in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/ExcelProjectTimeline.png) 
 
 <!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Once you [download the template](https://fox-friendly.techidaily.com/new-visionary-education-the-power-of-virtual-reality/), simply enter the dates and milestones for your project in the table at the bottom. Use the Position column of the table to place the text for the milestones above (positive number) or below (negative number) the line.
 
 ![Project timeline in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/ExcelProjectTimeline.png) 
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  To lengthen the timeline, just [add more rows to the table](https://fox-glue.techidaily.com/2024-approved-the-ultimate-guide-to-top-online-tools-for-perfecting-your-video-subtitles/). To shorten it, delete rows from the table.
 
  As you make changes to the table, you'll see the timeline update immediately. This template gives you a quick and easy way to create an attractive timeline for your project.
@@ -123,7 +132,16 @@ Related: [How to Create a Timeline in Microsoft PowerPoint](https://win-solution
 ![Project timeline in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/ExcelProjectTimeline.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  When you need to create a simple project timeline, Excel gives you two easy ways to do it depending on the appearance and details you need.
 

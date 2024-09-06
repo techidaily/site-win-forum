@@ -1,7 +1,7 @@
 ---
 title: "Revamped Microsoft Paint: Advanced Editing Capabilities Unveiled"
-date: 2024-08-28T04:27:35.922Z
-updated: 2024-08-29T04:27:35.922Z
+date: 2024-09-05T07:55:54.890Z
+updated: 2024-09-06T07:55:54.890Z
 tags:
   - windows
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/965654acbd64cd762e18be6423e980e53d1c3fa7dd1512b5cfdc18b0e2b93a57.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Revamped Microsoft Paint: Advanced Editing Capabilities Unveiled
 
 After decades of being a rather basic image editing and drawing tool, Microsoft is finally getting serious with Paint in Windows 11\. We've received several new Windows Paint features over the last year, and the latest release delivers better layers, brushes, eraser sizes, and more.
@@ -19,6 +25,12 @@ After decades of being a rather basic image editing and drawing tool, Microsoft 
 
 ![New layers option in Microsoft Paint](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/paint_layersbackground.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Microsoft
 
  Additionally, Microsoft Paint will soon get a huge boost to layers, something many have requested to enable more advanced editing options. Look for a background option in the layers panel to choose a custom background color or hide the background entirely. Then, you'll notice a new "Copy Visible Layers" mode to copy and paste all visible content across layers. Here's how to try it: "Select an area using the selection tool and invoke the context menu or use the Ctrl + Shift + C keyboard shortcut. "Copy" (Ctrl + C) will copy the visible content from the current layer only."
@@ -96,7 +108,3 @@ Microsoft
 <li><a href="https://win-forum.techidaily.com/troubleshooting-complete-hard-drive-occupancy-on-windows-10-machines/"><u>Troubleshooting Complete Hard Drive Occupancy on Windows 10 Machines</u></a></li>
 <li><a href="https://win-forum.techidaily.com/waking-up-pcs-from-afar-learn-to-enable-wake-n-shine-in-windows-10-and-11/"><u>Waking Up PCs From Afar? Learn to Enable Wake-N-Shine in Windows 10 & 11</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: Exciting Developments Await as Windows N's Widget Panel Gets Major Updates
-date: 2024-08-28T04:27:30.195Z
-updated: 2024-08-29T04:27:30.195Z
+date: 2024-09-05T07:55:54.809Z
+updated: 2024-09-06T07:55:54.809Z
 tags:
   - windows
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/33.png
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Exciting Developments Await as Windows N's Widget Panel Gets Major Updates
 
 Windows 11 marked the return of widgets, and Microsoft is still slowly but surely making improvements. And now, in the latest Windows 11 Insider Build 26058, we see some big changes to the Widgets board, weather lock screen options, a new cursor, and more.
@@ -19,6 +25,12 @@ Windows 11 marked the return of widgets, and Microsoft is still slowly but surel
 
 ![Windows 11 widgets only board.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/windows-11-widgets-only.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Microsoft 
 
  Then, there are new Widget notification badges (think the red circle notifications on iPhone) that'll notify you of important notifications and other things. Then, those on the Canary channel will see the improved [lock screen weather experience we detailed](https://media-tips.techidaily.com/mpg-to-divx-video-conversion-for-windows-and-macos-users-a-comprehensive-tutorial/) earlier this year. This includes dynamic, interactive weather updates, full forecasts, and more.
@@ -81,7 +93,3 @@ Microsoft
 <li><a href="https://buynow-info.techidaily.com/1722562415255-unleash-lightning-fast-media-experience-with-our-comprehensive-look-at-the-fire-tv-cube/"><u>Unleash Lightning-Fast Media Experience with Our Comprehensive Look at the Fire TV Cube!</u></a></li>
 <li><a href="https://win-forum.techidaily.com/unpacking-the-powerhouses-of-digital-communication-facebook-twitter-instagram-and-youtube/"><u>Unpacking the Powerhouses of Digital Communication: Facebook, Twitter, Instagram & YouTube</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->

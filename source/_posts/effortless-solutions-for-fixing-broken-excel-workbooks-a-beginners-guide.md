@@ -1,7 +1,7 @@
 ---
 title: "Effortless Solutions for Fixing Broken Excel Workbooks: A Beginner's Guide"
-date: 2024-08-28T04:29:07.262Z
-updated: 2024-08-29T04:29:07.262Z
+date: 2024-09-05T07:55:56.381Z
+updated: 2024-09-06T07:55:56.381Z
 tags:
   - excel
 categories:
@@ -11,6 +11,12 @@ thumbnail: https://thmb.techidaily.com/2e98346ae0ee2e0559c5260d992a7113232d0df75
 
 ## Effortless Solutions for Fixing Broken Excel Workbooks: A Beginner's Guide
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [Change Excel Trust Center Settings](https://screen-sharing-recording.techidaily.com/new-perfect-synergy-discover-5-superior-webcams-with-sound-tech-for-2024/)
@@ -20,6 +26,12 @@ thumbnail: https://thmb.techidaily.com/2e98346ae0ee2e0559c5260d992a7113232d0df75
 * [Launch Excel in Safe Mode](https://article-files.techidaily.com/updated-how-to-optimize-your-presence-on-spotify-ads-for-2024/)
 * [What About Online Repair Tools?](https://network-issues.techidaily.com/system-error-due-to-nvidia-now-resolved/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * If you're unable to open your Excel file and receive a message that the file is corrupted, try changing Microsoft Excel's Trust Center settings, using Excel's built-in repair tool, or changing the file extension of your Excel file.
@@ -28,6 +40,18 @@ thumbnail: https://thmb.techidaily.com/2e98346ae0ee2e0559c5260d992a7113232d0df75
 
  Are you having trouble opening your important Excel file? Is Microsoft Excel asking you to verify that the file isn't corrupted? Excel files can get corrupted for various reasons, which can prevent them from opening. But don't lose hope; you can easily repair your corrupted Excel file.
 
+<!-- affiliate ads begin -->
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Change Excel Trust Center Settings
 
  Microsoft [Excel](https://screen-video-capture.techidaily.com/new-in-2024-a-new-era-of-capturing-screens-camstudio-2023-reviewed/) has a built-in security feature that opens potentially risky files in a restricted mode to help minimize harm to your device. If it thinks an Excel file might not be safe for your computer, it will stop you from opening it.
@@ -38,16 +62,10 @@ thumbnail: https://thmb.techidaily.com/2e98346ae0ee2e0559c5260d992a7113232d0df75
 
 ![Option button in Microsoft Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/option-button-in-microsoft-excel.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
  In the Excel Options window, select "Trust Center" from the left sidebar, and then choose "Trust Center Settings" on the right.
 
 ![Trust Center Settings option in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/trust-center-settings-option-in-excel.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Click "Protected View," and then uncheck the following boxes:
 
 * Enable Protected View for files originating from the internet
@@ -58,9 +76,6 @@ thumbnail: https://thmb.techidaily.com/2e98346ae0ee2e0559c5260d992a7113232d0df75
 
  After that, click "OK." You should now be able to open your Excel file if the Microsoft Excel Trust Center settings were causing the problem. Once you finish working on your Excel file, you must re-check all the boxes for continued security.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Use the Excel Built-in Repair Tool
 
  Microsoft Excel comes with a repair tool that you can use to fix your Excel file. To use this tool, open Microsoft Excel, click the "Open" option in the left sidebar, and then select "Browse" from the right pane.
@@ -68,23 +83,32 @@ thumbnail: https://thmb.techidaily.com/2e98346ae0ee2e0559c5260d992a7113232d0df75
 ![Browse option in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/browse-option-in-excel.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Then, navigate to the location where the corrupt Excel file is located, select it, click the down arrow next to the "Open" button, and choose "Open and Repair."
 
 ![Open and Repair option in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/open-and-repair-option-in-excel.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Select the "Repair" option. Microsoft Excel will attempt to repair the file, and this process may take some time, depending on the amount of data it contains. Once the process is complete, Excel will automatically open the file.
 
 ![Repair option in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/repair-option-in-excel.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Most of the time, repairing the Excel file resolves the issue. However, if the problem continues, you should consider changing the extension of the Excel file.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Change the Extenstion of the Excel File
 
@@ -98,24 +122,21 @@ thumbnail: https://thmb.techidaily.com/2e98346ae0ee2e0559c5260d992a7113232d0df75
 
 ![Rename option in the context menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/rename-option-in-the-context-menu.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If your Excel file contains macros, give it an ".xlsm" extension. And, if it's a normal Excel file, save it with an ".xlsx" extension. Click "Yes" to confirm your decision.
 
 ![Yes option to confirm decision.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/yes-option-to-confirm-decision.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Edit the Corrupt Excel File Security Settings
 
@@ -125,9 +146,6 @@ thumbnail: https://thmb.techidaily.com/2e98346ae0ee2e0559c5260d992a7113232d0df75
 
 ![Advanced option in the Security tab.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/advanced-option-in-the-security-tab.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
  Click the "Change" button next to the owner field.
 
 ![Change button in the Advanced Security Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/change-button-in-the-advanced-security-settings.jpg) 
@@ -136,15 +154,18 @@ thumbnail: https://thmb.techidaily.com/2e98346ae0ee2e0559c5260d992a7113232d0df75
 
 ![Check Names option in the Select User or Group window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/check-names-option-in-the-select-user-or-group-window.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
  Click "Apply" and then "OK.”
 
 ![Apply option in the Advanced Security Settings window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/apply-option-in-the-advanced-security-settings-window.jpg) 
 
  Finally, click "OK" in the “Security” tab of the Excel file.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Launch Excel in Safe Mode
 
  Another common reason you might be unable to open your Excel file is because of an extension or [add-in installed in Microsoft Excel](https://hardware-reviews.techidaily.com/sovol-sv08-evaluation-reviving-the-spirit-of-voron-on-two-wheels/). To check for this possibility, [launch Microsoft Excel in Safe Mode](https://facebook-video-share.techidaily.com/updated-in-2024-crafting-clearer-communication-the-art-of-adding-text-to-video-media/) and try to open your file again. If the file opens without issue, one of your installed add-ins is likely causing the problem.
@@ -158,18 +179,39 @@ thumbnail: https://thmb.techidaily.com/2e98346ae0ee2e0559c5260d992a7113232d0df75
 ![More Add-ins option in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/more-add-ins-option-in-excel.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Click "My Add-Ins."
 
 ![My Add-ins option in the Office Add-ins window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/my-add-ins-option-in-the-office-add-ins-window.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Right-click on each add-in one by one, and select "Remove." Then, try to open your Excel file.
 
 ![Remove option  to remove add-ins.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/remove-option-to-remove-add-ins.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Keep repeating this process of removing add-ins and opening your Excel file until you can open your Excel file without encountering the problem. Once you've identified the problematic add-in, you can then reinstall the other add-ins you removed, one by one.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  What About Online Repair Tools?
 
  You might have run into online repair tools while searching for a way to fix your corrupted Excel file. All these tools claim to repair or recover your data. I downloaded a few of them and even tried websites making similar promises, but unfortunately, none worked for me in this instance.
