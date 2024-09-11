@@ -1,7 +1,7 @@
 ---
 title: Design Your Own Waterfall Diagram in Excel - Easy Instructions for Personalized Presentations
-date: 2024-09-05T07:55:56.178Z
-updated: 2024-09-06T07:55:56.178Z
+date: 2024-09-10T10:54:26.667Z
+updated: 2024-09-11T10:54:26.667Z
 tags:
   - excel
 categories:
@@ -9,26 +9,8 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/ExcelWaterfallChartChecking.png
 ---
 
-<!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Design Your Own Waterfall Diagram in Excel - Easy Instructions for Personalized Presentations
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Quick Links
 
 * [When to Use a Waterfall Chart](https://instagram-video-recordings.techidaily.com/updated-in-2024-cutting-edge-videography-bordering-techniques-for-ig/)
@@ -36,6 +18,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 * [Customize a Waterfall Chart](https://extra-skills.techidaily.com/2024-approved-mastering-the-art-of-choosing-high-quality-hdr-cameras/)
 
  If you want to create a visual that shows how positives and negatives affect totals, you can use a waterfall chart, also called a bridge or cascade chart. You can easily create and customize a waterfall chart in Microsoft Excel.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ##  When to Use a Waterfall Chart
 
@@ -50,12 +46,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
 Related: [How to Automatically Generate Charts in Google Sheets](https://fox-direct.techidaily.com/2024-approved-visual-storytelling-through-photomosaics/) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  Create a Waterfall Chart in Excel
 
  If you have data that would fit perfectly into a waterfall chart for a useful visual, let's get right to it! For this tutorial, we'll use a checking account as an example.
@@ -66,15 +70,23 @@ Related: [How to Automatically Generate Charts in Google Sheets](https://fox-dir
 
 ![On the Insert tab, click Waterfall and select Waterfall](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/InsertChartWaterfall-ExcelWaterfall.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The waterfall chart will pop into your spreadsheet.
 
 ![Waterfall chart inserted](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/InsertedWaterfallChart-ExcelWaterfall.png) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2121335/18498" target="_top" id="2121335">
+  <img src="//a.impactradius-go.com/display-ad/18498-2121335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121335/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
  Now, you might notice that the starting and ending totals don't match with the numbers on the vertical axis and aren't colored as Total per the legend. Not to worry---this is a simple fix!
 
@@ -86,26 +98,48 @@ Related: [How to Automatically Generate Charts in Google Sheets](https://fox-dir
 
 ![Open the Format sidebar](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/FormatDataPointSeriesOptions-ExcelWaterfall.png) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
  Check the box for "Set as Total." Then, do the same for the other total.
 
 ![Check the box for Set as Total](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/FormatDataPointSetTotal-ExcelWaterfall.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Now, you'll see that those bars match up with the vertical axis and are colored as Total per the legend.
 
 ![Waterfall chart with totals](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/WaterfallChartWithTotals-ExcelWaterfall.png) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  Customize a Waterfall Chart
 
  Like other chart types in Excel, you can customize the design, colors, and appearance of your chart. If this isn't something you've done yet in Excel, here are the basics for customizing your chart.
@@ -114,30 +148,66 @@ Related: [How to Automatically Generate Charts in Google Sheets](https://fox-dir
 
 ![Change the Chart Title](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/ChartTitle-ExcelWaterfall.png) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
  Double-click the chart to open the Format Chart Area sidebar. Then, use the Fill & Line, Effects, and Size & Properties tabs to do things like add a border, apply a shadow, or scale the chart.
 
 ![Open the Format Chart Area sidebar](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/FormatChartArea-ExcelWaterfall.png) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  Select the chart and use the buttons on the right (Excel on Windows) to adjust [Chart Elements like labels](https://tech-recovery.techidaily.com/top-gaming-console-picks-for-the-year-2024/) and the legend, or Chart Styles to pick a theme or color scheme.
 
 ![Adjust the Chart Elements](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/ChartElements-ExcelWaterfall.png) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
  Select the chart and go to the Chart Design tab. Then, use the tools in the ribbon to select a different layout, change the colors, pick a new style, or adjust your data selection.
 
 ![Click the Chart Design tab](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/ChartDesignTab-ExcelWaterfall.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can also move your chart to a new spot on your sheet by simply dragging it. And, to resize your chart, drag inward or outward from a corner or edge.
 
 ![Drag a corner or edge to resize the chart](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/ResizeChart-ExcelWaterfall.png) 

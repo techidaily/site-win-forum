@@ -1,7 +1,7 @@
 ---
 title: "Advantages of Excel Online: Why It Beats the Traditional Desktop Version"
-date: 2024-09-05T07:55:56.125Z
-updated: 2024-09-06T07:55:56.125Z
+date: 2024-09-10T10:54:26.618Z
+updated: 2024-09-11T10:54:26.618Z
 tags:
   - excel
 categories:
@@ -23,12 +23,26 @@ thumbnail: https://thmb.techidaily.com/4e8fed255189bd9ee7a706026d30ffe02100ebaee
 
  Let's first look at the features in Excel for the web that really persuade me that it's the better way to create a spreadsheet.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ###  It's Free
 
  If you're looking for a free, web-based spreadsheet program that works like a paid app, you can't go wrong with Excel for the web. All you need is a Microsoft account—which you can create using a Microsoft, Outlook, Hotmail, Live, Yahoo, or Gmail email address—to access to Microsoft 365 for the web.
@@ -37,12 +51,6 @@ thumbnail: https://thmb.techidaily.com/4e8fed255189bd9ee7a706026d30ffe02100ebaee
 
 ![Excel for the web landing page, with the Excel logo highlighted on the left, and the three options available for creating or working on spreadsheets also highlighted in the main pane.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/excel-for-the-web-landing-page.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  You Can Automatically Sync Forms to Excel
 
  Excel for the web is Microsoft's answer to Google Sheets, and in no way is that truer than its form-to-spreadsheet integration.
@@ -53,22 +61,38 @@ thumbnail: https://thmb.techidaily.com/4e8fed255189bd9ee7a706026d30ffe02100ebaee
 
 ![Image showing where to access the entry results for the Microsoft Form, and where to click to open the results in Excel for the web.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/view-responses.png) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  Your Internet browser will then open Excel for the web in a new tab, and your results will appear in a table. If your form is still open for new entries, they'll appear as additional rows at the bottom of your table as soon as they come in.
 
 ![An Excel for the web window displaying the results from the Microsoft Form.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/synced-results.png) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ###  Excel Online Is Better for Collaboration
 
  Sharing an Excel workbook through the app or Excel for the web requires very similar steps. Where Excel for the web comes out on top, though, is how it lets two or more people work on a spreadsheet at the same time (and, as I mentioned earlier, using Excel for the web is free).
@@ -79,18 +103,6 @@ thumbnail: https://thmb.techidaily.com/4e8fed255189bd9ee7a706026d30ffe02100ebaee
 
 ![An Excel for the web workbook with the Share button highlighted and the sharing options displayed beneath.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/share-excel-for-the-web.png) 
 
-<!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * Click "Share" to add the recipients' email addresses. You can also see a list of people who already have access through this option.
 * Click "Copy Link" if, for example, you want to send a link to the workbook through another app or embed it within text in an email.
 * Click "Copy Link To This Sheet" to send the active worksheet (the one you have open at that time).
@@ -98,6 +110,20 @@ thumbnail: https://thmb.techidaily.com/4e8fed255189bd9ee7a706026d30ffe02100ebaee
  All of these options let you choose who can edit or just view the workbook. After you have shared your sheet through Excel for the web, click "Manage Access" to change these settings.
 
  If you share your workbook with someone who doesn't have a Microsoft account, they won't be able to access more advanced features, such as inserting a picture. However, they can do most of the important things that Excel is used for).
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118304/7443" target="_top" id="2118304">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118304" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118304/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ###  You Can Check Your Spreadsheet's Performance
 
@@ -107,24 +133,52 @@ thumbnail: https://thmb.techidaily.com/4e8fed255189bd9ee7a706026d30ffe02100ebaee
 
 ![An Excel for the web window with the Review tab and "Perfomance" button highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/check-performance-excel.png) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
  You'll then see a sidebar open on the right of your window containing any issues with your workbook and the option to address them by optimizing your work.
 
 ###  Get the Latest Updates on Excel for the Web
 
  When Microsoft has a new idea for its apps, it first rolls it out to members of the [Microsoft 365 Insider program](https://insider.microsoft365.com/en-us/). Generally, updates to the web-based version of Excel are available to everyone using the program much more quickly than when Microsoft amends its subscription apps. As a result, you're more likely to access Excel's latest features by using Excel for the web. As well as the features mentioned above, keep an eye on the [Microsoft 365 Insider blog](https://insider.microsoft365.com/en-us/blog) for more info on what's in the pipeline.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1982485">
+<span id="1983473">
 					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  Excel for the Web Has Many Traditional App-Based Features
 
  Over the years, people have complained that Excel for the web is less functional than its app-based counterpart. While this might have been correct when Microsoft launched the Office Web Apps in 2010, nowadays, Excel for the web has adopted many features from its app-based cousin:
@@ -134,12 +188,20 @@ thumbnail: https://thmb.techidaily.com/4e8fed255189bd9ee7a706026d30ffe02100ebaee
 * **Paste options**—Ctrl+C and Ctrl+V is probably the most well-known keyboard shortcut around. However, if you only want to paste certain things from what you've copied—such as the formatting or cell value—right-click the cell where you want it to go, hover over "Paste Special," and choose from the six options available.
 * **Export and Open CSV Files**—The Excel app has supported CSV files—useful as a lightweight intermediary format to move data between applications—for many years, but you can now also [take advantage of this capability in Excel for the web](https://extra-skills.techidaily.com/spectral-perfection-program-for-2024/).
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115939/19272" target="_top" id="2115939">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115939" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115939/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  There's Room for Improvement
 
  While Excel for the web does, indeed, have some minor sticking points, they're not difficult to overcome. Here are some examples:

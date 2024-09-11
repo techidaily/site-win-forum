@@ -1,7 +1,7 @@
 ---
 title: Exciting Developments Await as Windows N's Widget Panel Gets Major Updates
-date: 2024-09-05T07:55:54.809Z
-updated: 2024-09-06T07:55:54.809Z
+date: 2024-09-10T10:54:25.345Z
+updated: 2024-09-11T10:54:25.345Z
 tags:
   - windows
 categories:
@@ -9,12 +9,20 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/33.png
 ---
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## Exciting Developments Await as Windows N's Widget Panel Gets Major Updates
 
 Windows 11 marked the return of widgets, and Microsoft is still slowly but surely making improvements. And now, in the latest Windows 11 Insider Build 26058, we see some big changes to the Widgets board, weather lock screen options, a new cursor, and more.
@@ -25,12 +33,20 @@ Windows 11 marked the return of widgets, and Microsoft is still slowly but surel
 
 ![Windows 11 widgets only board.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/windows-11-widgets-only.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 Microsoft 
 
  Then, there are new Widget notification badges (think the red circle notifications on iPhone) that'll notify you of important notifications and other things. Then, those on the Canary channel will see the improved [lock screen weather experience we detailed](https://media-tips.techidaily.com/mpg-to-divx-video-conversion-for-windows-and-macos-users-a-comprehensive-tutorial/) earlier this year. This includes dynamic, interactive weather updates, full forecasts, and more.

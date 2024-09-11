@@ -1,13 +1,27 @@
 ---
 title: "Mastering Differences: A Step-by-Step Guide to Comparing Excel Lists"
-date: 2024-09-05T07:55:57.002Z
-updated: 2024-09-06T07:55:57.002Z
+date: 2024-09-10T10:54:27.429Z
+updated: 2024-09-11T10:54:27.429Z
 tags:
   - excel
 categories:
   - tech
 thumbnail: https://thmb.techidaily.com/bf6ce710c3b83bd0300511eb0a114987cd6a644274eb54a39fdf9870b6c3de78.jpg
 ---
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ## Mastering Differences: A Step-by-Step Guide to Comparing Excel Lists
 
@@ -20,12 +34,6 @@ thumbnail: https://thmb.techidaily.com/bf6ce710c3b83bd0300511eb0a114987cd6a64427
 
 Related: [How to Find the Percentage of Difference Between Values in Excel](https://screen-capture.techidaily.com/android-device-screen-capture-made-simple-and-gratis/) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2030395/7443" target="_top" id="2030395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2030395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  The Quick Way: Highlight Unique Cells to Compare Lists
 
  A quick way to compare two lists in your spreadsheet is to [use Excel's unique highlight feature](https://facebook-video-share.techidaily.com/updated-in-depth-asmr-video-insights/). This feature highlights the items in a list that are not found in the other list. This way you know exactly what items are missing from your lists.
@@ -34,56 +42,74 @@ Related: [How to Find the Percentage of Difference Between Values in Excel](http
 
 ![Select both lists.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/1-select-both-lists.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  While your lists are highlighted, in Excel's ribbon at the top, click the "Home" tab.
 
 ![Select "Home" at the top.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/2-excel-home-tab.png) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
-  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  On the "Home" tab, in the "Styles" section, click Conditional Formatting > Highlight Cells Rules > Duplicate Values.
 
 ![Choose Conditional Formatting > Highlight Cells Rules > Duplicate Values.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/3-excel-highlight-items.png) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  In the "Duplicate Values" box, click "Duplicate" and choose "Unique." Click the second drop-down menu and choose how you would like to highlight the missing items. To specify your own formatting, choose "Custom Format" from the menu.
 
  Then apply your changes to your lists by clicking "OK."
 
 ![Highlight unique cells in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/4-excel-highlight-unique-items.png) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
  Excel will highlight the missing items in your lists. For example, in your first list, you will have those items highlighted that are missing from the second list, and so on.
 
 ![Two lists compared in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/5-list-comparison-excel.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  And that's it.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  The Formula Way: Use Conditional Formatting to Compare Lists
 
  The above method highlights items in both your lists. If you'd only like to highlight missing items in a specific list, then [use a formula with conditional formatting](https://instagram-clips.techidaily.com/how-to-share-igtv-videos-to-facebook-3-ways-for-2024/) as explained below.
@@ -98,6 +124,20 @@ Related: [How to Use Conditional Formatting to Find Duplicate Data in Excel](htt
 
 ![Assign "FirstList" to the first list.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/6-first-list-name.png) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
  Assign a unique name to your second list by first selecting all rows of your list. Then, in the top-left corner, click the text box, type
 
         `SecondList`
@@ -105,6 +145,26 @@ Related: [How to Use Conditional Formatting to Find Duplicate Data in Excel](htt
  , and press Enter.
 
 ![Assign "SecondList" to the second list.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/7-second-list-name.png) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
  Select all rows of your first list by clicking the text box in the top-left corner and choosing "FirstList."
 
@@ -124,16 +184,24 @@ Related: [How to Use Conditional Formatting to Find Duplicate Data in Excel](htt
 
 ![Format cells to compare lists in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/10-compare-list-rule.png) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
  Back on the spreadsheet, Excel has highlighted the items in your first list that are missing from the second list. Your job is done.
 
 ![Two lists compared in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/11-compare-lists-excel.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  And that's how you quickly perform a comparison of two different lists in your Excel spreadsheets. Very useful!
 
 ---

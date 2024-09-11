@@ -1,7 +1,7 @@
 ---
 title: Say Goodbye to Automatic Dates in Microsoft Excel!
-date: 2024-09-05T07:55:57.094Z
-updated: 2024-09-06T07:55:57.094Z
+date: 2024-09-10T10:54:27.515Z
+updated: 2024-09-11T10:54:27.515Z
 tags:
   - excel
 categories:
@@ -9,18 +9,26 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/microsoft-excel-logo-2.jpg
 ---
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## Say Goodbye to Automatic Dates in Microsoft Excel!
 
 Microsoft Excel converting numbers into other formats has been a running joke for years, especially with date conversions, Microsoft rolled out a new setting last year that turns off data conversions like scientific notation and removing leading zeroes, and now an additional setting to turn off date conversion has arrived. Also, the options are available on Excel for Mac for the first time.
@@ -31,12 +39,20 @@ Microsoft Excel converting numbers into other formats has been a running joke fo
 
 ![Data conversion options in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/xl-conversion-win-and-mac_2-1024x815.png) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 Microsoft
 
  Microsoft Excel can notify you when it detects data that needs to be converted when opening a .CSV file or other non-native spreadsheet format. That option is also available from File > Options > Data > Automatic Data Conversion. Microsoft is also rolling out all the data conversion options to Excel for Mac for the first time — last year's rollout was limited to Excel for Windows.

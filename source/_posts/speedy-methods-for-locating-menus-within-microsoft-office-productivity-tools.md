@@ -1,7 +1,7 @@
 ---
 title: Speedy Methods for Locating Menus Within Microsoft Office Productivity Tools
-date: 2024-09-05T07:55:57.158Z
-updated: 2024-09-06T07:55:57.158Z
+date: 2024-09-10T10:54:27.574Z
+updated: 2024-09-11T10:54:27.574Z
 tags:
   - excel
 categories:
@@ -9,31 +9,41 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/microsoft-office-logo-laptop.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Speedy Methods for Locating Menus Within Microsoft Office Productivity Tools
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ### Quick Links
 
 * [Search the Menus in Microsoft Office](https://youtube-docs.techidaily.com/024-approved-how-to-create-a-youtube-channel-trailer-to-increase-revenue/)
 * [Example Uses](https://extra-support.techidaily.com/secrets-to-preventing-photo-app-problems-in-windows-11-for-2024/)
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ### Key Takeaways
 
  Open the shortcut menu by right clicking an item, pressing the Menu key on a Windows keyboard, or using the Shift+F10 shortcut. Then, type the action or command you're looking for in the Search box at the top.
@@ -44,12 +54,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
 
  As of October 2022, the feature is available in Word, Excel, and PowerPoint on the web and to Office Insiders first for the desktop applications on Windows.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  Search the Menus in Microsoft Office
 
  To use [the search tool](https://phone-solutions.techidaily.com/how-to-downgrade-iphone-11-pro-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/) to find the action or command you want, access the shortcut (context) menu. You can do this one of the following ways:
@@ -62,15 +80,23 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
 
 ![Search box in the shortcut menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/SearchShortcutMenu-MSOfficeSearchMenus.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Select the Search box and start typing the action or command you need. You'll then see suggestions appear that match your keyword as you type. It doesn't matter what tab you're currently on; any command that matches your search term displays.
 
 ![Searches in the shortcut menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/SearchedShortcutMenus-MSOfficeSearchMenus-1.png) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
  Then, select the correct action from the list. Now you're in business.
 
@@ -80,23 +106,51 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
 
 Related: [How to Insert a Picture or Other Object in Microsoft Office](https://fox-boxes.techidaily.com/simplified-steps-for-photo-motion-blur-in-photoshop/) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  Example Search in Word
 
  You may use shapes in your Word document to [create a flowchart](https://facebook-video-share.techidaily.com/new-in-2024-amplify-your-storytelling-seamlessly-insert-music-into-youtube-videos/) or something similar. Rather than go to Insert > Shapes and look for the shape you want, use the shortcut menu Search option. Type the shape you need into the Search box, select it, and drag your cursor to draw it.
 
 ![Search for a rectangle in Word](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/WordSearchRectangle2-MSOfficeSearchMenus.png) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ###  Example Search in Excel
 
  You can [group columns and rows in Excel](https://youtube-docs.techidaily.com/024-approved-jumpstart-your-youtube-venture-top-equipment-choices/) to summarize data. Instead of selecting the cells and going to Data > Outline > Group > Group, right-click and type "Group" into the Search box. Choose "Group Cells" from the list and you're done.
 
 ![Search for Group in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/ExcelSearchGroup-MSOfficeSearchMenus-1.png) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ###  Example Search in PowerPoint
 
@@ -108,18 +162,6 @@ Related: [How to Crop a Picture in Microsoft PowerPoint](https://youtube-video-r
 
 ![Search for Transparency in PowerPoint](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/PowerPointSearchTransparency-MSOfficeSearchMenus-1.png) 
 
-<!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  While these three examples are simple, this feature has virtually limitless uses. Try it for yourself!
 
  For other tips and tricks for using the Office applications, check out how to [use the Ink features](https://fox-boxes.techidaily.com/in-2024-quick-tutorial-for-top-memes-kinemaster/) or how to [use the built-in clipboard](https://change-location.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-vivo-y27-4g-drfone-by-drfone-virtual-android/).

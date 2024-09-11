@@ -1,13 +1,27 @@
 ---
 title: "Step-by-Step Guide: Centering Text Spanning Several Cells in Microsoft Excel"
-date: 2024-09-05T07:55:57.417Z
-updated: 2024-09-06T07:55:57.417Z
+date: 2024-09-10T10:54:27.807Z
+updated: 2024-09-11T10:54:27.807Z
 tags:
   - excel
 categories:
   - tech
 thumbnail: https://thmb.techidaily.com/4099437332566bc0717087ad155c53eccdb95fb25198b821350f08a36ef32c9d.jpg
 ---
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ## Step-by-Step Guide: Centering Text Spanning Several Cells in Microsoft Excel
 
@@ -17,46 +31,78 @@ If you have a label or heading on a spreadsheet in Excel that you want to center
 
 ![01_selecting_cells_to_merge_and_center](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/10/01_selecting_cells_to_merge_and_center.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  In the “Alignment” section of the “Home” tab, click the “Merge & Center” button.
 
 ![02_selecting_merge_and_center](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/10/02_selecting_merge_and_center.png) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
  The cells are merged and the text is centered in the single resulting cell.
 
 ![03_cells_merged_and_text_centered](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/10/03_cells_merged_and_text_centered.png) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  If you don’t want to merge the cells, you can still center text across them. Enter your text in the first of the cells across which you want to center the text, select the cells, and click the “Alignment Settings” button in the lower-right corner of the “Alignment” section on the “Home” tab.
 
 ![04_clicking_alignment_settings_dialog_button](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/10/04_clicking_alignment_settings_dialog_button.png) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  NOTE: You can also right click on the selected cells and select “Format Cells” from the popup menu.
 
 ![04a_selecting_format_cells](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/10/04a_selecting_format_cells.png) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115933/19272" target="_top" id="2115933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115933" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115933/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  Make sure the “Alignment” tab is active. If you opened the “Format Cells” dialog box by right-clicking on the selected cells, you must click on the “Alignment” tab as it’s not the active tab by default.
 
  Select “Center Across Selection” from the “Horizontal” drop-down list.
@@ -65,22 +111,30 @@ If you have a label or heading on a spreadsheet in Excel that you want to center
 
 ![05_selecting_center_across_selection](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/10/05_selecting_center_across_selection.png) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  The text is centered across the selected cells, but the cells are not merged into one.
 
 ![06_text_centered_across_selection](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/10/06_text_centered_across_selection.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you center text across a selection without merging the cells often, you can [record a macro](https://sim-unlock.techidaily.com/easily-unlock-your-honor-100-pro-device-sim-by-drfone-android/) for the procedure and [put a button on the Quick Access Toolbar](https://video-capture.techidaily.com/new-2024-approved-your-path-to-perfect-recording-5-must-know-techniques-for-minecraft-screenshots-macos/) to quickly center text across selected cells.
 
 <ins class="adsbygoogle"

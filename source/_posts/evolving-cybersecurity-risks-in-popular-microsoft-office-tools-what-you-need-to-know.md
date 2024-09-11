@@ -1,7 +1,7 @@
 ---
 title: Evolving Cybersecurity Risks in Popular Microsoft Office Tools - What You Need to Know
-date: 2024-09-05T07:55:55.367Z
-updated: 2024-09-06T07:55:55.367Z
+date: 2024-09-10T10:54:25.898Z
+updated: 2024-09-11T10:54:25.898Z
 tags:
   - windows
 categories:
@@ -9,12 +9,20 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/office.jpg
 ---
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## Evolving Cybersecurity Risks in Popular Microsoft Office Tools - What You Need to Know
 
 Microsoft has disclosed a zero-day "max severity" vulnerability that impacts several Office and 356 products. Attackers may exploit this vulnerability to steal private data from individuals or organizations. A patch should be available on August 13th.

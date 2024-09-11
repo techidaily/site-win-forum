@@ -1,7 +1,7 @@
 ---
 title: "Efficiently Harvest Content: A Guide to Image, Text, and File Extraction in Microsoft Suite"
-date: 2024-09-05T07:55:56.358Z
-updated: 2024-09-06T07:55:56.358Z
+date: 2024-09-10T10:54:26.828Z
+updated: 2024-09-11T10:54:26.828Z
 tags:
   - excel
 categories:
@@ -17,32 +17,62 @@ Say someone sent you a Word document with a lot of images, and you want you to s
 
  If you need to extract files from an older office document--like a .doc, .xls, or .ppt file--you can do so with a small piece of free software. We'll detail that process at the end of this guide.
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115910/19272" target="_top" id="2115910">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115910" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115910/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ##  How to Extract the Contents of a Newer Office File (.docx, .xlsx, or .pptx)
 
  To access the inner contents of an XML based Office document, open File Explorer (or Windows Explorer in Windows 7), navigate to the file from which you want to extract the content, and select the file.
 
 ![01_pressing_f2_to_rename_file](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/03/01_pressing_f2_to_rename_file.png) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2123467/16836" target="_top" id="2123467">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123467" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123467/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  Press “F2” to rename the file and change the extension (.docx, .xlsx, or .pptx) to “.zip”. Leave the main part of the filename alone. Press “Enter” when you’re done.
 
 ![02_changing_extension_to_zip](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/03/02_changing_extension_to_zip.png) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
  The following dialog box displays warning you about changing the file name extension. Click “Yes”.
 
 ![02a_rename_confirmation](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/03/02a_rename_confirmation.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Windows automatically recognizes the file as a zipped file. To extract the contents of the file, right-click on the file and select “Extract All” from the popup menu.
 
 ![03_selecting_extract_all](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/03/03_selecting_extract_all.png) 
@@ -51,25 +81,55 @@ Say someone sent you a Word document with a lot of images, and you want you to s
 
 ![04_clicking_browse](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/03/04_clicking_browse.png) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  Navigate to where you want the content of the .zip file extracted, clicking “New folder” to create a new folder, if necessary. Click “Select Folder”.
 
 ![05_creating_new_folder_and_selecting_it](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/03/05_creating_new_folder_and_selecting_it.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2024333/7443" target="_top" id="2024333">
-  <img src="//a.impactradius-go.com/display-ad/7443-2024333" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024333/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  To open a File Explorer (or Windows Explorer) window with the folder containing the extracted files showing once they are extracted, select the “Show extracted files when complete” check box so there is a check mark in the box. Click “Extract”.
 
 ![06_clicking_extract](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/03/06_clicking_extract.png) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ###  How to Access the Extracted Images
 
@@ -85,18 +145,6 @@ Say someone sent you a Word document with a lot of images, and you want you to s
 
 ![09_images_from_file](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/03/09_images_from_file.png) 
 
-<!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  How to Access the Extracted Text
 
  If you don’t have Office installed on your PC, and you need to extract text out of a Word (or Excel or PowerPoint) file, you can access the extracted text in the “document.xml” file in the “word” folder.
@@ -107,12 +155,34 @@ Say someone sent you a Word document with a lot of images, and you want you to s
 
 ![11_document_xml_file_open_in_xml_notepad](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/03/11_document_xml_file_open_in_xml_notepad.png) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ###  How to Extract Embedded OLE Objects or Attached Files
 
  To access embedded files in a Word document when you don’t have access to Word, first open the Word file in WordPad (which comes built into Windows). You might notice that some of the embedded file icons do not display, but they’re still there. Some of the embedded files might have partial filenames. WordPad does not support all of Word’s features, so some content might be displayed improperly. But you should be able to access the files.
@@ -120,6 +190,26 @@ Say someone sent you a Word document with a lot of images, and you want you to s
  If we right-click on one of the embedded files in our sample Word file, one of the options is “Open PDF Object”. This opens the PDF file in the default PDF reader program on your PC. From there, you can save the PDF file to your hard drive.
 
 ![11a_opening_pdf_file](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/03/11a_opening_pdf_file.png) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
  If WordPad doesn't have an option for opening your file, make note of its file type here. For example, our second file in this document is a .mp3 file.
 
@@ -131,15 +221,37 @@ Say someone sent you a Word document with a lot of images, and you want you to s
 
 ![13_extracted_embedded_files](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/03/13_extracted_embedded_files-1.png) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  Note that not all files will necessarily open using this process--for example, our PDF file opened correctly from WordPad, but we couldn't get it to open by renaming its .bin file.
 
  Once you’ve extracted the content of the zipped file, you can revert the extension of the original file back to .docx, .xlsx, or .pptx. The file will remain intact and can be opened normally in the corresponding program.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ##  How to Extract Images from Older Office Documents (.doc, .xls, or .ppt)
 
@@ -149,12 +261,20 @@ Say someone sent you a Word document with a lot of images, and you want you to s
 
 ![14_welcome_screen](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/03/14_welcome_screen.png) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2030385/7443" target="_top" id="2030385">
-  <img src="//a.impactradius-go.com/display-ad/7443-2030385" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030385/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  First, we need to select the file from which you want to extract the images. On the Input & Output screen, click the "Browse" (folder icon) button to the right of the Document edit box.
 
 ![15_clicking_browse_for_document](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/03/15_clicking_browse_for_document.png) 
@@ -163,46 +283,36 @@ Say someone sent you a Word document with a lot of images, and you want you to s
 
 ![16_opening_word_file](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/03/16_opening_word_file.png) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123470/16836" target="_top" id="2123470">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123470" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123470/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
  The folder that contains the selected file automatically becomes the Output folder. To create a subfolder within that folder named the same as the selected file, click the "Create a folder here" check box so there is a check mark in the box. Then, click "Next".
 
 ![17_clicking_next](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/03/17_clicking_next.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  On the Ready to Start screen, click "Start" to begin extracting the images.
 
 ![18_ready_to_start](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/03/18_ready_to_start.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The following screen displays while the extraction processes.
 
 ![19_processing_please_wait](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/03/19_processing_please_wait.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  On the Finished screen, click the "Click here to open destination folder" to view the resulting image files.
 
 ![20_opening_destination_folder](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/03/20_opening_destination_folder.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Because we chose to create a subfolder, we get a folder containing the image files extracted from the file.
 
 ![21_opening_subfolder](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/03/21_opening_subfolder.png) 
@@ -211,32 +321,28 @@ Say someone sent you a Word document with a lot of images, and you want you to s
 
 ![22_images_from_older_word_file](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/03/22_images_from_older_word_file.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can also extract images from multiple files at once. To do this, on the Input & Output screen, click the "Batch Mode" check box so there is a check mark in the box.
 
 ![23_clicking_batch_mode](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/03/23_clicking_batch_mode.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The Batch Input & Output screen displays. Click "Add Files".
 
 ![24_clicking_add_files](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/03/24_clicking_add_files.png) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  On the Open dialog box, navigate to the folder containing any of the files from which you want to extract images, select the files using the "Shift" or "Ctrl" key to select multiple files, and click "Open".
 
  You can add files from another folder by clicking "Add Files" again, navigating to the folder on the Open dialog box, selecting the desired files, and clicking "Open".
@@ -247,54 +353,112 @@ Say someone sent you a Word document with a lot of images, and you want you to s
 
 ![26_clicking_next_on_batch_mode](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/03/26_clicking_next_on_batch_mode-1.png) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
  You can also specify the Output folder to be the "Same as each file's input folder" or enter or select a custom folder using the edit box and "Browse" button below that option. Click "Next" once you have selected the options you want.
 
 ![26a_specifying_output_folder](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/03/26a_specifying_output_folder-1.png) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
  Click "Start" on the Ready to Start screen.
 
 ![27_ready_to_start_for_batch_mode](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/03/27_ready_to_start_for_batch_mode.png) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  The following screen displays showing the extraction progress.
 
 ![28_processing_screen](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/03/28_processing_screen.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The number of images extracted displays on the Finished screen. Click "Close" to close the Office Image Extraction Wizard.
 
 ![29_closing_wizard](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/03/29_closing_wizard.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you chose to create a separate folder for each document, you will see folders with the same names as the files containing the images, whichever output folder(s) you specified.
 
 ![30_folders_containing_images](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/03/30_folders_containing_images.png) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
  Again, we get all the images as numbered files for each document.
 
 ![31_images_from_one_file](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/03/31_images_from_one_file.png) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  Now you can rename the images, move them, and use them in your own documents. Just make sure you have the rights to use them legally.
 
 <ins class="adsbygoogle"

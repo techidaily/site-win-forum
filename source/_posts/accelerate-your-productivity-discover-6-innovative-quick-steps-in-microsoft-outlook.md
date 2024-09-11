@@ -1,7 +1,7 @@
 ---
 title: "Accelerate Your Productivity: Discover 6 Innovative Quick Steps in Microsoft Outlook"
-date: 2024-09-05T07:55:56.104Z
-updated: 2024-09-06T07:55:56.104Z
+date: 2024-09-10T10:54:26.597Z
+updated: 2024-09-11T10:54:26.597Z
 tags:
   - excel
 categories:
@@ -26,36 +26,32 @@ thumbnail: https://thmb.techidaily.com/77d2b3ef679b5fcf16ae0f3446de13ba438b3d48f
 
  By setting up a custom Quick Step, you can do things like move an email, create a task, and set up a meeting with a single click.
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  How to Create a Custom Quick Step
 
  To [create your own Quick Step](https://instagram-video-files.techidaily.com/in-2024-a-complete-tutorial-on-saving-your-instagram-story/), head to the Home tab and select the bottom arrow in the Quick Steps box.
 
 ![Arrow in the Quick Steps box](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/QuickStepsArrow-OutlookCustomQuickStep.png) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
  Choose "Create New." Alternatively, move your cursor to New Quick Step and pick "Custom" in the pop-out menu.
 
 ![Create New and Custom in the Quick Steps menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/CreateNewCustom-OutlookCustomQuickStep.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2024326/7443" target="_top" id="2024326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2024326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024326/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  There are several categories to pick from when creating a custom Quick Step. Each offers a useful automation that can truly save you time.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  1\. File Your Message
 
  You can [set up a Quick Step](https://hardware-tips.techidaily.com/exploring-the-latest-in-pc-components-with-toms-hardware-guides/) with the Filing category, which allows you to move, copy, or [delete an email](https://screen-capture.techidaily.com/updated-peaceful-playtimes-premium-pc-titles/) quickly.
@@ -66,12 +62,6 @@ Related: [How to Delete Multiple Emails in Microsoft Outlook](https://screen-cap
 
 ![Filing Quick Steps](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/Filing-OutlookCustomQuickStep.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you choose one of the deletion options, you don't have to pick anything else.
 
 ![Delete an email action](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/FilingDelete-OutlookCustomQuickStep.png) 
@@ -80,23 +70,25 @@ Related: [How to Delete Multiple Emails in Microsoft Outlook](https://screen-cap
 
 ![Move to Folder action](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/FilingMove-OutlookCustomQuickStep.png) 
 
-<!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Optionally, you can assign a Shortcut Key using that drop-down box at the bottom as well as insert Tooltip Text so you know what the Quick Step does when you hover your cursor over it.
 
 ![Quick Step shortcut and tool tip text](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/FilingOptional-OutlookCustomQuickStep.png) 
 
  Click "Finish" to save your new Quick Step.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ##  2\. Change the Email Status
 
@@ -106,20 +98,42 @@ Related: [How to Delete Multiple Emails in Microsoft Outlook](https://screen-cap
 
 ![Change Status Quick Steps](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/ChangeStatus-OutlookCustomQuickStep.png) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
  If you pick Mark as Read or Mark as Unread, you don't have to select anything else.
 
 ![Mark as Read action](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/ChangeStatusRead-OutlookCustomQuickStep.png) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118304/7443" target="_top" id="2118304">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118304" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118304/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
  If you pick Set Importance, pick the priority in the subsequent drop-down box that appears. This is convenient for quickly marking messages as Important.
 
 ![Set Importance action](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/ChangeStatusImportance-OutlookCustomQuickStep.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Optionally, assign a shortcut and add a tooltip, then click "Finish" to save the Quick Step.
 
 ##  3\. Manage Categories, Tasks, and Flags
@@ -130,28 +144,78 @@ Related: [How to Delete Multiple Emails in Microsoft Outlook](https://screen-cap
 
 ![Categories, Tasks, and Flags Quick Steps](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/Categories-OutlookCustomQuickStep.png) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
  As an example, we'll pick the Categorize Message action. Next, select the category in the subsequent drop-down box. Then with a click, you can assign a category to the message.
 
 ![Categorize Message action](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/CategoriesCategorize-OutlookCustomQuickStep.png) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  As another example, we'll use the Create a Task With Text of Message action. This is a terrific action to use if you [manage your to-dos in Outlook](https://apple-account.techidaily.com/troubleshooting-error-connecting-to-the-apple-id-server-from-apple-iphone-12-pro-by-drfone-ios/). Then, just select the Quick Step and you'll see a new task window open with the email in the body.
 
 ![Create a Task action](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/CategoriesTask-OutlookCustomQuickStep.png) 
 
- Optionally, assign a shortcut and add a tooltip, then click "Finish" to save your Quick Step.
+
+
+
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
+ Optionally, assign a shortcut and add a tooltip, then click "Finish" to save your Quick Step.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2114265/17093" target="_top" id="2114265">
+  <img src="//a.impactradius-go.com/display-ad/17093-2114265" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114265/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ##  4\. Respond, Reply, or Forward
 
  Using the Respond category, you can compose a new message, forward, reply, or reply all, reply with a meeting, or [forward the email as an attachment](https://fox-friendly.techidaily.com/2024-approved-the-ultimate-guide-to-metaverse-laughter/).
@@ -166,37 +230,27 @@ Related: [How to Forward an Email as an Attachment in Microsoft Outlook](https:/
 
 ![Forward email as attachment action](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/RespondForward-OutlookCustomQuickStep.png) 
 
-<!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  To prefill the details for the email you forward, select "Show Options."
 
 ![Show Options for forwarding a message](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/RespondForwardShowOptions-OutlookCustomQuickStep.png) 
 
-<!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can then add as much or little as you like for the email including to, subject, flag, importance, and text. Just remember, these details apply every time you use the Quick Step.
 
 ![Options for forwarding a message](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/RespondForwardOptions-OutlookCustomQuickStep.png) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115924/19272" target="_top" id="2115924">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115924" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115924/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
  Be sure to name the Quick Step and select any additional options at the bottom. Click "Finish."
 
@@ -208,33 +262,57 @@ Related: [How to Forward an Email as an Attachment in Microsoft Outlook](https:/
 
 ![Appointment Quick Steps](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/Appointment-OutlookCustomQuickStep.png) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120861/26400?prodsku=Saturn" target="_top" id="2120861">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120861" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120861/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
  To set up a blank meeting request that you fill out on the spot, simply select New Meeting in the Choose an Action drop-down box and nothing else. To prefill the meeting details, select "Show Options."
 
 ![Show Options for a new meeting](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/AppointmentNewMeetingShowOptions-OutlookCustomQuickStep.png) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  Like the Respond Quick Step above, you can add optional details like attendees, subject, location, importance, and text. Again, these details apply each time you use the Quick Step.
 
 ![Options for a new meeting](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/AppointmentNewMeetingOptions-OutlookCustomQuickStep.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Give your Quick Step a name and select any additional options at the bottom. Click "Finish."
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ##  6\. Handle Conversations
 
@@ -250,42 +328,60 @@ Related: [How to Toggle and Customize Conversation View in Outlook](https://vide
 
 ![Always move messages action](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/ConversationsAlwaysMove-OutlookCustomQuickStep.png) 
 
- Name your Quick Step, pick an option at the bottom if you like, and click "Finish."
+
+
+
 
 <!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
+ Name your Quick Step, pick an option at the bottom if you like, and click "Finish."
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123475/16836" target="_top" id="2123475">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123475" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123475/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ##  How to Use Your Quick Step
 
  After you create a custom Quick Step, you can use it just like the premade options. Select the email and head to the Home tab. Choose the action in the Quick Step box in the same named section of the ribbon. And that's all there is to it!
 
 ![Quick Steps on the Home tab](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/UseQuickStep-OutlookCustomQuickStep.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If the Quick Step moves, marks, or responds, it'll happen automatically when you click the button. If you set up a Quick Step for forwarding a message, creating a task, or setting up an appointment, you'll see the corresponding box appear, like the Quick Step shown below to create a task.
 
 ![New Task Quick Step](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/NewMeetingQuickStep-OutlookCustomQuickStep.png) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  While [rules in Outlook](https://instagram-video-recordings.techidaily.com/2024-approved-unlock-your-potential-best-instagram-video-editors-android-pc/) are great for automating tasks without lifting a finger, you may want to take an action to perform repetitive tasks on particular emails. This is the ideal time to use Quick Steps.
 
 <ins class="adsbygoogle"

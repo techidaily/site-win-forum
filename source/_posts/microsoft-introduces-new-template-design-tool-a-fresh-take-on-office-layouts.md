@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Introduces New Template Design Tool: A Fresh Take on Office Layouts"
-date: 2024-09-05T07:55:56.727Z
-updated: 2024-09-06T07:55:56.727Z
+date: 2024-09-10T10:54:27.187Z
+updated: 2024-09-11T10:54:27.187Z
 tags:
   - excel
 categories:
@@ -9,12 +9,20 @@ categories:
 thumbnail: https://thmb.techidaily.com/496184fd4152c46b6485f793c6a0f28b5d68db1c23dbf863c4ec7017ec6de406.jpg
 ---
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115929/19272" target="_top" id="2115929">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115929" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115929/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## Microsoft Introduces New Template Design Tool: A Fresh Take on Office Layouts
 
 Templates have been a core feature of the Microsoft Office suite for years, giving people an easy way to make better-looking presentations and papers. Now the company has consolidated its templates in one place: Microsoft Create.
@@ -25,12 +33,20 @@ Related: [How to Create a Template in Microsoft Word](https://youtube-sure.techi
 
 ![Screenshot of search in Microsoft Create](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/Microsoft-Create.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  Microsoft said in a blog post, "With thousands of professionally designed templates plus the power of Microsoft's collection of content creation apps (including PowerPoint, Word, and Clipchamp for video editing), everyone can create something inspiring. And there's absolutely no design experience required." The service will also integrate with [Microsoft Designer](https://windows11.techidaily.com/mitigating-critical-programming-issues-in-roblox/) for template customization, once Designer is more widely available.
 
  The new site is mostly just a fancy template repository, but it is another sign Microsoft is trying to more closely integrate all its apps and services. It's also another push into design and content creation, especially with templates for the Clipchamp video editor -- Office isn't just for budget spreadsheets and simple notes.

@@ -1,7 +1,7 @@
 ---
 title: Effective Techniques for Eliminating Redundant and Null Entries From Your MS Excel Tables
-date: 2024-09-05T07:55:56.958Z
-updated: 2024-09-06T07:55:56.958Z
+date: 2024-09-10T10:54:27.392Z
+updated: 2024-09-11T10:54:27.392Z
 tags:
   - excel
 categories:
@@ -9,20 +9,22 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/05/MS-excel-logo-675.png
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2024326/7443" target="_top" id="2024326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2024326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024326/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Effective Techniques for Eliminating Redundant and Null Entries From Your MS Excel Tables
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ### Quick Links
 
 * [Remove Duplicate Rows in an Excel Table](https://buynow-marvelous.techidaily.com/the-essence-of-teac-pd-301-elegant-and-clear-music/)
@@ -32,12 +34,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
  It's possible to find duplicates and [highlight blanks in an Excel sheet](https://ios-unlock.techidaily.com/in-2024-iphone-12-pro-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/) using conditional formatting. However, when you're working with a table, handling these issues instead of just highlighting them can actually be a bit easier.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  Remove Duplicate Rows in an Excel Table
 
  If you would rather [highlight your duplicate data](https://video-screen-grab.techidaily.com/new-expert-insights-the-best-screen-recording-software-reviewed-for-2024/) so that you can correct it, you'll want to use the conditional formatting described earlier. But if you want to simply delete all duplicate rows in your table, it takes just a few clicks.
@@ -46,12 +56,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
 ![On the Table Design tab, click Remove Duplicates](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/TableDesignRemoveDuplicates-ExcelTable.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You'll see the Remove Duplicates window open. If your table has headers, check the box for that option. These headers will display as your column selection options below. If you don't have headers, you'll just see Column A, Column B, and so on.
 
 ![Mark if your table has headers](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/RemoveDuplicatesHasHeaders-ExcelTable.png) 
@@ -68,12 +72,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
 ![Duplicates found and removed in an Excel table](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/DuplicatesFoundRemoved-ExcelTable.png) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  Remove Blank Rows in an Excel Table
 
  To [delete blank rows](https://youtube-lab.techidaily.com/ed-maximizing-profits-from-a-million-viewer-baseline-for-2024/) in your Excel table, you'll [use the filter feature](https://facebook-video-share.techidaily.com/free-audio-treasures-to-amplify-youtube-in-2024/). Since tables can already have filter buttons in the headers, you don't have to take an extra step to enable filters.
@@ -84,33 +96,83 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
 ![Uncheck Select All and check Blanks](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/FilterDeselectAllBlanks-ExcelTable.png) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  If you do not see an option for Blanks in the filter settings, then you do not have any in that table column.
 
  Next, you'll see the table adjust to display only blank rows with the remaining data hidden from view. You can then delete the blank rows. You'll notice that the row headers are highlighted in blue, making them easier to see and select.
 
 ![Filtered blank rows in an Excel table](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/FilteredBlankRows-ExcelTable.png) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  Select a blank row, right-click, and pick "Delete Row." You can do this for each blank row.
 
 ![Right-click and pick Delete Row](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/DeleteBlankRow-ExcelTable.png) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115938/19272" target="_top" id="2115938">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115938" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115938/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
  Do not drag through the blank rows to select and delete them. If you do this, that selection may include hidden rows that are not blank.
 
  Once you've removed the blank rows in your table, you can clear the filter. Click the filter button next to the column header again and select "Clear Filter From."
 
 ![Clear the filter](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/ClearFilterFromBlanks-ExcelTable.png) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
  You'll then see your table back to its normal view and unfiltered with your blank rows gone.
 

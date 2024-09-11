@@ -1,7 +1,7 @@
 ---
 title: "Web Panels Get a Boost with Vivaldi 6.6: Now Including Support for Chrome Extensions"
-date: 2024-09-05T07:55:55.868Z
-updated: 2024-09-06T07:55:55.868Z
+date: 2024-09-10T10:54:26.373Z
+updated: 2024-09-11T10:54:26.373Z
 tags:
   - windows
 categories:
@@ -9,12 +9,20 @@ categories:
 thumbnail: https://thmb.techidaily.com/dcfda18db33cd62e49e998a15226cf50935f6371594750217f925e9fab66f62b.jpg
 ---
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## Web Panels Get a Boost with Vivaldi 6.6: Now Including Support for Chrome Extensions
 
 The Vivaldi web browser is quite popular thanks to a slew of features and constant updates. While this is the first update for its desktop variant in 2024, it's a big one. The latest Vivaldi v6.6 release supercharges its Web Panels with Chrome Extensions, improves mail search, and more.
@@ -25,12 +33,20 @@ The Vivaldi web browser is quite popular thanks to a slew of features and consta
 
 ![Vivaldi Browser web panel extensions.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/screenshot-2024-02-29-at-10-25-59-am.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 Vivaldi
 
  Yes, you can finally supercharge Web Panels with extensions. Here's what the dev team had to say, "Your favorite extensions now work inside Web Panels. You can add popular websites like Spotify and WhatsApp as Web Panels, and extend their functionality using extensions available from the Chrome Web Store. Vivaldi is compatible with most Chrome extensions."

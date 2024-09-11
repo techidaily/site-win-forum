@@ -1,13 +1,27 @@
 ---
 title: "Mastering Spreadsheet Management: Customizing Row Heights and Column Sizes in Excel Tutorial"
-date: 2024-09-05T07:55:56.698Z
-updated: 2024-09-06T07:55:56.698Z
+date: 2024-09-10T10:54:27.162Z
+updated: 2024-09-11T10:54:27.162Z
 tags:
   - excel
 categories:
   - tech
 thumbnail: https://thmb.techidaily.com/77611f2e0e7b4b101c92af3b172df9c62d2c1071591d3411a278cc0334c16e37.jpg
 ---
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ## Mastering Spreadsheet Management: Customizing Row Heights and Column Sizes in Excel Tutorial
 
@@ -29,12 +43,6 @@ Related: [How to Show and Hide Row and Column Headers in Excel](https://fox-http
 
 ![03_selecting_row](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/09/03_selecting_row.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  To select more than one row, click on the first row heading you want to select and drag up or down to select contiguous rows. If the rows you want to select are not contiguous, click the first row heading and then press Ctrl and click on the headings for the other rows you want to select, just like you do to select multiple files in File (or Windows) Explorer.
 
 ![04_selecting_multiple_rows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/09/04_selecting_multiple_rows.png) 
@@ -49,42 +57,46 @@ Related: [How to Show and Hide Row and Column Headers in Excel](https://fox-http
 
 ![06_entering_new_row_height](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/09/06_entering_new_row_height.png) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  You can specify an exact width for one or more columns the same way. Select the columns using the column headings, just like you did for the rows, but drag left or right to select multiple contiguous rows. Then, press Shift+F10 and select "Column Width" from the popup menu.
 
 ![07_selecting_column_width](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/09/07_selecting_column_width.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Enter an exact width for the selected columns on the Column Width dialog box and click "OK".
 
 ![08_entering_new_column_width](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/09/08_entering_new_column_width.png) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118321/7443" target="_top" id="2118321">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118321" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118321/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  Here's what our worksheet looks like with the height of the first three rows and the width of the first three columns changed.
 
 ![09_row_height_and_column_width_changed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/09/09_row_height_and_column_width_changed.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can change the row height back to the default height, but it many not necessarily be the standard default height. The current default height will be one that fits the largest font and font size used in that row. In other words, the row height of the selected row will be changed to automatically fit the contents of that row.
 
  To automatically fit the row height, select the rows you want to resize to their default height, make sure the Home tab is active, click "Format" in the Cells section, and then select "AutoFit Row Height" from the Cell Size drop-down menu.
@@ -93,12 +105,20 @@ Related: [How to Show and Hide Row and Column Headers in Excel](https://fox-http
 
 ![09a_selecting_autofit_row_height](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/09/09a_selecting_autofit_row_height.png) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2030373/7443" target="_top" id="2030373">
-  <img src="//a.impactradius-go.com/display-ad/7443-2030373" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030373/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  There is also an option to autofit the width of selected columns, but it works slightly differently. The AutoFit Row Height options automatically changes the row height to fit the largest font and font size whether or not there is any content in any cells in that row.
 
  When you select one or more columns and then select "AutoFit Column Width" from the "Cell Size" menu in the Cells section of the Home tab, a selected column will only change size if there is content in any cell in that column. Otherwise, if all the cells in the column are empty, the size of that column will not be affected.
@@ -107,19 +127,61 @@ Related: [How to Show and Hide Row and Column Headers in Excel](https://fox-http
 
 ![09b_selecting_autofit_column_width](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/09/09b_selecting_autofit_column_width.png) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
  Because the default row height is affected by the font and font size assigned to the cells in each row, you cannot specify a value for the default row height. However, the default column width for all the columns in the current worksheet can be changed. To specify a different column width for all the columns in the current worksheet, make sure the Home tab is active, click "Format" in the Cells section, and then select "Default Width" from the Cell Size drop-down menu.
 
 ![10_selecting_default_width](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/09/10_selecting_default_width.png) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  Enter a value for the Standard column width on the Standard width dialog box and click "OK". The width of all the columns on the current worksheet change to the specified width, no matter how wide the contents are in any of the cells.
 
 ![11_entering_standard_column_width](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/09/11_entering_standard_column_width.png) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 Related: [How to Freeze and Unfreeze Rows and Columns in Excel](https://apple-account.techidaily.com/how-to-erase-an-iphone-se-2022-without-apple-id-password-by-drfone-ios/) 
 

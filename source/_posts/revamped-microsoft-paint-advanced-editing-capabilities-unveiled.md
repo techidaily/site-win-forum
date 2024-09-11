@@ -1,7 +1,7 @@
 ---
 title: "Revamped Microsoft Paint: Advanced Editing Capabilities Unveiled"
-date: 2024-09-05T07:55:54.890Z
-updated: 2024-09-06T07:55:54.890Z
+date: 2024-09-10T10:54:25.418Z
+updated: 2024-09-11T10:54:25.418Z
 tags:
   - windows
 categories:
@@ -9,12 +9,26 @@ categories:
 thumbnail: https://thmb.techidaily.com/965654acbd64cd762e18be6423e980e53d1c3fa7dd1512b5cfdc18b0e2b93a57.jpg
 ---
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## Revamped Microsoft Paint: Advanced Editing Capabilities Unveiled
 
 After decades of being a rather basic image editing and drawing tool, Microsoft is finally getting serious with Paint in Windows 11\. We've received several new Windows Paint features over the last year, and the latest release delivers better layers, brushes, eraser sizes, and more.
@@ -25,12 +39,20 @@ After decades of being a rather basic image editing and drawing tool, Microsoft 
 
 ![New layers option in Microsoft Paint](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/paint_layersbackground.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 Microsoft
 
  Additionally, Microsoft Paint will soon get a huge boost to layers, something many have requested to enable more advanced editing options. Look for a background option in the layers panel to choose a custom background color or hide the background entirely. Then, you'll notice a new "Copy Visible Layers" mode to copy and paste all visible content across layers. Here's how to try it: "Select an area using the selection tool and invoke the context menu or use the Ctrl + Shift + C keyboard shortcut. "Copy" (Ctrl + C) will copy the visible content from the current layer only."

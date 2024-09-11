@@ -1,7 +1,7 @@
 ---
 title: Discover How Windows 11 Revamps the Classic Task Manager Experience
-date: 2024-09-05T07:55:55.306Z
-updated: 2024-09-06T07:55:55.306Z
+date: 2024-09-10T10:54:25.843Z
+updated: 2024-09-11T10:54:25.843Z
 tags:
   - windows
 categories:
@@ -9,12 +9,26 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-11-logo.jpg
 ---
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## Discover How Windows 11 Revamps the Classic Task Manager Experience
 
 Windows 11 22H2 introduced a new Task Manager, complete with a more modern interface, dark mode support, and more power settings. However, if you still don’t like the new design, you can (for now) still open the classic Task Manager.
@@ -27,12 +41,26 @@ taskmgr -d
 
 ![Windows 11 Task Manager showing CPU, Memory, Disk, and Network usage.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/clipboard-mar-26-2024-at-5-18-pm.png) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  You can’t use the old and new Task Manager applications at the same time, but otherwise, it works just as it did before Windows 11 22H2\. You can select a task and click the “End task” button to shut down system processes, or right-click on tasks to see more information. The general layout didn’t really change with the newer version, but the tab bar was redesigned and there are more viewing options.
 
  The new Task Manager had some bugs when it first rolled out, but most of those issues have now been solved, so there’s not a reason for most people to go back. Still, Microsoft hasn’t completely erased the old Task Manager from existence yet, so you can check it out on a fully updated Windows 11 PC for a while longer.

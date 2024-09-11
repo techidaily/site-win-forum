@@ -1,7 +1,7 @@
 ---
 title: "Retro Tech Goes Open Source: Microsoft's DOS 4.0 From the Late '80S Ready to Download!"
-date: 2024-09-05T07:55:55.550Z
-updated: 2024-09-06T07:55:55.550Z
+date: 2024-09-10T10:54:26.072Z
+updated: 2024-09-11T10:54:26.072Z
 tags:
   - windows
 categories:
@@ -9,18 +9,20 @@ categories:
 thumbnail: https://thmb.techidaily.com/0e8b59a0a7e5a9b9173ae5feaad5ddb56b135eee3ed22a8b3f83cf8fa8dfaeb8.jpg
 ---
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## Retro Tech Goes Open Source: Microsoft's DOS 4.0 From the Late '80S Ready to Download!
 
 Microsoft Disk Operating System, or MS-DOS for short, was the operating system that powered early PCs and served as the underlying framework for early versions of Microsoft Windows. Some older versions have been released as open-source software over the past few years, giving us a better look at early computing history, and now the code for the 1988 release of MS-DOS 4.0 is available.

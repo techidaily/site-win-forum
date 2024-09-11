@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Creating a Dropdown Menu From an Excel Cell"
-date: 2024-09-05T07:55:57.201Z
-updated: 2024-09-06T07:55:57.201Z
+date: 2024-09-10T10:54:27.616Z
+updated: 2024-09-11T10:54:27.616Z
 tags:
   - excel
 categories:
@@ -9,18 +9,40 @@ categories:
 thumbnail: https://thmb.techidaily.com/8cc2f26346852b595fe32553f266efaeb26b116a663fa0800cea00c3335313c9.png
 ---
 
-## Step-by-Step Guide: Creating a Dropdown Menu From an Excel Cell
+
+
+
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
+## Step-by-Step Guide: Creating a Dropdown Menu From an Excel Cell
+
 ### Quick Links
 
 * [What is an Excel Drop-Down List?](https://youtube-blog.techidaily.com/n-2024-ultimate-freefire-tag-collection-enhance-your-youtube-channels/)
 * [How to Add a Drop-Down List to Excel](https://facebook-clips.techidaily.com/in-2024-reddit-poster-canvas-ratio/)
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ### Key Takeaways
 
@@ -29,6 +51,20 @@ thumbnail: https://thmb.techidaily.com/8cc2f26346852b595fe32553f266efaeb26b116a6
 * You can customize the behavior of the drop-down list by checking or unchecking options like "Ignore blank" or adding an input message. To remove the drop-down list, open the Data Validation dialog box and click the "Clear All" button.
 
  Drop-down lists are very useful data entry tools we see just about everywhere, and you can add custom drop-down lists to your own Excel worksheets. It’s easy and we’ll show you how.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ##  What is an Excel Drop-Down List?
 
@@ -44,99 +80,121 @@ thumbnail: https://thmb.techidaily.com/8cc2f26346852b595fe32553f266efaeb26b116a6
 
 ![The age ranges we entered highlighted in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/enter-age-ranges.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Now, we’re going to name our range of cells to make it easier to add them to the drop-down list. To do this, select all the cells containing the drop-down list items and then enter a name for the cell range into the Name box above the grid. We named our cell range Age.
 
  Hold Ctrl while you click to select multiple cells in Excel on Windows. On a Mac, hold Command and click to select multiple items. You can also hold Shift-click the first cell and then Shift-click the last cell to select all of the cells in between as well.
 
 ![The age cells selected and named "Age."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/name-cells-age.png) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
  Now, select the cell into which you want to add a drop-down list and click the “Data” tab.
 
 ![The first cell in the "Age" column is selected.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/select-the-cell-then-click-data.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Open the Data Tools section of the Data tab, then click the “Data Validation” button
 
 ![The "Data Tools" flyout open with "Data Validation" highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/data-validation.png) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  The Data Validation dialog box displays. On the Settings tab, select “List” from the Allow drop-down list (see, drop-down lists are everywhere!).
 
 ![The "Data Validation" window, with the "Allow" drop-down box open.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/select-list-from-dropdown.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Now, we’re going to use the name we assigned to the range of cells containing the options for our drop-down list. Enter ` =Age ` in the “Source” box (if you named your cell range something else, replace “Age” with that name). Make sure the “In-cell dropdown” box is checked.
 
  The “Ignore blank” check box is checked by default. This means that the user can select the cell and then deselect the cell without selecting an item. If you want to require the user to select an option from the drop-down list, uncheck the Ignore blank check box.
 
 ![The "Source" field is set to "=Age".](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/set-equal-age.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can add a popup message that displays when the cell containing the drop-down list is selected. To do this, click the “Input Message” tab on the Data Validation dialog box. Make sure the “Show input message when the cell is selected” box is checked. Enter a Title and an Input message and then click the “OK” button.
 
 ![The "Input Message" tab.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/input-message.png) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
  When the cell containing the drop-down list is selected, you’ll see a down arrow button to the right of the cell. If you added an input message, it displays below the cell. The down arrow button only displays when the cell is selected.
 
 ![The input message displayed with an "Age" cell selected.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/age-input-cell.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Click the down arrow button to drop down the list of options and select one.
 
 ![The drop-down menu listing the age ranges we programmed.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/age-input-options-listed-dropdown.png) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118310/7443" target="_top" id="2118310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118310" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
  Of course, we have an entire column we want to take age values. There are a few ways to make that happen. The first — and easiest — is just to select all of the cells you want to have a drop-down menu _before_ you go to Data Validation and actually add the drop-down menu. The simplest way to select every cell in a column is to click the column header. If you have a cell you're using for a label, just Ctrl+Click it to deselect it, so the formatting doesn't get applied there.
 
 ![Select the whole column, then deselect the label cell.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/deselect-label.png) 
 
-<!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Then just apply the formatting just like we showed you previously.
 
  The other scenario is when you've already applied the drop-down menu formatting to one cell, but don't want to have to repeat the process of creating a drop-down menu. In this case, just click and select the cell that already has the drop-down menu. Note the small square in the bottom-right corner of the cell. Left-Click and drag that corner down to all of the cells you want to have a drop-down menu, then release your mouse. The cells you dragged to will have inherited the drop-down menu from the original cell. It'll look like this:
 
 ![Multiple cells have inherited the drop-down menu from the original cell.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/click-the-corner.png) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2114267/17093" target="_top" id="2114267">
+  <img src="//a.impactradius-go.com/display-ad/17093-2114267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114267/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
  This trick basically applies to [_any_ formatting](https://fox-blue.techidaily.com/updated-2024-approved-ultimate-list-selecting-excellent-webcams-for-podcasts/) you apply to a cell in Excel, not just drop-down menus.
 
@@ -144,16 +202,24 @@ thumbnail: https://thmb.techidaily.com/8cc2f26346852b595fe32553f266efaeb26b116a6
 
 ![Click "Clear All" to remove the drop-down menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/clear-all-cell.png) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
  The options on the Data Validation dialog box are reset to their defaults. Click “OK” to remove the drop-down list and restore the cell to its default format.
 
 ![The cell now has no data validation criteria.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/clear-all-click-ok-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If there was an option selected when you removed the drop-down list, the cell is populated with the value of that option.
 
 ![The data applied with the drop-down menu box will be retained by default.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/data-still-in-cell.png) 

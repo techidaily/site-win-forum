@@ -1,7 +1,7 @@
 ---
 title: "Enhancing the Handheld Experience: Microsoft Upgrades Windows for Mobile Devices"
-date: 2024-09-05T07:55:54.798Z
-updated: 2024-09-06T07:55:54.798Z
+date: 2024-09-10T10:54:25.334Z
+updated: 2024-09-11T10:54:25.334Z
 tags:
   - windows
 categories:
@@ -9,12 +9,26 @@ categories:
 thumbnail: https://thmb.techidaily.com/a362218194355c666b0860326aa79761dfe27d2518f12f424f4610cd1ffe517b.jpg
 ---
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## Enhancing the Handheld Experience: Microsoft Upgrades Windows for Mobile Devices
 
 Handheld console-like PCs running Windows are becoming more common, but Windows still isn’t really built for tablet-sized screens with controller navigation. Microsoft is now fixing one of the bigger headaches there: the Xbox Game Bar.
@@ -27,12 +41,20 @@ Handheld console-like PCs running Windows are becoming more common, but Windows 
 
 ![Adding a widget in the Windows game bar on a handheld PC.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/2408-widgets-80b614204effb964aca0-1536x864.png) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2128842/7443" target="_top" id="2128842">
+  <img src="//a.impactradius-go.com/display-ad/7443-2128842" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128842/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 Microsoft
 
  Most PC gaming handhelds ship with Windows, such as the [ASUS ROG Ally](https://some-guidance.techidaily.com/2024-approved-streamline-and-shine-the-top-5-video-quality-tools/) and [Lenovo Legion Go](https://buynow-help.techidaily.com/wire-free-wonderment-the-allure-of-m06-headphones/), but the operating system still isn’t optimized for that design. This is one of Microsoft’s first steps towards fixing that. There are still many other actions that will require tapping the screen or using an on-screen keyboard, but making the Game Bar work well with controller input is a step in the right direction.
