@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Clearing the Domain Name System Cache on Windows 10 & 11"
-date: 2024-09-10T10:54:31.064Z
-updated: 2024-09-11T10:54:31.064Z
+date: 2024-09-11T16:54:31.452Z
+updated: 2024-09-16T16:04:29.884Z
 tags:
   - win11
   - win10
@@ -12,20 +12,6 @@ description: "This Article Describes Step-by-Step Guide: Clearing the Domain Nam
 excerpt: "This Article Describes Step-by-Step Guide: Clearing the Domain Name System Cache on Windows 10 & 11"
 thumbnail: https://thmb.techidaily.com/bedeaab43df1b8b5afd8fae799c1b0ff2cb5a9adc8ca952932303c5e2c53ba39.jpg
 ---
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118304/7443" target="_top" id="2118304">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118304" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118304/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Navigating the Digital Sphere with Leading Platforms: Facebook, Twitter, Instagram & Youtube Guides
 
@@ -58,26 +44,6 @@ Here are the methods you can use to speed up your Windows 11 boot time:
 ![startup tab](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/speed-up-windows-11-boot-time/disable-startup-programs-in-windows-11-step-2.jpg)
 3. Finally, toggle the switch next to the apps you don’t want to run at startup. Under the toggle switch, you’ll see the status impact of each, which indicates what disabling them does to your system.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## II. Remove unnecessary files and programs
 
  Over time, your computer may become cluttered with unnecessary files and programs that can slow down your computer’s startup time. By removing these files and programs, you can speed up your Windows 11 boot time and improve your overall computer performance.
@@ -96,44 +62,18 @@ Here is how you can turn Fast Starup On:
 ![startup options](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/speed-up-windows-11-boot-time/enable-fast-startup-step-2.png)
 4. In the left pane, click on**Choose what the power buttons do** .
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 5. Next, click the**Change settings that are currently unavailable** link.
 6. Under the**Shutdown settings** section, check the**Turn on fast startup (recommended)** option to turn on the feature.
 7. Uncheck the**Turn on fast startup option** to turn it off.  
 ![fast startup](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/speed-up-windows-11-boot-time/enable-fast-startup-step-5.jpg)
 8. Click**Save changes** to apply the changes.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## IV. Defragment your hard drive
 
@@ -147,34 +87,20 @@ Here is how you can turn Fast Starup On:
 ![defragment hard drive](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/speed-up-windows-11-boot-time/defragment-your-hard-drive-step-3.png)
 4. Click on the Optimize button.
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 5. Wait for the defragmentation process to complete.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## V. Use an SSD
 
@@ -182,19 +108,18 @@ Here is how you can turn Fast Starup On:
 
  In addition to upgrading your SSD, another way to speed up your PC’s boot time is to upgrade your RAM. With more RAM, your PC will have more volatile memory available to load temporary items, resulting in faster boot times and an overall improvement in your PC’s performance.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## VI. Adjust BIOS settings for faster Windows 11 boot time
 
@@ -225,8 +150,6 @@ Here is how you can turn Fast Starup On:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -236,36 +159,20 @@ Here is how you can turn Fast Starup On:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-fundamentals-of-copywriting-for-engaging-fb-campaigns/"><u>[New] 2024 Approved  Fundamentals of Copywriting for Engaging FB Campaigns</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-command-attention-elevating-your-page-to-the-social-summit/"><u>[New] In 2024, Command Attention  Elevating Your Page to the Social Summit</u></a></li>
-<li><a href="https://fox-http.techidaily.com/25-groundbreaking-metaverse-initiatives-for-comprehension-for-2024/"><u>25 Groundbreaking Metaverse Initiatives for Comprehension for 2024</u></a></li>
-<li><a href="https://location-fake.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-honor-90-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Honor 90 | Dr.fone</u></a></li>
-<li><a href="https://win-forum.techidaily.com/connecting-the-world-a-comprehensive-overview-of-facebook-twitter-instagram-and-youtube/"><u>Connecting the World: A Comprehensive Overview of Facebook, Twitter, Instagram, and YouTube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/discover-the-giants-of-social-networking-facebook-twitter-instagram-and-youtube/"><u>Discover the Giants of Social Networking: Facebook, Twitter, Instagram & Youtube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/discovering-popular-social-sites-explore-facebook-twitter-instagram-and-youtube/"><u>Discovering Popular Social Sites: Explore Facebook, Twitter, Instagram and YouTube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/easily-find-out-what-powershell-version-you-have-on-windows-11-revo-uninstallers-tips/"><u>Easily Find Out What PowerShell Version You Have on Windows 11 - Revo Uninstaller's Tips</u></a></li>
-<li><a href="https://apple-account.techidaily.com/forgot-your-apple-id-password-and-email-on-iphone-7-heres-the-best-fixes-by-drfone-ios/"><u>Forgot Your Apple ID Password and Email On iPhone 7? Heres the Best Fixes</u></a></li>
-<li><a href="https://win-forum.techidaily.com/how-to-activate-wake-on-lan-in-windows-11-and-11/"><u>How to Activate Wake-on-LAN in Windows 11 and 11</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-poco-m6-pro-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Poco M6 Pro 4G | Dr.fone</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-channel-ascension-mastering-the-art-of-youtube-backlink-acquisition/"><u>In 2024, Channel Ascension  Mastering the Art of YouTube Backlink Acquisition</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-deciphering-the-benefits-in-depth-look-at-bandicams-capabilities/"><u>In 2024, Deciphering the Benefits  In-Depth Look at Bandicam's Capabilities</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-motorola-moto-g-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Motorola Moto G 5G (2023) | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/install-the-latest-realtek-device-drivers-on-your-windows-10-pc/"><u>Install the Latest Realtek Device Drivers on Your Windows 10 PC</u></a></li>
-<li><a href="https://win-forum.techidaily.com/navigating-popular-online-communities-a-look-at-facebook-twitter-instagram-youtube/"><u>Navigating Popular Online Communities: A Look at Facebook, Twitter, Instagram, YouTube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/navigating-the-giants-of-online-sharing-facebook-twitter-instagram-and-youtube/"><u>Navigating the Giants of Online Sharing: Facebook, Twitter, Instagram, and YouTube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/optimizing-pc-performance-a-step-by-step-tutorial-for-disk-defragmentation-in-windows-11-via-revo-uninstaller/"><u>Optimizing PC Performance: A Step-by-Step Tutorial for Disk Defragmentation in Windows 11 via Revo Uninstaller</u></a></li>
-<li><a href="https://win-forum.techidaily.com/1722915191288-revitalize-performance-in-windows-11-learn-to-update-device-drivers-effortlessly/"><u>Revitalize Performance in Windows 11 - Learn to Update Device Drivers Effortlessly</u></a></li>
-<li><a href="https://win-forum.techidaily.com/revolutionize-your-computer-maintenance-the-new-and-improved-revo-uninstaller-pro-5/"><u>Revolutionize Your Computer Maintenance: The New and Improved Revo Uninstaller Pro 5</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-fixes-for-cant-run-this-program-errors-on-pc-systems/"><u>Step-by-Step Fixes for Can't Run This Program Errors on PC Systems</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-guide-removing-windows-1/"><u>Step-by-Step Guide: Removing Windows 1</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-digital-social-circle-understanding-popular-platforms-like-facebook-twitter-instagram-and-youtube/"><u>The Digital Social Circle: Understanding Popular Platforms Like Facebook, Twitter, Instagram, and YouTube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-leading-hubs-for-online-interaction-how-facebook-twitter-and-instagram-meet-youtube-challenge/"><u>The Leading Hubs for Online Interaction: How Facebook, Twitter & Instagram Meet YouTube Challenge</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-powerhouse-trio-for-social-media-engagement-twitter-instagram-and-youtube-alongside-facebook/"><u>The Powerhouse Trio for Social Media Engagement: Twitter, Instagram & Youtube Alongside Facebook</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-ultimate-tutorial-for-persistent-admin-execution-of-apps-in-windows-11-environment/"><u>The Ultimate Tutorial for Persistent Admin Execution of Apps in Windows 11 Environment</u></a></li>
-<li><a href="https://win-forum.techidaily.com/top-online-networking-sites-facebook-twitter-instagram-youtube/"><u>Top Online Networking Sites - Facebook, Twitter, Instagram, Youtube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/ultimate-guide-5-steps-to-ensure-your-windows-system-is-safe-and-locked/"><u>Ultimate Guide: 5 Steps To Ensure Your Windows System Is Safe and Locked</u></a></li>
-<li><a href="https://win-forum.techidaily.com/ultimate-walkthrough-to-install-and-activate-the-revo-app-manager-software/"><u>Ultimate Walkthrough to Install and Activate the Revo App Manager Software</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/unveiling-premium-free-srt-translation-services/"><u>Unveiling Premium Free SRT Translation Services</u></a></li>
-<li><a href="https://win-forum.techidaily.com/unveiling-the-giants-of-social-media-understanding-facebook-twitter-instagram-and-youtube/"><u>Unveiling The Giants Of Social Media: Understanding Facebook, Twitter, Instagram and YouTube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/windows-11-masterclass-managing-and-inputting-hardware-components-into-the-system-bios/"><u>Windows 11 Masterclass: Managing and Inputting Hardware Components Into the System Bios</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-streamlining-meetings-on-win11-using-zoom-features/"><u>[New] Streamlining Meetings on Win11 Using Zoom Features</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-clearview-recorder-xtreme-win10/"><u>[Updated] ClearView Recorder Xtreme (Win10)</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-hero5-black-meets-hero5-session-a-visual-verdict/"><u>[Updated] Hero5 Black Meets Hero5 Session – A Visual Verdict</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-googles-take-on-ar-stickers-an-overview-and-beyond/"><u>2024 Approved Google's Take on AR Stickers An Overview & Beyond</u></a></li>
+<li><a href="https://win-blog.techidaily.com/beat-the-glitch-the-definitive-fix-for-crashing-diablo-4-games-on-all-consoles/"><u>Beat the Glitch: The Definitive Fix for Crashing Diablo 4 Games on All Consoles</u></a></li>
+<li><a href="https://win-forum.techidaily.com/diy-crossword-wizardry-with-excel-easy-techniques-to-craft-your-own-puzzles/"><u>DIY Crossword Wizardry with Excel: Easy Techniques to Craft Your Own Puzzles</u></a></li>
+<li><a href="https://win-forum.techidaily.com/diy-windows-alerts-setting-up-an-easy-event-log-notification-tool/"><u>DIY Windows Alerts: Setting Up an Easy Event Log Notification Tool</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-nubia-red-magic-8s-proplus-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Nubia Red Magic 8S Pro+</u></a></li>
+<li><a href="https://win-forum.techidaily.com/dual-monitor-workbook-management-in-microsoft-excel-2013/"><u>Dual Monitor Workbook Management in Microsoft Excel 2013</u></a></li>
+<li><a href="https://win-forum.techidaily.com/easy-guide-transforming-apple-numbers-documents-into-microsoft-excel-format/"><u>Easy Guide: Transforming Apple Numbers Documents Into Microsoft Excel Format</u></a></li>
+<li><a href="https://win-forum.techidaily.com/effective-methods-for-embedding-and-linking-excel-data-within-word-files/"><u>Effective Methods for Embedding and Linking Excel Data Within Word Files</u></a></li>
+<li><a href="https://win-forum.techidaily.com/effective-techniques-for-shortening-content-in-microsoft-excel/"><u>Effective Techniques for Shortening Content in Microsoft Excel</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-15-pro-drfone-by-drfone-ios/"><u>How to Unlock iPhone 15 Pro? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Vivo S17 Pro | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-precision-listening-top-audio-customization-techniques-for-2024/"><u>New Precision Listening Top Audio Customization Techniques for 2024</u></a></li>
 </ul></div>
+

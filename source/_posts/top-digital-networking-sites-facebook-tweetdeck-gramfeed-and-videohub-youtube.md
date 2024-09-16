@@ -1,7 +1,7 @@
 ---
 title: "Top Digital Networking Sites: FaceBook, TweetDeck, GramFeed, and VideoHub (YouTube)"
-date: 2024-09-10T10:54:28.939Z
-updated: 2024-09-11T10:54:28.939Z
+date: 2024-09-10T16:45:39.300Z
+updated: 2024-09-16T16:29:53.560Z
 tags:
   - win11
   - win10
@@ -33,41 +33,8 @@ thumbnail: https://thmb.techidaily.com/40db9e7f14d32360658bd45a85fa8baf591a4c124
 1. Click on the**‘Start’** button located at the bottom left corner of the screen or press the**‘Windows’** key on your keyboard to open the Start menu. ![Start menu lock](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/lock-pc/method-1-start-menu.png)
 2. In the Start menu, click on your user profile icon or name located at the top.
 
-
-
-
-<!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 3. This will open a menu with various options. Click on**‘Lock’** from the list of options.
 4. Alternatively, you can also press the**‘Windows’** key +**‘L’** on your keyboard as a shortcut to lock your PC instantly.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## II. Another way to lock your Windows Computer and protect your data is through the Task Manager. Here are the steps you have to take in order to do that
 
@@ -79,58 +46,18 @@ thumbnail: https://thmb.techidaily.com/40db9e7f14d32360658bd45a85fa8baf591a4c124
 6. In the**“Create new task”** window, type**“tsdiscon”** (short for “Terminal Services Disconnect”) into the text field. ![Create new task](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/lock-pc/method-2-task-manager-2.png)
 7. Check the box next to**“Create this task with administrative privileges”** .
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 8. Click**“OK”** .
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## III. How to Lock a Windows 11 computer via the Ctrl + Alt + Delete Menu
 
  Pressing**Ctrl + Alt + Delete** triggers a distinct Windows menu to appear on your screen, offering a range of functionalities. Among these options is the Task Manager, granting you the capability to perform several actions, including switching user accounts, changing passwords, and, most notably for our discussion, locking your PC. Simply selecting**“Lock”** from this menu instantly secures your Windows 11 device.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## IV. Lock your PC via the Command Prompt
 
@@ -138,6 +65,13 @@ thumbnail: https://thmb.techidaily.com/40db9e7f14d32360658bd45a85fa8baf591a4c124
 
  To initiate this process, begin by accessing the Start menu search bar. Enter “Command Prompt” and select the best match. Once the Command Prompt window opens, input the following command and press Enter:  
 **Rundll32.exe user32.dll,LockWorkStation**
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## V. How to lock your computer with Dynamic Lock
 
@@ -156,20 +90,6 @@ thumbnail: https://thmb.techidaily.com/40db9e7f14d32360658bd45a85fa8baf591a4c124
 
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## We can help you every time when…
 
 * you cannot find the program in the Apps & Features list
@@ -185,8 +105,6 @@ thumbnail: https://thmb.techidaily.com/40db9e7f14d32360658bd45a85fa8baf591a4c124
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -196,33 +114,21 @@ thumbnail: https://thmb.techidaily.com/40db9e7f14d32360658bd45a85fa8baf591a4c124
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-in-depth-analysis-freelens-webcam-recorder-app/"><u>[New] 2024 Approved  In-Depth Analysis  Freelens Webcam Recorder App</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-face-the-future-with-elite-iphone-and-android-modifiers/"><u>[New] Face the Future with Elite iPhone & Android Modifiers</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/automate-your-digital-hygiene-the-ultimate-guide-to-using-stellar-file-eraser-v5-on-macos/"><u>Automate Your Digital Hygiene: The Ultimate Guide to Using Stellar File Eraser v5 on macOS</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-motorola-moto-e13-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Motorola Moto E13 | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-infinix-smart-8-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Infinix Smart 8 FRP Locks</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-realme-gt-3-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Realme GT 3 | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Motorola G54 5G | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-honor-70-lite-5g-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Honor 70 Lite 5G to Latest Samsung | Dr.fone</u></a></li>
-<li><a href="https://win-forum.techidaily.com/simple-steps-to-remove-kernel-memory-snapshots-in-windows-10/"><u>Simple Steps to Remove Kernel Memory Snapshots in Windows ‪10</u></a></li>
-<li><a href="https://win-forum.techidaily.com/social-media-giants-facebook-twitter-instagram-youtube/"><u>Social Media Giants: Facebook, Twitter, Instagram, YouTube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/solving-the-complete-hard-drive-utilization-issue-on-your-windows-10-machine/"><u>Solving the Complete Hard Drive Utilization Issue on Your Windows 10 Machine</u></a></li>
-<li><a href="https://win-forum.techidaily.com/solving-the-issue-of-full-disk-utilization-on-windows-10-a-step-by-step-guide/"><u>Solving the Issue of Full Disk Utilization on Windows 10: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-guide-removing-files-and-directories-via-cmd-on-windows-11/"><u>Step-by-Step Guide: Removing Files & Directories via CMD on Windows 11</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-guide-setting-up-and-running-the-revoapp-manager-and-uninstaller/"><u>Step-by-Step Guide: Setting Up and Running the RevoApp Manager & Uninstaller</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-process-for-deleting-windows-10-accounts-with-revo-uninstaller/"><u>Step-by-Step Process for Deleting Windows 10 Accounts with Revo Uninstaller</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-walkthrough-ensuring-admin-launch-for-your-software-on-windows-n-11/"><u>Step-by-Step Walkthrough: Ensuring Admin Launch for Your Software on Windows N 11</u></a></li>
-<li><a href="https://win-forum.techidaily.com/synergizing-your-brand-across-leading-platforms-facebook-twitter-instagram-and-youtube-best-practices/"><u>Synergizing Your Brand Across Leading Platforms: Facebook, Twitter, Instagram & YouTube Best Practices</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-complete-tutorial-on-how-to-alter-remove-and-establish-system-keys-in-windows/"><u>The Complete Tutorial on How to Alter, Remove and Establish System Keys in Windows</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-fast-track-effectively-forcing-end-to-non-responsive-applications-in-windows-systems/"><u>The Fast Track: Effectively Forcing End to Non-Responsive Applications in Windows Systems</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-power-users-handbook-crash-course-on-forced-app-closures-for-windows-11/"><u>The Power User's Handbook: Crash Course on Forced App Closures for Windows 11</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-ultimate-social-media-mix-connecting-through-facebook-twitter-instagram-and-youtube/"><u>The Ultimate Social Media Mix: Connecting Through Facebook, Twitter, Instagram, and YouTube</u></a></li>
-<li><a href="https://techidaily.com/top-8-iphone-se-smsmessagetext-recovery-software-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Top 8 iPhone SE SMS/Message/Text Recovery Software | Stellar</u></a></li>
-<li><a href="https://win-forum.techidaily.com/top-social-networks-navigating-facebook-twitter-instagram-and-youtube/"><u>Top Social Networks: Navigating Facebook, Twitter, Instagram, and YouTube</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/ultimate-gear-for-action-cams-a-shoppers-companion/"><u>Ultimate Gear for Action Cams  A Shopper's Companion</u></a></li>
-<li><a href="https://win-forum.techidaily.com/understanding-bios-functions-and-boosting-performance-using-revouninstaller/"><u>Understanding BIOS Functions and Boosting Performance Using RevoUninstaller</u></a></li>
-<li><a href="https://win-forum.techidaily.com/understanding-global-connectivity-with-major-players-twitter-instagram-facebook-and-youtube/"><u>Understanding Global Connectivity with Major Players: Twitter, Instagram, Facebook and YouTube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/understanding-the-impact-of-top-social-media-platforms-facebook-twitter-instagram-and-youtube/"><u>Understanding the Impact of Top Social Media Platforms: Facebook, Twitter, Instagram & YouTube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/unleash-your-pcs-full-potential-with-the-latest-revo-uninstaller-pro-version-5/"><u>Unleash Your PC's Full Potential with the Latest: Revo Uninstaller Pro, Version 5!</u></a></li>
-<li><a href="https://win-forum.techidaily.com/unlisted-app-removal-steps-to-delete-non-controlled-panel-items/"><u>Unlisted App Removal: Steps to Delete Non-Controlled Panel Items</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-crafting-success-in-youtubes-creator-hub/"><u>[New] 2024 Approved Crafting Success in YouTube's Creator Hub</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-unboxing-premium-game-devices-youtube-edition/"><u>[New] 2024 Approved Unboxing Premium Game Devices YouTube Edition</u></a></li>
+<li><a href="https://win-forum.techidaily.com/clear-cache-made-easy-on-windows-11-using-software-name-what-you-need-to-know/"><u>Clear Cache Made Easy on Windows 11 Using [Software Name]: What You Need to Know</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-apple-iphone-se-2020-without-passcode-now-drfone-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock Apple iPhone SE (2020) Without Passcode Now | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-motorola-moto-g73-5g-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Motorola Moto G73 5G via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-iphone-6-with-a-broken-screen-drfone-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking iPhone 6 with a Broken Screen? | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-constructive-cuts-streamlined-approaches-for-length-adjustments-on-vimeo/"><u>In 2024, Constructive Cuts Streamlined Approaches for Length Adjustments on Vimeo</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-world-of-social-media-insights-on-facebook-twitter-instagram-and-youtube/"><u>Navigating the World of Social Media: Insights on Facebook, Twitter, Instagram & Youtube</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/restoring-androids-mp4-footage/"><u>Restoring Android's MP4 Footage</u></a></li>
+<li><a href="https://win-forum.techidaily.com/social-media-mastery-unlocking-the-secrets-of-facebook-twitter-instagram-and-youtube/"><u>Social Media Mastery: Unlocking the Secrets of Facebook, Twitter, Instagram & Youtube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/solving-performance-issues-in-wsappx-techniques-to-reduce-high-disk-and-cpu-usage/"><u>Solving Performance Issues in WSAPPX: Techniques to Reduce High Disk and CPU Usage</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-mystery-of-your-computers-speaker-configuration-in-windows-10/"><u>Solving the Mystery of Your Computer's Speaker Configuration in Windows 10</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-power-of-social-media-giants-navigating-facebook-twitter-instagram-youtube/"><u>The Power of Social Media Giants: Navigating Facebook, Twitter, Instagram, YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/1722915295243-top-platforms-in-social-networking-exploring-facebook-twitter-instagram-and-youtube/"><u>Top Platforms in Social Networking: Exploring Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-how-to-get-your-counter-strike-mic-functioning-again/"><u>Troubleshooting Guide: How to Get Your Counter-Strike Mic Functioning Again</u></a></li>
+<li><a href="https://win-forum.techidaily.com/1723008614501-xcom-2-stability-improved-say-goodbye-to-windows-crashes/"><u>XCOM 2 Stability Improved – Say Goodbye to Windows Crashes</u></a></li>
 </ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "The Powerhouses of Social Media: A Closer Look at Facebook, Twitter, Instagram, and YouTube"
-date: 2024-09-10T10:54:29.109Z
-updated: 2024-09-11T10:54:29.109Z
+date: 2024-09-11T16:44:57.124Z
+updated: 2024-09-16T16:57:12.369Z
 tags:
   - win11
   - win10
@@ -15,20 +15,6 @@ thumbnail: https://thmb.techidaily.com/c77188d301673882c7bd2416a75ef28040661515c
 
 ## Understanding Digital Interaction: The Powerhouses - Facebook, Twitter, Instagram & Youtube
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## [What is BIOS](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1)
 
 * Share
@@ -40,55 +26,13 @@ thumbnail: https://thmb.techidaily.com/c77188d301673882c7bd2416a75ef28040661515c
 
  BIOS (basic input/output system) is actually a program that the computer’s microprocessor is using to start the computer system. It’s other functions are to manage data flow between the computer’s operating system (OS) and attached devices, such as the hard disk, video adapter, keyboard, mouse and printer.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## First lets learn more about the history of BIOS
 
  The term BIOS was first used by Gary Kildall in 1975\. The first BIOS was incorporated in IBMs’ first personal computer in 198\. In the years to come, it gained popularity within other PCs, becoming an integral part of computers for some time.Unfortunately BIOS’ popularity starts to decline in favor of a newer technology: Unified Extensible Firmware Interface (UEFI). Intel announced a plan in 2017 to retire support for legacy BIOS systems by 2020, replacing them with UEFI.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115924/19272" target="_top" id="2115924">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115924" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115924/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## So what does a BIOS include?
 
  The BIOS includes instructions on how to load basic computer hardware. BIOS tests your system to verify the computer meets requirements to boot up properly. If the computer does not pass the test, you hear a combination of beeps indicating what is malfunctioning in the computer.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## What are the four main functions of a PC BIOS?
 
@@ -97,31 +41,18 @@ thumbnail: https://thmb.techidaily.com/c77188d301673882c7bd2416a75ef28040661515c
 * **BIOS drivers** – Low-level drivers that give the computer basic operational control over your computer’s hardware.
 * **BIOS setup or CMOS setup** – Configuration program that allows you to configure hardware settings including system settings, such as date, time, and computer passwords.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115939/19272" target="_top" id="2115939">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115939" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115939/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How does BIOS work?
 
  Most computers come with included BIOS in them as firmware on the chip of your motherboard. BIOS is a program that is accessible by the microprocessor on an erasable programmable read-only memory (EPROM) chip. When you turn on your PC the microprocessor passes control to the BIOS.
 
  When you first start your computer BIOS checks if your system is operational. If everything is working on your system BIOS load the OS into the computer’s RAM (random access memory) from your hard disk.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Accessing BIOS
 
@@ -139,6 +70,13 @@ thumbnail: https://thmb.techidaily.com/c77188d301673882c7bd2416a75ef28040661515c
 
  Another unique exploit involving the manipulation of BIOS was Plundervolt. Plundervolt could be used to mess with a computer’s power supply at the time data was being written to memory, causing errors that lead to security gaps. Intel released a BIOS patch to defend against it.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Can a BIOS chip be upgraded or updated?
 
  Adding additional memory to a BIOS chip, as an upgrade, can only be done by replacing the existing BIOS chip with a new, more advanced BIOS chip.
@@ -147,19 +85,12 @@ thumbnail: https://thmb.techidaily.com/c77188d301673882c7bd2416a75ef28040661515c
 
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## We can help you every time when…
 
@@ -176,8 +107,6 @@ thumbnail: https://thmb.techidaily.com/c77188d301673882c7bd2416a75ef28040661515c
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -187,48 +116,20 @@ thumbnail: https://thmb.techidaily.com/c77188d301673882c7bd2416a75ef28040661515c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-top-5-cozy-winter-scenes-for-video-aesthetics/"><u>[Updated] Top 5 Cozy Winter Scenes for Video Aesthetics</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-essential-top-6-digital-engagement-channels-for-companies/"><u>2024 Approved  Essential Top 6 Digital Engagement Channels for Companies</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-xiaomi-redmi-k70e-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Xiaomi Redmi K70E | Dr.fone</u></a></li>
-<li><a href="https://win-forum.techidaily.com/a-beginners-guide-to-navigating-and-editing-the-windows-registry-safely/"><u>A Beginner's Guide to Navigating and Editing the Windows Registry Safely</u></a></li>
-<li><a href="https://win-forum.techidaily.com/activate-your-revoappmanager-a-comprehensive-walkthrough-using-revouninstaller/"><u>Activate Your RevoAppManager - A Comprehensive Walkthrough Using RevoUninstaller</u></a></li>
-<li><a href="https://win-forum.techidaily.com/boost-your-pcs-security-a-focus-on-five-tactics-for-windows-protection/"><u>Boost Your PC's Security: A Focus on Five Tactics for Windows Protection</u></a></li>
-<li><a href="https://win-forum.techidaily.com/clearing-storage-on-your-pc-a-step-by-step-guide-to-reclaim-disk-space-in-windows-11/"><u>Clearing Storage on Your PC: A Step-by-Step Guide to Reclaim Disk Space in Windows 11</u></a></li>
-<li><a href="https://win-forum.techidaily.com/clearing-up-space-and-speed-boost-a-users-manual-for-eliminating-extensions-in-windows-11-browsers/"><u>Clearing Up Space & Speed Boost: A User’s Manual for Eliminating Extensions in Windows 11 Browsers</u></a></li>
-<li><a href="https://win-forum.techidaily.com/complete-guide-resolving-full-disk-utilization-on-your-windows-11-pc/"><u>Complete Guide: Resolving Full Disk Utilization on Your Windows 11 PC</u></a></li>
-<li><a href="https://win-forum.techidaily.com/connect-and-share-on-major-online-hubs-fb-chat-tweetsphere-ig-scene-and-yt-stream/"><u>Connect and Share on Major Online Hubs: FB Chat, Tweetsphere, IG Scene & YT Stream</u></a></li>
-<li><a href="https://win-forum.techidaily.com/connecting-across-borders-insights-into-facebook-twitter-instagram-and-youtube-usage/"><u>Connecting Across Borders: Insights Into Facebook, Twitter, Instagram & YouTube Usage</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/ending-your-insta-saga-a-comprehensive-guide-to-deactivation/"><u>Ending Your Insta Saga  A Comprehensive Guide to Deactivation</u></a></li>
-<li><a href="https://win-dash.techidaily.com/enhance-gaming-experience-with-newest-geforce-rtx-3080-ti-drivers-for-windows-11-8-and-7/"><u>Enhance Gaming Experience with Newest GeForce RTX 3080 Ti Drivers for Windows 11, 8 & 7</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-vivo-s18e-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Vivo S18e Safely | Dr.fone</u></a></li>
-<li><a href="https://win-forum.techidaily.com/how-to-keep-your-windows-10-hardware-current-updating-device-drivers/"><u>How to Keep Your Windows 10 Hardware Current: Updating Device Drivers</u></a></li>
-<li><a href="https://win-forum.techidaily.com/how-to-overcome-the-obstacle-of-application-failure-to-start-in-windows/"><u>How To Overcome The Obstacle of 'Application Failure to Start' In Windows</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-video-creators-companion-selecting-perfect-camera-stabilizers/"><u>In 2024, Video Creator's Companion  Selecting Perfect Camera Stabilizers</u></a></li>
-<li><a href="https://win-forum.techidaily.com/latest-techniques-to-refresh-device-drivers-in-windows-11/"><u>Latest Techniques to Refresh Device Drivers in Windows 11</u></a></li>
-<li><a href="https://win-forum.techidaily.com/leading-online-communities-a-guide-to-facebook-twitter-instagram-and-youtube/"><u>Leading Online Communities - A Guide to Facebook, Twitter, Instagram and YouTube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/locating-your-windows-11-powershell-edition-a-step-by-step-guide/"><u>Locating Your Windows 11 PowerShell Edition: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-forum.techidaily.com/mastering-file-deletion-a-step-by-step-guide-using-windows-10-command-prompt/"><u>Mastering File Deletion: A Step-by-Step Guide Using Windows 10 Command Prompt</u></a></li>
-<li><a href="https://win-forum.techidaily.com/mastering-keyboard-shortcuts-inserting-the-system-information-on-windows-11/"><u>Mastering Keyboard Shortcuts: Inserting the System Information on Windows 11</u></a></li>
-<li><a href="https://win-forum.techidaily.com/mastering-network-troubleshooting-flushing-dns-in-windows-10-and-11-with-ease/"><u>Mastering Network Troubleshooting: Flushing DNS in Windows 10 & 11 with Ease</u></a></li>
-<li><a href="https://win-forum.techidaily.com/mastering-the-digital-sphere-with-facebook-twitter-instagram-and-youtube/"><u>Mastering the Digital Sphere with Facebook, Twitter, Instagram & YouTube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/maximizing-drive-capacity-in-windows-11-with-simple-cleanup-techniques/"><u>Maximizing Drive Capacity in Windows 11 with Simple Cleanup Techniques</u></a></li>
-<li><a href="https://win-forum.techidaily.com/navigating-popular-networking-sites-a-journey-from-twitter-to-youtube/"><u>Navigating Popular Networking Sites: A Journey From Twitter to YouTube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/navigating-the-digital-age-with-key-players-facebook-twitter-instagram-and-youtube-uncovered/"><u>Navigating the Digital Age with Key Players: Facebook, Twitter, Instagram and YouTube Uncovered</u></a></li>
-<li><a href="https://win-forum.techidaily.com/navigating-the-giants-of-social-media-and-video-sharing-facebook-twitter-instagram-youtube/"><u>Navigating the Giants of Social Media and Video Sharing: FaceBook | TwitTer | InStaGram | YouTube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/navigating-the-social-sphere-a-guide-to-facebook-twitter-instagram-and-youtube/"><u>Navigating the Social Sphere: A Guide to Facebook, Twitter, Instagram and YouTube</u></a></li>
-<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Realme 10T 5G | Dr.fone</u></a></li>
-<li><a href="https://win-forum.techidaily.com/regain-control-over-your-pc-7-ways-to-stop-file-explorer-crashing-issues/"><u>Regain Control Over Your PC: 7 Ways to Stop File Explorer Crashing Issues</u></a></li>
-<li><a href="https://win-forum.techidaily.com/resolving-complete-disk-saturation-on-your-windows-10-machine-a-step-by-step-guide/"><u>Resolving Complete Disk Saturation on Your Windows 10 Machine: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-forum.techidaily.com/social-media-evolution-how-facebook-twitter-instagram-and-youtube-shape-communication/"><u>Social Media Evolution: How Facebook, Twitter, Instagram & YouTube Shape Communication</u></a></li>
-<li><a href="https://win-forum.techidaily.com/solving-the-issue-overcome-this-application-cannot-run-on-your-pc-error/"><u>Solving the Issue: Overcome 'This Application Cannot Run on Your PC' Error</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-ultimate-storage-odyssey-navigating-cloud-leaders-of-2024/"><u>The Ultimate Storage Odyssey  Navigating Cloud Leaders of 2024</u></a></li>
-<li><a href="https://win-forum.techidaily.com/top-5-methods-for-securing-your-pc-protecting-windows-with-ease/"><u>Top 5 Methods for Securing Your PC - Protecting Windows with Ease</u></a></li>
-<li><a href="https://win-forum.techidaily.com/top-5-methods-for-securing-your-pc-windows-edition/"><u>Top 5 Methods for Securing Your PC: Windows Edition</u></a></li>
-<li><a href="https://win-forum.techidaily.com/top-5-methods-to-secure-your-pc-windows-edition/"><u>Top 5 Methods to Secure Your PC: Windows Edition</u></a></li>
-<li><a href="https://win-forum.techidaily.com/top-social-networking-platforms-facebook-twitter-instagram-and-youtube-unveiled/"><u>Top Social Networking Platforms: Facebook, Twitter, Instagram and Youtube Unveiled</u></a></li>
-<li><a href="https://win-forum.techidaily.com/top-social-sites-compared-insights-into-facebook-twitter-instagram-and-youtube/"><u>Top Social Sites Compared: Insights Into Facebook, Twitter, Instagram & YouTube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/troubleshooting-unexpected-errors-in-windows-11-what-to-do-when-plans-dont-pan-out/"><u>Troubleshooting Unexpected Errors in Windows 11 - What To Do When Plans Don't Pan Out?</u></a></li>
-<li><a href="https://win-forum.techidaily.com/troubleshooting-why-wont-my-application-work-on-windows/"><u>Troubleshooting: Why Won't My Application Work on Windows?</u></a></li>
-<li><a href="https://win-forum.techidaily.com/ultimate-guide-mastering-the-windows-11-factory-reset-with-revo-uninstaller/"><u>Ultimate Guide: Mastering the Windows 11 Factory Reset with Revo Uninstaller</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-how-to-stream-on-twitch-the-ultimate-guide/"><u>Updated How to Stream on Twitch The Ultimate Guide</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-soundscape-archives-collect-and-evaluate-recordings/"><u>[Updated] 2024 Approved Soundscape Archives Collect & Evaluate Recordings</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-expert-mp3-creation-guide-top-video-to-audio-devices/"><u>[Updated] In 2024, Expert MP3 Creation Guide Top Video-to-Audio Devices</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-vivo-s17-pro-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Vivo S17 Pro without App | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/comprehensive-tutorial-on-entering-the-bios-configuration-of-a-windows-11-device/"><u>Comprehensive Tutorial on Entering the BIOS Configuration of a Windows 11 Device</u></a></li>
+<li><a href="https://win-forum.techidaily.com/evaluating-protection-levels-the-fintie-case-for-apples-laptop-series-a-detailed-macbook-pro-13-assessment-on-worth-and-endurance/"><u>Evaluating Protection Levels: The Fintie Case for Apple's Laptop Series - A Detailed MacBook Pro 13 Assessment on Worth & Endurance</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Infinix Zero 30 5G? | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-leader-of-sensory-media-creation/"><u>In 2024, Leader of Sensory Media Creation</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-the-future-of-videos-assessing-av1s-edge-over-vp9/"><u>In 2024, The Future of Videos Assessing AV1's Edge over VP9</u></a></li>
+<li><a href="https://win-forum.techidaily.com/master-efficient-software-removal-using-revo-uninstaller-professional-edition-v5/"><u>Master Efficient Software Removal Using Revo Uninstaller Professional Edition, V5</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-through-top-digital-landscapes-a-look-at-facebook-twitter-instagram-and-youtube/"><u>Navigating Through Top Digital Landscapes: A Look at Facebook, Twitter, Instagram & Youtube</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-pro-level-video-editing-on-mac-adobe-premiere-pro/"><u>New In 2024, Pro-Level Video Editing on Mac Adobe Premiere Pro</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-big-four-of-social-networking-exploring-facebook-twitter-instagram-and-youtube/"><u>The Big Four of Social Networking: Exploring Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/understanding-modern-connectivity-the-impact-of-facebook-twitter-instagram-and-youtube-on-our-lives/"><u>Understanding Modern Connectivity: The Impact of Facebook, Twitter, Instagram and YouTube on Our Lives</u></a></li>
+<li><a href="https://win-forum.techidaily.com/unraveling-the-world-of-social-networks-a-deep-dive-into-facebook-twitter-instagram-and-youtube/"><u>Unraveling the World of Social Networks: A Deep Dive Into Facebook, Twitter, Instagram and YouTubе</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/1725287954629-winx-dvd-ripper-platinum/"><u>パソコンを更新した後に、WinX DVD Ripper Platinumの再登録方法詳解</u></a></li>
 </ul></div>
+

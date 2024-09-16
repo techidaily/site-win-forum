@@ -1,27 +1,13 @@
 ---
 title: Effective Methods for Embedding and Linking Excel Data Within Word Files
-date: 2024-09-10T10:54:26.765Z
-updated: 2024-09-11T10:54:26.765Z
+date: 2024-09-11T16:04:14.372Z
+updated: 2024-09-16T16:19:24.997Z
 tags:
   - excel
 categories:
   - tech
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/07/img_5b40230c5bfe0.jpg
 ---
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Effective Methods for Embedding and Linking Excel Data Within Word Files
 
@@ -31,20 +17,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018
 * [How to Link or Embed an Excel Worksheet in Microsoft Word](https://win11-tips.techidaily.com/tackling-windows-11-installation-on-unsupported-hardware/)
 
  Sometimes, you want to include the data on an Excel spreadsheet in your Microsoft Word document. There are a couple of ways to do this, depending on whether or not you want to maintain a connection with the source Excel sheet. Let's take a look.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ##  What's the Difference Between Linking and Embedding?
 
@@ -73,20 +45,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018
 
 ![Image 1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/07/Image-1.png) 
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  Now, switch to your Word document and click to place the insertion point where you would like the linked or embedded material to go. On Home tab of the Ribbon, click the down arrow beneath the "Paste" button, and then choose the "Paste Special" command from the dropdown menu.
 
 ![Image 004](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/07/Image-004.png) 
@@ -99,63 +57,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018
 
 ![Image 007](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/07/Image-007.png) 
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123466/16836" target="_top" id="2123466">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123466" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123466/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  And you'll see your Excel sheet (or the cells you selected) in your Word document.
 
 ![Image 006](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/07/Image-006.png) 
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  If you linked the Excel data, you can't edit it directly in Word, but you can double-click anywhere on it to open the original spreadsheet file. And any updates you make to that original spreadsheet are then reflected in your Word document.
 
  If you embedded the Excel data, you can edit it directly in Word. Double-click anywhere in the spreadsheet and you'll stay in the same Word window, but the Word Ribbon gets replaced by the Excel Ribbon and you can access all the Excel functionality. It's kind of cool.
 
 ![Image 008](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/07/Image-008.png) 
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  And when you want to stop editing the spreadsheet and go back to your Word controls, just click anywhere outside the spreadsheet.
 
@@ -169,8 +79,6 @@ Related: [How To Use Excel-Style Spreadsheets in Microsoft Word](https://faceboo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -180,44 +88,24 @@ Related: [How To Use Excel-Style Spreadsheets in Microsoft Word](https://faceboo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-content-distribution-showdown-vimeo-vs-youtubes-and-dailymotions/"><u>[New] 2024 Approved  Content Distribution Showdown  Vimeo vs YouTubes and DailyMotions</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-influencing-instagram-step-by-step-tutorial/"><u>[New] 2024 Approved  Influencing Instagram  Step-by-Step Tutorial</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-20mb-video-seconds-breakdown/"><u>[New] 20MB Video - Seconds Breakdown</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-best-offline-android-games-dive-into-the-fun-without-a-network-for-2024/"><u>[New] Best Offline Android Games - Dive Into the Fun Without a Network for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-flip-flop-your-watching-anchoring-yourself-at-the-end-of-queue-for-2024/"><u>[Updated] Flip-Flop Your Watching  Anchoring Yourself at the End of Queue for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-real-time-music-videos-on-douyin-for-2024/"><u>[Updated] Real-Time Music Videos on Douyin for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/11-best-free-ais-enhancing-email-structure-and-content/"><u>11 Best Free AIs Enhancing Email Structure and Content</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-5-excellent-external-hdd-recommendations-for-xbox/"><u>2024 Approved  5 Excellent External HDD Recommendations for Xbox</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-facebooks-novelty-the-leading-five-new-features-unraveled/"><u>2024 Approved  Facebook's Novelty  The Leading Five New Features Unraveled</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/5-most-effective-methods-to-unlock-iphone-12-in-lost-mode-by-drfone-ios/"><u>5 Most Effective Methods to Unlock iPhone 12 in Lost Mode</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-itel-s23plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Itel S23+ | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Xiaomi Redmi Note 12 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://win-forum.techidaily.com/best-practices-for-resolving-high-disk-usage-at-100-on-your-windows-10-system/"><u>Best Practices for Resolving High Disk Usage at 100%% on Your Windows 10 System</u></a></li>
-<li><a href="https://win-forum.techidaily.com/complete-guide-removing-user-accounts-on-windows-11-with-revo-uninstaller/"><u>Complete Guide: Removing User Accounts on Windows 11 with Revo Uninstaller</u></a></li>
-<li><a href="https://win-forum.techidaily.com/complete-tutorial-how-to-erase-user-profiles-using-revo-uninstaller-on-windows-11/"><u>Complete Tutorial: How to Erase User Profiles Using Revo Uninstaller on Windows 11</u></a></li>
-<li><a href="https://win-forum.techidaily.com/connect-and-share-on-major-social-media-facebook-twitter-instagram-youtube-overview/"><u>Connect and Share on Major Social Media: Facebook, Twitter, Instagram, YouTube Overview</u></a></li>
-<li><a href="https://win-forum.techidaily.com/defeating-the-persistent-problem-of-unrecognized-usb-devices/"><u>Defeating the Persistent Problem of Unrecognized USB Devices</u></a></li>
-<li><a href="https://win-forum.techidaily.com/do-you-really-need-a-third-party-app-to-remove-programs-exploring-the-alternatives/"><u>Do You Really Need a Third-Party App to Remove Programs: Exploring the Alternatives</u></a></li>
-<li><a href="https://win-forum.techidaily.com/effective-solutions-to-overcome-apps-not-running-error-in-pc/"><u>Effective Solutions to Overcome Apps Not Running Error in PC</u></a></li>
-<li><a href="https://win-forum.techidaily.com/efficient-techniques-for-killing-hanging-programs-in-the-latest-windows-operating-system/"><u>Efficient Techniques for Killing Hanging Programs in the Latest Windows Operating System</u></a></li>
-<li><a href="https://win-forum.techidaily.com/engage-on-the-web-with-leading-networks-facebook-twitter-instagram-and-youtube/"><u>Engage on the Web with Leading Networks: Facebook, Twitter, Instagram, and YouTube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/explore-social-networks-facebook-twitter-and-instagram-youtube/"><u>Explore Social Networks: Facebook, Twitter & Instagram, YouTube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/exploring-digital-connections-through-leading-platforms-facebook-twitter-instagram-and-youtube/"><u>Exploring Digital Connections Through Leading Platforms: Facebook, Twitter, Instagram & YouTube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/exploring-top-social-platforms-facebook-twitter-instagram-and-youtube-unveiled/"><u>Exploring Top Social Platforms: Facebook, Twitter, Instagram & YouTube Unveiled</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/fearless-filming-tackling-ten-common-vlog-anxieties-head-on/"><u>Fearless Filming  Tackling Ten Common Vlog Anxieties Head-On</u></a></li>
-<li><a href="https://win-forum.techidaily.com/how-to-perform-a-clean-installation-on-windows-11-essential-steps-and-tips/"><u>How to Perform a Clean Installation on Windows 11 - Essential Steps and Tips</u></a></li>
-<li><a href="https://win-forum.techidaily.com/how-to-reclaim-disk-capacity-in-windows-11-the-ultimate-troubleshooting-and-cleanup-tutorial/"><u>How to Reclaim Disk Capacity in Windows 11: The Ultimate Troubleshooting and Cleanup Tutorial</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-unlock-your-iphone-8-plus-in-minutes-with-iccid-code-everything-you-need-to-know-by-drfone-ios/"><u>In 2024, Unlock Your iPhone 8 Plus in Minutes with ICCID Code Everything You Need to Know</u></a></li>
-<li><a href="https://win-forum.techidaily.com/navigating-the-social-media-powerhouses-insight-into-facebook-twitter-instagram-and-youtube/"><u>Navigating the Social Media Powerhouses: Insight Into Facebook, Twitter, Instagram & Youtube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/revo-uninstallers-powerful-method-to-force-delete-non-responding-folders-on-windows-os/"><u>Revo Uninstaller's Powerful Method to Force Delete Non-Responding Folders on Windows OS</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-tutorial-for-setting-up-wake-on-lan-on-microsofts-latest-operating-systems/"><u>Step-by-Step Tutorial for Setting Up Wake-on-LAN on Microsoft's Latest Operating Systems</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-definitive-technique-to-grant-administrator-rights-automatically-to-all-your-apps-on-windows-11/"><u>The Definitive Technique to Grant Administrator Rights Automatically to All Your Apps on Windows 11</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-power-players-in-social-media-exploring-facebook-twitter-instagram-and-youtubes-dominance/"><u>The Power Players in Social Media: Exploring Facebook, Twitter, Instagram & Youtube's Dominance</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-quintessential-quad-of-digital-sphere-exploring-facebook-twitter-instagram-and-youtube/"><u>The Quintessential Quad of Digital Sphere: Exploring Facebook, Twitter, Instagram & Youtube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-quintessential-social-media-platforms-for-engagement-facebook-twitter-instagram-and-youtube/"><u>The Quintessential Social Media Platforms for Engagement: Facebook, Twitter, Instagram & YouTube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-quintessential-social-networks-explained-facebook-twitter-instagram-and-youtube/"><u>The Quintessential Social Networks Explained: Facebook, Twitter, Instagram, and YouTube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-ultimate-guide-to-top-social-media-sites-facebook-twitter-instagram-and-youtube/"><u>The Ultimate Guide to Top Social Media Sites - Facebook, Twitter, Instagram & Youtube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/top-5-methods-for-securing-your-pc-protecting-windows-devices/"><u>Top 5 Methods for Securing Your PC: Protecting Windows Devices</u></a></li>
-<li><a href="https://win-forum.techidaily.com/troubleshooting-windows-11-solutions-for-wont-run-issues/"><u>Troubleshooting Windows 11: Solutions for Wont Run Issues</u></a></li>
-<li><a href="https://win-forum.techidaily.com/unveiling-the-giants-of-digital-communication-facebook-twitter-instagram-and-youtube/"><u>Unveiling the Giants of Digital Communication: Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-simplified-mac-solution-audioplusscreen-capture/"><u>[New] 2024 Approved Simplified Mac Solution Audio+Screen Capture</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/tudents-guide-to-engaging-with-top-10-history-vids-for-2024/"><u>[New] Students' Guide to Engaging with Top 10 History Vids for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-speech-transcription-made-simple-utilizing-text-conversion-functionality-of-ms-word/"><u>[Updated] In 2024, Speech Transcription Made Simple Utilizing Text Conversion Functionality of MS Word</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/amplify-detail-top-tips-for-shooting-up-closer-with-videoleap-for-2024/"><u>Amplify Detail Top Tips for Shooting Up Closer with VideoLeap for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/boost-system-efficiency-using-revo-uninstaller-pro-navigate-your-way-to-a-cleaner-faster-computer/"><u>Boost System Efficiency Using Revo Uninstaller Pro Navigate Your Way to a Cleaner, Faster Computer</u></a></li>
+<li><a href="https://win-forum.techidaily.com/comparing-giants-of-social-networking-insights-into-facebook-twitter-instagram-and-youtube-usage/"><u>Comparing Giants of Social Networking: Insights Into Facebook, Twitter, Instagram, and YouTube Usage</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-fix-class-not-registered-error-on-windows/"><u>How to Fix “Class Not Registered” Error on Windows</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-xiaomi-redmi-12-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Xiaomi Redmi 12 to PC? | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/optimize-windows-11-initial-load-time-for-seamless-performance-gains/"><u>Optimize Windows 11 Initial Load Time for Seamless Performance Gains</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/speech-transcription-made-simple-utilizing-text-conversion-functionality-of-ms-word/"><u>Speech Transcription Made Simple Utilizing Text Conversion Functionality of MS Word</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-ultimate-walkthrough-for-using-driver-easys-mobile-app/"><u>The Ultimate Walkthrough for Using Driver Easy's Mobile App</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-5-methods-for-securing-your-windows-pc-a-comprehensive-guide/"><u>Top 5 Methods for Securing Your Windows PC: A Comprehensive Guide</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

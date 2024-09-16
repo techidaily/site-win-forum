@@ -1,7 +1,7 @@
 ---
 title: "未来的盒子: 202 # Student"
-date: 2024-09-10 10:11:46
-updated: 2024-09-13 11:34:19
+date: 2024-09-13T16:42:47.377Z
+updated: 2024-09-16T16:17:45.067Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/26e5a5bed3537105229e89d2df536f43cfadace1d3a287d0f50c6226ff3d146f.png
@@ -185,6 +185,13 @@ Photo Editor 是Movavi最新一代圖片瀏覽器，不僅能秀圖，也支援�
 
 * 圖片都必須上傳至軟體
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 
 
 [**Apowersoft Photo Viewer**](https://tools.techidaily.com/apowersoft/products/)
@@ -205,6 +212,13 @@ Apowersoft Photo Viewer 也是十大照片管理工具的首選之一。要完�
 
 * GUI 看起來很舊，簡直像 XP，而且功能有限
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 
 
 [**FastStone Image Viewer**](https://www.faststone.org/)
@@ -221,11 +235,31 @@ FastStone 可能是最牢靠的看圖軟體了。該軟體在瀏覽、簡單的�
 
 * 對普通使用者而言工具太多了
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115944/19272" target="_top" id="2115944">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115944" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 
 
 [**IrfanView**](https://www.irfanview.com/)
 
 ![](https://cdn.staticont.net/page_type/0013/40/dcdf45d4b6ceea077e36e869c5e7f60097f8c957.webp)
+
+<!-- affiliate ads begin -->
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 十幾年來，IrfanView 都是許多 Windows 10 和 Windows 7 電腦中的必備產品。原因不難理解，這款軟體包含了一大堆的圖像編輯功能，包括批次轉換，並允許為更多特殊需求新增外掛程式。IrfanView 同時也是掃描機和電腦之間的介面，因此無需再打開通用的掃描視窗，也無需在設定上做手腳，因為 IrfanView 全會為您搞定，更能組織圖片。雖然這款軟體看起來有點舊了，但說到務實的圖片瀏覽，這個就能搞定一切了。
 
@@ -312,6 +346,13 @@ Movavi Photo Editor
 * Nomacs
 * Google Photos
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 那一個是用於觀賞照片的最佳軟體?
 
 我們認為 Movavi Photo Editor 可以贏得這個頭銜! 本app不僅可秀圖 & 瀏覽照片，亦可用來分類與組織照片。透過便利的方式，輕鬆解決管理大批照片的難題。而且，它的AI臉部識別技術，能為每位家人自動開設相簿，賞圖與管理都超簡單。本app還內建了實用的照片編輯功能，能順暢地為你處理修圖大小事。只要擁有一套Photo Editor，便足以滿足所有照片相關之日常需求!
@@ -393,11 +434,27 @@ Movavi Photo Editor
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-how-to-make-slow-motion-videos-on-instagram-reels/"><u>[New] 2024 Approved How to Make Slow Motion Videos on Instagram Reels</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-simplifying-video-workflows-with-showmores-top-recording-tool/"><u>[New] In 2024, Simplifying Video Workflows with ShowMore's Top Recording Tool</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-upload-videos-to-youtube-a-step-by-step-guide-for-2024/"><u>[Updated] How To Upload Videos to YouTube [a Step-by-Step Guide] for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-edge-enhancements-in-windows-10-release/"><u>[Updated] The Edge Enhancements in Windows 10 Release</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discovering-smart-value-with-sandisks-mini-mp3-player/"><u>Discovering Smart Value with SanDisk's Mini MP3 Player</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-vivo-y17s-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Vivo Y17s by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-use-rules-of-thirds/"><u>In 2024, How to Use Rules of Thirds</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-adding-watermarks-to-your-ms-excel-2013-spreadsheets/"><u>Step-by-Step Guide: Adding Watermarks to Your MS Excel 2013 Spreadsheets</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-naming-cell-ranges-efficiently-in-microsoft-excel/"><u>Step-by-Step Guide: Naming Cell Ranges Efficiently in Microsoft Excel</u></a></li>
+<li><a href="https://win-forum.techidaily.com/tech-tips-for-a-smarter-connection-change-icons-track-volume-and-share-links-with-smartphones-expert-advice-from-how-to-geek/"><u>Tech Tips for a Smarter Connection: Change Icons, Track Volume, and Share Links with Smartphones – Expert Advice From How-To Geek</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-ultimate-tutorial-on-leveraging-the-excel-navigation-pane-for-quick-data-access/"><u>The Ultimate Tutorial on Leveraging the Excel Navigation Pane for Quick Data Access</u></a></li>
+<li><a href="https://win-forum.techidaily.com/understanding-the-distinction-functions-vs-formulas-in-microsoft-excel/"><u>Understanding the Distinction: Functions Vs. Formulas in Microsoft Excel</u></a></li>
+<li><a href="https://win-forum.techidaily.com/vlookup-essentials-a-step-by-step-guide-to-querying-ranges-in-excel-spreadsheets/"><u>VLOOKUP Essentials: A Step-by-Step Guide to Querying Ranges in Excel Spreadsheets</u></a></li>
+</ul></div>
+

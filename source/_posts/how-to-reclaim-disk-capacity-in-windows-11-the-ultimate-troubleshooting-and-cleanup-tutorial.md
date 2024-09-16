@@ -1,7 +1,7 @@
 ---
 title: "How to Reclaim Disk Capacity in Windows 11: The Ultimate Troubleshooting and Cleanup Tutorial"
-date: 2024-09-10T10:54:29.195Z
-updated: 2024-09-11T10:54:29.195Z
+date: 2024-09-11T16:14:30.301Z
+updated: 2024-09-16T16:47:35.591Z
 tags:
   - win11
   - win10
@@ -13,41 +13,7 @@ excerpt: "This Article Describes How to Reclaim Disk Capacity in Windows 11: The
 thumbnail: https://thmb.techidaily.com/95c7607cc85834758f594e36f86b8274633568f32ba37267dd79e6e802f121e2.png
 ---
 
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## Exploring the Giants of Social Media: From Facebook to YouTube and Beyond
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115920/19272" target="_top" id="2115920">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115920" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115920/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## [How to update Windows 10 device drivers](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1)
 
@@ -84,41 +50,9 @@ thumbnail: https://thmb.techidaily.com/95c7607cc85834758f594e36f86b8274633568f32
    ![device manager](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/update-windows-10-device-drivers/method-2-step-1-device-manager.png)  
    2. You will see the list of all your hardware components.  
 
-
-
-
-<!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
    3. Right-click on the component you want to check for driver updates and click on**Update driver** .  
    ![update driver](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/update-windows-10-device-drivers/method-2-step-3-update-driver.png)  
    4. You will be presented with two choices. You can select the first one if you want the system to automatically search for a driver. The second is for when you already downloaded a driver and so you will have to point to its location.  
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
    ![update drivers](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/update-windows-10-device-drivers/method-2-step-4-update-choices.png)  
    5. If a driver update is available, the wizard will automatically install it, if not, your driver is already up to date.
@@ -145,67 +79,15 @@ thumbnail: https://thmb.techidaily.com/95c7607cc85834758f594e36f86b8274633568f32
    ![troubleshoot compatibility](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/update-windows-10-device-drivers/method-4-step-1-troubleshoot.png)  
    3. The Program Compatibility Troubleshooter will look for any problems.  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
    4. Click on**Troubleshoot program** .  
    ![program compatibility troubleshoot](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/update-windows-10-device-drivers/method-4-step-2-compatability-troubleshooter.png)  
    5. Select which is the problem with the program. If the driver worked as intended, select the first option and click**Next** .  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
    ![program compatibility troubleshoot](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/update-windows-10-device-drivers/method-4-step-3-compatability-troubleshooter-2.png)  
    6. Choose the Windows version where the driver worked fine, and click**Next** .  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135474/26400" target="_top" id="2135474">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135474" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135474/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
    ![program compatibility troubleshoot](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/update-windows-10-device-drivers/method-4-step-4-compatability-troubleshooter-3.png)  
    7. Click on Test the program and hit**Next** again.  
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
    ![test the program](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/update-windows-10-device-drivers/method-4-step-5-compatability-troubleshooter-4.png)  
    8. Follow the instructions to install the drivers as you usually do.
@@ -222,24 +104,18 @@ thumbnail: https://thmb.techidaily.com/95c7607cc85834758f594e36f86b8274633568f32
    ![UEFI Firmware Settings](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/update-windows-10-device-drivers/method-5-step-2-uefi-firmware-settings.png)  
    7. Finally, select**Restart** and use the menus to update the BIOS / UEFI.  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  Understanding what BIOS is can feel like an overwhelming task.. We’ve created a separate article where we cover the topic[what is BIOS](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1)
 
  These are the different ways to update your drivers in Windows 10\. Of course, you can always use any method that seems most accessible, but all of them are guaranteed to work.
 
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## We can help you every time when…
 
@@ -256,8 +132,6 @@ thumbnail: https://thmb.techidaily.com/95c7607cc85834758f594e36f86b8274633568f32
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -267,43 +141,21 @@ thumbnail: https://thmb.techidaily.com/95c7607cc85834758f594e36f86b8274633568f32
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-efficient-fortnite-imagery-design-quickly/"><u>[New] In 2024, Efficient Fortnite Imagery Design Quickly</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-giggle-galore-curating-the-funniest-10-short-form-web-series-ideas/"><u>[New] In 2024, Giggle Galore  Curating the Funniest 10 Short-Form Web Series Ideas</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-tiktok-food-10-most-popular-tiktok-food-trends/"><u>[New] In 2024, Tiktok Food | 10 Most Popular Tiktok Food Trends</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-screencast-maker-for-fb-chat/"><u>[New] ScreenCast Maker for FB Chat</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-smooth-segmentation-4-easy-fades-explained/"><u>[New] Smooth Segmentation  4 Easy Fades Explained</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-transfer-tactics-for-seamless-online-video-sharing/"><u>[New] Transfer Tactics for Seamless Online Video Sharing</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-audio-capture-for-post-review-for-2024/"><u>[Updated] Audio Capture for Post-Review for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-top-8-youtube-ranks-elevating-your-content-with-premier-applications/"><u>[Updated] Top 8 YouTube Ranks  Elevating Your Content with Premier Applications</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/adaptability-and-agility-key-attributes-for-thriving-in-a-changing-market-landscape/"><u>Adaptability & Agility  Key Attributes for Thriving in a Changing Market Landscape</u></a></li>
-<li><a href="https://fox-info.techidaily.com/capture-the-moment-iphone-time-lapse-tutorial/"><u>Capture the Moment  IPhone Time-Lapse Tutorial</u></a></li>
-<li><a href="https://win-forum.techidaily.com/diy-desktop-cleanup-getting-rid-of-excess-programs-in-windows-11-efficiently/"><u>DIY Desktop Cleanup: Getting Rid of Excess Programs in Windows 11 Efficiently</u></a></li>
-<li><a href="https://win-forum.techidaily.com/easy-fixes-for-the-windows-missing-class-registration-error/"><u>Easy Fixes for the Windows Missing Class Registration Error</u></a></li>
-<li><a href="https://win-forum.techidaily.com/easy-steps-mastering-hunter-mode-in-revo-uninstaller/"><u>Easy Steps: Mastering Hunter Mode in Revo Uninstaller</u></a></li>
-<li><a href="https://win-forum.techidaily.com/effective-strategies-to-resolve-errors-preventing-apps-from-running-on-your-desktop/"><u>Effective Strategies to Resolve Errors Preventing Apps From Running on Your Desktop</u></a></li>
-<li><a href="https://win-forum.techidaily.com/enhance-your-web-experience-by-flushing-dns-in-windows-1011/"><u>Enhance Your Web Experience by Flushing DNS in Windows 10/11</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/evaluating-virtual-mixology-expertise-of-ai/"><u>Evaluating Virtual Mixology Expertise of AI</u></a></li>
-<li><a href="https://win-forum.techidaily.com/exploring-the-core-social-channels-strategies-for-success-in-facebook-twitter-instagram-and-youtube/"><u>Exploring the Core Social Channels: Strategies for Success in Facebook, Twitter, Instagram & YouTube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/guide-how-to-delete-non-standard-software-via-windows-task-manager/"><u>Guide: How to Delete Non-Standard Software via Windows Task Manager</u></a></li>
-<li><a href="https://win-forum.techidaily.com/hack-your-pc-for-windows-11-compatibility-tweaks-for-cpus-blocked-by-microsoft/"><u>Hack Your PC for Windows 11: Compatibility Tweaks for CPU's Blocked by Microsoft</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/how-to-elevate-your-social-influence-the-six-step-guide-to-instagram-verified-status-for-2024/"><u>How to Elevate Your Social Influence  The Six-Step Guide to Instagram Verified Status for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-get-the-latest-targus-displaylink-drivers-for-win11-win8-and-win7-free-guide/"><u>How to Get the Latest Targus DisplayLink Drivers for Win11, Win8 & Win7: Free Guide</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-unlock-iphone-15-plus-without-face-id-by-drfone-ios-unlock-ios-unlock/"><u>How to Unlock iPhone 15 Plus without Face ID</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/how-to-use-funimate-video-downloader-for-2024/"><u>How to Use Funimate Video Downloader for 2024</u></a></li>
-<li><a href="https://win-forum.techidaily.com/master-the-quick-fix-for-stuck-windows-software-a-step-by-step-guide-with-revouninstaller/"><u>Master the Quick Fix for Stuck Windows Software - A Step-by-Step Guide with RevoUninstaller</u></a></li>
-<li><a href="https://win-forum.techidaily.com/navigating-popular-digital-landscapes-insights-into-facebook-twitter-instagram-and-youtube/"><u>Navigating Popular Digital Landscapes: Insights Into Facebook, Twitter, Instagram, and YouTube</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-ways-to-recover-deleted-files-from-honor-x50-by-fonelab-android-recover-data/"><u>Possible ways to recover deleted files from Honor X50</u></a></li>
-<li><a href="https://win-forum.techidaily.com/revamping-driver-performance-on-windows-11-a-comprehensive-tutorial/"><u>Revamping Driver Performance on Windows 11: A Comprehensive Tutorial</u></a></li>
-<li><a href="https://win-forum.techidaily.com/revolutionize-your-pc-maintenamo-by-creating-deleting-and-tweaking-registry-settings-using-revo-uninstaller/"><u>Revolutionize Your PC Maintenamo by Creating, Deleting, and Tweaking Registry Settings Using Revo Uninstaller</u></a></li>
-<li><a href="https://techidaily.com/sign-word-2010-online-with-digisigner-by-ldigisigner-sign-a-word-sign-a-word/"><u>Sign Word 2010 Online with DigiSigner</u></a></li>
-<li><a href="https://win-forum.techidaily.com/1722915387540-social-media-giants-facebook-twitter-instagram-and-youtube/"><u>Social Media Giants: Facebook, Twitter, Instagram, and YouTube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-ultimate-tutorial-for-flushing-the-dns-resolver-cache-in-windows-operating-systems/"><u>The Ultimate Tutorial for Flushing the DNS Resolver Cache in Windows Operating Systems</u></a></li>
-<li><a href="https://win-forum.techidaily.com/top-social-media-platforms-facebook-twitter-and-instagram-youtube/"><u>Top Social Media Platforms: Facebook, Twitter & Instagram | YouTube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/1722915329256-trouble-with-starting-programs-heres-how-you-can-fix-it-on-pc/"><u>Trouble with Starting Programs? Here's How You Can Fix It on PC!</u></a></li>
-<li><a href="https://win-forum.techidaily.com/troubleshooting-tips-how-to-immediately-terminate-frozen-windows-programs/"><u>Troubleshooting Tips: How to Immediately Terminate Frozen Windows Programs</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unleash-full-potential-of-your-steelseries-hardware-with-optimized-windows-10-controller-software-free-download-inside/"><u>Unleash Full Potential of Your SteelSeries Hardware with Optimized Windows 10 Controller Software - Free Download Inside!</u></a></li>
-<li><a href="https://win-forum.techidaily.com/unlocking-computer-secrets-how-to-view-bios-details-using-windows-11s-advanced-features/"><u>Unlocking Computer Secrets: How to View BIOS Details Using Windows 11'S Advanced Features</u></a></li>
-<li><a href="https://article-posts.techidaily.com/unveiling-t5s-ability-to-capture-excitement-and-adventure/"><u>Unveiling T5's Ability to Capture Excitement and Adventure</u></a></li>
-<li><a href="https://win-forum.techidaily.com/windows-11-disk-cleanup-guide-boost-your-drive-capacity-using-revo-uninstaller/"><u>Windows 11 Disk Cleanup Guide: Boost Your Drive Capacity Using Revo Uninstaller</u></a></li>
-<li><a href="https://win-forum.techidaily.com/your-comprehensive-guide-to-leading-online-communities-facebook-twitter-instagram-youtube/"><u>Your Comprehensive Guide to Leading Online Communities: Facebook, Twitter, Instagram, YouTube</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-shine-through-the-game-fixes-for-dark-capture-by-obs-for-2024/"><u>[New] Shine Through the Game Fixes for Dark Capture by OBS for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-uploading-success-stories-mastering-igtv-content-posting/"><u>[Updated] 2024 Approved Uploading Success Stories Mastering IGTV Content Posting</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-pixels-of-peaceful-bedtime-narratives/"><u>[Updated] Pixels of Peaceful Bedtime Narratives</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/beneath-shadows-layers-direct-x-flaw-unraveled-in-lol/"><u>Beneath Shadows Layers - Direct X Flaw Unraveled in LoL</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/complete-guide-safely-backing-up-device-drivers-in-windows-11-and-10/"><u>Complete Guide: Safely Backing Up Device Drivers in Windows 11 and 10</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effective-techniques-for-handling-the-d3dx924dll-not-found-error/"><u>Effective Techniques for Handling the 'd3dx9_24.dll Not Found' Error</u></a></li>
+<li><a href="https://win-forum.techidaily.com/engage-with-your-audience-on-major-digital-channels-facebook-twitter-instagram-youtube/"><u>Engage With Your Audience on Major Digital Channels: Facebook, Twitter, Instagram, Youtube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/engaging-audiennces-on-leading-social-networks-facey-twittle-insta-and-vidiostreams/"><u>Engaging Audiennces on Leading Social Networks: Facey, Twittle, Insta, and Vidiostreams</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebook-faux-pas-navigating-identity-fraud/"><u>Facebook Faux Pas: Navigating Identity Fraud</u></a></li>
+<li><a href="https://win-forum.techidaily.com/fixing-the-dreaded-class-not-found-problem-in-windows-computers-easily/"><u>Fixing the Dreaded 'Class Not Found' Problem in Windows Computers Easily</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-fix-valorant-not-launching-on-pc-2024-tips/"><u>How to Fix Valorant Not Launching on PC - 2024 Tips</u></a></li>
+<li><a href="https://win-forum.techidaily.com/keep-your-system-running-smoothly-update-windows-10-driver-software-via-revo-uninstaller/"><u>Keep Your System Running Smoothly: Update Windows 10 Driver Software via Revo Uninstaller</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722955436210-latest-software-secure-the-new-nvidia-quadro-rtx-8000-driver-for-your-win-11-8-or-7-pc-today/"><u>Latest Software: Secure the New Nvidia Quadro RTX #8000 Driver for Your Win 11, 8 or 7 PC Today</u></a></li>
+<li><a href="https://win-forum.techidaily.com/life-q30-reviewed-soundcores-compact-affordable-anc-speaker/"><u>Life Q30 Reviewed: Soundcore's Compact Affordable ANC Speaker</u></a></li>
+<li><a href="https://win-forum.techidaily.com/tackling-the-complete-disk-occupancy-dilemma-on-your-computer-running-windows-10/"><u>Tackling the Complete Disk Occupancy Dilemma on Your Computer Running Windows 10</u></a></li>
+<li><a href="https://win-forum.techidaily.com/troubleshooting-guide-freeing-up-space-by-deleting-win-11-memory-dumps/"><u>Troubleshooting Guide: Freeing Up Space by Deleting Win 11 Memory Dumps</u></a></li>
 </ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: How to Roll Back Recent Updates on Windows 11"
-date: 2024-09-10T10:54:30.558Z
-updated: 2024-09-11T10:54:30.558Z
+date: 2024-09-11T16:20:12.708Z
+updated: 2024-09-16T16:43:51.645Z
 tags:
   - win11
   - win10
@@ -14,20 +14,6 @@ thumbnail: https://thmb.techidaily.com/c89ca4d2db8c8241f93b3a96e44489938109c01f6
 ---
 
 ## Protect Your Sensitive Information: How to Securely Password-Lock Text Files with Revo Uninstaller
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## [How to Password protect a text file](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1)
 
@@ -50,26 +36,6 @@ After that, you need to do the following:
 2. Under the General tab, click the**Advanced** button and then select**Encrypt Contents to Secure Data** on the new window. Click**OK** and then**Apply** .  
 ![encrypt contents](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/password-protect-text-files/how-to-password-protect-a-text-files-step-2.png)
 3. Continue clicking the**Encrypt the File Only** option and click**OK** .
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 
 ## How to encrypt your text file
 
@@ -102,73 +68,31 @@ So, here are the steps to follow:
 ![set password](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/password-protect-text-files/encrypt-your-text-files-with-winrar-step-2.png)
 3. Enter the password you prepared and click**OK** .
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
-
-
-
-
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## Conclusion
 
  Password-protecting your text files is a simple yet effective way to safeguard sensitive information. By using encryption software, you can easily protect your files from unauthorized access. Remember to choose a strong password and delete the original unencrypted text file to ensure maximum security.
 
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## We can help you every time when…
 
@@ -185,8 +109,6 @@ So, here are the steps to follow:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -196,47 +118,16 @@ So, here are the steps to follow:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/updated-10-leading-tiktok-metrics-for-boosting-engagement-for-2024/"><u>[Updated] 10 Leading TikTok Metrics for Boosting Engagement for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-resolving-iphone-xs-facial-recognition-hurdles/"><u>[Updated] Resolving iPhone X's Facial Recognition Hurdles</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-spotlight-subject-erase-bg-in-photo-editing/"><u>[Updated] Spotlight Subject, Erase Bg in Photo Editing</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-insider-guide-to-simplifying-character-voice-modification-pubg/"><u>2024 Approved  The Insider Guide to Simplifying Character Voice Modification (PUBG)</u></a></li>
-<li><a href="https://win-forum.techidaily.com/bypassing-restrictions-install-windows-11-without-supported-cpu-compatibility/"><u>Bypassing Restrictions: Install Windows 11 Without Supported CPU Compatibility</u></a></li>
-<li><a href="https://win-forum.techidaily.com/clear-out-junk-software-removing-excess-bloatware-from-your-windows-device/"><u>Clear Out Junk Software: Removing Excess Bloatware From Your Windows Device</u></a></li>
-<li><a href="https://win-forum.techidaily.com/comparing-top-platforms-insights-into-facebook-twitter-instagram-and-youtube-usage/"><u>Comparing Top Platforms: Insights Into Facebook, Twitter, Instagram and YouTube Usage</u></a></li>
-<li><a href="https://win-forum.techidaily.com/complete-guide-removing-memory-dump-crash-files-on-windows-11/"><u>Complete Guide: Removing Memory Dump (Crash) Files on Windows 11</u></a></li>
-<li><a href="https://win-forum.techidaily.com/connecting-worlds-through-social-media-the-power-of-facebook-twitter-instagram-and-youtube/"><u>Connecting Worlds Through Social Media: The Power of Facebook, Twitter, Instagram & YouTube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/1722915414939-discover-the-powerhouses-of-online-communities-facebook-to-youtube-explained/"><u>Discover the Powerhouses of Online Communities: Facebook to YouTube Explained</u></a></li>
-<li><a href="https://win-forum.techidaily.com/effective-strategies-for-addressing-access-denied-messages-on-windows-devices/"><u>Effective Strategies for Addressing 'Access Denied' Messages on Windows Devices</u></a></li>
-<li><a href="https://win-forum.techidaily.com/end-window-explorers-endless-crashing-spree-with-these-7-proven-methods/"><u>End Window Explorer's Endless Crashing Spree with These 7 Proven Methods</u></a></li>
-<li><a href="https://win-forum.techidaily.com/explore-social-media-giants-facebook-twitter-instagram-and-youtube/"><u>Explore Social Media Giants: Facebook, Twitter, Instagram & YouTube</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Motorola Moto G73 5G | Dr.fone</u></a></li>
-<li><a href="https://win-forum.techidaily.com/how-to-accurately-check-the-powershell-version-on-your-windows-10-machine/"><u>How to Accurately Check the PowerShell Version on Your Windows 10 Machine</u></a></li>
-<li><a href="https://win-forum.techidaily.com/how-to-get-rid-of-offscreen-applications-on-your-pc-no-control-panel-needed/"><u>How to Get Rid of Offscreen Applications on Your PC - No Control Panel Needed</u></a></li>
-<li><a href="https://win-forum.techidaily.com/how-to-install-and-activate-revo-uninstaller-mobile-revouninstaller/"><u>How to Install and Activate Revo Uninstaller Mobile - RevoUninstaller</u></a></li>
-<li><a href="https://win-forum.techidaily.com/how-to-setup-revouninstaller-a-complete-guide-to-managing-your-apps/"><u>How to Setup RevoUninstaller: A Complete Guide to Managing Your Apps</u></a></li>
-<li><a href="https://win-forum.techidaily.com/how-to-turn-on-wake-on-lan-functionality-in-your-computer-with-windows-a-beginners-guide/"><u>How to Turn on Wake-on-LAN Functionality in Your Computer with Windows # - A Beginner's Guide</u></a></li>
-<li><a href="https://win-forum.techidaily.com/how-to-use-revo-uninstaller-to-manage-startup-programs-on-your-pc/"><u>How to Use Revo Uninstaller to Manage Startup Programs on Your PC</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-tecno-spark-20-proplus-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Tecno Spark 20 Pro+ without App | Dr.fone</u></a></li>
-<li><a href="https://win-forum.techidaily.com/master-the-art-of-removing-redundant-software-on-windows-11-for-a-sleeker-pc-experience/"><u>Master the Art of Removing Redundant Software on Windows 11 for a Sleeker PC Experience</u></a></li>
-<li><a href="https://win-forum.techidaily.com/master-the-cleanup-disabling-web-trackers-on-windows-10-and-android-phones/"><u>Master the Cleanup: Disabling Web Trackers on Windows 10 and Android Phones</u></a></li>
-<li><a href="https://win-forum.techidaily.com/mastering-online-interaction-with-leading-networks-facebook-twitter-instagram-and-youtube/"><u>Mastering Online Interaction with Leading Networks: Facebook, Twitter, Instagram & YouTube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/1722915316176-mastering-online-presence-with-leading-platforms-facebook-twitter-instagram-and-youtube-strategies/"><u>Mastering Online Presence with Leading Platforms: Facebook, Twitter, Instagram & YouTube Strategies</u></a></li>
-<li><a href="https://win-forum.techidaily.com/navigating-the-world-of-social-media-facebook-twitter-instagram-and-youtube-unveiled/"><u>Navigating the World of Social Media - Facebook, Twitter, Instagram & YouTube Unveiled</u></a></li>
-<li><a href="https://win-forum.techidaily.com/navigating-the-worlds-most-popular-networks-facebook-to-youtube/"><u>Navigating the World's Most Popular Networks: Facebook to YouTube</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-s-hottest-explainer-video-creation-platforms-revealed/"><u>New 2024 Approved S Hottest Explainer Video Creation Platforms Revealed</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-crafting-crystal-clear-soundscapes-for-home-video-filmmakers-what-you-need-to-know-for-2024/"><u>New Crafting Crystal Clear Soundscapes for Home Video Filmmakers (What You Need to Know ) for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-in-2024-transforming-your-canon-footage-advanced-video-editing-techniques/"><u>New In 2024, Transforming Your Canon Footage Advanced Video Editing Techniques</u></a></li>
-<li><a href="https://win-forum.techidaily.com/quick-guide-forcing-closure-of-unresponsive-apps-in-windows-11-using-the-command-line/"><u>Quick Guide: Forcing Closure of Unresponsive Apps in Windows 11 Using the Command Line</u></a></li>
-<li><a href="https://win-forum.techidaily.com/quick-guide-reducing-windows-11-startup-times-using-easy-methods/"><u>Quick Guide: Reducing Windows 11 Startup Times Using Easy Methods</u></a></li>
-<li><a href="https://win-forum.techidaily.com/revolutionizing-your-home-screen-how-revouninstaller-helps-tidy-up-android-apps/"><u>Revolutionizing Your Home Screen: How RevoUninstaller Helps Tidy Up Android Apps</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-guide-removing-files-and-folders-via-command-line-on-windows-11/"><u>Step-by-Step Guide: Removing Files & Folders via Command Line on Windows 11</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-tutorial-on-driver-updates-for-windows-11-using-revo-uninstaller/"><u>Step-by-Step Tutorial on Driver Updates for Windows 11 Using Revo Uninstaller</u></a></li>
-<li><a href="https://win-forum.techidaily.com/streamline-your-system-the-ultimate-guide-to-registry-key-operations/"><u>Streamline Your System: The Ultimate Guide to Registry Key Operations</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-digital-landscape-of-connectivity-an-insight-into-facebook-twitter-instagram-and-youtube/"><u>The Digital Landscape of Connectivity: An Insight Into Facebook, Twitter, Instagram and YouTube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-quintessential-quartet-for-online-engagement-twitter-instagram-facebook-and-youtube/"><u>The Quintessential Quartet for Online Engagement: Twitter, Instagram, Facebook & YouTube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/ultimate-technique-for-abruptly-ending-hanging-windows-programs-the-role-of-revouninstaller/"><u>Ultimate Technique for Abruptly Ending Hanging Windows Programs - The Role of RevoUninstaller</u></a></li>
-<li><a href="https://win-forum.techidaily.com/understanding-the-giants-of-online-communication-facebook-twitter-instagram-and-youtube/"><u>Understanding the Giants of Online Communication - Facebook, Twitter, Instagram and Youtube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/understanding-the-giants-of-online-engagement-facebook-twitter-instagram-and-youtube/"><u>Understanding the Giants of Online Engagement: Facebook, Twitter, Instagram and Youtube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/understanding-the-top-four-social-networking-giants-facebook-twitter-instagram-and-youtube/"><u>Understanding the Top Four Social Networking Giants: Facebook, Twitter, Instagram and Youtube</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/unveiling-the-virtual-essence-metaphysical-metaverse-adages/"><u>Unveiling the Virtual Essence  Metaphysical Metaverse Adages</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-eminent-playwriting-for-podcasting/"><u>[New] Eminent Playwriting for Podcasting</u></a></li>
+<li><a href="https://win-forum.techidaily.com/clear-out-pc-clutter-on-windows-11-a-detailed-walkthrough-using-revo-uninstaller/"><u>Clear Out PC Clutter on Windows 11 – A Detailed Walkthrough Using Revo Uninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/efficient-techniques-for-killing-hanging-programs-in-the-latest-windows-operating-system/"><u>Efficient Techniques for Killing Hanging Programs in the Latest Windows Operating System</u></a></li>
+<li><a href="https://video-capture.techidaily.com/guide-converting-high-quality-dvds-into-wmv-format-using-windows/"><u>Guide: Converting High-Quality DVDs Into WMV Format Using Windows</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-vivo-v29-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Vivo V29</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-brisk-windows-content-reconnaissance/"><u>In 2024, Brisk Windows Content Reconnaissance</u></a></li>
+<li><a href="https://win-forum.techidaily.com/launch-of-revo-uninstaller-pro-version-5-enhanced-system-cleanup/"><u>Launch of Revo Uninstaller Pro Version 5: Enhanced System Cleanup</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/mastering-pc-tiktok-live-streams-a-step-by-step-guide-for-2024/"><u>Mastering PC TikTok Live Streams A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-5-ai-powered-tools-to-spark-creative-writing-ideas/"><u>Top 5 AI-Powered Tools to Spark Creative Writing Ideas</u></a></li>
+<li><a href="https://win-forum.techidaily.com/unveil-your-windows-11-powershell-version-with-simple-steps-a-comprehensive-guide/"><u>Unveil Your Windows 11 PowerShell Version with Simple Steps – A Comprehensive Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1726029165132-youtube/"><u>YouTube ショートビデオフォーマットで推奨される解像度とコンテンツサイズ</u></a></li>
 </ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: An In-Depth Guide to What the Windows Registry Does for Your PC
-date: 2024-09-10T10:54:29.896Z
-updated: 2024-09-11T10:54:29.896Z
+date: 2024-09-11T16:31:05.308Z
+updated: 2024-09-16T16:20:32.795Z
 tags:
   - win11
   - win10
@@ -12,20 +12,6 @@ description: This Article Describes An In-Depth Guide to What the Windows Regist
 excerpt: This Article Describes An In-Depth Guide to What the Windows Registry Does for Your PC
 thumbnail: https://thmb.techidaily.com/01714150012339f1efdced7e1f734d013877746c193a3029a59cdde359ecf8d8.jpg
 ---
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Find Out the Version of PowerShell in Windows 10 with Simple Tricks
 
@@ -39,20 +25,6 @@ thumbnail: https://thmb.techidaily.com/01714150012339f1efdced7e1f734d013877746c1
 [How to check Windows 10 PowerShell version](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/check-win10-powershell-version/cover.png) ](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1)
 
  PowerShell is an amazing tool created by Microsoft so you can automate tasks. By knowing which PowerShell version you have access to, you will know what features you can use. There are more than 200 commands that can be used within PowerShell and it is a super flexible framework that will save you a bunch of time.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Can you use PowerShell only on your Windows computer?
 
@@ -69,26 +41,6 @@ thumbnail: https://thmb.techidaily.com/01714150012339f1efdced7e1f734d013877746c1
 
  We are saying all this, so you can know that not all PowerShell versions are the same. A lot of people need assistance when they try to figure out what PowerShell version they are running. Therefore we created this small guide with all the ways you can check.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## How to check what PowerShell version I have installed?
 
  First, you need to open PowerShell. Simply open the Windows Start Menu and type in the search bar PowerShell, and click on the app.
@@ -103,51 +55,25 @@ thumbnail: https://thmb.techidaily.com/01714150012339f1efdced7e1f734d013877746c1
 
 ![Get Host command](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/check-win10-powershell-version/powershell-version-2.png)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2121335/18498" target="_top" id="2121335">
+  <img src="//a.impactradius-go.com/display-ad/18498-2121335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121335/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
-
-
-
  The last method we will show you is by using the command “$host.version”. You will see the PowerShell version in a slightly different format. You will be able to see the Major and Minor release and the build number and revision.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How can I upgrade to a newer version of PowerShell?
 
  You can run both Windows PowerShell and PowerShell 7.2 on the same computer. You do not have to worry about the lack of feature parity by upgrading. Simply keep the current Windows PowerShell installed and also download PowerShell. You can do that by going to its[GitHub release page](https://github.com/PowerShell/PowerShell/releases) . You will see a list of assets, where you can simply choose the OS you want to download for.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Conclusion
 
@@ -155,19 +81,12 @@ thumbnail: https://thmb.techidaily.com/01714150012339f1efdced7e1f734d013877746c1
 
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## We can help you every time when…
 
@@ -184,8 +103,6 @@ thumbnail: https://thmb.techidaily.com/01714150012339f1efdced7e1f734d013877746c1
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -195,47 +112,21 @@ thumbnail: https://thmb.techidaily.com/01714150012339f1efdced7e1f734d013877746c1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-safeguard-yourself-from-oculus-discomfort/"><u>[New] Safeguard Yourself From Oculus Discomfort</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-essential-tips-for-perfecting-photos-via-snapchat-edit-features/"><u>[Updated] Essential Tips for Perfecting Photos via Snapchat Edit Features</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-linking-your-favorite-tiktoks-seamlessly-to-facebook/"><u>[Updated] In 2024, Linking Your Favorite TikToks Seamlessly to Facebook</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-key-principles-for-powerful-video-testimonial-production/"><u>[Updated] Key Principles for Powerful Video Testimonial Production</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-from-theory-to-practice-mastering-instagram-livestreams-through-obs/"><u>2024 Approved  From Theory to Practice  Mastering Instagram Livestreams Through OBS</u></a></li>
-<li><a href="https://win-forum.techidaily.com/banish-windows-explorer-crashes-effective-remedies-and-techniques-to-try/"><u>Banish Windows Explorer Crashes: Effective Remedies and Techniques to Try</u></a></li>
-<li><a href="https://win-forum.techidaily.com/clear-out-unnecessary-files-in-windows-11-for-more-free-space-a-user-guide/"><u>Clear Out Unnecessary Files in Windows 11 for More Free Space - A User Guide</u></a></li>
-<li><a href="https://win-forum.techidaily.com/connect-with-billions-on-major-platforms-a-guide-to-facebook-twitter-instagram-and-youtube/"><u>Connect with Billions on Major Platforms: A Guide to Facebook, Twitter, Instagram, and YouTube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/easy-steps-for-installing-the-revo-permission-manager-via-the-revouninstaller-toolkit/"><u>Easy Steps for Installing the Revo Permission Manager via the RevoUninstaller Toolkit</u></a></li>
-<li><a href="https://win-forum.techidaily.com/expert-instructions-to-customize-eliminate-and-generate-critical-system-registry-keys/"><u>Expert Instructions to Customize, Eliminate & Generate Critical System Registry Keys</u></a></li>
-<li><a href="https://win-forum.techidaily.com/expert-tricks-to-hard-close-frozen-software-on-your-latest-windows-11-computer/"><u>Expert Tricks to Hard Close Frozen Software on Your Latest Windows 11 Computer</u></a></li>
-<li><a href="https://win-forum.techidaily.com/expert-troubleshooting-steps-to-prevent-recurring-windows-explorer-breakdowns-with-revo/"><u>Expert Troubleshooting Steps to Prevent Recurring Windows Explorer Breakdowns with Revo</u></a></li>
-<li><a href="https://win-forum.techidaily.com/finding-your-windows-11-powershell-version-a-step-by-step-guide/"><u>Finding Your Windows 11 PowerShell Version: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-forum.techidaily.com/fixing-error-messages-for-apps-failing-to-launch-on-personal-computers/"><u>Fixing Error Messages for Apps Failing to Launch on Personal Computers</u></a></li>
-<li><a href="https://win-forum.techidaily.com/how-to-boot-into-bios-from-windows-11-detailed-instructions-for-users/"><u>How to Boot Into BIOS From Windows 11 - Detailed Instructions for Users</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-remove-your-apple-id-permanently-from-iphone-8-plus-by-drfone-ios/"><u>How To Delete iCloud Account Remove Your Apple ID Permanently From iPhone 8 Plus</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-infinix-smart-7-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Infinix Smart 7 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://win-forum.techidaily.com/how-to-permanently-wipe-out-files-from-windows-10-devices/"><u>How to Permanently Wipe Out Files From Windows 10 Devices</u></a></li>
-<li><a href="https://win-forum.techidaily.com/how-to-roll-back-recent-windows-11-software-enhancements/"><u>How to Roll Back Recent Windows 11 Software Enhancements</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-6s-to-the-latest-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone 6s to the Latest iOS/iPadOS Version? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-samsung-galaxy-a34-5g-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Samsung Galaxy A34 5G online without jailbreak</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/is-it-worth-the-investment-a-comprehensive-review-of-the-microsoft-surface-studio-2/"><u>Is It Worth the Investment? A Comprehensive Review of the Microsoft Surface Studio 2</u></a></li>
-<li><a href="https://win-forum.techidaily.com/mastering-communication-in-the-modern-world-with-facebook-twitter-instagram-and-youtube/"><u>Mastering Communication in the Modern World with Facebook, Twitter, Instagram, and Youtube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/mastering-the-resolution-of-plan-failures-within-your-windows-11-environment/"><u>Mastering the Resolution of 'Plan Failures' Within Your Windows 11 Environment</u></a></li>
-<li><a href="https://win-forum.techidaily.com/mastering-wake-on-lan-activation-essential-steps-for-windows-operating-systems/"><u>Mastering Wake-on-LAN Activation: Essential Steps for Windows Operating Systems</u></a></li>
-<li><a href="https://win-forum.techidaily.com/navigating-the-social-media-landscape-with-facebook-twitter-instagram-and-youtube/"><u>Navigating the Social Media Landscape with Facebook, Twitter, Instagram & YouTube</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-how-to-crop-a-video-in-windows-media-player/"><u>New How to Crop a Video in Windows Media Player</u></a></li>
-<li><a href="https://win-forum.techidaily.com/social-media-synergy-maximizing-impact-on-facebook-twitter-instagram-and-youtube-channels/"><u>Social Media Synergy: Maximizing Impact on Facebook, Twitter, Instagram and YouTube Channels.</u></a></li>
-<li><a href="https://win-forum.techidaily.com/social-media-titans-unveiled-the-powerhouses-of-faceworld-twittleverse-icongallery-and-tubechannel/"><u>Social Media Titans Unveiled: The Powerhouses of Faceworld, Twittleverse, IconGallery & TubeChannel</u></a></li>
-<li><a href="https://win-forum.techidaily.com/social-media-titans-how-facebook-twitter-instagram-and-youtube-shape-our-world/"><u>Social Media Titans: How Facebook, Twitter, Instagram & YouTube Shape Our World</u></a></li>
-<li><a href="https://win-forum.techidaily.com/solving-the-plan-ahead-mishap-the-ultimate-guide-to-overcoming-setbacks-on-windows-11/"><u>Solving the 'Plan Ahead' Mishap: The Ultimate Guide to Overcoming Setbacks on Windows 11</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-tutorial-ensuring-always-admin-rights-for-software-on-windows-11/"><u>Step-by-Step Tutorial: Ensuring Always Admin Rights for Software on Windows 11</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-a-list-of-online-platforms-mastering-facebook-twitter-instagram-and-youtube-engagement/"><u>The A-List of Online Platforms: Mastering Facebook, Twitter, Instagram and YouTube Engagement</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/the-insiders-guide-to-evening-photo-taking-for-2024/"><u>The Insider’s Guide to Evening Photo-Taking for 2024</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-quintessential-setup-navigating-facebook-twitter-instagram-and-youtube/"><u>The Quintessential Setup: Navigating Facebook, Twitter, Instagram & YouTube</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-vivo-v30-lite-5g-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Vivo V30 Lite 5G Location By Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://win-forum.techidaily.com/top-social-media-platforms-facebook-twitter-and-instagram-vs-youtube/"><u>Top Social Media Platforms: Facebook, Twitter & Instagram vs YouTube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/top-social-platforms-explored-facebook-twitter-instagram-and-youtube-unveiled/"><u>Top Social Platforms Explored: Facebook, Twitter, Instagram & YouTube Unveiled</u></a></li>
-<li><a href="https://win-forum.techidaily.com/understanding-and-checking-powershell-versions-in-windows-11-systems/"><u>Understanding and Checking PowerShell Versions in Windows 11 Systems</u></a></li>
-<li><a href="https://win-forum.techidaily.com/understanding-online-interactions-on-facebook-twitter-instagram-and-youtube/"><u>Understanding Online Interactions on Facebook, Twitter, Instagram and YouTube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/understanding-the-titans-of-online-networking-instagram-twitter-facebook-and-youtube/"><u>Understanding the Titans of Online Networking: Instagram, Twitter, Facebook, and YouTube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/unlock-the-secrets-of-online-engagement-with-facebook-twitter-instagram-and-youtube/"><u>Unlock the Secrets of Online Engagement with Facebook, Twitter, Instagram & Youtube</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/unveiling-the-charming-imperfections-in-the-asus-bw-16d1x-u-blu-ray-drive-a-reviewers-perspective/"><u>Unveiling the Charming Imperfections in the Asus BW-16D1X-U Blu-Ray Drive: A Reviewer's Perspective</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-flavorful-friends-top-gastronomy-guides-online-for-2024/"><u>[New] Flavorful Friends Top Gastronomy Guides Online for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-techniques-to-ensure-uninterrupted-video-capturing/"><u>[Updated] In 2024, Techniques to Ensure Uninterrupted Video Capturing</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-cutting-edge-imagery-iphones-photo-cropping-techniques/"><u>2024 Approved Cutting Edge Imagery IPhone's Photo Cropping Techniques</u></a></li>
+<li><a href="https://fox-access.techidaily.com/design-thinking-for-podcasters-constructing-efficient-rss-files-for-2024/"><u>Design Thinking for Podcasters Constructing Efficient RSS Files for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/find-your-keys-easily-with-these-exceptional-trackers-of-2024/"><u>Find Your Keys Easily with These Exceptional Trackers of 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-implement-driver-updates-on-your-computer-running-windows-10-effortlessly/"><u>How to Implement Driver Updates on Your Computer Running Windows 10 Effortlessly</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-12-pro-max-drfone-by-drfone-ios/"><u>How to Unlock iPhone 12 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Vivo V30 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/manual-methods-for-deleting-dump-files-in-windows-11-os/"><u>Manual Methods for Deleting Dump Files in Windows 11 OS</u></a></li>
+<li><a href="https://win-forum.techidaily.com/master-network-troubleshooting-how-to-perform-a-dns-purge-on-windows-1011/"><u>Master Network Troubleshooting: How to Perform a DNS Purge on Windows 10/11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/master-the-art-of-file-management-avoid-locked-folders-in-windows-11-for-a-cleaner-drive/"><u>Master the Art of File Management: Avoid-Locked-Folders in Windows 11 for a Cleaner Drive</u></a></li>
+<li><a href="https://win-forum.techidaily.com/master-the-installation-of-revo-permission-manager-using-revouninstaller-a-detailed-guide/"><u>Master the Installation of Revo Permission Manager Using RevoUninstaller - A Detailed Guide</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-the-windows-11-installation-hurdle-on-incompatible-systems/"><u>Mastering the Windows 11 Installation Hurdle on Incompatible Systems</u></a></li>
+<li><a href="https://win-forum.techidaily.com/maximize-performance-with-revouninstaller-pro-5-advanced-uninstalling-at-its-best/"><u>Maximize Performance with RevoUninstaller Pro 5 - Advanced Uninstalling at Its Best</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/top-10-best-spy-watches-for-your-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>Top 10 Best Spy Watches For your Apple iPhone 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/visual-storytelling-made-easy-a-guide-to-blending-photo-and-video-in-pixiz/"><u>Visual Storytelling Made Easy A Guide to Blending Photo and Video in Pixiz</u></a></li>
 </ul></div>
+

@@ -1,33 +1,13 @@
 ---
 title: "Week in Review: Upcoming Models From Google & Samsung"
-date: 2024-09-10T10:54:27.348Z
-updated: 2024-09-11T10:54:27.348Z
+date: 2024-09-10T16:45:09.221Z
+updated: 2024-09-16T16:49:36.212Z
 tags:
   - excel
 categories:
   - tech
 thumbnail: https://thmb.techidaily.com/14ed548cb6ba934243f074a1f0d25040231f7c304990988423a92ecc2a56b8e7.jpg
 ---
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Week in Review: Upcoming Models From Google & Samsung
 
@@ -43,75 +23,41 @@ This was a surprisingly busy week for tech news, with announcements for Google a
 
  Third-party components will no longer disable True Tone or battery health.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ### [Steam Can Now Screen Record Your Games](https://techtrends.techidaily.com/explore-66-premier-twitter-profiles-offering-unbeatable-travel-advice-offers-and-epic-adventures/) 
 
  The Steam games client now has a built-in background screen recorder, and it even works on the Steam Deck.
 
 ![Saving a game recording in Steam.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/feature.jpg) 
 
-Valve
-
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
-
-
+Valve
 
 ### [Samsung's New Foldables Are Coming July 10th](https://on-screen-recording.techidaily.com/2024-approved-the-elite-selection-of-top-12-tycoons-perfect-for-strategic-souls/) 
 
  Samsung confirmed its next Unpacked event for July 10th, and we’re expecting new folding phones and other hardware.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ### [Google Chrome Now Has Better Web Search and Sports Scores](https://snapchat-videos.techidaily.com/updated-change-snapchat-voice-in-minutes-using-twin-methods/) 
 
  Chrome on iPhone, iPad, and Android now has a few more features.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2135473/26400" target="_top" id="2135473">
+  <img src="//a.impactradius-go.com/display-ad/26400-2135473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135473/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### [Your Smartphone Is Coming to Windows 11's Start Menu](https://android-unlock.techidaily.com/how-to-fix-oem-unlock-missing-on-vivo-y100i-by-drfone-android/) 
 
@@ -121,69 +67,41 @@ Valve
 
  The official ChatGPT desktop application doesn’t need a Plus subscription anymore, but the app is still limited to macOS.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ### [Moto Tag Is an AirTag Clone for Android Users](https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-infinix-smart-8-hd-phone-by-drfone-android/) 
 
  It's the first UWB tracker to support Google Find My Device.
 
 ![The Moto Tag attached to a handbag.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/66.jpg) 
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123478/16836" target="_top" id="2123478">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123478" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123478/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 Motorola
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118321/7443" target="_top" id="2118321">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118321" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118321/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### [Google's Pixel 9 is Coming August 13th](https://facebook-clips.techidaily.com/updated-fb-video-extraction-creating-mp3s-in-minutes/) 
 
  Google's next hardware event is nearing.
 
+<!-- affiliate ads begin -->
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### [Paramount+ Is Raising Prices Again](https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-nokia-g22-drfone-by-drfone-virtual-android/) 
 
  The last Paramount+ price hike occurred in June of 2023, and now another one is happening.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  The Other Stuff
 
@@ -197,8 +115,6 @@ Motorola
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -208,41 +124,19 @@ Motorola
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-educational-journey-through-time-with-top-history-yt-channels/"><u>[New] 2024 Approved  Educational Journey Through Time with Top History YT Channels</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-swift-upload-of-sizeable-videos-from-iphone-to-mac-desktop/"><u>[New] 2024 Approved  Swift Upload of Sizeable Videos From iPhone to Mac Desktop</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-vita-video-editor-app-review/"><u>[New] 2024 Approved  Vita Video Editor App Review</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-navigating-the-digital-landscape-mastery-of-video-filter-techniques/"><u>[New] Navigating the Digital Landscape  Mastery of Video Filter Techniques</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-parrot-powered-prowess-a-fresh-lens-on-bebop-2/"><u>[New] Parrot-Powered Prowess – A Fresh Lens on Bebop 2</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unlock-android-games-funimate-pro-apk-deep-dive/"><u>[New] Unlock Android Games - Funimate Pro APK Deep Dive</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-twitters-video-dimensions-what-you-need-to-know/"><u>[Updated] 2024 Approved  Twitter's Video Dimensions  What You Need to Know</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-insights-on-instagram-maximum-video-length/"><u>[Updated] In 2024, Insights on Instagram  Maximum Video Length</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-night-sky-magic-long-exposure-photography-on-iphone/"><u>[Updated] Night Sky Magic  Long-Exposure Photography on iPhone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-optimal-offsite-organization-unveiling-best-practices-and-platforms/"><u>2024 Approved  Optimal Offsite Organization  Unveiling Best Practices & Platforms</u></a></li>
-<li><a href="https://fox-that.techidaily.com/accelerate-safari-on-ios-discover-4-key-strategies-to-speed-up-your-phone-browsing/"><u>Accelerate Safari on iOS: Discover 4 Key Strategies to Speed Up Your Phone Browsing</u></a></li>
-<li><a href="https://win-forum.techidaily.com/expert-techniques-for-forcefully-expunging-resistant-folders-from-windows-os-using-revo-uninstaller/"><u>Expert Techniques for Forcefully Expunging Resistant Folders From Windows OS Using Revo Uninstaller</u></a></li>
-<li><a href="https://win-forum.techidaily.com/freeing-up-space-on-your-windows-11-system-a-comprehensive-guide/"><u>Freeing Up Space on Your Windows 11 System: A Comprehensive Guide</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/hastening-vimeo-media-transmission-for-2024/"><u>Hastening Vimeo Media Transmission for 2024</u></a></li>
-<li><a href="https://win-forum.techidaily.com/how-to-fix-pc-issues-preventing-windows-11-installation-successfully/"><u>How to Fix PC Issues Preventing Windows 11 Installation Successfully</u></a></li>
-<li><a href="https://win-forum.techidaily.com/how-to-implement-driver-updates-on-your-computer-running-windows-10-effortlessly/"><u>How to Implement Driver Updates on Your Computer Running Windows 10 Effortlessly</u></a></li>
-<li><a href="https://win-forum.techidaily.com/how-to-implement-power-on-by-lan-functionality-on-windows-11/"><u>How to Implement Power On By LAN Functionality on Windows 11</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-passcode-from-apple-iphone-se-2022-complete-guide-drfone-by-drfone-ios/"><u>How To Remove Passcode From Apple iPhone SE (2022)? Complete Guide | Dr.fone</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-compreenas-record-your-life-in-hd-via-vlc-media-player/"><u>In 2024, Compreenas  Record Your Life in HD via VLC Media Player</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-nokia-c110-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Nokia C110 Phone that is Locked?</u></a></li>
-<li><a href="https://win-forum.techidaily.com/manual-methods-for-deleting-dump-files-in-windows-11-os/"><u>Manual Methods for Deleting Dump Files in Windows 11 OS</u></a></li>
-<li><a href="https://win-forum.techidaily.com/master-network-troubleshooting-how-to-perform-a-dns-purge-on-windows-1011/"><u>Master Network Troubleshooting: How to Perform a DNS Purge on Windows 10/11</u></a></li>
-<li><a href="https://win-forum.techidaily.com/master-the-art-of-file-management-avoid-locked-folders-in-windows-11-for-a-cleaner-drive/"><u>Master the Art of File Management: Avoid-Locked-Folders in Windows 11 for a Cleaner Drive</u></a></li>
-<li><a href="https://win-forum.techidaily.com/master-the-installation-of-revo-permission-manager-using-revouninstaller-a-detailed-guide/"><u>Master the Installation of Revo Permission Manager Using RevoUninstaller - A Detailed Guide</u></a></li>
-<li><a href="https://win-forum.techidaily.com/mastering-social-media-landscapes-with-facebook-twitter-instagram-and-youtube/"><u>Mastering Social Media Landscapes with Facebook, Twitter, Instagram & YouTube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/mastering-the-windows-11-installation-hurdle-on-incompatible-systems/"><u>Mastering the Windows 11 Installation Hurdle on Incompatible Systems</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-windows-menu-management-quick-fixes/"><u>Mastering Windows Menu Management: Quick Fixes</u></a></li>
-<li><a href="https://win-forum.techidaily.com/maximize-performance-with-revouninstaller-pro-5-advanced-uninstalling-at-its-best/"><u>Maximize Performance with RevoUninstaller Pro 5 - Advanced Uninstalling at Its Best</u></a></li>
-<li><a href="https://win-forum.techidaily.com/navigating-the-digital-world-mastering-engagement-across-facebook-twitter-instagram-and-youtube-platforms/"><u>Navigating the Digital World: Mastering Engagement Across Facebook, Twitter, Instagram & YouTube Platforms</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/precision-and-balance-unveiled-in-depth-review-of-twelve-souths-compact-compass-pro/"><u>Precision and Balance Unveiled - In-Depth Review of Twelve South's Compact Compass Pro</u></a></li>
-<li><a href="https://win-forum.techidaily.com/resolving-full-hard-drive-utilization-on-windows-11-a-comprehensive-guide/"><u>Resolving Full Hard Drive Utilization on Windows 11: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-forum.techidaily.com/social-media-powerhouses-stay-connected-with-facebook-twitter-insta-gram-and-tubeyou/"><u>Social Media Powerhouses: Stay Connected with Facebook, Twitter, Insta-Gram & TubeYou</u></a></li>
-<li><a href="https://win-forum.techidaily.com/solving-windows-11-cannot-launch-issues-in-your-system/"><u>Solving 'Windows 11 Cannot Launch' Issues in Your System</u></a></li>
-<li><a href="https://win-forum.techidaily.com/synergy-of-popular-platforms-strategies-for-facebook-twitter-instagram-and-youtubers/"><u>Synergy of Popular Platforms: Strategies for Facebook, Twitter, Instagram and YouTubers</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-big-players-of-online-networking-navigating-through-facebook-twitter-instagram-and-youtube/"><u>The Big Players of Online Networking: Navigating Through Facebook, Twitter, Instagram and Youtube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/understanding-social-media-impact-with-facebook-twitter-instagram-and-youtube-analysis/"><u>Understanding Social Media Impact with Facebook, Twitter, Instagram, and YouTube Analysis</u></a></li>
-<li><a href="https://win-forum.techidaily.com/unpacking-the-powerhouses-of-digital-communication-facebook-twitter-instagram-and-youtube/"><u>Unpacking the Powerhouses of Digital Communication: Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-unlocking-more-traffic-the-ultimate-list-of-keyword-tools/"><u>[New] Unlocking More Traffic The Ultimate List of Keyword Tools</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-fashioning-a-footprint-fonts-for-visual-stories-in-ae/"><u>[Updated] Fashioning a Footprint Fonts for Visual Stories in AE</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-elevate-your-social-media-presence-insta-videography/"><u>[Updated] In 2024, Elevate Your Social Media Presence Insta-Videography</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-realme-11-5g-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Realme 11 5G | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/1722915159357-digital-connectivity-essentials-mastering-facebook-twitter-instagram-and-youtube/"><u>Digital Connectivity Essentials: Mastering Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/engage-online-with-leading-sites-facebook-twitter-instagram-youtube/"><u>Engage Online with Leading Sites: Facebook, Twitter, Instagram, Youtube</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/eye-on-the-best-online-photo-printers-for-24/"><u>Eye on the Best Online Photo Printers for '24</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Samsung Galaxy S21 FE 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/revitalize-your-network-connection-a-comprehensive-tutorial-for-flushing-dns-on-windows-operating-systems/"><u>Revitalize Your Network Connection: A Comprehensive Tutorial for Flushing DNS on Windows Operating Systems</u></a></li>
+<li><a href="https://win-forum.techidaily.com/social-media-titans-unveiled-a-deep-dive-into-facebook-twitter-instagram-and-youtube-dynamics/"><u>Social Media Titans Unveiled: A Deep Dive Into Facebook, Twitter, Instagram & YouTube Dynamics</u></a></li>
+<li><a href="https://win-forum.techidaily.com/strategies-for-freeing-up-space-when-windows-10-reports-a-full-disk/"><u>Strategies for Freeing Up Space When Windows 10 Reports a Full Disk</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-6-ways-to-transfer-text-messages-from-samsung-galaxy-a15-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 6 Ways to Transfer Text Messages from Samsung Galaxy A15 5G to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-platforms-in-social-networking-facebook-twitter-instagram-youtube/"><u>Top Platforms in Social Networking - Facebook, Twitter, Instagram, Youtube</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-soothing-the-digital-soul-the-leading-web-sites-for-inner-peace/"><u>Updated In 2024, Soothing the Digital Soul The Leading Web Sites for Inner Peace</u></a></li>
 </ul></div>
+

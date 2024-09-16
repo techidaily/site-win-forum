@@ -1,33 +1,13 @@
 ---
 title: "Launch of Arc Browser: Now Compatible with Windows 10"
-date: 2024-09-10T10:54:26.471Z
-updated: 2024-09-11T10:54:26.471Z
+date: 2024-09-10T16:45:11.782Z
+updated: 2024-09-16T16:04:27.361Z
 tags:
   - windows
 categories:
   - tech
 thumbnail: https://thmb.techidaily.com/c45c79cad80f175d94c593fb8ff026b4aafae59d206eadb54e9f9c923883caa5.jpg
 ---
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Launch of Arc Browser: Now Compatible with Windows 10
 
@@ -38,26 +18,6 @@ Arc, a free web browser developed by The Browser Company, is now available on Wi
  At the same time, an Arm64 version of Arc is being developed and is "coming soon" to [Windows on ARM](https://fox-http.techidaily.com/essential-list-best-microphones-for-4k-ultra-hd/) systems. If you have a Snapdragon X-powered PC, this version of Arc will run natively instead of through Microsoft's Windows on ARM x86 emulator, dubbed Prism.
 
 ![Arc browser running on macOS 13 Ventura](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/arc_browser_featured.jpg) 
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  Arc is a new Chromium-based browser released in April 2022 that supports Chrome browser extensions from the Chrome Web Store out of the box. The app comes with [some interesting integrations](https://arc.net/integrations), like the ability to change visual elements of any page, with built-in apps hosted in a sidebar. In addition to Windows 10, Arc is available on iOS, iPadOS, macOS, iOS, and Windows 11\. Linux and Android are unsupported at the moment, but you can sign up for an [Android waitlist](https://browserco.typeform.com/to/i5p2MBU5) or a [Windows on ARM waitlist](https://browserco.typeform.com/Arc-Windows-ARM) to stay informed about when those versions will become available.
 
@@ -73,8 +33,6 @@ Arc, a free web browser developed by The Browser Company, is now available on Wi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -84,39 +42,26 @@ Arc, a free web browser developed by The Browser Company, is now available on Wi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-entry-level-mic-tips-for-youtube-voice-talents-for-2024/"><u>[New] Entry-Level Mic Tips for YouTube Voice Talents for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-create-youtube-channel-in-mobile-with-ease-personal-and-business-for-2024/"><u>[New] How to Create YouTube Channel in Mobile with Ease [Personal & Business] for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-elevate-gaming-on-tv-obs-guide/"><u>[Updated] 2024 Approved  Elevate Gaming on TV - OBS Guide</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/bridging-the-gap-between-zoom-and-social-media-streams-for-2024/"><u>Bridging the Gap Between ZOOM and Social Media Streams for 2024</u></a></li>
-<li><a href="https://win-forum.techidaily.com/conveniently-start-your-pc-from-afar-with-wake-on-lan-in-modern-windows-oses/"><u>Conveniently Start Your PC From Afar with Wake-on-LAN in Modern Windows OSes</u></a></li>
-<li><a href="https://win-forum.techidaily.com/discover-how-to-verify-your-powershell-version-on-a-windows-10-machine/"><u>Discover How to Verify Your PowerShell Version on a Windows 10 Machine</u></a></li>
-<li><a href="https://win-forum.techidaily.com/efficiently-editing-deleting-and-creating-registry-keys-masterclass-using-revo-uninstaller/"><u>Efficiently Editing, Deleting & Creating Registry Keys: Masterclass Using Revo Uninstaller</u></a></li>
-<li><a href="https://win-forum.techidaily.com/efficiently-manage-full-storage-space-problems-in-windows-11-computers/"><u>Efficiently Manage Full Storage Space Problems in Windows 11 Computers</u></a></li>
-<li><a href="https://win-forum.techidaily.com/expert-tips-for-managing-and-deleting-win10-dump-files-quickly/"><u>Expert Tips for Managing and Deleting Win10 Dump Files Quickly</u></a></li>
-<li><a href="https://win-forum.techidaily.com/exploring-the-powerhouses-in-digital-communication-facebook-twitter-instagram-and-youtube/"><u>Exploring the Powerhouses in Digital Communication: Facebook, Twitter, Instagram & Youtube</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-lava-yuva-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Lava Yuva 2 | Dr.fone</u></a></li>
-<li><a href="https://win-forum.techidaily.com/fix-slow-network-issues-with-these-simple-dns-flush-steps-for-windows-users/"><u>Fix Slow Network Issues with These Simple DNS Flush Steps for Windows Users</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/ghostly-gag-gallery/"><u>Ghostly Gag Gallery</u></a></li>
-<li><a href="https://win-forum.techidaily.com/guide-identifying-the-active-powershell-version-in-windows-11-environments/"><u>Guide: Identifying The Active PowerShell Version In Windows 11 Environments</u></a></li>
-<li><a href="https://win-forum.techidaily.com/how-to-get-rid-of-programs-not-showing-up-in-windows-control-panel/"><u>How To Get Rid of Programs Not Showing Up In Windows Control Panel</u></a></li>
-<li><a href="https://win-forum.techidaily.com/how-to-reorganize-your-android-apps-a-comprehensive-tutorial-using-organizing-tools/"><u>How to Reorganize Your Android Apps: A Comprehensive Tutorial Using Organizing Tools</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-easy-fixes-how-to-recover-forgotten-icloud-password-on-your-apple-iphone-se-2020-by-drfone-ios/"><u>In 2024, Easy Fixes How To Recover Forgotten iCloud Password On your Apple iPhone SE (2020)</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-how-to-infuse-your-iphone-pics-with-movement/"><u>In 2024, How to Infuse Your iPhone Pics with Movement</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-the-ps5s-capabilities-a-guide-to-unlocking-120-frames-per-second/"><u>Mastering the PS5's Capabilities: A Guide to Unlocking 120 Frames Per Second</u></a></li>
-<li><a href="https://win-forum.techidaily.com/navigating-the-digital-age-with-major-networks-facebook-twitter-instagram-and-youtube/"><u>Navigating the Digital Age with Major Networks - Facebook, Twitter, Instagram, and YouTube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/navigating-the-titans-of-online-networks-facebook-twitter-instagram-and-youtube/"><u>Navigating the Titans of Online Networks: Facebook, Twitter, Instagram, and YouTube</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolving-unsupported-hardware-errors-with-your-current-software-suite/"><u>Resolving Unsupported Hardware Errors with Your Current Software Suite</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-guide-to-clearing-memory-dump-files-on-windows-10/"><u>Step-by-Step Guide to Clearing Memory Dump Files on Windows 10</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-guide-clearing-out-windows-11-memory-dump-files/"><u>Step-by-Step Guide: Clearing Out Windows 11 Memory Dump Files</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-tutorial-setting-up-permanent-admin-rights-in-windows-11-software/"><u>Step-by-Step Tutorial: Setting Up Permanent Admin Rights in Windows 11 Software</u></a></li>
-<li><a href="https://win-forum.techidaily.com/streamlined-file-deletion-with-cmd-tools-a-window-10-users-handbook/"><u>Streamlined File Deletion with CMD Tools - A Window 10 User's Handbook</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-big-four-of-online-interaction-diving-into-facebook-twitter-instagram-and-youtube/"><u>The Big Four of Online Interaction: Diving Into Facebook, Twitter, Instagram & YouTube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-big-four-of-social-networks-diving-deep-into-facebook-twitter-instagram-and-youtubes-ecosystem/"><u>The Big Four of Social Networks: Diving Deep Into Facebook, Twitter, Instagram and YouTube's Ecosystem.</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-ultimate-social-experience-exploring-the-power-of-facebook-twitter-instagram-and-youtube/"><u>The Ultimate Social Experience: Exploring the Power of Facebook, Twitter, Instagram, and YouTube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-ultimate-technique-for-clearing-out-ram-dump-records-on-windows-1011-systems/"><u>The Ultimate Technique for Clearing Out RAM Dump Records on Windows 10/11 Systems</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-oppo-find-x6-by-drfone-android/"><u>Three Ways to Sim Unlock Oppo Find X6</u></a></li>
-<li><a href="https://apple-account.techidaily.com/tips-and-tricks-for-apple-id-locked-issue-on-apple-iphone-15-by-drfone-ios/"><u>Tips and Tricks for Apple ID Locked Issue On Apple iPhone 15</u></a></li>
-<li><a href="https://fox-http.techidaily.com/top-android-and-iphone-apps-for-free-photo-overlay-artistry-for-2024/"><u>Top Android & iPhone Apps for FREE Photo Overlay Artistry for 2024</u></a></li>
-<li><a href="https://win-forum.techidaily.com/unlock-the-secrets-eliminating-stubborn-directories-on-your-windows-11-system/"><u>Unlock the Secrets: Eliminating Stubborn Directories on Your Windows 11 System</u></a></li>
-<li><a href="https://win-forum.techidaily.com/windows-10-powershell-verification-methods-what-you-need-to-know/"><u>Windows 10 PowerShell Verification Methods: What You Need to Know</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-behind-the-scenes-of-effective-instagram-caption-use-for-2024/"><u>[New] Behind the Scenes of Effective Instagram Caption Use for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-strategies-to-triple-your-earnings-on-youtube-shorts/"><u>[New] In 2024, Strategies to Triple Your Earnings on Youtube Shorts</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-youtubes-entry-level-manual-for-effective-channel-creation/"><u>[New] Youtube's Entry-Level Manual for Effective Channel Creation</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-instantaneous-sharability-tweeting-videos-on-snapchat-network/"><u>[Updated] Instantaneous Sharability Tweeting Videos on Snapchat Network</u></a></li>
+<li><a href="https://win-forum.techidaily.com/10-essential-solutions-for-restoring-internet-connectivity-on-wi-fi-in-windows-11/"><u>10 Essential Solutions for Restoring Internet Connectivity on Wi-Fi in Windows 11</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-the-quick-recovery-of-twitch-broadcasts/"><u>2024 Approved The Quick Recovery of Twitch Broadcasts</u></a></li>
+<li><a href="https://win-able.techidaily.com/5a656yep44gu5asn44gn44ge44oh44kj44k544kv44ks44kz44ou44o844gz44kl57ch5y2y44gq44os44k344ou44co5paw5lq644oe44ol44ol44ki44or44cp/"><u>容量の大きいディスクをコピーする簡単なレシピ『新人マニュアル』</u></a></li>
+<li><a href="https://win-forum.techidaily.com/beginners-guide-easy-steps-to-prepare-your-new-windows-laptop/"><u>Beginner's Guide: Easy Steps to Prepare Your New Windows Laptop</u></a></li>
+<li><a href="https://win-forum.techidaily.com/discover-how-windows-11-revamps-the-classic-task-manager-experience/"><u>Discover How Windows 11 Revamps the Classic Task Manager Experience</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722972670721-download-hp-stream-printer-drivers-instantly-with-our-simple-tips/"><u>Download HP Stream Printer Drivers Instantly with Our Simple Tips</u></a></li>
+<li><a href="https://win-forum.techidaily.com/economical-officesolutions-analysis-equally-capable-as-microsoft-office-at-a-lower-cost/"><u>Economical OfficeSolutions Analysis: Equally Capable as Microsoft Office at a Lower Cost</u></a></li>
+<li><a href="https://win-forum.techidaily.com/essential-10-command-line-utilities-every-new-pc-user-must-know/"><u>Essential 10 Command Line Utilities Every New PC User Must Know</u></a></li>
+<li><a href="https://win-forum.techidaily.com/evolving-cybersecurity-risks-in-popular-microsoft-office-tools-what-you-need-to-know/"><u>Evolving Cybersecurity Risks in Popular Microsoft Office Tools - What You Need to Know</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-do-you-unlock-your-iphone-xs-max-learn-all-4-methods-drfone-by-drfone-ios/"><u>In 2024, How Do You Unlock your iPhone XS Max? Learn All 4 Methods | Dr.fone</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

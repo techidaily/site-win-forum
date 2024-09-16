@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Windows Registry: Edit, Add, or Remove Key Steps"
-date: 2024-09-10T10:54:31.160Z
-updated: 2024-09-11T10:54:31.160Z
+date: 2024-09-10T16:23:39.251Z
+updated: 2024-09-16T16:18:09.345Z
 tags:
   - win11
   - win10
@@ -36,20 +36,6 @@ thumbnail: https://thmb.techidaily.com/a8dc09aa00b57fb659621da31b365534682fa3f06
 2. Choose the app you want to force quit
 3. Click**‘End task’** ![End task](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/force-quit-11/how-to-force-quit-an-app-method-1-task-manager.png)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118313/7443" target="_top" id="2118313">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118313" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118313/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## How to force quit on Windows through the Settings menu
 
 1. Click on the**‘Windows’** start icon, then select**‘Settings’** .
@@ -58,53 +44,12 @@ thumbnail: https://thmb.techidaily.com/a8dc09aa00b57fb659621da31b365534682fa3f06
 4. This will open the app’s settings. Look for and click on**‘Advanced options’** . ![End task](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/force-quit-11/how-to-force-quit-an-app-method-2-settings-terminate.png)
 5. Finally, click on**‘Terminate’** to force quit the app and its associated processes. ![End task](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/force-quit-11/how-to-force-quit-an-app-method-2-settings-terminate-2.png)
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Here’s how to force quit an application on Windows using Command Prompt
 
@@ -114,19 +59,12 @@ thumbnail: https://thmb.techidaily.com/a8dc09aa00b57fb659621da31b365534682fa3f06
 4. Identify the process ID (PID) or name of the application you want to force quit from the list.
 5. Once you’ve identified the application, type**‘taskkill /f /im insertprogram.exe’** (replace “insertprogram.exe” with the name of the program or its process ID) and press**‘Enter’** to forcefully terminate the application.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## Force quit on Windows App quickly with keyboard shortcut
 
@@ -140,20 +78,6 @@ thumbnail: https://thmb.techidaily.com/a8dc09aa00b57fb659621da31b365534682fa3f06
  If this final step doesn’t resolve the issue, consider updating your operating system. Keeping your OS up to date ensures smooth performance and access to the latest security updates.
 
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## We can help you every time when…
 
@@ -170,8 +94,6 @@ thumbnail: https://thmb.techidaily.com/a8dc09aa00b57fb659621da31b365534682fa3f06
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -181,52 +103,13 @@ thumbnail: https://thmb.techidaily.com/a8dc09aa00b57fb659621da31b365534682fa3f06
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-fixed-obs-audio-capture-issue/"><u>[New] 2024 Approved  Fixed OBS Audio Capture Issue</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-assessing-max-360-and-hero-11-the-ultimate-gopro-video-experience/"><u>[New] Assessing Max 360 & Hero 11  The Ultimate GoPro Video Experience</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-advanced-tips-for-applying-onscreen-vhs-effects-and-filters/"><u>[New] In 2024, Advanced Tips for Applying Onscreen VHS Effects and Filters</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-conquering-content-sharing-on-igtv/"><u>[Updated] 2024 Approved  Conquering Content Sharing on IGTV</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-capture-audio-waveforms-and-vocal-tracks/"><u>[Updated] Capture Audio Waveforms & Vocal Tracks</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-master-the-art-of-streamlined-screen-recordings-on-mac/"><u>2024 Approved  Master the Art of Streamlined Screen Recordings on Mac</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-travel-film-kit-the-necessary-arsenal/"><u>2024 Approved  Travel Film Kit  The Necessary Arsenal</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-lava-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Lava Fingerprint Lock</u></a></li>
-<li><a href="https://win-forum.techidaily.com/diy-desktop-cleanup-getting-rid-of-excess-programs-in-windows-11-efficiently/"><u>DIY Desktop Cleanup: Getting Rid of Excess Programs in Windows 11 Efficiently</u></a></li>
-<li><a href="https://media-tips.techidaily.com/diy-mp3-ringtone-creator-easy-guide-to-personalize-your-phone-sounds/"><u>DIY MP3 Ringtone Creator: Easy Guide to Personalize Your Phone Sounds</u></a></li>
-<li><a href="https://win-forum.techidaily.com/easy-fixes-for-the-windows-missing-class-registration-error/"><u>Easy Fixes for the Windows Missing Class Registration Error</u></a></li>
-<li><a href="https://win-forum.techidaily.com/easy-steps-mastering-hunter-mode-in-revo-uninstaller/"><u>Easy Steps: Mastering Hunter Mode in Revo Uninstaller</u></a></li>
-<li><a href="https://win-forum.techidaily.com/easy-tutorial-how-to-find-and-edit-your-pcs-bios-settings-in-windows-11/"><u>Easy Tutorial: How to Find and Edit Your PC's BIOS Settings in Windows 11</u></a></li>
-<li><a href="https://win-forum.techidaily.com/effective-strategies-to-resolve-errors-preventing-apps-from-running-on-your-desktop/"><u>Effective Strategies to Resolve Errors Preventing Apps From Running on Your Desktop</u></a></li>
-<li><a href="https://win-forum.techidaily.com/enhance-your-web-experience-by-flushing-dns-in-windows-1011/"><u>Enhance Your Web Experience by Flushing DNS in Windows 10/11</u></a></li>
-<li><a href="https://win-forum.techidaily.com/expert-tips-for-cleanly-deleting-windows-11-and-its-new-enhancements/"><u>Expert Tips for Cleanly Deleting Windows 11 and Its New Enhancements</u></a></li>
-<li><a href="https://win-forum.techidaily.com/exploring-the-core-social-channels-strategies-for-success-in-facebook-twitter-instagram-and-youtube/"><u>Exploring the Core Social Channels: Strategies for Success in Facebook, Twitter, Instagram & YouTube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/find-out-the-version-of-powershell-in-windows-10-with-simple-tricks/"><u>Find Out the Version of PowerShell in Windows 10 with Simple Tricks</u></a></li>
-<li><a href="https://win-forum.techidaily.com/guide-how-to-delete-non-standard-software-via-windows-task-manager/"><u>Guide: How to Delete Non-Standard Software via Windows Task Manager</u></a></li>
-<li><a href="https://win-forum.techidaily.com/hack-your-pc-for-windows-11-compatibility-tweaks-for-cpus-blocked-by-microsoft/"><u>Hack Your PC for Windows 11: Compatibility Tweaks for CPU's Blocked by Microsoft</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/how-to-take-your-english-to-the-next-level/"><u>How to Take Your English to the Next Level</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-master-the-art-of-moving-shots-a-handbook-for-hero5-time-lapse-photography/"><u>In 2024, Master the Art of Moving Shots  A Handbook for Hero5 Time-Lapse Photography</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-maximize-fun-choose-from-heres-top-5-chrome-extensions-for-facebook-vids/"><u>In 2024, Maximize Fun  Choose From Here's Top 5 Chrome Extensions for Facebook Vids</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-youtube-to-avi-tutorial-plus-8-best-youtube-to-avi-converters/"><u>In 2024, YouTube to AVI  Tutorial + 8 Best YouTube to AVI Converters</u></a></li>
-<li><a href="https://win-forum.techidaily.com/master-the-art-of-forcible-file-removal-in-windows-operating-systems-using-revo-uninstaller/"><u>Master the Art of Forcible File Removal in Windows Operating Systems Using Revo Uninstaller</u></a></li>
-<li><a href="https://win-forum.techidaily.com/master-the-quick-fix-for-stuck-windows-software-a-step-by-step-guide-with-revouninstaller/"><u>Master the Quick Fix for Stuck Windows Software - A Step-by-Step Guide with RevoUninstaller</u></a></li>
-<li><a href="https://win-forum.techidaily.com/navigating-popular-digital-landscapes-insights-into-facebook-twitter-instagram-and-youtube/"><u>Navigating Popular Digital Landscapes: Insights Into Facebook, Twitter, Instagram, and YouTube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/navigating-the-landscape-of-popular-networks-facebook-to-youtube-inclusive/"><u>Navigating the Landscape of Popular Networks: Facebook to YouTube Inclusive</u></a></li>
-<li><a href="https://win-forum.techidaily.com/revamping-driver-performance-on-windows-11-a-comprehensive-tutorial/"><u>Revamping Driver Performance on Windows 11: A Comprehensive Tutorial</u></a></li>
-<li><a href="https://win-forum.techidaily.com/revitalize-your-drives-capacity-freeing-space-on-windows-11-via-revo-uninstaller-steps/"><u>Revitalize Your Drive's Capacity: Freeing Space on Windows 11 via Revo Uninstaller Steps</u></a></li>
-<li><a href="https://win-forum.techidaily.com/revolutionize-your-pc-maintenamo-by-creating-deleting-and-tweaking-registry-settings-using-revo-uninstaller/"><u>Revolutionize Your PC Maintenamo by Creating, Deleting, and Tweaking Registry Settings Using Revo Uninstaller</u></a></li>
-<li><a href="https://win-forum.techidaily.com/1722915387540-social-media-giants-facebook-twitter-instagram-and-youtube/"><u>Social Media Giants: Facebook, Twitter, Instagram, and YouTube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/social-media-titans-unveiling-the-power-of-facebook-twitter-instagram-and-youtube/"><u>Social Media Titans - Unveiling the Power of Facebook, Twitter, Instagram, and YouTube</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solving-the-dilemma-resolve-wmvcoredll-missing-error-effectively/"><u>Solving the Dilemma: Resolve 'Wmvcore.dll' Missing Error Effectively</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-guide-how-to-determine-your-powershell-version-in-windows-11/"><u>Step-by-Step Guide: How to Determine Your PowerShell Version in Windows 11</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-guide-removing-files-and-directories-using-cmd-on-windows-11/"><u>Step-by-Step Guide: Removing Files & Directories Using CMD on Windows 11</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-tutorial-on-modifying-deleting-and-adding-registry-key-values-using-revo-uninstaller/"><u>Step-by-Step Tutorial on Modifying, Deleting & Adding Registry Key Values Using Revo Uninstaller</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-pinnacle-of-digital-connections-discovering-facebook-twitter-instagram-and-youtube/"><u>The Pinnacle of Digital Connections: Discovering Facebook, Twitter, Instagram & YouTube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-powerhouse-of-social-media-an-in-depth-look-at-facebook-twitter-instagram-and-youtube/"><u>The Powerhouse of Social Media: An In-Depth Look at Facebook, Twitter, Instagram and YouTube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-ultimate-tutorial-for-flushing-the-dns-resolver-cache-in-windows-operating-systems/"><u>The Ultimate Tutorial for Flushing the DNS Resolver Cache in Windows Operating Systems</u></a></li>
-<li><a href="https://win-forum.techidaily.com/top-social-media-platforms-facebook-twitter-and-instagram-youtube/"><u>Top Social Media Platforms: Facebook, Twitter & Instagram | YouTube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/1722915329256-trouble-with-starting-programs-heres-how-you-can-fix-it-on-pc/"><u>Trouble with Starting Programs? Here's How You Can Fix It on PC!</u></a></li>
-<li><a href="https://win-forum.techidaily.com/troubleshooting-tips-for-the-windows-11-not-installed-message-on-your-computer/"><u>Troubleshooting Tips for the 'Windows 11 Not Installed' Message on Your Computer</u></a></li>
-<li><a href="https://win-forum.techidaily.com/troubleshooting-tips-how-to-immediately-terminate-frozen-windows-programs/"><u>Troubleshooting Tips: How to Immediately Terminate Frozen Windows Programs</u></a></li>
-<li><a href="https://win-forum.techidaily.com/unlocking-computer-secrets-how-to-view-bios-details-using-windows-11s-advanced-features/"><u>Unlocking Computer Secrets: How to View BIOS Details Using Windows 11'S Advanced Features</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/-vs-youtube-a-content-creators-guide/"><u>Vimeo Vs. YouTube  A Content Creator's Guide</u></a></li>
-<li><a href="https://win-forum.techidaily.com/windows-11-disk-cleanup-guide-boost-your-drive-capacity-using-revo-uninstaller/"><u>Windows 11 Disk Cleanup Guide: Boost Your Drive Capacity Using Revo Uninstaller</u></a></li>
-<li><a href="https://win-forum.techidaily.com/your-comprehensive-guide-to-leading-online-communities-facebook-twitter-instagram-youtube/"><u>Your Comprehensive Guide to Leading Online Communities: Facebook, Twitter, Instagram, YouTube</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-apex-screenplay-creations-segmented-by-movie-type/"><u>[Updated] Apex Screenplay Creations, Segmented By Movie Type</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/exploring-the-ultimate-list-of-leading-handheld-gaming-systems/"><u>Exploring the Ultimate List of Leading Handheld Gaming Systems</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-network-locked-samsung-galaxy-m14-5g-phone-by-drfone-android/"><u>How to Unlock a Network Locked Samsung Galaxy M14 5G Phone?</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-enhance-videos-naturally-free-9-youtube-thumbnail-crafting-tips/"><u>In 2024, Enhance Videos Naturally - Free 9 YouTube Thumbnail Crafting Tips</u></a></li>
+<li><a href="https://games-able.techidaily.com/reverting-card-invalid-status-in-sony-gaming-system/"><u>Reverting Card Invalid Status in Sony Gaming System</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-ultimate-tutorial-on-leveraging-the-excel-navigation-pane-for-quick-data-access/"><u>The Ultimate Tutorial on Leveraging the Excel Navigation Pane for Quick Data Access</u></a></li>
+<li><a href="https://win-forum.techidaily.com/understanding-the-distinction-functions-vs-formulas-in-microsoft-excel/"><u>Understanding the Distinction: Functions Vs. Formulas in Microsoft Excel</u></a></li>
+<li><a href="https://win-forum.techidaily.com/vlookup-essentials-a-step-by-step-guide-to-querying-ranges-in-excel-spreadsheets/"><u>VLOOKUP Essentials: A Step-by-Step Guide to Querying Ranges in Excel Spreadsheets</u></a></li>
 </ul></div>
+

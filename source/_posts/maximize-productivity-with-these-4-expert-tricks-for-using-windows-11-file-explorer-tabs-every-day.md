@@ -1,7 +1,7 @@
 ---
 title: Maximize Productivity with These 4 Expert Tricks for Using Windows 11 File Explorer Tabs Every Day
-date: 2024-09-10T10:54:26.504Z
-updated: 2024-09-11T10:54:26.504Z
+date: 2024-09-09T16:09:56.803Z
+updated: 2024-09-16T16:21:31.710Z
 tags:
   - windows
 categories:
@@ -9,35 +9,7 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/a-notebook-with-the-windows-11-file-explorer-open-and-the-file-explorer-icon-in-the-front.jpg
 ---
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## Maximize Productivity with These 4 Expert Tricks for Using Windows 11 File Explorer Tabs Every Day
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Quick Links
 
@@ -62,20 +34,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![File Explorer with the 'Open In New Tab' option open having right-clicked a folder to open in the new tab.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/new-tab-2.png) 
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  It's just as easy to close a tab. Use the shortcut key Ctrl+W to close your active tab, click the small "X" in the corner of a tab to close it, or click your mouse scrolling wheel on the tab you want to close. Whichever method you use, if you have only one tab open in the File Explorer window, this will close the whole window.
 
 ![File Explorer with the 'X' to close the tab highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/close-tab.png) 
@@ -85,20 +43,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![The tab closing options viewable in File Explorer by right-clicking on an existing tab.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/tab-closing-options.png) 
 
  Click "Close Other Tabs" to leave just that one tab open, or click "Close Tabs To The Right" to keep that tab and the tabs to the left open, while closing all the other tabs.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ##  Change the Default New Tab Folder
 
@@ -112,19 +56,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![File Explorer's Folder Options Window with the 'Open File Explorer To' drop-down options highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/file-explorer-folder-options-window.png) 
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ##  Jump Between and Reorder Tabs
 
@@ -135,23 +72,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Five File Explorer tabs numbered from one to five.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/numbered-tabs.png) 
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  To reorder your tabs along the tab bar (for example, I like to organize my tabs in terms of work completion, with new tasks on the left, semi-finished tasks in their various degrees of completion in the middle, and completed tasks on the right), simply click and drag the tab you want to move and drop it in its new place.
 
  If you want to split your tabs back into separate windows (for example, if you're working on two screens and would find it easier to see a specific folder on the second screen), drag and drop the tab away from the File Explorer window.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Move or Copy Files or Folders Between Tabs
 
@@ -173,8 +103,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -184,45 +112,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/new-capture-stillness-on-the-go-without-tripods/"><u>[New] Capture Stillness on the Go without Tripods</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-how-to-personalize-videos-adding-captions-in-the-photos-app/"><u>[New] How to Personalize Videos  Adding Captions in the Photos App</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-quick-guide-lecture-capture-with-your-computer-mac-for-2024/"><u>[Updated] Quick Guide  Lecture Capture with Your Computer (Mac) for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-get-every-detail-of-your-favorite-movies-macscreencasting-netflix/"><u>2024 Approved  Get Every Detail of Your Favorite Movies  MacScreencasting Netflix</u></a></li>
-<li><a href="https://howto.techidaily.com/best-methods-for-samsung-galaxy-s23-tactical-edition-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Samsung Galaxy S23 Tactical Edition Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://win-forum.techidaily.com/bypass-limits-how-to-get-windows-11-working-on-unsupported-chips-via-revouninstaller/"><u>Bypass Limits: How to Get Windows 11 Working on Unsupported Chips via RevoUninstaller</u></a></li>
-<li><a href="https://win-forum.techidaily.com/connecting-the-world-one-post-at-a-time-insights-on-facebook-twitter-instagram-and-youtube/"><u>Connecting the World One Post at a Time: Insights on Facebook, Twitter, Instagram & YouTube</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/rve-space-not-time-youtube-video-length-adjustment-for-2024/"><u>Conserve Space, Not Time  YouTube Video Length Adjustment for 2024</u></a></li>
-<li><a href="https://win-forum.techidaily.com/ensuring-your-programs-run-as-an-admin-on-windows-11-a-complete-how-to/"><u>Ensuring Your Programs Run as an Admin on Windows 11 - A Complete How-To</u></a></li>
-<li><a href="https://win-forum.techidaily.com/essential-digital-hubs-for-connectivity-unveiling-facebook-twitter-instagram-and-youtube/"><u>Essential Digital Hubs for Connectivity: Unveiling Facebook, Twitter, Instagram & Youtube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/experiencing-a-red-display-error-heres-how-you-can-successfully-fix-it/"><u>Experiencing a Red Display Error? Here's How You Can Successfully Fix It</u></a></li>
-<li><a href="https://win-forum.techidaily.com/expert-techniques-to-delete-foldersfiles-with-powershell-or-command-prompt-on-windows-11/"><u>Expert Techniques to Delete Folders/Files with PowerShell or Command Prompt on Windows 11</u></a></li>
-<li><a href="https://win-forum.techidaily.com/expert-tips-to-resolve-continuous-windows-explorer-failures-7-fixes/"><u>Expert Tips to Resolve Continuous Windows Explorer Failures (7 Fixes)</u></a></li>
-<li><a href="https://win-forum.techidaily.com/exploring-the-big-4-in-social-media-an-insight-into-facebook-twitter-instagram-and-youtube/"><u>Exploring the Big 4 in Social Media - An Insight Into Facebook, Twitter, Instagram and Youtube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/1722915271217-facebook-to-youtube-a-comprehhemic-view-on-the-leading-social-networks-of-our-time/"><u>Facebook to Youtube: A Comprehhemic View on the Leading Social Networks of Our Time.</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-honor-70-lite-5g-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from Honor 70 Lite 5G.</u></a></li>
-<li><a href="https://win-forum.techidaily.com/how-to-erase-crashdump-files-from-your-windows-11-pc-a-comprehensive-guide/"><u>How To Erase Crashdump Files From Your Windows 11 PC: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-forum.techidaily.com/leading-platforms-of-digital-expression-facebook-twitter-instagram-and-youtube/"><u>Leading Platforms of Digital Expression - Facebook, Twitter, Instagram, and YouTube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/lenovo-thinkpad-x1-titanium-yoga-the-ultimate-2-in-one-laptop-for-fans-of-the-iconic-thinkpad-line/"><u>Lenovo ThinkPad X1 Titanium Yoga - The Ultimate 2-In-One Laptop for Fans of the Iconic ThinkPad Line</u></a></li>
-<li><a href="https://win-forum.techidaily.com/master-the-technique-of-forced-folder-removal-on-windows-operating-systems/"><u>Master the Technique of Forced Folder Removal on Windows Operating Systems</u></a></li>
-<li><a href="https://win-forum.techidaily.com/mastering-digital-engagement-with-top-platforms-facebook-twitter-instagram-and-youtube/"><u>Mastering Digital Engagement with Top Platforms: Facebook, Twitter, Instagram & YouTube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/navigating-the-big-four-of-social-media-strategies-for-successful-presence-on-facebook-twitter-instagram-and-youtube/"><u>Navigating the Big Four of Social Media - Strategies for Successful Presence on Facebook, Twitter, Instagram, and YouTube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/navigating-the-digital-landscape-a-dive-into-facebook-twitter-instagram-and-youtube/"><u>Navigating the Digital Landscape: A Dive Into Facebook, Twitter, Instagram & YouTube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/1722915306397-navigating-the-giants-of-social-networking-fb-twtr-igtv-and-gotube/"><u>Navigating the Giants of Social Networking: FB, TWTR, IGTV, and GoTube!</u></a></li>
-<li><a href="https://win-forum.techidaily.com/navigating-the-social-spectrum-a-guide-to-facebook-twitter-instagram-and-youtube/"><u>Navigating the Social Spectrum: A Guide to Facebook, Twitter, Instagram & YouTube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/navigating-the-social-sphere-insights-into-facebook-twittersphere-and-instagram-against-youtube/"><u>Navigating the Social Sphere: Insights Into Facebook, Twittersphere & Instagram Against YouTube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/navigating-the-web-of-social-interaction-facebook-twitter-instagram-youtube-insights/"><u>Navigating the Web of Social Interaction: Facebook, Twitter, Instagram, Youtube Insights</u></a></li>
-<li><a href="https://win-forum.techidaily.com/protect-your-privacy-removing-tracking-cookies-from-windows-11-and-android-devices-easily/"><u>Protect Your Privacy: Removing Tracking Cookies From Windows 11 & Android Devices Easily</u></a></li>
-<li><a href="https://win-forum.techidaily.com/quick-guide-mastering-forced-closure-of-windows-programs-with-revo-uninstaller/"><u>Quick Guide: Mastering Forced Closure of Windows Programs with Revo Uninstaller</u></a></li>
-<li><a href="https://win-forum.techidaily.com/resolving-my-pc-cannot-launch-windows-11-comprehensive-troubleshooting-tutorial/"><u>Resolving 'My PC Cannot Launch Windows 11': Comprehensive Troubleshooting Tutorial</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ing-from-scratch-on-youtube-channel-creation-and-monetization-basics/"><u>Starting From Scratch on Youtube  Channel Creation and Monetization Basics</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-quintessential-quartet-understanding-facebook-twitter-instagram-and-youtubes-impact/"><u>The Quintessential Quartet: Understanding Facebook, Twitter, Instagram & YouTube's Impact</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-quintessential-social-media-mix-harnessing-facebook-twitter-instagram-and-youtube-for-success/"><u>The Quintessential Social Media Mix: Harnessing Facebook, Twitter, Instagram & YouTube for Success</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-verdict-on-revo-uninstaller-and-alternatives-for-thorough-application-removal/"><u>The Verdict on Revo Uninstaller and Alternatives for Thorough Application Removal</u></a></li>
-<li><a href="https://win-forum.techidaily.com/troubleshooting-the-class-registration-error-on-your-pc-expert-tips-and-tricks/"><u>Troubleshooting the 'Class Registration Error' On Your PC: Expert Tips & Tricks</u></a></li>
-<li><a href="https://win-forum.techidaily.com/understanding-the-giants-of-social-media-a-look-at-facebook-twitter-instagram-and-youtube/"><u>Understanding the Giants of Social Media: A Look at Facebook, Twitter, Instagram and YouTube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/understanding-the-giants-a-look-at-facebook-twitter-instagram-and-youtube/"><u>Understanding the Giants: A Look at Facebook, Twitter, Instagram, and YouTube</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/unlock-the-secrets-to-social-media-success-with-igtv-hashtag-techniques/"><u>Unlock the Secrets to Social Media Success with IGTV Hashtag Techniques</u></a></li>
-<li><a href="https://driver-download.techidaily.com/update-to-the-latest-software-improved-performance-for-logitech-g93astery-g933/"><u>Update to the Latest Software: Improved Performance for Logitech G93astery G933</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-expert-approved-text-animation-software-for-2024/"><u>Updated Expert-Approved Text Animation Software for 2024</u></a></li>
-<li><a href="https://win-forum.techidaily.com/your-ultimate-guide-to-popular-online-hubs-twitter-instagram-facebook-and-youtube/"><u>Your Ultimate Guide to Popular Online Hubs: Twitter, Instagram, Facebook & Youtube</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-unlocked-mac-capture-tool-no-cost/"><u>[New] Unlocked Mac Capture Tool - No Cost</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-dial-back-unrequested-youtube-recommendations/"><u>[Updated] In 2024, Dial Back Unrequested YouTube Recommendations</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-proven-ways-to-capture-and-preserve-your-favorite-discord-sessions/"><u>[Updated] Proven Ways to Capture and Preserve Your Favorite Discord Sessions</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/apples-financial-forecast-the-unpredictable-path-of-the-apple-card-as-cash-reserves-surpass-a-decade-long-milestone/"><u>Apple's Financial Forecast: The Unpredictable Path of the Apple Card as Cash Reserves Surpass a Decade-Long Milestone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/between-two-tech-giants-determining-the-best-ai-chatbot-experience-with-google-bard-vs-bing-chat/"><u>Between Two Tech Giants: Determining the Best AI Chatbot Experience with Google Bard Vs. Bing Chat</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-playstation-portable-launch-details-dates-costs-and-purchase-locations/"><u>Discover PlayStation Portable Launch Details: Dates, Costs & Purchase Locations</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Tecno Spark 10C? | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-professional-mac-strategies-for-classroom-audio-recording/"><u>In 2024, Professional Mac Strategies for Classroom Audio Recording</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-file-management-setting-up-directories-and-documents-via-windows-command-line/"><u>Mastering File Management: Setting Up Directories & Documents via Windows Command Line</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-passkey-setup-a-comprehensive-guide-for-windows-11-users/"><u>Mastering Passkey Setup: A Comprehensive Guide for Windows 11 Users</u></a></li>
+<li><a href="https://win-forum.techidaily.com/optimize-your-pc-for-gaming-comprehensive-instructions-on-enabling-or-disabling-the-xbox-game-bar-feature-in-windows-11/"><u>Optimize Your PC for Gaming: Comprehensive Instructions on Enabling or Disabling the Xbox Game Bar Feature in Windows 11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/potential-risks-of-windows-11-home-fall-creators-update-kb5006832-on-network-attached-storage-devices/"><u>Potential Risks of Windows 11 Home Fall Creators Update (KB5006832) on Network-Attached Storage Devices</u></a></li>
+<li><a href="https://win-forum.techidaily.com/quick-methods-for-discovering-and-deleting-aged-data-on-your-windows-11-pc/"><u>Quick Methods for Discovering and Deleting Aged Data on Your Windows 11 PC</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-fix-fcpx-errors-how-to-perform-a-fresh-start/"><u>Updated 2024 Approved Fix FCPX Errors How to Perform a Fresh Start</u></a></li>
 </ul></div>
+

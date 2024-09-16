@@ -1,7 +1,7 @@
 ---
 title: "Effortless Currency Transformation: Learn How to Use Microsoft Excel for Effective Money Conversion"
-date: 2024-09-10T10:54:27.821Z
-updated: 2024-09-11T10:54:27.821Z
+date: 2024-09-11T16:56:32.749Z
+updated: 2024-09-16T16:41:19.565Z
 tags:
   - excel
 categories:
@@ -17,26 +17,6 @@ thumbnail: https://thmb.techidaily.com/7240c2e9a6abc552c14c05c0954b803ce022aaf37
 * [Converting Currency in Microsoft Excel](https://youtube-sure.techidaily.com/for-effective-tripod-usage-in-video-blogging-for-2024/)
 
  Microsoft Excel doesn't include built-in tools to convert currency. However, you can use an external data source to provide up-to-date rates. A basic multiplication formula will then convert from one currency to another. Here's how you do it!
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ##  Adding an External Data Source to Excel
 
@@ -56,39 +36,11 @@ Related: [How to Convert Currency in Google Sheets](https://fox-blue.techidaily.
 
 ![Paste your XML data feed into the Import Data window, then press Import to import it into Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/01/Excel-Import-Data-Window.png) 
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  If you have Office 2019 or 365, you see a preview of how the data will be imported. If you're using FloatRates data, you have to convert it in the Excel Power Query Editor to use it.
 
  To do so, click "Transform Data."
 
 ![Click Transform Data to convert an XML data feed during the XML import wizard](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/01/Excel-XML-Transform-Data.png) 
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120862/26400?prodsku=Saturn" target="_top" id="2120862">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120862" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120862/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  The Excel Power Query Editor appears. Scroll to the "Item" column, and then double-click "Table" to load the up-to-date currency rates.
 
@@ -104,20 +56,6 @@ Related: [How to Convert Currency in Google Sheets](https://fox-blue.techidaily.
 
 ![Press Data > Refresh All to refresh your data sources manually](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/01/Excel-Refresh-Data.png) 
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ##  Converting Currency in Microsoft Excel
 
  You can use the up-to-date data you imported to convert currency figures with a simple multiplication formula.
@@ -127,20 +65,6 @@ Related: [How to Convert Currency in Google Sheets](https://fox-blue.techidaily.
  Using our FloatRates U.S. dollar data, we see that to convert from U.S. dollars to British pounds, we need to use the GBP exchange rate in cell I3.
 
 ![Currency exchange rates, imported from an external data source in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/01/Excel-GBP-Currency-Rate.png) 
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  Return to your existing worksheet, and type the USD price from which you want to convert into a cell. In a second cell, use the formula 
 
@@ -160,20 +84,6 @@ Related: [How to Convert Currency in Google Sheets](https://fox-blue.techidaily.
 
 ![Manual currency conversion in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/01/Excel-Manual-Currency-Conversion.png) 
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  The same multiplication formula converts your currency. However, if you're not using an external data source, you'll have to update the rate manually to see the correct price.
 
 <ins class="adsbygoogle"
@@ -181,8 +91,6 @@ Related: [How to Convert Currency in Google Sheets](https://fox-blue.techidaily.
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -193,52 +101,32 @@ Related: [How to Convert Currency in Google Sheets](https://fox-blue.techidaily.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-enhance-productivity-mac-screen-capture-made-simple-using-shortcut-keys/"><u>[Updated] Enhance Productivity  Mac Screen Capture Made Simple Using Shortcut Keys</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-the-ultimate-list-of-premium-androidpc-video-editors/"><u>[Updated] In 2024, The Ultimate List of Premium Android/PC Video Editors</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-initiate-google-meet-using-your-gadget/"><u>[Updated] Initiate Google Meet Using Your Gadget</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-understanding-imovies-editing-edge/"><u>[Updated] Understanding iMovie's Editing Edge</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-digital-duet-syncing-videos-for-twitter-and-tumble/"><u>2024 Approved  Digital Duet  Syncing Videos for Twitter and Tumble</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/compatible-brother-hl-2280dw-printer-drivers-for-windows-111087-fast-and-easy-installation/"><u>Compatible Brother HL-2280DW Printer Drivers for Windows 11/10/8/7: Fast and Easy Installation</u></a></li>
-<li><a href="https://win-forum.techidaily.com/connecting-in-a-connected-world-unraveling-the-secrets-of-facebook-twitter-instagram-and-youtube/"><u>Connecting in a Connected World: Unraveling The Secrets of Facebook, Twitter, Instagram, and YouTube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/conveniently-start-your-pc-from-afar-with-wake-on-lan-in-modern-windows-oses/"><u>Conveniently Start Your PC From Afar with Wake-on-LAN in Modern Windows OSes</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-new-usb-to-hdmi-drivers-enhance-your-device-compatibility/"><u>Download New USB to HDMI Drivers: Enhance Your Device Compatibility</u></a></li>
-<li><a href="https://android-frp.techidaily.com/easy-guide-how-to-bypass-oppo-find-n3-flip-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Oppo Find N3 Flip FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://win-forum.techidaily.com/effortless-registry-key-customization-how-to-use-revo-uninstaller-for-editing-and-deletion-tasks/"><u>Effortless Registry Key Customization: How to Use Revo Uninstaller for Editing and Deletion Tasks</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/essential-2023s-selection-of-top-tier-pc-vr-gear/"><u>Essential 2023'S Selection of Top-Tier PC VR Gear</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/expanding-horizons-the-vr-in-classroom-effect/"><u>Expanding Horizons  The VR in Classroom Effect</u></a></li>
-<li><a href="https://win-forum.techidaily.com/expert-tips-on-disentangling-from-recent-windows-11-upgrades/"><u>Expert Tips on Disentangling From Recent Windows 11 Upgrades</u></a></li>
-<li><a href="https://win-forum.techidaily.com/exploring-the-powerhouses-in-digital-communication-facebook-twitter-instagram-and-youtube/"><u>Exploring the Powerhouses in Digital Communication: Facebook, Twitter, Instagram & Youtube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/how-to-clean-out-persistent-folders-from-your-system-a-guide-for-windows-1011-users-with-revo-uninstaller/"><u>How to Clean Out Persistent Folders From Your System: A Guide for Windows 10/11 Users with Revo Uninstaller</u></a></li>
-<li><a href="https://win-forum.techidaily.com/how-to-get-rid-of-programs-not-showing-up-in-windows-control-panel/"><u>How To Get Rid of Programs Not Showing Up In Windows Control Panel</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-iphone-8-plus-data-from-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover iPhone 8 Plus Data From iTunes? | Dr.fone</u></a></li>
-<li><a href="https://win-forum.techidaily.com/how-to-reorganize-your-android-apps-a-comprehensive-tutorial-using-organizing-tools/"><u>How to Reorganize Your Android Apps: A Comprehensive Tutorial Using Organizing Tools</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-tackle-the-notorious-blue-screen-of-death-stop-code-0x00000124-on-windows-systems/"><u>How to Tackle the Notorious Blue Screen of Death (Stop Code 0X00000124) on Windows Systems</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-update-or-downgrade-iphone-6-plus-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade iPhone 6 Plus Without Data Loss? | Dr.fone</u></a></li>
-<li><a href="https://win-forum.techidaily.com/improve-performance-a-comprehensive-guide-on-driver-updates-for-windows-11-via-revo-uninstaller/"><u>Improve Performance: A Comprehensive Guide on Driver Updates for Windows 11 via Revo Uninstaller</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Motorola Edge 40 Pro | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-edit-mov-files-for-free-top-10-video-editors/"><u>In 2024, Edit MOV Files for Free Top 10 Video Editors</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-13-mini-with-a-mask-on-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 13 mini with a Mask On | Dr.fone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-master-level-stardew-upgrades-for-ultimate-growth/"><u>In 2024, Master Level Stardew Upgrades for Ultimate Growth</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/inclusivity-in-tech-the-expert-take-on-easeus/"><u>Inclusivity in Tech  The Expert Take on EaseUS</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/instagrams-step-by-step-guide-to-green-room-editing-for-2024/"><u>Instagram's Step-by-Step Guide to Green Room Editing for 2024</u></a></li>
-<li><a href="https://win-forum.techidaily.com/installing-windows-13-on-incompatible-cpus-using-tricks-and-techniques-comprehensive-tutorial/"><u>Installing Windows 13 on Incompatible CPUs Using Tricks & Techniques - Comprehensive Tutorial</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/introducing-shape-revolutionary-ai-interpretability-solution-by-openai/"><u>Introducing SHAPE: Revolutionary AI Interpretability Solution by OpenAI</u></a></li>
-<li><a href="https://win-forum.techidaily.com/navigating-the-digital-age-with-major-networks-facebook-twitter-instagram-and-youtube/"><u>Navigating the Digital Age with Major Networks - Facebook, Twitter, Instagram, and YouTube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/navigating-the-giants-of-social-sharing-a-guide-to-facebook-twitter-instagram-and-youtube/"><u>Navigating the Giants of Social Sharing: A Guide to Facebook, Twitter, Instagram & Youtube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/navigating-the-titans-of-online-networks-facebook-twitter-instagram-and-youtube/"><u>Navigating the Titans of Online Networks: Facebook, Twitter, Instagram, and YouTube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/navigating-through-top-digital-platforms-insights-into-facebook-twitter-instagram-and-youtube-strategies/"><u>Navigating Through Top Digital Platforms: Insights Into Facebook, Twitter, Instagram, and YouTube Strategies</u></a></li>
-<li><a href="https://win-forum.techidaily.com/permanent-data-erasure-techniques-for-windows-11-users/"><u>Permanent Data Erasure Techniques for Windows 11 Users</u></a></li>
-<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
-<li><a href="https://win-forum.techidaily.com/simplifying-computer-management-dive-into-the-features-of-revo-uninstaller-pro-5/"><u>Simplifying Computer Management: Dive Into the Features of Revo Uninstaller Pro 5</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-guide-clearing-out-windows-11-memory-dump-files/"><u>Step-by-Step Guide: Clearing Out Windows 11 Memory Dump Files</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-tutorial-setting-up-permanent-admin-rights-in-windows-11-software/"><u>Step-by-Step Tutorial: Setting Up Permanent Admin Rights in Windows 11 Software</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/steps-to-acquire-free-picture-frame-videos/"><u>Steps to Acquire Free Picture Frame Videos</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-big-four-of-online-interaction-diving-into-facebook-twitter-instagram-and-youtube/"><u>The Big Four of Online Interaction: Diving Into Facebook, Twitter, Instagram & YouTube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-big-four-of-social-networks-diving-deep-into-facebook-twitter-instagram-and-youtubes-ecosystem/"><u>The Big Four of Social Networks: Diving Deep Into Facebook, Twitter, Instagram and YouTube's Ecosystem.</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-powerhouse-platforms-strategies-for-mastery-on-facebook-twitter-instagram-and-youtube/"><u>The Powerhouse Platforms: Strategies for Mastery on Facebook, Twitter, Instagram, and YouTube</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-ultimate-list-of-androids-best-music-video-apps-for-2024/"><u>The Ultimate List of Android's Best Music Video Apps for 2024</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-ultimate-social-experience-exploring-the-power-of-facebook-twitter-instagram-and-youtube/"><u>The Ultimate Social Experience: Exploring the Power of Facebook, Twitter, Instagram, and YouTube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/unveiling-the-trick-to-dispose-of-non-standard-apps-from-your-pc/"><u>Unveiling the Trick to Dispose of Non-Standard Apps From Your PC</u></a></li>
-<li><a href="https://win-forum.techidaily.com/windows-10-driver-update-tutorial-keeping-your-system-smooth-and-fast/"><u>Windows 10 Driver Update Tutorial - Keeping Your System Smooth and Fast</u></a></li>
-<li><a href="https://win-forum.techidaily.com/windows-11-installation-hacks-for-unsupported-cpu-users/"><u>Windows 11 Installation Hacks for Unsupported CPU Users</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-broadcast-elegance-gamers-guide-to-using-obs/"><u>[New] 2024 Approved Broadcast Elegance Gamers' Guide to Using OBS</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-art-of-disregarding-harmful-youtube-comments/"><u>[New] The Art of Disregarding Harmful YouTube Comments</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-top-ranked-instagram-tunes-and-secrets-for-exceptional-call-alerts-for-2024/"><u>[Updated] Top-Ranked Instagram Tunes & Secrets for Exceptional Call Alerts for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-vivo-y78plus-t1-edition-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Vivo Y78+ (T1) Edition | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/dominant-giants-in-digital-interaction-facebook-twitter-instagram-and-youtube/"><u>Dominant Giants in Digital Interaction: Facebook, Twitter, Instagram & Youtube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/engage-with-social-giants-facebook-twitter-instagram-and-youtube/"><u>Engage with Social Giants: Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://some-skills.techidaily.com/get-your-personalized-internet-access-with-spacexs-new-portable-starlink-mini-device/"><u>Get Your Personalized Internet Access with SpaceX’s New Portable Starlink Mini Device</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oneplus-open-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock OnePlus Open Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-ultimate-guide-to-unlocking-your-iphone-11-on-metropcs-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Unlocking Your iPhone 11 on MetroPCS</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-giants-of-online-communication-facebook-twitter-instagram-and-youtube/"><u>Navigating the Giants of Online Communication: Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/overcoming-challenges-repairing-steam-errors-related-to-disk-operations/"><u>Overcoming Challenges: Repairing Steam Errors Related to Disk Operations</u></a></li>
+<li><a href="https://win-forum.techidaily.com/1722915430381-troubleshooting-the-plan-not-executed-issue-on-windows-11/"><u>Troubleshooting the Plan Not Executed Issue on Windows 11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/ultimate-techniques-for-bypassing-default-deletion-protocols-on-windows-revo-uninstaller-tips/"><u>Ultimate Techniques for Bypassing Default Deletion Protocols on Windows: Revo Uninstaller Tips</u></a></li>
+<li><a href="https://win-forum.techidaily.com/why-cant-i-open-my-application-diagnosing-and-repairing-launch-errors-on-a-pc/"><u>Why Can't I Open My Application? Diagnosing and Repairing Launch Errors on a PC</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

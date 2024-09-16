@@ -1,27 +1,13 @@
 ---
 title: "Step-by-Step Guide: Retrieving File & Folder Locations in Windows 11"
-date: 2024-09-10T10:54:26.552Z
-updated: 2024-09-11T10:54:26.552Z
+date: 2024-09-14T16:40:21.645Z
+updated: 2024-09-16T16:38:09.432Z
 tags:
   - windows
 categories:
   - tech
 thumbnail: https://thmb.techidaily.com/5f5f5b93e7d5296621d28cc46446de06ad76f2671bd83441f8c16419df01fcdb.jpg
 ---
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Step-by-Step Guide: Retrieving File & Folder Locations in Windows 11
 
@@ -32,20 +18,6 @@ thumbnail: https://thmb.techidaily.com/5f5f5b93e7d5296621d28cc46446de06ad76f2671
 * [From a File Explorer Toolbar Option](https://vp-tips.techidaily.com/updated-revolutionizing-image-capture-with-ios-11-updates/)
 * [How to Copy the Path of an App](https://win11-tips.techidaily.com/breaking-barriers-uniting-pc-and-android-devices/)
 * [Tips for Pasting the File, Folder, or App Path You’ve Copied](https://win-answers.techidaily.com/quick-solution-to-rectify-minecrafts-sudden-crash-with-exit-code-0/)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118321/7443" target="_top" id="2118321">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118321" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118321/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Key Takeaways
 
@@ -70,20 +42,6 @@ Hannah Stryker / How-To Geek
 
  Windows has copied the full absolute path to your selected item(s).
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114265/17093" target="_top" id="2114265">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114265" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114265/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ##  Using a Keyboard Shortcut
 
 [Windows 11’s 22H2 update](https://extra-skills.techidaily.com/2024-approved-snickerscreen-composer/) introduced the ability to copy file and folder paths using a keyboard shortcut.
@@ -98,19 +56,12 @@ Hannah Stryker / How-To Geek
   
  Windows has copied the selected file or folder’s path to your clipboard.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2123471/16836" target="_top" id="2123471">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123471" border="0" alt="https://techidaily.com" width="234" height="60"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123471/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ##  From a File Explorer Toolbar Option
 
@@ -122,35 +73,20 @@ Hannah Stryker / How-To Geek
 
 ![The three dots and 'Copy Path' highlighted for an item in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-copy-path-file-explorer-toolbar-option.jpg) 
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  And that’s it.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ##  How to Copy the Path of an App
 
@@ -162,31 +98,18 @@ Hannah Stryker / How-To Geek
 
 !['Open File Location' highlighted for an app in Windows Search.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-open-app-location-start-menu.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115917/19272" target="_top" id="2115917">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115917" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115917/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  On the open window, right-click the app again and select "Open File Location."
 
  Your app is now highlighted. Right-click the app and select "Copy as Path."
 
 !['Copy as Path' highlighted for an app in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6-copy-app-path.jpg) 
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ##  Tips for Pasting the File, Folder, or App Path You’ve Copied
 
@@ -206,8 +129,6 @@ Hannah Stryker / How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -217,43 +138,15 @@ Hannah Stryker / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-elevate-your-virtual-presentations-with-zoom-sharing-for-2024/"><u>[New] Elevate Your Virtual Presentations with Zoom Sharing for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-increase-conversions-with-these-top-marketing-phrases/"><u>[New] Increase Conversions with These Top Marketing Phrases</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-the-ultimate-fix-for-instagram-video-problems/"><u>[Updated] 2024 Approved  The Ultimate Fix for Instagram Video Problems</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-browse-the-web-for-unique-personalized-wrapped-presents-at-leading-e-stores/"><u>[Updated] Browse the Web for Unique, Personalized Wrapped Presents at Leading E-Stores</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-revamping-imagery-leading-insta-edits-explored/"><u>[Updated] In 2024, Revamping Imagery  Leading Insta Edits Explored</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-jest-journeys-charting-7-comedic-paths-to-viral-videos-for-2024/"><u>[Updated] Jest Journeys  Charting 7 Comedic Paths to Viral Videos for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-make-each-second-count-engaging-activities-that-blend-learning-and-multitasking/"><u>2024 Approved  Make Each Second Count  Engaging Activities that Blend Learning and Multitasking</u></a></li>
-<li><a href="https://win-forum.techidaily.com/achieve-a-cleaner-system-release-unused-space-on-your-pc-with-windows-11/"><u>Achieve a Cleaner System: Release Unused Space on Your PC with Windows 11</u></a></li>
-<li><a href="https://win-forum.techidaily.com/boost-system-efficiency-using-revo-uninstaller-pro-navigate-your-way-to-a-cleaner-faster-computer/"><u>Boost System Efficiency Using Revo Uninstaller Pro Navigate Your Way to a Cleaner, Faster Computer</u></a></li>
-<li><a href="https://win-forum.techidaily.com/comparing-giants-of-social-networking-insights-into-facebook-twitter-instagram-and-youtube-usage/"><u>Comparing Giants of Social Networking: Insights Into Facebook, Twitter, Instagram, and YouTube Usage</u></a></li>
-<li><a href="https://win-forum.techidaily.com/comprehensive-guide-to-setting-up-file-encryption-and-password-protection-for-text-files/"><u>Comprehensive Guide to Setting Up File Encryption and Password Protection for Text Files</u></a></li>
-<li><a href="https://win-forum.techidaily.com/connect-with-the-world-mastering-facebook-twitter-instagram-and-youtube-strategies/"><u>Connect with the World: Mastering Facebook, Twitter, Instagram, and YouTube Strategies</u></a></li>
-<li><a href="https://win-forum.techidaily.com/determining-your-systems-powershell-version-on-windows-10-a-step-by-step-guide/"><u>Determining Your System's PowerShell Version on Windows 10: A Step-by-Step Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discovering-sharers-a-step-by-step-guide-to-tracking-shares-of-your-facebook-post/"><u>Discovering Sharers: A Step-by-Step Guide to Tracking Shares of Your Facebook Post</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-sm-bus-controller-driver-compatible-with-windows-111087/"><u>Download SM Bus Controller Driver Compatible with Windows 11/10/8/7</u></a></li>
-<li><a href="https://win-forum.techidaily.com/engaging-audiences-across-key-social-channels-expert-tips-for-facebook-twitter-instagram-and-youtube/"><u>Engaging Audiences Across Key Social Channels: Expert Tips for Facebook, Twitter, Instagram and YouTube</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/forgot-iphone-12-pro-backup-password-heres-what-to-do-by-drfone-ios/"><u>Forgot iPhone 12 Pro Backup Password? Heres What to Do</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-poco-c51-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Poco C51 | Dr.fone</u></a></li>
-<li><a href="https://win-forum.techidaily.com/how-to-clean-user-data-from-windows-11-operating-system-using-revo-uninstaller/"><u>How to Clean User Data From Windows 11 Operating System Using Revo Uninstaller</u></a></li>
-<li><a href="https://win-forum.techidaily.com/how-to-eradicate-directories-and-files-using-powershell-or-command-prompt-in-windows-11/"><u>How to Eradicate Directories & Files Using PowerShell or Command Prompt in Windows 11</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/how-to-facetime-on-android-easily/"><u>How To Facetime on Android Easily</u></a></li>
-<li><a href="https://win-forum.techidaily.com/how-to-fix-class-not-registered-error-on-windows/"><u>How to Fix “Class Not Registered” Error on Windows</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/is-fake-gps-location-spoofer-a-good-choice-on-honor-play-8t-drfone-by-drfone-virtual-android/"><u>Is Fake GPS Location Spoofer a Good Choice On Honor Play 8T? | Dr.fone</u></a></li>
-<li><a href="https://win-forum.techidaily.com/maximize-your-pcs-performance-using-revo-uninstaller-pro-5-now/"><u>Maximize Your PC's Performance Using Revo Uninstaller Pro 5 Now</u></a></li>
-<li><a href="https://win-forum.techidaily.com/navigating-popular-networks-unveiling-facebook-twitter-instagram-and-youtube-insights/"><u>Navigating Popular Networks: Unveiling Facebook, Twitter, Instagram & YouTube Insights</u></a></li>
-<li><a href="https://win-forum.techidaily.com/navigating-the-giants-of-online-engagement-facebooktwitterinstagramyoutube-guide/"><u>Navigating the Giants of Online Engagement: Facebook/Twitter/Instagram/YouTube Guide</u></a></li>
-<li><a href="https://win-forum.techidaily.com/navigating-the-web-of-friendship-a-guide-to-facebook-twitter-instagram-youtube/"><u>Navigating the Web of Friendship - A Guide to Facebook, Twitter, Instagram, Youtube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/optimize-windows-11-initial-load-time-for-seamless-performance-gains/"><u>Optimize Windows 11 Initial Load Time for Seamless Performance Gains</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-guide-to-updating-device-drivers-on-windows-11/"><u>Step-by-Step Guide to Updating Device Drivers on Windows 11</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/streaming-high-quality-vr-videos-made-easy-for-ios-users-for-2024/"><u>Streaming High-Quality VR Videos Made Easy for IOS Users for 2024</u></a></li>
-<li><a href="https://win-forum.techidaily.com/1722915406026-tackle-constant-windows-explorer-errors-using-our-proven-7-tricks/"><u>Tackle Constant Windows Explorer Errors Using Our Proven 7 Tricks</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-definitive-method-for-auto-elevation-always-opening-apps-as-an-admin-on-windows-11/"><u>The Definitive Method for Auto-Elevation: Always Opening Apps as an Admin on Windows 11</u></a></li>
-<li><a href="https://win-forum.techidaily.com/top-5-methods-for-securing-your-windows-pc-a-comprehensive-guide/"><u>Top 5 Methods for Securing Your Windows PC: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-forum.techidaily.com/troubleshooting-steps-overcoming-app-incompatibility-messages-in-windows/"><u>Troubleshooting Steps: Overcoming App Incompatibility Messages in Windows</u></a></li>
-<li><a href="https://win-forum.techidaily.com/ultimate-guide-to-reducing-windows-11-startup-duration-with-ease/"><u>Ultimate Guide to Reducing Windows 11 Startup Duration with Ease</u></a></li>
-<li><a href="https://win-forum.techidaily.com/understanding-online-interaction-the-powerhouses-facebook-twitter-instagram-and-youtube/"><u>Understanding Online Interaction: The Powerhouses - Facebook, Twitter, Instagram & YouTube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/unlock-the-secrets-of-your-windows-11-powershell-edition-and-version-info/"><u>Unlock the Secrets of Your Windows 11 PowerShell Edition and Version Info</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-editing-nikon-videos-a-comprehensive-guide-to-software-and-techniques/"><u>Updated 2024 Approved Editing Nikon Videos A Comprehensive Guide to Software and Techniques</u></a></li>
-<li><a href="https://win-forum.techidaily.com/windows-11-troubleshooting-guide-how-to-fix-high-resource-use-by-hard-drive/"><u>Windows 11 Troubleshooting Guide: How to Fix High Resource Use by Hard Drive</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-top-virtual-realities-ios-and-androids-best-apps/"><u>[Updated] 2024 Approved Top Virtual Realities IOS & Android's Best Apps</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-seamlessly-record-your-screen-while-watching-netflix-for-2024/"><u>[Updated] Seamlessly Record Your Screen While Watching Netflix for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-streamlining-your-youtube-vids-for-igtv-adoption/"><u>[Updated] Streamlining Your YouTube Vids for IGTV Adoption</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-safe-secure-and-stress-free-exclusive-list-of-free-video-call-apps-for-iphoneandroid/"><u>In 2024, Safe, Secure & Stress-Free Exclusive List of Free Video Call Apps for iPhone/Android</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-samsung-galaxy-a14-4g-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Samsung Galaxy A14 4G for Streaming | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/transferring-with-confidence-mastering-the-art-of-moving-files-with-windows-backup-onto-a-fresh-machine/"><u>Transferring with Confidence: Mastering the Art of Moving Files with Windows Backup Onto a Fresh Machine</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-overcoming-far-cry-6-pc-instability-problems/"><u>Troubleshooting Guide: Overcoming Far Cry 6 PC Instability Problems</u></a></li>
+<li><a href="https://win-forum.techidaily.com/unbeatable-deals-await-secure-acronis-true-image-now-and-enjoy-an-instant-20-discount/"><u>Unbeatable Deals Await: Secure Acronis True Image Now & Enjoy an Instant 20% Discount!</u></a></li>
+<li><a href="https://win-forum.techidaily.com/uncover-the-secrets-of-windows-11-explore-11-essential-yet-overlooked-features/"><u>Uncover the Secrets of Windows 11 - Explore 11 Essential Yet Overlooked Features!</u></a></li>
+<li><a href="https://win-forum.techidaily.com/understanding-microsofts-recall-capability-advanced-tech-beyond-artificial-intelligence-requirements/"><u>Understanding Microsoft's 'Recall' Capability – Advanced Tech Beyond Artificial Intelligence Requirements</u></a></li>
 </ul></div>
+

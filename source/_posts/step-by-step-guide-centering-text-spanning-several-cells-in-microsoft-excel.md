@@ -1,27 +1,13 @@
 ---
 title: "Step-by-Step Guide: Centering Text Spanning Several Cells in Microsoft Excel"
-date: 2024-09-10T10:54:27.807Z
-updated: 2024-09-11T10:54:27.807Z
+date: 2024-09-10T16:12:31.656Z
+updated: 2024-09-16T16:13:19.181Z
 tags:
   - excel
 categories:
   - tech
 thumbnail: https://thmb.techidaily.com/4099437332566bc0717087ad155c53eccdb95fb25198b821350f08a36ef32c9d.jpg
 ---
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Step-by-Step Guide: Centering Text Spanning Several Cells in Microsoft Excel
 
@@ -35,73 +21,17 @@ If you have a label or heading on a spreadsheet in Excel that you want to center
 
 ![02_selecting_merge_and_center](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/10/02_selecting_merge_and_center.png) 
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  The cells are merged and the text is centered in the single resulting cell.
 
 ![03_cells_merged_and_text_centered](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/10/03_cells_merged_and_text_centered.png) 
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  If you don’t want to merge the cells, you can still center text across them. Enter your text in the first of the cells across which you want to center the text, select the cells, and click the “Alignment Settings” button in the lower-right corner of the “Alignment” section on the “Home” tab.
 
 ![04_clicking_alignment_settings_dialog_button](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/10/04_clicking_alignment_settings_dialog_button.png) 
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  NOTE: You can also right click on the selected cells and select “Format Cells” from the popup menu.
 
 ![04a_selecting_format_cells](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/10/04a_selecting_format_cells.png) 
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115933/19272" target="_top" id="2115933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115933" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115933/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  Make sure the “Alignment” tab is active. If you opened the “Format Cells” dialog box by right-clicking on the selected cells, you must click on the “Alignment” tab as it’s not the active tab by default.
 
@@ -110,26 +40,6 @@ If you have a label or heading on a spreadsheet in Excel that you want to center
  NOTE: You can also select the “Merge cells” check box on the “Alignment” tab on the “Format Cells” dialog box to merge the selected cells. However, this does not center the text. You must do that separately.
 
 ![05_selecting_center_across_selection](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/10/05_selecting_center_across_selection.png) 
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  The text is centered across the selected cells, but the cells are not merged into one.
 
@@ -143,8 +53,6 @@ If you have a label or heading on a spreadsheet in Excel that you want to center
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -154,53 +62,24 @@ If you have a label or heading on a spreadsheet in Excel that you want to center
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-inside-outlooks-of-instagram-stories-consumers/"><u>[New] In 2024, Inside Outlooks of Instagram Stories Consumers</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-unveiling-rokus-potential-engaging-with-facebook-live/"><u>[New] In 2024, Unveiling Roku's Potential  Engaging with Facebook Live</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-pinnacle-enterprise-data-vaulting/"><u>[New] Pinnacle Enterprise Data Vaulting</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-tailor-your-media-auto-scaling-videos-for-instagram-via-macos/"><u>[New] Tailor Your Media  Auto-Scaling Videos for Instagram via MacOS</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-next-level-recording-discover-budget-friendly-choices/"><u>[Updated] 2024 Approved  Next-Level Recording  Discover Budget-Friendly Choices</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-fantasy-villas-with-oriental-elegance-mc-edition/"><u>[Updated] Fantasy Villas with Oriental Elegance, MC Edition</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-top-10-portable-tools-dominating-video-editing-landscape/"><u>[Updated] Top 10 Portable Tools Dominating Video Editing Landscape</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-ultimate-guide-how-to-make-money-from-instagram-for-2024/"><u>[Updated] Ultimate Guide  How to Make Money From Instagram for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-the-rise-of-facebooks-quick-vids/"><u>2024 Approved  The Rise of Facebook's Quick Vids</u></a></li>
-<li><a href="https://win-forum.techidaily.com/comprehensive-guide-to-popular-online-communities-facebook-twitter-instagram-and-youtubers/"><u>Comprehensive Guide to Popular Online Communities: Facebook, Twitter, Instagram & YouTubers</u></a></li>
-<li><a href="https://win-forum.techidaily.com/digital-engagement-essentials-mastering-the-art-on-facebook-twitter-instagram-and-youtube/"><u>Digital Engagement Essentials: Mastering the Art on Facebook, Twitter, Instagram & YouTube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/digital-interaction-hubs-unpacking-the-phenomenon-of-facebook-twitter-instagram-and-youtube/"><u>Digital Interaction Hubs - Unpacking the Phenomenon of Facebook, Twitter, Instagram and YouTube.</u></a></li>
-<li><a href="https://win-forum.techidaily.com/discover-how-to-verify-your-powershell-version-on-a-windows-10-machine/"><u>Discover How to Verify Your PowerShell Version on a Windows 10 Machine</u></a></li>
-<li><a href="https://win-forum.techidaily.com/efficiently-editing-deleting-and-creating-registry-keys-masterclass-using-revo-uninstaller/"><u>Efficiently Editing, Deleting & Creating Registry Keys: Masterclass Using Revo Uninstaller</u></a></li>
-<li><a href="https://win-forum.techidaily.com/efficiently-manage-full-storage-space-problems-in-windows-11-computers/"><u>Efficiently Manage Full Storage Space Problems in Windows 11 Computers</u></a></li>
-<li><a href="https://win-forum.techidaily.com/engage-and-grow-with-key-social-media-sites-facebook-twitter-instagram-and-youtube/"><u>Engage and Grow with Key Social Media Sites: Facebook, Twitter, Instagram & YouTube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/expert-advice-how-to-use-revo-uninstaller-for-total-erasure-of-folders-in-windows-11/"><u>Expert Advice: How to Use Revo Uninstaller for Total Erasure of Folders in Windows 11</u></a></li>
-<li><a href="https://win-forum.techidaily.com/expert-tips-for-managing-and-deleting-win10-dump-files-quickly/"><u>Expert Tips for Managing and Deleting Win10 Dump Files Quickly</u></a></li>
-<li><a href="https://win-forum.techidaily.com/fix-slow-network-issues-with-these-simple-dns-flush-steps-for-windows-users/"><u>Fix Slow Network Issues with These Simple DNS Flush Steps for Windows Users</u></a></li>
-<li><a href="https://win-forum.techidaily.com/fixing-unforeseen-issues-tackling-the-unexpected-planning-failure-in-windows-11/"><u>Fixing Unforeseen Issues: Tackling the Unexpected Planning Failure in Windows 11</u></a></li>
-<li><a href="https://win-forum.techidaily.com/guide-to-finding-and-checking-your-powershell-version-on-windows-11/"><u>Guide to Finding and Checking Your PowerShell Version on Windows 11</u></a></li>
-<li><a href="https://win-forum.techidaily.com/guide-identifying-the-active-powershell-version-in-windows-11-environments/"><u>Guide: Identifying The Active PowerShell Version In Windows 11 Environments</u></a></li>
-<li><a href="https://win-forum.techidaily.com/how-to-delete-user-profile-in-windows-11-revouninstaller/"><u>How to Delete User Profile in Windows 11 - RevoUninstaller</u></a></li>
-<li><a href="https://win-forum.techidaily.com/how-to-perform-factory-reset-windows-10-revo-uninstaller-pro-4/"><u>How to Perform Factory Reset Windows 10 - Revo Uninstaller Pro 4</u></a></li>
-<li><a href="https://win-forum.techidaily.com/how-to-configuring-wake-on-lan-connectivity-for-windows-11-devices/"><u>How To: Configuring Wake-on-LAN Connectivity for Windows 11 Devices</u></a></li>
-<li><a href="https://win-forum.techidaily.com/master-the-art-of-fixing-recurring-windows-explorer-breakdowns-top-7-methods-revealed/"><u>Master the Art of Fixing Recurring Windows Explorer Breakdowns - Top 7 Methods Revealed</u></a></li>
-<li><a href="https://win-forum.techidaily.com/mastering-remote-power-on-a-comprehensive-tutorial-for-windows-10-and-11-users/"><u>Mastering Remote Power On: A Comprehensive Tutorial for Windows 10 and 11 Users</u></a></li>
-<li><a href="https://win-forum.techidaily.com/mastering-social-media-dynamics-with-facebook-twitter-instagram-and-youtube/"><u>Mastering Social Media Dynamics with Facebook, Twitter, Instagram, and YouTube</u></a></li>
-<li><a href="https://win11.techidaily.com/mastery-of-microsoft-store-error-solving-in-windows/"><u>Mastery of Microsoft Store Error Solving in Windows</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/mining-marvels-5-best-map-locations-in-terraria/"><u>Mining Marvels  5 Best Map Locations in Terraria</u></a></li>
-<li><a href="https://win-forum.techidaily.com/navigating-the-digital-sphere-an-insight-into-facebook-twitter-instagram-and-youtube-usage/"><u>Navigating the Digital Sphere: An Insight Into Facebook, Twitter, Instagram & YouTube Usage</u></a></li>
-<li><a href="https://win-forum.techidaily.com/navigating-the-world-of-third-party-software-uninstallers-are-they-worth-it/"><u>Navigating the World of Third-Party Software Uninstallers - Are They Worth It?</u></a></li>
-<li><a href="https://win-forum.techidaily.com/quickstart-guide-accelerating-your-windows-11-booting-process/"><u>QuickStart Guide: Accelerating Your Windows 11 Booting Process</u></a></li>
-<li><a href="https://win-forum.techidaily.com/seamless-elevation-tactics-for-enhanced-app-functionality-in-windows-nix/"><u>Seamless Elevation Tactics for Enhanced App Functionality in Windows Nix</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-guide-to-clearing-memory-dump-files-on-windows-10/"><u>Step-by-Step Guide to Clearing Memory Dump Files on Windows 10</u></a></li>
-<li><a href="https://win-forum.techidaily.com/streamlined-file-deletion-with-cmd-tools-a-window-10-users-handbook/"><u>Streamlined File Deletion with CMD Tools - A Window 10 User's Handbook</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-top-four-navigating-the-giants-of-social-networking-facebook-twitter-instagram-and-youtube/"><u>The Top Four: Navigating the Giants of Social Networking - Facebook, Twitter, Instagram & YouTube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-ultimate-technique-for-clearing-out-ram-dump-records-on-windows-1011-systems/"><u>The Ultimate Technique for Clearing Out RAM Dump Records on Windows 10/11 Systems</u></a></li>
-<li><a href="https://win-forum.techidaily.com/top-4-social-networking-titans-mastering-facebook-twitter-instagram-and-youtube-engagement/"><u>Top 4 Social Networking Titans: Mastering Facebook, Twitter, Instagram, and YouTube Engagement</u></a></li>
-<li><a href="https://win-forum.techidaily.com/top-digital-networking-sites-facebook-tweetdeck-gramfeed-and-videohub-youtube/"><u>Top Digital Networking Sites: FaceBook, TweetDeck, GramFeed, and VideoHub (YouTube)</u></a></li>
-<li><a href="https://win-forum.techidaily.com/top-giants-of-online-networking-facebook-twitter-instagram-youtube/"><u>Top Giants of Online Networking - Facebook | Twitter | Instagram | YouTube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/top-social-networks-unveiled-exploring-facebook-twitter-instagram-and-youtube/"><u>Top Social Networks Unveiled: Exploring Facebook, Twitter, Instagram & YouTube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/troubleshooting-unforeseen-issues-the-windows-11-guide-to-unexpected-mishaps/"><u>Troubleshooting Unforeseen Issues: The Windows 11 Guide to Unexpected Mishaps</u></a></li>
-<li><a href="https://win-forum.techidaily.com/unlock-the-secrets-eliminating-stubborn-directories-on-your-windows-11-system/"><u>Unlock the Secrets: Eliminating Stubborn Directories on Your Windows 11 System</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-vivo-v27-pro-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Vivo V27 Pro Device</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-here-are-10-best-webm-to-mp4-converters-on-the-market-that-you-can-use-to-convert-video-from-webm-to-mp4-format-for-2024/"><u>Updated Here Are 10 Best WebM to MP4 Converters on the Market that You Can Use to Convert Video From WebM to MP4 Format for 2024</u></a></li>
-<li><a href="https://win-forum.techidaily.com/waking-up-remotely-enabling-wake-on-lan-on-your-latest-windows-pcs/"><u>Waking Up Remotely: Enabling Wake-on-LAN on Your Latest Windows PCs</u></a></li>
-<li><a href="https://win-forum.techidaily.com/windows-10-powershell-verification-methods-what-you-need-to-know/"><u>Windows 10 PowerShell Verification Methods: What You Need to Know</u></a></li>
-<li><a href="https://win-forum.techidaily.com/windows-11-users-learn-how-to-delete-system-memory-dumps-easily/"><u>Windows 11 Users! Learn How to Delete System Memory Dumps Easily</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-digital-dilemma-unexpectedly-barred-content/"><u>[New] Digital Dilemma Unexpectedly Barred Content</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-hack-the-youtube-timeline-increase-or-decrease-sound/"><u>[Updated] Hack the YouTube Timeline Increase or Decrease Sound</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-optimal-zoom-cameras-our-best-six-list/"><u>[Updated] Optimal Zoom Cameras – Our Best Six List</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-vivo-y77t-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Vivo Y77t | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/forcefully-terminating-held-up-applications-on-your-pc-a-comprehensive-overview-with-revouninstaller-advice/"><u>Forcefully Terminating Held Up Applications on Your PC: A Comprehensive Overview with RevoUninstaller Advice</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-by-checkra1n-even-from-iphone-se-2022-if-youve-tried-everything-by-drfone-ios/"><u>How To Bypass iCloud By Checkra1n Even From iPhone SE (2022) If Youve Tried Everything</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-rectify-common-print-issues-related-to-domain-services-in-modern-windows-oses/"><u>How to Rectify Common Print Issues Related to Domain Services in Modern Windows OSes</u></a></li>
+<li><a href="https://win-forum.techidaily.com/social-media-networks-facebook-twitter-instagram-and-youtube-explained/"><u>Social Media Networks: Facebook, Twitter, Instagram & YouTube Explained</u></a></li>
+<li><a href="https://blog-min.techidaily.com/top-two-methods-for-streaming-and-downloading-iqiyi-content-a-comprehensive-guide/"><u>Top Two Methods for Streaming and Downloading iQiyi Content: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-forum.techidaily.com/understanding-the-giants-a-guide-to-facebook-twitter-instagram-and-youtube/"><u>Understanding the Giants: A Guide to Facebook, Twitter, Instagram, & YouTube</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unlock-quick-filming-techniques-your-5-best-home-hacks-list-for-2024/"><u>Unlock Quick Filming Techniques – Your 5 Best Home Hacks List for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/vita-altu-vazdoto-zadek-se-posvetiti-s-winxvideo-ai-ga-razvojom-videoklipa-na-najboljo-kvalitetu/"><u>Vita Altu Vazdoto Zadek Se Posvetiti S WinXvideo AI-Ga Razvojom Videoklipa Na Najboljo Kvalitetu</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

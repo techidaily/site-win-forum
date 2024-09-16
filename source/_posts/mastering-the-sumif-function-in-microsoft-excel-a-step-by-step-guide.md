@@ -1,7 +1,7 @@
 ---
 title: Mastering the SUMIF Function in Microsoft Excel - A Step-by-Step Guide
-date: 2024-09-10T10:54:27.176Z
-updated: 2024-09-11T10:54:27.176Z
+date: 2024-09-10T16:20:00.134Z
+updated: 2024-09-16T16:33:10.718Z
 tags:
   - excel
 categories:
@@ -41,20 +41,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
 ![SUMIF using greater than for a single cell range](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/SingleGreaterThan-ExcelSUMIF.jpg) 
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  On the flip side, you can add numbers that are less than a certain amount using this formula:
 
 =SUMIF(B2:B7,"<10000")
@@ -70,34 +56,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
  This [adds the numbers](https://instagram-clips.techidaily.com/updated-2024-approved-unveiling-instagrams-policies-a-musicians-legal-primer/) in cells A2 through A7 only if they are exactly 5,000.
 
 ![SUMIF using equals for a single cell range](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/SingleEquals-ExcelSUMIF.jpg) 
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135475/26400" target="_top" id="2135475">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135475/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ##  Use SUMIF With Number Criteria for Multiple Ranges
 
@@ -117,20 +75,6 @@ Related: [How to Create Expense and Income Spreadsheets in Microsoft Excel](http
 
 ![SUMIF using greater than for multiple cells](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/MultipleGreaterThan-ExcelSUMIF.jpg) 
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  You can also replace the actual value in the formula with one contained in a cell. For instance, this formula adds the numbers in B2 through B7 if the value in C2 through C7 is greater than the value in cell D2.
 
 =SUMIF(C2:C7,">"&D2,B2:B7)
@@ -138,34 +82,6 @@ Related: [How to Create Expense and Income Spreadsheets in Microsoft Excel](http
  This formula uses the greater than symbol (">") and cell D2 (&D2).
 
 ![SUMIF using greater than a cell](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/MultipleGreaterThanCell-ExcelSUMIF.jpg) 
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ##  Use SUMIF With Text Criteria for Multiple Ranges
 
@@ -187,19 +103,12 @@ Related: [How to Count Cells With Text in Microsoft Excel](https://buynow-tips.t
 
 ![SUMIF ends with letters in multiple cells](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/MultipleTextWildcard-ExcelSUMIF.jpg) 
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  One more example uses our Shoes product whose Type is blank.
 
@@ -208,6 +117,19 @@ Related: [How to Count Cells With Text in Microsoft Excel](https://buynow-tips.t
  In this formula the quotation marks are side-by-side with no space between them. This gives us the sales for Shoes as seen below.
 
 ![SUMIF using a blank for multiple cells](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/MultipleTextBlank-ExcelSUMIF.jpg) 
+
+<!-- affiliate ads begin -->
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The SUMIF function in Excel allows you to take a basic equation and spice it up to fit your needs. It's super handy when adding numbers isn't as simple as two plus two.
 
@@ -219,8 +141,6 @@ Related: [How to Count Cells With Text in Microsoft Excel](https://buynow-tips.t
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -230,48 +150,17 @@ Related: [How to Count Cells With Text in Microsoft Excel](https://buynow-tips.t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-ultimate-capture-assistant-az-audits-and-alternatives/"><u>[New] 2024 Approved  Ultimate Capture Assistant - AZ Audits & Alternatives</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-best-5-gopro-filters-for-underwater-video-shooting/"><u>[New] Best 5 GoPro Filters for Underwater Video Shooting</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-comprehensive-studio-study-xvideo-studio-insights/"><u>[New] Comprehensive Studio Study  XVideo Studio Insights</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-download-your-wish-unwatermarked-tiktok-files/"><u>[New] In 2024, Download-Your-Wish  Unwatermarked TikTok Files</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-exploring-and-harnessing-twitter-archive-insights/"><u>[New] In 2024, Exploring and Harnessing Twitter Archive Insights</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-quick-start-using-ez-grabber-effectively/"><u>[Updated] Quick Start  Using EZ Grabber Effectively</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-harnessing-ig-videos-effectively-blueprint-for-a-dynamic-marketing-plan/"><u>2024 Approved  Harnessing IG Videos Effectively  Blueprint for a Dynamic Marketing Plan</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ing-a-studio-quality-setup-at-home/"><u>Building a Studio-Quality Setup at Home</u></a></li>
-<li><a href="https://win-forum.techidaily.com/comprehensive-guide-to-popular-online-communities-facebook-twitter-instagram-and-youtubers/"><u>Comprehensive Guide to Popular Online Communities: Facebook, Twitter, Instagram & YouTubers</u></a></li>
-<li><a href="https://win-forum.techidaily.com/discover-how-to-verify-your-powershell-version-on-a-windows-10-machine/"><u>Discover How to Verify Your PowerShell Version on a Windows 10 Machine</u></a></li>
-<li><a href="https://network-issues.techidaily.com/display-stability-improved-with-driver-correction/"><u>Display Stability Improved with Driver Correction</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/diy-guide-building-a-win10-restore-flash-drive-from-scratch/"><u>DIY Guide: Building a Win10 Restore Flash Drive From Scratch</u></a></li>
-<li><a href="https://win-forum.techidaily.com/efficiently-manage-full-storage-space-problems-in-windows-11-computers/"><u>Efficiently Manage Full Storage Space Problems in Windows 11 Computers</u></a></li>
-<li><a href="https://win-forum.techidaily.com/engage-and-grow-with-key-social-media-sites-facebook-twitter-instagram-and-youtube/"><u>Engage and Grow with Key Social Media Sites: Facebook, Twitter, Instagram & YouTube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/fix-slow-network-issues-with-these-simple-dns-flush-steps-for-windows-users/"><u>Fix Slow Network Issues with These Simple DNS Flush Steps for Windows Users</u></a></li>
-<li><a href="https://win-forum.techidaily.com/guide-identifying-the-active-powershell-version-in-windows-11-environments/"><u>Guide: Identifying The Active PowerShell Version In Windows 11 Environments</u></a></li>
-<li><a href="https://win-forum.techidaily.com/how-to-delete-user-profile-in-windows-11-revouninstaller/"><u>How to Delete User Profile in Windows 11 - RevoUninstaller</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-vivo-y100i-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Vivo Y100i Quickly? | Dr.fone</u></a></li>
-<li><a href="https://win-forum.techidaily.com/how-to-configuring-wake-on-lan-connectivity-for-windows-11-devices/"><u>How To: Configuring Wake-on-LAN Connectivity for Windows 11 Devices</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-does-motorola-edge-40-neo-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Motorola Edge 40 Neo Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-sonic-pixels-turning-sound-into-visual-storytelling/"><u>In 2024, Sonic Pixels  Turning Sound Into Visual Storytelling</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-xbox-ones-zooming-edge-a-comprehensive-guide/"><u>In 2024, Xbox One's Zooming Edge  A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/is-the-iphone-15-pro-max-waterproof/"><u>Is the iPhone 15 Pro Max Waterproof?</u></a></li>
-<li><a href="https://win-forum.techidaily.com/master-the-art-of-fixing-recurring-windows-explorer-breakdowns-top-7-methods-revealed/"><u>Master the Art of Fixing Recurring Windows Explorer Breakdowns - Top 7 Methods Revealed</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/mastering-altitude-with-djis-new-gadget-for-2024/"><u>Mastering Altitude with DJI's New Gadget for 2024</u></a></li>
-<li><a href="https://win-forum.techidaily.com/mastering-social-media-dynamics-with-facebook-twitter-instagram-and-youtube/"><u>Mastering Social Media Dynamics with Facebook, Twitter, Instagram, and YouTube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/navigating-the-world-of-third-party-software-uninstallers-are-they-worth-it/"><u>Navigating the World of Third-Party Software Uninstallers - Are They Worth It?</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-the-modern-editors-handbook-cutting-and-mixing-in-avidemux/"><u>New In 2024, The Modern Editors Handbook Cutting and Mixing in Avidemux</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/obs-vs-wirecast-which-should-you-trust-for-live-in-2024/"><u>OBS Vs. Wirecast - Which Should You Trust for Live, In 2024</u></a></li>
-<li><a href="https://win-forum.techidaily.com/quickstart-guide-accelerating-your-windows-11-booting-process/"><u>QuickStart Guide: Accelerating Your Windows 11 Booting Process</u></a></li>
-<li><a href="https://win-forum.techidaily.com/seamless-elevation-tactics-for-enhanced-app-functionality-in-windows-nix/"><u>Seamless Elevation Tactics for Enhanced App Functionality in Windows Nix</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-guide-to-clearing-memory-dump-files-on-windows-10/"><u>Step-by-Step Guide to Clearing Memory Dump Files on Windows 10</u></a></li>
-<li><a href="https://win-forum.techidaily.com/streamlined-file-deletion-with-cmd-tools-a-window-10-users-handbook/"><u>Streamlined File Deletion with CMD Tools - A Window 10 User's Handbook</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-9-dangers-when-ai-takes-over-emotional-care/"><u>The 9 Dangers: When AI Takes Over Emotional Care</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/the-most-exciting-tiktok-content-to-date/"><u>The Most Exciting TikTok Content to Date</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-ultimate-technique-for-clearing-out-ram-dump-records-on-windows-1011-systems/"><u>The Ultimate Technique for Clearing Out RAM Dump Records on Windows 10/11 Systems</u></a></li>
-<li><a href="https://win-forum.techidaily.com/top-social-networks-unveiled-exploring-facebook-twitter-instagram-and-youtube/"><u>Top Social Networks Unveiled: Exploring Facebook, Twitter, Instagram & YouTube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/troubleshooting-unforeseen-issues-the-windows-11-guide-to-unexpected-mishaps/"><u>Troubleshooting Unforeseen Issues: The Windows 11 Guide to Unexpected Mishaps</u></a></li>
-<li><a href="https://win-forum.techidaily.com/unlock-the-secrets-eliminating-stubborn-directories-on-your-windows-11-system/"><u>Unlock the Secrets: Eliminating Stubborn Directories on Your Windows 11 System</u></a></li>
-<li><a href="https://win-forum.techidaily.com/waking-up-remotely-enabling-wake-on-lan-on-your-latest-windows-pcs/"><u>Waking Up Remotely: Enabling Wake-on-LAN on Your Latest Windows PCs</u></a></li>
-<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Realme C67 5G? | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/will-televising-facebook-vids-become-a-trend-in-2024/"><u>Will Televising Facebook Vids Become a Trend , In 2024</u></a></li>
-<li><a href="https://win-forum.techidaily.com/windows-10-powershell-verification-methods-what-you-need-to-know/"><u>Windows 10 PowerShell Verification Methods: What You Need to Know</u></a></li>
-<li><a href="https://win-forum.techidaily.com/windows-11-users-learn-how-to-delete-system-memory-dumps-easily/"><u>Windows 11 Users! Learn How to Delete System Memory Dumps Easily</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-perfecting-the-art-of-ppt-video-creation-for-2024/"><u>[New] Perfecting the Art of PPT Video Creation for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-advanced-inshot-transition-methods-explained/"><u>[Updated] 2024 Approved Advanced Inshot Transition Methods Explained</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/10-volume-magnifiers-for-windowsmacos-for-2024/"><u>Best 10 Volume Magnifiers for Windows/MacOS for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/connect-and-engage-on-the-webs-most-popular-sites-a-look-at-facebook-twitter-instagram-and-youtube/"><u>Connect and Engage on the Web's Most Popular Sites: A Look at Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://program-issues.techidaily.com/escalating-your-gaming-experience-7-easy-tweaks-to-prevent-freezing-in-halo-infinite/"><u>Escalating Your Gaming Experience: 7 Easy Tweaks to Prevent Freezing in Halo Infinite</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/game-enhancement-no-more-crashes-in-apex/"><u>Game Enhancement - No More Crashes in Apex</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ifying-the-most-versatile-cam-top-12-screen-swivel-gadgets/"><u>Identifying the Most Versatile Cam Top 12 Screen Swivel Gadgets</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigate-anywhere-discover-our-picks-for-the-8-ultimate-planning-tools-for-wanderlust-seekers/"><u>Navigate Anywhere: Discover Our Picks for the 8 Ultimate Planning Tools for Wanderlust Seekers</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-digital-defense-key-forecasts-for-cybersecurity-developments/"><u>Navigating Digital Defense: Key Forecasts for Cybersecurity Developments</u></a></li>
+<li><a href="https://win-forum.techidaily.com/social-giants-of-the-internet-era-exploring-facebook-twitter-instagram-and-youtube/"><u>Social Giants of the Internet Era - Exploring Facebook, Twitter, Instagram, and Youtube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/tackling-complete-disk-use-in-windows-11-expert-solutions-and-tips/"><u>Tackling Complete Disk Use in Windows 11: Expert Solutions and Tips</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-quintessential-social-hubs-unveiling-facebook-twitter-instagram-and-youtubes-powerful-influence/"><u>The Quintessential Social Hubs: Unveiling Facebook, Twitter, Instagram & Youtube's Powerful Influence</u></a></li>
 </ul></div>
+

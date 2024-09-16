@@ -1,27 +1,13 @@
 ---
 title: Refreshed Windows 11 Experience with Advanced AI Copilot Support, Redesigned Photo Gallery, and Dynamic Widget Features
-date: 2024-09-10T10:54:25.404Z
-updated: 2024-09-11T10:54:25.404Z
+date: 2024-09-11T16:29:08.506Z
+updated: 2024-09-16T16:24:46.817Z
 tags:
   - windows
 categories:
   - tech
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/windows-11-3.jpg
 ---
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Refreshed Windows 11 Experience with Advanced AI Copilot Support, Redesigned Photo Gallery, and Dynamic Widget Features
 
@@ -32,26 +18,6 @@ Microsoft has announced a major update to Windows 11, with many of the improveme
  The headline feature here is more improvements to the [Windows Copilot assistant](https://extra-resources.techidaily.com/iphone-tricks-to-embrace-cameras-motion-artistry/), accessible from the Copilot button on the far-right side of the taskbar. The plugins that were already accessible from the [Copilot web app](https://some-guidance.techidaily.com/streamlining-your-video-production-with-kinemaster-and-leading-alternatives-for-2024/) and other modes now appear in Windows Copilot, including OpenTable, Instacart, and Kayak. Copilot is also rolling out new commands to control Windows system functions, such as “turn off battery saver,” “display IP address,” “launch live captions,” and “empty recycle bin.”
 
 ![Screenshot of Copilot sidebar in Windows 11](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/win24_c2refresh_copilot_hero_3x2-1024x683.png) 
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 Microsoft
 
@@ -75,8 +41,6 @@ Microsoft
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -86,38 +50,32 @@ Microsoft
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-capturing-adventure-top-5-methods-for-screening-minecraft-on-apple-machines/"><u>[New] Capturing Adventure  Top 5 Methods for Screening Minecraft on Apple Machines</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-how-to-add-music-to-any-snapchat-video/"><u>[New] How to Add Music to Any Snapchat Video?</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-dive-into-your-digital-collection-find-fb-watched-content-now-for-2024/"><u>[Updated] Dive Into Your Digital Collection  Find FB Watched Content Now for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-instant-viral-potential-learn-kinemaster-memes/"><u>2024 Approved  Instant Viral Potential  Learn KineMaster Memes</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-journey-through-nature-top-12-android-simulators/"><u>2024 Approved  Journey Through Nature  Top 12 Android Simulators</u></a></li>
-<li><a href="https://win-forum.techidaily.com/a-comprehensive-guide-to-leading-social-platforms-facebook-twitter-instagram-and-youtube/"><u>A Comprehensive Guide to Leading Social Platforms: Facebook, Twitter, Instagram and YouTube</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/avoid-flickering-secure-your-lenovo-display/"><u>Avoid Flickering: Secure Your Lenovo Display</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Realme Narzo N53 | Dr.fone</u></a></li>
-<li><a href="https://win-forum.techidaily.com/connect-and-engage-on-leading-sites-facebook-twitter-instagram-and-youtube/"><u>Connect and Engage on Leading Sites: Facebook, Twitter, Instagram & Youtube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/connecting-billions-an-in-depth-look-at-facebook-twitter-instagram-and-youtube/"><u>Connecting Billions: An In-Depth Look at Facebook, Twitter, Instagram, and YouTube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/easily-undo-recent-windows-11-changes-with-this-simple-method/"><u>Easily Undo Recent Windows 11 Changes with This Simple Method</u></a></li>
-<li><a href="https://win-forum.techidaily.com/easy-guide-updating-your-pcs-hardware-drivers-on-windows-10-with-revo-uninstaller/"><u>Easy Guide: Updating Your PC's Hardware Drivers on Windows 10 with Revo Uninstaller</u></a></li>
-<li><a href="https://win-forum.techidaily.com/easy-steps-to-determine-the-powershell-build-in-your-windows-1-confirming-microsoft-edges-current-release-browser-defense-pro/"><u>Easy Steps to Determine the PowerShell Build in Your Windows 1# Confirming Microsoft Edge's Current Release - Browser Defense Pro</u></a></li>
-<li><a href="https://win-forum.techidaily.com/easy-steps-to-refresh-your-pc-updating-windows-10-driver-software/"><u>Easy Steps to Refresh Your PC: Updating Windows 10 Driver Software</u></a></li>
-<li><a href="https://win-forum.techidaily.com/effective-ways-to-delete-user-settings-in-windows-11-via-revouninstaller-software/"><u>Effective Ways to Delete User Settings in Windows 11 via RevoUninstaller Software</u></a></li>
-<li><a href="https://win-forum.techidaily.com/expert-advice-efficiently-flush-dns-caches-across-both-windows-10-and-windows-11-platforms/"><u>Expert Advice: Efficiently Flush DNS Caches Across Both Windows 10 and Windows 11 Platforms</u></a></li>
-<li><a href="https://win-forum.techidaily.com/guide-updating-graphics-and-sound-cards-in-windows-11-made-simple/"><u>Guide: Updating Graphics and Sound Cards in Windows 11 Made Simple</u></a></li>
-<li><a href="https://win-forum.techidaily.com/how-to-optimize-and-reduce-high-disk-resource-consumption-in-windows/"><u>How to Optimize and Reduce High Disk Resource Consumption in Windows</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nubia-red-magic-8s-proplus-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Nubia Red Magic 8S Pro+ Phone Without Password?</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-meet-mycam-cam-the-home-video-revolution-unfolding/"><u>In 2024, Meet MyCam Cam  The Home Video Revolution Unfolding</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-unleash-the-potential-of-video-marketing-on-facebook/"><u>In 2024, Unleash the Potential of Video Marketing on Facebook</u></a></li>
-<li><a href="https://win-forum.techidaily.com/leading-social-networks-for-engagement-facebook-twitter-instagram-youtube-uncovered/"><u>Leading Social Networks for Engagement: Facebook, Twitter, Instagram, YouTube Uncovered</u></a></li>
-<li><a href="https://win-forum.techidaily.com/mastering-the-fix-for-peak-disk-usage-spike-on-your-windows-10-device-top-tips-and-tricks/"><u>Mastering the Fix for Peak Disk Usage Spike on Your Windows 10 Device: Top Tips & Tricks</u></a></li>
-<li><a href="https://win-forum.techidaily.com/navigating-the-big-four-of-online-networking-facebook-twitter-instagram-youtube/"><u>Navigating The Big Four of Online Networking: Facebook, Twitter, Instagram, Youtube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/navigating-the-giants-of-online-networking-facebook-twitter-instagram-and-youtube/"><u>Navigating the Giants of Online Networking: Facebook, Twitter, Instagram and Youtube</u></a></li>
-<li><a href="https://windows11.techidaily.com/reconnecting-to-ea-servers-after-connection-failures-in-windows/"><u>Reconnecting to EA Servers After Connection Failures in Windows</u></a></li>
-<li><a href="https://fox-that.techidaily.com/revive-your-iphone-easily-with-our-expert-soft-reset-guide/"><u>Revive Your iPhone Easily with Our Expert Soft Reset Guide</u></a></li>
-<li><a href="https://win-forum.techidaily.com/secure-superuser-access-for-applications-a-step-by-step-tutorial-for-windows-11-users/"><u>Secure Superuser Access for Applications: A Step-by-Step Tutorial for Windows 11 Users</u></a></li>
-<li><a href="https://win-forum.techidaily.com/1722915274991-social-media-success-strategies-for-facebook-twitter-instagram-and-you/"><u>Social Media Success Strategies for Facebook, Twitter, Instagram & You.</u></a></li>
-<li><a href="https://driver-download.techidaily.com/step-by-step-guide-updating-your-usb-to-serial-port-driver/"><u>Step-by-Step Guide: Updating Your USB-to-Serial Port Driver</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-guide-updating-your-windows-10-hardware-drivers-easily/"><u>Step-by-Step Guide: Updating Your Windows 10 Hardware Drivers Easily</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamline-your-vids-with-these-8-windows-titles/"><u>Streamline Your Vids with These 8 Windows Titles</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-quintessential-social-giants-for-digital-engagement-fb-twitter-ig-and-yt/"><u>The Quintessential Social Giants for Digital Engagement: FB, TWITTER, IG and YT</u></a></li>
-<li><a href="https://win-forum.techidaily.com/unlocking-new-possibilities-configuring-windows-11-on-cpus-not-officially-supported/"><u>Unlocking New Possibilities: Configuring Windows 11 on CPUs Not Officially Supported</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-cryptic-snapshots-advanced-concealed-image-recording-on-snapchat-for-2024/"><u>[New] Cryptic SnapShots Advanced Concealed Image Recording on Snapchat for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-purestream-app-audit-report/"><u>[New] PureStream App Audit Report</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-trustworthy-tactics-for-multiplying-a-million-views-on-youtube/"><u>[New] Trustworthy Tactics for Multiplying a Million Views on YouTube</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-exploring-the-depths-of-screen-recording-software/"><u>[Updated] Exploring the Depths of Screen Recording Software</u></a></li>
+<li><a href="https://win-forum.techidaily.com/budget-friendly-office-suite-comparison-an-effective-substitute-for-microsoft-office/"><u>Budget-Friendly Office Suite Comparison: An Effective Substitute for Microsoft Office</u></a></li>
+<li><a href="https://driver-install.techidaily.com/crack-the-code-to-perfect-usb-on-windows/"><u>Crack the Code to Perfect USB on Windows</u></a></li>
+<li><a href="https://win-forum.techidaily.com/download-arc-browser-official-release-for-windows-11-users/"><u>Download Arc Browser: Official Release for Windows 11 Users</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/full-guide-to-unlock-your-tecno-spark-10-5g-by-drfone-android/"><u>Full Guide to Unlock Your Tecno Spark 10 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-huawei-nova-y71-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted Huawei Nova Y71 Contacts An Easy Method Explained.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Tecno Spark 20C? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-ultimate-guide-to-bypassing-icloud-activation-lock-from-iphone-6s-plus-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Bypassing iCloud Activation Lock from iPhone 6s Plus</u></a></li>
+<li><a href="https://win-forum.techidaily.com/latest-cybersecurity-news-a-closer-look-at-atandts-security-lapse-and-the-new-wave-of-samsung-mobile-devices/"><u>Latest Cybersecurity News: A Closer Look at AT&T’s Security Lapse and the New Wave of Samsung Mobile Devices</u></a></li>
+<li><a href="https://win-forum.techidaily.com/launch-of-arc-browser-now-compatible-with-windows-10/"><u>Launch of Arc Browser: Now Compatible with Windows 10</u></a></li>
+<li><a href="https://win-forum.techidaily.com/lenovo-unveils-the-future-of-portable-computing-the-revolutionary-l-series-lineup/"><u>Lenovo Unveils the Future of Portable Computing: The Revolutionary L-Series Lineup</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

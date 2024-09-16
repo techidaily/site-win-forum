@@ -1,7 +1,7 @@
 ---
 title: Detecting Empty Cells Using the ISBLANK Function in Microsoft Excel
-date: 2024-09-10T10:54:26.680Z
-updated: 2024-09-11T10:54:26.680Z
+date: 2024-09-09T16:24:56.460Z
+updated: 2024-09-16T16:47:19.981Z
 tags:
   - excel
 categories:
@@ -17,20 +17,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 * [Check If a Cell Is Blank With Excel's ISBLANK Function](https://facebook-clips.techidaily.com/new-enhancing-fb-video-content-with-streamlined-captioning-tactics/)
 * [Perform an Action When a Cell Is Blank or Non-Blank](https://youtube-web.techidaily.com/n-2024-how-to-get-free-views-on-youtube-2-easy-ways/)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ### Key Takeaways
 
  You can use Excel's ISBLANK function with a cell reference as the argument, for example "=ISBLANK(A1)", to check if that cell is blank or non-blank. Combine it with other functions to perform actions depending on the result.
@@ -42,20 +28,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
  function enables you to check whether a cell is blank or not. You can use this function in conjunction with the `IF` function to determine what happens to your cells when they're blank or non-blank. Here's how to do it.
 
 Related: [How to Count Blank or Empty Cells in Microsoft Excel](https://fox-blue.techidaily.com/2024-approved-revel-in-richness-your-pcs-pathway-to-exceptional-video-quality/) 
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ##  What Is the ISBLANK Function in Excel?
 
@@ -87,25 +59,18 @@ Related: [How to Count Blank or Empty Cells in Microsoft Excel](https://fox-blue
 
 Related: [How to Use the IS Functions in Microsoft Excel](https://win-amazing.techidaily.com/new-release-gtx-1650-super-driver-updates-compatible-with-windows-11/) 
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123473/16836" target="_top" id="2123473">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123473" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123473/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ##  Check If a Cell Is Blank With Excel's ISBLANK Function
 
  To use the function, first, open your spreadsheet with the Excel app and click the cell where you want to display the function's result.
 
 ![Select a cell.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/1-select-cell-excel.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2114265/17093" target="_top" id="2114265">
+  <img src="//a.impactradius-go.com/display-ad/17093-2114265" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114265/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  In the selected cell, type the following function and press Enter. In this function, replace `C2` with the cell that you want to check.
 
@@ -117,43 +82,9 @@ Related: [How to Use the IS Functions in Microsoft Excel](https://win-amazing.te
 
 ![The result of the ISBLANK function.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/3-excel-isblank-function-result.png) 
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  Now you know what cell is and isn't blank in your spreadsheet.
 
 Related: [How to Fill Excel Cells Automatically with Flash Fill and Auto Fill](https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-honor-magic-6-drfone-by-drfone-virtual-android/) 
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ##  Perform an Action When a Cell Is Blank or Non-Blank
 
@@ -165,6 +96,19 @@ Related: [How to Fill Excel Cells Automatically with Flash Fill and Auto Fill](h
 
 ![Choose a cell.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/4-choose-cell-excel.png) 
 
+<!-- affiliate ads begin -->
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In your selected cell, type the following function and press Enter. Here, replace `C2` with the cell that you want to check (if it's blank or not), `Sale Not Made` with the text you want to use if the cell is blank, and `Sale Made` with the text if the cell is not blank.
 
 =IF(ISBLANK(C2),"Sale Not Made","Sale Made")
@@ -173,25 +117,12 @@ Related: [How to Fill Excel Cells Automatically with Flash Fill and Auto Fill](h
 
 ![The result of the IF and ISBLANK functions.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/5-excel-isblank-if-function-result.png) 
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115948/19272" target="_top" id="2115948">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115948" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115948/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  And you now have your chosen text displayed for your blank and non-blank cells.
 
@@ -203,8 +134,6 @@ Related: [How to Skip Pasting Blank Cells When Copying in Microsoft Excel](https
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -214,35 +143,15 @@ Related: [How to Skip Pasting Blank Cells When Copying in Microsoft Excel](https
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-preserve-your-animated-fun-discover-the-best-9-gif-recorder-apps-for-pc/"><u>[Updated] 2024 Approved  Preserve Your Animated Fun  Discover the Best 9 GIF Recorder Apps for PC</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-step-by-step-guide-for-capturing-fb-streams/"><u>[Updated] 2024 Approved  Step-by-Step Guide for Capturing FB Streams</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-the-basic-routes-to-sync-obs-with-zoom/"><u>[Updated] 2024 Approved  The Basic Routes to Sync OBS with Zoom</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-transform-your-videos-swiftly-with-these-top-8-iphone-apps/"><u>[Updated] Transform Your Videos Swiftly with These Top 8 iPhone Apps</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-adventure-aces-ranking-games-that-make-you-want-to-explore/"><u>2024 Approved  Adventure Aces  Ranking Games That Make You Want to Explore</u></a></li>
-<li><a href="https://win-forum.techidaily.com/bypass-limitations-windows-11-setup-for-ineligible-cpus-explained/"><u>Bypass Limitations: Windows 11 Setup for Ineligible CPUs Explained</u></a></li>
-<li><a href="https://win-forum.techidaily.com/complete-guide-step-by-step-factory-reset-process-in-windows-11/"><u>Complete Guide: Step-by-Step Factory Reset Process in Windows 11</u></a></li>
-<li><a href="https://win-forum.techidaily.com/comprehensive-tutorial-on-deleting-user-profiles-in-windows-10-operating-system/"><u>Comprehensive Tutorial on Deleting User Profiles in Windows 10 Operating System</u></a></li>
-<li><a href="https://win-forum.techidaily.com/conquering-cyberspace-with-social-giants-facebook-twitter-insta-world-and-youtube/"><u>Conquering Cyberspace with Social Giants: Facebook, Twitter, Insta-World and YouTube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/enhance-your-pc-maintenance-with-revo-uninstallers-latest-pro-version/"><u>Enhance Your PC Maintenance with Revo Uninstaller's Latest Pro Version</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-samsung-galaxy-a15-5g-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Samsung Galaxy A15 5G Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://discover-advanced.techidaily.com/hassle-free-mobile-checks-abbyys-ocr-sdk-transforms-portable-loan-verifications/"><u>Hassle-Free Mobile Checks: ABBYY's OCR SDK Transforms Portable Loan Verifications</u></a></li>
-<li><a href="https://win-forum.techidaily.com/how-to-roll-back-an-unwanted-windows-11-update-a-comprehensive-guide/"><u>How to Roll Back an Unwanted Windows 11 Update: A Comprehensive Guide</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-vivo-v29e-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Vivo V29e phone? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-vivo-v30-pro-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Vivo V30 Pro Without PUK Codes</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-use-face-id-to-pay-for-apple-music-on-iphone-14-plus-by-drfone-ios-unlock-ios-unlock/"><u>How to Use Face ID to Pay for Apple Music on iPhone 14 Plus</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Vivo V30 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://win-forum.techidaily.com/in-depth-strategies-to-curb-total-disk-consumption-by-windows-10-applications/"><u>In-Depth Strategies to Curb Total Disk Consumption by Windows 10 Applications</u></a></li>
-<li><a href="https://win-forum.techidaily.com/navigating-social-media-landscapes-insights-on-facebook-twitter-instagram-and-youtube-usage/"><u>Navigating Social Media Landscapes: Insights on Facebook, Twitter, Instagram and Youtube Usage</u></a></li>
-<li><a href="https://win-forum.techidaily.com/navigating-the-world-of-digital-networking-insights-on-facebook-twitter-instagram-and-youtube/"><u>Navigating the World of Digital Networking: Insights on Facebook, Twitter, Instagram & YouTube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/social-media-networks-facebook-twitter-instagram-and-youtube/"><u>Social Media Networks: Facebook, Twitter, Instagram & YouTube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/social-media-titans-a-deep-dive-into-facebook-twitter-instagram-and-youtube-usage/"><u>Social Media Titans: A Deep Dive Into Facebook, Twitter, Instagram & YouTube Usage</u></a></li>
-<li><a href="https://win-forum.techidaily.com/stop-the-halt-effective-ways-to-address-and-repair-pc-stops-and-jams/"><u>Stop the Halt: Effective Ways to Address and Repair PC Stops & Jams</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-quintessential-social-media-sites-navigating-facebook-twitter-insta-and-youtube/"><u>The Quintessential Social Media Sites: Navigating Facebook, Twitter, Insta, and Youtube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/top-networking-sites-facebook-twitter-instagram-and-youtube/"><u>Top Networking Sites - Facebook, Twitter, Instagram, and YouTube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/ultimate-instructions-for-eliminating-kernel-memory-files-in-windows-11/"><u>Ultimate Instructions for Eliminating Kernel-Memory Files in Windows 11</u></a></li>
-<li><a href="https://win-forum.techidaily.com/understanding-digital-engagement-on-leading-channels-facebook-twitter-instagram-and-youtube/"><u>Understanding Digital Engagement on Leading Channels: Facebook, Twitter, Instagram & Youtube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/unlocking-full-control-running-software-with-admin-privileges-in-windows-11-without-hesitation/"><u>Unlocking Full Control: Running Software with Admin Privileges in Windows 11 Without Hesitation</u></a></li>
-<li><a href="https://win-forum.techidaily.com/unveiling-the-basics-understanding-bios-with-revouninstaller/"><u>Unveiling the Basics: Understanding BIOS with RevoUninstaller</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-smooth-operator-a-plugin-free-guide-to-skin-retouching-in-fcpx/"><u>Updated Smooth Operator A Plugin-Free Guide to Skin Retouching in FCPX</u></a></li>
-<li><a href="https://win-forum.techidaily.com/wireless-network-management-using-wake-on-lan-in-windows-operating-systems/"><u>Wireless Network Management: Using Wake-on-LAN in Windows Operating Systems</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-unveiling-social-media-puzzles-how-to-use-facebook-insights/"><u>[New] In 2024, Unveiling Social Media Puzzles How to Use Facebook Insights</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-starlight-moment-capture-analysis/"><u>[New] Starlight Moment Capture Analysis</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-snapperview-4-review-synopsis/"><u>2024 Approved SnapperView 4 Review Synopsis</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-twitters-visual-treats-free-video-to-gif-transformation/"><u>2024 Approved Twitter's Visual Treats Free Video to Gif Transformation</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-oppo-a1-5g-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Oppo A1 5G Phone Using PC | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/the-game-plan-for-getting-your-product-in-front-of-a-youtubers-audience-for-2024/"><u>The Game Plan for Getting Your Product in Front of a Youtuber's Audience for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-how-to-stop-elex-ii-from-continuously-failing-on-pc/"><u>Troubleshooting Guide: How To Stop Elex II From Continuously Failing On PC</u></a></li>
+<li><a href="https://win-forum.techidaily.com/unlock-the-power-of-your-pc-discover-13-methods-to-access-windows-11-settings/"><u>Unlock the Power of Your PC: Discover 13 Methods to Access Windows 11 Settings</u></a></li>
+<li><a href="https://win-forum.techidaily.com/unlock-your-browser-freedom-a-comprehensive-tutorial-to-deactivate-microsoft-smartscreen-filter-in-windows-11-and-8/"><u>Unlock Your Browser Freedom: A Comprehensive Tutorial to Deactivate Microsoft SmartScreen Filter in Windows 11 and 8</u></a></li>
+<li><a href="https://win-forum.techidaily.com/unseen-transformation-how-the-true-artificial-intelligence-shift-is-happening/"><u>Unseen Transformation: How the True Artificial Intelligence Shift Is Happening</u></a></li>
 </ul></div>
+

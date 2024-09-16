@@ -1,7 +1,7 @@
 ---
 title: "DIY Windows Alerts: Setting Up an Easy Event Log Notification Tool"
-date: 2024-09-10T10:54:26.714Z
-updated: 2024-09-11T10:54:26.714Z
+date: 2024-09-13T16:46:59.785Z
+updated: 2024-09-16T16:50:09.785Z
 tags:
   - excel
 categories:
@@ -9,35 +9,7 @@ categories:
 thumbnail: https://thmb.techidaily.com/fa51da89f91ea3306806b0c92d6d119cfa0eae393a63e41c230a883a3e7c64cd.jpg
 ---
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## DIY Windows Alerts: Setting Up an Easy Event Log Notification Tool
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Quick Links
 
@@ -52,20 +24,6 @@ thumbnail: https://thmb.techidaily.com/fa51da89f91ea3306806b0c92d6d119cfa0eae393
 ##  How It Works
 
  Our solution works by using a freeware utility, MyEventViewer, by Nirsoft which allows you to easily export Windows Event Logs to a comma separated file. Based on this output, we have developed an easy to configure batch script which filters these results and then can email and/or save the filtered results file. Because the results are a comma separated file, it can be opened in Excel (or your favorite CSV program) and further sorted and filtered.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ##  Configuration
 
@@ -83,26 +41,6 @@ thumbnail: https://thmb.techidaily.com/fa51da89f91ea3306806b0c92d6d119cfa0eae393
 
 ![image](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2011/08/image2.png) 
 
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 **Event Types** 
 
  The values for the Event Types is simply the text you see in the "Level" column when you are viewing Event Logs. Typically these are either Information, Warning or Error but various logs may have different values.
@@ -119,39 +57,12 @@ thumbnail: https://thmb.techidaily.com/fa51da89f91ea3306806b0c92d6d119cfa0eae393
 
 ![image](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2011/08/image4.png) 
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ##  Examples
 
@@ -201,8 +112,6 @@ thumbnail: https://thmb.techidaily.com/fa51da89f91ea3306806b0c92d6d119cfa0eae393
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -212,45 +121,19 @@ thumbnail: https://thmb.techidaily.com/fa51da89f91ea3306806b0c92d6d119cfa0eae393
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-influence-unleashed-5-crucial-steps-to-thriving-on-instagram-marketing/"><u>[New] Influence Unleashed  5 Crucial Steps to Thriving on Instagram Marketing</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-basic-recorder-your-windows-10-companion/"><u>[Updated] In 2024, Basic Recorder - Your Windows 10 Companion</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-mastering-image-quality-a-guide-without-watermarks-for-2024/"><u>[Updated] Mastering Image Quality  A Guide Without Watermarks for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-shopping-spree-simplified-the-compreenas-guide-to-creating-and-crafting-haul-vids/"><u>2024 Approved  Shopping Spree Simplified  The Compreenas Guide to Creating & Crafting Haul Vids</u></a></li>
-<li><a href="https://win-forum.techidaily.com/a-comprehensive-guide-to-leading-social-platforms-facebook-twitter-instagram-and-youtube/"><u>A Comprehensive Guide to Leading Social Platforms: Facebook, Twitter, Instagram and YouTube</u></a></li>
-<li><a href="https://android-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-sony-xperia-5-v-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Sony Xperia 5 V</u></a></li>
-<li><a href="https://win-forum.techidaily.com/connect-and-engage-with-audience-through-major-platforms-facebook-twitter-instagram-and-youtube-explained/"><u>Connect and Engage with Audience Through Major Platforms: Facebook, Twitter, Instagram & YouTube Explained</u></a></li>
-<li><a href="https://win-forum.techidaily.com/connecting-billions-an-in-depth-look-at-facebook-twitter-instagram-and-youtube/"><u>Connecting Billions: An In-Depth Look at Facebook, Twitter, Instagram, and YouTube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/digital-giants-unveiled-mastering-interactions-on-facebook-twitter-instagram-and-youtube/"><u>Digital Giants Unveiled: Mastering Interactions on Facebook, Twitter, Instagram & YouTube</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-and-setup-intel-chipset-serial-io-drivers/"><u>Download & Setup: Intel Chipset Serial I/O Drivers</u></a></li>
-<li><a href="https://win-forum.techidaily.com/effective-ways-to-delete-user-settings-in-windows-11-via-revouninstaller-software/"><u>Effective Ways to Delete User Settings in Windows 11 via RevoUninstaller Software</u></a></li>
-<li><a href="https://win-forum.techidaily.com/expert-advice-efficiently-flush-dns-caches-across-both-windows-10-and-windows-11-platforms/"><u>Expert Advice: Efficiently Flush DNS Caches Across Both Windows 10 and Windows 11 Platforms</u></a></li>
-<li><a href="https://win-forum.techidaily.com/exploring-social-media-giants-a-guide-to-facebook-twitter-instagram-and-youtube/"><u>Exploring Social Media Giants: A Guide to Facebook, Twitter, Instagram & Youtube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/exploring-social-media-giants-insights-into-facebook-twitter-instagram-and-youtube-usage/"><u>Exploring Social Media Giants: Insights Into Facebook, Twitter, Instagram and YouTube Usage</u></a></li>
-<li><a href="https://win-forum.techidaily.com/guide-updating-graphics-and-sound-cards-in-windows-11-made-simple/"><u>Guide: Updating Graphics and Sound Cards in Windows 11 Made Simple</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-contacts-from-redmi-note-12-proplus-5g-by-fonelab-android-recover-contacts/"><u>How to recover deleted contacts from Redmi Note 12 Pro+ 5G.</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Oppo A1x 5G? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-honor-play-40c-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Honor Play 40C Phone? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-realme-c67-4g-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Realme C67 4G Pattern Lock Screen</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Watch Hulu Outside US On Apple iPhone 13 | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/journey-from-photographic-moments-to-sequential-videos/"><u>Journey From Photographic Moments to Sequential Videos</u></a></li>
-<li><a href="https://win-forum.techidaily.com/mastering-the-fix-for-peak-disk-usage-spike-on-your-windows-10-device-top-tips-and-tricks/"><u>Mastering the Fix for Peak Disk Usage Spike on Your Windows 10 Device: Top Tips & Tricks</u></a></li>
-<li><a href="https://win-forum.techidaily.com/mastering-the-windows-registry-edit-add-or-remove-key-steps/"><u>Mastering the Windows Registry: Edit, Add, or Remove Key Steps</u></a></li>
-<li><a href="https://win-forum.techidaily.com/navigating-the-big-four-of-online-networking-facebook-twitter-instagram-youtube/"><u>Navigating The Big Four of Online Networking: Facebook, Twitter, Instagram, Youtube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/navigating-the-giants-of-online-networking-facebook-twitter-instagram-and-youtube/"><u>Navigating the Giants of Online Networking: Facebook, Twitter, Instagram and Youtube</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/premium-memory-device-for-sony-a7s-cameras/"><u>Premium Memory Device for Sony A7S Cameras</u></a></li>
-<li><a href="https://win-forum.techidaily.com/secure-superuser-access-for-applications-a-step-by-step-tutorial-for-windows-11-users/"><u>Secure Superuser Access for Applications: A Step-by-Step Tutorial for Windows 11 Users</u></a></li>
-<li><a href="https://win-forum.techidaily.com/1722915274991-social-media-success-strategies-for-facebook-twitter-instagram-and-you/"><u>Social Media Success Strategies for Facebook, Twitter, Instagram & You.</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-guide-clearing-the-domain-name-system-cache-on-windows-10-and-11/"><u>Step-by-Step Guide: Clearing the Domain Name System Cache on Windows 10 & 11</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-guide-clearing-windows-10-system-cache-with-ease/"><u>Step-by-Step Guide: Clearing Windows 10 System Cache with Ease</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-guide-clearing-your-domain-name-system-cache-on-windows-1011/"><u>Step-by-Step Guide: Clearing Your Domain Name System Cache on Windows 10/11</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-guide-updating-your-windows-10-hardware-drivers-easily/"><u>Step-by-Step Guide: Updating Your Windows 10 Hardware Drivers Easily</u></a></li>
-<li><a href="https://win-forum.techidaily.com/stop-file-explorer-disruptions-with-these-7-proven-fixes/"><u>Stop File Explorer Disruptions with These 7 Proven Fixes</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-digital-mosaic-a-guide-to-successful-branding-on-facebook-twitter-instagram-and-youtube/"><u>The Digital Mosaic: A Guide to Successful Branding on Facebook, Twitter, Instagram & Youtube.</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-power-trio-of-social-networks-unpacking-facebook-twitter-instagram-and-youtube-influence/"><u>The Power Trio of Social Networks: Unpacking Facebook, Twitter, Instagram & YouTube Influence</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-powerhouses-of-digital-connection-facebook-twitter-instagram-and-youtube/"><u>The Powerhouses of Digital Connection: Facebook, Twitter, Instagram & YouTube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-quintessential-social-giants-for-digital-engagement-fb-twitter-ig-and-yt/"><u>The Quintessential Social Giants for Digital Engagement: FB, TWITTER, IG and YT</u></a></li>
-<li><a href="https://common-error.techidaily.com/top-8-solutions-to-resolve-windows-10-error-message-0x800f0922/"><u>Top 8 Solutions to Resolve Windows 10 Error Message: 0X800F0922</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/-guide-to-video-dimensions-and-proportion-harmony-on-youtube-for-2024/"><u>Total Guide to Video Dimensions & Proportion Harmony on YouTube for 2024</u></a></li>
-<li><a href="https://win-forum.techidaily.com/unlocking-new-possibilities-configuring-windows-11-on-cpus-not-officially-supported/"><u>Unlocking New Possibilities: Configuring Windows 11 on CPUs Not Officially Supported</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/update-and-fix-enhance-performance-on-windows-11-v2004-with-new-conexant-driver/"><u>Update and Fix: Enhance Performance on Windows 11 (v2004) With New Conexant Driver</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-pinnacle-creations-summary-studio-25-detailed-assessment-2023/"><u>[New] Pinnacle Creations Summary Studio 25 Detailed Assessment, 2023</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-luminosity-boost-for-low-light-mobile-video/"><u>[Updated] Luminosity Boost for Low-Light Mobile Video</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unzip-excitement-funimate-pros-apk-unwrapped/"><u>2024 Approved Unzip Excitement - Funimate Pro's APK Unwrapped</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/androids-low-cost-video-call-app-selection/"><u>Android's Low Cost Video Call App Selection</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721477462829-cant-upload-photos-to-icloud-from-iphone-try-these-9-fixes/"><u>Can't Upload Photos to iCloud From iPhone? Try These 9 Fixes!</u></a></li>
+<li><a href="https://win-forum.techidaily.com/comprehensive-tutorial-on-locking-text-files-behind-strong-passwords/"><u>Comprehensive Tutorial on Locking Text Files Behind Strong Passwords</u></a></li>
+<li><a href="https://win-forum.techidaily.com/comprehensive-tutorial-solving-teardown-application-crashes-a-complete-step-by-step-guide/"><u>Comprehensive Tutorial: Solving Teardown Application Crashes - A Complete Step-by-Step Guide</u></a></li>
+<li><a href="https://win-forum.techidaily.com/connect-with-the-world-mastering-facebook-twitter-instagram-and-youtube-strategies/"><u>Connect with the World: Mastering Facebook, Twitter, Instagram, and YouTube Strategies</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/explore-these-15-fantastic-gratis-software-uninstallers-for-your-pc/"><u>Explore These 15 Fantastic Gratis Software Uninstallers for Your PC</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-ensure-optimal-performance-by-keeping-device-drivers-current-in-windows-10/"><u>How to Ensure Optimal Performance by Keeping Device Drivers Current in Windows 10</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-seamlessly-install-the-latest-driver-updates-for-your-devices-in-windows-11-with-revo-uninstaller/"><u>How to Seamlessly Install the Latest Driver Updates for Your Devices in Windows 11 With Revo Uninstaller</u></a></li>
+<li><a href="https://video-capture.techidaily.com/screenflow-for-mac-a-full-featured-deep-dive-for-2024/"><u>ScreenFlow for Mac - A Full Featured Deep Dive for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/struggling-with-slow-iphone-screen-shutdowns-discover-proven-fixes-for-immediate-action/"><u>Struggling with Slow iPhone Screen Shutdowns? Discover Proven Fixes for Immediate Action</u></a></li>
+<li><a href="https://win-forum.techidaily.com/workaround-for-windows-11-installation-tips-for-non-qualifying-cpus/"><u>Workaround for Windows 11: Installation Tips for Non-Qualifying CPUs</u></a></li>
 </ul></div>
+

@@ -1,27 +1,13 @@
 ---
 title: Master the Art of Converting Table Rows to Columns with These Microsoft Word Tips and Tricks
-date: 2024-09-10T10:54:26.983Z
-updated: 2024-09-11T10:54:26.983Z
+date: 2024-09-14T16:23:00.739Z
+updated: 2024-09-16T16:54:32.756Z
 tags:
   - excel
 categories:
   - tech
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/06/00_lead_image_transpose_word_table.png
 ---
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Master the Art of Converting Table Rows to Columns with These Microsoft Word Tips and Tricks
 
@@ -35,79 +21,17 @@ Related: [How to Convert a Row to a Column in Excel the Easy Way](https://some-s
 
 ![02_copying_selected_table](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/06/02_copying_selected_table.png) 
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  Open Excel and place the cursor in a blank cell on the worksheet. Press Ctrl+V to paste the table at the cursor. The pasted cells are automatically selected. Now, [transpose the rows and columns using Excel's Transpose feature as described here](https://some-skills.techidaily.com/updated-transition-to-hdr-a-step-forward-in-high-quality-video/).
 
 ![03_table_pasted_into_excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/06/03_table_pasted_into_excel.png) 
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  Once you've transposed the rows and columns, the cells are automatically selected again. Press Ctrl+C to copy the selected cells.
 
 ![04_table_copied_in_excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/06/04_table_copied_in_excel.png) 
 
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  Go back to your Word document, place the cursor where you want the table, and press Ctrl+V to paste the transposed table. The rows are now columns and the columns are rows.
 
 ![05_transposed_table_pasted_in_word](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/06/05_transposed_table_pasted_in_word.png) 
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  You may find that your text is not aligned or formatted the way you want. For example, in our transposed table, the row headings were centered and the column headings were left aligned after we transposed the table. That's because the formatting from the original row and column headings was preserved. However, reformatting the transposed table is easier than retyping all your data.
 
@@ -116,8 +40,6 @@ Related: [How to Convert a Row to a Column in Excel the Easy Way](https://some-s
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -128,54 +50,25 @@ Related: [How to Convert a Row to a Column in Excel the Easy Way](https://some-s
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-exploring-latest-wins-windows-10-enhancements/"><u>[New] 2024 Approved  Exploring Latest Wins  Windows 10 Enhancements</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-highlighting-the-leading-10-shadowy-story-viewers/"><u>[New] 2024 Approved  Highlighting the Leading 10 Shadowy Story Viewers</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-digital-portraits-proven-the-science-of-social-snap-validation/"><u>[New] In 2024, Digital Portraits Proven  The Science of Social Snap Validation</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-expert-tips-for-removing-persistent-youtube-channels-mobilepc/"><u>[New] In 2024, Expert Tips for Removing Persistent Youtube Channels (Mobile/PC)</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-mastering-the-craft-of-igtv-video-production-with-phones-and-dslrs/"><u>[New] Mastering the Craft of IGTV Video Production with Phones and DSLRs</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-perfecting-your-dialogue-a-google-meet-strategy-for-2024/"><u>[New] Perfecting Your Dialogue  A Google Meet Strategy for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-mp4mpeg-audio-extraction-tool/"><u>[Updated] MP4/MPEG Audio Extraction Tool</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-5-must-try-tiktok-food-challenges/"><u>2024 Approved  5 Must-Try TikTok Food Challenges</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-professional-techniques-to-streamline-video-capture-on-computers-and-phones/"><u>2024 Approved  Professional Techniques to Streamline Video Capture on Computers & Phones</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-top-fifa-scoreboard-tactics-in-infographics/"><u>2024 Approved  Top FIFA Scoreboard Tactics in Infographics</u></a></li>
-<li><a href="https://win-forum.techidaily.com/advanced-file-deletion-techniques-with-command-prompt-for-windows-10-users/"><u>Advanced File Deletion Techniques with Command Prompt for Windows 10 Users</u></a></li>
-<li><a href="https://win-forum.techidaily.com/android-11-features-one-time-permission-revouninstaller/"><u>Android 11 Features: One-Time Permission - RevoUninstaller</u></a></li>
-<li><a href="https://win-blog.techidaily.com/beat-darkest-dungeon-2s-pc-malfunctions-a-step-by-step-guide-to-stable-gameplay/"><u>Beat Darkest Dungeon 2'S PC Malfunctions: A Step-by-Step Guide to Stable Gameplay</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bolstering-bygone-directx-games-with-cutting-edge-dxvk-features/"><u>Bolstering Bygone DirectX Games with Cutting-Edge DXVK Features</u></a></li>
-<li><a href="https://win-forum.techidaily.com/complete-guide-forcibly-deleting-files-and-folders-in-windows-11-using-revo-uninstaller/"><u>Complete Guide: Forcibly Deleting Files and Folders in Windows 11 Using Revo Uninstaller</u></a></li>
-<li><a href="https://win-forum.techidaily.com/connect-and-engage-on-the-webs-most-popular-sites-a-look-at-facebook-twitter-instagram-and-youtube/"><u>Connect and Engage on the Web's Most Popular Sites: A Look at Facebook, Twitter, Instagram & YouTube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/connecting-the-dots-in-digital-networking-through-facebook-twitter-instagram-and-youtube/"><u>Connecting the Dots in Digital Networking Through Facebook, Twitter, Instagram, and YouTube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/connecting-the-world-online-through-major-platforms-facebook-twitter-instagram-and-youtube/"><u>Connecting the World Online Through Major Platforms - Facebook, Twitter, Instagram & YouTube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/determining-your-current-windows-11-powershell-version-a-comprehensive-guide/"><u>Determining Your Current Windows 11 PowerShell Version: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-forum.techidaily.com/expert-advice-eliminating-unwanted-memory-dump-files-on-your-pc/"><u>Expert Advice: Eliminating Unwanted Memory Dump Files on Your PC</u></a></li>
-<li><a href="https://win-forum.techidaily.com/1722915371234-exploring-the-giants-of-social-networking-facebook-twitter-instagram-and-youtube/"><u>Exploring the Giants of Social Networking: Facebook, Twitter, Instagram and YouTube</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-huawei-p60-by-drfone-android/"><u>How to Bypass FRP on Huawei P60?</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-oneplus-11r-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset OnePlus 11R If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-expert-picks-for-superior-steadicams-in-aerial-cinema/"><u>In 2024, Expert Picks for Superior Steadicams in Aerial Cinema</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-podcast-titling-a-comprehensive-approach/"><u>In 2024, Mastering Podcast Titling  A Comprehensive Approach</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-picart-tips-for-perfect-background-removal/"><u>In 2024, PicArt Tips for Perfect Background Removal</u></a></li>
-<li><a href="https://win-forum.techidaily.com/mastering-social-media-engagement-across-major-platforms-facebook-twitter-instagram-and-youtube/"><u>Mastering Social Media Engagement Across Major Platforms: Facebook, Twitter, Instagram and YouTube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/mastering-the-art-of-driver-updates-for-windows-10-devices-with-revouninstaller/"><u>Mastering the Art of Driver Updates for Windows 10 Devices with RevoUninstaller</u></a></li>
-<li><a href="https://win-forum.techidaily.com/mastering-the-social-sphere-with-facebook-twitter-instagram-and-youtube/"><u>Mastering the Social Sphere with Facebook, Twitter, Instagram & YouTube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/navigating-the-social-media-giants-facebook-twitter-instagram-and-youtube/"><u>Navigating the Social Media Giants: Facebook, Twitter, Instagram & YouTube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/overcoming-the-issue-of-apps-not-launching-on-your-computer-expert-tips-and-solutions/"><u>Overcoming the Issue of Apps Not Launching on Your Computer: Expert Tips & Solutions</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/premier-vr-manipulators-to-try-now-for-2024/"><u>Premier VR Manipulators to Try Now for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-iphone-xs-data-from-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone XS Data From iTunes | Dr.fone</u></a></li>
-<li><a href="https://win-forum.techidaily.com/remove-unwanted-online-trackers-a-complete-walkthrough-for-windows-11android-users/"><u>Remove Unwanted Online Trackers: A Complete Walkthrough for Windows 11/Android Users</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-interruptexceptionnothandled-in-w11-bsods/"><u>Resolving INTERRUPT_EXCEPTION_NOT_HANDLED in W11 BSODs</u></a></li>
-<li><a href="https://win-forum.techidaily.com/say-goodbye-to-clutter-with-revo-uninstaller-pros-version-5-enhanced-features/"><u>Say Goodbye to Clutter with Revo Uninstaller Pro's Version 5 Enhanced Features</u></a></li>
-<li><a href="https://win-forum.techidaily.com/social-giants-of-the-internet-era-exploring-facebook-twitter-instagram-and-youtube/"><u>Social Giants of the Internet Era - Exploring Facebook, Twitter, Instagram, and Youtube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/social-media-titans-harnessing-the-power-of-facebook-twitter-instagram-and-youtube-for-your-brand/"><u>Social Media Titans: Harnessing the Power of Facebook, Twitter, Instagram & YouTube for Your Brand</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-guide-removing-hidden-applications-from-your-pc-without-using-control-panel/"><u>Step-by-Step Guide: Removing Hidden Applications From Your PC Without Using Control Panel</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-process-to-immediately-end-frozen-windows-programs-using-revouninstaller/"><u>Step-by-Step Process to Immediately End Frozen Windows Programs Using RevoUninstaller</u></a></li>
-<li><a href="https://win-forum.techidaily.com/tackling-complete-disk-use-in-windows-11-expert-solutions-and-tips/"><u>Tackling Complete Disk Use in Windows 11: Expert Solutions and Tips</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-power-of-online-influence-understanding-facebook-twitter-instagram-and-youtube/"><u>The Power of Online Influence: Understanding Facebook, Twitter, Instagram and YouTube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-powerhouse-quartet-of-online-interaction-facebook-twitter-insta-grams-and-youtubes-explained/"><u>The Powerhouse Quartet of Online Interaction: Facebook, Twitter, Insta-Grams & Youtubes Explained</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-quintessential-social-hubs-unveiling-facebook-twitter-instagram-and-youtubes-powerful-influence/"><u>The Quintessential Social Hubs: Unveiling Facebook, Twitter, Instagram & Youtube's Powerful Influence</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-ultimate-walkthrough-on-how-to-rollback-a-windows-11-patch/"><u>The Ultimate Walkthrough on How to Rollback a Windows 11 Patch</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/top-10-action-cameras-for-surfing/"><u>Top 10 Action Cameras for Surfing</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/top-10-innovative-mobile-layering-apps-for-android-and-iphone/"><u>Top 10 Innovative Mobile Layering Apps for Android & iPhone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-10-sci-fi-vr-adventures-new-realms-unveiled-for-2024/"><u>Top 10 Sci-Fi VR Adventures  New Realms Unveiled for 2024</u></a></li>
-<li><a href="https://win-forum.techidaily.com/top-social-platforms-compared-facebook-vs-twitter-vs-instagram-vs-youtube/"><u>Top Social Platforms Compared: Facebook Vs. Twitter Vs. Instagram Vs. YouTube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/ultimate-protection-safeguarding-your-text-files-with-password-encryption-techniques/"><u>Ultimate Protection: Safeguarding Your Text Files with Password Encryption Techniques</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-audioalert-essentials-downloading-and-editing-tamil-melodies/"><u>[New] AudioAlert Essentials Downloading & Editing Tamil Melodies</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-the-comprehensive-users-manual-on-using-ez-grabber/"><u>[Updated] 2024 Approved The Comprehensive User's Manual on Using EZ Grabber</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-intimate-game-viewing-a-closer-look-at-roblox-worlds/"><u>[Updated] Intimate Game Viewing A Closer Look at Roblox Worlds</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-producing-channel-trailer-synopses-a-guide/"><u>2024 Approved Producing Channel Trailer Synopses A Guide</u></a></li>
+<li><a href="https://win-forum.techidaily.com/efficiently-manage-your-pc-how-to-erase-windows-1/"><u>Efficiently Manage Your PC: How to Erase Windows 1</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-fresh-start-windows-11-installation-with-the-factory-default-settings/"><u>How To Fresh Start Windows 11 Installation With The Factory Default Settings</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-samsung-galaxy-a54-5g-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Samsung Galaxy A54 5G to Mac? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-lava-storm-5g-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Lava Storm 5G Location | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/quick-assembly-of-stunning-google-collages-for-2024/"><u>Quick Assembly of Stunning Google Collages for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/revitalize-your-network-the-ultimate-guide-to-flush-dns-in-windows-environments/"><u>Revitalize Your Network: The Ultimate Guide to Flush DNS in Windows Environments</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-big-four-in-online-interaction-connect-and-engage-on-facebook-twitter-instagram-and-youtube/"><u>The Big Four in Online Interaction: Connect and Engage on Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-social-networks-for-sharing-content-facebook-twitter-instagram-and-youtube/"><u>Top Social Networks for Sharing Content: Facebook, Twitter, Instagram and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/troubleshooting-errors-why-this-application-wont-start-on-windows/"><u>Troubleshooting Errors: Why This Application Won't Start on Windows</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Extracting Book Summary Data From Excel Spreadsheets"
-date: 2024-09-10T10:54:27.662Z
-updated: 2024-09-11T10:54:27.662Z
+date: 2024-09-12T16:17:10.407Z
+updated: 2024-09-16T16:57:03.941Z
 tags:
   - excel
 categories:
@@ -9,35 +9,7 @@ categories:
 thumbnail: https://thmb.techidaily.com/98a12915cb3d2cb54c3468dae6fd64cafa98af7144806238fd48ac7236bdda16.jpg
 ---
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115909/19272" target="_top" id="2115909">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115909" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115909/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## Step-by-Step Guide: Extracting Book Summary Data From Excel Spreadsheets
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Quick Links
 
@@ -48,20 +20,6 @@ thumbnail: https://thmb.techidaily.com/98a12915cb3d2cb54c3468dae6fd64cafa98af714
 
  Viewing [statistics in Microsoft Word](https://tech-savvy.techidaily.com/ai-and-healthcare-how-can-chatgpt-innovate/) is helpful for seeing the number of pages, words, or characters. But getting statistics in Excel can be just as useful. You may have a workbook for a class with specific requirements, or you may have a spreadsheet for business that you want to review for unnecessary elements.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ##  Get Workbook Statistics in Microsoft Excel
 
  You can view your Workbook Statistics at any point in your spreadsheet creation process, and as many times as you like.
@@ -70,61 +28,13 @@ thumbnail: https://thmb.techidaily.com/98a12915cb3d2cb54c3468dae6fd64cafa98af714
 
 ![Click Workbook Statistics on the Review tab](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/ReviewWorkbookStatistics-Excel.png) 
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  When the small window opens, you'll see data for your current sheet at the top and the entire workbook at the bottom.
 
 ![Workbooks Statistics in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/WorkbooksStatisticsWindowNext-Excel.png) 
 
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  If you want details for a different sheet in your workbook, close the Workbook Statistics window by clicking "OK." Then click the tab for the sheet that you want to see and follow the same steps listed above.
 
 ![Workbooks Statistics for two sheets](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/WorkbooksStatisticsTwoWindows-Excel.png) 
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ##  Data Included in Workbook Statistics
 
@@ -159,8 +69,6 @@ thumbnail: https://thmb.techidaily.com/98a12915cb3d2cb54c3468dae6fd64cafa98af714
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -170,47 +78,26 @@ thumbnail: https://thmb.techidaily.com/98a12915cb3d2cb54c3468dae6fd64cafa98af714
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-parrots-in-flight-a-deep-dive-into-bebops-essence/"><u>[New] In 2024, Parrots in Flight  A Deep Dive Into Bebop's Essence</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-navigating-self-viewer-phenomenon-in-facebook-live-conversations-for-2024/"><u>[New] Navigating Self-Viewer Phenomenon in Facebook Live Conversations for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-how-to-amend-blurry-mobile-streaming-on-social-platforms/"><u>[Updated] In 2024, How to Amend Blurry Mobile Streaming on Social Platforms</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-perfect-timeline-control-with-top-20-tweet-management-apps/"><u>[Updated] In 2024, Perfect Timeline Control with Top 20 Tweet Management Apps</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-sprinkle-some-joy-incorporating-emojis-into-youtube-discussions/"><u>[Updated] In 2024, Sprinkle Some Joy  Incorporating Emojis Into Youtube Discussions</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-rev-voice-recorder-review-for-2024/"><u>[Updated] Rev Voice Recorder Review for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-the-insiders-guide-to-recording-on-itunes-for-2024/"><u>[Updated] The Insider's Guide to Recording on iTunes for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-charting-the-course-for-profitable-youtube-videos/"><u>2024 Approved  Charting the Course for Profitable Youtube Videos</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-expertise-in-quick-creation-professional-valorant-thumbnail-art/"><u>2024 Approved  Expertise in Quick Creation  Professional Valorant Thumbnail Art</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-quick-click-quests-top-10-agile-gaming-platforms/"><u>2024 Approved  Quick Click Quests  Top 10 Agile Gaming Platforms</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-honor-magic-6-lite-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Honor Magic 6 Lite | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-oneplus-12r-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On OnePlus 12R | Dr.fone</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/becoming-an-expert-at-scheduling-virtual-team-sessions-google/"><u>Becoming an Expert at Scheduling Virtual Team Sessions (Google)</u></a></li>
-<li><a href="https://win-forum.techidaily.com/connect-and-engage-on-major-online-channels-facebook-twitter-instagram-and-youtube/"><u>Connect and Engage on Major Online Channels: Facebook, Twitter, Instagram & YouTube</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/demystifying-srt-to-sub-clear-practical-solutions/"><u>Demystifying SRT to SUB  Clear, Practical Solutions</u></a></li>
-<li><a href="https://android-frp.techidaily.com/easy-guide-to-samsung-galaxy-xcover-6-pro-tactical-edition-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Samsung Galaxy XCover 6 Pro Tactical Edition FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://win-forum.techidaily.com/expert-techniques-for-forcefully-expunging-resistant-folders-from-windows-os-using-revo-uninstaller/"><u>Expert Techniques for Forcefully Expunging Resistant Folders From Windows OS Using Revo Uninstaller</u></a></li>
-<li><a href="https://win-forum.techidaily.com/freeing-up-space-on-your-windows-11-system-a-comprehensive-guide/"><u>Freeing Up Space on Your Windows 11 System: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-forum.techidaily.com/how-to-fix-pc-issues-preventing-windows-11-installation-successfully/"><u>How to Fix PC Issues Preventing Windows 11 Installation Successfully</u></a></li>
-<li><a href="https://win-forum.techidaily.com/how-to-implement-driver-updates-on-your-computer-running-windows-10-effortlessly/"><u>How to Implement Driver Updates on Your Computer Running Windows 10 Effortlessly</u></a></li>
-<li><a href="https://win-forum.techidaily.com/how-to-implement-power-on-by-lan-functionality-on-windows-11/"><u>How to Implement Power On By LAN Functionality on Windows 11</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-any-samsung-galaxy-f34-5g-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Samsung Galaxy F34 5G Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-poco-c51-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Poco C51</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-gopro-vs-yi-updated-battle-for-ultimate-action-recording/"><u>In 2024, GoPro Vs. YI  Updated Battle for Ultimate Action Recording</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-implementing-visual-learning-strategies-in-classrooms/"><u>In 2024, Implementing Visual Learning Strategies in Classrooms</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-honor-100-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Honor 100 Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-optimal-downloaders-your-guide-to-superior-4k-content/"><u>In 2024, Optimal Downloaders  Your Guide to Superior 4K Content</u></a></li>
-<li><a href="https://win-forum.techidaily.com/manual-methods-for-deleting-dump-files-in-windows-11-os/"><u>Manual Methods for Deleting Dump Files in Windows 11 OS</u></a></li>
-<li><a href="https://win-forum.techidaily.com/master-network-troubleshooting-how-to-perform-a-dns-purge-on-windows-1011/"><u>Master Network Troubleshooting: How to Perform a DNS Purge on Windows 10/11</u></a></li>
-<li><a href="https://win-forum.techidaily.com/master-the-art-of-file-management-avoid-locked-folders-in-windows-11-for-a-cleaner-drive/"><u>Master the Art of File Management: Avoid-Locked-Folders in Windows 11 for a Cleaner Drive</u></a></li>
-<li><a href="https://win-forum.techidaily.com/master-the-installation-of-revo-permission-manager-using-revouninstaller-a-detailed-guide/"><u>Master the Installation of Revo Permission Manager Using RevoUninstaller - A Detailed Guide</u></a></li>
-<li><a href="https://win-forum.techidaily.com/mastering-social-media-landscapes-with-facebook-twitter-instagram-and-youtube/"><u>Mastering Social Media Landscapes with Facebook, Twitter, Instagram & YouTube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/mastering-the-windows-11-installation-hurdle-on-incompatible-systems/"><u>Mastering the Windows 11 Installation Hurdle on Incompatible Systems</u></a></li>
-<li><a href="https://win-forum.techidaily.com/maximize-performance-with-revouninstaller-pro-5-advanced-uninstalling-at-its-best/"><u>Maximize Performance with RevoUninstaller Pro 5 - Advanced Uninstalling at Its Best</u></a></li>
-<li><a href="https://win-forum.techidaily.com/navigating-the-digital-world-mastering-engagement-across-facebook-twitter-instagram-and-youtube-platforms/"><u>Navigating the Digital World: Mastering Engagement Across Facebook, Twitter, Instagram & YouTube Platforms</u></a></li>
-<li><a href="https://win-forum.techidaily.com/resolving-full-hard-drive-utilization-on-windows-11-a-comprehensive-guide/"><u>Resolving Full Hard Drive Utilization on Windows 11: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-forum.techidaily.com/social-media-powerhouses-stay-connected-with-facebook-twitter-insta-gram-and-tubeyou/"><u>Social Media Powerhouses: Stay Connected with Facebook, Twitter, Insta-Gram & TubeYou</u></a></li>
-<li><a href="https://win-forum.techidaily.com/solving-windows-11-cannot-launch-issues-in-your-system/"><u>Solving 'Windows 11 Cannot Launch' Issues in Your System</u></a></li>
-<li><a href="https://win-forum.techidaily.com/synergy-of-popular-platforms-strategies-for-facebook-twitter-instagram-and-youtubers/"><u>Synergy of Popular Platforms: Strategies for Facebook, Twitter, Instagram and YouTubers</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-big-players-of-online-networking-navigating-through-facebook-twitter-instagram-and-youtube/"><u>The Big Players of Online Networking: Navigating Through Facebook, Twitter, Instagram and Youtube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-ultimate-guide-to-major-social-media-sites-twitter-instagram-and-more/"><u>The Ultimate Guide to Major Social Media Sites: Twitter, Instagram & More!</u></a></li>
-<li><a href="https://win-forum.techidaily.com/understanding-social-media-impact-with-facebook-twitter-instagram-and-youtube-analysis/"><u>Understanding Social Media Impact with Facebook, Twitter, Instagram, and YouTube Analysis</u></a></li>
-<li><a href="https://win-forum.techidaily.com/unpacking-the-powerhouses-of-digital-communication-facebook-twitter-instagram-and-youtube/"><u>Unpacking the Powerhouses of Digital Communication: Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-quick-guide-the-most-effective-ways-to-save-fb-story-videos/"><u>[New] In 2024, Quick Guide The Most Effective Ways to Save FB Story Videos</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-master-your-sketches-with-the-ultimate-mac-apps/"><u>[Updated] Master Your Sketches with the Ultimate Mac Apps</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-pinnacle-photo-narrative-assembly-platform/"><u>[Updated] Pinnacle Photo Narrative Assembly Platform</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/avchdmp33/"><u>AVCHDファイルからMP3への変換方法：3つの有効手段</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-easily-overcome-the-persistent-0x80070422-error-during-windows-10-updates/"><u>How to Easily Overcome the Persistent '0X80070422' Error During Windows 10 Updates</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-xs-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone XS With an Apple Watch & What to Do if It Doesnt Work | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-the-art-of-perfecting-vocal-recordings-for-video-projects/"><u>In 2024, The Art of Perfecting Vocal Recordings for Video Projects</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-the-windows-registry-edit-add-or-remove-key-steps/"><u>Mastering the Windows Registry: Edit, Add, or Remove Key Steps</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Infinix Smart 7 HD | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/speak-latvian-like-a-pro-master-in-just-under-an-hour/"><u>Speak Latvian Like a Pro: Master in Just Under an Hour</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-clearing-windows-10-system-cache-with-ease/"><u>Step-by-Step Guide: Clearing Windows 10 System Cache with Ease</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-digital-mosaic-a-guide-to-successful-branding-on-facebook-twitter-instagram-and-youtube/"><u>The Digital Mosaic: A Guide to Successful Branding on Facebook, Twitter, Instagram & Youtube.</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-power-trio-of-social-networks-unpacking-facebook-twitter-instagram-and-youtube-influence/"><u>The Power Trio of Social Networks: Unpacking Facebook, Twitter, Instagram & YouTube Influence</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-powerhouses-of-digital-connection-facebook-twitter-instagram-and-youtube/"><u>The Powerhouses of Digital Connection: Facebook, Twitter, Instagram & YouTube</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115927/19272" target="_top" id="2115927">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115927" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

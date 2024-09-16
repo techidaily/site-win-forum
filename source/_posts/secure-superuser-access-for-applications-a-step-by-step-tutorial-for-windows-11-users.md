@@ -1,7 +1,7 @@
 ---
 title: "Secure Superuser Access for Applications: A Step-by-Step Tutorial for Windows 11 Users"
-date: 2024-09-10T10:54:31.322Z
-updated: 2024-09-11T10:54:31.322Z
+date: 2024-09-14T16:07:00.320Z
+updated: 2024-09-16T16:10:48.885Z
 tags:
   - win11
   - win10
@@ -35,20 +35,6 @@ Here are the methods you can use to speed up your Windows 11 boot time:
 5. [Use an SSD](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1)
 6. [Adjust BIOS settings](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## I. Disable startup programs in Windows 11
 
  Windows 11 comes with several programs that start automatically with the operating system. While some of these programs may be useful, others can slow down your computer’s startup and take up valuable resources. Disabling unnecessary startup programs can help speed up your Windows 11 boot time. This is how you can disable them:
@@ -58,45 +44,11 @@ Here are the methods you can use to speed up your Windows 11 boot time:
 ![startup tab](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/speed-up-windows-11-boot-time/disable-startup-programs-in-windows-11-step-2.jpg)
 3. Finally, toggle the switch next to the apps you don’t want to run at startup. Under the toggle switch, you’ll see the status impact of each, which indicates what disabling them does to your system.
 
-
-
-
-<!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
-
 ## II. Remove unnecessary files and programs
 
  Over time, your computer may become cluttered with unnecessary files and programs that can slow down your computer’s startup time. By removing these files and programs, you can speed up your Windows 11 boot time and improve your overall computer performance.
 
  We’ve covered in this[article](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1) how you can remove unnecessary files and programs with Revo Uninstaller and many other methods.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## III. Enable Fast Startup
 
@@ -109,45 +61,32 @@ Here is how you can turn Fast Starup On:
 3. Go to**System and Security** and then click on**Power Options** .  
 ![startup options](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/speed-up-windows-11-boot-time/enable-fast-startup-step-2.png)
 4. In the left pane, click on**Choose what the power buttons do** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Next, click the**Change settings that are currently unavailable** link.
 6. Under the**Shutdown settings** section, check the**Turn on fast startup (recommended)** option to turn on the feature.
 7. Uncheck the**Turn on fast startup option** to turn it off.  
 ![fast startup](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/speed-up-windows-11-boot-time/enable-fast-startup-step-5.jpg)
 8. Click**Save changes** to apply the changes.
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## IV. Defragment your hard drive
 
@@ -161,34 +100,7 @@ Here is how you can turn Fast Starup On:
 ![defragment hard drive](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/speed-up-windows-11-boot-time/defragment-your-hard-drive-step-3.png)
 4. Click on the Optimize button.
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 5. Wait for the defragmentation process to complete.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## V. Use an SSD
 
@@ -210,6 +122,13 @@ Here is how you can turn Fast Starup On:
 
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123474/16836" target="_top" id="2123474">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123474" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123474/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## We can help you every time when…
 
 * you cannot find the program in the Apps & Features list
@@ -225,8 +144,6 @@ Here is how you can turn Fast Starup On:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -236,51 +153,14 @@ Here is how you can turn Fast Starup On:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-complete-breakdown-the-dji-inspire-1-uav-for-2024/"><u>[New] Complete Breakdown  The DJI Inspire 1 UAV for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-best-practices-in-yt-thumbnail-sizing/"><u>[New] In 2024, Best Practices in YT Thumbnail Sizing</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-first-captured-visual-saga-critique-with-alternate-views/"><u>[Updated] In 2024, First Captured Visual Saga Critique with Alternate Views</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-top-tech-savvy-apps-for-artful-picture-presentation/"><u>2024 Approved  Top Tech-Savvy Apps for Artful Picture Presentation</u></a></li>
-<li><a href="https://win-forum.techidaily.com/complete-guide-forcibly-removing-stubborn-folders-in-windows-11-with-revo-uninstaller/"><u>Complete Guide: Forcibly Removing Stubborn Folders in Windows 11 with Revo Uninstaller</u></a></li>
-<li><a href="https://win-forum.techidaily.com/1722915422950-connect-on-major-social-media-browse-through-facebook-twitter-instagram-youtube/"><u>Connect on Major Social Media: Browse Through Facebook, Twitter, Instagram, Youtube!</u></a></li>
-<li><a href="https://win-forum.techidaily.com/connecting-the-world-a-comprehensive-overview-of-facebook-twitter-instagram-and-youtube/"><u>Connecting the World: A Comprehensive Overview of Facebook, Twitter, Instagram, and YouTube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/discover-the-giants-of-social-networking-facebook-twitter-instagram-and-youtube/"><u>Discover the Giants of Social Networking: Facebook, Twitter, Instagram & Youtube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/discovering-popular-social-sites-explore-facebook-twitter-instagram-and-youtube/"><u>Discovering Popular Social Sites: Explore Facebook, Twitter, Instagram and YouTube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/easily-find-out-what-powershell-version-you-have-on-windows-11-revo-uninstallers-tips/"><u>Easily Find Out What PowerShell Version You Have on Windows 11 - Revo Uninstaller's Tips</u></a></li>
-<li><a href="https://win-forum.techidaily.com/expert-advice-clearing-out-memory-dump-files-in-windows-11-easily/"><u>Expert Advice: Clearing Out Memory Dump Files in Windows 11 Easily</u></a></li>
-<li><a href="https://win-forum.techidaily.com/exploring-leading-social-sites-facebook-twitter-instagram-and-youtube/"><u>Exploring Leading Social Sites - Facebook, Twitter, Instagram, and YouTube</u></a></li>
-<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-tecno-spark-10-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Tecno Spark 10 4G | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-instant-access-to-your-wi-fi-driver-downloads/"><u>Get Instant Access to Your Wi-Fi Driver Downloads!</u></a></li>
-<li><a href="https://win-forum.techidaily.com/how-to-activate-wake-on-lan-in-windows-11-and-11/"><u>How to Activate Wake-on-LAN in Windows 11 and 11</u></a></li>
-<li><a href="https://win-forum.techidaily.com/how-to-reclaim-space-by-forcefully-removing-directories-on-windows-10-and-11-with-revo-software/"><u>How To Reclaim Space By Forcefully Removing Directories on Windows 10 & 11 with Revo Software</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirror-on-apple-iphone-6s-plus-drfone-by-drfone-ios/"><u>In 2024, How to Screen Mirror on Apple iPhone 6s Plus? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-any-itel-a70-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Itel A70 Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unleash-creative-potential-with-a-comprehensive-guide-to-ps-background-removal/"><u>In 2024, Unleash Creative Potential with a Comprehensive Guide to PS Background Removal</u></a></li>
-<li><a href="https://win-forum.techidaily.com/master-the-major-players-strategies-for-facebook-twitter-instagram-and-youtube-engagement/"><u>Master the Major Players: Strategies for Facebook, Twitter, Instagram, and YouTube Engagement</u></a></li>
-<li><a href="https://win-forum.techidaily.com/navigating-popular-online-communities-a-look-at-facebook-twitter-instagram-youtube/"><u>Navigating Popular Online Communities: A Look at Facebook, Twitter, Instagram, YouTube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/navigating-the-giants-of-online-sharing-facebook-twitter-instagram-and-youtube/"><u>Navigating the Giants of Online Sharing: Facebook, Twitter, Instagram, and YouTube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/optimize-storage-in-windows-11-the-ultimate-technique-with-revo-uninstaller/"><u>Optimize Storage in Windows 11: The Ultimate Technique with Revo Uninstaller</u></a></li>
-<li><a href="https://win-forum.techidaily.com/optimizing-pc-performance-a-step-by-step-tutorial-for-disk-defragmentation-in-windows-11-via-revo-uninstaller/"><u>Optimizing PC Performance: A Step-by-Step Tutorial for Disk Defragmentation in Windows 11 via Revo Uninstaller</u></a></li>
-<li><a href="https://win-forum.techidaily.com/protect-your-text-files-master-the-art-of-securing-data-with-simple-password-techniques/"><u>Protect Your Text Files: Master the Art of Securing Data with Simple Password Techniques</u></a></li>
-<li><a href="https://win-forum.techidaily.com/1722915191288-revitalize-performance-in-windows-11-learn-to-update-device-drivers-effortlessly/"><u>Revitalize Performance in Windows 11 - Learn to Update Device Drivers Effortlessly</u></a></li>
-<li><a href="https://win-forum.techidaily.com/1722915421656-revo-uninstaller-pro-5-revolutionizing-the-way-you-remove-applications/"><u>Revo Uninstaller Pro 5: Revolutionizing the Way You Remove Applications!</u></a></li>
-<li><a href="https://win-forum.techidaily.com/revolutionize-your-computer-maintenance-the-new-and-improved-revo-uninstaller-pro-5/"><u>Revolutionize Your Computer Maintenance: The New and Improved Revo Uninstaller Pro 5</u></a></li>
-<li><a href="https://win-forum.techidaily.com/social-networking-titans-unveiling-the-popularity-of-facebook-twitter-instagram-and-youtube/"><u>Social Networking Titans: Unveiling the Popularity of Facebook, Twitter, Instagram & YouTube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-fixes-for-cant-run-this-program-errors-on-pc-systems/"><u>Step-by-Step Fixes for Can't Run This Program Errors on PC Systems</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-guide-removing-windows-1/"><u>Step-by-Step Guide: Removing Windows 1</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-digital-social-circle-understanding-popular-platforms-like-facebook-twitter-instagram-and-youtube/"><u>The Digital Social Circle: Understanding Popular Platforms Like Facebook, Twitter, Instagram, and YouTube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-leading-hubs-for-online-interaction-how-facebook-twitter-and-instagram-meet-youtube-challenge/"><u>The Leading Hubs for Online Interaction: How Facebook, Twitter & Instagram Meet YouTube Challenge</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-powerhouse-quadruplets-of-social-media-unveiling-facebook-twitter-instagram-and-youtube-strategies/"><u>The Powerhouse Quadruplets of Social Media: Unveiling Facebook, Twitter, Instagram & YouTube Strategies</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-powerhouse-trio-for-social-media-engagement-twitter-instagram-and-youtube-alongside-facebook/"><u>The Powerhouse Trio for Social Media Engagement: Twitter, Instagram & Youtube Alongside Facebook</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-powerhouse-trio-of-social-networking-unveiling-the-secrets-behind-facebook-twitter-instagram-and-youtube/"><u>The Powerhouse Trio of Social Networking: Unveiling the Secrets Behind Facebook, Twitter, Instagram, & Youtube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-top-social-media-platforms-facebook-twitter-instagram-and-youtube/"><u>The Top Social Media Platforms: Facebook, Twitter, Instagram & YouTube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-ultimate-tutorial-for-persistent-admin-execution-of-apps-in-windows-11-environment/"><u>The Ultimate Tutorial for Persistent Admin Execution of Apps in Windows 11 Environment</u></a></li>
-<li><a href="https://win-forum.techidaily.com/top-online-networking-sites-facebook-twitter-instagram-youtube/"><u>Top Online Networking Sites - Facebook, Twitter, Instagram, Youtube</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-rated-xvid-media-player-compatible-with-windows-macos-android-and-iphone/"><u>Top Rated Xvid Media Player: Compatible with Windows, MacOS, Android & iPhone</u></a></li>
-<li><a href="https://win-forum.techidaily.com/ultimate-guide-5-steps-to-ensure-your-windows-system-is-safe-and-locked/"><u>Ultimate Guide: 5 Steps To Ensure Your Windows System Is Safe and Locked</u></a></li>
-<li><a href="https://win-forum.techidaily.com/ultimate-walkthrough-to-install-and-activate-the-revo-app-manager-software/"><u>Ultimate Walkthrough to Install and Activate the Revo App Manager Software</u></a></li>
-<li><a href="https://win-forum.techidaily.com/understanding-the-titans-of-online-sharing-facebook-twitter-instagram-youtube/"><u>Understanding the Titans of Online Sharing: Facebook | Twitter | Instagram | YouTube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/unofficial-guide-setting-up-windows-11-on-incompatible-processors/"><u>Unofficial Guide: Setting Up Windows 11 on Incompatible Processors</u></a></li>
-<li><a href="https://win-forum.techidaily.com/unveiling-the-giants-of-social-media-understanding-facebook-twitter-instagram-and-youtube/"><u>Unveiling The Giants Of Social Media: Understanding Facebook, Twitter, Instagram and YouTube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/windows-11-masterclass-managing-and-inputting-hardware-components-into-the-system-bios/"><u>Windows 11 Masterclass: Managing and Inputting Hardware Components Into the System Bios</u></a></li>
-<li><a href="https://win-forum.techidaily.com/winning-the-space-race-in-windows-11-free-up-drive-efficiently/"><u>Winning the Space Race in Windows 11 - Free Up Drive Efficiently</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-pioneering-the-path-to-instagram-reel-mastery/"><u>[New] In 2024, Pioneering the Path to Instagram Reel Mastery</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-free-yourself-with-top-4-applications-for-youtube-to-wav-conversion/"><u>[Updated] In 2024, Free Yourself with Top 4 Applications for YouTube-to-WAV Conversion</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-spotlight-on-top-trending-tweets-for-2024/"><u>[Updated] Spotlight on Top Trending Tweets for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-asmr-studio-essentials-great-quality-easy-on-wallet/"><u>2024 Approved ASMR Studio Essentials Great Quality, Easy On Wallet</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-tips-and-tricks-for-apple-id-locked-issue-on-iphone-14-by-drfone-ios/"><u>In 2024, Tips and Tricks for Apple ID Locked Issue On iPhone 14</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-inconspicuous-upheaval-of-ai-witnessing-change-beyond-sight/"><u>The Inconspicuous Upheaval of AI: Witnessing Change Beyond Sight</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-3-essential-gameplay-analytics-software-for-serious-pc-gamers/"><u>Top 3 Essential Gameplay Analytics Software for Serious PC Gamers</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-7-essential-window-configurations-to-maintain-active-benefits-explained/"><u>Top 7 Essential Window Configurations to Maintain Active: Benefits Explained</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-8-essential-settings-to-optimize-any-windows-laptop-for-starters/"><u>Top 8 Essential Settings to Optimize Any Windows Laptop (For Starters)</u></a></li>
 </ul></div>
+
