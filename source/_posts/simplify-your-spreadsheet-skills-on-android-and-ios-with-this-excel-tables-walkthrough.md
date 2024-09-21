@@ -1,7 +1,7 @@
 ---
 title: Simplify Your Spreadsheet Skills on Android & iOS with This Excel Tables Walkthrough
-date: 2024-09-12T16:25:07.574Z
-updated: 2024-09-16T16:49:18.183Z
+date: 2024-09-20T17:33:20.416Z
+updated: 2024-09-21T17:10:11.857Z
 tags:
   - excel
 categories:
@@ -60,11 +60,25 @@ Related: [How to Insert a Total Row in a Table in Microsoft Excel](https://howto
 
 ![Plus sign to add a card, row, to a table](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/AddCardBottom-ExcelMobileTableCardsView.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To add a card in a specific spot, open either the main Cards View page or a card's detail screen. Tap the three dots on the top right of a card. Select either "Insert Above" or "Insert Below."
 
  You'll then see a blank card with your existing table fields. Enter your data and tap the arrow on the top left to go back. Your new data saves automatically.
 
 ![Insert a card, row, above or below](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/InsertCardAboveBelow-ExcelMobileTableCardsView.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Delete a Card
 
@@ -74,31 +88,11 @@ Related: [How to Insert a Total Row in a Table in Microsoft Excel](https://howto
 
  Keep in mind that removing a card [deletes that row](https://facebook-video-recording.techidaily.com/how-to-maximize-revenue-the-secret-of-fb-animation-campaigns/) from your table.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123473/16836" target="_top" id="2123473">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123473" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123473/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Share a Card
 
  You can share a card from Excel as an image. This is helpful if you want to save, send, or share certain table data. 
 
 ![Shared Card image](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/SharedCardImage-ExcelMobileTableCardsView.png) 
-
-<!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Do one of the following to open the Share Card option:
 
@@ -111,10 +105,17 @@ Related: [How to Insert a Total Row in a Table in Microsoft Excel](https://howto
 ![Share a card](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/ShareCard-ExcelMobileTableCardsView.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Edit the Table Structure 
@@ -135,22 +136,15 @@ Related: [How to Use the Accounting Number Format in Microsoft Excel](https://an
 
 ![Add a field, column, to a card](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/AddField-ExcelMobileTableCardsView.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To remove a field from the table, tap the Delete icon (trash can) on the top right. Select the Delete icon to the right of the field you want to remove and then tap "Yes" to confirm the action.
 
 ![Delete a field, column](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/DeleteField-ExcelMobileTableCardsView.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Keep in mind that removing a field deletes that column in your table.
@@ -174,21 +168,20 @@ Related: [How to Use the Accounting Number Format in Microsoft Excel](https://an
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-benq-bl2711u-reviewed-the-apex-of-27-high-definition-monitoring-technology/"><u>[New] BenQ BL2711U Reviewed - The Apex of 27” High-Definition Monitoring Technology</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-complete-guide-mastering-voice-recognition-in-google-documents-for-2024/"><u>[New] Complete Guide Mastering Voice Recognition in Google Documents for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-creative-command-center-studio-for-youtubers-for-2024/"><u>[New] Creative Command Center Studio for YouTubers for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-anatomy-of-an-anti-viewer-cutting-edge-strategies-for-reversed-youtube-videos/"><u>[Updated] 2024 Approved Anatomy of an Anti-Viewer Cutting Edge Strategies for Reversed YouTube Videos</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-snapshot-stability-mastering-motion/"><u>2024 Approved Snapshot Stability Mastering Motion</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/compact-and-portable-bluetooth-speaker-ideal-for-lightweight-travel/"><u>Compact and Portable Bluetooth Speaker: Ideal for Lightweight Travel</u></a></li>
-<li><a href="https://win-forum.techidaily.com/expert-fixes-for-clearing-up-dark-screen-troubles-on-your-star-wars-battlefront-2-consolepc-setup/"><u>Expert Fixes for Clearing Up Dark Screen Troubles on Your Star Wars Battlefront 2 Console/PC Setup</u></a></li>
-<li><a href="https://win-forum.techidaily.com/exploring-giants-of-digital-communication-facebook-twitter-instagram-and-youtube-explained/"><u>Exploring Giants of Digital Communication: Facebook, Twitter, Instagram & YouTube Explained</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-can-you-cast-your-apple-iphone-6-plus-to-windows-pc-with-ease-drfone-by-drfone-ios/"><u>How Can You Cast Your Apple iPhone 6 Plus to Windows PC With Ease? | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-tomorrows-insight-rethinking-choices/"><u>In 2024, Tomorrow's Insight Rethinking Choices</u></a></li>
-<li><a href="https://win-forum.techidaily.com/learn-how-to-check-and-update-your-windows-npowershell-version/"><u>Learn How to Check and Update Your Windows nPowerShell Version</u></a></li>
-<li><a href="https://win-forum.techidaily.com/1722915317189-social-media-titans-delving-into-facebook-twitter-instagram-and-youtubes-success/"><u>Social Media Titans: Delving Into Facebook, Twitter, Instagram and YouTube's Success</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-guide-clearing-cookie-trails-from-your-windows-10-and-android-devices/"><u>Step-by-Step Guide: Clearing Cookie Trails From Your Windows 10 & Android Devices</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-guide-flushing-your-windows-10-pcs-memory/"><u>Step-by-Step Guide: Flushing Your Windows 10 PC's Memory</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-10-password-cracking-tools-for-infinix-zero-30-5g-by-drfone-android/"><u>Top 10 Password Cracking Tools For Infinix Zero 30 5G</u></a></li>
-<li><a href="https://win-forum.techidaily.com/top-four-online-networking-sites-facebook-twitter-instagram-youtube/"><u>Top Four Online Networking Sites: Facebook | Twitter | Instagram | YouTube</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-get-the-most-out-of-instagram-photos-with-these-apps/"><u>[New] In 2024, Get the Most Out of Instagram Photos with These Apps</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-the-ultimate-pathway-autoplay-youtube-videos-within-fb-networks-for-2024/"><u>[New] The Ultimate Pathway Autoplay YouTube Videos Within FB Networks for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-masterclass-in-real-time-twitvid-engagement/"><u>[Updated] 2024 Approved Masterclass in Real-Time TwitVid Engagement</u></a></li>
+<li><a href="https://win-forum.techidaily.com/conversione-libera-di-file-3gp-su-internet-al-formato-avif-movavi-guide-e-tutorial/"><u>Conversione Libera Di File 3GP Su Internet Al Formato Avif-Movavi Guide E Tutorial</u></a></li>
+<li><a href="https://win-forum.techidaily.com/convertir-facilement-et-gratuit-de-swf-vers-avi-en-ligne-avec-movavi-des-outils-professionnels-pour-la-video/"><u>Convertir Facilement Et Gratuit De SWF Vers AVI en Ligne Avec Movavi - Des Outils Professionnels Pour La Vidéo</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/earn-on-youtube-beginners-path-to-profitability/"><u>Earn on YouTube Beginner's Path to Profitability</u></a></li>
+<li><a href="https://win-forum.techidaily.com/grabar-audios-con-windows-11-and-mac-de-forma-gratuita/"><u>Grabar Audios Con Windows 11 & Mac De Forma Gratuita</u></a></li>
+<li><a href="https://win-forum.techidaily.com/gratuito-los-mejores-reproductores-multimedia-mp4-compatibles-con-windows-11-y-mac-listados-en-orden-descendente/"><u>Gratuito: Los Mejores Reproductores Multimedia MP4 Compatibles Con Windows 11 Y Mac, Listados en Orden Descendente</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-and-prevent-lags-in-your-gameplay-of-guilty-gear-strive/"><u>How to Fix and Prevent Lags in Your Gameplay of Guilty Gear Strive</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-realme-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Realme Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/maximizing-dandd-fun-with-gpt-assisted-strategy/"><u>Maximizing D&D Fun with GPT-Assisted Strategy</u></a></li>
+<li><a href="https://win-forum.techidaily.com/movavi-trasforma-i-tuoi-file-mpe-in-mp3-gratuitamente-online/"><u>Movavi: Trasforma I Tuoi File MPE in MP3 Gratuitamente Online</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-ultimate-list-2024s-leading-free-mov-video-editors-completely-cost-free/"><u>The Ultimate List: 2024'S Leading Free MOV Video Editors (Completely Cost-Free)</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/the-ultimate-step-by-step-tutorial-on-removing-your-iphone-screen-at-home/"><u>The Ultimate Step-by-Step Tutorial on Removing Your iPhone Screen at Home</u></a></li>
+<li><a href="https://win-forum.techidaily.com/1726227308261-mkvmp3-movavi/"><u>제공자가 아니라 무료: 웹 블록에서 MKV/MP3 파일 바로 전환 - Movavi</u></a></li>
 </ul></div>
 

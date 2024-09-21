@@ -1,7 +1,7 @@
 ---
 title: Essential 10 Command Line Utilities Every New PC User Must Know
-date: 2024-09-14T16:12:17.984Z
-updated: 2024-09-16T16:41:03.157Z
+date: 2024-09-17T17:27:53.192Z
+updated: 2024-09-21T16:59:20.134Z
 tags:
   - windows
 categories:
@@ -62,19 +62,6 @@ cd C:\Windows\System32
 
  Use the Tab key to auto-complete file and directory names while typing commands, saving time and reducing errors.
 
-<!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3  mkdir: Create New Directories 
 
  Organize your files in a snap with the mkdir (make directory) command. Create new folders wherever you want. Creating a new folder is as simple as typing this command:
@@ -82,6 +69,13 @@ cd C:\Windows\System32
 mkdir NewFolder
 
 ![Using the mkdir command in Windows to create a new directory.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/mkdir_newfolder.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  This command is a great way to keep your system organized.
 
@@ -96,6 +90,13 @@ mkdir NewFolder
 rmdir NewFolder
 
 ![Using the rmdir command in WIndows to remove a folder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/rmdir_newfolder.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  To remove a directory along with everything within it, use the **rmdir /s NewFolder** command.
 
@@ -135,14 +136,14 @@ copy * .txt C:\Backup
 
 ![Using the copy command to copy multiple files in Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/copy_multiple_files.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Press F7 to view and select from your command history. This allows you to easily re-run previous commands without retyping them.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7  move: Move Files to a New Location 
 
@@ -153,6 +154,13 @@ copy * .txt C:\Backup
 move file.txt C:\Backup
 
 ![Using the move command in Windows to move a file to a new location.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/move_tobackup.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8  type: Display the Contents of a Text File 
 
@@ -171,23 +179,10 @@ type file.txt
 ![Using the systeminfo command in Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/systeminfo.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 10  tree: Display Directory Structure 
@@ -197,13 +192,6 @@ type file.txt
 tree C:\Users
 
 ![Using the tree command to see the structure of the Users folder in Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/tree.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -224,14 +212,15 @@ tree C:\Users
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-the-professionals-guide-adding-youtube-to-google-slides/"><u>[New] 2024 Approved The Professional's Guide Adding YouTube to Google Slides</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-decoding-the-secrets-of-youtubes-content-hub/"><u>[New] In 2024, Decoding the Secrets of YouTube's Content Hub</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-gmail-password-on-meizu-21-pro-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Meizu 21 Pro Devices</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Realme Narzo 60x 5G? | Dr.fone</u></a></li>
-<li><a href="https://win-forum.techidaily.com/mastering-the-sumif-function-in-microsoft-excel-a-step-by-step-guide/"><u>Mastering the SUMIF Function in Microsoft Excel - A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-forum.techidaily.com/microsoft-introduces-new-template-design-tool-a-fresh-take-on-office-layouts/"><u>Microsoft Introduces New Template Design Tool: A Fresh Take on Office Layouts</u></a></li>
-<li><a href="https://win-forum.techidaily.com/new-features-in-microsoft-excels-integrated-python-environment-what-you-need-to-know-about-the-update/"><u>New Features in Microsoft Excel's Integrated Python Environment – What You Need to Know About the Update</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/technical-snafu-printer-configuration-gone-awry/"><u>Technical Snafu: Printer Configuration Gone Awry</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/winxvideo-ai-comment-enregistrer-simultanement-la-camera-laudio-et-lecran-sur-windows/"><u>WinXvideo AI: Comment Enregistrer Simultanément La Caméra, L'audio Et L'écran Sur Windows</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-game-masters-top-ten-female-gaming-influencers/"><u>[New] 2024 Approved Game Masters Top Ten Female Gaming Influencers</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-groundbreaking-8-android-video-call-services-more-than-four/"><u>[Updated] Groundbreaking 8 Android Video Call Services, More Than Four</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-explore-innovative-ways-for-sound-capture-in-modern-windows-11-pcs/"><u>2024 Approved Explore Innovative Ways for Sound Capture in Modern Windows 11 PCs</u></a></li>
+<li><a href="https://win-forum.techidaily.com/ogmmpeg-movavi/"><u>無成本在網路上OGM到MPEG轉換 - 使用Movavi的方法</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/auditory-accents-integrating-tracks-into-video-on-modern-windows/"><u>Auditory Accents Integrating Tracks Into Video on Modern Windows</u></a></li>
+<li><a href="https://win-forum.techidaily.com/gratis-omzetten-van-aac-naar-wma-online-professioneel-programma-voor-muziekconversie/"><u>Gratis Omzetten Van AAC Naar WMA Online: Professioneel Programma Voor Muziekconversie</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-a-guide-to-profit-sharing-for-creators-of-video-clips/"><u>In 2024, A Guide to Profit Sharing for Creators of Video Clips</u></a></li>
+<li><a href="https://win-blog.techidaily.com/total-war-warhammer-3-crashes-resolved-a-comprehensive-guide-for-steady-gaming-on-pc/"><u>Total War: Warhammer 3 Crashes Resolved – A Comprehensive Guide for Steady Gaming on PC</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-instagram-slowness-top-6-solutions-for-both-iphone-and-android/"><u>Troubleshoot Instagram Slowness: Top 6 Solutions for Both iPhone & Android</u></a></li>
+<li><a href="https://win-forum.techidaily.com/trusted-veilig-media-software-explore-movavi-video-editor/"><u>Trusted Veilig Media Software - Explore Movavi Video Editor</u></a></li>
 </ul></div>
 

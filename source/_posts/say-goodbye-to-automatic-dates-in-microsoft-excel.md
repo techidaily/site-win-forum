@@ -1,7 +1,7 @@
 ---
 title: Say Goodbye to Automatic Dates in Microsoft Excel!
-date: 2024-09-15T16:29:46.682Z
-updated: 2024-09-16T16:56:17.839Z
+date: 2024-09-19T16:58:45.025Z
+updated: 2024-09-21T16:17:36.380Z
 tags:
   - excel
 categories:
@@ -42,32 +42,27 @@ Microsoft
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-enhancing-video-quality-callout-techniques-for-engaging-edits-for-2024/"><u>[New] Enhancing Video Quality Callout Techniques for Engaging Edits for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-bright-ideas-top-17-lighting-setups-for-youtubers/"><u>[Updated] In 2024, Bright Ideas Top 17 Lighting Setups for YouTubers</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-is-inshot-the-peak-of-video-editing-software/"><u>[Updated] Is InShot the Peak of Video Editing Software?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-gliding-heroes-the-2022-winter-games/"><u>2024 Approved Gliding Heroes The 2022 Winter Games</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-screen-capture-showdown-comparing-bests-in-town-obs-vs-bandicam/"><u>2024 Approved Screen Capture Showdown Comparing Bests in Town – OBS vs Bandicam</u></a></li>
-<li><a href="https://win-forum.techidaily.com/connect-with-billions-on-leading-platforms-facebook-twitter-instagram-and-youtube/"><u>Connect with Billions on Leading Platforms - Facebook, Twitter, Instagram & Youtube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/1722915228207-exploring-the-giants-of-social-networking-facebook-twitter-instagram-and-youtube/"><u>Exploring the Giants of Social Networking: Facebook, Twitter, Instagram, and YouTube</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-samsung-galaxy-a54-5g-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Samsung Galaxy A54 5G in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://win-forum.techidaily.com/how-to-identify-your-installed-powershell-version-for-windows-11-systems/"><u>How to Identify Your Installed PowerShell Version for Windows 11 Systems</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On OnePlus Ace 2? | Dr.fone</u></a></li>
-<li><a href="https://win-forum.techidaily.com/maximize-storage-on-your-windows-11-pc-with-these-clever-tricks/"><u>Maximize Storage on Your Windows 11 PC with These Clever Tricks</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-print-device-non-response-windows-11/"><u>Overcoming Print Device Non-Response (Windows 11)</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/prime-screen-grabbers-selection-1-8/"><u>Prime Screen Grabbers Selection #1-8</u></a></li>
-<li><a href="https://win-forum.techidaily.com/top-social-networks-facebook-twitter-instagram-and-youtube-unveiled/"><u>Top Social Networks: Facebook, Twitter, Instagram & YouTube Unveiled</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-rendering-revival-radeon-reboot/"><u>[New] 2024 Approved Rendering Revival Radeon Reboot</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-recognizing-invisible-social-presence/"><u>[New] In 2024, Recognizing Invisible Social Presence</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-undiscovered-to-famous-the-seo-playbook-for-your-podcast/"><u>[Updated] From Undiscovered to Famous The SEO Playbook for Your Podcast</u></a></li>
+<li><a href="https://win-forum.techidaily.com/202-student/"><u>未来的盒子: 202 # Student</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/are-independent-browser-chatgpt-enhancements-risk-free/"><u>Are Independent Browser ChatGPT Enhancements Risk-Free?</u></a></li>
+<li><a href="https://win-forum.techidaily.com/cambia-tu-imagen-raw-a-formato-jpg-sin-costo-con-convertidor-online-de-movavi/"><u>Cambia Tu Imagen RAW a Formato JPG Sin Costo Con Convertidor Online De Movavi</u></a></li>
+<li><a href="https://win-forum.techidaily.com/como-convertir-tu-musica-o-video-archivado-en-formato-aiff-usando-el-conversor-sin-costo-de-movavi-una-guia-simple-e-intuitiva/"><u>Cómo Convertir Tu Música O Video Archivado en Formato AIFF Usando El Conversor Sin Costo De Movavi: Una Guía Simple E Intuitiva</u></a></li>
+<li><a href="https://win-forum.techidaily.com/convertissez-gratuitement-vos-fichiers-dts-en-format-m4v-avec-un-convertisseur-en-ligne-movavi/"><u>Convertissez Gratuitement Vos Fichiers DTS en Format M4V Avec Un Convertisseur en Ligne - Movavi</u></a></li>
+<li><a href="https://win-forum.techidaily.com/dicas-e-aplicativos-mais-eficientes-para-juntar-clipes-em-seu-smartphone/"><u>Dicas E Aplicativos Mais Eficientes Para Juntar Clipes Em Seu Smartphone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ensure-smooth-performance-dell-inspiron-15-driver-guide-for-windows-10-users/"><u>Ensure Smooth Performance: Dell Inspiron 15 Driver Guide for Windows 10 Users</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/integrating-visual-cues-a-guide-to-videography-annotations-for-2024/"><u>Integrating Visual Cues A Guide to Videography Annotations for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/recruitment-and-socialization-are-key-processes-for-ensuring-new-hires-align-with-the-existing-organizational-culture/"><u>Recruitment and Socialization Are Key Processes for Ensuring New Hires Align with the Existing Organizational Culture.</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-samsung-galaxy-m54-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Samsung Galaxy M54 5G | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/the-art-of-advertising-a-guide-to-profit-making-on-vimeo/"><u>The Art of Advertising A Guide to Profit-Making on Vimeo</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/where-to-buy-a-monetized-youtube-channel-a-complete-guide/"><u>Where to Buy a Monetized YouTube Channel A Complete Guide</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

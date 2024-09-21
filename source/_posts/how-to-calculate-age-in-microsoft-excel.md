@@ -1,7 +1,7 @@
 ---
 title: How to Calculate Age in Microsoft Excel.
-date: 2024-09-15T16:11:06.001Z
-updated: 2024-09-16T16:03:18.913Z
+date: 2024-09-15T17:34:29.807Z
+updated: 2024-09-21T16:38:37.283Z
 tags:
   - excel
 categories:
@@ -73,6 +73,19 @@ Related: [How to Get Microsoft Excel to Calculate Uncertainty](https://extra-res
 
 ![Age in months in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/8-age-months-answer.png) 
 
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Calculate Age in Days
 
  Excel's `DATEDIF` function is so powerful that you can use it to find someone's age in days as well.
@@ -80,13 +93,6 @@ Related: [How to Get Microsoft Excel to Calculate Uncertainty](https://extra-res
  To show you a demonstration, we'll use the following spreadsheet:
 
 ![A sample spreadsheet to find age in days in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/9-age-days-spreadsheet.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  In this spreadsheet, we'll click the C2 cell where we want to display the age in days.
 
@@ -118,16 +124,16 @@ Related: [How to Get Microsoft Excel to Calculate Uncertainty](https://extra-res
 
 ![Enter =DATEDIF(B2,TODAY(),"Y") & " Years " & DATEDIF(B2,TODAY(),"YM") & " Months " & DATEDIF(B2,TODAY(),"MD") & " Days" in the C2 cell in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/14-enter-age-formula.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In the C2 cell, you'll see the age in years, months, and days.
 
 ![Age in years, months, and days in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/15-age-combination-answer.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How to Calculate Age on a Specific Date
 
@@ -137,22 +143,15 @@ Related: [How to Get Microsoft Excel to Calculate Uncertainty](https://extra-res
 
 ![A specific date in the C2 cell in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/16-specific-date.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121332/18498" target="_top" id="2121332">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121332" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121332/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  We'll click the D2 cell where we want to show the age on the specified date.
 
 ![Click the D2 cell in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/17-d2-cell.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In the D2 cell, we'll type the following function. In this function, "C2" refers to the cell where we've entered the specific date, on which the answer will be based:
@@ -161,21 +160,22 @@ Related: [How to Get Microsoft Excel to Calculate Uncertainty](https://extra-res
 
 ![Enter =DATEDIF(B2,C2,"Y") in the D2 cell in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/18-enter-specific-formula.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Press Enter and you'll see the age in years in the D2 cell.
 
 ![Age on a specific date in the D2 cell in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/19-specific-formula-answer.png) 
 
 <!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  And that's how you find someone or something's oldness in Microsoft Excel!
@@ -205,15 +205,20 @@ Related: [How to Get Microsoft Excel to Calculate Uncertainty](https://extra-res
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://technical-tips.techidaily.com/expert-advice-when-to-update-plus-how-to-protect-yourself-during-a-bios-overhaul/"><u>Expert Advice: When to Update + How to Protect Yourself During a BIOS Overhaul</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-reset-gmail-password-on-vivo-y36-devices-by-drfone-android/"><u>How to Reset Gmail Password on Vivo Y36 Devices</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-oppo-find-n3-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Oppo Find N3 to iPhone Easily | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-oppo-a58-4g-easily-by-drfone-android/"><u>In 2024, How To Unlock a Oppo A58 4G Easily?</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-unleash-creative-potential-at-no-expense-dive-into-the-world-of-green-screen-with-free-lessons-from-youtube-channels/"><u>In 2024, Unleash Creative Potential at No Expense Dive Into the World of Green Screen with Free Lessons From YouTube Channels</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/in-2024-youtubes-first-visual-hook-creating-personalized-thumbnails/"><u>In 2024, YouTube's First Visual Hook Creating Personalized Thumbnails</u></a></li>
-<li><a href="https://win-forum.techidaily.com/mastering-social-media-landscapes-a-deep-dive-into-instagram-twitter-facebook-and-youtube/"><u>Mastering Social Media Landscapes: A Deep Dive Into Instagram, Twitter, Facebook & YouTube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/mastering-your-audience-across-leading-platforms-facebook-twitter-instagram-and-youtube/"><u>Mastering Your Audience Across Leading Platforms - Facebook, Twitter, Instagram & YouTube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/protect-your-device-effective-strategies-for-detecting-dangerous-apps-on-android/"><u>Protect Your Device: Effective Strategies for Detecting Dangerous Apps on Android</u></a></li>
-<li><a href="https://win-forum.techidaily.com/understanding-the-windows-registry-and-its-role-with-revo-uninstaller/"><u>Understanding the Windows Registry & Its Role with Revo Uninstaller</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-breaking-the-streak-code-proven-techniques/"><u>[Updated] In 2024, Breaking the Streak Code Proven Techniques</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-integrating-textual-descriptions-into-videos-on-photos-windows-11/"><u>[Updated] Integrating Textual Descriptions Into Videos on Photos (Windows 11)</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-simplified-tech-livestreaming-of-facebook-using-obs-studio-for-2024/"><u>[Updated] Simplified Tech Livestreaming of Facebook Using OBS Studio for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-compilation-of-html5s-best-video-tools/"><u>[Updated] The Ultimate Compilation of HTML5's Best Video Tools</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-twitglimpse-peek-into-viral-video-landscape-for-2024/"><u>[Updated] TwitGlimpse Peek Into Viral Video Landscape for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/8-innovative-uses-of-facebook-in-modern-project-coordination/"><u>8 Innovative Uses of Facebook in Modern Project Coordination</u></a></li>
+<li><a href="https://win-forum.techidaily.com/aifc-wav-movavi/"><u>AIFC WAV音声ファイルを瞬時にオンラインで変換! - Movaviのお手軽対応品</u></a></li>
+<li><a href="https://win-forum.techidaily.com/ferramenta-de-conversao-on-line-pelo-movavi-faca-a-ponte-entre-png-e-bmp-sem-custo-algum/"><u>Ferramenta De Conversão On-Line Pelo Movavi - Faça a Ponte Entre PNG E BMP Sem Custo Algum</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-huawei-nova-y91-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from Huawei Nova Y91 to Gmail | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-changing-or-deleting-your-pin-on-windows-11/"><u>Step-by-Step Guide: Changing or Deleting Your PIN on Windows 11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-13-mp3-konverter-til-youtube-videobiler-gode-tips-fra-movavi/"><u>Top 13 MP3 Konverter Til YouTube Videobiler - Gode Tips Fra Movavi</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-16-free-webcam-applications-on-windows-10-a-comprehensive-guide/"><u>Top 16 Free Webcam Applications on Windows 10: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-forum.techidaily.com/vrije-online-avi-naar-mp4-versterker-expertise-konvertiepunten-van-movavi/"><u>Vrije Online AVI Naar MP4 Versterker - Expertise Konvertiepunten Van Movavi</u></a></li>
+<li><a href="https://win-forum.techidaily.com/vullen-met-gifs-verzamelen-sie-apng-in-gratis-online-toegangscode-niet-te-meer-dan-movavi/"><u>Vullen Met GIF's: Verzamelen Sie APNG in Gratis Online Toegangscode – Niet Te Meer Dan Movavi</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-honor-x9b-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Honor X9b? | Dr.fone</u></a></li>
 </ul></div>
 

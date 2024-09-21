@@ -1,7 +1,7 @@
 ---
 title: "DIY Crossword Wizardry with Excel: Easy Techniques to Craft Your Own Puzzles"
-date: 2024-09-09T16:14:50.474Z
-updated: 2024-09-16T16:34:04.121Z
+date: 2024-09-16T16:13:48.012Z
+updated: 2024-09-21T16:17:10.247Z
 tags:
   - excel
 categories:
@@ -47,16 +47,22 @@ thumbnail: https://thmb.techidaily.com/7f8f4d19272d4759318cbc88d919ca0c7c48f6200
 
  Let me start by emphasizing one golden rule—never have any hanging words. In other words, every word you add must cross another one. This means that each time your solver correctly works out one word, they've got some letters for the next word, and they will soon master a certain region of your puzzle. This is the whole premise of a crossword, so it must be respected at all times.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  Aim for Symmetry
 
  In my experience, the most challenging part of this process is making the crossword symmetrical—but it's worth it. In the end, you'll have an aesthetically pleasing and professional crossword. You can aim for one line of symmetry (such as the left matching the right), or two lines of symmetry (by making the top mirror the bottom, and the left mirror the right). In my example, I'm going to use two. Start in the top-left corner with a long word downwards and a long word across, and then mirror that structure in the top-right corner. Then, do the same in the bottom corners. Now, any time you add a word stemming from one corner, mirror it in all four corners.
+
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  But Don't Add Words for the Sake Of It
 
@@ -65,6 +71,13 @@ thumbnail: https://thmb.techidaily.com/7f8f4d19272d4759318cbc88d919ca0c7c48f6200
 ###  Limit Short Words
 
  You want to avoid two-letter words and limit the number of times you use a three-letter word. In essence, most of your words should be at least four letters long, and the more long words you have, the more flexible you can be with your clues. This approach will also let you use those longer words to generate more words stemming from them.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  Words to Avoid
 
@@ -82,29 +95,22 @@ thumbnail: https://thmb.techidaily.com/7f8f4d19272d4759318cbc88d919ca0c7c48f6200
 
 ![An Excel sheet containing a cross-grid of words, and the empty cells are selected. The color-fill drop-down is opened and 'black' is highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/color-the-squares-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  When you've filled in all the empty squares, take a moment to appreciate that much of the hard work is done!
 
 ![An Excel sheet containing words in the form of a crossword and the empty cells colored black.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/empty-squares-colored-1.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Step 4: Add Your Numbers
 
  In order to link your clues to your words, you now need to add numbers. Starting in the top-left corner and working along each row, type a number in front of the first letter of each new word (whether horizontal or vertical). On my crossword, I'll start with "Desperation" and add the number "1" to the "D." Then, moving along the top row, I'll add the number "2" to the letter "S" in "Saga."
 
 ![An Excel containing words in a crossword structure, and numbers added to the cells where words begin.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/add-numbers-to-crossword-1.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  This might seem a straightforward process—and it is—but I've often been caught out and had to go back and change all my numbers because I'd missed one. When you finish a row, go back across to make sure you've not missed any words.
 
@@ -113,13 +119,6 @@ thumbnail: https://thmb.techidaily.com/7f8f4d19272d4759318cbc88d919ca0c7c48f6200
  You now need to craft your clues to the words you've chosen. Start with the "Across" clues, and then do the "Down" clues using the numbers you added in the previous step. You should also add the number of letters in the word to your clue so your solver can consider solutions without having to look back and forth between the clues and the grid. Here's what my clues for "Dispensable" and "Performance" (my first two horizontal words on the top row) will look like:
 
 ![An Excel sheet with two crossword clues typed underneath the main grid. Each clue has a square reference number, a hint, and the number of letters in brackets.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/crossword-clues.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  ​​​As well as single-word synonym-type clues like those used above, you can vary the types of hints you offer:
 
@@ -131,13 +130,6 @@ thumbnail: https://thmb.techidaily.com/7f8f4d19272d4759318cbc88d919ca0c7c48f6200
 
  As you create your clues, strike a balance between challenging and achievable. You want your solver to have to think (sometimes outside the box), but you don't want them to lose motivation.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Step 6: Remove the Words
 
  You're pretty much done! All you need to do now is remove the letters from your crossword.
@@ -146,9 +138,23 @@ thumbnail: https://thmb.techidaily.com/7f8f4d19272d4759318cbc88d919ca0c7c48f6200
 
 ![A crossword grid in Excel with numbers in the cells where words begin.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/numbers-on-crossword-grid.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Finally, format the numbers so that they're in the top-left corner of their squares, and leave enough room for your solver to write their answers.
 
 ![A fully compiled crossword in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/crossword-completed.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Step 7: Test Your Puzzle
 
@@ -173,15 +179,20 @@ thumbnail: https://thmb.techidaily.com/7f8f4d19272d4759318cbc88d919ca0c7c48f6200
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-forum.techidaily.com/year-say-goodbye-to-free-windows-10-updates-consider-these-replacement-operating-systems/"><u>[Year] - Say Goodbye to Free Windows 10 Updates; Consider These Replacement Operating Systems</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-auditory-aesthetics-film-from-a-single-frame/"><u>2024 Approved Auditory Aesthetics Film From a Single Frame</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/2024-approved-best-video-translator-app-for-pc-cannot-miss/"><u>2024 Approved Best Video Translator App for PC Cannot Miss</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-how-to-stream-smoothly-with-nook-miles-tactics/"><u>2024 Approved How to Stream Smoothly with Nook Miles Tactics</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-on-infinix-smart-7-hd-by-drfone-android/"><u>In 2024, How to Bypass FRP on Infinix Smart 7 HD?</u></a></li>
-<li><a href="https://common-error.techidaily.com/revealing-the-hidden-making-bluetooth-appear-on-device-manager-guide/"><u>Revealing the Hidden: Making Bluetooth Appear on Device Manager [Guide]</u></a></li>
-<li><a href="https://win-forum.techidaily.com/upcoming-mandatory-windows-11-23h2-update-what-you-need-to-know/"><u>Upcoming Mandatory Windows 11 23H2 Update: What You Need To Know</u></a></li>
-<li><a href="https://driver-install.techidaily.com/upgrade-hp-graphics-to-windows-11-version/"><u>Upgrade HP Graphics to Windows 11 Version</u></a></li>
-<li><a href="https://win-forum.techidaily.com/why-is-the-bing-copilot-experience-deteriorating-on-windows-11-systems/"><u>Why Is the Bing Copilot Experience Deteriorating on Windows 11 Systems?</u></a></li>
-<li><a href="https://win-forum.techidaily.com/windows-latest-patch-introduces-more-bsod-troubles-for-users-systems/"><u>Windows Latest Patch Introduces More BSOD Troubles for Users' Systems</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-top-ten-cyber-shops-where-every-gift-tells-a-story/"><u>[Updated] 2024 Approved Top Ten Cyber Shops Where Every Gift Tells a Story</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-breaking-down-itunes-video-recording-basics/"><u>[Updated] Breaking Down iTunes Video Recording Basics</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-decoding-snapchat-emoji-language/"><u>[Updated] In 2024, Decoding Snapchat Emoji Language</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-revisit-the-past-easy-access-to-fb-story-archive/"><u>[Updated] In 2024, Revisit the Past Easy Access to FB Story Archive</u></a></li>
+<li><a href="https://win-forum.techidaily.com/convertir-archivos-de-musica-wmvwma-a-formatos-compatibles-con-itunes-sin-costo-alguno-movavi/"><u>Convertir Archivos De Música WMV/WMA a Formatos Compatibles Con iTunes Sin Costo Alguno - Movavi</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-the-world-of-visual-learners-key-traits-and-attributes/"><u>Exploring the World of Visual Learners: Key Traits & Attributes</u></a></li>
+<li><a href="https://win-forum.techidaily.com/free-online-converter-transforming-3gpp-files-into-mpeg-format-with-ease/"><u>Free Online Converter: Transforming 3GPP Files Into MPEG Format with Ease</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/honorable-highlights-elite-endorsements-for-snapping-alert-songs/"><u>Honorable Highlights Elite Endorsements for Snapping Alert Songs</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-pros-guide-to-leveraging-3d-lut-filters-in-adobe-ps/"><u>In 2024, Pro's Guide to Leveraging 3D LUT Filters in Adobe PS</u></a></li>
+<li><a href="https://win-forum.techidaily.com/online-and-gratis-3gpp-naar-avi-bewerkt-door-movavi-konverteren/"><u>Online & Gratis 3GPP Naar AVI Bewerkt Door Movavi Konverteren</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-tecno-spark-20-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Tecno Spark 20 Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/prime-windows-10-photoviewing-suite/"><u>Prime Windows 10 Photoviewing Suite</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-10-must-watch-christmas-movies-on-dvd-purchase-or-rental-options/"><u>Top 10 Must-Watch Christmas Movies on DVD - Purchase or Rental Options</u></a></li>
+<li><a href="https://win-forum.techidaily.com/trasforma-le-tue-animazioni-musicali-amv-in-mp3-senza-costi-usando-il-servizio-di-movavi-online/"><u>Trasforma Le Tue Animazioni Musicali (AMV) in Mp3 Senza Costi Usando Il Servizio Di Movavi Online</u></a></li>
+<li><a href="https://win-forum.techidaily.com/1726223891408-mp3wmv-movavi/"><u>가장 좋은 영어 MP3/WMV 이동 전자화 - 무료 Movavi 결정</u></a></li>
 </ul></div>
 

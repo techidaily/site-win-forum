@@ -1,7 +1,7 @@
 ---
 title: "A Buyer's Guide: Critical Aspects to Inspect in Secondhand Windows Laptops"
-date: 2024-09-13T16:36:27.877Z
-updated: 2024-09-16T16:50:17.936Z
+date: 2024-09-15T16:52:22.232Z
+updated: 2024-09-21T17:19:33.260Z
 tags:
   - windows
 categories:
@@ -46,11 +46,25 @@ thumbnail: https://thmb.techidaily.com/d5e8491d3f34992956d5390f8a8c8192037db1bb4
 
 ![Testing the laptop microphone in Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/2-testing-the-laptop-microphone-in-settings.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Test the Built-In Camera
 
  If you intend to use the laptop for video communication, test its built-in camera. To do this, type **Camera** in the Windows Search bar and open the Camera app.
 
  If the camera app detects the webcam and the visuals are clear and of satisfactory quality, as the seller claimed, then the camera is working correctly.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Check the Health of Your Laptop Battery
 
@@ -67,10 +81,10 @@ thumbnail: https://thmb.techidaily.com/d5e8491d3f34992956d5390f8a8c8192037db1bb4
 ![Checking the laptop battery report.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/08/br_5.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Ensure the Laptop Isn't Stolen
@@ -85,25 +99,11 @@ thumbnail: https://thmb.techidaily.com/d5e8491d3f34992956d5390f8a8c8192037db1bb4
 
  Also, watch out for stickers that may be covering up wear and tear underneath, as this is a common practice.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Test the Wired and Wireless Connectivity
 
  The worst scenario you could face is finding your [laptop unable to connect to the internet](https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual/) (via Wi-Fi or Ethernet cable), USB ports failing to detect external devices, or Bluetooth malfunctioning—all after completing the purchase. Because of that, confirming there are no wired or wireless connectivity issues is important.
 
  Start by connecting your laptop to Wi-Fi. Then, [test its Ethernet port](https://android-pokemon-go.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-tecno-spark-10-5g-drfone-by-drfone-virtual-android/) by plugging it directly into the router. If the internet connection works well, test the audio jacks with headphones. Similarly, check the USB ports by connecting a wired device. Finally, make sure Bluetooth is working by pairing a Bluetooth-powered device.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Check the Health of RAM and Storage Drive
 
@@ -134,13 +134,13 @@ thumbnail: https://thmb.techidaily.com/d5e8491d3f34992956d5390f8a8c8192037db1bb4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-efface-thin-borders-for-a-seamless-youtube-experience-for-2024/"><u>[New] Efface Thin Borders for a Seamless YouTube Experience for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-no-limit-record-media-software/"><u>[New] In 2024, No-Limit Record Media Software</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-20plus-secrets-to-insta-wonderful-videos/"><u>[Updated] 20+ Secrets to Insta-Wonderful Videos</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-oppo-find-x6-pro-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Oppo Find X6 Pro to Computer for iPhone and Android? | Dr.fone</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-guide-creating-and-utilizing-data-tables-within-ms-excel-visuals/"><u>Step-by-Step Guide: Creating and Utilizing Data Tables Within MS Excel Visuals</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-guide-cutting-out-text-segments-using-microsoft-excel/"><u>Step-by-Step Guide: Cutting Out Text Segments Using Microsoft Excel</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-guide-extracting-book-summary-data-from-excel-spreadsheets/"><u>Step-by-Step Guide: Extracting Book Summary Data From Excel Spreadsheets</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/the-makeup-mavens-handbook-youtube-edition-for-2024/"><u>The Makeup Maven’s Handbook YouTube Edition for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/1726226040146-flv-3gp-movavi/"><u>網路上的免費 FLV 到 3GP 格式傳送 - 使用Movavi 解決方案進行轉換</u></a></li>
+<li><a href="https://win-forum.techidaily.com/clicca-qui-per-imparare-come-registrare-lo-schermo-di-windows-o-mac-usando-obs-tutorial-completo/"><u>Clicca Qui per Imparare Come Registrare Lo Schermo Di Windows O Mac Usando OBS - Tutorial Completo!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/experience-the-epic-saga-watching-order-of-how-to-train-your-dragon-sequences-explained/"><u>Experience the Epic Saga: Watching Order of How to Train Your Dragon Sequences Explained</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/hands-of-honour-versus-followers-faith-for-2024/"><u>Hands of Honour Versus Followers’ Faith for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-mapping-out-instagram-deactivations/"><u>In 2024, Mapping Out Instagram Deactivations</u></a></li>
+<li><a href="https://techtrends.techidaily.com/taylor-swift-filmography-the-ultimate-viewing-guide/"><u>Taylor Swift Filmography: The Ultimate Viewing Guide</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/top-10-vr-360-video-players-for-pc-reviews/"><u>Top 10 VR (360 Video) Players for PC Reviews</u></a></li>
+<li><a href="https://win-forum.techidaily.com/trasforma-i-tuoi-file-rmvb-in-formato-mp4-senza-costi-con-la-guida-completa-di-movavi/"><u>Trasforma I Tuoi File RMVB in Formato MP4 Senza Costi Con La Guida Completa Di Movavi</u></a></li>
 </ul></div>
 

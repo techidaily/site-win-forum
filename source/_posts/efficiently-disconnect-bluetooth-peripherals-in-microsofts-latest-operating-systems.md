@@ -1,7 +1,7 @@
 ---
 title: Efficiently Disconnect Bluetooth Peripherals in Microsoft's Latest Operating Systems
-date: 2024-09-15T16:28:01.843Z
-updated: 2024-09-16T16:20:00.340Z
+date: 2024-09-17T17:27:36.470Z
+updated: 2024-09-21T16:52:32.123Z
 tags:
   - windows
 categories:
@@ -31,13 +31,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  If your device installed certain drivers, Settings won’t remove them. In this case, use the Device Manager method below. If you're unsure what method to use, stick to this one.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120862/26400?prodsku=Saturn" target="_top" id="2120862">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120862" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120862/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  On Windows 11
 
  Launch the Settings app by pressing Windows+i. In the left sidebar, select "Bluetooth & Devices." On the right pane, choose "Devices."
@@ -45,10 +38,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![Bluetooth & Devices > Devices highlighted in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-bluetooth-devices-windows-11.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Locate the device you want to remove on the Devices page, then click the three dots next to it and choose "Remove Device."
@@ -63,6 +56,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 !['Devices' highlighted in Windows 10 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-devices-windows-10.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  From the left sidebar, choose "Bluetooth & Other Devices."
 
 !['Bluetooth & Other Devices' highlighted in Windows 10 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-bluetooth-devices-windows-10.jpg) 
@@ -71,15 +71,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 !['Remove Device' highlighted for a Bluetooth device in Windows 10 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-remove-bluetooth-device-windows-10.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In the open prompt, select "Yes."
 
 !['Yes' highlighted in the Bluetooth device removal prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6-bluetooth-device-removal-prompt-windows-10.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118310/7443" target="_top" id="2118310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118310" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Remove Bluetooth Devices with Device Manager
@@ -98,14 +105,14 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 !['Uninstall' highlighted in the 'Uninstall Device' window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/9-confirm-remove-bluetooth-device-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115949/19272" target="_top" id="2115949">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115949" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115949/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [Restart your Windows 11](https://screen-video-capture.techidaily.com/updated-in-2024-addressing-mute-problems-in-obs-live-recording/) or [Windows 10](https://article-posts.techidaily.com/comparing-the-creme-de-la-creme-gopro-hero5-black-to-hero4-silver-for-2024/) PC.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Remove Bluetooth Devices Using Command Prompt
 
@@ -139,19 +146,6 @@ pnputil /remove-device “DEVICE_ID”
 
 ![The command to remove a Bluetooth device typed in Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/13-remove-bluetooth-device-cmd.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Command Prompt will remove the specified Bluetooth device and display a message. If your device isn't removed, ensure the entered device instance path is correct.
 
 ---
@@ -173,12 +167,18 @@ pnputil /remove-device “DEVICE_ID”
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/capture-and-share-online-journeys-browsers-top-screen-recorders-for-2024/"><u>Capture and Share Online Journeys Browsers' Top Screen Recorders for 2024</u></a></li>
-<li><a href="https://win-forum.techidaily.com/effortless-solutions-for-fixing-broken-excel-workbooks-a-beginners-guide/"><u>Effortless Solutions for Fixing Broken Excel Workbooks: A Beginner's Guide</u></a></li>
-<li><a href="https://win-forum.techidaily.com/enhance-productivity-integrating-ai-tools-into-microsoft-office-via-copilot-pro/"><u>Enhance Productivity: Integrating AI Tools Into Microsoft Office via Copilot Pro</u></a></li>
-<li><a href="https://win-forum.techidaily.com/essential-excel-basics-every-newcomer-should-master/"><u>Essential Excel Basics Every Newcomer Should Master</u></a></li>
-<li><a href="https://media-tips.techidaily.com/mpg-to-mpeg-conversion-made-easy-no-cost-methods-explored/"><u>MPG to MPEG Conversion Made Easy: No Cost Methods Explored</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/navigating-streamed-content-a-comprehensive-breakdown-for-2024/"><u>Navigating Streamed Content A Comprehensive Breakdown for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/not-yet-on-board-with-the-upcoming-chatgpt-desktop-opt-for-this-incredible-free-alternative-now/"><u>Not Yet on Board with the Upcoming ChatGPT Desktop? Opt for This Incredible Free Alternative Now.</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-innovative-approaches-to-photo-sharpening-with-photopeas-background-cutting-for-2024/"><u>[New] Innovative Approaches to Photo Sharpening with Photopea's Background Cutting for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-the-art-of-hiding-hashtags-on-social-media-platforms-for-2024/"><u>[New] The Art of Hiding Hashtags on Social Media Platforms for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/best-apps-cutting-edge-software-for-webcam-edits-for-2024/"><u>Best Apps Cutting-Edge Software for Webcam Edits for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/como-transformar-archivos-wmv-a-formato-webm-sin-costo-con-online-tools/"><u>Cómo Transformar Archivos WMV a Formato WebM Sin Costo Con Online Tools</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Realme C67 4G | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/no-copyrights-required-best-10-melodies-for-zen-practice/"><u>No Copyrights Required - Best 10 Melodies for Zen Practice</u></a></li>
+<li><a href="https://win-forum.techidaily.com/passos-simples-para-fotografia-em-esquema-de-cor-preta-e-branca-tecnicas-facilmente-utilizaveis/"><u>Passos Simples Para Fotografia Em Esquema De Cor Preta E Branca - Técnicas Facilmente Utilizáveis</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-xiaomi-redmi-note-12r-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Xiaomi Redmi Note 12R</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/stepwise-process-for-high-quality-screen-captures-from-dell-for-2024/"><u>Stepwise Process for High-Quality Screen Captures From Dell for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/transformacion-sin-coste-de-video-mp4-a-wmv-via-web-por-movavi/"><u>Transformación Sin Coste De Video MP4 a WMV Vía Web Por Movavi</u></a></li>
+<li><a href="https://win-forum.techidaily.com/transforme-sus-archivos-flv-en-canciones-mp3-sin-costo-adicional-guia-de-movavi/"><u>Transforme Sus Archivos FLV en Canciones MP3 Sin Costo Adicional: Guía De Movavi</u></a></li>
+<li><a href="https://win-forum.techidaily.com/transformez-un-fichier-raw-en-format-avi-en-ligne-sans-frais-movavi/"><u>Transformez Un Fichier RAW en Format AVI En Ligne Sans Frais - Movavi</u></a></li>
+<li><a href="https://win-forum.techidaily.com/webmflv-movavi/"><u>우리에서는 원급 WEBM/FLV 변환을 가장 안심하여 제공하세요! - Movavi 기회</u></a></li>
 </ul></div>
 

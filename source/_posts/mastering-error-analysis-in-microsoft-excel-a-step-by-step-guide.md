@@ -1,7 +1,7 @@
 ---
 title: "Mastering Error Analysis in Microsoft Excel: A Step-by-Step Guide"
-date: 2024-09-11T16:46:09.544Z
-updated: 2024-09-16T16:26:28.641Z
+date: 2024-09-18T16:23:41.470Z
+updated: 2024-09-21T17:05:14.125Z
 tags:
   - excel
 categories:
@@ -58,19 +58,6 @@ thumbnail: https://thmb.techidaily.com/2cb259c465a86a9d87c2ab8ed232a243225880491
 
  The result of these five different values is 0.16\. This number tells us how different each measurement typically is from the average value.
 
-<!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Calculate the Standard Error
 
  With the standard deviation calculated, we can now find the standard error.
@@ -84,10 +71,10 @@ thumbnail: https://thmb.techidaily.com/2cb259c465a86a9d87c2ab8ed232a243225880491
 ![Calculate the standard error](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/05/standard-error-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Using Error Bars to Present Uncertainty in Charts
@@ -104,18 +91,18 @@ thumbnail: https://thmb.techidaily.com/2cb259c465a86a9d87c2ab8ed232a243225880491
 
 ![Select an error bar type for your chart](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/05/error-bars-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can show a standard error or standard deviation amount for all values as we calculated earlier in this article. You can also display a percentage error change. The default is 5%.
 
  For this example, we chose to show the percentage.
 
 ![Error bars showing percentage margin](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/05/percentage-error.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  There are some further options to explore to customize your error bars.
 
@@ -124,6 +111,13 @@ thumbnail: https://thmb.techidaily.com/2cb259c465a86a9d87c2ab8ed232a243225880491
  You can then adjust the percentage, standard deviation value, or even select a custom value from a cell that may have been produced by a statistical formula.
 
 ![Format error bars to customise them further](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/05/format-error-bars.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Excel is an ideal tool for statistical analysis and reporting. It provides many ways to calculate uncertainty so that you get what you need.
 
@@ -142,20 +136,14 @@ thumbnail: https://thmb.techidaily.com/2cb259c465a86a9d87c2ab8ed232a243225880491
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-free-audio-treasures-to-amplify-youtube/"><u>[New] 2024 Approved Free Audio Treasures to Amplify YouTube</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-tailoring-your-videos-for-impact-on-instagram-feed/"><u>[Updated] 2024 Approved Tailoring Your Videos for Impact on Instagram Feed</u></a></li>
-<li><a href="https://win-forum.techidaily.com/expert-advice-for-deleting-windows-11-memory-dump-data/"><u>Expert Advice for Deleting Windows 11 Memory Dump Data</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/expert-advice-on-handling-and-repairing-bios-level-faults-whea-error/"><u>Expert Advice on Handling and Repairing BIOS-Level Faults (WHEA Error)</u></a></li>
-<li><a href="https://driver-install.techidaily.com/fix-dell-touchpad-not-working-issue-for-windows-10/"><u>Fix Dell Touchpad Not Working Issue for Windows 10</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/harness-the-potential-of-ai-conversations-on-quora-through-its-api-poe/"><u>Harness the Potential of AI Conversations on Quora Through Its API (Poe)</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-prevent-and-solve-frequent-haltings-during-steam-downloads/"><u>How to Prevent and Solve Frequent Haltings During Steam Downloads</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-remove-forgotten-pin-of-your-samsung-galaxy-s23-ultra-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Samsung Galaxy S23 Ultra</u></a></li>
-<li><a href="https://win-forum.techidaily.com/how-to-speed-up-windows-11-boot-time-revouninstaller/"><u>How to Speed up Windows 11 Boot Time - RevoUninstaller</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-tecno-spark-go-2023-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Tecno Spark Go (2023) and Browser | Dr.fone</u></a></li>
-<li><a href="https://win-forum.techidaily.com/mastering-the-search-how-to-check-and-confirm-powershell-version-on-windows-11/"><u>Mastering the Search: How to Check and Confirm PowerShell Version on Windows 11</u></a></li>
-<li><a href="https://win-forum.techidaily.com/navigating-the-web-of-connections-with-facebook-twitter-instagram-and-youtube/"><u>Navigating the Web of Connections with Facebook, Twitter, Instagram, and Youtube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-guide-removing-windows-11-updates-efficiently/"><u>Step-by-Step Guide: Removing Windows 11 Updates Efficiently</u></a></li>
-<li><a href="https://win-forum.techidaily.com/troubleshooting-complete-hard-drive-occupancy-on-windows-10-machines/"><u>Troubleshooting Complete Hard Drive Occupancy on Windows 10 Machines</u></a></li>
-<li><a href="https://win-forum.techidaily.com/troubleshooting-guide-how-to-roll-back-recent-updates-on-windows-11/"><u>Troubleshooting Guide: How to Roll Back Recent Updates on Windows 11</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-live-broadcasters-dilemma-which-tool-triumphs-obs-or-streamlabs/"><u>[New] In 2024, Live Broadcasters' Dilemma Which Tool Triumphs – OBS or Streamlabs?</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-premier-selection-the-best-11-soundstreamer-devices/"><u>[Updated] In 2024, Premier Selection The Best 11 Soundstreamer Devices</u></a></li>
+<li><a href="https://win-forum.techidaily.com/wavmpg-movavi/"><u>免費在线WAV至MPG转换 - 利用Movavi提�지取得效果更好</u></a></li>
+<li><a href="https://win-forum.techidaily.com/comprehensive-quicktime-video-capture-tutorial-record-screens-and-sound-seamlessly/"><u>Comprehensive QuickTime Video Capture Tutorial: Record Screens & Sound Seamlessly</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exporting-your-favorite-spotify-playlists-as-easy-text-documents/"><u>Exporting Your Favorite Spotify Playlists as Easy Text Documents</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/laughs-in-a-click-building-hilarious-memes/"><u>Laughs in a Click Building Hilarious Memes</u></a></li>
+<li><a href="https://win-forum.techidaily.com/les-9-meilleures-solutions-logiciel-danimation-en-2d-selon-google/"><u>Les 9 Meilleures Solutions Logiciel D'Animation en 2D Selon Google</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-ditch-windows-10-photos-explore-these-8-superior-image-editing-tools/"><u>New Ditch Windows 10 Photos Explore These 8 Superior Image Editing Tools</u></a></li>
+<li><a href="https://win-forum.techidaily.com/transfert-de-fichier-mmf-a-wav-sur-internet-convertissez-gratuitement-avec-des-tutoriels-facile-dacces/"><u>Transfert De Fichier MMF À WAV Sur Internet - Convertissez Gratuitement Avec Des Tutoriels Facile D'accès</u></a></li>
 </ul></div>
 

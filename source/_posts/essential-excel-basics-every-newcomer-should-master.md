@@ -1,7 +1,7 @@
 ---
 title: Essential Excel Basics Every Newcomer Should Master
-date: 2024-09-14T16:50:31.290Z
-updated: 2024-09-16T16:01:52.303Z
+date: 2024-09-16T16:03:37.986Z
+updated: 2024-09-21T17:22:46.933Z
 tags:
   - excel
 categories:
@@ -74,11 +74,25 @@ Related: [How to Change the Color of the Worksheet Tabs in Excel](https://eaxpv-
 
 ![Delete in the sheet menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/DeleteSheet-ExcelBeginnersBasics.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Adding and Removing Columns and Rows
 
  You may discover that you need an additional [column or row](https://article-tips.techidaily.com/updated-frolicsome-media-repository-for-2024/) within your data set. Or, you might decide to remove a column or row you no longer need.
 
 Related: [How to Add and Remove Columns and Rows in Microsoft Excel](https://article-tips.techidaily.com/updated-frolicsome-media-repository-for-2024/) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  Add a Column or Row
 
@@ -112,6 +126,13 @@ Related: [How to Use the Accounting Number Format in Microsoft Excel](https://an
 
 ![Number formats in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/FormatNumber-ExcelBeginnersBasics.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Pick the format you want, and you'll see your data update.
 
 ![Currency format in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/FormattedNumber-ExcelBeginnersBasics.png) 
@@ -119,19 +140,6 @@ Related: [How to Use the Accounting Number Format in Microsoft Excel](https://an
  You can also choose the style for the number format you use. Click the small arrow on the bottom right of the Number section in the ribbon.
 
 ![Number format launcher in the ribbon](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/NumberLauncher-ExcelBeginnersBasics.png) 
-
-<!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  When the Format Cells box appears, go to the Number tab and select an option on the left.
 
@@ -151,13 +159,6 @@ Related: [How To Add and Change Cell Borders In Excel](https://activate-lock.tec
 
 ![Font section of the ribbon on the Home tab](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/HomeFont-ExcelBeginnersBasics.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Font style and size**: Use the drop-down boxes at the top to change the font style or size. You can also use the buttons to the right to increase or decrease the font size.
 
 **Bold, italics, and underline**: Simply select one of these buttons to apply bold, italics, or underline to the font in a cell.
@@ -176,6 +177,13 @@ Related: [12 Basic Excel Functions Everybody Should Know](https://visual-screen-
 
 ![Cell B7 highlighted on a sheet](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/CellB7-ExcelBeginnersBasics.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Head to the Home tab and select the Sum drop-down box in the Editing section of the ribbon. You'll see the basic calculations you can perform. For our example, we select "Sum."
 
 ![Calculations in the Sum menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/SumCalculations-ExcelBeginnersBasics.png) 
@@ -184,34 +192,20 @@ Related: [12 Basic Excel Functions Everybody Should Know](https://visual-screen-
 
 ![Sum formula and result in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/Sum-ExcelBeginnersBasics.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Alternatively, you can start by selecting the cells you want to calculate. Then, choose the calculation from the Sum drop-down box. 
 
 ![Selected cells and the Sum menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/SumSelected-ExcelBeginnersBasics.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You'll see the result of the calculation below cells in a column or to the right of cells in a row.
 
 ![Sum result in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/SummedSelected-ExcelBeginnersBasics.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  As an Excel beginner, these basic tasks should get you off to a great start using the application. Once you master these actions, be sure to check out our additional Excel articles for things like [creating a graph](https://technical-tips.techidaily.com/top-techniques-for-enhancing-photo-quality-on-your-ios-device/), [using a table](https://instagram-videos.techidaily.com/updated-2024-approved-how-to-convert-your-best-videography-into-melodic-mp3s-insta/), and [sorting or filtering data](https://facebook-video-share.techidaily.com/free-audio-treasures-to-amplify-youtube-in-2024/).
 
@@ -230,16 +224,19 @@ Related: [12 Basic Excel Functions Everybody Should Know](https://visual-screen-
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-conducting-collaborative-discussions-in-a-hassle-free-manner-via-skype-across-operating-systems-for-2024/"><u>[Updated] Conducting Collaborative Discussions in a Hassle-Free Manner via Skype Across Operating Systems for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-capturing-moments-seamlessly-with-snap-and-meet/"><u>2024 Approved Capturing Moments Seamlessly with Snap and Meet</u></a></li>
-<li><a href="https://blog-min.techidaily.com/1725290620011-avchdtsmov/"><u>全種類のビデオファイル変換 - AVCHD、TS、MOVなど対応! 完全ガイド</u></a></li>
-<li><a href="https://win-forum.techidaily.com/comprehensive-guide-to-leading-social-media-giants-facebook-twitter-instagram-and-youtube/"><u>Comprehensive Guide to Leading Social Media Giants: Facebook, Twitter, Instagram and YouTube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/confidentiality-matters-the-definitive-guide-to-adding-passwords-to-text-files/"><u>Confidentiality Matters: The Definitive Guide to Adding Passwords to Text Files</u></a></li>
-<li><a href="https://win-forum.techidaily.com/1723016010025-corsair-virtuoso-mic-woes-heres-how-to-get-it-working-again/"><u>Corsair Virtuoso Mic Woes? Here's How to Get It Working Again!</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/discover-revolutionary-iphone-apps-for-virtual-reality-gaming/"><u>Discover Revolutionary IPhone Apps for Virtual Reality Gaming</u></a></li>
-<li><a href="https://win-forum.techidaily.com/expert-advice-uninstalling-unlisted-software-without-control-panel-access/"><u>Expert Advice: Uninstalling Unlisted Software Without Control Panel Access</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-share-on-apple-iphone-11-pro-max-drfone-by-drfone-ios/"><u>How to Screen Share on Apple iPhone 11 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-use-life360-on-windows-pc-for-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>How to Use Life360 on Windows PC For Apple iPhone 8? | Dr.fone</u></a></li>
-<li><a href="https://win-forum.techidaily.com/ultimate-trick-for-permanent-administrator-access-when-opening-programs-on-windows-11/"><u>Ultimate Trick for Permanent Administrator Access When Opening Programs on Windows 11</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-10-best-high-security-androidios-video-calling-tools-available-for-free/"><u>[New] In 2024, 10 Best High-Security Android/iOS Video Calling Tools Available for Free</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-tackling-social-media-platforms-an-in-depth-look-at-igtv-and-youtube/"><u>[Updated] In 2024, Tackling Social Media Platforms An In-Depth Look at IGTV and YouTube</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-revolutionize-viewing-experience-the-best-yt-reaction-methods-for-2024/"><u>[Updated] Revolutionize Viewing Experience The Best YT Reaction Methods for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/1-transform-swf-files-into-m4v-videos-swiftly-and-gratis-with-our-web-based-tool/"><u>1. Transform SWF Files Into M4V Videos Swiftly & Gratis with Our Web-Based Tool</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-ensuring-authenticity-of-your-youtube-account/"><u>2024 Approved Ensuring Authenticity of Your YouTube Account</u></a></li>
+<li><a href="https://win-forum.techidaily.com/conversion-rapida-de-videos-transforma-tus-archivos-flv-en-formato-avi-con-el-convertidor-de-movavi/"><u>Conversión Rápida De Vídeos: Transforma Tus Archivos FLV en Formato AVI Con El Convertidor De Movavi</u></a></li>
+<li><a href="https://review-topics.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-tecno-camon-20-premier-5g-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Tecno Camon 20 Premier 5G in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/hing-videos-with-no-cost-sounds-legally/"><u>Enriching Videos with No-Cost Sounds Legally</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/gratuit-3-facons-faciles-de-changer-des-fichiers-mts-en-mp4/"><u>Gratuit: 3 Façons Faciles De Changer Des Fichiers MTS en MP4</u></a></li>
+<li><a href="https://win-forum.techidaily.com/movavis-betydningsfull-konverter-11-finaste-vob-filspelare-for-windows-and-mac/"><u>Movavi's Betydningsfull Konverter: 11 Finaste VOB-Filspelare För Windows & Mac</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mp3-a-webm-free-convertitore-online-concesso-da-movavi/"><u>MP3 a Webm Free: Convertitore Online Concesso Da Movavi</u></a></li>
+<li><a href="https://win-forum.techidaily.com/topos-9-elegantes-para-optimizacion-de-imagenes-la-lista-ultima-2024/"><u>Topos 9 Elegantes Para Optimización De Imágenes: La Lista Ultima - 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unraveling-the-mystery-behind-google-chrome-critical-error-solutions-at-hand/"><u>Unraveling The Mystery Behind Google Chrome Critical Error - Solutions at Hand!</u></a></li>
+<li><a href="https://win-forum.techidaily.com/movavi-oggavi/"><u>オフィシャル無料で簡単！Movavi OGGAVIオンラインコンバータ</u></a></li>
 </ul></div>
 

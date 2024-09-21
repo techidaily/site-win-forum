@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Creating and Utilizing Data Tables Within MS Excel Visuals"
-date: 2024-09-14T16:53:23.732Z
-updated: 2024-09-16T16:51:27.326Z
+date: 2024-09-17T16:02:21.252Z
+updated: 2024-09-21T16:40:33.959Z
 tags:
   - excel
 categories:
@@ -66,16 +66,10 @@ Related: [How to Create and Customize a Waterfall Chart in Microsoft Excel](http
 ![Border options in the Format Data Table sidebar](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/FormatDataTableOptionsTab-ExcelDataTableChart.png) 
 
 <!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To change the fill and border settings, select the Fill & Line tab. You can choose a fill type and pick a color from the palette.
@@ -86,22 +80,22 @@ Related: [How to Create and Customize a Waterfall Chart in Microsoft Excel](http
 
 ![Line and Effects in the Format Data Table sidebar](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/FormatDataTableLineEffects-ExcelDataTableChart.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can also change the font that displays within the table. At the top of the sidebar, choose Text Options. Use the Text Fill & Outline and Text Effects tabs to adjust the text fill style, font color, transparency, and effects.
 
 ![Text options in the Format Data Table sidebar](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/FormatDataTableTextOptions-ExcelDataTableChart.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Changing the Table Data
@@ -127,19 +121,15 @@ Related: [How to Create and Customize a Waterfall Chart in Microsoft Excel](http
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-comprehensive-guide-understanding-google-podcasts/"><u>[New] Comprehensive Guide Understanding Google Podcasts</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-unveiling-secrets-of-effortless-screen-sharing-in-meet/"><u>[New] In 2024, Unveiling Secrets of Effortless Screen Sharing in Meet</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ics-and-more-discovering-the-audio-essential-that-matches-your-yt-vision/"><u>[New] Mics & More Discovering the Audio Essential That Matches Your YT Vision</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-ridiculousrender-hub/"><u>[Updated] RidiculousRender Hub</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-free-and-easy-building-attractive-youtube-intros-without-expense/"><u>2024 Approved Free & Easy Building Attractive YouTube Intros without Expense</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-the-17-leading-software-choices-for-professional-graphic-designers/"><u>Discover the 17 Leading Software Choices for Professional Graphic Designers</u></a></li>
-<li><a href="https://win-forum.techidaily.com/effective-ways-to-delete-user-settings-in-windows-11-via-revouninstaller-software/"><u>Effective Ways to Delete User Settings in Windows 11 via RevoUninstaller Software</u></a></li>
-<li><a href="https://win-forum.techidaily.com/guide-updating-graphics-and-sound-cards-in-windows-11-made-simple/"><u>Guide: Updating Graphics and Sound Cards in Windows 11 Made Simple</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-google-pixel-7a-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Google Pixel 7a Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Honor 90 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-forum.techidaily.com/navigating-the-big-four-of-online-networking-facebook-twitter-instagram-youtube/"><u>Navigating The Big Four of Online Networking: Facebook, Twitter, Instagram, Youtube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/navigating-the-giants-of-online-networking-facebook-twitter-instagram-and-youtube/"><u>Navigating the Giants of Online Networking: Facebook, Twitter, Instagram and Youtube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/secure-superuser-access-for-applications-a-step-by-step-tutorial-for-windows-11-users/"><u>Secure Superuser Access for Applications: A Step-by-Step Tutorial for Windows 11 Users</u></a></li>
-<li><a href="https://win-forum.techidaily.com/unlocking-new-possibilities-configuring-windows-11-on-cpus-not-officially-supported/"><u>Unlocking New Possibilities: Configuring Windows 11 on CPUs Not Officially Supported</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-easy-guide-to-firefoxs-popup-window-excellence/"><u>[New] 2024 Approved Easy Guide to Firefox's Popup Window Excellence</u></a></li>
+<li><a href="https://win-forum.techidaily.com/conversione-online-gratuita-da-mka-a-flac-con-alta-qualita-audio-utilizzando-movavi/"><u>Conversione Online Gratuita: Da MKA a FLAC Con Alta Qualità Audio Utilizzando Movavi</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-setup-easy-installation-of-xbox-controller-drivers-for-pcs/"><u>Download & Setup: Easy Installation of Xbox Controller Drivers for PCs</u></a></li>
+<li><a href="https://win-forum.techidaily.com/due-utilissimi-video-per-masterare-windows-11-tutto-quello-di-cui-avete-bisogno-nel-2024/"><u>Due Utilissimi Video per Masterare Windows 11: Tutto Quello Di Cui Avete Bisogno Nel 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-genshin-impact-issue-resolving-error-code-4201/"><u>Fixing 'Genshin Impact' Issue: Resolving Error Code 4201</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/gratis-avi-videos-naar-mov-omzetten-online-gestuurde-filmconverter-met-movavi/"><u>Gratis AVI-Video's Naar MOV Omzetten - Online Gestuurde Filmconverter Met Movavi</u></a></li>
+<li><a href="https://win-forum.techidaily.com/gratuito-mudar-gif-para-bmp-online-com-o-conversor-do-movavi/"><u>Gratuito Mudar GIF Para BMP Online Com O Conversor Do Movavi</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-bridging-virtuality-business-applications-in-vr/"><u>In 2024, Bridging Virtuality Business Applications in VR</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/stop-automatically-added-podcast-episodes-via-spotifys-suggestions/"><u>Stop Automatically Added Podcast Episodes via Spotify's Suggestions</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-screen-capture-tools-purchase-options-and-comparisons/"><u>Top Screen Capture Tools: Purchase Options and Comparisons</u></a></li>
 </ul></div>
 

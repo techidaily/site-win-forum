@@ -1,7 +1,7 @@
 ---
 title: "Beginner's Guide: Easy Steps to Prepare Your New Windows Laptop"
-date: 2024-09-13T16:29:40.428Z
-updated: 2024-09-16T16:52:37.622Z
+date: 2024-09-19T17:19:14.764Z
+updated: 2024-09-21T17:06:33.894Z
 tags:
   - windows
 categories:
@@ -40,6 +40,13 @@ thumbnail: https://thmb.techidaily.com/4916a6d483134297a5c5a01cc889f69aabd6291d8
 
  Some applications automatically add themselves to the startup list when installed. So, periodically review their startup list and remove any unnecessary programs.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3  Pin Frequently Used Apps to the Taskbar 
 
  Web browsers, email clients, word processors, and media players are some of the frequently used apps that the person you're setting up the Windows device for will likely use often. While they can search for the required app in Windows Search, you can [pin these apps to the taskbar](https://tech-hub.techidaily.com/understanding-the-five-main-causes-of-chatgpt-prohibitions-in-businesses/) for easier access.
@@ -61,28 +68,15 @@ thumbnail: https://thmb.techidaily.com/4916a6d483134297a5c5a01cc889f69aabd6291d8
  One option is OneDrive, though it only backs up specific folders. For more thorough backups, [consider a premium backup service like Backblaze](https://audio-shaping.techidaily.com/in-2024-probing-sound-clarity-an-updated-analysis-of-cambridges-cxu-series/) that can back up their entire computer.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120866/26400?prodsku=mars" target="_top" id="2120866">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120866/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5  Foolproof the System's Security 
 
 ![A hand increasing the security level using a knob.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/a-hand-increasing-the-security-level-using-a-knob.jpg) 
-
-<!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
   
 Lucas Gouveia / How-To Geek | Shutterstock.AI
@@ -91,13 +85,6 @@ Lucas Gouveia / How-To Geek | Shutterstock.AI
 
  You can also [create a System Restore point](https://instagram-video-files.techidaily.com/updated-in-2024-multiplying-joy-sharing-a-pile-of-photos-and-videos-with-instagram/) to quickly revert their system if something goes wrong. Advise them against downloading third-party apps and use parental control software to restrict access to specific websites. Also, educate them on the best online practices for staying safe while surfing the web.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6  Uninstall Bloatware and Install Handy Apps 
 
  When someone gets a new computer, it’s likely to come with a lot of bloatware that uses up system storage and slows down performance. These unnecessary programs often start up with the computer, slow down the boot process, and consume resources in the background. Therefore, it’s essential to remove these apps and [debloat the operating system](https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-xiaomi-14-pro-without-puk-codes-by-drfone-android/).
@@ -105,10 +92,10 @@ Lucas Gouveia / How-To Geek | Shutterstock.AI
  Afterward, you should install helpful apps to enhance their computer experience. For example, you could add Everything to make file searching easier, Auto Dark Mode to automatically switch between dark and light modes at different times of the day, ShareX for capturing screenshots and recording videos, and other [helpful apps and tools](https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-honor-90-drfone-by-drfone-virtual-android/).
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7  Customize Screen Element Sizes to Their Preferences 
@@ -120,6 +107,13 @@ Lucas Gouveia / How-To Geek | Shutterstock.AI
  Next, navigate to the "Accessibility" tab on the left sidebar. Go to the "Text Size" section and drag the slider to increase the text size. Then, go back and select "Mouse Pointer and Touch" to adjust the pointer size and style. You can also change the size of desktop shortcut icons, pinned taskbar items, and more.
 
 ![Changing the text size in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/4-changing-the-text-size-in-the-windows-settings-app.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If the person you're setting up the Windows PC for has visual impairments, enable the Magnifier feature to enlarge parts of the screen for easier reading. You can also activate the Narrator to read text aloud. For those with hearing impairments, turn on Captions to provide closed captions for audio. You can turn these features on in the Accessibility settings.
 
@@ -150,18 +144,21 @@ Lucas Gouveia / How-To Geek | Shutterstock.AI
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-unveiling-prime-5-chrome-tools-for-facebook-vids/"><u>[New] In 2024, Unveiling Prime 5 Chrome Tools for Facebook Vids</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-olympic-thaw-figure-skating-extravaganza/"><u>[New] Olympic Thaw Figure Skating Extravaganza</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-high-quality-video-webcams-top-5-combos-with-sound/"><u>[Updated] 2024 Approved High-Quality Video Webcams - Top 5 Combo's With Sound</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-kinemaster-proficiency-unleashed-strategies-features-and-10-online-rivals/"><u>[Updated] KineMaster Proficiency Unleashed Strategies, Features & 10 Online Rivals</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-seamless-web-browsing-on-edge-with-picture-in-picture-mode/"><u>2024 Approved Seamless Web Browsing on Edge with Picture-in-Picture Mode</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-guide-for-upgrading-microsofts-windows-11-to-version-2004-with-conexant-support/"><u>Easy Guide for Upgrading Microsoft's Windows 11 to Version 2004 with Conexant Support</u></a></li>
-<li><a href="https://win-forum.techidaily.com/efficiently-auto-emphasize-peak-points-on-your-excel-charts-mining-data-extremes/"><u>Efficiently Auto-Emphasize Peak Points on Your Excel Charts - Mining Data Extremes</u></a></li>
-<li><a href="https://win-forum.techidaily.com/efficiently-harvest-content-a-guide-to-image-text-and-file-extraction-in-microsoft-suite/"><u>Efficiently Harvest Content: A Guide to Image, Text, and File Extraction in Microsoft Suite</u></a></li>
-<li><a href="https://win-forum.techidaily.com/effortless-solutions-for-fixing-broken-excel-workbooks-a-beginners-guide/"><u>Effortless Solutions for Fixing Broken Excel Workbooks: A Beginner's Guide</u></a></li>
-<li><a href="https://win-forum.techidaily.com/enhance-productivity-integrating-ai-tools-into-microsoft-office-via-copilot-pro/"><u>Enhance Productivity: Integrating AI Tools Into Microsoft Office via Copilot Pro</u></a></li>
-<li><a href="https://win-forum.techidaily.com/essential-excel-basics-every-newcomer-should-master/"><u>Essential Excel Basics Every Newcomer Should Master</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/lockdown-protocol-instantaneous-secure-tiktok-link-addition/"><u>Lockdown Protocol Instantaneous, Secure TikTok Link Addition</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-s-hottest-iphone-apps-what-you-need-to-know/"><u>New 2024 Approved S Hottest iPhone Apps What You Need to Know</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-engaging-audiences-with-jujutsu-kaisen-tiktok-content-for-2024/"><u>[Updated] Engaging Audiences with Jujutsu Kaisen TikTok Content for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-innovative-ways-to-leverage-zoom-for-fb-live-for-2024/"><u>[Updated] Innovative Ways to Leverage Zoom for FB Live for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-unveiling-advanced-features-of-vlc/"><u>2024 Approved Unveiling Advanced Features of VLC</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-vivo-y78plus-t1-edition-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Vivo Y78+ (T1) Edition | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/convert-audio-files-from-wav-to-aac-no-cost-with-movavi-converter/"><u>Convert Audio Files From WAV to AAC - No Cost with Movavi Converter</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/discover-superior-ai-search-technologies-for-efficient-web-exploration/"><u>Discover Superior AI Search Technologies for Efficient Web Exploration</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-the-ultimate-6-smartnote-apps-powered-by-ai-for-superior-note-management/"><u>Discover the Ultimate 6 Smartnote Apps Powered by AI for Superior Note Management</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/explore-high-quality-android-videos-top-10-apps/"><u>Explore High-Quality Android Videos Top 10 Apps</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-sony-xperia-1-v-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Sony Xperia 1 V | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/movavis-on-the-go-video-transcoding-change-your-m1v-files-into-avi-for-zero-cost/"><u>Movavi's On-The-Go Video Transcoding: Change Your M1V Files Into AVI for Zero Cost!</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-the-essential-list-top-8-android-daws-revolutionizing-music/"><u>New In 2024, The Essential List Top 8 Android DAWs Revolutionizing Music</u></a></li>
+<li><a href="https://win-forum.techidaily.com/transform-mp3-and-m4a-files-into-m4b-format-at-no-cost-with-movavi/"><u>Transform MP3 and M4A Files Into M4B Format at No Cost with Movavi</u></a></li>
+<li><a href="https://win-forum.techidaily.com/transforma-archivos-swf-con-sonido-libre-y-sin-costo-en-formatos-mp3-soluciones-efectivas-en-linea/"><u>Transforma Archivos SWF Con Sonido Libre Y Sin Costo en Formatos MP3: Soluciones Efectivas En Línea</u></a></li>
+<li><a href="https://win-forum.techidaily.com/uploading-tiktok-content-from-your-computer-three-simple-methods-guided-guide/"><u>Uploading TikTok Content From Your Computer: Three Simple Methods - Guided Guide</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mp4m2ts-movavi/"><u>영상 형식 바꾸기: MP4/M2TS를 무료로 구성 - 웹 사이트에서 Movavi</u></a></li>
+<li><a href="https://win-forum.techidaily.com/movavim2p-avi/"><u>スピーディかつコストなし: MOVAVIによるM2P オンラインAVI形式変換サービス</u></a></li>
 </ul></div>
 

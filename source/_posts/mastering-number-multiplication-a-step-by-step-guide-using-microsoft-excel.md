@@ -1,7 +1,7 @@
 ---
 title: "Mastering Number Multiplication: A Step-by-Step Guide Using Microsoft Excel"
-date: 2024-09-15T16:46:58.596Z
-updated: 2024-09-16T16:18:10.173Z
+date: 2024-09-14T17:00:13.445Z
+updated: 2024-09-21T16:05:44.683Z
 tags:
   - excel
 categories:
@@ -49,6 +49,13 @@ Related: [Functions vs. Formulas in Microsoft Excel: What's the Difference?](htt
 
 ![The product of the two input cells in the multiplication formula.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/The-product-of-the-two-input-cells-in-the-multiplication-forumula..png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Multiply a Column of Numbers (by a Constant Number)
 
  You can multiply a [column of numbers](https://tiktok-clips.techidaily.com/2024-approved-speeding-up-tiktok-videos-made-simple/) by a number in a different cell. For example, let's say cells A1-A6 each contain a number (your multiplicands), and you want to get the product of those by using the number in cell C1 (your multiplier).
@@ -56,16 +63,10 @@ Related: [Functions vs. Formulas in Microsoft Excel: What's the Difference?](htt
 ![The multiplicands and multiplier in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/The-multiplicands-and-multiplier-in-Excel..png) 
 
 <!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  First, select cell B2, which is where the output of the first formula will be. In B2, enter this formula:
@@ -73,13 +74,6 @@ Related: [Functions vs. Formulas in Microsoft Excel: What's the Difference?](htt
 =A1*$C$1
 
 ![The formula for multiplying the numbers in a column.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/The-formula-for-multiplying-the-numbers-in-a-column.-1.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Press "Enter" and the product will appear.
 
@@ -117,15 +111,21 @@ Related: [How to Calculate the Median in Microsoft Excel](https://some-technique
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-what-is-virtual-reality-headset-in-2024/"><u>[New] What Is Virtual Reality Headset, In 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-simplified-social-media-sharing-youtube-to-facebook/"><u>[Updated] 2024 Approved Simplified Social Media Sharing YouTube to Facebook</u></a></li>
-<li><a href="https://win-forum.techidaily.com/connect-and-grow-your-network-through-leading-platforms-facebook-twitter-instagram-and-youtube/"><u>Connect and Grow Your Network Through Leading Platforms: Facebook, Twitter, Instagram & YouTube</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/digital-enlightenment-a-treasury-of-arvr-quotations/"><u>Digital Enlightenment A Treasury of AR/VR Quotations</u></a></li>
-<li><a href="https://win-forum.techidaily.com/effortless-registry-key-management-with-revo-uninstaller-create-edit-and-delete-like-a-pro/"><u>Effortless Registry Key Management with Revo Uninstaller: Create, Edit, and Delete Like a Pro</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/from-thermal-limits-to-boundless-potential-the-revolutionary-tech-of-pcie-60/"><u>From Thermal Limits to Boundless Potential: The Revolutionary Tech of PCIe 6.0</u></a></li>
-<li><a href="https://win-forum.techidaily.com/mastering-the-art-of-android-app-management-using-revo-uninstaller/"><u>Mastering the Art of Android App Management Using Revo Uninstaller</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/pinnacle-color-balance-pro-for-2024/"><u>Pinnacle Color Balance Pro for 2024</u></a></li>
-<li><a href="https://win-forum.techidaily.com/top-7-solutions-to-stop-windows-file-explorer-continuous-freezing-with-revo-uninstaller/"><u>Top 7 Solutions to Stop Windows File Explorer Continuous Freezing with Revo Uninstaller</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unlocking-potential-the-remarkable-capabilities-of-the-m1-powered-2020-macbook-air-reviewed/"><u>Unlocking Potential: The Remarkable Capabilities of the M1-Powered 2020 MacBook Air Reviewed</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-masterclass-using-discord-spoilers-wisely-for-2024/"><u>[New] Masterclass Using Discord Spoilers Wisely for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-step-by-step-journey-to-fcp-mastery/"><u>[New] Step-By-Step Journey to FCP Mastery</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-10plus-free-apps-to-convert-youtube-videos-on-demand/"><u>[Updated] 2024 Approved 10+ Free Apps to Convert YouTube Videos on Demand</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-maximize-offline-viewing-8-best-youtube-downloaders/"><u>[Updated] Maximize Offline Viewing 8 Best YouTube Downloaders</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-prime-facebook-extra-tools-secure-file-grabber-optimized-for-ff/"><u>[Updated] Prime Facebook Extra Tools Secure File Grabber, Optimized For FF</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/20-windows-command-prompt-cmd-commands-you-must-know/"><u>20 Windows Command Prompt (CMD) Commands You Must Know</u></a></li>
+<li><a href="https://win-forum.techidaily.com/converti-file-mpeg-in-formato-aac-online-senza-costi-con-movavi/"><u>Converti File MPEG in Formato AAC Online Senza Costi Con Movavi</u></a></li>
+<li><a href="https://win-forum.techidaily.com/discover-the-core-purpose-behind-movavi-unveiling-its-essence/"><u>Discover the Core Purpose Behind MOVAVI: Unveiling Its Essence</u></a></li>
+<li><a href="https://win-forum.techidaily.com/free-online-converter-change-dng-images-to-jpeg-format-with-movavi/"><u>Free Online Converter: Change DNG Images to JPEG Format with Movavi</u></a></li>
+<li><a href="https://win-forum.techidaily.com/free-online-mp4-to-mkv-converter-convert-videos-seamlessly-with-movavi/"><u>Free Online MP4 to MKV Converter - Convert Videos Seamlessly with Movavi</u></a></li>
+<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-oneplus-11-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on OnePlus 11 5G | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/guia-para-convertir-archivos-flv-a-mp4-sin-comprometer-la-calidad-herramientas-online-seguras-por-movavi/"><u>Guía Para Convertir Archivos FLV a MP4 Sin Comprometer La Calidad: Herramientas Online Seguras Por Movavi</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-quickening-realities-with-hyperlapse-methods/"><u>In 2024, Quickening Realities with Hyperlapse Methods</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-nokia-c110-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Nokia C110? | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/quick-and-free-m4v-file-conversion-to-mp4-on-the-web-simplify-media-editing-using-movavi-tool/"><u>Quick & Free M4V File Conversion to MP4 on the Web - Simplify Media Editing Using Movavi Tool</u></a></li>
+<li><a href="https://win-forum.techidaily.com/seamlessly-streaming-content-with-screen-sharing-features-on-discord-pc-and-smartphone-guide/"><u>Seamlessly Streaming Content with Screen Sharing Features on Discord - PC & Smartphone Guide</u></a></li>
 </ul></div>
 

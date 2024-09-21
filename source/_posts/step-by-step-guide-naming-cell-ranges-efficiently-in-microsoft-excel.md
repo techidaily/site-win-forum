@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Naming Cell Ranges Efficiently in Microsoft Excel"
-date: 2024-09-09T16:47:38.117Z
-updated: 2024-09-16T16:19:30.814Z
+date: 2024-09-15T17:33:08.430Z
+updated: 2024-09-21T17:06:28.887Z
 tags:
   - excel
 categories:
@@ -90,16 +90,10 @@ Related: [How to Use VLOOKUP in Excel](https://extra-tips.techidaily.com/integra
 ![10_delete_confirmation](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/02/10_delete_confirmation.png) 
 
 <!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Create a Name Using the "New Name" Dialog Box
@@ -120,6 +114,13 @@ Related: [How to Use VLOOKUP in Excel](https://extra-tips.techidaily.com/integra
 
 ![13_selecting_scope](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/02/13_selecting_scope.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Enter more details about the name, if desired, in the "Comment" box. If you didn't select the cells to which you're assigning the name, click the "Expand Dialog" button to the right of the "Refers to" edit box to select the cells the same way we did when we edited the name earlier. Click "OK" to finish creating the new name.
 
 ![14_clicking_ok_on_new_name_dialog](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/02/14_clicking_ok_on_new_name_dialog.png) 
@@ -128,6 +129,13 @@ Related: [How to Use VLOOKUP in Excel](https://extra-tips.techidaily.com/integra
 
 ![15_name_inserted_into_name_box](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/02/15_name_inserted_into_name_box.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Use a Name to Represent a Constant Value
 
  You don't have to refer to cells when creating a name. You can use a name to represent a constant, or even a formula. For example, the worksheet below shows the exchange rate used to calculate the price in Euros for the various sizes of widgets. Because the exchange rate changes often, it would be useful if it was located in a place that's easy to find and update. Since names are easy to edit, as discussed earlier, we can create a name to represent the exchange rate and assign a value to the name.
@@ -135,16 +143,10 @@ Related: [How to Use VLOOKUP in Excel](https://extra-tips.techidaily.com/integra
 ![17_exchange_rate_on_worksheet](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/02/17_exchange_rate_on_worksheet.png) 
 
 <!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Notice the formula contains an [absolute cell reference](https://some-guidance.techidaily.com/the-ultimate-step-by-step-guide-to-kinemasters-green-screen-mastery-for-2024/) to a cell containing the current exchange rate. We'd rather use a name that will refer to the current exchange rate so it's easier to change and formulas using the exchange rate are easier to understand.
@@ -157,40 +159,13 @@ Related: [How to Use VLOOKUP in Excel](https://extra-tips.techidaily.com/integra
 
 ![19_new_name_dialog_for_constant](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/02/19_new_name_dialog_for_constant.png) 
 
-<!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now, we can use the new name in formulas where we want to use the exchange rate. When we click on a cell with a formula that contains an [absolute cell reference](https://some-guidance.techidaily.com/the-ultimate-step-by-step-guide-to-kinemasters-green-screen-mastery-for-2024/), notice the result is "0.00". That's because we removed the exchange rate from the cell being referenced. We'll replace that cell reference with the new name we created.
 
 ![20_cell_reference_results](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/02/20_cell_reference_results.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120862/26400?prodsku=Saturn" target="_top" id="2120862">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120862" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120862/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Highlight the cell reference (or other part of the formula you want to replace with a name) and start typing the name you created. As you type, any matching names display in a popup box. Select the name you want to insert into the formula by clicking on it in the popup box.
 
 ![21_selecting_name](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/02/21_selecting_name.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The name is inserted into the formula. Press "Enter" to accept the change and update the cell.
 
@@ -199,6 +174,13 @@ Related: [How to Use VLOOKUP in Excel](https://extra-tips.techidaily.com/integra
  Note that the result is updated using the exchange rate referred to by the name.
 
 ![23_formula_using_constant_name](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/02/23_formula_using_constant_name.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Names are very useful if you create complex Excel workbooks with a lot of formulas. When you need to distribute your workbooks to others, using names makes it easier for others, as well as yourself, to understand your formulas.
 
@@ -217,14 +199,20 @@ Related: [How to Use VLOOKUP in Excel](https://extra-tips.techidaily.com/integra
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-revival.techidaily.com/co-pilot-extension-for-chatgpt-enhancements-to-conversational-ai/"><u>Co-Pilot Extension for ChatGPT: Enhancements to Conversational AI</u></a></li>
-<li><a href="https://win-forum.techidaily.com/expert-techniques-for-forcefully-expunging-resistant-folders-from-windows-os-using-revo-uninstaller/"><u>Expert Techniques for Forcefully Expunging Resistant Folders From Windows OS Using Revo Uninstaller</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/how-do-i-peruse-all-the-video-and-photo-files-shared-by-friends-in-2024/"><u>How Do I Peruse All the Video and Photo Files Shared by Friends, In 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Honor 70 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-leveraging-facebook-for-shared-twitter-content/"><u>In 2024, Leveraging Facebook for Shared Twitter Content</u></a></li>
-<li><a href="https://win-forum.techidaily.com/resolving-full-hard-drive-utilization-on-windows-11-a-comprehensive-guide/"><u>Resolving Full Hard Drive Utilization on Windows 11: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-big-players-of-online-networking-navigating-through-facebook-twitter-instagram-and-youtube/"><u>The Big Players of Online Networking: Navigating Through Facebook, Twitter, Instagram and Youtube</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-guide-for-wdf01000sys-crashes-and-system-hangs/"><u>Troubleshooting Guide for 'WDF01000.SYS' Crashes and System Hangs</u></a></li>
-<li><a href="https://win-forum.techidaily.com/unpacking-the-powerhouses-of-digital-communication-facebook-twitter-instagram-and-youtube/"><u>Unpacking the Powerhouses of Digital Communication: Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-breakthrough-methods-in-logging-whatsapp-communication/"><u>[New] Breakthrough Methods in Logging WhatsApp Communication</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-conquer-broadcasting-unite-obs-and-streamlabs-for-mac/"><u>[New] In 2024, Conquer Broadcasting Unite OBS & Streamlabs for Mac</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-crafting-the-perfect-sound-for-stories-and-reels-on-instagram/"><u>[New] In 2024, Crafting the Perfect Sound for Stories & Reels on Instagram</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-setting-up-your-phone-as-a-home-based-webcam/"><u>[New] Setting Up Your Phone as a Home-Based Webcam</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-unleash-your-creative-potential-with-picart-clear-skies/"><u>[Updated] In 2024, Unleash Your Creative Potential with PicArt Clear Skies</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-secrets-to-flawless-ppt-video-transcriptions/"><u>2024 Approved Secrets to Flawless PPT Video Transcriptions</u></a></li>
+<li><a href="https://win-forum.techidaily.com/1726221417880-movmp3-movavi/"><u>網路上免費MOV到MP3變更 - 使用Movavi 音頻編解碼器</u></a></li>
+<li><a href="https://win-forum.techidaily.com/free-online-converter-m2p-to-mp3-with-movavi-convert-your-files-now/"><u>Free Online Converter: M2P to MP3 with Movavi - Convert Your Files Now!</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-lava-blaze-pro-5g-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Lava Blaze Pro 5G Phones with/without a PC</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/leadership-plays-a-crucial-role-in-establishing-and-reinforcing-an-organizations-culture-through-their-actions-and-decisions/"><u>Leadership Plays a Crucial Role in Establishing and Reinforcing an Organization's Culture Through Their Actions and Decisions.</u></a></li>
+<li><a href="https://win-forum.techidaily.com/online-gratis-prevod-mp4-do-formatu-quicktime-proc-a-jaky/"><u>Online Gratis Převod MP4 Do Formatu Quicktime: Proč a Jaký?</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-connections-problems-bluetooth-keyboards-not-pairing-with-laptops-or-desktops/"><u>Resolve Connections Problems: Bluetooth Keyboards Not Pairing With Laptops or Desktops</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mp4-mp3-movavi/"><u>오독 자산 MP4, MP3 애드론 변환 - Movavi의 비용 없는 도구</u></a></li>
+<li><a href="https://win-forum.techidaily.com/m2p-avi-movavi/"><u>オンラインで簡単! M2P AVIファイルを無料変換 - MOVAVIツール</u></a></li>
 </ul></div>
 

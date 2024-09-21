@@ -1,7 +1,7 @@
 ---
 title: "Mastering Selection: Define Your Print Range in Excel with Ease"
-date: 2024-09-11T16:49:01.455Z
-updated: 2024-09-16T16:43:00.275Z
+date: 2024-09-18T17:20:46.644Z
+updated: 2024-09-21T16:56:28.752Z
 tags:
   - excel
 categories:
@@ -51,50 +51,44 @@ thumbnail: https://thmb.techidaily.com/13464bbf7702e727674e34228111122f1f619fb5b
 
 ![Add Nonadjacent Cells](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/AddNonAdjacentCells-ExcelPrintArea.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  When you do this, those additional cells are considered their own print area because they are not adjacent to another print area in the sheet. So, that group of cells will print on their own page as you can see below in the Page Break Preview.
 
 ![Preview Nonadjacent Cells](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/PageBreakPreviewNonAdjacentCells-ExcelPrintArea.png) 
 
 <!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now if you want to increase the size of a current print area to include more cells, be sure to select the cells adjacent to the area. Then, select "Add to Print Area" in the Print Area drop-down box.
 
 ![Add Adjacent Cells](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/AddAdjacentCells-ExcelPrintArea.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Then if you use the Page Break Preview, you can see that the print area has been increased and stays on the same page.
 
 ![Preview Adjacent Cells](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/PageBreakPreviewAdjacentCells-ExcelPrintArea.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How to View a Print Preview
 
  If you want to see a quick preview of how the page will look when you print it, return to the Page Layout tab. Click the arrow on the bottom right corner of the Page Setup section of the ribbon.
 
 ![Click the arrow for Page Setup](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/PageSetup-ExcelPrintArea.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Click "Print Preview."
 
@@ -103,6 +97,13 @@ thumbnail: https://thmb.techidaily.com/13464bbf7702e727674e34228111122f1f619fb5b
  You'll then see exactly what the sheet will look like when you print. Hit the arrow on the top left to return to your sheet.
 
 ![Print preview in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/PrintPreview-ExcelPrintArea.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Alternatively, you can select File > Print or [use a keyboard shortcut](https://eaxpv-info.techidaily.com/updated-2024-approved-high-definition-ready-enabling-av1-on-youtube/), Ctrl+F2, to see your print preview.
 
@@ -113,19 +114,6 @@ thumbnail: https://thmb.techidaily.com/13464bbf7702e727674e34228111122f1f619fb5b
  Select the print area or a cell within it. Back on the Page Layout tab, click "Clear Print Area" in the Print Area drop-down box.
 
 ![Click Print Layout, Clear Print Area](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/PageLayoutClear-ExcelPrintArea.png) 
-
-<!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you have more than one print area set up, simply do this for each one on your sheet.
 
@@ -146,18 +134,20 @@ thumbnail: https://thmb.techidaily.com/13464bbf7702e727674e34228111122f1f619fb5b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-tread-lightly-in-the-digital-jungle-vr-fitness-machines-examined/"><u>[New] In 2024, Tread Lightly in the Digital Jungle VR Fitness Machines Examined</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-capture-attention-incorporating-borders-to-insta-videos/"><u>[Updated] 2024 Approved Capture Attention Incorporating Borders to Insta-Videos</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-unveil-the-8-key-services-for-video-marketing-growth-for-2024/"><u>[Updated] Unveil the 8 Key Services for Video Marketing Growth for 2024</u></a></li>
-<li><a href="https://win-forum.techidaily.com/bypass-limitations-windows-11-setup-for-ineligible-cpus-explained/"><u>Bypass Limitations: Windows 11 Setup for Ineligible CPUs Explained</u></a></li>
-<li><a href="https://win-forum.techidaily.com/comprehensive-tutorial-on-deleting-user-profiles-in-windows-10-operating-system/"><u>Comprehensive Tutorial on Deleting User Profiles in Windows 10 Operating System</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/future-proof-your-viewing-experience-the-ultimate-insight-into-the-lightning-quick-amazon-fire-tv-cube/"><u>Future-Proof Your Viewing Experience: The Ultimate Insight Into the Lightning Quick Amazon Fire TV Cube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/how-to-roll-back-an-unwanted-windows-11-update-a-comprehensive-guide/"><u>How to Roll Back an Unwanted Windows 11 Update: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-forum.techidaily.com/navigating-social-media-landscapes-insights-on-facebook-twitter-instagram-and-youtube-usage/"><u>Navigating Social Media Landscapes: Insights on Facebook, Twitter, Instagram and Youtube Usage</u></a></li>
-<li><a href="https://win-forum.techidaily.com/navigating-the-world-of-digital-networking-insights-on-facebook-twitter-instagram-and-youtube/"><u>Navigating the World of Digital Networking: Insights on Facebook, Twitter, Instagram & YouTube</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/prime-pc-idle-gaming-selections-for-2024/"><u>Prime PC Idle Gaming Selections for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/still-using-pattern-locks-with-vivo-y100i-power-5g-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Vivo Y100i Power 5G? Tips, Tricks and Helpful Advice</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/thrilling-performance-superior-savings-a-critical-review-of-the-hp-ommen-obelisk-gaming-pc/"><u>Thrilling Performance, Superior Savings - A Critical Review of the HP OMMEN Obelisk Gaming PC</u></a></li>
-<li><a href="https://win-forum.techidaily.com/ultimate-instructions-for-eliminating-kernel-memory-files-in-windows-11/"><u>Ultimate Instructions for Eliminating Kernel-Memory Files in Windows 11</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-proven-marketing-spells-20-must-use-terms/"><u>[New] In 2024, Proven Marketing Spells 20 Must-Use Terms</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-noobs-manual-to-saving-streaming-radio-lines/"><u>[New] The Noob's Manual to Saving Streaming Radio Lines</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-virtual-universe-expansion-present-trends-and-future-challenges/"><u>[Updated] In 2024, Virtual Universe Expansion Present Trends & Future Challenges</u></a></li>
+<li><a href="https://win-forum.techidaily.com/comment-extraire-gratuitement-et-sans-fil-la-piste-audio-dun-fichier-video/"><u>Comment Extraire Gratuitement Et Sans Fil La Piste Audio D'un Fichier Vidéo ?</u></a></li>
+<li><a href="https://win-forum.techidaily.com/conversion-gratuita-de-archivos-3gp-a-formato-flv-en-linea-con-herramientas-de-movavi/"><u>Conversión Gratuita De Archivos .3Gp a Formato FLV en Línea Con Herramientas De Movavi</u></a></li>
+<li><a href="https://win-forum.techidaily.com/conversion-gratuita-de-wtv-a-avi-mediante-software-en-linea-ejecutando-conversiones-perfectas-con-el-sistema-de-movavi/"><u>Conversión Gratuita De WTV a AVI Mediante Software en Línea - Ejecutando Conversiones Perfectas Con El Sistema De Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/decoding-windows-11-govt-version-insights-and-reasons-to-think-twice-before-choosing-it/"><u>Decoding Windows 11 Govt. Version - Insights & Reasons to Think Twice Before Choosing It.</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/getting-started-with-iphone-speech-recordings/"><u>Getting Started with iPhone Speech Recordings</u></a></li>
+<li><a href="https://win-forum.techidaily.com/gratuit-wegwijzen-van-avi-naar-wmv-onlinereputabel-video-konverter-movavi/"><u>Gratuit Wegwijzen Van AVI Naar WMV: Onlinereputabel Video-Konverter - Movavi</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-guide-on-how-to-change-your-apple-id-email-address-on-iphone-se-drfone-by-drfone-ios/"><u>In 2024, Guide on How To Change Your Apple ID Email Address On iPhone SE | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-transformative-beauty-practices/"><u>In 2024, Transformative Beauty Practices</u></a></li>
+<li><a href="https://win-forum.techidaily.com/transformez-votre-mp3-en-mp4-sur-internet-sans-frais-avec-le-service-de-movavi/"><u>Transformez Votre MP3 en MP4 Sur Internet Sans Frais Avec Le Service De Movavi</u></a></li>
+<li><a href="https://win-forum.techidaily.com/trasforma-i-file-wma-in-formato-flv-gratis-su-internet-tramite-il-servizio-moveavi/"><u>Trasforma I File WMA in Formato FLV Gratis Su Internet Tramite Il Servizio MoveAVI</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/your-pathway-to-individualized-iphone-sound-effects/"><u>Your Pathway to Individualized iPhone Sound Effects</u></a></li>
+<li><a href="https://win-forum.techidaily.com/tiff-to-jpg/"><u>オンライン無料でTIFF to JPG変換 – 動画ヴァビのコツが豊富な手引き</u></a></li>
 </ul></div>
 

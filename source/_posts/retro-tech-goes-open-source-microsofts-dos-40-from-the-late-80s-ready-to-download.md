@@ -1,7 +1,7 @@
 ---
 title: "Retro Tech Goes Open Source: Microsoft's DOS 4.0 From the Late '80S Ready to Download!"
-date: 2024-09-14T16:53:27.291Z
-updated: 2024-09-16T16:07:08.103Z
+date: 2024-09-14T16:00:13.431Z
+updated: 2024-09-21T17:12:51.525Z
 tags:
   - windows
 categories:
@@ -36,23 +36,32 @@ Microsoft Disk Operating System, or MS-DOS for short, was the operating system t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-exclusive-list-of-asmr-apps-for-phones/"><u>[Updated] Exclusive List of ASMR Apps for Phones</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-leveraging-youtube-insights-for-content-growth/"><u>[Updated] Leveraging YouTube Insights for Content Growth</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-step-by-step-guide-to-joining-and-initiating-zoom-meetings-on-android-for-2024/"><u>[Updated] Step-By-Step Guide to Joining & Initiating Zoom Meetings on Android for 2024</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-best-5-video-editing-platforms-that-dont-feature-in-youtoo/"><u>2024 Approved Best 5 Video Editing Platforms That Don't Feature in YouToo</u></a></li>
-<li><a href="https://win-forum.techidaily.com/activating-and-utilizing-find-my-device-feature-in-windows-11-a-step-by-step-guide/"><u>Activating and Utilizing Find My Device Feature in Windows 11: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-forum.techidaily.com/chromes-arm-edition-released-seamless-browsing-comes-to-arm-windows-devices/"><u>Chrome's Arm Edition Released: Seamless Browsing Comes to ARM Windows Devices</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/city-building-crash-lands-onto-mars-to-create-whirlwinds-of-good-fun/"><u>City-Building Crash Lands Onto Mars to Create Whirlwinds of Good Fun</u></a></li>
-<li><a href="https://win-forum.techidaily.com/creating-your-own-tailored-gpt-powered-chatbot-on-windows-insights-and-step-by-step-guide/"><u>Creating Your Own Tailored GPT-Powered Chatbot on Windows: Insights & Step-by-Step Guide</u></a></li>
-<li><a href="https://win-forum.techidaily.com/efficiently-creating-and-handling-windows-11-passkeys-an-in-depth-tutorial/"><u>Efficiently Creating & Handling Windows 11 Passkeys: An In-Depth Tutorial</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-exploring-open-source-options-is-vlc-bound-to-beat-mpc/"><u>In 2024, Exploring Open-Source Options Is VLC Bound to Beat MPC?</u></a></li>
-<li><a href="https://fox-http.techidaily.com/the-essential-blueprint-for-configuring-a-zoom-space/"><u>The Essential Blueprint for Configuring a Zoom Space</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-navigating-fb-discovering-shared-video-content/"><u>[New] 2024 Approved Navigating FB Discovering Shared Video Content</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-elevating-the-art-of-unboxing-adventure-for-2024/"><u>[New] Elevating the Art of Unboxing Adventure for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-youtube-creator-studio-vs-youtube-studio-beta-which-one-is-better/"><u>[Updated] In 2024, YouTube Creator Studio Vs. YouTube Studio (Beta) Which One Is Better?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/balance-quality-and-quickness-with-netflix-speed-modification-tips/"><u>Balance Quality & Quickness with Netflix Speed Modification Tips</u></a></li>
+<li><a href="https://win-forum.techidaily.com/best-free-3d-animation-tools-discover-the-ultimate-list-for-aspiring-animators-and-designers/"><u>Best Free 3D Animation Tools - Discover the Ultimate List for Aspiring Animators and Designers</u></a></li>
+<li><a href="https://win-forum.techidaily.com/convertissez-vos-videos-ogm-en-mp4-gratuitement-sur-la-plateforme-de-conversion-en-ligne-de-movavi/"><u>Convertissez Vos Vidéos OGM en MP4 Gratuitement Sur La Plateforme De Conversion en Ligne De Movavi</u></a></li>
+<li><a href="https://win-forum.techidaily.com/descargar-y-convertir-archivos-de-mpeg-2-a-formato-mp3-sin-coste-guia-simple-con-movavi/"><u>Descargar Y Convertir Archivos De MPEG-2 a Formato MP3 Sin Coste: Guía Simple Con Movavi</u></a></li>
+<li><a href="https://win-forum.techidaily.com/gratuit-conversion-from-f4v-zu-swf-movavi-web-basiert/"><u>Gratuit Conversion From F4V Zu SWF - Movavi Web-Basiert</u></a></li>
+<li><a href="https://win-forum.techidaily.com/hoogtepunten-van-het-ontsnappen-van-ondergrondsounds-uit-videos-en-audios-3-handige-tijgers/"><u>Hoogtepunten Van Het Ontsnappen Van Ondergrondsounds Uit Video's en Audios - 3 Handige Tijgers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exclusive-guide-the-best-4-ringtone-providers/"><u>In 2024, Exclusive Guide The Best 4 Ringtone Providers</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-samsung-galaxy-s23-ultra-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Samsung Galaxy S23 Ultra Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-instagram-slideshow-feature/"><u>In 2024, Instagram Slideshow Feature</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/savoring-the-pandemonium-the-ultimate-review-of-overcooked-2/"><u>Savoring the Pandemonium: The Ultimate Review of Overcooked! 2</u></a></li>
+<li><a href="https://windows11.techidaily.com/tutorial-enabling-or-disabling-wi-fi-cost-meter-in-windows-11/"><u>Tutorial: Enabling or Disabling Wi-Fi Cost Meter in Windows 11</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

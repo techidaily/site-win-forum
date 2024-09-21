@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Adding Images Inside Cells on Google Sheets"
-date: 2024-09-09T16:55:15.320Z
-updated: 2024-09-16T16:19:08.912Z
+date: 2024-09-14T16:00:20.986Z
+updated: 2024-09-21T17:31:48.068Z
 tags:
   - excel
 categories:
@@ -112,6 +112,13 @@ thumbnail: https://thmb.techidaily.com/d5331824a0fea73eb882bba4127a05283f17e46d7
 
 ![A large image inside a cell in Google Sheets.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/05/google-sheets-scaled-image-in-cell.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Use the Image Function to Add an Image to a Cell
 
  The Image function offers another way to insert images inside cells in Google Sheets. This method is a bit more complex, but it also offers an additional degree of customizability by letting you choose the size of the image inside the cell.
@@ -120,16 +127,16 @@ thumbnail: https://thmb.techidaily.com/d5331824a0fea73eb882bba4127a05283f17e46d7
 
 ![Select any cell and go to Insert > Function > Google.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/05/google-sheets-insert-function-google.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115930/19272" target="_top" id="2115930">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115930" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115930/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To insert images inside a cell in Google Sheets, click "Image."
 
 ![Select any cell and go to Insert > Function > Google.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/05/google-sheets-insert-function-google.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You'll see a pop-up that shows you the syntax for the Image function and tells you what each parameter does. The syntax looks something like this:
 
@@ -155,19 +162,6 @@ thumbnail: https://thmb.techidaily.com/d5331824a0fea73eb882bba4127a05283f17e46d7
 * **4:** If you want to use custom dimensions for your image, this is the sizing mode that you must use.
 
 ![A screenshot showing the effects of the four sizing modes for the Image function in Google Sheets.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/05/google-sheets-image-function-syntax-screenshot.png) 
-
-<!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Here's how you can correctly use the first three sizing modes:
 
@@ -196,16 +190,21 @@ thumbnail: https://thmb.techidaily.com/d5331824a0fea73eb882bba4127a05283f17e46d7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-the-path-to-autoplay-configuring-youtube-content-for-uninterrupted-streaming/"><u>[New] 2024 Approved The Path to Autoplay Configuring Youtube Content for Uninterrupted Streaming</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-the-eternal-gallery-of-commons-artworks-online/"><u>[New] The Eternal Gallery of Commons Artworks Online</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/acurite-pro-01036m-weather-station-overview-effortless-installation-and-durable-construction/"><u>AcuRite Pro 01036M Weather Station Overview: Effortless Installation & Durable Construction</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/androids-screen-shutter-select-the-best-eight-free-tools-for-2024/"><u>Android's Screen Shutter - Select the Best Eight Free Tools for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effortless-fix-for-non-functioning-voice-chat-in-overwatch/"><u>Effortless Fix for Non-Functioning Voice Chat in Overwatch</u></a></li>
-<li><a href="https://win-forum.techidaily.com/1722915371234-exploring-the-giants-of-social-networking-facebook-twitter-instagram-and-youtube/"><u>Exploring the Giants of Social Networking: Facebook, Twitter, Instagram and YouTube</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-unlock-apple-id-activation-lock-on-apple-iphone-7-by-drfone-ios/"><u>How to Unlock Apple ID Activation Lock On Apple iPhone 7?</u></a></li>
-<li><a href="https://win-forum.techidaily.com/navigating-the-social-media-giants-facebook-twitter-instagram-and-youtube/"><u>Navigating the Social Media Giants: Facebook, Twitter, Instagram & YouTube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-guide-on-removing-or-disabling-the-latest-windows-11-update/"><u>Step-by-Step Guide on Removing or Disabling the Latest Windows 11 Update</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/strategic-insights-into-aesthetic-success-for-audio-brands-for-2024/"><u>Strategic Insights Into Aesthetic Success for Audio Brands for 2024</u></a></li>
-<li><a href="https://win-forum.techidaily.com/ultimate-protection-safeguarding-your-text-files-with-password-encryption-techniques/"><u>Ultimate Protection: Safeguarding Your Text Files with Password Encryption Techniques</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-channel-identity-made-simple-discover-the-10-best-banner-maker-apps/"><u>[New] In 2024, Channel Identity Made Simple Discover the 10 Best Banner Maker Apps</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-understanding-the-magic-behind-quantum-hdr/"><u>[Updated] In 2024, Understanding the Magic Behind Quantum HDR</u></a></li>
+<li><a href="https://win-forum.techidaily.com/convertir-archivos-mp4-a-imagenes-jpeg-online-sin-coste-hacerlo-con-ease-usando-movavi/"><u>Convertir Archivos MP4 a Imágenes JPEG Online Sin Coste - Hacerlo Con Ease Usando Movavi</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/cookiebot-enabled-analytics-solutions/"><u>Cookiebot-Enabled Analytics Solutions</u></a></li>
+<li><a href="https://win-forum.techidaily.com/gratuitamente-inserisci-un-logo-nel-tuo-video-soluzione-windows-and-mac/"><u>Gratuitamente Inserisci Un Logo Nel Tuo Video: Soluzione Windows & Mac</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-oppo-a58-4g-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Oppo A58 4G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Xiaomi Redmi Note 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-lava-blaze-pro-5g-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Lava Blaze Pro 5G Phone</u></a></li>
+<li><a href="https://facebook.techidaily.com/maximizing-privacy-download-process-for-fb-photos-and-videos/"><u>Maximizing Privacy: Download Process for FB Photos & Videos</u></a></li>
+<li><a href="https://win-forum.techidaily.com/revolutionize-your-slideshows-discover-the-most-advanced-ai-powerpoint-software-featuring-movavi/"><u>Revolutionize Your Slideshows: Discover the Most Advanced AI PowerPoint Software Featuring Movavi</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/strategies-for-enthralling-vlog-content-flow/"><u>Strategies for Enthralling Vlog Content Flow</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-ultimate-list-of-top-rated-video-editing-software-on-mac-similar-to-windows-movie-maker-both-cost-free-and-subscription-based/"><u>The Ultimate List of Top-Rated Video Editing Software on Mac, Similar to Windows Movie Maker (Both Cost-Free & Subscription-Based)</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-18-utili-applicazioni-di-montaggio-video-gratuite-senza-watermark-una-guida/"><u>Top 18 Utili Applicazioni Di Montaggio Video Gratuite Senza Watermark: Una Guida</u></a></li>
+<li><a href="https://win-forum.techidaily.com/trasforma-i-tuoi-file-flac-in-mp4-gratuito-online-con-fastaudioconverter/"><u>Trasforma I Tuoi File FLAC in MP4 Gratuito Online Con FastAudioConverter</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mxf-mov-movavi/"><u>영구 무료 MXF 태그를 MOV로 쉽게 전환: Movavi의 가장 훌륭한 도우미</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Creating Your Own Tailored GPT-Powered Chatbot on Windows: Insights & Step-by-Step Guide"
-date: 2024-09-11T16:48:49.443Z
-updated: 2024-09-16T16:29:53.486Z
+date: 2024-09-16T17:17:10.395Z
+updated: 2024-09-21T16:38:25.481Z
 tags:
   - windows
 categories:
@@ -37,18 +37,18 @@ thumbnail: https://thmb.techidaily.com/721844d81a2674aaafe28cc93fa85dbee744a7d0e
 
  You can find models for just about anything, from fictional character interactions, to programming, to general knowledge, and many other use cases that more general online models may not cover.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  How to Host Your Own Local GPT Chatbot on Windows
 
  This tutorial will use [text-generation-web-ui-docker](https://github.com/Atinoda/text-generation-webui-docker "https://github.com/oobabooga/text-generation-webui"), an open-source interface for large language models, that simplifies installing and using LLMs.
 
  text-generation-web-ui-docker bundles the text-generation-web-ui project using [Docker](https://vp-tips.techidaily.com/new-ultimate-auditory-interface-win-for-2024/), which removes the need for installing and managing all the complex dependencies that local AI tools usually require by storing everything in a container separate to your system. The only thing you need to run your local chatbot is a Windows PC that [supports Docker running using the Windows Subsystem for Linux (WSL)](https://docs.docker.com/desktop/install/windows-install/ "https://docs.docker.com/desktop/install/windows-install/"). You'll also need a fairly recent GPU, ideally one from NVIDIA, for maximum compatibility.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Step 1: Install Docker and the Windows Terminal App
 
@@ -70,13 +70,6 @@ Brad Morton / How-To Geek
 
 [Extract the downloaded ZIP file](https://video-screen-grab.techidaily.com/updated-in-2024-essential-screen-capture-software-top-picks-ranked/) into its own folder, and then open the folder containing the unzipped files. Don't worry too much about the contents of this folder: it's all the moving parts for your AI chatbot, but Docker will take care of setting everything up for you.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Step 3: Launch the Text Generation Web UI
 
  Before you launch text-generation-web-ui-docker, you need to make sure it's configured for your PC hardware. Edit the file **docker-compose.yml** to specify the variant that matches your hardware: **default-nvidia** or **default-cpu** (if you don't have a compatible GPU).
@@ -84,10 +77,16 @@ Brad Morton / How-To Geek
 ![Configuring the docker image variant in docker-compose.yml.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/variant.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Brad Morton / How-To Geek
@@ -116,6 +115,13 @@ Brad Morton / How-To Geek
 
 ![Windows terminal showing the status of a newly created container.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/created.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Brad Morton / How-To Geek
 
  The running container will also appear in Docker Desktop, where you can stop, start, and manage it.
@@ -134,24 +140,18 @@ Brad Morton / How-To Geek
 
 ![Downloading a model for use in text-generation-web-ui.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/win-gpt-6.png) 
 
-<!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Brad Morton / How-To Geek
 
  Click the Refresh icon in the top-left, then select the newly downloaded openai-community/gpt2 from the adjacent Model drop-down menu. Finally, click the "Load" button, and wait a few minutes until you see a success message.
 
 ![Loading a model in text-generation-web-ui.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/win-gpt-7.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Brad Morton / How-To Geek
 
@@ -164,10 +164,16 @@ Brad Morton / How-To Geek
 ![A slightly unhinged response from an AI model that needs configuration.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/win-gpt-8.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Brad Morton / How-To Geek
@@ -193,20 +199,21 @@ _Hoo boy, while it got the right answer, this AI chatbot needs a bit of fine-tun
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-apples-latest-innovation-are-macbook-air-or-pro-best-for-2024/"><u>[New] Apple's Latest Innovation Are MacBook Air or Pro Best for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-top-80s-cinematic-elements-for-modern-editing/"><u>[New] Top 80S Cinematic Elements for Modern Editing</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/nlock-your-videos-potential-with-these-7-audio-treasures/"><u>[New] Unlock Your Video's Potential with These 7 Audio Treasures</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-capturing-awe-the-power-of-creative-distortion-in-photoshop/"><u>2024 Approved Capturing Awe The Power of Creative Distortion in Photoshop</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/acer-aspire-c27-the-perfect-blend-of-style-and-functionality-in-an-all-in-one-desktop/"><u>Acer Aspire C27: The Perfect Blend of Style and Functionality in an All-in-One Desktop</u></a></li>
-<li><a href="https://win-forum.techidaily.com/collaborative-excellence-monitoring-update-progression-in-shared-excel-web-sheets/"><u>Collaborative Excellence: Monitoring Update Progression in Shared Excel Web Sheets</u></a></li>
-<li><a href="https://win-forum.techidaily.com/crafting-effective-project-timelines-using-microsoft-excel-tools/"><u>Crafting Effective Project Timelines Using Microsoft Excel Tools</u></a></li>
-<li><a href="https://win-forum.techidaily.com/design-your-own-waterfall-diagram-in-excel-easy-instructions-for-personalized-presentations/"><u>Design Your Own Waterfall Diagram in Excel - Easy Instructions for Personalized Presentations</u></a></li>
-<li><a href="https://win-forum.techidaily.com/detecting-empty-cells-using-the-isblank-function-in-microsoft-excel/"><u>Detecting Empty Cells Using the ISBLANK Function in Microsoft Excel</u></a></li>
-<li><a href="https://win-forum.techidaily.com/diy-crossword-wizardry-with-excel-easy-techniques-to-craft-your-own-puzzles/"><u>DIY Crossword Wizardry with Excel: Easy Techniques to Craft Your Own Puzzles</u></a></li>
-<li><a href="https://win-forum.techidaily.com/diy-windows-alerts-setting-up-an-easy-event-log-notification-tool/"><u>DIY Windows Alerts: Setting Up an Easy Event Log Notification Tool</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-poco-m6-pro-5g-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Poco M6 Pro 5G Phone</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-sift-through-these-top-9-online-portals-of-intricate-3d-letterforms/"><u>In 2024, Sift Through These Top 9 Online Portals of Intricate 3D Letterforms</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-in-depth-review-of-ivona-text-to-speech-by-nextup-technologies/"><u>New In 2024, In-Depth Review of Ivona Text to Speech by NextUp Technologies</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/understanding-the-slowdown-an-analysis-of-chatgpt-4-vs-chatgpt-35-speeds/"><u>Understanding the Slowdown: An Analysis of ChatGPT-4 vs ChatGPT-3.5 Speeds</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-androids-best-artistic-tools-top-10-creative-graphics-apps/"><u>[New] Android's Best Artistic Tools Top 10 Creative Graphics Apps</u></a></li>
+<li><a href="https://win-forum.techidaily.com/asf-mp3-movavi/"><u>網路上無成本的 ASF 到 MP3 格式轉換 - 使用 Movavi 软件</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mkv-m4v-movavi/"><u>線上無架限 高效率 MKV 到 M4V 影片轉換工具 - 全功能 Movavi 編輯解碼器</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-oppo-a56s-5g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Oppo A56s 5G Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/converta-facilmente-gracas-ao-movavi-convertendo-em-linha-atoa-mp3-para-formato-mpeg-sem-custo-algum/"><u>Converta Fácilmente Graças Ao Movavi - Convertendo Em Linha Atoa MP3 Para Formato MPEG Sem Custo Algum</u></a></li>
+<li><a href="https://win-forum.techidaily.com/convertidor-online-gratuito-de-formatos-de-3g2-a-wma-con-ease/"><u>Convertidor Online Gratuito De Formatos: De .3G2 a .WMA Con Ease</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-infinix-smart-8-plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Infinix Smart 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-12-pro-max-online-here-are-6-easy-ways-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 12 Pro Max Online? Here are 6 Easy Ways</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On Tecno Spark 20C? | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mise-a-niveau-dun-fichier-flash-swf-vers-une-video-avi-en-ligne-sans-cout-avec-movavi-comme-tutoriel/"><u>Mise À Niveau D'un Fichier Flash (SWF) Vers Une Vidéo AVI en Ligne Sans Coût Avec Movavi Comme Tutoriel</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/step-by-step-fix-for-initialization-error-on-your-windows-10-pc/"><u>Step-by-Step Fix for 'Initialization Error' On Your Windows 10 PC</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-guide-to-blurring-faces-in-photos-and-videos-free-resources/"><u>The Ultimate Guide to Blurring Faces in Photos and Videos (Free Resources)</u></a></li>
+<li><a href="https://win-forum.techidaily.com/transformar-archivos-flac-en-alac-y-viceversa-con-facilidad-conversor-gratuito/"><u>Transformar Archivos FLAC en ALAC Y Viceversa Con Facilidad | Conversor Gratuito</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unprintable-pdf-woes-masterful-shortcuts-to-make-them-work/"><u>Unprintable PDF Woes? Masterful Shortcuts to Make Them Work!</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-animate-like-a-pro-top-8-software-options-for-mac-and-windows-for-2024/"><u>Updated Animate Like a Pro Top 8 Software Options for Mac and Windows for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/vervangen-van-oranje-in-je-portret-de-beste-tips-voor-rode-ogen-verwijdering-door-movavi-photo-edit/"><u>Vervangen Van Oranje in Je Portret: De Beste Tips Voor Rode Ogen Verwijdering Door Movavi Photo Edit</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Effective Techniques for Shortening Content in Microsoft Excel
-date: 2024-09-10T16:07:57.049Z
-updated: 2024-09-16T16:54:40.414Z
+date: 2024-09-17T16:17:54.596Z
+updated: 2024-09-21T17:25:04.434Z
 tags:
   - excel
 categories:
@@ -84,10 +84,10 @@ Related: [How to Shrink or Expand Cells to Fit Text in Microsoft Excel](https://
 ![Keep 24 characters in the middle](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/MID35-ExcelTruncateText.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114265/17093" target="_top" id="2114265">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114265" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114265/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  As another example, using the following formula you can shorten the text in cell A2 and keep only the second word. We use 6 for the `start` argument and 3 for the `number_characters` argument.
@@ -97,10 +97,10 @@ Related: [How to Shrink or Expand Cells to Fit Text in Microsoft Excel](https://
 ![Keep three characters in the middle](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/MID6-ExcelTruncateText.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Shortening text in your sheet may be necessary or simply something you prefer. These [functions and formulas](https://games-able.techidaily.com/is-premium-play-on-demand-worth-it/) help you truncate text in Excel from the right, left, or middle, as you need it.
@@ -122,19 +122,16 @@ Related: [How to Add Text to a Cell With a Formula in Excel](https://buynow-revi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-revolutionary-6-sustainable-minecraft-homes-for-2024/"><u>[New] Revolutionary 6 Sustainable Minecraft Homes for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-converting-images-into-harmonious-videography/"><u>[Updated] 2024 Approved Converting Images Into Harmonious Videography</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-the-art-of-color-correction-best-practices-top-11/"><u>[Updated] The Art of Color Correction Best Practices (Top 11)</u></a></li>
-<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-honor-100-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Honor 100 Pro? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/best-solutions-for-gionee-network-unlock-by-drfone-android/"><u>Best Solutions for Gionee Network Unlock</u></a></li>
-<li><a href="https://win-forum.techidaily.com/determining-your-systems-powershell-version-on-windows-10-a-step-by-step-guide/"><u>Determining Your System's PowerShell Version on Windows 10: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-forum.techidaily.com/how-to-clean-user-data-from-windows-11-operating-system-using-revo-uninstaller/"><u>How to Clean User Data From Windows 11 Operating System Using Revo Uninstaller</u></a></li>
-<li><a href="https://win-forum.techidaily.com/how-to-eradicate-directories-and-files-using-powershell-or-command-prompt-in-windows-11/"><u>How to Eradicate Directories & Files Using PowerShell or Command Prompt in Windows 11</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-did-your-apple-iphone-6-plus-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>In 2024, Did Your Apple iPhone 6 Plus Passcode Change Itself? Unlock It Now</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-tips-and-tricks-for-apple-id-locked-issue-on-apple-iphone-7-by-drfone-ios/"><u>In 2024, Tips and Tricks for Apple ID Locked Issue On Apple iPhone 7</u></a></li>
-<li><a href="https://media-tips.techidaily.com/master-the-art-of-music-blending-a-step-by-step-guide-with-visuals-simplified/"><u>Master the Art of Music Blending: A Step-by-Step Guide with Visuals, Simplified</u></a></li>
-<li><a href="https://win-forum.techidaily.com/navigating-the-web-of-friendship-a-guide-to-facebook-twitter-instagram-youtube/"><u>Navigating the Web of Friendship - A Guide to Facebook, Twitter, Instagram, Youtube</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/top-mobile-experiences-ios-and-androids-vr-hits-for-2024/"><u>Top Mobile Experiences IOS & Android's VR Hits for 2024</u></a></li>
-<li><a href="https://win-forum.techidaily.com/unlock-the-secrets-of-your-windows-11-powershell-edition-and-version-info/"><u>Unlock the Secrets of Your Windows 11 PowerShell Edition and Version Info</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-saving-mov-videos-on-windows-11-a-guide-with-six-steps-for-2024/"><u>[Updated] Saving .MOV Videos on Windows 11 - A Guide with Six Steps for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/bezplatene-avi-pro-editing-programy-pro-windows-11-8-a-mac-os-x-10-nalezky/"><u>Bezplatené AVI Pro Editing Programy Pro Windows 11, 8 a Mac OS X - 10 Nálezky</u></a></li>
+<li><a href="https://win-forum.techidaily.com/conversion-gratuit-de-fichiers-audio-transformez-vos-mp4-en-wav-sur-le-web/"><u>Conversion Gratuit De Fichiers Audio: Transformez Vos MP4 en WAV Sur Le Web</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/discover-14-intriguing-text-animations-to-play-with/"><u>Discover 14 Intriguing Text Animations to Play With</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-vivo-y28-5g-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Vivo Y28 5G Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-infinix-smart-8-plus-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Infinix Smart 8 Plus</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/in-2024-elevate-your-channels-templates-at-no-charge/"><u>In 2024, Elevate Your Channels - Templates at No Charge!</u></a></li>
+<li><a href="https://win-forum.techidaily.com/online-vob-to-wav-transformation-with-no-fee-available-at-movavi/"><u>Online VOB-to-WAV Transformation with No Fee Available at Movavi</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/quick-asus-touchpad-installation-on-windows-11-get-the-latest-drivers/"><u>Quick ASUS Touchpad Installation on Windows 11: Get the Latest Drivers</u></a></li>
+<li><a href="https://win-forum.techidaily.com/transformacion-gratuita-de-archivo-mp4-a-webm-por-internet-con-movavi/"><u>Transformación Gratuita De Archivo MP4 a WebM Por Internet Con Movavi</u></a></li>
+<li><a href="https://win-forum.techidaily.com/transformez-votre-film-mov-en-fichier-ogg-accessible-gratuitement-online-avec-videoconvert/"><u>Transformez Votre Film MOV en Fichier OGG Accessible Gratuitement Online Avec VidéoConvert</u></a></li>
 </ul></div>
 

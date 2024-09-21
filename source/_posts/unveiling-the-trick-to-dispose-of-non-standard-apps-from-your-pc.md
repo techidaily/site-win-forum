@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Trick to Dispose of Non-Standard Apps From Your PC
-date: 2024-09-09T16:38:44.702Z
-updated: 2024-09-16T16:37:43.996Z
+date: 2024-09-14T16:40:05.205Z
+updated: 2024-09-21T16:28:14.952Z
 tags:
   - win11
   - win10
@@ -61,20 +61,14 @@ thumbnail: https://thmb.techidaily.com/85222e642fd060b94196ff7371463ce7792d618f6
 ![Disk cleanup](<https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/memory-dump-files/method-2-disk> cleanup-4-step4.png)
 5. Click the OK button
 
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After the process is completed the memory dump and minidump files will be removed from your computer.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Remove system error dump files with Windows Settings
 
@@ -88,10 +82,10 @@ thumbnail: https://thmb.techidaily.com/85222e642fd060b94196ff7371463ce7792d618f6
 4. In the Storage, section select Temporary Files  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Temporary Files](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/memory-dump-files/method-3-step4.jpg)
@@ -107,17 +101,18 @@ thumbnail: https://thmb.techidaily.com/85222e642fd060b94196ff7371463ce7792d618f6
 2. Search for Command Prompt. Right-click the top result and select the Run as administrator option  
 ![Run as administrator](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/memory-dump-files/method-4-command-prompt-step1,2.png)
 3. Type the following commands in the windows and press Enter:  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 `del /f /s /q %systemroot%\memory.dmp`
 4. To optionally delete the system error minidump files type this command and press Enter:  
 `del /f /s /q %systemroot%\Minidump\*.*`  
 ![command prompt del command](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/memory-dump-files/method-4-command-prompt-step3,4.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Delete memory dump files from the File Location
 
@@ -128,6 +123,13 @@ thumbnail: https://thmb.techidaily.com/85222e642fd060b94196ff7371463ce7792d618f6
 ![System](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/memory-dump-files/method-5-step3.png)
 4. Open the Advanced system settings  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Advanced system settings](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/memory-dump-files/method-5-step4.png)
 5. Click the Settings button under Startup and Recovery  
 
@@ -137,13 +139,6 @@ thumbnail: https://thmb.techidaily.com/85222e642fd060b94196ff7371463ce7792d618f6
 7. Copy the location of the dump file  
 ![Write debugging information](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/memory-dump-files/method-5-step6.png)
 8. Open Run by pressing Win Key + R and paste the dump file location and hit Enter  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115909/19272" target="_top" id="2115909">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115909" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115909/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Run command](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/memory-dump-files/method-5-step7.png)
 9. Select the MEMORY.dmp file and delete it permanently  
@@ -167,10 +162,10 @@ thumbnail: https://thmb.techidaily.com/85222e642fd060b94196ff7371463ce7792d618f6
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## We can help you every time when…
@@ -197,17 +192,18 @@ thumbnail: https://thmb.techidaily.com/85222e642fd060b94196ff7371463ce7792d618f6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-the-verdict-on-screen-recording-does-obs-surpass-fraps-for-2024/"><u>[New] The Verdict on Screen Recording Does OBS Surpass Fraps for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-keep-a-permanent-record-fbm-calls-full-recording/"><u>[Updated] 2024 Approved Keep a Permanent Record FBM Calls Full Recording</u></a></li>
-<li><a href="https://win11.techidaily.com/accelerating-virtualization-setting-up-win11-with-vmware-17-player/"><u>Accelerating Virtualization: Setting Up Win11 with VMware 17 Player</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/best-free-essential-applications-for-windows-7-top-4-must-have-utilities/"><u>Best Free Essential Applications for Windows 7: Top 4 Must-Have Utilities</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/exploring-theme-options-a-comprehensive-guide-for-windows-users/"><u>Exploring Theme Options: A Comprehensive Guide for Windows Users</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-xiaomi-13t-prowithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Xiaomi 13T Prowith/without a PC</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-itel-p55-5g-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Itel P55 5G Device</u></a></li>
-<li><a href="https://win-forum.techidaily.com/mastering-the-art-of-forcing-quit-uncooperative-software-on-windows-11-computers/"><u>Mastering the Art of Forcing Quit Uncooperative Software on Windows 11 Computers</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/professional-screen-snapshot-tool-windows-10/"><u>Professional Screen Snapshot Tool, Windows 10</u></a></li>
-<li><a href="https://win-forum.techidaily.com/solution-found-troubleshooting-far-cry-6-pc-game-wont-start/"><u>Solution Found: Troubleshooting Far Cry 6 PC Game Won't Start</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/tactics-to-increase-youtube-video-engagement-and-views-for-2024/"><u>Tactics to Increase YouTube Video Engagement and Views for 2024</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-big-four-of-online-social-interaction-facebook-twitter-instagram-and-youtube-explained/"><u>The Big Four of Online Social Interaction: Facebook, Twitter, Instagram & YouTube Explained</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/nhancing-profits-creating-compelling-video-trailers/"><u>[New] Enhancing Profits Creating Compelling Video Trailers</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-mastering-text-annotation-in-windows-photos-windows-11/"><u>[New] In 2024, Mastering Text Annotation in Windows Photos (Windows 11)</u></a></li>
+<li><a href="https://win-forum.techidaily.com/1726226731192-mp3-mp4-movavi/"><u>立即開始 MP3 和 MP4 格式轉換 - 無限制的 Movavi 免費服務</u></a></li>
+<li><a href="https://win-forum.techidaily.com/convert-swf-files-into-high-quality-wav-audio-for-free-with-movavis-web-service/"><u>Convert SWF Files Into High-Quality WAV Audio for Free with Movavi's Web Service!</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723007791355-is-your-xbox-live-experience-interrupted-today-heres-the-latest-status-report/"><u>Is Your Xbox Live Experience Interrupted Today? Here's the Latest Status Report</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-multimedia-editing-adding-tunes-to-your-videos-top-desktops-and-mobile-strategies/"><u>Mastering Multimedia Editing: Adding Tunes to Your Videos - Top Desktops & Mobile Strategies</u></a></li>
+<li><a href="https://win-forum.techidaily.com/movavimobilexmp4/"><u>Movavi、Mobilexを用いたMP4動画に対する簡易字幕追加テクニック</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/-glimpse-youtube-shorts-insights/"><u>Quick Glimpse YouTube Shorts Insights</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-15-no-cost-watermark-tools-and-applications-exploring-movavi/"><u>Top 15 No-Cost Watermark Tools & Applications - Exploring Movavi</u></a></li>
+<li><a href="https://win-forum.techidaily.com/transformer-gratuitement-un-fichier-webm-en-format-mp4-conversion-facile-avec-movavi/"><u>Transformer Gratuitement Un Fichier WebM en Format MP4 - Conversion Facile Avec Movavi</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-music-from-red-magic-8s-proplus-by-fonelab-android-recover-music/"><u>Undelete lost music from Red Magic 8S Pro+</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unpacking-the-power-of-asus-zenwifi-xt8-an-in-depth-review-of-your-next-mesh-router-upgrade/"><u>Unpacking the Power of ASUS ZenWifi XT8: An In-Depth Review of Your Next Mesh Router Upgrade</u></a></li>
+<li><a href="https://techidaily.com/why-cant-i-play-mp4-files-on-my-galaxy-a15-5g-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Why can’t I play MP4 files on my Galaxy A15 5G?</u></a></li>
 </ul></div>
 

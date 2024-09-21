@@ -1,7 +1,7 @@
 ---
 title: Are There Laws Against Unauthorized Surveillance and Eavesdropping in Public Spaces?
-date: 2024-09-11 18:25:22
-updated: 2024-09-13 12:21:33
+date: 2024-09-16T16:04:08.704Z
+updated: 2024-09-21T17:06:53.513Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/787952173ce9e83e0ef633a4cedb93e7fb52d657c7edd0112719c795b41928ba.jpg
@@ -222,6 +222,13 @@ Pour vérifier que vous disposez de la dernière version de DirectX, appuyez sur
 
 Si vous n'avez pas DirectX 12, allez-y et installez-le ; le processus ne prendra que quelques minutes. Appuyez sur la   **touche Windows** \+ **I**, choisissez **Mise à jour et sécurité** et cliquez sur **Vérifier les mises à jour** dans l'onglet **Windows. Mise à jour**. Attendez que l'installation se termine.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 
 
 Utiliser le mode de jeu Windows 10
@@ -298,6 +305,13 @@ Si vous utilisez une carte graphique NVIDIA, il existe des paramètres spécifiq
 5. Mode de gestion de l'énergie : Passez à **Préférer les performances maximales**.
 6. Optimisation Threaded : Passez à **Auto**.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Régler le centre de contrôle AMD/ATI
 
 Les cartes graphiques AMD ont également beaucoup de paramètres. Certains disent qu'elles rivalisent même avec leur concurrent NVIDIA. Modifiez ces paramètres pour optimiser les jeux de Windows 10.
@@ -343,6 +357,13 @@ Mettez à niveau votre GPU et votre CPU environ tous les quatre ans pour que tou
 Le choix de la première mise à niveau dépend des types de jeux auxquels vous jouez. Si vous n'avez pas besoin de graphismes extrêmes et jouez à des jeux plus rapides, le processeur est le meilleur choix. Mais si vous aimez les histoires numériques ou les jeux basés sur le monde avec beaucoup de personnages et d'arrière-plans non jouables, un GPU pourrait vous être plus utile.
 
 Quoi qu'il en soit, assurez-vous que l'équilibre des performances entre les deux est délicat, car l'un ne fonctionne pas sans l'autre. Vérifiez la mémoire et la bande passante de toute mise à niveau potentielle.
+
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Mettez votre RAM à niveau
 
@@ -424,6 +445,13 @@ Les ordinateurs portables sont réputés pour leur surchauffe, car tous les comp
 
 Nous avons déjà abordé ce sujet pour les PC, mais votre ordinateur portable peut également être équipé d'un processeur graphique et d'une mémoire vive. Suivez les mêmes protocoles, et si vous n'avez pas l'habitude de travailler avec des ordinateurs portables, il est préférable de confier l'installation à un technicien expérimenté.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 
 
 Désactiver les services d'arrière-plan Windows
@@ -467,6 +495,13 @@ L'article ci-dessus énumère une série de mesures que vous pouvez prendre pour
 * Modifiez les paramètres de votre carte graphique
 * Mettez à niveau votre GPU et/ou votre CPU
 * Vérifiez les paramètres de performance de votre Windows.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Qu'est-ce qui ralentit mon ordinateur ?
 
@@ -536,11 +571,29 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/new-updated-conversation-strategies-for-podcast-growth/"><u>[New] Updated Conversation Strategies for Podcast Growth</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-efficient-mac-video-resizing-to-fixed-ratio-for-2024/"><u>[Updated] Efficient Mac Video Resizing to Fixed Ratio for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-enhancing-video-calls-incorporating-snap-camera-on-teams-for-2024/"><u>[Updated] Enhancing Video Calls Incorporating Snap Camera on Teams for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/ogmmpeg-movavi/"><u>無成本在網路上OGM到MPEG轉換 - 使用Movavi的方法</u></a></li>
+<li><a href="https://os-tips.techidaily.com/affordable-popsockets-iphone-case-with-built-in-magsafe-wallet-at-a-great-value/"><u>Affordable PopSockets iPhone Case with Built-In MagSafe Wallet at a Great Value</u></a></li>
+<li><a href="https://win-forum.techidaily.com/conversione-online-gratuita-da-mka-a-flac-con-alta-qualita-audio-utilizzando-movavi/"><u>Conversione Online Gratuita: Da MKA a FLAC Con Alta Qualità Audio Utilizzando Movavi</u></a></li>
+<li><a href="https://win-forum.techidaily.com/due-utilissimi-video-per-masterare-windows-11-tutto-quello-di-cui-avete-bisogno-nel-2024/"><u>Due Utilissimi Video per Masterare Windows 11: Tutto Quello Di Cui Avete Bisogno Nel 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/gratis-omzetten-van-aac-naar-wma-online-professioneel-programma-voor-muziekconversie/"><u>Gratis Omzetten Van AAC Naar WMA Online: Professioneel Programma Voor Muziekconversie</u></a></li>
+<li><a href="https://win-forum.techidaily.com/gratuito-mudar-gif-para-bmp-online-com-o-conversor-do-movavi/"><u>Gratuito Mudar GIF Para BMP Online Com O Conversor Do Movavi</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-garmins-virb-ultra-30-action-cam-in-depth-features-analysis/"><u>In 2024, Garmin's VIRB Ultra 30 Action Cam – In-Depth Features Analysis</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-timeless-stop-motion-films-a-celebratory-15-list/"><u>In 2024, Timeless Stop-Motion Films - A Celebratory 15 List</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-youtube-to-igtv-migration-step-by-step-guide/"><u>In 2024, YouTube-to-IGTV Migration Step-by-Step Guide</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-screen-capture-tools-purchase-options-and-comparisons/"><u>Top Screen Capture Tools: Purchase Options and Comparisons</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/top-secure-cost-free-androidios-apps-for-private-video-conferencing-for-2024/"><u>Top Secure, Cost-Free Android/iOS Apps for Private Video Conferencing for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/trasforma-i-tuoi-file-ogv-in-animazioni-gif-senza-costi-con-movavi/"><u>Trasforma I Tuoi File OGV in Animazioni GIF Senza Costi Con Movavi</u></a></li>
+</ul></div>
+

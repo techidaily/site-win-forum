@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Crafting Interactive Visualizations with Excel's Dropdown Selection Feature"
-date: 2024-09-12T16:53:00.797Z
-updated: 2024-09-16T16:10:22.420Z
+date: 2024-09-20T16:30:19.967Z
+updated: 2024-09-21T17:13:34.280Z
 tags:
   - excel
 categories:
@@ -104,17 +104,31 @@ thumbnail: https://thmb.techidaily.com/e0931ca8ae70302ccf65495c157857813d9635f22
 ![A table in Excel being AutoFilled.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/autofill-table-2.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120864/26400?prodsku=Mercury" target="_top" id="2120864">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120864/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Try changing your drop-down option to a different value and see the data change in Table 2, and check that it aligns with the information in Table 1\. Remember that we sorted the first column in Table 2 alphabetically, so check carefully, as the first column in Table 1 will be in a different order!
 
 ![An Excel sheet with a drop-down selection changed to 'Game 3,' and Table 2 showing the data for this selection.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/drop-down-with-data-in-table-2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now that Table 2 successfully changes depending on our drop-down selection, we're ready to create the chart.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Step 4: Insert and Format Your Chart
 
@@ -128,19 +142,6 @@ thumbnail: https://thmb.techidaily.com/e0931ca8ae70302ccf65495c157857813d9635f22
 
  Format the chart to appear as you wish, and again, play with your drop-down to see Table 2—and, consequently, your chart—adjust to your selection. You'll also see your chart title change.
 
-<!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Step 5: Add an Average Line to Your Chart
 
  To add an average line to the chart, you need to add more data to Table 2\. Add another column heading to Table 2, and call it **Average**.
@@ -148,16 +149,16 @@ thumbnail: https://thmb.techidaily.com/e0931ca8ae70302ccf65495c157857813d9635f22
 ![An Excel spreadsheet with two tables and a chart. Table 2 has a new column, headed 'Average.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/table-2-average-column.png) 
 
 <!-- affiliate ads begin -->
-<span id="1977004">
+<span id="1977028">
 					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now, [use the AVERAGE function](https://win-able.techidaily.com/fixing-overwatch-startup-issues-how-to-get-rid-of-the-persistent-black-screen/) to capture the average of the selected data. In our case, we've selected game 4, so we want to find the average rating among all five players for this game. To do this, type
@@ -176,6 +177,13 @@ thumbnail: https://thmb.techidaily.com/e0931ca8ae70302ccf65495c157857813d9635f22
 
 ![An Excel chart selected with the 'Select Data' icon in the Chart Design group selected.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/select-data-for-chart.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In the Select Data Source window, click "Add."
 
 ![Excel's Select Data Source window with 'Add' highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/add-data.png) 
@@ -188,29 +196,9 @@ thumbnail: https://thmb.techidaily.com/e0931ca8ae70302ccf65495c157857813d9635f22
 
 ![An Excel chart with an average column selected through a right-click, and 'Change Series Chart Type' selected.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/change-series-chart-type.png) 
 
-<!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Open the "All Charts" tab, click "Combo" in the menu on the left, and change the average data series to "Line."
 
 ![The Change Chart Type window in Excel, with the 'All Charts' tab opened, the 'Combo' menu selected, and Series 2 changed to 'Line.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/change-data-to-line.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Click OK to see the outcome, and change the drop-down choice to see your chart change dynamically!
 
@@ -237,20 +225,19 @@ thumbnail: https://thmb.techidaily.com/e0931ca8ae70302ccf65495c157857813d9635f22
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-imovie-music-mosaic-creating-audio-visual-harmony/"><u>[New] IMovie Music Mosaic Creating Audio-Visual Harmony</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-unleashing-the-potential-of-fb-videos/"><u>[Updated] In 2024, Unleashing the Potential of FB Videos</u></a></li>
-<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-tecno-spark-10-pro-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Tecno Spark 10 Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/access-premium-imagery-no-copyright-restrictions-for-2024/"><u>Access Premium Imagery, No Copyright Restrictions for 2024</u></a></li>
-<li><a href="https://win-forum.techidaily.com/connect-and-engage-on-leading-sites-facebook-twitter-instagram-and-youtube/"><u>Connect and Engage on Leading Sites: Facebook, Twitter, Instagram & Youtube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/easily-undo-recent-windows-11-changes-with-this-simple-method/"><u>Easily Undo Recent Windows 11 Changes with This Simple Method</u></a></li>
-<li><a href="https://win-forum.techidaily.com/easy-guide-updating-your-pcs-hardware-drivers-on-windows-10-with-revo-uninstaller/"><u>Easy Guide: Updating Your PC's Hardware Drivers on Windows 10 with Revo Uninstaller</u></a></li>
-<li><a href="https://win-forum.techidaily.com/how-to-optimize-and-reduce-high-disk-resource-consumption-in-windows/"><u>How to Optimize and Reduce High Disk Resource Consumption in Windows</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-can-we-bypass-itel-a70-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Itel A70 FRP?</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-unveiling-the-secrets-perfecting-motion-blur-in-photoshop/"><u>In 2024, Unveiling the Secrets Perfecting Motion Blur in Photoshop</u></a></li>
-<li><a href="https://win-forum.techidaily.com/leading-social-networks-for-engagement-facebook-twitter-instagram-youtube-uncovered/"><u>Leading Social Networks for Engagement: Facebook, Twitter, Instagram, YouTube Uncovered</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/personal-emblem-creation-fashioning-an-exaggerated-self/"><u>Personal Emblem Creation Fashioning an Exaggerated Self</u></a></li>
-<li><a href="https://win-forum.techidaily.com/1722915274991-social-media-success-strategies-for-facebook-twitter-instagram-and-you/"><u>Social Media Success Strategies for Facebook, Twitter, Instagram & You.</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-how-to-stop-custom-suggestions-from-showing-up-on-your-instagram-feed/"><u>Step-by-Step: How To Stop Custom Suggestions From Showing Up On Your Instagram Feed</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-quintessential-social-giants-for-digital-engagement-fb-twitter-ig-and-yt/"><u>The Quintessential Social Giants for Digital Engagement: FB, TWITTER, IG and YT</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-fix-quiet-tweets-with-youtube-links/"><u>[Updated] Fix Quiet Tweets with YouTube Links</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/accidentally-secured-your-smartphone-unlock-and-erase-techniques-covered/"><u>Accidentally Secured Your Smartphone? Unlock & Erase Techniques Covered</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/captivating-collections-frames-and-organizers-of-the-future-for-2024/"><u>Captivating Collections Frames & Organizers of the Future for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/choosing-top-ranking-seo-tools-how-to-accurately-measure-active-hyperlinks/"><u>Choosing Top-Ranking SEO Tools: How to Accurately Measure Active Hyperlinks</u></a></li>
+<li><a href="https://win-forum.techidaily.com/convert-audio-files-from-wav-to-aac-no-cost-with-movavi-converter/"><u>Convert Audio Files From WAV to AAC - No Cost with Movavi Converter</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-6-methods-to-protect-yourself-from-location-tracking-on-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>In 2024, 6 Methods to Protect Yourself from Location Tracking on Apple iPhone SE (2022) | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-infinix-smart-7-hd-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Infinix Smart 7 HD</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-artisan-editor-refining-video-transitions-with-inshot/"><u>In 2024, The Artisan Editor Refining Video Transitions with Inshot</u></a></li>
+<li><a href="https://win-forum.techidaily.com/movavi-wma-to-vob-and/"><u>Movavi WMA-to-VOB 바이트 크론기: 비용 없는 원자성 & 웹 내 변환 기술</u></a></li>
+<li><a href="https://win-forum.techidaily.com/movavimp3aac/"><u>Movaviで円熟した技術を用いてMP3ファイル自由にAACへ – 試せる無料オンラインコンバータ</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-11-pro-max-data-from-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 11 Pro Max Data From iTunes | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/virtueel-converteren-van-speech-to-text-ape-naar-m4a-mp3-gratis-movavi-online-tool/"><u>Virtueel Converteren Van Speech-to-Text (APE) Naar M4A MP3, Gratis - Movavi Online Tool</u></a></li>
+<li><a href="https://common-error.techidaily.com/winning-over-the-system-restore-failed-error-code-0x80-on-windows-11-with-this-ultimate-fix/"><u>Winning Over the 'System Restore Failed: Error Code 0X80' On Windows 11 with This Ultimate Fix</u></a></li>
+<li><a href="https://win-forum.techidaily.com/1726222186389-aiffaac-movavi/"><u>オンラインで無料: AIFF形式からAACへの簡単変換 - Movavi音楽ソフト</u></a></li>
 </ul></div>
 

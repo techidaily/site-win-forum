@@ -1,7 +1,7 @@
 ---
 title: "Mastering Spreadsheet Management: Customizing Row Heights and Column Sizes in Excel Tutorial"
-date: 2024-09-14T16:48:12.839Z
-updated: 2024-09-16T16:04:12.809Z
+date: 2024-09-18T16:16:51.228Z
+updated: 2024-09-21T17:11:46.179Z
 tags:
   - excel
 categories:
@@ -98,32 +98,27 @@ Related: [How to Freeze and Unfreeze Rows and Columns in Excel](https://apple-ac
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-boosting-zoom-outputs-with-top-three-conversion-tactics/"><u>[New] In 2024, Boosting Zoom Outputs with Top Three Conversion Tactics</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-melody-makers-best-places-for-free-skype-ringtones/"><u>[New] In 2024, Melody Makers Best Places for Free Skype Ringtones</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-snapscreen-scrutiny-a-deep-dive-into-recorders/"><u>[Updated] 2024 Approved SnapScreen Scrutiny A Deep Dive Into Recorders</u></a></li>
-<li><a href="https://win-forum.techidaily.com/advanced-file-deletion-techniques-with-command-prompt-for-windows-10-users/"><u>Advanced File Deletion Techniques with Command Prompt for Windows 10 Users</u></a></li>
-<li><a href="https://win-forum.techidaily.com/complete-guide-forcibly-deleting-files-and-folders-in-windows-11-using-revo-uninstaller/"><u>Complete Guide: Forcibly Deleting Files and Folders in Windows 11 Using Revo Uninstaller</u></a></li>
-<li><a href="https://fox-that.techidaily.com/effective-solutions-for-handling-error-4013-in-iphone-updaterestore-processes/"><u>Effective Solutions for Handling Error 4013 in iPhone Update/Restore Processes</u></a></li>
-<li><a href="https://win-forum.techidaily.com/expert-advice-eliminating-unwanted-memory-dump-files-on-your-pc/"><u>Expert Advice: Eliminating Unwanted Memory Dump Files on Your PC</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-xiaomi-redmi-note-12-4g-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Xiaomi Redmi Note 12 4G to Outlook | Dr.fone</u></a></li>
-<li><a href="https://win-forum.techidaily.com/mastering-the-art-of-driver-updates-for-windows-10-devices-with-revouninstaller/"><u>Mastering the Art of Driver Updates for Windows 10 Devices with RevoUninstaller</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-windows-local-devices-avoid-in-use-names-errors/"><u>Overcoming Windows' Local Devices: Avoid In-Use Names Errors</u></a></li>
-<li><a href="https://win-forum.techidaily.com/say-goodbye-to-clutter-with-revo-uninstaller-pros-version-5-enhanced-features/"><u>Say Goodbye to Clutter with Revo Uninstaller Pro's Version 5 Enhanced Features</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/snap-and-save-life-on-mi-11-with-unmatched-screen-quality-for-2024/"><u>Snap and Save Life on Mi 11 with Unmatched Screen Quality for 2024</u></a></li>
-<li><a href="https://win-forum.techidaily.com/social-media-titans-harnessing-the-power-of-facebook-twitter-instagram-and-youtube-for-your-brand/"><u>Social Media Titans: Harnessing the Power of Facebook, Twitter, Instagram & YouTube for Your Brand</u></a></li>
-<li><a href="https://win-dash.techidaily.com/update-your-pc-with-the-newest-msi-b35b350-tomahorse-drivers-ideal-for-windows-11-and-7-systems/"><u>Update Your PC with the Newest MSI B35ˈB350 TOMAHORSE Drivers: Ideal for Windows 11 & 7 Systems</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-explore-the-power-of-pip-on-modern-edge-browser/"><u>[New] In 2024, Explore the Power of PIP on Modern Edge Browser</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-laying-foundations-for-understanding-av1-tech/"><u>[New] Laying Foundations for Understanding AV1 Tech</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-transparency-in-tracking-youtube-viewers/"><u>2024 Approved Transparency in Tracking YouTube Viewers</u></a></li>
+<li><a href="https://win-forum.techidaily.com/2024-khta-altrgma-ahdth-azyaaa-movavi-lms/"><u>2024 خطة الترجمة: أحدث أزياء Movavi - لمص高</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-honor-80-pro-straight-screen-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-google-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Google</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-honor-v-purse-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Honor V Purse? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/extract-audio-from-mp4-top-rated-mp4-to-mp3-converters/"><u>Extract Audio From MP4 Top-Rated MP4 to MP3 Converters</u></a></li>
+<li><a href="https://win-forum.techidaily.com/gratuito-conversor-de-video-online-mp4-a-ogg-con-movavi-sin-coste/"><u>Gratuito Conversor De Vídeo Online: Mp4 a Ogg Con Movavi - ¡Sin Coste!</u></a></li>
+<li><a href="https://win-forum.techidaily.com/movavis-free-audio-converter-effortless-mp3-to-aiff-upgrading/"><u>Movavi's Free Audio Converter: Effortless MP3 to AIFF Upgrading</u></a></li>
+<li><a href="https://win-forum.techidaily.com/movavis-top-rated-free-web-based-tool-for-easy-m4v-and-mov-file-conversion/"><u>Movavi's Top Rated, FREE Web-Based Tool for Easy M4V and MOV File Conversion</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-unmatched-excel-mastery-gap-across-ai-dialogue-systems/"><u>The Unmatched Excel Mastery Gap Across AI Dialogue Systems</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-10-best-free-video-editors-compatible-with-windows-10-8-7-and-macos/"><u>Top 10 Best Free Video Editors Compatible with Windows 10, 8, 7 and macOS</u></a></li>
+<li><a href="https://win-forum.techidaily.com/trasforma-il-tuo-file-ogg-in-webm-per-free-online-soluzione-di-conversione-da-movavi/"><u>Trasforma Il Tuo File OGG in WEBM per Free Online - Soluzione Di Conversione Da Movavi</u></a></li>
+<li><a href="https://win-forum.techidaily.com/trasformare-i-file-mp3-in-formato-swf-free-online-con-movavi/"><u>Trasformare I File MP3 in Formato SWF Free Online Con Movavi</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

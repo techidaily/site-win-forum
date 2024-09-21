@@ -1,7 +1,7 @@
 ---
 title: Detecting Empty Cells Using the ISBLANK Function in Microsoft Excel
-date: 2024-09-09T16:24:56.460Z
-updated: 2024-09-16T16:47:19.981Z
+date: 2024-09-17T16:02:48.686Z
+updated: 2024-09-21T16:25:55.157Z
 tags:
   - excel
 categories:
@@ -66,10 +66,10 @@ Related: [How to Use the IS Functions in Microsoft Excel](https://win-amazing.te
 ![Select a cell.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/1-select-cell-excel.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114265/17093" target="_top" id="2114265">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114265" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114265/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In the selected cell, type the following function and press Enter. In this function, replace `C2` with the cell that you want to check.
@@ -77,6 +77,19 @@ Related: [How to Use the IS Functions in Microsoft Excel](https://win-amazing.te
 =ISBLANK(C2)
 
 ![Enter the ISBLANK function.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/2-use-isblank-function-excel.png) 
+
+<!-- affiliate ads begin -->
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  To [use the function for all your records](https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-honor-magic-6-drfone-by-drfone-virtual-android/) in the spreadsheet, from the bottom-right corner of the cell where you entered the function, drag downwards covering all your rows.
 
@@ -96,19 +109,6 @@ Related: [How to Fill Excel Cells Automatically with Flash Fill and Auto Fill](h
 
 ![Choose a cell.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/4-choose-cell-excel.png) 
 
-<!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In your selected cell, type the following function and press Enter. Here, replace `C2` with the cell that you want to check (if it's blank or not), `Sale Not Made` with the text you want to use if the cell is blank, and `Sale Made` with the text if the cell is not blank.
 
 =IF(ISBLANK(C2),"Sale Not Made","Sale Made")
@@ -118,10 +118,16 @@ Related: [How to Fill Excel Cells Automatically with Flash Fill and Auto Fill](h
 ![The result of the IF and ISBLANK functions.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/5-excel-isblank-if-function-result.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115948/19272" target="_top" id="2115948">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115948" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115948/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  And you now have your chosen text displayed for your blank and non-blank cells.
@@ -143,15 +149,19 @@ Related: [How to Skip Pasting Blank Cells When Copying in Microsoft Excel](https
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-unveiling-social-media-puzzles-how-to-use-facebook-insights/"><u>[New] In 2024, Unveiling Social Media Puzzles How to Use Facebook Insights</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-starlight-moment-capture-analysis/"><u>[New] Starlight Moment Capture Analysis</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-snapperview-4-review-synopsis/"><u>2024 Approved SnapperView 4 Review Synopsis</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-twitters-visual-treats-free-video-to-gif-transformation/"><u>2024 Approved Twitter's Visual Treats Free Video to Gif Transformation</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-oppo-a1-5g-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Oppo A1 5G Phone Using PC | Dr.fone</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/the-game-plan-for-getting-your-product-in-front-of-a-youtubers-audience-for-2024/"><u>The Game Plan for Getting Your Product in Front of a Youtuber's Audience for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-how-to-stop-elex-ii-from-continuously-failing-on-pc/"><u>Troubleshooting Guide: How To Stop Elex II From Continuously Failing On PC</u></a></li>
-<li><a href="https://win-forum.techidaily.com/unlock-the-power-of-your-pc-discover-13-methods-to-access-windows-11-settings/"><u>Unlock the Power of Your PC: Discover 13 Methods to Access Windows 11 Settings</u></a></li>
-<li><a href="https://win-forum.techidaily.com/unlock-your-browser-freedom-a-comprehensive-tutorial-to-deactivate-microsoft-smartscreen-filter-in-windows-11-and-8/"><u>Unlock Your Browser Freedom: A Comprehensive Tutorial to Deactivate Microsoft SmartScreen Filter in Windows 11 and 8</u></a></li>
-<li><a href="https://win-forum.techidaily.com/unseen-transformation-how-the-true-artificial-intelligence-shift-is-happening/"><u>Unseen Transformation: How the True Artificial Intelligence Shift Is Happening</u></a></li>
+<li><a href="https://win-forum.techidaily.com/apeaac-movavi/"><u>免費線上APE到AAC轉換解決方案 - 為動態影片提供全天候服務的Movavi編輯器</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/conversion-gratuite-de-fichiers-m4a-a-mp3-en-ligne-avec-movavi/"><u>Conversion Gratuite De Fichiers M4A À MP3 en Ligne Avec Movavi</u></a></li>
+<li><a href="https://win-forum.techidaily.com/convert-images-for-free-with-movavis-jpg-to-jpeg-tool-easy-and-reliable-image-format-change/"><u>Convert Images for Free with Movavi's JPG to JPEG Tool - Easy and Reliable Image Format Change</u></a></li>
+<li><a href="https://win-forum.techidaily.com/devenir-un-maitre-de-la-caricature-guide-simple-pour-convertir-votre-photo-en-un-bel-dessin/"><u>Devenir Un Maître De La Caricature: Guide Simple Pour Convertir Votre Photo en Un Bel Dessin</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-the-mysterious-vanishing-of-app-icons-from-your-iphone-quick-solutions-inside/"><u>Fix the Mysterious Vanishing of App Icons From Your iPhone – Quick Solutions Inside!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-enable-the-widgets-toolbar-in-windows-11/"><u>How to Enable the Widgets Toolbar in Windows 11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-app-on-yuva-2-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Recover Deleted Photos from Android Gallery App on Yuva 2</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-lava-agni-2-5g-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Lava Agni 2 5G To Phone | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-honor-magic5-ultimate-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Honor Magic5 Ultimate Location Settings | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-mastering-podcast-name-selection-step-by-step-guide-plus-50plus-top-ideas-list/"><u>In 2024, Mastering Podcast Name Selection Step-by-Step Guide + 50+ Top Ideas List</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/masterful-video-starts-get-them-for-free-for-2024/"><u>Masterful Video Starts, Get Them for Free for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/stop-life-is-strange-true-colors-from-crashing-effective-fix-and-tips/"><u>Stop Life Is Strange: True Colors From Crashing: Effective Fix & Tips</u></a></li>
+<li><a href="https://win-forum.techidaily.com/subissione-rapida-di-wmv-a-jpg-online-gratuita-con-convertitore-web-movavi/"><u>Subissione Rapida Di WMV a JPG Online Gratuita Con Convertitore Web - Movavi</u></a></li>
+<li><a href="https://win-forum.techidaily.com/transforma-sus-archivos-ogv-en-wmv-de-manera-gratuita-utilizando-el-servicio-en-linea-de-movavi/"><u>Transforma Sus Archivos OGV en WMV De Manera Gratuita Utilizando El Servicio en Línea De Movavi</u></a></li>
 </ul></div>
 

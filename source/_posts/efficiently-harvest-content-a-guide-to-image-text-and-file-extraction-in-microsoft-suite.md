@@ -1,7 +1,7 @@
 ---
 title: "Efficiently Harvest Content: A Guide to Image, Text, and File Extraction in Microsoft Suite"
-date: 2024-09-12T16:36:56.149Z
-updated: 2024-09-16T16:23:18.551Z
+date: 2024-09-20T17:34:25.376Z
+updated: 2024-09-21T17:34:17.123Z
 tags:
   - excel
 categories:
@@ -80,10 +80,16 @@ Say someone sent you a Word document with a lot of images, and you want you to s
 ![11a_opening_pdf_file](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/03/11a_opening_pdf_file.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If WordPad doesn't have an option for opening your file, make note of its file type here. For example, our second file in this document is a .mp3 file.
@@ -96,9 +102,23 @@ Say someone sent you a Word document with a lot of images, and you want you to s
 
 ![13_extracted_embedded_files](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/03/13_extracted_embedded_files-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Note that not all files will necessarily open using this process--for example, our PDF file opened correctly from WordPad, but we couldn't get it to open by renaming its .bin file.
 
  Once you’ve extracted the content of the zipped file, you can revert the extension of the original file back to .docx, .xlsx, or .pptx. The file will remain intact and can be opened normally in the corresponding program.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How to Extract Images from Older Office Documents (.doc, .xls, or .ppt)
 
@@ -128,13 +148,6 @@ Say someone sent you a Word document with a lot of images, and you want you to s
 
 ![19_processing_please_wait](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/03/19_processing_please_wait.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118324/7443" target="_top" id="2118324">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118324" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118324/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  On the Finished screen, click the "Click here to open destination folder" to view the resulting image files.
 
 ![20_opening_destination_folder](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/03/20_opening_destination_folder.png) 
@@ -147,20 +160,27 @@ Say someone sent you a Word document with a lot of images, and you want you to s
 
 ![22_images_from_older_word_file](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/03/22_images_from_older_word_file.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can also extract images from multiple files at once. To do this, on the Input & Output screen, click the "Batch Mode" check box so there is a check mark in the box.
 
 ![23_clicking_batch_mode](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/03/23_clicking_batch_mode.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The Batch Input & Output screen displays. Click "Add Files".
 
 ![24_clicking_add_files](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/03/24_clicking_add_files.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  On the Open dialog box, navigate to the folder containing any of the files from which you want to extract images, select the files using the "Shift" or "Ctrl" key to select multiple files, and click "Open".
 
@@ -188,29 +208,9 @@ Say someone sent you a Word document with a lot of images, and you want you to s
 
 ![29_closing_wizard](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/03/29_closing_wizard.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you chose to create a separate folder for each document, you will see folders with the same names as the files containing the images, whichever output folder(s) you specified.
 
 ![30_folders_containing_images](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/03/30_folders_containing_images.png) 
-
-<!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Again, we get all the images as numbered files for each document.
 
@@ -233,21 +233,19 @@ Say someone sent you a Word document with a lot of images, and you want you to s
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-channel-control-center-creator-studio-essentials-for-2024/"><u>[New] Channel Control Center Creator Studio Essentials for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-crown-jewels-of-online-watching-youtubes-treasures-for-2024/"><u>[New] Crown Jewels of Online Watching YouTube's Treasures for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-engaging-audiences-how-twitch-stacks-up-against-youtube-for-2024/"><u>[New] Engaging Audiences How Twitch Stacks Up Against YouTube for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-the-ultimate-voyage-guide-from-novice-to-esteemed-travel-blogger/"><u>[Updated] In 2024, The Ultimate Voyage Guide From Novice to Esteemed Travel Blogger</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-top-8-trending-ae-templates-on-instagram/"><u>[Updated] In 2024, Top 8 Trending AE Templates on Instagram</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-definitive-guide-to-iphones-how-to-grab-podcast-episodes/"><u>2024 Approved The Definitive Guide to iPhones How to Grab Podcast Episodes</u></a></li>
-<li><a href="https://win-forum.techidaily.com/bypassing-control-panel-limits-for-complete-software-deletion/"><u>Bypassing Control Panel Limits for Complete Software Deletion</u></a></li>
-<li><a href="https://win-forum.techidaily.com/connecting-through-digital-age-giants-a-look-at-facebook-twitter-instagram-and-youtube/"><u>Connecting Through Digital Age Giants: A Look at Facebook, Twitter, Instagram & Youtube</u></a></li>
-<li><a href="https://driver-error.techidaily.com/disabled-error-cleared-status-greenlit/"><u>Disabled Error Cleared - Status Greenlit</u></a></li>
-<li><a href="https://win-forum.techidaily.com/master-the-art-of-text-file-security-a-detailed-walkthrough-on-applying-password-protection/"><u>Master the Art of Text File Security: A Detailed Walkthrough on Applying Password Protection</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/overcoming-the-obstacle-of-error-0x80070422-in-your-windows-11-updates-a-step-by-step-resolution/"><u>Overcoming the Obstacle of Error 0X80070422 in Your Windows 11 Updates: A Step-by-Step Resolution</u></a></li>
-<li><a href="https://win-forum.techidaily.com/resolving-disk-space-issues-in-windows-11-a-step-by-step-guide/"><u>Resolving Disk Space Issues in Windows 11: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-forum.techidaily.com/solving-your-sluggish-pc-woes-a-guide-using-revo-uninstaller/"><u>Solving Your Sluggish PC Woes: A Guide Using Revo Uninstaller</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-ultimate-guide-deleting-items-using-cmd-on-windows-10/"><u>The Ultimate Guide: Deleting Items Using CMD on Windows 10</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-ultimate-walkthrough-resetting-your-windows-11-system-to-its-roots-with-revo-uninstaller/"><u>The Ultimate Walkthrough: Resetting Your Windows 11 System to Its Roots with Revo Uninstaller</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723862794758-unbeatable-deal-samsung-pixel-dense-viewfinity-s9-5k-monitor-now-just-899-save-44-on-this-premium-27-ips-display-with-integrated-4k-cam/"><u>Unbeatable Deal: Samsung Pixel-Dense ViewFinity S9 5K Monitor, Now Just $899 - Save 44% on This Premium 27 IPS Display with Integrated 4K Cam!</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-maximizing-impact-with-youtube-micro-videos/"><u>[Updated] Maximizing Impact with YouTube Micro Videos</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-raisingthebarbeyondmycam-cameras/"><u>2024 Approved RaisingTheBarBeyondMyCam Cameras</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-honor-play-40c-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Honor Play 40C without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/adobe-photostability-effective-or-fanciful-for-2024/"><u>Adobe PhotoStability Effective or Fanciful for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/become-a-pokemon-pro-ios-strategies-unveiled/"><u>Become a Pokémon Pro: IOS Strategies Unveiled</u></a></li>
+<li><a href="https://win-forum.techidaily.com/discover-the-ultimate-dvd-transcoding-programs-top-7-picks-for-windows-and-mac-users/"><u>Discover the Ultimate DVD Transcoding Programs: Top 7 Picks for Windows and Mac Users</u></a></li>
+<li><a href="https://win-forum.techidaily.com/gratuito-conversor-de-fotos-raw-a-formato-bmp-en-linea-con-movavi/"><u>Gratuito Conversor De FOTOS RAW a Formato BMP - En Línea Con Movavi</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Honor Magic5 Ultimate? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-perfectly-timed-instagram-content-our-list-of-the-top-8-schedulers/"><u>In 2024, Perfectly Timed Instagram Content - Our List of the Top 8 Schedulers</u></a></li>
+<li><a href="https://win-forum.techidaily.com/movavi-helping-center-comprehensive-support-and-assistance/"><u>Movavi Helping Center: Comprehensive Support and Assistance</u></a></li>
+<li><a href="https://win-forum.techidaily.com/online-video-audio-extraction-with-extraktor-zvuku/"><u>Online Video Audio Extraction with Extraktor Zvuku</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-5-tips-for-adding-images-over-text-in-movavi-perfecting-your-photo-text-edits/"><u>Top 5 Tips for Adding Images Over Text in Movavi: Perfecting Your Photo-Text Edits</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-time-lapse-mastery-a-step-by-step-guide-in-final-cut-pro-for-2024/"><u>Updated Time Lapse Mastery A Step-by-Step Guide in Final Cut Pro for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/movavigifn/"><u>フリーのMovavi動画GIF化オンラインアプリケーショn - 簡単でスピーディな変換方法</u></a></li>
 </ul></div>
 

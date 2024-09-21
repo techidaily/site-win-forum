@@ -1,7 +1,7 @@
 ---
 title: "Adjusting Your Icons: A Step-by-Step Guide to Resizing Them in Windows 11"
-date: 2024-09-09T16:03:48.496Z
-updated: 2024-09-16T16:19:59.363Z
+date: 2024-09-20T16:24:30.350Z
+updated: 2024-09-21T16:37:57.961Z
 tags:
   - windows
 categories:
@@ -43,13 +43,6 @@ thumbnail: https://thmb.techidaily.com/b4422105d5b201d3b53a4eb264e1f06b970718d58
 
 ![Right-click the taskbar and choose Taskbar Settings from the context menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/Right-click-the-taskbar-and-choose-Taskbar-Settings-from-the-context-menu..png) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The Taskbar Settings window will open. Near the top of the list of options, toggle the slider to the "On" position under the "Use Small Taskbar Buttons" option.
 
 ![Click the toggle switch under 'Use Small Taskbar Buttons.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-use-small-taskbar-buttons.png) 
@@ -60,6 +53,13 @@ thumbnail: https://thmb.techidaily.com/b4422105d5b201d3b53a4eb264e1f06b970718d58
 
  To change the icons back to the default size, toggle the slider back to the "Off" position.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Resize File Explorer Icons
 
  File Explorer lets you adjust the icon sizes to extra large, large, medium, or small.
@@ -68,33 +68,27 @@ thumbnail: https://thmb.techidaily.com/b4422105d5b201d3b53a4eb264e1f06b970718d58
 
 ![Click the File Explorer icon on the taskbar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-open-file-explorer.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Next, click the "View" tab.
 
 ![Click the 'View' button near the top of the window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-click-view.png) 
 
 <!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In the "Layout" group, choose the icon size that you want. The current setting is highlighted in blue.
 
 ![Select between icon sizes, or a list view.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-icon-sizes.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If one of these four options doesn't fit your requirements, place your mouse anywhere in File Explorer, press and hold the Ctrl key, and then scroll your mouse wheel up or down to increase or decrease the icon size, respectively. This will adjust the size of the icons in smaller increments.
 
@@ -115,14 +109,17 @@ thumbnail: https://thmb.techidaily.com/b4422105d5b201d3b53a4eb264e1f06b970718d58
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-essential-guide-to-the-best-8-no-cost-videoconferencing-platforms/"><u>[Updated] 2024 Approved Essential Guide to the Best 8 No-Cost Videoconferencing Platforms</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-followers-in-motion-analyzer/"><u>[Updated] In 2024, Followers in Motion Analyzer</u></a></li>
-<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-lava-blaze-2-5g-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Lava Blaze 2 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-vivo-g2-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Vivo G2 Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/hands-on-with-the-apple-iphone-15-pro/"><u>Hands-On With the Apple iPhone 15 Pro</u></a></li>
-<li><a href="https://win-forum.techidaily.com/tech-tips-for-a-smarter-connection-change-icons-track-volume-and-share-links-with-smartphones-expert-advice-from-how-to-geek/"><u>Tech Tips for a Smarter Connection: Change Icons, Track Volume, and Share Links with Smartphones – Expert Advice From How-To Geek</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-ultimate-tutorial-on-leveraging-the-excel-navigation-pane-for-quick-data-access/"><u>The Ultimate Tutorial on Leveraging the Excel Navigation Pane for Quick Data Access</u></a></li>
-<li><a href="https://win-forum.techidaily.com/understanding-the-distinction-functions-vs-formulas-in-microsoft-excel/"><u>Understanding the Distinction: Functions Vs. Formulas in Microsoft Excel</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unlock-your-creativity-with-photoshops-radial-blur-and-shadow-tools-for-2024/"><u>Unlock Your Creativity with Photoshop's Radial Blur & Shadow Tools for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-a-comprehensive-guide-to-changing-avatars-and-statuses-on-discord/"><u>[Updated] A Comprehensive Guide to Changing Avatars & Statuses on Discord</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-superior-tools-for-capturing-moments-with-harmony/"><u>[Updated] In 2024, Superior Tools for Capturing Moments with Harmony</u></a></li>
+<li><a href="https://apple-account.techidaily.com/everything-to-know-about-apple-id-password-requirements-for-iphone-xs-by-drfone-ios/"><u>Everything To Know About Apple ID Password Requirements For iPhone XS</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixing-the-0x0000001e-bsod-blue-screen-of-death-on-windows/"><u>Fixing the 0X0000001E BSOD (Blue Screen of Death) on Windows</u></a></li>
+<li><a href="https://win-forum.techidaily.com/gratuito-conversione-gsm-on-line-con-movavi-esegui-il-passaggio-senza-costi/"><u>Gratuito Conversione GSM On Line Con Movavi - Esegui Il Passaggio Senza Costi!</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-swiftly-convert-audio-turn-your-aacs-into-avis-without-cost-using-movavis-service/"><u>How To Swiftly Convert Audio: Turn Your AACs Into AVIs Without Cost Using Movavi's Service</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-can-i-remove-the-apple-watch-activation-lock-by-iphone-7-plus-without-the-previous-owner-by-drfone-ios/"><u>In 2024, Can I Remove the Apple Watch Activation Lock By iPhone 7 Plus without the Previous Owner?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-transforming-personal-narratives-best-practices-for-video-praise/"><u>In 2024, Transforming Personal Narratives Best Practices for Video Praise</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-8-hair-style-mobile-apps-you-cant-miss-find-your-perfect-look/"><u>Top 8 Hair Style Mobile Apps You Can't Miss - Find Your Perfect Look</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-rated-tools-for-professional-color-correction/"><u>Top-Rated Tools for Professional Color Correction</u></a></li>
+<li><a href="https://win-forum.techidaily.com/ultimate-how-to-capturing-your-screenshots-with-vlc-a-step-by-step-movavi-alternative/"><u>Ultimate How-To: Capturing Your Screenshots with VLC - A Step-by-Step Movavi Alternative</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/44k544oe44o844oi44ov44kp44oz44gn44oe44kk44od44k44o85yuv55s744gu6ieq5yuv6yyy55s777yg5lplusd5a2y44og44kv44ol44od44kv/"><u>スマートフォンでツイッター動画の自動録画＆保存テクニック</u></a></li>
 </ul></div>
 

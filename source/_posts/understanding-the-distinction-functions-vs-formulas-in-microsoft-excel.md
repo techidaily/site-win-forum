@@ -1,7 +1,7 @@
 ---
 title: "Understanding the Distinction: Functions Vs. Formulas in Microsoft Excel"
-date: 2024-09-09T16:13:47.065Z
-updated: 2024-09-16T16:27:33.057Z
+date: 2024-09-20T16:17:44.038Z
+updated: 2024-09-21T17:24:26.468Z
 tags:
   - excel
 categories:
@@ -65,13 +65,6 @@ Related: [12 Basic Excel Functions Everybody Should Know](https://visual-screen-
 
 ![Formula bar in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/FormulaBar-ExcelFunctionsFormulas.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  Formulas With Functions
 
  If you select a function you want to use, you add it to the formula and then include the arguments which can include cell references, numbers, or text values. Examples of simple formulas using functions in Excel include:
@@ -90,6 +83,13 @@ Related: [12 Basic Excel Functions Everybody Should Know](https://visual-screen-
 
 ![SUM function](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/Sum-ExcelFunctionsFormulas.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  Formulas Without Functions
 
  Formulas can be used on their own, without functions. So you can perform tasks like adding numbers and [multiplying values in cells](https://extra-support.techidaily.com/2024-approved-step-by-step-perfectly-sharing-your-photography-on-youtube/). Examples of basic formulas without functions in Excel include:
@@ -102,20 +102,14 @@ Related: [12 Basic Excel Functions Everybody Should Know](https://visual-screen-
 
 ![Formula without function in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/Formula-ExcelFunctionsFormulas.png) 
 
-<!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Related: [How to Add or Multiply Values with Paste Special in Microsoft Excel](https://extra-support.techidaily.com/2024-approved-step-by-step-perfectly-sharing-your-photography-on-youtube/) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Remembering the Difference Between Functions and Formulas
 
@@ -141,19 +135,18 @@ Related: [How to Add or Multiply Values with Paste Special in Microsoft Excel](h
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-essential-ios-psp-emulation-tools-top-5/"><u>[New] 2024 Approved Essential iOS PSP Emulation Tools, Top 5</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-leverage-likes-and-brands-to-boost-ig-income/"><u>[New] 2024 Approved Leverage Likes and Brands to Boost IG Income</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-innovative-techniques-for-saving-snapchat-videos/"><u>[New] Innovative Techniques for Saving Snapchat Videos</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-how-to-share-screen-on-skype-when-working-from-home/"><u>[Updated] In 2024, How to Share Screen on Skype When Working From Home</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-immediate-screenshot-recorder-chrome/"><u>[Updated] In 2024, Immediate Screenshot Recorder (Chrome)</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-monochrome-to-multicolor-grading-journey/"><u>2024 Approved From Monochrome to Multicolor Grading Journey</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-swift-valorant-image-crafting-professionally-done-on-the-fly/"><u>2024 Approved Swift Valorant Image Crafting Professionally Done on the Fly</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/dodge-these-pitfalls-chatgpt-mobile-downloads/"><u>Dodge These Pitfalls: ChatGPT Mobile Downloads</u></a></li>
-<li><a href="https://win-forum.techidaily.com/how-to-implement-driver-updates-on-your-computer-running-windows-10-effortlessly/"><u>How to Implement Driver Updates on Your Computer Running Windows 10 Effortlessly</u></a></li>
-<li><a href="https://win-forum.techidaily.com/manual-methods-for-deleting-dump-files-in-windows-11-os/"><u>Manual Methods for Deleting Dump Files in Windows 11 OS</u></a></li>
-<li><a href="https://win-forum.techidaily.com/master-network-troubleshooting-how-to-perform-a-dns-purge-on-windows-1011/"><u>Master Network Troubleshooting: How to Perform a DNS Purge on Windows 10/11</u></a></li>
-<li><a href="https://win-forum.techidaily.com/master-the-art-of-file-management-avoid-locked-folders-in-windows-11-for-a-cleaner-drive/"><u>Master the Art of File Management: Avoid-Locked-Folders in Windows 11 for a Cleaner Drive</u></a></li>
-<li><a href="https://win-forum.techidaily.com/mastering-the-windows-11-installation-hurdle-on-incompatible-systems/"><u>Mastering the Windows 11 Installation Hurdle on Incompatible Systems</u></a></li>
-<li><a href="https://win-forum.techidaily.com/maximize-performance-with-revouninstaller-pro-5-advanced-uninstalling-at-its-best/"><u>Maximize Performance with RevoUninstaller Pro 5 - Advanced Uninstalling at Its Best</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-cut-through-the-noise-with-these-top-10-yt-short-standout-strategies/"><u>[Updated] In 2024, Cut Through the Noise with These Top 10 YT Short Standout Strategies</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-pixlr-15-essential-tips-for-enhanced-editing/"><u>2024 Approved Mastering Pixlr 15 Essential Tips for Enhanced Editing</u></a></li>
+<li><a href="https://win-forum.techidaily.com/1726227465456-movavi-jpegpng/"><u>無料で使えるMovavi: JPEGとPNGに容易に切り替えら지可能オンライン画像変換ツール</u></a></li>
+<li><a href="https://win-forum.techidaily.com/ogvgif-movavi-gif/"><u>自由額度網站 OGV到GIF 無條件變換 - 利用Movavi GIF編輯工具</u></a></li>
+<li><a href="https://win-forum.techidaily.com/convertissez-votre-fichier-mov-en-format-ogg-facilement-sans-frais-videos-vidmovi/"><u>Convertissez Votre Fichier MOV en Format OGG Facilement Sans Frais - Vidéos VidMovi</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-poco-f5-5g-to-mac-drfone-by-drfone-android/"><u>How to Mirror Poco F5 5G to Mac? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-lava-yuva-2-pro-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Lava Yuva 2 Pro Is Unlocked</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-quick-aspect-tweaking-over-the-internet/"><u>In 2024, Quick Aspect Tweaking Over the Internet</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/step-by-step-guide-transferring-high-quality-instagram-footage-from-your-mobile-device/"><u>Step-by-Step Guide: Transferring High-Quality Instagram Footage From Your Mobile Device</u></a></li>
+<li><a href="https://win-forum.techidaily.com/technii-corecte-pentru-a-reduce-temporul-de-renderizare-unui-videoclip-in-adobe-after-effects/"><u>Technii Corecte Pentru a Reduce Temporul De Renderizare Unui Videoclip in Adobe After Effects</u></a></li>
+<li><a href="https://win-forum.techidaily.com/transformez-facilement-votre-video-flv-en-3gp-sans-frais-avec-onlineconvertpro-by-moveave/"><u>Transformez Facilement Votre Vidéo FLV en 3GP Sans Frais Avec OnlineConvertPro by Moveave</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-free-screen-cast-tools-for-windows-ranked-1-5-for-2024/"><u>Ultimate Free Screen Cast Tools for Windows, Ranked #1-5 for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mpeg-flv-onliner-movavi/"><u>영구 무료 MPEG FLV 변환기: Onliner - Movavi</u></a></li>
 </ul></div>
 

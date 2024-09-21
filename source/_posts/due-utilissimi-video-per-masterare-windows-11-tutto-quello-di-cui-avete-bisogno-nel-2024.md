@@ -1,7 +1,7 @@
 ---
 title: "Due Utilissimi Video per Masterare Windows 11: Tutto Quello Di Cui Avete Bisogno Nel 2024"
-date: 2024-09-11T16:17:07.581Z
-updated: 2024-09-16T16:18:16.966Z
+date: 2024-09-15T16:28:11.962Z
+updated: 2024-09-21T16:40:44.785Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/337350c11ae587c77e044eafd70c0e67c4637d755652a56d2cc4cf20f4740048.png
@@ -222,19 +222,6 @@ Pour vérifier que vous disposez de la dernière version de DirectX, appuyez sur
 
 Si vous n'avez pas DirectX 12, allez-y et installez-le ; le processus ne prendra que quelques minutes. Appuyez sur la   **touche Windows** \+ **I**, choisissez **Mise à jour et sécurité** et cliquez sur **Vérifier les mises à jour** dans l'onglet **Windows. Mise à jour**. Attendez que l'installation se termine.
 
-<!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 
 
 Utiliser le mode de jeu Windows 10
@@ -248,6 +235,19 @@ Pour localiser les paramètres du mode jeu, appuyez sur la   **touche Windows** 
 Dans le menu qui s'ouvre, cliquez sur **Mode Jeu**. Passez à **On** pour activer le Game Mode. Si votre PC prend en charge le Mode Jeu, le système optimisera les performances de votre PC pour les jeux.
 
 Si vous ne trouvez pas ces paramètres, cela signifie que la dernière Windows Creators Update n'est pas installée sur votre PC.
+
+<!-- affiliate ads begin -->
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Gérez vos heures actives
 
@@ -266,13 +266,6 @@ Pour définir vos heures actives, appuyez sur la   **touche Windows** \+ **I**, 
 Si vous êtes un joueur de nuit ou si vos heures de sommeil varient considérablement, de sorte que vous ne pouvez pas définir une heure de repos spécifique, nous vous conseillons (en plus de changer vos habitudes de sommeil) de vous assurer que Windows vous rappelle chaque fois qu'il voudra redémarrer afin que, si cela se produit pendant que vous jouez, vous puissiez toujours le retarder.
 
 Pour ce faire, retournez à Windows Update, cliquez sur **Advanced options** et assurez-vous que l'interrupteur sous **We'll show a reminder when we're going to restart** est activé.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118304/7443" target="_top" id="2118304">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118304" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118304/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Réglez les paramètres de vos effets visuels
 
@@ -298,13 +291,6 @@ Par ailleurs, les jeux sur Steam sont mis à jour en permanence et il arrive sou
 
 Pour ramener la version d'un jeu à celle dont vous avez besoin, ouvrez Steam, faites un clic droit sur le jeu, choisissez **Propriétés** et allez dans l'onglet **Bêta**. Choisissez la version souhaitée dans le menu déroulant.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Désactiver les notifications
 
 Les notifications au milieu d'un jeu consomment de la puissance CPU et peuvent nuire à votre champ de vision pendant le jeu. Suivez les étapes suivantes pour désactiver toutes les notifications avant de jouer :
@@ -324,13 +310,6 @@ Si vous utilisez une carte graphique NVIDIA, il existe des paramètres spécifiq
 4. Mode faible latence : Activez-le.
 5. Mode de gestion de l'énergie : Passez à **Préférer les performances maximales**.
 6. Optimisation Threaded : Passez à **Auto**.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115940/19272" target="_top" id="2115940">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115940" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115940/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Régler le centre de contrôle AMD/ATI
 
@@ -360,6 +339,13 @@ Comment améliorer les performances de jeu sur Windows 10 (corrections avancées
 
 Vous ne savez toujours pas comment rendre Windows 10 plus rapide pour les jeux ? Utilisez ces correctifs avancés pour une solution à long terme.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Optez pour un SSD
 
 ![](https://cdn.staticont.net/pages/0012/47/f8270db0638748de336b7f11de9f898510486d54.webp)
@@ -386,6 +372,13 @@ De nombreux jeux requièrent une mémoire vive de 8 Go, mais ce chiffre augmente
 
 Si vous voulez rester en tête de la courbe, 16 Go suffiront pour l'instant. Mais si vous voulez utiliser des services de streaming en arrière-plan comme Twitch, Discord et YouTube, vous devrez passer à 32 Go pour pouvoir tout faire fonctionner sans problème.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Désactiver l'algorithme de Nagle
 
 En gros, l'algorithme de Nagle améliore l'efficacité des réseaux TCP/IP en créant des paquets de données, ce qui réduit le nombre de paquets à envoyer sur le réseau. Ce processus affecte votre connexion Internet, la rendant moins stable. La désactivation de cet algorithme sur votre PC peut contribuer à des problèmes de latence lorsque vous jouez à des jeux en ligne.
@@ -395,13 +388,6 @@ Ouvrez votre Windows Éditeur de registre en cliquant sur la   **touche Windows*
 Pour trouver votre adresse IP, appuyez sur la   **touche Windows** \+ **X** et suivez ces étapes : **Panneau de configuration** \- **Réseau et Internet** \- **Centre Réseau et partage** \- **Connexions** \- **Détails** \- **Adresse IPv4**.
 
 Vous pouvez maintenant retrouver le dossier avec la bonne adresse IP. Cliquez avec le bouton droit de la souris sur ce dossier et sélectionnez **Nouveau** \- **Valeur DWORD (32 bits)**. Vous devrez créer deux de ces valeurs : **TcpAckFrequency** et **TCPNoDelay**. Double-cliquez sur chacune d'elles et réglez leurs paramètres sur **1**. L'algorithme de Nagle est maintenant désactivé.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Surcadencez votre carte graphique
 
@@ -460,6 +446,13 @@ Les ordinateurs portables sont réputés pour leur surchauffe, car tous les comp
 2. Pour la ventilation, essayez de surélever votre ordinateur portable ou utilisez un bureau conçu pour les ordinateurs portables.
 3. Réglez les paramètres de vos ventilateurs pour qu'ils ne soient pas trop sollicités.
 4. Si vous le pouvez, jouez sur votre ordinateur portable dans un environnement frais.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Mettez à niveau votre GPU et votre RAM
 
@@ -543,6 +536,13 @@ Atteindre 60 FPS dans un jeu n'est pas différent des conseils pour accélérer 
 4. Vérifiez les paramètres graphiques de votre jeu.
 5. Installez les derniers pilotes pour votre carte graphique
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Pourquoi ai-je des fps faibles sur mon PC haut de gamme ?
 
 La baisse du nombre de FPS se produit lorsque votre ordinateur n'a pas la mémoire ou la puissance nécessaire pour faire tourner le jeu à pleine vitesse. Parmi les problèmes les plus courants à l'origine d'une baisse du nombre d'images par seconde, citons les pilotes de cartes graphiques obsolètes, les cartes graphiques de qualité inférieure, les vieux processeurs et le manque de mémoire vive. 
@@ -586,21 +586,19 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-tech-savvy-summit-unveiling-our-top-5-video-capture-tools-for-2024/"><u>[New] Tech-Savvy Summit Unveiling Our Top 5 Video Capture Tools for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-the-path-to-artistic-expression-discover-free-tools-for-voice-modification/"><u>[Updated] 2024 Approved The Path to Artistic Expression – Discover Free Tools for Voice Modification</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-googles-platform-unveiled-the-ultimate-guide-to-podcast-postings/"><u>[Updated] Google's Platform Unveiled The Ultimate Guide to Podcast Postings</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-virtual-reality-showdown-ranking-the-top-10-pc-streamers-for-360-videos/"><u>[Updated] In 2024, Virtual Reality Showdown Ranking the Top 10 PC Streamers for 360 Videos</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-motorola-g24-power-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Motorola G24 Power to iPhone 14 and 15 | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/bypassing-the-block-solutions-to-roblox-loading-screen-hiccups/"><u>Bypassing the Block: Solutions to Roblox Loading Screen Hiccups</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/getting-past-blocks-solutions-for-4-common-problems/"><u>Getting Past Blocks: Solutions for 4 Common Problems</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-samsung-galaxy-a54-5g-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Samsung Galaxy A54 5G</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-in-2024-mastering-video-editing-on-mac-a-yosemite-guide/"><u>New In 2024, Mastering Video Editing on Mac A Yosemite Guide</u></a></li>
-<li><a href="https://win-forum.techidaily.com/seamless-conversion-techniques-from-csv-to-microsoft-excel-format/"><u>Seamless Conversion Techniques From CSV to Microsoft Excel Format</u></a></li>
-<li><a href="https://win-forum.techidaily.com/simplify-your-spreadsheet-skills-on-android-and-ios-with-this-excel-tables-walkthrough/"><u>Simplify Your Spreadsheet Skills on Android & iOS with This Excel Tables Walkthrough</u></a></li>
-<li><a href="https://win-forum.techidaily.com/speedy-methods-for-locating-menus-within-microsoft-office-productivity-tools/"><u>Speedy Methods for Locating Menus Within Microsoft Office Productivity Tools</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-guide-crafting-interactive-visualizations-with-excels-dropdown-selection-feature/"><u>Step-by-Step Guide: Crafting Interactive Visualizations with Excel's Dropdown Selection Feature</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-guide-creating-a-dropdown-menu-from-an-excel-cell/"><u>Step-by-Step Guide: Creating a Dropdown Menu From an Excel Cell</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-guide-creating-and-utilizing-data-tables-within-ms-excel-visuals/"><u>Step-by-Step Guide: Creating and Utilizing Data Tables Within MS Excel Visuals</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-guide-cutting-out-text-segments-using-microsoft-excel/"><u>Step-by-Step Guide: Cutting Out Text Segments Using Microsoft Excel</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-celebrated-selections-honorable-websites-for-securing-snapchat-alerts/"><u>[New] Celebrated Selections Honorable Websites for Securing Snapchat Alerts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-immaculatepixels-prograde-background-elimination/"><u>[New] ImmaculatePixels Prograde Background Elimination</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-comprehensive-manual-on-morphvox-sound-alteration/"><u>[Updated] Comprehensive Manual on MorphVOX Sound Alteration</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-keeping-consistent-pacing-in-obs-broadcasts/"><u>2024 Approved Keeping Consistent Pacing in OBS Broadcasts</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-streamlining-cd-manipulation-with-wmp/"><u>2024 Approved Streamlining Cd Manipulation with WMP</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mp4-mjpeg-movavi/"><u>線上免費 MP4 到 MJPEG 格式轉換 - 使用 Movavi 工具</u></a></li>
+<li><a href="https://program-issues.techidaily.com/addressing-the-launch-error-of-granblue-fantasys-link-replacement-feature/"><u>Addressing the Launch Error of Granblue Fantasy's Link Replacement Feature</u></a></li>
+<li><a href="https://win-forum.techidaily.com/are-there-laws-against-unauthorized-surveillance-and-eavesdropping-in-public-spaces/"><u>Are There Laws Against Unauthorized Surveillance and Eavesdropping in Public Spaces?</u></a></li>
+<li><a href="https://win-forum.techidaily.com/fichier-f4v-a-mp3-conversion-gratuite-et-facile-avec-movavi-en-ligne/"><u>Fichier F4V À MP3 : Conversion Gratuite Et Facile Avec Movavi en Ligne</u></a></li>
+<li><a href="https://win-forum.techidaily.com/gratuit-avi-vide-encontresen-vers-mpeg-format-virtueel-diensten-van-moveavew/"><u>Gratuit Avi-Vide Encontresen Vers MPEG-Format Virtuëel - Diensten Van Moveavew</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mp4-mka-movavi/"><u>MP4 표준으로 MKA 영상 변환하기 – 무가스 Movavi 도구를 사용한다</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/smooth-conversion-from-dall-es-innovative-webp-images-to-pngjpg/"><u>Smooth Conversion From DALL-E’s Innovative WebP Images to PNG/JPG</u></a></li>
+<li><a href="https://win-forum.techidaily.com/trasformare-webm-a-mkv-insieme-gratuitamente-convertitore-di-video-online-gratuito/"><u>Trasformare WEBM a MKV Insieme Gratuitamente - Convertitore Di Video Online Gratuito</u></a></li>
+<li><a href="https://win-forum.techidaily.com/3g2-movavi/"><u>대화제 속에서 3G2 비디오를 원형으로 자유성 받아쓰기 - Movavi</u></a></li>
 </ul></div>
 

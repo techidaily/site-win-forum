@@ -1,7 +1,7 @@
 ---
 title: "Week in Review: Upcoming Models From Google & Samsung"
-date: 2024-09-10T16:45:09.221Z
-updated: 2024-09-16T16:49:36.212Z
+date: 2024-09-14T16:19:49.094Z
+updated: 2024-09-21T16:25:18.911Z
 tags:
   - excel
 categories:
@@ -30,16 +30,10 @@ This was a surprisingly busy week for tech news, with announcements for Google a
 ![Saving a game recording in Steam.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/feature.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Valve
@@ -52,13 +46,6 @@ Valve
 
  Chrome on iPhone, iPad, and Android now has a few more features.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135473/26400" target="_top" id="2135473">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135473/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### [Your Smartphone Is Coming to Windows 11's Start Menu](https://android-unlock.techidaily.com/how-to-fix-oem-unlock-missing-on-vivo-y100i-by-drfone-android/) 
 
  Finally, a Start menu change that makes sense.
@@ -67,11 +54,31 @@ Valve
 
  The official ChatGPT desktop application doesn’t need a Plus subscription anymore, but the app is still limited to macOS.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### [Moto Tag Is an AirTag Clone for Android Users](https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-infinix-smart-8-hd-phone-by-drfone-android/) 
 
  It's the first UWB tracker to support Google Find My Device.
 
 ![The Moto Tag attached to a handbag.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/66.jpg) 
+
+<!-- affiliate ads begin -->
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Motorola
 
@@ -80,28 +87,15 @@ Motorola
  Google's next hardware event is nearing.
 
 <!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### [Paramount+ Is Raising Prices Again](https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-nokia-g22-drfone-by-drfone-virtual-android/) 
 
  The last Paramount+ price hike occurred in June of 2023, and now another one is happening.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  The Other Stuff
 
@@ -124,19 +118,20 @@ Motorola
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-unlocking-more-traffic-the-ultimate-list-of-keyword-tools/"><u>[New] Unlocking More Traffic The Ultimate List of Keyword Tools</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-fashioning-a-footprint-fonts-for-visual-stories-in-ae/"><u>[Updated] Fashioning a Footprint Fonts for Visual Stories in AE</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-elevate-your-social-media-presence-insta-videography/"><u>[Updated] In 2024, Elevate Your Social Media Presence Insta-Videography</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-realme-11-5g-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Realme 11 5G | Dr.fone</u></a></li>
-<li><a href="https://win-forum.techidaily.com/1722915159357-digital-connectivity-essentials-mastering-facebook-twitter-instagram-and-youtube/"><u>Digital Connectivity Essentials: Mastering Facebook, Twitter, Instagram, and YouTube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/engage-online-with-leading-sites-facebook-twitter-instagram-youtube/"><u>Engage Online with Leading Sites: Facebook, Twitter, Instagram, Youtube</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/eye-on-the-best-online-photo-printers-for-24/"><u>Eye on the Best Online Photo Printers for '24</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Samsung Galaxy S21 FE 5G (2023) | Dr.fone</u></a></li>
-<li><a href="https://win-forum.techidaily.com/revitalize-your-network-connection-a-comprehensive-tutorial-for-flushing-dns-on-windows-operating-systems/"><u>Revitalize Your Network Connection: A Comprehensive Tutorial for Flushing DNS on Windows Operating Systems</u></a></li>
-<li><a href="https://win-forum.techidaily.com/social-media-titans-unveiled-a-deep-dive-into-facebook-twitter-instagram-and-youtube-dynamics/"><u>Social Media Titans Unveiled: A Deep Dive Into Facebook, Twitter, Instagram & YouTube Dynamics</u></a></li>
-<li><a href="https://win-forum.techidaily.com/strategies-for-freeing-up-space-when-windows-10-reports-a-full-disk/"><u>Strategies for Freeing Up Space When Windows 10 Reports a Full Disk</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/top-6-ways-to-transfer-text-messages-from-samsung-galaxy-a15-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 6 Ways to Transfer Text Messages from Samsung Galaxy A15 5G to Other Android Devices | Dr.fone</u></a></li>
-<li><a href="https://win-forum.techidaily.com/top-platforms-in-social-networking-facebook-twitter-instagram-youtube/"><u>Top Platforms in Social Networking - Facebook, Twitter, Instagram, Youtube</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-soothing-the-digital-soul-the-leading-web-sites-for-inner-peace/"><u>Updated In 2024, Soothing the Digital Soul The Leading Web Sites for Inner Peace</u></a></li>
+<li><a href="https://win-forum.techidaily.com/movaviweb-cafaif/"><u>「Movaviで簡単！無料WEB CAF形式からAIFファイルへの変換ガイド」</u></a></li>
+<li><a href="https://win-forum.techidaily.com/pngmovavi/"><u>「オンラインPNG変換ツール：無料で迅速、Movaviが最適解」</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-vivo-x-fold-2-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Vivo X Fold 2</u></a></li>
+<li><a href="https://network-issues.techidaily.com/adjusting-screen-geometry-with-precision/"><u>Adjusting Screen Geometry with Precision</u></a></li>
+<li><a href="https://win-forum.techidaily.com/convert-your-videos-from-avi-to-mp3-for-free-on-the-web-quick-and-trustworthy-conversion-by-movavi/"><u>Convert Your Videos From AVI to MP3 for Free on the Web: Quick and Trustworthy Conversion by Movavi</u></a></li>
+<li><a href="https://win-forum.techidaily.com/free-conversion-of-m4v-videos-to-3gp-format-online-with-movavi/"><u>Free Conversion of M4V Videos to 3GP Format Online with Movavi</u></a></li>
+<li><a href="https://win-forum.techidaily.com/gratis-omzetten-van-m4a-naar-flv-online-simpelweg-en-efficient-met-movavi/"><u>Gratis Omzetten Van M4A Naar FLV Online - Simpelweg en Efficiënt Met Movavi</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/leading-edge-photography-the-best-4k-mirrorless-cameras/"><u>Leading Edge Photography The Best 4K Mirrorless Cameras</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-common-pin-hurdles-in-modern-windows-os-win10win11/"><u>Navigating Common PIN Hurdles in Modern Windows OS (Win10/Win11)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-setup-for-reliable-security-download-our-validity-fingerprint-sensor-drivers-today/"><u>Quick Setup for Reliable Security – Download Our Validity Fingerprint Sensor Drivers Today!</u></a></li>
+<li><a href="https://win-forum.techidaily.com/streamline-your-music-library-by-transforming-wave-audio-tracks-into-premium-flac-format-at-no-cost-tunemagic-solutions/"><u>Streamline Your Music Library by Transforming WAVE Audio Tracks Into Premium FLAC Format at No Cost - TuneMagic Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/taking-all-three-drugs-at-bedtime-would-not-minimize-interactions-but-could-lead-to-unnecessary-intake-of-diuril-and-potentially-exacerbate-its-side-effects101/"><u>Taking All Three Drugs at Bedtime Would Not Minimize Interactions but Could Lead to Unnecessary Intake of Diuril and Potentially Exacerbate Its Side Effects During Sleep.</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-soundtrack-of-your-phone-classic-tones-download-site-guide/"><u>The Soundtrack of Your Phone Classic Tones Download Site Guide</u></a></li>
+<li><a href="https://win-forum.techidaily.com/trasformare-i-file-dpx-in-formato-tiff-gratuitamente-online-con-movavi/"><u>Trasformare I File DPX in Formato TIFF Gratuitamente Online Con Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-full-command-power-in-minutes/"><u>Unlock Full Command Power in Minutes</u></a></li>
 </ul></div>
 

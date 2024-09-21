@@ -1,7 +1,7 @@
 ---
 title: "Secure Your Child's Digital Space: A Step-by-Step Tutorial for Enabling Parental Controls in Windows 11"
-date: 2024-09-09T16:29:15.758Z
-updated: 2024-09-16T16:00:01.452Z
+date: 2024-09-20T16:26:57.881Z
+updated: 2024-09-21T16:30:56.491Z
 tags:
   - windows
 categories:
@@ -58,6 +58,13 @@ thumbnail: https://thmb.techidaily.com/35506a9c5eeb39965a6739f4255f2a7fd3073f2c8
 
 ![Adding a new user account on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/adding-user-windows-11.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Then, follow the instructions to sign in to the child's Microsoft account.
 
  To complete the link, open the Family app while you're logged into your child's Windows account. To do that, press Win + S to open Windows Search. Enter **Family** in the Search box, and then click the Family app in the search results to launch it.
@@ -66,22 +73,29 @@ thumbnail: https://thmb.techidaily.com/35506a9c5eeb39965a6739f4255f2a7fd3073f2c8
 
  Now you're ready to start setting limits on the child's account.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Using the Microsoft Family App on Windows
 
  In your Windows account, open the Family app and select the child's account. From there, you can control their screen time, app usage, and the websites they visit.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  Limiting Screen Time
 
  First, scroll down to the "Devices" section and click the "Turn Limits On" button on the child's Windows device. This will be the one you linked the Microsoft account to.
 
 ![Turning on device limits in the Family app on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/turning-on-device-limits-windows-11-2.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You'll see a schedule appear after you turn on the limits, which allows you to set usage limits on any day of the week.
 
@@ -97,18 +111,18 @@ thumbnail: https://thmb.techidaily.com/35506a9c5eeb39965a6739f4255f2a7fd3073f2c8
 
  You can use the dropdown in this window to control days individually. Alternatively, you can set it to "Every Day" and adjust the screen times for all the days simultaneously. When finished, click "Done" to apply the limits to the child's Windows device.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  Limiting Apps and Games
 
  To limit your child's apps and games, click the "Apps and Games" tab and turn on the "Apps and Game Limits" toggle.
 
 ![Turning on limits for apps and games in the Family app on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/turn-on-app-game-limits-family-app-windows-2.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Then, click the three-dot icon next to the app or game and select "Set a Limit" or "Block App."
 
@@ -120,13 +134,6 @@ thumbnail: https://thmb.techidaily.com/35506a9c5eeb39965a6739f4255f2a7fd3073f2c8
 
  And when you're finished, click "Done" to apply the changes and limit the app.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  Blocking Websites
 
  When you block websites in the Family app, the only browser these restrictions apply to is Microsoft Edge. However, that is not a problem since enabling the limits blocks access to all other browsers. 
@@ -136,22 +143,15 @@ thumbnail: https://thmb.techidaily.com/35506a9c5eeb39965a6739f4255f2a7fd3073f2c8
 ![Turning on activity reporting for Microsoft Edge in the Family app on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/turn-on-activity-reporting.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Then, scroll down and turn on the "Filter Inappropriate Websites and Searches" toggle.
 
 ![Turning on the toggle to filter websites in the Family app on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/turn-on-edge-filter-settings-family-app-windows.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you want, you can also turn on the "Only Use Allowed Websites" toggle to limit the child to only those websites that you approve or educational sites.
 
@@ -192,19 +192,18 @@ thumbnail: https://thmb.techidaily.com/35506a9c5eeb39965a6739f4255f2a7fd3073f2c8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-curating-historical-wisdom-the-ultimate-student-friendly-channel-list-1-10/"><u>[New] In 2024, Curating Historical Wisdom The Ultimate Student-Friendly Channel List (#1-10)</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-infinix-smart-7-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Infinix Smart 7</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/digiarty-winxdvd/"><u>Digiarty 軟體：WinXDVD 用戶最終授權合同全解決方案</u></a></li>
-<li><a href="https://win-forum.techidaily.com/exciting-developments-await-as-windows-ns-widget-panel-gets-major-updates/"><u>Exciting Developments Await as Windows N's Widget Panel Gets Major Updates</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-iphone-8-without-passcode-now-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock iPhone 8 Without Passcode Now</u></a></li>
-<li><a href="https://win-forum.techidaily.com/goodnotes-on-windows-arrives-my-long-awaited-journey-to-an-enhanced-note-taking-adventure/"><u>GoodNotes on Windows Arrives - My Long-Awaited Journey to an Enhanced Note-Taking Adventure</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Infinix Smart 7 HD? | Dr.fone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-guide-to-top-8-linux-screenshot-solutions/"><u>In 2024, Guide to Top 8 Linux Screenshot Solutions</u></a></li>
-<li><a href="https://win-forum.techidaily.com/introducing-enhanced-windows-11-security-patch-kb5040442/"><u>Introducing Enhanced Windows 11 Security Patch KB5040442</u></a></li>
-<li><a href="https://win-forum.techidaily.com/nvidias-new-approach-organizing-a-chaotic-array-of-pc-software-solutions/"><u>NVIDIA's New Approach: Organizing a Chaotic Array of PC Software Solutions</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/pricing-guide-to-film-a-bands-music-visual/"><u>Pricing Guide to Film a Band's Music Visual</u></a></li>
-<li><a href="https://win-forum.techidaily.com/refreshed-windows-11-experience-with-advanced-ai-copilot-support-redesigned-photo-gallery-and-dynamic-widget-features/"><u>Refreshed Windows 11 Experience with Advanced AI Copilot Support, Redesigned Photo Gallery, and Dynamic Widget Features</u></a></li>
-<li><a href="https://win-forum.techidaily.com/revamped-microsoft-paint-advanced-editing-capabilities-unveiled/"><u>Revamped Microsoft Paint: Advanced Editing Capabilities Unveiled</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-techniques-for-inverting-videos-within-snapchat-app/"><u>Ultimate Techniques for Inverting Videos Within Snapchat App</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-step-by-step-tips-for-captivating-igtv-backgrounds/"><u>[Updated] In 2024, Step-By-Step Tips for Captivating IGTV Backgrounds</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-the-ultimate-guide-to-designing-captivating-podcast-logos/"><u>[Updated] In 2024, The Ultimate Guide to Designing Captivating Podcast Logos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlocking-visual-potential-perfect-aspect-ratios-revealed/"><u>[Updated] Unlocking Visual Potential Perfect Aspect Ratios Revealed</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-visionmeld-digital-artistry-at-your-fingertips-for-2024/"><u>[Updated] VisionMeld Digital Artistry at Your Fingertips for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-legal-pathways-for-flawless-free-imagery-purchases/"><u>2024 Approved Legal Pathways for Flawless Free Imagery Purchases</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/close-up-mastery-in-video-production-via-videoleap-for-2024/"><u>Close-Up Mastery in Video Production via Videoleap for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/free-online-mp4-to-mkv-converter-convert-videos-seamlessly-with-movavi/"><u>Free Online MP4 to MKV Converter - Convert Videos Seamlessly with Movavi</u></a></li>
+<li><a href="https://win-forum.techidaily.com/guia-para-convertir-archivos-flv-a-mp4-sin-comprometer-la-calidad-herramientas-online-seguras-por-movavi/"><u>Guía Para Convertir Archivos FLV a MP4 Sin Comprometer La Calidad: Herramientas Online Seguras Por Movavi</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-activation-lock-on-apple-iphone-se-or-ipad-by-drfone-ios/"><u>In 2024, How to Bypass Activation Lock on Apple iPhone SE or iPad?</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/leveraging-youtubes-cc-options-for-video-production/"><u>Leveraging YouTube's CC Options for Video Production</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mpeg-audio-layer-iiiac-3advanced-audio-codingaac/"><u>MPEG Audio Layer III（AC-3）とAdvanced Audio Coding（AAC）の比較分析</u></a></li>
+<li><a href="https://win-forum.techidaily.com/seamlessly-streaming-content-with-screen-sharing-features-on-discord-pc-and-smartphone-guide/"><u>Seamlessly Streaming Content with Screen Sharing Features on Discord - PC & Smartphone Guide</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-10-applications-libres-pour-enregistrer-en-vue-directe-leur-guide-complete/"><u>Top 10 Applications Libres Pour Enregistrer en Vue Directe : Leur Guide Complète</u></a></li>
 </ul></div>
 

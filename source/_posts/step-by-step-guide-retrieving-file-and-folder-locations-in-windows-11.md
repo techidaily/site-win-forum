@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Retrieving File & Folder Locations in Windows 11"
-date: 2024-09-14T16:40:21.645Z
-updated: 2024-09-16T16:38:09.432Z
+date: 2024-09-15T17:13:52.899Z
+updated: 2024-09-21T16:22:51.476Z
 tags:
   - windows
 categories:
@@ -57,10 +57,10 @@ Hannah Stryker / How-To Geek
  Windows has copied the selected file or folder’s path to your clipboard.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123471/16836" target="_top" id="2123471">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123471" border="0" alt="https://techidaily.com" width="234" height="60"/>
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123471/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  From a File Explorer Toolbar Option
@@ -73,19 +73,26 @@ Hannah Stryker / How-To Geek
 
 ![The three dots and 'Copy Path' highlighted for an item in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-copy-path-file-explorer-toolbar-option.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  And that’s it.
 
 <!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Copy the Path of an App
@@ -97,13 +104,6 @@ Hannah Stryker / How-To Geek
  If you launch your app via Windows Search and not from a desktop shortcut, it’s still possible to find your app’s full path. To do that, open the Start Menu and search for your app. Right-click the app and select "Open File Location."
 
 !['Open File Location' highlighted for an app in Windows Search.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-open-app-location-start-menu.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115917/19272" target="_top" id="2115917">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115917" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115917/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  On the open window, right-click the app again and select "Open File Location."
 
@@ -138,15 +138,15 @@ Hannah Stryker / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-top-virtual-realities-ios-and-androids-best-apps/"><u>[Updated] 2024 Approved Top Virtual Realities IOS & Android's Best Apps</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-seamlessly-record-your-screen-while-watching-netflix-for-2024/"><u>[Updated] Seamlessly Record Your Screen While Watching Netflix for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-streamlining-your-youtube-vids-for-igtv-adoption/"><u>[Updated] Streamlining Your YouTube Vids for IGTV Adoption</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-safe-secure-and-stress-free-exclusive-list-of-free-video-call-apps-for-iphoneandroid/"><u>In 2024, Safe, Secure & Stress-Free Exclusive List of Free Video Call Apps for iPhone/Android</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-samsung-galaxy-a14-4g-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Samsung Galaxy A14 4G for Streaming | Dr.fone</u></a></li>
-<li><a href="https://win-forum.techidaily.com/transferring-with-confidence-mastering-the-art-of-moving-files-with-windows-backup-onto-a-fresh-machine/"><u>Transferring with Confidence: Mastering the Art of Moving Files with Windows Backup Onto a Fresh Machine</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-overcoming-far-cry-6-pc-instability-problems/"><u>Troubleshooting Guide: Overcoming Far Cry 6 PC Instability Problems</u></a></li>
-<li><a href="https://win-forum.techidaily.com/unbeatable-deals-await-secure-acronis-true-image-now-and-enjoy-an-instant-20-discount/"><u>Unbeatable Deals Await: Secure Acronis True Image Now & Enjoy an Instant 20% Discount!</u></a></li>
-<li><a href="https://win-forum.techidaily.com/uncover-the-secrets-of-windows-11-explore-11-essential-yet-overlooked-features/"><u>Uncover the Secrets of Windows 11 - Explore 11 Essential Yet Overlooked Features!</u></a></li>
-<li><a href="https://win-forum.techidaily.com/understanding-microsofts-recall-capability-advanced-tech-beyond-artificial-intelligence-requirements/"><u>Understanding Microsoft's 'Recall' Capability – Advanced Tech Beyond Artificial Intelligence Requirements</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-how-to-record-gameplay-using-fbx-game-recorder/"><u>[Updated] How To Record Gameplay Using FBX Game Recorder</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-screenshot-and-recording-masterclass-ios-devices-2023/"><u>[Updated] In 2024, Screenshot & Recording Masterclass IOS Devices 2023</u></a></li>
+<li><a href="https://win-forum.techidaily.com/convertidor-online-sin-coste-cambia-de-formato-webm-a-flv-con-ease/"><u>Convertidor Online Sin Coste: Cambia De Formato WEBM a FLV Con Ease</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1725289643766-digiarty-dvd/"><u>Digiarty製品のデジタルコピーガイド: DVD処理法と最新ニュース</u></a></li>
+<li><a href="https://fox-links.techidaily.com/expert-tips-for-crafting-professional-slug-line-notations/"><u>Expert Tips for Crafting Professional Slug Line Notations</u></a></li>
+<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-asus-rog-phone-7-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Asus ROG Phone 7 Phone | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-copypaste-errors-on-windows-11-pcs/"><u>Resolving Copy/Paste Errors on Windows 11 PCs</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-8-libres-de-pago-playeres-dvd-compatibles-con-windows-10-y-mac-unete-al-mejor/"><u>Top 8 Libres De Pago Playeres DVD Compatibles Con Windows 10 Y Mac: ¡Únete Al Mejor!</u></a></li>
+<li><a href="https://win-forum.techidaily.com/transformation-facile-et-gratuite-fichiers-dng-en-png-avec-movavi-en-ligne/"><u>Transformation Facile Et Gratuite : Fichiers DNG en PNG Avec Movavi en Ligne</u></a></li>
+<li><a href="https://win-forum.techidaily.com/yuksekselam-radyonun-videoeditorplus-projesinde-guvenilir-aktivasyon-anahtari-getiriyor-elveris-olarak-sunulur-turkulerinizi-gozlemlenebileceginize-daha-etk28/"><u>Yüksekselâm Radyo'nun VideoEditorPlus Projesinde Güvenilir Aktivasyon Anahtarı Getiriyor - Elveriş Olarak Sunulur, Türkülerinizi Gözlemlenebileceğinize Daha Etkin Çalışmasına Yönelik</u></a></li>
 </ul></div>
 

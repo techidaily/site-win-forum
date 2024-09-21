@@ -1,7 +1,7 @@
 ---
 title: Grayscale Conversion, Black & White Effect, Monochrome, and Simple Editing Tools.
-date: 2024-09-09T16:05:24.195Z
-updated: 2024-09-16T16:40:29.117Z
+date: 2024-09-18T17:16:55.169Z
+updated: 2024-09-21T17:04:12.371Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/e108c80fe0ffda075f564c0d5802af9b2462fc3f4f8d59d2b3eaca6f2a980fa0.jpg
@@ -176,13 +176,6 @@ Cet article vous présente les réglages de performance pour les jeux que vous p
 
 Avant de commencer, il est toujours bon d'avoir un compteur de FPS dans le jeu, afin de pouvoir suivre vos progrès et tester les réglages qui fonctionnent. De nombreux jeux les ont préinstallés, mais si vous installez [MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards), vous ne serez jamais sans cet outil utile dans n'importe quel jeu.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 
 
 Comment rendre Windows 10 plus rapide pour les jeux (corrections rapides)
@@ -216,13 +209,6 @@ Voici quelques liens vers les mises à jour des pilotes des fabricants les plus 
 * [Pilotes AMD](https://www.amd.com/en/support)
 * [Pilotes NVIDIA](https://www.nvidia.com/Download/index.aspx)
 * [Pilotes Intel Graphics](https://www.intel.com/content/www/us/en/support/products/80939/graphics-drivers.html)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Installer DirectX 12
 
@@ -284,6 +270,13 @@ Si vous souhaitez conserver un minimum de graphismes pour que votre interface n'
 
 ![](https://cdn.staticont.net/default/0012/47/297019451ab2d6ffba248c33b083ec10c2390f59.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Le problème ici est le même qu'avec Windows Mises à jour. Steam met automatiquement à jour tous vos jeux, même ceux auxquels vous n'avez pas joué depuis longtemps. Les mises à jour en arrière-plan consomment la mémoire de votre PC et peuvent ralentir les processus de jeu.
 
 Pour empêcher Steam de mettre à jour les jeux pendant que vous jouez, allez dans votre client Steam et trouvez les options de mise à jour dans **Steam** \- **Paramètres** \- **Téléchargements**. Décochez la case **Autoriser les téléchargements pendant le jeu**.
@@ -344,6 +337,13 @@ Vous ne savez toujours pas comment rendre Windows 10 plus rapide pour les jeux ?
 
 ![](https://cdn.staticont.net/pages/0012/47/f8270db0638748de336b7f11de9f898510486d54.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Passer d'un disque dur à un disque SSD n'améliorera pas radicalement les performances de vos jeux, mais cela peut vous aider à réduire considérablement les temps de chargement. Il est vrai que les disques durs SSD peuvent être assez chers et il peut sembler que les temps de chargement ne sont pas une question si importante pour investir votre argent. Mais si ce n'est probablement pas la première chose à laquelle vous pensez lorsque vous accélérez votre ordinateur portable, ce n'est pas non plus la dernière. Les jeux d'aujourd'hui prennent de plus en plus d'espace disque, donc si vous voulez jouer aux derniers jeux, passer d'un disque dur à un disque SSD peut être un véritable gain de temps et vos temps de chargement de jeu peuvent passer de 30-40 secondes à 2-3, ce qui est assez significatif.
 
 Quant à l'aspect financier, si un gros SSD pour votre système d'exploitation et vos jeux est trop cher pour vous, prenez un petit SSD pour votre système d'exploitation et gardez un gros disque dur pour les jeux.
@@ -351,19 +351,6 @@ Quant à l'aspect financier, si un gros SSD pour votre système d'exploitation e
 ### Mettez à niveau votre GPU/CPU
 
 ![](https://cdn.staticont.net/default/0012/47/4d8d362406e5747022cddcbbe642fe7d57c6a558.webp)
-
-<!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Mettez à niveau votre GPU et votre CPU environ tous les quatre ans pour que tout fonctionne bien. Mais si vous êtes un joueur, vous devrez peut-être le faire plus tôt, car la technologie évolue beaucoup plus rapidement dans ce secteur.
 
@@ -422,13 +409,6 @@ C'est l'un des services faciles à désactiver sur Windows 10\. Ces programmes e
 * Définissez la **valeur** sur **0**.
 * Cliquez sur **OK**.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 
 
 Comment accélérer l'exécution des jeux sur un ordinateur portable Windows 10
@@ -457,6 +437,13 @@ Les ordinateurs portables sont réputés pour leur surchauffe, car tous les comp
 ### Mettez à niveau votre GPU et votre RAM
 
 Nous avons déjà abordé ce sujet pour les PC, mais votre ordinateur portable peut également être équipé d'un processeur graphique et d'une mémoire vive. Suivez les mêmes protocoles, et si vous n'avez pas l'habitude de travailler avec des ordinateurs portables, il est préférable de confier l'installation à un technicien expérimenté.
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 
 
@@ -502,6 +489,13 @@ L'article ci-dessus énumère une série de mesures que vous pouvez prendre pour
 * Mettez à niveau votre GPU et/ou votre CPU
 * Vérifiez les paramètres de performance de votre Windows.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Qu'est-ce qui ralentit mon ordinateur ?
 
 Il y a une longue liste de choses qui pourraient ralentir votre ordinateur. Voici une liste de raisons que vous pouvez vérifier :
@@ -511,13 +505,6 @@ Il y a une longue liste de choses qui pourraient ralentir votre ordinateur. Voic
 3. Les pilotes du GPU ne sont pas à jour
 4. Vous utilisez DirectX 11 et devez effectuer une mise à jour.
 5. Le système fonctionne avec des paramètres de performance inférieurs pour économiser la batterie.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115942/19272" target="_top" id="2115942">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115942" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115942/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Comment faire fonctionner un ordinateur plus rapidement ?
 
@@ -542,6 +529,13 @@ Atteindre 60 FPS dans un jeu n'est pas différent des conseils pour accélérer 
 3. Passez Windows 10 en "mode jeu".
 4. Vérifiez les paramètres graphiques de votre jeu.
 5. Installez les derniers pilotes pour votre carte graphique
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Pourquoi ai-je des fps faibles sur mon PC haut de gamme ?
 
@@ -586,14 +580,17 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-the-ultimate-mix-of-youtube-and-instagram-feeds/"><u>[New] The Ultimate Mix of YouTube & Instagram Feeds</u></a></li>
-<li><a href="https://win-forum.techidaily.com/year-say-goodbye-to-free-windows-10-updates-consider-these-replacement-operating-systems/"><u>[Year] - Say Goodbye to Free Windows 10 Updates; Consider These Replacement Operating Systems</u></a></li>
-<li><a href="https://win-forum.techidaily.com/effortless-currency-transformation-learn-how-to-use-microsoft-excel-for-effective-money-conversion/"><u>Effortless Currency Transformation: Learn How to Use Microsoft Excel for Effective Money Conversion</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/enhancing-presence-how-to-effortlessly-eliminate-borders-for-2024/"><u>Enhancing Presence How to Effortlessly Eliminate Borders for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-restore-your-mouse-cursor-on-windows-11-a-step-by-step-guide/"><u>How to Restore Your Mouse Cursor on Windows 11: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-forum.techidaily.com/mastering-ms-excel-a-comprehensive-guide-to-navigating-with-ease/"><u>Mastering MS Excel: A Comprehensive Guide to Navigating with Ease</u></a></li>
-<li><a href="https://win-forum.techidaily.com/mastering-number-multiplication-a-step-by-step-guide-using-microsoft-excel/"><u>Mastering Number Multiplication: A Step-by-Step Guide Using Microsoft Excel</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/streamlined-guide-transforming-wtv-streams-into-crystal-clear-mp3-audio/"><u>Streamlined Guide: Transforming WTV Streams Into Crystal Clear MP3 Audio</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Infinix Smart 7? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-filmoras-peers-the-best-slide-show-template-collections/"><u>[Updated] Filmora's Peers The Best Slide Show Template Collections</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-perfecting-the-green-screen-essential-techniques/"><u>2024 Approved Perfecting the Green Screen Essential Techniques</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-device-interactions-simple-adb-download/"><u>Enhance Device Interactions – Simple ADB Download</u></a></li>
+<li><a href="https://fox-info.techidaily.com/from-screen-shots-to-speech-navigating-the-best-37-applications-for-video-to-text-translation-for-2024/"><u>From Screen Shots to Speech Navigating the Best 37 Applications for Video-to-Text Translation for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-swiftly-convert-audio-turn-your-aacs-into-avis-without-cost-using-movavis-service/"><u>How To Swiftly Convert Audio: Turn Your AACs Into AVIs Without Cost Using Movavi's Service</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-glow-innovations-outshining-videos-through-design/"><u>In 2024, Glow Innovations Outshining Videos Through Design</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-solutions-resolving-problems-with-your-discord-voice-communication/"><u>Quick Solutions: Resolving Problems with Your Discord Voice Communication</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-basics-of-an-open-and-neutral-internet-explored/"><u>The Basics of an Open and Neutral Internet Explored</u></a></li>
+<li><a href="https://win-forum.techidaily.com/transforma-tu-musica-opus-directamente-en-m4a-sin-costo-alguno-rapido-y-sencillo-mediante-el-servicio-de-conversion-movavi/"><u>Transforma Tu Música Opus Directamente en M4A Sin Costo Alguno, Rápido Y Sencillo Mediante El Servicio De Conversión Movavi</u></a></li>
+<li><a href="https://win-forum.techidaily.com/transformez-facilement-votre-image-dng-au-format-tiff-sans-frais-via-le-site-web-de-movavi/"><u>Transformez Facilement Votre Image DNG Au Format TIFF Sans Frais via Le Site Web De Movavi</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/transforming-success-effortless-tactics-to-change-vlc-format-into-mp4/"><u>Transforming Success: Effortless Tactics to Change VLC Format Into MP4</u></a></li>
+<li><a href="https://win-forum.techidaily.com/zakonalicky-najlepsi-bezplateni-konvertory-pro-pravku-s-mkv-na-mp4-pro-zelenacky-windowsmac/"><u>Zákonaličky: Najlepší Bezplatení Konvertory Pro Právku S MKV Na MP4 Pro Zelenáčky (Windows/Mac)</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Efficiently Editing, Deleting & Creating Registry Keys: Masterclass Using Revo Uninstaller"
-date: 2024-09-13T16:04:08.506Z
-updated: 2024-09-16T16:29:40.223Z
+date: 2024-09-16T16:57:11.852Z
+updated: 2024-09-21T16:17:37.952Z
 tags:
   - win11
   - win10
@@ -48,13 +48,6 @@ To clear your Windows Explorer history do the following:
 3. Locate the**Privacy** section and click the “**Clear** ” button  
 ![Clear option](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-windows-explorer/Method1-step3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123467/16836" target="_top" id="2123467">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123467" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123467/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 2: Run System File Checker
 
  If your File Explorer keeps crashing there is a chance that a file is corrupted or missing. To check if this is the issue and repair the file you will have to perform a system check with the System File Checker tool. You will have to use the Windows PowerShell and to open it do the following:
@@ -64,15 +57,35 @@ To clear your Windows Explorer history do the following:
 2. When the PowerShell windows opens type`sfc /scannow` and press Enter  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120863/26400?prodsku=Mercury" target="_top" id="2120863">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120863/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![scannow command](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-windows-explorer/Method2-step2.png)
 
+<!-- affiliate ads begin -->
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  By performing this the SFC tool will scan your computer for file errors. If it detects errors Windows will repair and replace the files, which should fix your File Explorer crashing issues.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 3: Update your Windows OS
 
@@ -88,13 +101,6 @@ To check for new system updates:
 ![windows update](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-windows-explorer/Method3-step3.jpg)
 
  If there are any available updates Windows will download them. Restart your PC to install them.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 4: Disable 3rd-Party Explorer Extensions
 
@@ -140,19 +146,27 @@ You can perform a malware scan with Windows Security:
 2. Type`windowsdefender` and press**OK**  
 ![windowsdefender command](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-windows-explorer/Method6-step2.png)
 3. In the Windows Security windows press**Virus & threat protection** , and press **Scan options**  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **![virus and threat protection](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-windows-explorer/Method6-step3.png)**
 4. Select Microsoft Defender Offline scan and press**Scan Now**  
 
 ![scan now](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-windows-explorer/Method6-step4.png)
 
- After this Windows will reboot and begin the scan for malware on your PC. If malware is being detected Windows security will try to remove it or quarantine it. This should fix your stability issues and make your PC safe to use again.
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120867/26400?prodsku=mars" target="_top" id="2120867">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120867/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ After this Windows will reboot and begin the scan for malware on your PC. If malware is being detected Windows security will try to remove it or quarantine it. This should fix your stability issues and make your PC safe to use again.
 
 ### Method 7: Check Windows Error Logs
 
@@ -181,19 +195,6 @@ To do this follow the instructions below:
 
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## We can help you every time when…
 
 * you cannot find the program in the Apps & Features list
@@ -218,19 +219,20 @@ To do this follow the instructions below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-recovery.techidaily.com/elevate-your-home-cinema-experience-comprehensive-features-in-hitachis-4k-ultra-hd-televisions-with-roku-streamer-built-in/"><u>Elevate Your Home Cinema Experience: Comprehensive Features in Hitachi’s 4K Ultra HD Televisions with Roku Streamer Built In</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-ultimate-guide-to-pcs-and-macs-best-recorders/"><u>In 2024, Ultimate Guide to PC's and Mac's Best Recorders</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/make-your-videos-pop-with-music-top-mobile-editing-apps/"><u>Make Your Videos Pop with Music Top Mobile Editing Apps</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Motorola Edge 40 Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/srt-and-mp4-synergy-a-comprehensive-guide-edition/"><u>SRT & MP4 Synergy A Comprehensive Guide Edition</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-guide-creating-and-utilizing-data-tables-within-ms-excel-visuals/"><u>Step-by-Step Guide: Creating and Utilizing Data Tables Within MS Excel Visuals</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-guide-cutting-out-text-segments-using-microsoft-excel/"><u>Step-by-Step Guide: Cutting Out Text Segments Using Microsoft Excel</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-guide-extracting-book-summary-data-from-excel-spreadsheets/"><u>Step-by-Step Guide: Extracting Book Summary Data From Excel Spreadsheets</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-guide-extracting-your-subject-by-removing-the-background-with-microsoft-excel/"><u>Step-by-Step Guide: Extracting Your Subject by Removing the Background with Microsoft Excel</u></a></li>
-<li><a href="https://win-forum.techidaily.com/switching-on-dark-theme-a-step-by-step-guide-for-windows-11-users/"><u>Switching on Dark Theme: A Step-by-Step Guide for Windows 11 Users</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-complete-guide-to-setting-up-safe-mail-filters-on-gmail/"><u>The Complete Guide to Setting Up Safe Mail Filters on Gmail</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/the-great-debate-continues-is-bandicam-or-camtasia-better/"><u>The Great Debate Continues Is Bandicam or Camtasia Better?</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-ultimate-guide-to-utilizing-office-2016s-ink-function-for-math-equations/"><u>The Ultimate Guide to Utilizing Office 2016'S Ink Function for Math Equations.</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unlocking-tech-secrets-a-journey-through-toms-hardware-zone/"><u>Unlocking Tech Secrets: A Journey Through Tom's Hardware Zone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-packaging-growth-tactics/"><u>[New] Packaging Growth Tactics</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-optimizing-your-youtube-video-presentation/"><u>[Updated] Optimizing Your YouTube Video Presentation</u></a></li>
+<li><a href="https://win-forum.techidaily.com/1726226438360-dng-jpeg-movavi/"><u>無限制網路免費 DNG 到 JPEG 變更工具 - 利用 Movavi 進行高效轉換</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/a-comprehensive-guide-to-icloud-unlock-on-apple-iphone-se-online-by-drfone-ios/"><u>A Comprehensive Guide to iCloud Unlock On Apple iPhone SE Online</u></a></li>
+<li><a href="https://article-helps.techidaily.com/chortle-creators-undead-hilarity/"><u>Chortle Creators Undead Hilarity</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/full-guide-to-unlock-apple-iphone-12-mini-with-itunes-by-drfone-ios/"><u>Full Guide to Unlock Apple iPhone 12 mini with iTunes</u></a></li>
+<li><a href="https://win-forum.techidaily.com/gratuit-online-nsv-naar-mpeg-omzetten-expertise-van-movavi/"><u>Gratuit Online NSV Naar MPEG Omzetten - Expertise Van Movavi</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-googles-ar-sticker-innovation-an-inside-look-and-alternatives/"><u>In 2024, Google's AR Sticker Innovation An Inside Look & Alternatives</u></a></li>
+<li><a href="https://win-forum.techidaily.com/movavis-free-web-service-effortless-gsm-to-mp4-file-transformation-online/"><u>Movavi's Free Web Service: Effortless GSM to MP4 File Transformation Online</u></a></li>
+<li><a href="https://win-forum.techidaily.com/nederlaagloosse-omzetting-van-opus-tekst-in-mp3-formaat-via-internet-movavi-als-stroomlijn/"><u>Nederlaagloosse Omzetting Van OPUS-Tekst in MP3 Formaat Via Internet - Movavi Als Stroomlijn</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/perfecting-professional-productions-using-vimeos-tools/"><u>Perfecting Professional Productions Using Vimeo's Tools</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Honor 90 Pro | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-invisible-wall-reasons-for-fb-disabling/"><u>The Invisible Wall: Reasons for FB Disabling</u></a></li>
+<li><a href="https://win-forum.techidaily.com/transformacion-gratuita-de-videos-mpeg-a-mp4-en-la-web-mediante-el-servicio-de-conversion-de-movavi/"><u>Transformación Gratuita De Vídeos Mpeg a MP4 en La Web Mediante El Servicio De Conversión De Movavi</u></a></li>
+<li><a href="https://win-forum.techidaily.com/trier-gratuitement-un-fichier-jp2-vers-png-avec-movavi-guerites-rapides/"><u>Trier Gratuitement Un Fichier JP2 Vers PNG Avec Movavi : Guérites Rapides</u></a></li>
 </ul></div>
 

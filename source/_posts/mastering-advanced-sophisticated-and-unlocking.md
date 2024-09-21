@@ -1,7 +1,7 @@
 ---
 title: Mastering, Advanced, Sophisticated, and Unlocking.
-date: 2024-09-09T16:53:50.399Z
-updated: 2024-09-16T16:30:56.871Z
+date: 2024-09-16T16:28:00.176Z
+updated: 2024-09-21T17:34:37.435Z
 tags:
   - excel
 categories:
@@ -47,13 +47,6 @@ Related: [How to Insert Multiple Rows in Microsoft Excel](https://some-tips.tech
 
  You can [name your criteria range](https://fox-blue.techidaily.com/2024-approved-mastering-chroma-key-techniques-in-live-broadcasts/) to automatically pop it into the filter if you like.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Entering Criteria for an Advanced Filter in Excel
 
  To enter criteria for your advanced Excel filter into a cell, you'll use the format 
@@ -91,6 +84,13 @@ Related: [How to Insert Multiple Rows in Microsoft Excel](https://some-tips.tech
 
 ![Advanced filter on the Data tab](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/DataAdvanced-ExcelAdvancedFilter.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In the pop-up box, start by choosing where you want the filtered data to appear. You can filter it in place or in another location. If you choose the latter, enter the location in the Copy To box.
 
 ![Copy To field for filtering in another location](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/CopyTo-ExcelAdvancedFilter.png) 
@@ -99,16 +99,16 @@ Related: [How to Insert Multiple Rows in Microsoft Excel](https://some-tips.tech
 
 ![List Range for a filter](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/ListRange-ExcelAdvancedFilter.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Then, enter the cell range into the Criteria Range box. You can do this easily by clicking inside the box and then using your cursor to [drag through the range](https://buynow-tips.techidaily.com/exploring-a-ravaged-world-on-motorcycle-in-days-gone-our-comprehhavis-review/) in your sheet. Be sure to include the column label cells and only additional rows with cells that contain criteria. If you include [empty rows](https://facebook-video-recording.techidaily.com/how-to-maximize-revenue-the-secret-of-fb-animation-campaigns/), it's highly likely that your filter results will be incorrect.
 
 ![Criteria range for an advanced filter](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/CriteriaRange-ExcelAdvancedFilter.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Optionally check the box [if you want unique records](https://youtube-help.techidaily.com/in-2024-unleash-potential-with-optimal-hashtags-for-gaming-vids/) only. Click "OK" when you finish.
 
@@ -117,6 +117,13 @@ Related: [How to Insert Multiple Rows in Microsoft Excel](https://some-tips.tech
 ![Single condition filtered](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/SingleFiltered-ExcelAdvancedFilter.png) 
 
 Related: [How to Count Unique Values in Microsoft Excel](https://youtube-help.techidaily.com/in-2024-unleash-potential-with-optimal-hashtags-for-gaming-vids/) 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How to Use a Multiple Criteria, Single Column Excel Filter
 
@@ -142,13 +149,6 @@ Related: [How to Count Unique Values in Microsoft Excel](https://youtube-help.te
 
 ![Multiple condition for one column filtered](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/MultipleCriteriaSingleColumnFiltered-ExcelAdvancedFilter.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  How to Use a Multiple Criteria, Multiple Column Excel Filter
 
  Next, we'll look at using multiple conditions in an advanced Excel filter. This can be [AND or OR](https://extra-skills.techidaily.com/in-2024-spark-engagement-the-ultimate-list-of-video-text-effects/) criteria. For example, you can filter for Location ID equals 1A _and_ Lead equals Jones where all conditions are true. Or you can filter for Location ID equals 1B _or_ Lead equals Jones where any conditions are true.
@@ -172,16 +172,16 @@ Related: [How to Use Logical Functions in Excel: IF, AND, OR, XOR, NOT](https://
 ![AND conditions in the criteria range](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/MultipleCriteriaColumnAND-ExcelAdvancedFilter.png) 
 
 <!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  And just like before, select a cell in the data set, go to the Data tab, and pick "Advanced" to open the tool.
@@ -195,6 +195,19 @@ Related: [How to Use Logical Functions in Excel: IF, AND, OR, XOR, NOT](https://
  We then have our one result. Remember that placing the criteria in the same row indicates the AND operator. So, even though we have Jones as a Lead for two locations, we filtered for only location 1A with Jones.
 
 ![AND conditions filtered](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/MultipleCriteriaColumnANDFiltered-ExcelAdvancedFilter.png) 
+
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Related: [How to See All of the Named Cell Ranges in an Excel Workbook](https://some-skills.techidaily.com/new-the-impact-of-testimonial-videos-today/) 
 
@@ -244,19 +257,6 @@ Related: [How to See All of the Named Cell Ranges in an Excel Workbook](https://
 
 ![AND with OR conditions in the criteria range](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/MultipleCriteriaColumnANDOR-ExcelAdvancedFilter.png) 
 
-<!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Open the Advanced filter tool, double-check or adjust the fields as needed, and click "OK."
 
 ![Criteria range for an advanced filter](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/CriteriaRange-ExcelAdvancedFilter.png) 
@@ -284,20 +284,16 @@ Related: [How to Apply a Filter to a Chart in Microsoft Excel](https://blog-min.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-discover-the-premier-5-ios-podcast-clients/"><u>[New] 2024 Approved Discover the Premier 5 iOS Podcast Clients</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-fuel-the-fire-top-videos-that-inspire-audiences-for-2024/"><u>[Updated] Fuel the Fire Top Videos That Inspire Audiences for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-uncovering-the-method-of-anti-play-video-snapchat/"><u>2024 Approved Uncovering the Method of Anti-Play Video Snapchat</u></a></li>
-<li><a href="https://win-forum.techidaily.com/expert-advice-how-to-erase-tracker-footprints-on-your-windows-and-android-devices/"><u>Expert Advice: How to Erase Tracker Footprints on Your Windows and Android Devices</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-gt-3-phone-without-google-account-by-drfone-android/"><u>How to Unlock Realme GT 3 Phone without Google Account?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-realme-gt-5-pro-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Realme GT 5 Pro to Latest Samsung | Dr.fone</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-laugh-outloud-a-curation-of-the-funniest-tiktok-videos-and-joke-threads/"><u>In 2024, Laugh Outloud A Curation of the Funniest TikTok Videos and Joke Threads</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/innovative-gaming-experience-with-dells-alienware-aurora-r9-expert-review/"><u>Innovative Gaming Experience with Dell's Alienware Aurora R9 - Expert Review</u></a></li>
-<li><a href="https://win-forum.techidaily.com/mastering-disk-maintenance-the-ultimate-guide-to-defragging-on-windows-11-with-revo-uninstaller/"><u>Mastering Disk Maintenance: The Ultimate Guide to Defragging on Windows 11 with Revo Uninstaller</u></a></li>
-<li><a href="https://win-forum.techidaily.com/mastering-system-diagnostics-a-users-manual-for-windows-11-bios-tools/"><u>Mastering System Diagnostics: A User's Manual for Windows 11 BIOS Tools</u></a></li>
-<li><a href="https://win-forum.techidaily.com/mastering-the-fresh-start-steps-to-full-factory-reset-on-your-windows-11-pc/"><u>Mastering the Fresh Start: Steps to Full Factory Reset on Your Windows 11 PC</u></a></li>
-<li><a href="https://win-forum.techidaily.com/navigating-through-and-resolving-class-not-found-hiccups-on-windows/"><u>Navigating Through and Resolving 'Class Not Found' Hiccups on Windows</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/perfect-your-content-with-vimeo-on-instagram-for-2024/"><u>Perfect Your Content with Vimeo on Instagram for 2024</u></a></li>
-<li><a href="https://win-forum.techidaily.com/race-away-from-restarts-7-surefire-fixes-for-forza-horizon-5-freeze/"><u>Race Away From Restarts: 7 Surefire Fixes for Forza Horizon 5 Freeze</u></a></li>
-<li><a href="https://win-forum.techidaily.com/why-doesnt-my-file-explorer-work-discover-the-best-troubleshooting-techniques/"><u>Why Doesn't My File Explorer Work? Discover the Best Troubleshooting Techniques</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-iphones-pathway-through-virtual-video-landscapes/"><u>[Updated] In 2024, IPhone's Pathway Through Virtual Video Landscapes</u></a></li>
+<li><a href="https://win-forum.techidaily.com/conversion-gratuite-de-fichier-snd-en-format-wav-sur-la-toile-tapez-avec-movavi/"><u>Conversion Gratuite De Fichier SND en Format WAV Sur La Toile - Tapez Avec Movavi</u></a></li>
+<li><a href="https://win-forum.techidaily.com/epiteszetileg-hasznalatos-targyatokon-gyujtasasztechnika-diskordin-pc-es-mobil-rendszerbe/"><u>Építészetileg Használatos Tárgyatokon Gyújtásásztechnika - Diskordin PC És Mobil Rendszerbe</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-lag-and-stuttering-issues-on-call-of-duty-black-ops-cold-war-a-guide/"><u>Fixing Lag and Stuttering Issues on Call of Duty: Black Ops Cold War - A Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/gratis-swf-inpuntdateien-in-avi-uploaden-heftig-optimierter-movevi-video-konverter-online/"><u>Gratis SWF-Inpuntdateien in AVI Uploaden - Heftig Optimierter MoveVi Video Konverter Online</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-after-format-on-samsung-galaxy-s24-ultra-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery after format on Samsung Galaxy S24 Ultra</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mp4-naar-aac-converteren-zonder-ongedaan-houden-voorlopiger-online-service/"><u>MP4 Naar AAC Converteren Zonder Ongedaan Houden - Voorlopiger Online Service</u></a></li>
+<li><a href="https://review-topics.techidaily.com/quickly-repair-damaged-pdf-v11-files-stellar-by-stellar-guide/"><u>Quickly Repair Damaged PDF v1.1 Files | Stellar</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/shot-selection-mastery-making-every-frame-count-on-youtube/"><u>Shot Selection Mastery Making Every Frame Count on YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/transformacion-gratuita-de-archivos-opus-a-formato-mp3-desde-la-comodidad-del-hogar-usando-movavi/"><u>Transformación Gratuita De Archivos OPUS a Formato MP3 Desde La Comodidad Del Hogar Usando Movavi</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/understanding-the-fundamental-contrasts-in-video-streaming/"><u>Understanding the Fundamental Contrasts in Video Streaming</u></a></li>
 </ul></div>
 

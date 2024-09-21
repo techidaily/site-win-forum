@@ -1,7 +1,7 @@
 ---
 title: Top 12 Upgrades and Enhancements Desired in the Next Version of Windows
-date: 2024-09-11T16:15:21.780Z
-updated: 2024-09-16T16:38:26.184Z
+date: 2024-09-16T16:58:52.205Z
+updated: 2024-09-21T17:00:31.782Z
 tags:
   - windows
 categories:
@@ -44,13 +44,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The Microsoft Phone Link app with a Pixel device.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2024-05-06_02h14_14.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Universal Noise Cancellation Built-in
 
  Many applications now have noise cancelation built in, but the quality is widely variable. [Discord, which uses Krisp](https://ai-editing-video.techidaily.com/new-2024-approved-creative-ways-to-add-green-screen-effects-in-photoshop/), has excellent noise cancelation. NVIDIA also offers [NVIDIA Broadcast](https://extra-skills.techidaily.com/in-2024-orchestrating-the-scene-adding-cropping-and-adjusting-music-in-canva/), which includes a noise cancellation feature. NVIDIA Broadcast allows users with an NVIDIA GPU to filter out echoes or troublesome background noise. It works really well, but it requires [an RTX GPU](https://remote-screen-capture.techidaily.com/2024-approved-mastering-mayhem-and-mystery-the-essential-gaming-list-top-10/) to run.
@@ -62,6 +55,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![A microphone on a table.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/52730616053_b68b4eca6b_o.png) 
 
 Andrew Heinzman / How-To Geek
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Live and Dynamic Backgrounds
 
@@ -79,16 +79,16 @@ Andrew Heinzman / How-To Geek
 
 ![The widgets on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2024-05-06_02h16_21.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123482/16836" target="_top" id="2123482">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123482/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  It would be nice to see Windows 12 offer more granular control over what is displayed in the Widgets menu, how the widgets themselves are displayed, and where you can place them.
 
  Personally, I’d love a little weather widget in the upper right corner of my right monitor.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Control Over the Right-Click Menu
 
@@ -97,6 +97,13 @@ Andrew Heinzman / How-To Geek
  Windows 12 should include tools to customize how menu items are displayed, like the ability to [switch between the legacy menu and the icons introduced in Windows 11](https://fox-boxes.techidaily.com/new-game-on-essential-samsung-gear-vr-experiences-for-2024/), and how big those menu items are. At a minimum, it should definitely include tools to [clean up extra menu items](https://extra-guidance.techidaily.com/new-master-iphone-filmmaking-for-full-sphere-effects/) that get added by apps you install without digging through the registry or using a third-party tool.
 
  We’ve been living with cluttered right-click menus for decades. A native tool would be a small but fantastic addition to Windows 12.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  A Favorites List on the Emoji Picker
 
@@ -107,22 +114,15 @@ Andrew Heinzman / How-To Geek
 ![The Emoji picker on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2024-05-06_02h15_16.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  It would be great to have the option to build a favorites tab that opens by default. It would be even better if the favorites tab let you assign a key to each favorited item for faster access, much like [how the Power User Menu works](https://pokemon-go-android.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/).
 
  The ability to press Win+. and then just tap a single key to enter an emdash? Yes, please.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Better Control Over the Start Menu
 
@@ -155,20 +155,14 @@ Andrew Heinzman / How-To Geek
 
 ![The Run feature from Windows PowerToys.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2024-05-06_02h17_07.png) 
 
-<!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  We’d love to see something that combines the best of Windows Search (live results, like weather) with PowerToys' Run integrated into Windows 12.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Helpful Local AI Tools
 
@@ -195,16 +189,12 @@ Andrew Heinzman / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/updated-benqs-visionary-approach-to-4k-monitors-unraveled-by-the-bl2711u-review/"><u>[Updated] BenQ's Visionary Approach to 4K Monitors, Unraveled by the BL2711U Review</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-camera-restored-obs-problem-fixed-for-2024/"><u>[Updated] Camera Restored - OBS Problem Fixed for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-facilitating-instant-sharing-tiktok-videos-on-facebook/"><u>[Updated] Facilitating Instant Sharing TikTok Videos on Facebook</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-nokia-c110-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Nokia C110 without App | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-tecno-spark-10-5g-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Tecno Spark 10 5G Screen to PC Using WiFi | Dr.fone</u></a></li>
-<li><a href="https://solve-popular.techidaily.com/optimize-with-cookiebot-advanced-tools-for-superior-web-engagement-and-personalization/"><u>Optimize With Cookiebot: Advanced Tools for Superior Web Engagement and Personalization</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-the-could-not-install-windows-cuhild-with-error-code-80240020/"><u>Resolving the 'Could Not Install Windows Cuhild' With Error Code 80240020</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-value-apple-watch-se-assessment-smartwatch-savings-without-compromise/"><u>The Value Apple Watch SE Assessment: Smartwatch Savings Without Compromise</u></a></li>
-<li><a href="https://win-forum.techidaily.com/upcoming-windows-11-v24h2-removes-support-for-vbscript-technology/"><u>Upcoming Windows 11 V.24H2 Removes Support for VBScript Technology</u></a></li>
-<li><a href="https://win-forum.techidaily.com/web-panels-get-a-boost-with-vivaldi-66-now-including-support-for-chrome-extensions/"><u>Web Panels Get a Boost with Vivaldi 6.6: Now Including Support for Chrome Extensions</u></a></li>
-<li><a href="https://win-forum.techidaily.com/why-the-modest-microsoft-wordpad-reigns-as-my-favorite-windows-program/"><u>Why the Modest Microsoft WordPad Reigns as My Favorite Windows Program</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/beginners-guide-to-the-top-10-filmmaking-cameras/"><u>Beginner's Guide to the Top 10 Filmmaking Cameras</u></a></li>
+<li><a href="https://win-forum.techidaily.com/convertissez-facilement-votre-image-tga-au-format-gif-en-ligne-gratuit-a-laide-de-la-solution-movavi/"><u>Convertissez Facilement Votre Image TGA Au Format GIF en Ligne Gratuit À L'aide De La Solution Movavi</u></a></li>
+<li><a href="https://win-forum.techidaily.com/download-our-best-mkvm4a-converter-tool-for-free-and-simplify-your-file-transformations-now/"><u>Download Our Best MKV/M4A Converter Tool for Free and Simplify Your File Transformations Now!</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-assembling-an-elite-home-studio-pc-for-cutting-edge-edits/"><u>In 2024, Assembling an Elite Home Studio PC for Cutting-Edge Edits</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/masterclass-in-connecting-ig-and-tiktok-for-2024/"><u>Masterclass in Connecting IG & TikTok for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/movil-y-gratuitos-cambia-tu-video-desde-wav-a-mkv-usando-el-servicio-de-movavi/"><u>Móvil Y Gratuitos, Cambia Tu Vídeo Desde WAV a MKV Usando El Servicio De Movavi</u></a></li>
+<li><a href="https://howto.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-samsung-galaxy-s23plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Samsung Galaxy S23+ | Dr.fone</u></a></li>
 </ul></div>
 

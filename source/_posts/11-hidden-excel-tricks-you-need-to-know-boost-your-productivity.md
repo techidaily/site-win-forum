@@ -1,7 +1,7 @@
 ---
 title: "11 Hidden Excel Tricks You Need to Know: Boost Your Productivity"
-date: 2024-09-15T16:57:49.826Z
-updated: 2024-09-16T16:23:38.460Z
+date: 2024-09-15T17:25:47.740Z
+updated: 2024-09-21T16:42:57.425Z
 tags:
   - excel
 categories:
@@ -91,6 +91,13 @@ Related: [How to Convert Almost Any Unit in Microsoft Excel](https://discord-vid
 
 ![CONVERT function for centimeters to inches](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/ConvertLength-ExcelFunctionsLittleKnown.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  DELTA for Testing Equal or Not Equal Values
 
  Another engineering function that's useful is DELTA. With it, you'll use the [Kronecker delta](https://mathworld.wolfram.com/KroneckerDelta.html) function to test whether two values are equal. Different than the [EXACT function](https://support.microsoft.com/en-us/office/exact-function-d3087698-fc15-4a15-9631-12575cf29926), the result is either 1 (true) or 0 (false).
@@ -103,31 +110,11 @@ Related: [How to Convert Almost Any Unit in Microsoft Excel](https://discord-vid
 
 ![DELTA function using cell references](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/DeltaCells-ExcelFunctionsLittleKnown.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To test the values 2 and -2, use this formula:
 
 =DELTA(2,-2)
 
 ![DELTA function using numbers](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/DeltaNumber-ExcelFunctionsLittleKnown.png) 
-
-<!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  GESTEP for Testing Greater Than or Equal To a Threshold
 
@@ -167,6 +154,13 @@ Related: [How to Cross Reference Cells Between Microsoft Excel Spreadsheets](htt
 
 ![ADDRESS function in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/AddressFunction-ExcelFunctionsLittleKnown.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To find the address of the same cell using an absolute row and relative column, you'd use this formula:
 
 =ADDRESS(2,3,2)
@@ -179,13 +173,6 @@ Related: [How to Cross Reference Cells Between Microsoft Excel Spreadsheets](htt
 
 ![ADDRESS function with a sheet name in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/AddressSheet-ExcelFunctionsLittleKnown.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  PI for the Value of Pi
 
  If you need to use the value of pi for equations in your sheet, you can obtain it with the PI function.
@@ -197,13 +184,6 @@ Related: [How to Cross Reference Cells Between Microsoft Excel Spreadsheets](htt
 =PI()
 
 ![PI function in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/Pi-ExcelFunctionsLittleKnown.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To multiply the value of pi by 10, you'd use this formula:
 
@@ -225,6 +205,13 @@ Related: [How to Cross Reference Cells Between Microsoft Excel Spreadsheets](htt
 
 ![ARABIC function in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/Arabic-ExcelFunctionsLittleKnown.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To convert 2,999 to a Roman numeral, you'd use this formula:
 
 =ROMAN(2999)
@@ -238,6 +225,19 @@ Related: [How to Cross Reference Cells Between Microsoft Excel Spreadsheets](htt
 =ROMAN(2999,FALSE)
 
 ![ROMAN function with an argument](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/RomanArgument-ExcelFunctionsLittleKnown.png) 
+
+<!-- affiliate ads begin -->
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  REPT for Entering Repeating Text
 
@@ -254,10 +254,10 @@ Related: [How to Add Text to a Cell With a Formula in Excel](https://buynow-revi
 ![REPT function for the word Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/ReptExcel-ExcelFunctionsLittleKnown.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To repeat an asterisk 20 times, you'd use this formula:
@@ -289,15 +289,18 @@ Related: [How to Add Text to a Cell With a Formula in Excel](https://buynow-revi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-recordcast-review-for-2024/"><u>[New] RecordCast Review for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fix-broken-keyboard-on-your-hp-laptop-fast-and-simple/"><u>Fix Broken Keyboard on Your HP Laptop Fast and Simple</u></a></li>
-<li><a href="https://techtrends.techidaily.com/government-risk-management-in-tech-relations-insights-from-microsoft-outage-incidents/"><u>Government Risk Management in Tech Relations: Insights From Microsoft Outage Incidents</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Oppo Find N3 Flip? | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-a-step-by-step-guide-to-finding-your-apple-id-on-your-apple-iphone-14-pro-by-drfone-ios/"><u>In 2024, A Step-by-Step Guide to Finding Your Apple ID On Your Apple iPhone 14 Pro</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-track-apple-iphone-xs-max-location-without-installing-software-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Track Apple iPhone XS Max Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-motorola-moto-g73-5g-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Motorola Moto G73 5G | Dr.fone</u></a></li>
-<li><a href="https://win-forum.techidaily.com/mastering-window-security-a-guide-to-5-key-precautions-for-your-computer/"><u>Mastering Window Security: A Guide to 5 Key Precautions for Your Computer</u></a></li>
-<li><a href="https://win-forum.techidaily.com/social-networking-unveiled-mastering-facebook-twitter-instagram-and-youtube-usage/"><u>Social Networking Unveiled: Mastering Facebook, Twitter, Instagram & Youtube Usage</u></a></li>
-<li><a href="https://win-forum.techidaily.com/waking-up-pcs-from-afar-learn-to-enable-wake-n-shine-in-windows-10-and-11/"><u>Waking Up PCs From Afar? Learn to Enable Wake-N-Shine in Windows 10 & 11</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-from-sideways-to-symmetry-the-instagram-chronicles-of-flipping-photos/"><u>[Updated] In 2024, From Sideways to Symmetry The Instagram Chronicles of Flipping Photos</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-firefox-recording-tools-and-extensions/"><u>2024 Approved Firefox Recording Tools & Extensions</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-multimedia-fabrication-zone/"><u>2024 Approved Multimedia Fabrication Zone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-streamline-your-youtube-shorts-a-guide-to-effortless-thumbnail-integration/"><u>2024 Approved Streamline Your YouTube Shorts A Guide to Effortless Thumbnail Integration</u></a></li>
+<li><a href="https://win-forum.techidaily.com/202n-az-ingyenes-videoszerkeszto-valasztas-a-legjobb-window-7-softverek/"><u>202N Az Ingyenes Videószerkesztő Választás - A Legjobb Window 7 Softverek</u></a></li>
+<li><a href="https://win-forum.techidaily.com/conversion-sans-frais-convertissez-fichiers-aac-en-mp4-sur-demande-avec-movavi/"><u>Conversion Sans Frais: Convertissez Fichiers AAC en MP4 Sur Demande Avec Movavi</u></a></li>
+<li><a href="https://win-forum.techidaily.com/guide-ultime-reduire-et-agrandir-des-images-et-collections-de-photos-sans-probleme/"><u>Guide Ultime : Réduire Et Agrandir Des Images Et Collections De Photos Sans Problème</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-erase-an-apple-iphone-12-mini-without-apple-id-by-drfone-ios/"><u>How to Erase an Apple iPhone 12 mini without Apple ID?</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-15-pro-to-others-android-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 15 Pro To Others Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-samsung-galaxy-a14-4g-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Samsung Galaxy A14 4G</u></a></li>
+<li><a href="https://win-forum.techidaily.com/online-gif-to-bmp-conversion-tool-enhance-images-at-no-cost-with-easyconv/"><u>Online Gif-to-Bmp Conversion Tool - Enhance Images at No Cost with EasyConv!</u></a></li>
+<li><a href="https://win-forum.techidaily.com/transformer-un-fichier-3gp-au-format-mp4-gratuitement-sur-internet-le-guide-complet-de-movie-edit/"><u>Transformer Un Fichier 3GP Au Format MP4 Gratuitement Sur Internet - Le Guide Complet De Movie Edit</u></a></li>
+<li><a href="https://win-forum.techidaily.com/ultimate-how-to-for-obs-screen-recorders-a-step-by-step-movavi-guide-to-flawless-screenshots-and-streams/"><u>Ultimate How-To for OBS Screen Recorders: A Step-by-Step Movavi Guide to Flawless Screenshots and Streams</u></a></li>
 </ul></div>
 

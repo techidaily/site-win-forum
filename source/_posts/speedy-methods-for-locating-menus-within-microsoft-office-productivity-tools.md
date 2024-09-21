@@ -1,7 +1,7 @@
 ---
 title: Speedy Methods for Locating Menus Within Microsoft Office Productivity Tools
-date: 2024-09-09T16:33:32.317Z
-updated: 2024-09-16T16:45:00.187Z
+date: 2024-09-17T16:17:59.884Z
+updated: 2024-09-21T17:11:21.689Z
 tags:
   - excel
 categories:
@@ -44,6 +44,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
 
  Then, select the correct action from the list. Now you're in business.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Example Uses
 
  If you work in [Word, Excel, and PowerPoint](https://fox-boxes.techidaily.com/simplified-steps-for-photo-motion-blur-in-photoshop/) often, you probably use the same actions and commands regularly. But there's likely a time or two when you need something and aren't sure where to find it. Or, an action may require many steps. These are the perfect times to take advantage of the Search feature in the shortcut menu.
@@ -57,10 +64,10 @@ Related: [How to Insert a Picture or Other Object in Microsoft Office](https://f
 ![Search for a rectangle in Word](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/WordSearchRectangle2-MSOfficeSearchMenus.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  Example Search in Excel
@@ -70,16 +77,10 @@ Related: [How to Insert a Picture or Other Object in Microsoft Office](https://f
 ![Search for Group in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/ExcelSearchGroup-MSOfficeSearchMenus-1.png) 
 
 <!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  Example Search in PowerPoint
@@ -91,13 +92,6 @@ Related: [How to Crop a Picture in Microsoft PowerPoint](https://youtube-video-r
  You can enter search words like "[crop](https://youtube-video-recordings.techidaily.com/updated-dissecting-ajey-nagars-2023-youtube-economic-landscape/)," "[transparency](https://fox-helps.techidaily.com/updated-top-10-iphone-virtual-reality-games-to-beat-your-high-scores-for-2024/)," or "shadow" and view those options right from the shortcut menu to save some time.
 
 ![Search for Transparency in PowerPoint](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/PowerPointSearchTransparency-MSOfficeSearchMenus-1.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  While these three examples are simple, this feature has virtually limitless uses. Try it for yourself!
 
@@ -118,12 +112,18 @@ Related: [How to Crop a Picture in Microsoft PowerPoint](https://youtube-video-r
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-forum.techidaily.com/easy-steps-to-determine-the-powershell-build-in-your-windows-1-confirming-microsoft-edges-current-release-browser-defense-pro/"><u>Easy Steps to Determine the PowerShell Build in Your Windows 1# Confirming Microsoft Edge's Current Release - Browser Defense Pro</u></a></li>
-<li><a href="https://win-forum.techidaily.com/easy-steps-to-refresh-your-pc-updating-windows-10-driver-software/"><u>Easy Steps to Refresh Your PC: Updating Windows 10 Driver Software</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-vivo-s18e-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Vivo S18e to iPod | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-apple-iphone-13-pro-max-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 13 Pro Max without iTunes? | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-from-conventional-to-crystal-clear-with-hp-envy-27/"><u>In 2024, From Conventional to Crystal Clear with HP Envy 27</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/lead-the-way-in-igtv-videos-with-best-ever-edits-for-2024/"><u>Lead the Way in IGTV Videos with Best-Ever Edits for 2024</u></a></li>
-<li><a href="https://win-forum.techidaily.com/quick-guide-terminating-unresponsive-programs-in-windows-11/"><u>Quick Guide: Terminating Unresponsive Programs in Windows 11</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-achieve-success-in-twitch-top-5-livestream-strategies/"><u>[Updated] Achieve Success in Twitch Top 5 Livestream Strategies</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-excellent-7-dslrs-elevating-live-stream-cinematic-style/"><u>[Updated] Excellent 7 DSLRs Elevating Live-Stream Cinematic Style</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-bring-life-to-graphics-adobe-blur-masterclass/"><u>2024 Approved Bring Life to Graphics Adobe Blur Masterclass</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-craft-an-attractive-animation-from-any-video-a-comprehensive-youtube-to-gif-guide/"><u>2024 Approved Craft an Attractive Animation From Any Video - A Comprehensive Youtube-to-GIF Guide</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-top-6-efficient-urban-minecraft-residences/"><u>2024 Approved Top 6 Efficient Urban Minecraft Residences</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/forgotten-the-voicemail-password-of-nokia-c22-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Nokia C22? Try These Fixes</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-xiaomi-redmi-note-13-5g-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Xiaomi Redmi Note 13 5G FRP</u></a></li>
+<li><a href="https://win-forum.techidaily.com/movavis-on-the-go-video-transcoding-change-your-m1v-files-into-avi-for-zero-cost/"><u>Movavi's On-The-Go Video Transcoding: Change Your M1V Files Into AVI for Zero Cost!</u></a></li>
+<li><a href="https://win-forum.techidaily.com/transform-mp3-and-m4a-files-into-m4b-format-at-no-cost-with-movavi/"><u>Transform MP3 and M4A Files Into M4B Format at No Cost with Movavi</u></a></li>
+<li><a href="https://win-forum.techidaily.com/transforma-archivos-swf-con-sonido-libre-y-sin-costo-en-formatos-mp3-soluciones-efectivas-en-linea/"><u>Transforma Archivos SWF Con Sonido Libre Y Sin Costo en Formatos MP3: Soluciones Efectivas En Línea</u></a></li>
+<li><a href="https://win-forum.techidaily.com/uploading-tiktok-content-from-your-computer-three-simple-methods-guided-guide/"><u>Uploading TikTok Content From Your Computer: Three Simple Methods - Guided Guide</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mp4m2ts-movavi/"><u>영상 형식 바꾸기: MP4/M2TS를 무료로 구성 - 웹 사이트에서 Movavi</u></a></li>
+<li><a href="https://win-forum.techidaily.com/movavim2p-avi/"><u>スピーディかつコストなし: MOVAVIによるM2P オンラインAVI形式変換サービス</u></a></li>
 </ul></div>
 

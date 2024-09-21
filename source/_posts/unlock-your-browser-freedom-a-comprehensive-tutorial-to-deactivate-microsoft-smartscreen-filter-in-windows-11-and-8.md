@@ -1,7 +1,7 @@
 ---
 title: "Unlock Your Browser Freedom: A Comprehensive Tutorial to Deactivate Microsoft SmartScreen Filter in Windows 11 and 8"
-date: 2024-09-10T16:56:14.822Z
-updated: 2024-09-16T16:35:33.140Z
+date: 2024-09-17T16:56:53.394Z
+updated: 2024-09-21T17:16:02.868Z
 tags:
   - windows
 categories:
@@ -31,18 +31,18 @@ thumbnail: https://thmb.techidaily.com/662c307b916403e88dc997e74395824da6bd2c653
 
  On the other hand, disabling it may allow a malicious application to slip through the cracks. 
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123476/16836" target="_top" id="2123476">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123476" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123476/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  How to Disable SmartScreen on Windows 10
 
  SmartScreen settings are located in the Windows Security Center interface. Open up the Start menu, then search for and open "Windows Security." 
 
 ![Search for and launch 'Windows Security' from the Start Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-launch-windows-security.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Click the "App and Browser Control" icon in Windows Security to find these settings.
 
@@ -52,43 +52,43 @@ thumbnail: https://thmb.techidaily.com/662c307b916403e88dc997e74395824da6bd2c653
 
 ![Click 'Reputation-based Protection Settings' to access SmartScreen settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-reputation.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  There are four different Windows SmartScreen options, and you can disable them individually. 
 
  The "Check Apps and Files" option controls the operating system's SmartScreen filter, which protects you no matter where you download files from. When you try to open a downloaded application or file in File Explorer or another application, Windows will check that application or file and block it or display a warning if it's unrecognized.
 
 ![Toggle 'Check Apps and Files' on or off.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-check-apps-and-files-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can also control whether or not Windows Security will block potentially unwanted software. You can disable it completely, or you can set it to block apps or downloads individually. 
 
 ![The settings that allow SmartScreen to block Potentially Unwanted Programs.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6-block-pups.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The "SmartScreen for Microsoft Edge" option controls [the SmartScreen filter build into the Microsoft Edge browser](https://ios-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-iphone-8-plus-by-drfone-ios/). It blocks malicious websites and downloads, but only in Microsoft Edge.
 
 ![The SmartScreen filter for MS Edge](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-smartscreen-for-microsoft-edge.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The "SmartScreen for Windows Store apps" filter is used when apps you download from the Windows Store access web content. It warns you before those apps load dangerous content.
 
 ## ![The SmartScreen for Microsoft Store apps](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/for-windows-smartscreen.png)Disable SmartScreen on Windows 8
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  On Windows 8, you'll find this option in the Control Panel. Navigate to Control Panel > System and Security > Action Center.
@@ -114,21 +114,16 @@ thumbnail: https://thmb.techidaily.com/662c307b916403e88dc997e74395824da6bd2c653
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-the-compact-guide-to-joining-and-scheduling-zoom-on-your-android-phone/"><u>[New] The Compact Guide to Joining & Scheduling Zoom on Your Android Phone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-best-instagram-highlights-covers-apps-for-iphone-and-android/"><u>[Updated] 2024 Approved Best Instagram Highlights Covers Apps for iPhone and Android</u></a></li>
-<li><a href="https://win-forum.techidaily.com/11-hidden-excel-tricks-you-need-to-know-boost-your-productivity/"><u>11 Hidden Excel Tricks You Need to Know: Boost Your Productivity</u></a></li>
-<li><a href="https://win-forum.techidaily.com/effortless-currency-transformation-learn-how-to-use-microsoft-excel-for-effective-money-conversion/"><u>Effortless Currency Transformation: Learn How to Use Microsoft Excel for Effective Money Conversion</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-best-companionship-through-metaverse-adventures/"><u>In 2024, Best Companionship Through Metaverse Adventures</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-discovering-the-most-shared-twitvideos-of-the-year/"><u>In 2024, Discovering the Most Shared TwitVideos of the Year</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-apple-iphone-se-and-browser-drfone-by-drfone-virtual-ios/"><u>In 2024, Prevent Cross-Site Tracking on Apple iPhone SE and Browser | Dr.fone</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/inspiring-abodes-for-minifigure-residences-for-2024/"><u>Inspiring Abodes for Minifigure Residences for 2024</u></a></li>
-<li><a href="https://win-forum.techidaily.com/mastering-error-analysis-in-microsoft-excel-a-step-by-step-guide/"><u>Mastering Error Analysis in Microsoft Excel: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-forum.techidaily.com/mastering-ms-excel-a-comprehensive-guide-to-navigating-with-ease/"><u>Mastering MS Excel: A Comprehensive Guide to Navigating with Ease</u></a></li>
-<li><a href="https://win-forum.techidaily.com/mastering-number-multiplication-a-step-by-step-guide-using-microsoft-excel/"><u>Mastering Number Multiplication: A Step-by-Step Guide Using Microsoft Excel</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/seamless-conversion-transforming-mj2-to-mp4-format-without-hitches/"><u>Seamless Conversion: Transforming MJ2 to MP4 Format Without Hitches</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-guide-centering-text-spanning-several-cells-in-microsoft-excel/"><u>Step-by-Step Guide: Centering Text Spanning Several Cells in Microsoft Excel</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-guide-transferring-sheets-between-excel-books/"><u>Step-by-Step Guide: Transferring Sheets Between Excel Books</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/trustworthy-tactics-growing-your-youtube-channel-by-a-million-steps-for-2024/"><u>Trustworthy Tactics Growing Your YouTube Channel by a Million Steps for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-vn-video-editor-app-review-pros-and-cons-for-2024/"><u>Updated VN Video Editor App Review Pros and Cons for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-securing-your-online-discussions/"><u>[New] In 2024, Securing Your Online Discussions</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-smoothing-playback-the-truth-behind-frozen-photo-booth-videos/"><u>[New] Smoothing Playback The Truth Behind Frozen Photo Booth Videos</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-ahead-of-tomorrow-key-youtube-gatherings-post-vidcon/"><u>[Updated] In 2024, Ahead of Tomorrow Key Youtube Gatherings (Post-VidCon)</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/desktop-snapshot-made-simple-free-tools-for-windows/"><u>Desktop Snapshot Made Simple – Free Tools for Windows</u></a></li>
+<li><a href="https://win-forum.techidaily.com/free-online-converter-transform-ogg-audio-and-video-formats-easily-with-movavi/"><u>Free Online Converter: Transform Ogg Audio & Video Formats Easily with Movavi</u></a></li>
+<li><a href="https://win-forum.techidaily.com/guia-paso-a-paso-transformacion-gratuita-del-formato-video-f4v-al-formato-flv-con-movavi-en-linea/"><u>Guía Paso a Paso: Transformación Gratuita Del Formato Video F4V Al Formato Flv Con Movavi en Línea</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-shot-solidity-choose-the-right-mobile-tripod/"><u>In 2024, Shot Solidity Choose the Right Mobile Tripod</u></a></li>
+<li><a href="https://win-forum.techidaily.com/movavijpegtiff/"><u>Movaviで優雅にJPEGからTIFFへのコストなしオンライン変換</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mp4-mp3-mpe-movavi/"><u>MP4를 MP3로 구독하기 MPE 서버 제공 – Movavi 편집기</u></a></li>
+<li><a href="https://win-forum.techidaily.com/online-conversion-of-aifc-audio-files-to-m4r-format-no-cost-solution-with-movavi/"><u>Online Conversion of AIFC Audio Files to M4R Format: No Cost Solution with Movavi</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-silent-chrome-fixing-missing-audio-on-your-browser/"><u>Resolving Silent Chrome: Fixing Missing Audio on Your Browser</u></a></li>
 </ul></div>
 

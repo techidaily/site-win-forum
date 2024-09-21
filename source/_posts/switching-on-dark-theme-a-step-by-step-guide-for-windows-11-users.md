@@ -1,7 +1,7 @@
 ---
 title: "Switching on Dark Theme: A Step-by-Step Guide for Windows 11 Users"
-date: 2024-09-12T16:39:40.614Z
-updated: 2024-09-16T16:11:53.290Z
+date: 2024-09-17T17:15:18.925Z
+updated: 2024-09-21T16:01:57.411Z
 tags:
   - excel
 categories:
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/e7ff9df7bb6af3b5e4d65d67011a30e37297e02c3
 
 ![Select "Dark" from the drop-down menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/03/change-to-dark-mode.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Enable Dark Mode in Microsoft Edge
 
  The Microsoft Edge web browser included with Windows 10 also has a dark mode. It is set to Light mode by default, but it can be set to respect the system setting, or be forced to use dark mode.
@@ -48,10 +55,10 @@ thumbnail: https://thmb.techidaily.com/e7ff9df7bb6af3b5e4d65d67011a30e37297e02c3
 Related: [How to Enable Dark Mode in Microsoft Edge](https://screen-activity-recording.techidaily.com/new-adjusting-low-bit-rate-settings-obs-for-2024/) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Enable the Dark Theme in Microsoft Office
@@ -61,13 +68,6 @@ Related: [How to Enable Dark Mode in Microsoft Edge](https://screen-activity-rec
  To [choose the dark](https://youtube-help.techidaily.com/2024-approved-exploring-biggest-fifa-footage-trends-in-graphics/)mode, open an Office application like Word or Excel and head to File > Options or click "Options" in the bottom left as soon as the program starts. On the "General" tab, look for the click the "Personalize your copy of Microsoft Office" section and set the "Office Theme" drop-down there to the "Black" option.
 
 ![Settings for the Office Suite that let you enable dark mode.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/10/img_5bb524ed07d4a.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128843/7443" target="_top" id="2128843">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128843" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128843/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Your theme choice applies to all Office applications. So, if you set this option in Word and later open Excel, Excel should also use a dark theme.
 
@@ -82,13 +82,6 @@ Related: [How to Enable Dark Mode in Microsoft Office](https://youtube-help.tech
  Some websites, including [YouTube](https://android-location-track.techidaily.com/3-solutions-to-find-your-lava-yuva-3-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/) and [Gmail](https://win-dash.techidaily.com/enhance-your-pcs-wireless-connectivity-download-microsofts-updated-bluetooth-drivers-for-win-10-11-8-and-7/), let you choose a dark theme for that website. For other websites, you'll need to install a browser extension that [turns the whole web dark](https://unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-tecno-pop-7-pro-by-drfone-android/).
 
 ![Chrome with a third-party dark mode installed.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/10/img_5bb528e36016a.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120862/26400?prodsku=Saturn" target="_top" id="2120862">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120862" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120862/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You'll have to check to see whether the applications you frequently use offer their own theme options.
 
@@ -114,6 +107,13 @@ Related: [How to Install Custom Themes and Visual Styles in Windows](https://iph
 
 ![Select your theme, then click "Apply to Desktop."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/03/WindowBlinds.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  WindowBlinds doesn't have a built-in dark mode (though some built-in themes are darker than others). You can always create your own by clicking the "Modify Style" link under any theme. You can adjust pretty much anything you can think of there. But, there's an easier way.
 
  Just head to the [WindowBlinds section of the WinCustomize site](https://www.wincustomize.com/explore/windowblinds). There, you'll find all kinds of WindowBlinds-compatible skins you can download. After downloading one, double-click the file. The theme will be added to the "Style" tab in WindowsBlinds so that you can apply it (or customize it) from there.
@@ -123,10 +123,10 @@ Related: [How to Install Custom Themes and Visual Styles in Windows](https://iph
 ![File Explorer with a theme from WindowsBlinds applied.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/08/dt_c.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Not bad, right? And with a little tweaking, you could make it look just the way you want.
@@ -146,18 +146,18 @@ Related: [How to Install Custom Themes and Visual Styles in Windows](https://iph
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-enhance-visibility-on-yt-key-aspects-of-channel-art-and-banner-size/"><u>[New] 2024 Approved Enhance Visibility on YT Key Aspects of Channel Art & Banner Size</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-navigating-the-world-of-virtual-backgrounds-for-online-media-professionals/"><u>[New] Navigating the World of Virtual Backgrounds for Online Media Professionals</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-social-strategies-for-disseminating-health-information/"><u>2024 Approved Social Strategies for Disseminating Health Information</u></a></li>
-<li><a href="https://win-forum.techidaily.com/expert-tips-for-disabling-and-uninstalling-windows-os-version-updates-in-win10-and-win11-through-revouninstaller-software/"><u>Expert Tips for Disabling and Uninstalling Windows OS Version Updates in Win10 & Win11 Through RevoUninstaller Software</u></a></li>
-<li><a href="https://win-forum.techidaily.com/exploring-popular-social-networks-insights-into-facebook-twitter-instagram-and-youtube-usage/"><u>Exploring Popular Social Networks: Insights Into Facebook, Twitter, Instagram, and YouTube Usage</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-tecno-spark-20-pro-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Tecno Spark 20 Pro Devices | Dr.fone</u></a></li>
-<li><a href="https://win-forum.techidaily.com/master-the-art-of-removing-stubborn-folders-on-windows-11-using-revo-uninstaller/"><u>Master the Art of Removing Stubborn Folders on Windows 11 Using Revo Uninstaller</u></a></li>
-<li><a href="https://win-forum.techidaily.com/1722915233634-social-media-titans-facebook-twitter-instagram-and-youtube/"><u>Social Media Titans: Facebook, Twitter, Instagram, and YouTube</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solving-the-problem-top-10-solutions-for-unresponsive-widgets-on-ios-devices/"><u>Solving the Problem: Top 10 Solutions for Unresponsive Widgets on iOS Devices</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-essential-hubs-for-online-connection-unpacking-facebook-twitter-instagram-and-youtubes-impact/"><u>The Essential Hubs for Online Connection: Unpacking Facebook, Twitter, Instagram & Youtube's Impact</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-social-media-giants-an-overview-of-facebook-twitter-instagram-and-youtube-trends/"><u>The Social Media Giants: An Overview of Facebook, Twitter, Instagram & YouTube Trends</u></a></li>
-<li><a href="https://media-tips.techidaily.com/unlock-disneyplus-monthly-subscription-at-an-unbeatable-price-of-only-199/"><u>Unlock Disney+ Monthly Subscription at an Unbeatable Price of Only $1.99!</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/wondershare-filmoramp4/"><u>Wondershare FilmoraからMP4への動画変換方法 : 詳細チュートリアル</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-latest-leap-in-tech-samsungs-ultrablade-k850-update/"><u>[Updated] Latest Leap in Tech - Samsung's UltraBlade K850 Update</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-total-byte-requirement-for-24-hours-of-movie-viewing-for-2024/"><u>[Updated] Total Byte Requirement for 24 Hours of Movie Viewing for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-hitting-the-high-notes-in-instagram-photography/"><u>2024 Approved Hitting the High Notes in Instagram Photography</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/navigating-the-realm-of-time-lapses-gopro-hero-10-in-action/"><u>Navigating the Realm of Time Lapses GoPro Hero 10 in Action</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quick-fix-guide-resolving-issues-with-madden-nfl-22/"><u>Quick Fix Guide: Resolving Issues with Madden NFL 22</u></a></li>
+<li><a href="https://win-forum.techidaily.com/quick-tips-how-to-resize-your-videos-on-any-gadget-with-ease/"><u>Quick Tips: How to Resize Your Videos on Any Gadget with Ease</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/roku-showdown-analyzing-and-comparing-the-express-and-stick-streaming-devices/"><u>Roku Showdown: Analyzing and Comparing the Express and Stick Streaming Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/teams-upgrade-fast-memory-conscious-solution/"><u>Teams Upgrade: Fast, Memory-Conscious Solution</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-5-best-video-converters-from-dvd-to-mp4-for-pc-moveaves-efficient-solutions/"><u>Top 5 Best Video Converters From DVD to MP4 for PC: Moveave's Efficient Solutions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlock-the-full-potential-of-your-ipad-with-ipados-1nvite-to-version-18-complimentary-upgrade-release-calendar-and-feature-spotlights/"><u>Unlock the Full Potential of Your iPad with IPadOS 1Nvite to Version 18 - Complimentary Upgrade, Release Calendar & Feature Spotlights</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/unlock-the-full-potential-of-your-videos-on-instagram-platform-for-2024/"><u>Unlock the Full Potential of Your Videos on Instagram Platform for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/web-based-mp3-and-aiff-movavi/"><u>Web-Based MP3 & AIFF 원룰류 교리: 안전하고 쉬운 Movavi 스위트</u></a></li>
+<li><a href="https://win-forum.techidaily.com/m4a-swfmovavi/"><u>オンラインで無料: M4A SWFフォーマット間の変換ソリューションを見つけるためにMovavi</u></a></li>
 </ul></div>
 

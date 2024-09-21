@@ -1,7 +1,7 @@
 ---
 title: "Unlock the Power of Your PC: Discover 13 Methods to Access Windows 11 Settings"
-date: 2024-09-09T16:27:17.141Z
-updated: 2024-09-16T16:19:57.593Z
+date: 2024-09-17T16:41:23.871Z
+updated: 2024-09-21T16:47:33.289Z
 tags:
   - windows
 categories:
@@ -42,6 +42,13 @@ thumbnail: https://thmb.techidaily.com/d62120d0f92dda8643d1fb18ba050a4238aed422d
 
  The Settings app will open.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Use the Power User Menu
 
  The Power User menu, also known as the [WinX menu](https://easy-unlock-android.techidaily.com/in-2024-5-solutions-for-poco-m6-5g-unlock-without-password-by-drfone-android/), is essentially the Start menu's context menu. Open it by right-clicking the Windows icon in the bottom-left corner of your desktop, or use the Windows+X keyboard shortcut. The Power User menu will appear. Here, click "Settings."
@@ -49,6 +56,13 @@ thumbnail: https://thmb.techidaily.com/d62120d0f92dda8643d1fb18ba050a4238aed422d
 ![Right-click the Start button, then select 'Settings.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/open-settings-power-user-menu.png) 
 
  Settings will open.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Search for Settings in Windows Search
 
@@ -82,27 +96,20 @@ thumbnail: https://thmb.techidaily.com/d62120d0f92dda8643d1fb18ba050a4238aed422d
 
 ![Click the 'Open Settings' button at the top of Windows Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/open-settings-from-windows-explorer.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The Settings app will open.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Use the Action Center
 
  There's also a way to start the Settings app from the [Action Center](https://win-dash.techidaily.com/download-and-update-tp-link-usb-400-bluetooth-adapter-drivers-faster-pairing/). First, click the text bubble in the bottom-right corner of your desktop to open the Action Center.
 
 ![Click the text bubble icon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/Click-the-text-bubble-icon..png) 
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Next, click "Expand" in the bottom-left corner of the Action Center.
 
@@ -124,21 +131,7 @@ thumbnail: https://thmb.techidaily.com/d62120d0f92dda8643d1fb18ba050a4238aed422d
 
 ![Enter 'ms-settings:' into the Run box, then click 'OK.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/run-new-task.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Settings will open.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Use the Control Panel
 
@@ -162,6 +155,13 @@ thumbnail: https://thmb.techidaily.com/d62120d0f92dda8643d1fb18ba050a4238aed422d
 
 ![Click the 'Home' button to go to the main page of the Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/click-home-button-in-settings-again.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Run a Command in the Run App
 
  You can also use the Run app to open Settings. Open the Run app by using the Windows+R keyboard shortcut. Once open, enter **ms-settings:** in the text box and then click "OK."
@@ -183,10 +183,10 @@ start ms-settings:
 ![Running 'start ms-settings:' in Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/cmd.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The Settings app will open.
@@ -222,20 +222,15 @@ start ms-settings:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-starting-from-scratch-stardews-ginger-island-guide-for-2024/"><u>[New] Starting From Scratch Stardew's Ginger Island Guide for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-echo-chamber-best-online-spots-for-free-skype-music-for-2024/"><u>[Updated] Echo Chamber Best Online Spots for Free Skype Music for 2024</u></a></li>
-<li><a href="https://win-forum.techidaily.com/year-say-goodbye-to-free-windows-10-updates-consider-these-replacement-operating-systems/"><u>[Year] - Say Goodbye to Free Windows 10 Updates; Consider These Replacement Operating Systems</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/crafting-dynamic-speed-up-videos/"><u>Crafting Dynamic Speed-Up Videos</u></a></li>
-<li><a href="https://article-files.techidaily.com/crypto-artistry-unleashed-the-best-generators-transforming-images-for-2024/"><u>Crypto Artistry Unleashed The Best Generators Transforming Images for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/different-methods-to-unlock-your-iphone-8-by-drfone-ios/"><u>Different Methods To Unlock Your iPhone 8</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-ios-focused-techniques-downloading-and-saving-youtube-video/"><u>In 2024, IOS-Focused Techniques Downloading and Saving YouTube Video</u></a></li>
-<li><a href="https://win-help.techidaily.com/movavi-media-player-a-secure-software-solution-for-multimedia-playback/"><u>Movavi Media Player: A Secure Software Solution for Multimedia Playback</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/perfecting-ephemeral-fades-in-digital-recording-software-audacity-for-2024/"><u>Perfecting Ephemeral Fades in Digital Recording Software Audacity for 2024</u></a></li>
-<li><a href="https://win-forum.techidaily.com/travel-restrictions/"><u>Travel Restrictions</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-nokia-c300-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Nokia C300 IMEI without Root A Comprehensive Guide</u></a></li>
-<li><a href="https://win-forum.techidaily.com/unseen-transformation-how-the-true-artificial-intelligence-shift-is-happening/"><u>Unseen Transformation: How the True Artificial Intelligence Shift Is Happening</u></a></li>
-<li><a href="https://win-forum.techidaily.com/upcoming-mandatory-windows-11-23h2-update-what-you-need-to-know/"><u>Upcoming Mandatory Windows 11 23H2 Update: What You Need To Know</u></a></li>
-<li><a href="https://win-forum.techidaily.com/why-is-the-bing-copilot-experience-deteriorating-on-windows-11-systems/"><u>Why Is the Bing Copilot Experience Deteriorating on Windows 11 Systems?</u></a></li>
-<li><a href="https://win-forum.techidaily.com/windows-latest-patch-introduces-more-bsod-troubles-for-users-systems/"><u>Windows Latest Patch Introduces More BSOD Troubles for Users' Systems</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-stand-out-creating-unique-thumbnails-for-your-youtube-videos/"><u>[Updated] 2024 Approved Stand Out Creating Unique Thumbnails for Your YouTube Videos</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-explaining-video-trims-the-logic-of-trimming-for-2024/"><u>[Updated] Explaining Video Trims The Logic of Trimming for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-innovative-activities-for-the-modern-podcaster/"><u>2024 Approved Innovative Activities for the Modern Podcaster</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-keeping-content-copyright-compliant-with-instra-watermarking/"><u>2024 Approved Keeping Content Copyright-Compliant with Instra Watermarking</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/chart-topping-storytellers-to-follow-on-youtube-this-year-for-2024/"><u>Chart-Topping Storytellers to Follow on YouTube This Year for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/conversion-mp3-vers-asf-sans-frais-guideline-rapide-a-laide-de-movavi/"><u>Conversion MP3 Vers ASF Sans Frais - Guideline Rapide À L'Aide De Movavi</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Samsung Galaxy A14 4G | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mp4-conversion-tool-seamless-mov-to-mp4-upgrade-for-free-with-movavis-online-service/"><u>MP4 Conversion Tool - Seamless MOV to MP4 Upgrade for Free with Movavi's Online Service</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-asus-rog-phone-8-pro-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Asus ROG Phone 8 Pro</u></a></li>
+<li><a href="https://win-forum.techidaily.com/ultimate-guide-capturing-images-on-your-chromebook-in-five-different-methods-movavi/"><u>Ultimate Guide: Capturing Images on Your Chromebook in Five Different Methods - Movavi</u></a></li>
 </ul></div>
 

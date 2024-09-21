@@ -1,7 +1,7 @@
 ---
 title: "Collaborative Excellence: Monitoring Update Progression in Shared Excel Web Sheets"
-date: 2024-09-15T16:00:36.546Z
-updated: 2024-09-16T16:38:16.600Z
+date: 2024-09-14T17:38:17.959Z
+updated: 2024-09-21T16:59:28.567Z
 tags:
   - excel
 categories:
@@ -45,6 +45,13 @@ thumbnail: https://thmb.techidaily.com/c7c73b7c4a7efc6c835802b5aee6775aac1b5aafc
 
 ![Click See New Changes](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/05/SeeNewChanges-ExcelWeb.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Filter the Changes
 
  A terrific feature for Show Changes is that you can filter the edits that you see. This is ideal in large workbooks where you see many changes in that sidebar. You can filter by sheet or cell range.
@@ -57,19 +64,6 @@ thumbnail: https://thmb.techidaily.com/c7c73b7c4a7efc6c835802b5aee6775aac1b5aafc
 
 ![Select a Sheet to filter](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/05/FilterSheetChanges-ExcelWeb.png) 
 
-<!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To filter by cell range, first, make sure that you're on the tab for the sheet containing that range. Then, click the filter drop-down list and select "Range."
 
 ![Select Range for the filter](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/05/FilterRangeChanges-ExcelWeb.png) 
@@ -79,10 +73,16 @@ thumbnail: https://thmb.techidaily.com/c7c73b7c4a7efc6c835802b5aee6775aac1b5aafc
 ![Enter the cell range and click Commit](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/05/FilterRangeCommit-ExcelWeb.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128842/7443" target="_top" id="2128842">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128842" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128842/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You'll then see results for the cell range filter.
@@ -94,10 +94,10 @@ thumbnail: https://thmb.techidaily.com/c7c73b7c4a7efc6c835802b5aee6775aac1b5aafc
 ![Click the Filter drop-down](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/05/FilterChanges-ExcelWeb.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Show Changes is currently only available in Excel for the web. Hopefully, this is a feature that Microsoft will bring to its [desktop and mobile versions of Excel](https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-vivo-s17e-drfone-by-drfone-virtual-android/) down the road. It's definitely a handy tool for working on spreadsheets with your team.
@@ -119,20 +119,15 @@ Related: [What's the Difference Between Microsoft Office's Desktop, Web, and Mob
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-mastering-profit-strategies-for-vimeo-content-creators/"><u>[New] 2024 Approved Mastering Profit Strategies for Vimeo Content Creators</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-fast-easy-free-the-top-choices-for-onsite-gif-to-video-changes/"><u>[New] Fast, Easy, Free The Top Choices for Onsite GIF to Video Changes</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-perfecting-your-reel-integrating-music-on-instagram/"><u>2024 Approved Perfecting Your Reel Integrating Music on Instagram</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-unseen-but-not-untouched-instagram-guide/"><u>2024 Approved Unseen but Not Untouched Instagram Guide</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/digiarty-software-final-user-license-agreement-for-winxdvd/"><u>Digiarty Software – Final User License Agreement for WinXDVD</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easy-download-and-setup-upgraded-software-for-your-canon-pixma-mg3690-printer/"><u>Easy Download & Setup: Upgraded Software for Your Canon Pixma MG3690 Printer</u></a></li>
-<li><a href="https://win-forum.techidaily.com/enhanced-productivity-in-vivaldi-66-new-feature-integrates-chrome-extensions-into-web-panels/"><u>Enhanced Productivity in Vivaldi 6.6: New Feature Integrates Chrome Extensions Into Web Panels</u></a></li>
-<li><a href="https://win-forum.techidaily.com/enhancing-the-handheld-experience-microsoft-upgrades-windows-for-mobile-devices/"><u>Enhancing the Handheld Experience: Microsoft Upgrades Windows for Mobile Devices</u></a></li>
-<li><a href="https://win-forum.techidaily.com/exciting-developments-await-as-windows-ns-widget-panel-gets-major-updates/"><u>Exciting Developments Await as Windows N's Widget Panel Gets Major Updates</u></a></li>
-<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Xiaomi Redmi Note 12 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://win-forum.techidaily.com/goodnotes-on-windows-arrives-my-long-awaited-journey-to-an-enhanced-note-taking-adventure/"><u>GoodNotes on Windows Arrives - My Long-Awaited Journey to an Enhanced Note-Taking Adventure</u></a></li>
-<li><a href="https://win-forum.techidaily.com/introducing-enhanced-windows-11-security-patch-kb5040442/"><u>Introducing Enhanced Windows 11 Security Patch KB5040442</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/maximize-your-workouts-on-a-budget-the-ultimate-guide-to-the-fitbit-versa-lites-features-and-price-point/"><u>Maximize Your Workouts on a Budget: The Ultimate Guide to the Fitbit Versa Lite's Features and Price Point</u></a></li>
-<li><a href="https://win-forum.techidaily.com/nvidias-new-approach-organizing-a-chaotic-array-of-pc-software-solutions/"><u>NVIDIA's New Approach: Organizing a Chaotic Array of PC Software Solutions</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-game-on-10plus-trusted-websites-to-download-games-this-year/"><u>Updated In 2024, Game On! 10+ Trusted Websites to Download Games This Year</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-diverse-vlogging-content-suggestions/"><u>[New] 2024 Approved Diverse Vlogging Content Suggestions</u></a></li>
+<li><a href="https://win-forum.techidaily.com/2024mkv12/"><u>2024年ご覧無料Mkvエディター上位12 - 推奨フリーウェア</u></a></li>
+<li><a href="https://win-forum.techidaily.com/rawwav-movavi/"><u>無料で簡単！オンラインRAWファイルをWAVに変換する - Movavi</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/demystifying-ai-a-clear-and-concise-explanation-for-everyone/"><u>Demystifying AI: A Clear and Concise Explanation for Everyone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/effortless-transformation-of-m4a-track-to-wmv-format-get-started-here-for-free/"><u>Effortless Transformation of M4A Track to WMV Format - Get Started Here for Free!</u></a></li>
+<li><a href="https://win-forum.techidaily.com/gift-free-gsm-file-transformation-services-by-moveavi-swift-and-simple-online-solutions/"><u>Gift-Free GSM File Transformation Services by Moveavi: Swift & Simple Online Solutions!</u></a></li>
+<li><a href="https://windows11.techidaily.com/innovate-w11-notebook-using-ai-guru/"><u>Innovate W11 Notebook Using AI Guru</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/screen-recording-simplified-review-insights/"><u>Screen Recording Simplified Review Insights</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-the-missing-haldll-problem-in-your-old-windows-xp-machine/"><u>Solving the Missing 'Hal.Dll' Problem in Your Old Windows XP Machine</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-best-zero-cost-mod-video-editors-a-comprehensive-list-for-2024/"><u>Updated Best Zero-Cost MOD Video Editors A Comprehensive List for 2024</u></a></li>
 </ul></div>
 

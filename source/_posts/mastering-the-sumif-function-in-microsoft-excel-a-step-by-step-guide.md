@@ -1,7 +1,7 @@
 ---
 title: Mastering the SUMIF Function in Microsoft Excel - A Step-by-Step Guide
-date: 2024-09-10T16:20:00.134Z
-updated: 2024-09-16T16:33:10.718Z
+date: 2024-09-16T16:56:52.724Z
+updated: 2024-09-21T16:49:09.014Z
 tags:
   - excel
 categories:
@@ -83,6 +83,13 @@ Related: [How to Create Expense and Income Spreadsheets in Microsoft Excel](http
 
 ![SUMIF using greater than a cell](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/MultipleGreaterThanCell-ExcelSUMIF.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Use SUMIF With Text Criteria for Multiple Ranges
 
  Maybe the values you want to add correlate to [text rather than numbers](https://buynow-tips.techidaily.com/family-fun-on-wheels-holy-stone-rc-cartoon-race-car-evaluation/). Here we have types, products, and sales. Using SUMIF, you can add values in the Sales column for products that meet certain conditions in the other columns.
@@ -104,10 +111,10 @@ Related: [How to Count Cells With Text in Microsoft Excel](https://buynow-tips.t
 ![SUMIF ends with letters in multiple cells](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/MultipleTextWildcard-ExcelSUMIF.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  One more example uses our Shoes product whose Type is blank.
@@ -117,19 +124,6 @@ Related: [How to Count Cells With Text in Microsoft Excel](https://buynow-tips.t
  In this formula the quotation marks are side-by-side with no space between them. This gives us the sales for Shoes as seen below.
 
 ![SUMIF using a blank for multiple cells](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/MultipleTextBlank-ExcelSUMIF.jpg) 
-
-<!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The SUMIF function in Excel allows you to take a basic equation and spice it up to fit your needs. It's super handy when adding numbers isn't as simple as two plus two.
 
@@ -150,17 +144,18 @@ Related: [How to Count Cells With Text in Microsoft Excel](https://buynow-tips.t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-perfecting-the-art-of-ppt-video-creation-for-2024/"><u>[New] Perfecting the Art of PPT Video Creation for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-advanced-inshot-transition-methods-explained/"><u>[Updated] 2024 Approved Advanced Inshot Transition Methods Explained</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/10-volume-magnifiers-for-windowsmacos-for-2024/"><u>Best 10 Volume Magnifiers for Windows/MacOS for 2024</u></a></li>
-<li><a href="https://win-forum.techidaily.com/connect-and-engage-on-the-webs-most-popular-sites-a-look-at-facebook-twitter-instagram-and-youtube/"><u>Connect and Engage on the Web's Most Popular Sites: A Look at Facebook, Twitter, Instagram & YouTube</u></a></li>
-<li><a href="https://program-issues.techidaily.com/escalating-your-gaming-experience-7-easy-tweaks-to-prevent-freezing-in-halo-infinite/"><u>Escalating Your Gaming Experience: 7 Easy Tweaks to Prevent Freezing in Halo Infinite</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/game-enhancement-no-more-crashes-in-apex/"><u>Game Enhancement - No More Crashes in Apex</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ifying-the-most-versatile-cam-top-12-screen-swivel-gadgets/"><u>Identifying the Most Versatile Cam Top 12 Screen Swivel Gadgets</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/navigate-anywhere-discover-our-picks-for-the-8-ultimate-planning-tools-for-wanderlust-seekers/"><u>Navigate Anywhere: Discover Our Picks for the 8 Ultimate Planning Tools for Wanderlust Seekers</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/navigating-digital-defense-key-forecasts-for-cybersecurity-developments/"><u>Navigating Digital Defense: Key Forecasts for Cybersecurity Developments</u></a></li>
-<li><a href="https://win-forum.techidaily.com/social-giants-of-the-internet-era-exploring-facebook-twitter-instagram-and-youtube/"><u>Social Giants of the Internet Era - Exploring Facebook, Twitter, Instagram, and Youtube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/tackling-complete-disk-use-in-windows-11-expert-solutions-and-tips/"><u>Tackling Complete Disk Use in Windows 11: Expert Solutions and Tips</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-quintessential-social-hubs-unveiling-facebook-twitter-instagram-and-youtubes-powerful-influence/"><u>The Quintessential Social Hubs: Unveiling Facebook, Twitter, Instagram & Youtube's Powerful Influence</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-snapchat-cameos-catch-up-with-the-trendiest-trick/"><u>[Updated] 2024 Approved Snapchat Cameos Catch Up with the Trendiest Trick</u></a></li>
+<li><a href="https://win-forum.techidaily.com/aifoggmovavi/"><u>簡単な方法！無料で高品質のAIF形式ファイルをOGGに変換：Movaviでご提案</u></a></li>
+<li><a href="https://win-forum.techidaily.com/free-online-nef-to-jpeg-converter-by-movavi-no-download-required/"><u>Free Online NEF to JPEG Converter by Movavi - No Download Required</u></a></li>
+<li><a href="https://win-forum.techidaily.com/gratis-online-mp4-konvertere-fra-videofilen-raskt-og-enkel-handtering/"><u>Gratis Online-MP4 Konvertere Fra Videofilen - Raskt Og Enkel Håndtering</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-to-track-a-lost-apple-iphone-6-for-free-drfone-by-drfone-virtual-ios/"><u>How to Track a Lost Apple iPhone 6 for Free? | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-rectifying-identity-mix-up-in-fb-text-exchange/"><u>In 2024, Rectifying Identity Mix-Up in FB Text Exchange</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/pixel-fold-2-unveiled-anticipated-features-pricing-and-release-timeline-stay-updated-with-latest-buzz/"><u>Pixel Fold 2 Unveiled: Anticipated Features, Pricing & Release Timeline - Stay Updated with Latest Buzz!</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/refurbished-apple-iphone-x-everything-you-need-to-know-drfone-by-drfone-transfer-from-ios/"><u>Refurbished Apple iPhone X Everything You Need to Know | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/reviven-tu-memoria-7-sencillas-tecnicas-para-recuperar-fotos-antiguas-con-eficacia-usando-movavi/"><u>Reviven Tu Memoria: 7 Sencillas Técnicas Para Recuperar Fotos Antiguas Con Eficacia Usando Movavi</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ultimate-frames-per-second-for-slow-clips/"><u>Ultimate Frames Per Second for Slow Clips</u></a></li>
+<li><a href="https://win-forum.techidaily.com/ultimate-guide-to-understanding-screen-recording-everything-you-need-to-know-comprehensive-breakdown/"><u>Ultimate Guide to Understanding Screen Recording: Everything You Need To Know - Comprehensive Breakdown</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/unlock-the-secrets-of-restoring-your-iphone-expert-tips-and-tricks/"><u>Unlock the Secrets of Restoring Your iPhone - Expert Tips and Tricks</u></a></li>
+<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Motorola Razr 40 Ultra? | Dr.fone</u></a></li>
 </ul></div>
 

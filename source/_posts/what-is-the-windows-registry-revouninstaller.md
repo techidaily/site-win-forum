@@ -1,7 +1,7 @@
 ---
 title: What Is the Windows Registry - RevoUninstaller
-date: 2024-09-14T16:21:06.032Z
-updated: 2024-09-16T16:27:57.754Z
+date: 2024-09-19T16:07:39.171Z
+updated: 2024-09-21T16:26:07.021Z
 tags:
   - win11
   - win10
@@ -50,10 +50,10 @@ To clear your Windows Explorer history do the following:
 ![Clear option](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-windows-explorer/Method1-step3.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 2: Run System File Checker
@@ -64,13 +64,6 @@ To clear your Windows Explorer history do the following:
 ![Windows PowerShell](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-windows-explorer/Method2-step1.png)
 2. When the PowerShell windows opens type`sfc /scannow` and press Enter  
 ![scannow command](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-windows-explorer/Method2-step2.png)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  By performing this the SFC tool will scan your computer for file errors. If it detects errors Windows will repair and replace the files, which should fix your File Explorer crashing issues.
 
@@ -87,6 +80,13 @@ To check for new system updates:
 ![windows update](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-windows-explorer/Method3-step3.jpg)
 
  If there are any available updates Windows will download them. Restart your PC to install them.
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 4: Disable 3rd-Party Explorer Extensions
 
@@ -114,15 +114,15 @@ To fix the issue do the following:
 ![change folder and search options](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-windows-explorer/Method5-step1.png)
 2. In the Folder Options windows navigate to the**View** tab
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. In the Advanced settings windows check the “**Launch windows in a separate process** ” checkbox  
 ![launch windows in separate process](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-windows-explorer/Method5-step2.png)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123469/16836" target="_top" id="2123469">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123469" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123469/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Click OK to save and apply the settings.
 
@@ -142,16 +142,17 @@ You can perform a malware scan with Windows Security:
 3. In the Windows Security windows press**Virus & threat protection** , and press **Scan options**  
 **![virus and threat protection](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-windows-explorer/Method6-step3.png)**
 4. Select Microsoft Defender Offline scan and press**Scan Now**  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![scan now](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-windows-explorer/Method6-step4.png)
 
  After this Windows will reboot and begin the scan for malware on your PC. If malware is being detected Windows security will try to remove it or quarantine it. This should fix your stability issues and make your PC safe to use again.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123475/16836" target="_top" id="2123475">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123475" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123475/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 7: Check Windows Error Logs
 
@@ -168,13 +169,6 @@ To do this follow the instructions below:
 ![even view command](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-windows-explorer/Method7-step2.png)
 3. In the “**Event View** ” click on**Windows Logs -> Application** in the left-hand menu  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![windows logs](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-windows-explorer/Method7-step3.png)
 4. In the Application panel on the right, search for Event IDs with the value 1000\. Event ID 1000 usually points to an error with the Windows Explorer process  
 
@@ -182,6 +176,13 @@ To do this follow the instructions below:
 5. If you find such errors, select it and check the General tab information. This will give you a bit of information on what the issue is and with further investigation and troubleshooting you will be able to fix it
 
  For example, if a third-party app is the reason behind the Windows Explorer crash, it will be listed here and you will be able to remove it to solve the problem.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -213,17 +214,15 @@ To do this follow the instructions below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-optimal-storage-solutions-the-leading-10-gopro-housings/"><u>2024 Approved Optimal Storage Solutions - The Leading 10 GoPro Housings</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-subdued-soundscape-stitches-for-garageband-workflows/"><u>2024 Approved Subdued Soundscape Stitches for Garageband Workflows</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/mkv-iso/"><u>専用ツール無しで「無料」のMKV ISO形式への簡単な変換方法</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-factory-unlock-your-telstra-apple-iphone-se-2020-by-drfone-ios/"><u>How To Factory Unlock Your Telstra Apple iPhone SE (2020)</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-narzo-60-5g-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Realme Narzo 60 5G Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-infinix-hot-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Infinix Hot 30 5G? | Dr.fone</u></a></li>
-<li><a href="https://win-forum.techidaily.com/quick-guide-forcing-closure-of-unresponsive-programs-in-windows-11/"><u>Quick Guide: Forcing Closure of Unresponsive Programs in Windows 11</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/secrets-of-selecting-the-best-nba-live-feed/"><u>Secrets of Selecting the Best NBA Live Feed</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/sim-unlock-honor-x7b-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Honor X7b Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/streamlining-your-claims-management-the-revolutionary-techniques-from-abbeyys-latest-white-paper/"><u>Streamlining Your Claims Management: The Revolutionary Techniques From ABBEYY's Latest White Paper</u></a></li>
-<li><a href="https://win-forum.techidaily.com/troubleshooting-techniques-eliminating-memory-dumps-on-your-windows-11-pc/"><u>Troubleshooting Techniques: Eliminating Memory Dumps on Your Windows 11 PC</u></a></li>
-<li><a href="https://win-forum.techidaily.com/ultimate-tricks-to-boost-boot-speed-on-windows-11-systems/"><u>Ultimate Tricks to Boost Boot Speed on Windows 11 Systems</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-the-evolutionary-path-of-roguelike-games/"><u>[Updated] In 2024, The Evolutionary Path of Roguelike Games</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-record-android-internal-voice-4-easy-rootless-techniques/"><u>[Updated] Record Android Internal Voice 4 Easy, Rootless Techniques</u></a></li>
+<li><a href="https://win-forum.techidaily.com/acceso-gratuito-a-videos-hd-con-licencia-libre-storyblocks-collection/"><u>Acceso Gratuito a Vídeos HD Con Licencia Libre – Storyblocks Collection</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/fai-il-tuo-download-gratuito-converti-file-dts-in-mp3-con-movietoast/"><u>Fai Il Tuo Download Gratuito: Converti File DTS in MP3 Con MovieToast</u></a></li>
+<li><a href="https://win-forum.techidaily.com/gratuit-online-converteren-van-m4a-naar-m4v-vorm-speelfilms-maken-met-movavi/"><u>Gratuit Online: Converteren Van M4A Naar M4V-Vorm - Speelfilms Maken Met Movavi</u></a></li>
+<li><a href="https://win-forum.techidaily.com/guia-gratuita-para-convertir-imagenes-de-formato-pgm-a-jpg-directamente-desde-su-navegador-convertidor-rapido-y-eficiente-con-movavi/"><u>Guía Gratuita Para Convertir Imágenes De Formato PGM a JPG Directamente Desde Su Navegador - Convertidor Rápido Y Eficiente Con Movavi</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-tecno-phantom-v-fold-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Tecno Phantom V Fold to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-perfect-photos-applying-radial-blur-in-ps/"><u>In 2024, Perfect Photos Applying Radial Blur in PS</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-zoom-audio-excellence-balance-and-clarity-tactics/"><u>In 2024, Zoom Audio Excellence Balance and Clarity Tactics</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-11-piu-eccellenti-software-di-taglio-video-senza-costo-guida-2024/"><u>Top 11 Più Eccellenti Software Di Taglio Video Senza Costo: Guida 2024</u></a></li>
 </ul></div>
 

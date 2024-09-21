@@ -1,7 +1,7 @@
 ---
 title: "Efficiently Creating & Handling Windows 11 Passkeys: An In-Depth Tutorial"
-date: 2024-09-15T16:15:08.855Z
-updated: 2024-09-16T16:35:35.031Z
+date: 2024-09-20T16:41:23.630Z
+updated: 2024-09-21T16:37:12.961Z
 tags:
   - windows
 categories:
@@ -50,6 +50,13 @@ thumbnail: https://thmb.techidaily.com/d8fe7e494aebabf85039c3b9cb2bea4831c07f6e7
 
  You can [find a list of passkey-supported platforms on the Passkeys site](https://www.passkeys.io/who-supports-passkeys).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Create and Save a Passkey to Your Windows 11 PC
 
  To generate and save a passkey, you'll first visit your favorite website or app’s account settings. From there, you’ll create the key and then save it to your PC. In this guide, we’ll demonstrate how to do that with a Google account.
@@ -59,6 +66,13 @@ thumbnail: https://thmb.techidaily.com/d8fe7e494aebabf85039c3b9cb2bea4831c07f6e7
  After logging in, from the left sidebar, select "Security." On the right pane, scroll down to the "How You Sign In to Google" section and choose "Passkeys and Security Keys."
 
 !['Security' and 'Passkeys and Security Keys' highlighted on Google My Account site.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/1-google-passkey-settings.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Google will likely prompt you to enter your account password. Do so and continue.
 
@@ -70,28 +84,15 @@ thumbnail: https://thmb.techidaily.com/d8fe7e494aebabf85039c3b9cb2bea4831c07f6e7
 
 ![A 'Windows Security' prompt for creating a passkey.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/3-windows-11-passkey-authentication1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115918/19272" target="_top" id="2115918">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115918" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115918/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You’ll see a "Passkey Saved" message confirming a passkey for your Google account was created and saved to your PC. Close the window by selecting "OK."
 
 !['OK' highlighted in the 'Windows Security' prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/4-google-passkey-created1.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  And that’s it. You’ve successfully created a replacement for your Google account password.
@@ -108,16 +109,16 @@ thumbnail: https://thmb.techidaily.com/d8fe7e494aebabf85039c3b9cb2bea4831c07f6e7
 
 ![The 'Email or Phone' field and the 'Next' button highlighted on Google's login page.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/6-enter-google-username1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  On the password page, click "Try Another Way" to see alternate options.
 
 !['Try Another Way' highlighted on Google's password page.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/7-choose-another-way1.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Select "Use Your Passkey" to utilize the saved passkey to log in to your account.
 
@@ -133,19 +134,6 @@ thumbnail: https://thmb.techidaily.com/d8fe7e494aebabf85039c3b9cb2bea4831c07f6e7
 
  After you’ve authenticated yourself, you’ll be signed in to your account.
 
-<!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  How to View and Delete Passkeys on Windows 11
 
  If you want to see what passkeys you’ve saved, or you want to delete a specific passkey, use the Settings app.
@@ -158,16 +146,16 @@ thumbnail: https://thmb.techidaily.com/d8fe7e494aebabf85039c3b9cb2bea4831c07f6e7
 
 ![The search box and the saved passkeys highlighted in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/12-view-search-saved-passkeys-windows-11.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115934/19272" target="_top" id="2115934">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115934" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115934/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To remove a specific passkey, click the three dots next to that item and choose "Delete Passkey."
 
 !['Delete Passkey' highlighted for a passkey in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/13-delete-passkey-windows-11.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  In the open prompt, confirm your action by selecting "Delete."
 
@@ -194,18 +182,16 @@ thumbnail: https://thmb.techidaily.com/d8fe7e494aebabf85039c3b9cb2bea4831c07f6e7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-flipping-frames-learn-snapchats-reverse-trick/"><u>[New] In 2024, Flipping Frames Learn Snapchat's Reverse Trick</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-the-photographers-edge-innovating-with-instagrams-bokeh-features-for-2024/"><u>[New] The Photographer's Edge Innovating with Instagram’s Bokeh Features for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-expert-recommendations-high-end-ringtone-fabricators/"><u>[Updated] Expert Recommendations High-End Ringtone Fabricators</u></a></li>
-<li><a href="https://win-forum.techidaily.com/dual-monitor-workbook-management-in-microsoft-excel-2013/"><u>Dual Monitor Workbook Management in Microsoft Excel 2013</u></a></li>
-<li><a href="https://win-forum.techidaily.com/easy-guide-transforming-apple-numbers-documents-into-microsoft-excel-format/"><u>Easy Guide: Transforming Apple Numbers Documents Into Microsoft Excel Format</u></a></li>
-<li><a href="https://win-forum.techidaily.com/effective-methods-for-embedding-and-linking-excel-data-within-word-files/"><u>Effective Methods for Embedding and Linking Excel Data Within Word Files</u></a></li>
-<li><a href="https://win-forum.techidaily.com/effective-techniques-for-shortening-content-in-microsoft-excel/"><u>Effective Techniques for Shortening Content in Microsoft Excel</u></a></li>
-<li><a href="https://win-forum.techidaily.com/efficiently-auto-emphasize-peak-points-on-your-excel-charts-mining-data-extremes/"><u>Efficiently Auto-Emphasize Peak Points on Your Excel Charts - Mining Data Extremes</u></a></li>
-<li><a href="https://win-forum.techidaily.com/efficiently-harvest-content-a-guide-to-image-text-and-file-extraction-in-microsoft-suite/"><u>Efficiently Harvest Content: A Guide to Image, Text, and File Extraction in Microsoft Suite</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/25258521-how-to-make-a-thumbnail-for-your-youtube-free-easily/"><u>How to Make a Thumbnail for Your YouTube Free Easily!</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-pixelperfect-toolkit-guidebook/"><u>In 2024, PixelPerfect Toolkit Guidebook</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-15-apps-to-hack-wifi-password-on-poco-x5-by-drfone-android/"><u>In 2024, Top 15 Apps To Hack WiFi Password On Poco X5</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-powerhouse-behind-chatgpt-revealed-exploring-ownership-details/"><u>The Powerhouse Behind ChatGPT Revealed: Exploring Ownership Details</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-simplified-blur-methods-for-perfect-iphone-pics-a-quick-guide/"><u>[Updated] Simplified Blur Methods for Perfect iPhone Pics - A Quick Guide</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-download-youtube-tunes-with-these-10plus-no-cost-audio-crackers/"><u>2024 Approved Download YouTube Tunes with These 10+ No-Cost Audio Crackers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-implementing-gradual-audio-diminishment-in-lumafusion/"><u>2024 Approved Implementing Gradual Audio Diminishment in Lumafusion</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-the-ultimate-list-of-3d-animation-and-modelling-programs/"><u>2024 Approved The Ultimate List of 3D Animation and Modelling Programs</u></a></li>
+<li><a href="https://win-forum.techidaily.com/movavi-ogv/"><u>網路上免費提供的Movavi OGV格式變頻</u></a></li>
+<li><a href="https://win-forum.techidaily.com/effortlessly-transform-ogv-videos-to-mp4-for-free-using-our-online-tool/"><u>Effortlessly Transform OGV Videos to MP4 for Free Using Our Online Tool</u></a></li>
+<li><a href="https://win-forum.techidaily.com/free-online-conversion-transforming-mkv-files-into-mov-format-with-ease/"><u>Free Online Conversion: Transforming MKV Files Into MOV Format with Ease</u></a></li>
+<li><a href="https://win-forum.techidaily.com/i-migliori-programmi-video-editori-compatibili-con-mkv/"><u>I Migliori Programmi Video Editori Compatibili Con MKV</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-12-without-passcode-4-easy-methods-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone 12 Without Passcode? 4 Easy Methods</u></a></li>
+<li><a href="https://win-forum.techidaily.com/online-gif-jpg-movavis/"><u>Online 무료 GIF 파일을 JPG 파일로 자유롭게 변환: Movavi's 편리한 해결책</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-fixing-the-minecraft-launcher-error-0x803f8001-on-windows-11-and-10/"><u>Resolved: Fixing the Minecraft Launcher Error 0X803F8001 on Windows 11 & 10</u></a></li>
 </ul></div>
 

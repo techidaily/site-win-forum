@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Creating a Dropdown Menu From an Excel Cell"
-date: 2024-09-14T16:12:10.780Z
-updated: 2024-09-16T16:10:02.160Z
+date: 2024-09-20T16:53:29.176Z
+updated: 2024-09-21T16:36:29.190Z
 tags:
   - excel
 categories:
@@ -30,6 +30,13 @@ thumbnail: https://thmb.techidaily.com/8cc2f26346852b595fe32553f266efaeb26b116a6
 
  You can add drop-down lists to cells in Excel containing options such as "Yes" and "No", "Male" and "Female," or any other custom list of options, including numbers or special characters.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Add a Drop-Down List to Excel
 
  Drop-down lists are created using the Data Validation feature in Excel — not particularly intuitive. We’re going to create a drop-down list with a selection of age ranges to show you an example. We created three labeled [columns](https://ios-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-iphone-13-pro-max-properly-by-drfone-ios/): Name, Age, and Sex, and filled in two example names. You can do as many or as few as you like.
@@ -39,10 +46,10 @@ thumbnail: https://thmb.techidaily.com/8cc2f26346852b595fe32553f266efaeb26b116a6
 ![The age ranges we entered highlighted in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/enter-age-ranges.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now, we’re going to name our range of cells to make it easier to add them to the drop-down list. To do this, select all the cells containing the drop-down list items and then enter a name for the cell range into the Name box above the grid. We named our cell range Age.
@@ -59,6 +66,13 @@ thumbnail: https://thmb.techidaily.com/8cc2f26346852b595fe32553f266efaeb26b116a6
 
 ![The "Data Tools" flyout open with "Data Validation" highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/data-validation.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The Data Validation dialog box displays. On the Settings tab, select “List” from the Allow drop-down list (see, drop-down lists are everywhere!).
 
 ![The "Data Validation" window, with the "Allow" drop-down box open.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/select-list-from-dropdown.png) 
@@ -69,44 +83,31 @@ thumbnail: https://thmb.techidaily.com/8cc2f26346852b595fe32553f266efaeb26b116a6
 
 ![The "Source" field is set to "=Age".](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/set-equal-age.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can add a popup message that displays when the cell containing the drop-down list is selected. To do this, click the “Input Message” tab on the Data Validation dialog box. Make sure the “Show input message when the cell is selected” box is checked. Enter a Title and an Input message and then click the “OK” button.
 
 ![The "Input Message" tab.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/input-message.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  When the cell containing the drop-down list is selected, you’ll see a down arrow button to the right of the cell. If you added an input message, it displays below the cell. The down arrow button only displays when the cell is selected.
 
 ![The input message displayed with an "Age" cell selected.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/age-input-cell.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Click the down arrow button to drop down the list of options and select one.
 
 ![The drop-down menu listing the age ranges we programmed.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/age-input-options-listed-dropdown.png) 
-
-<!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Of course, we have an entire column we want to take age values. There are a few ways to make that happen. The first — and easiest — is just to select all of the cells you want to have a drop-down menu _before_ you go to Data Validation and actually add the drop-down menu. The simplest way to select every cell in a column is to click the column header. If you have a cell you're using for a label, just Ctrl+Click it to deselect it, so the formatting doesn't get applied there.
 
@@ -123,13 +124,6 @@ thumbnail: https://thmb.techidaily.com/8cc2f26346852b595fe32553f266efaeb26b116a6
  If you decide you want to remove the drop-down list from the cell, open the Data Validation dialog box as described earlier and click the “Clear All” button, which is available no matter which tab is selected on the dialog box.
 
 ![Click "Clear All" to remove the drop-down menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/clear-all-cell.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The options on the Data Validation dialog box are reset to their defaults. Click “OK” to remove the drop-down list and restore the cell to its default format.
 
@@ -156,15 +150,21 @@ thumbnail: https://thmb.techidaily.com/8cc2f26346852b595fe32553f266efaeb26b116a6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-get-more-video-views-on-youtube-for-2024/"><u>[New] How To Get More Video Views on YouTube for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-image-integrity-keeping-quality-high-during-iphone-crops/"><u>2024 Approved Image Integrity Keeping Quality High During iPhone Crops</u></a></li>
-<li><a href="https://win-forum.techidaily.com/a-comprehensive-guide-to-leading-social-platforms-facebook-twitter-instagram-and-youtube/"><u>A Comprehensive Guide to Leading Social Platforms: Facebook, Twitter, Instagram and YouTube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/connecting-billions-an-in-depth-look-at-facebook-twitter-instagram-and-youtube/"><u>Connecting Billions: An In-Depth Look at Facebook, Twitter, Instagram, and YouTube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/expert-advice-efficiently-flush-dns-caches-across-both-windows-10-and-windows-11-platforms/"><u>Expert Advice: Efficiently Flush DNS Caches Across Both Windows 10 and Windows 11 Platforms</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/how-to-download-and-install-lame-for-audacity-for-2024/"><u>How to Download and Install Lame for Audacity for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-update-iphone-14-plus-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update iPhone 14 Plus without Losing Any Data? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-vivo-y36i-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Vivo Y36i | Dr.fone</u></a></li>
-<li><a href="https://win-forum.techidaily.com/mastering-the-fix-for-peak-disk-usage-spike-on-your-windows-10-device-top-tips-and-tricks/"><u>Mastering the Fix for Peak Disk Usage Spike on Your Windows 10 Device: Top Tips & Tricks</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/optimal-google-cast-devices/"><u>Optimal Google Cast Devices</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/oga-enthusiasts-go-to-guide-on-youtube/"><u>[New] Yoga Enthusiasts' Go-To Guide on YouTube</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-tweeted-trailblazers-cutting-edge-strategies-to-save-tweets-on-screen/"><u>[Updated] 2024 Approved Tweeted Trailblazers Cutting-Edge Strategies to Save Tweets on Screen</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-experts-guide-to-best-terria-mods-for-2024/"><u>[Updated] Expert's Guide to Best Terria Mods for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-innovators-crafting-engaging-marvel-escapades/"><u>[Updated] Innovators Crafting Engaging Marvel Escapades</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-pros-picks-best-10-terraria-mods/"><u>2024 Approved Pro's Picks Best 10 Terraria Mods</u></a></li>
+<li><a href="https://win-forum.techidaily.com/ogmmpeg-movavi/"><u>無成本在網路上OGM到MPEG轉換 - 使用Movavi的方法</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/best-anti-tracker-software-for-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>Best Anti Tracker Software For Apple iPhone XS Max | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/convert-your-videos-with-movavi-a-free-online-tool-for-turning-avi-files-into-mpeg-effortless-and-safe/"><u>Convert Your Videos with Movavi: A FREE Online Tool for Turning AVI Files Into MPEG - Effortless and Safe!</u></a></li>
+<li><a href="https://win-forum.techidaily.com/free-online-conversion-transform-mp4r-audio-files-into-m4a-format-with-ease/"><u>Free Online Conversion: Transform MP4R Audio Files Into M4A Format with Ease</u></a></li>
+<li><a href="https://win-forum.techidaily.com/gratis-omzetten-van-aac-naar-wma-online-professioneel-programma-voor-muziekconversie/"><u>Gratis Omzetten Van AAC Naar WMA Online: Professioneel Programma Voor Muziekconversie</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-craft-laughs-eyedroppermemes/"><u>In 2024, Craft Laughs EyeDropperMemes</u></a></li>
+<li><a href="https://win-forum.techidaily.com/jpeg-tiff/"><u>JPEG 프리미퓰스거를 TIFF로 바꾸기: 오픈소스에서 무세척 도구</u></a></li>
+<li><a href="https://win-forum.techidaily.com/toutes-les-etapes-pour-changer-un-fichier-flac-en-ogg-gratuitement-en-ligne-movavi-guide/"><u>Toutes Les Étapes Pour Changer Un Fichier FLAC en OGG Gratuitement en Ligne - Movavi Guide</u></a></li>
+<li><a href="https://win-forum.techidaily.com/trusted-veilig-media-software-explore-movavi-video-editor/"><u>Trusted Veilig Media Software - Explore Movavi Video Editor</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-fixes-for-fifa-19-crashing-incidents-on-personal-computers/"><u>Ultimate Fixes for FIFA 19 Crashing Incidents on Personal Computers</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Tecno Camon 20? | Dr.fone</u></a></li>
 </ul></div>
 

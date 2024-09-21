@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Cutting Out Text Segments Using Microsoft Excel"
-date: 2024-09-14T16:09:51.744Z
-updated: 2024-09-16T16:27:59.795Z
+date: 2024-09-17T17:39:33.562Z
+updated: 2024-09-21T16:43:51.009Z
 tags:
   - excel
 categories:
@@ -58,6 +58,19 @@ Related: [12 Basic Excel Functions Everybody Should Know](https://visual-screen-
 
  You're all set.
 
+<!-- affiliate ads begin -->
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Extract the String to the Right of Your Text
 
  To get all the text that's to the right of the specified character in your cell, use Excel's `RIGHT` , `LEN` , and `FIND` functions.
@@ -65,13 +78,6 @@ Related: [12 Basic Excel Functions Everybody Should Know](https://visual-screen-
  Start by launching your spreadsheet and clicking the cell in which you want to see the result.
 
 ![Choose a cell.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/4-right-select-cell.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114264/17093" target="_top" id="2114264">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114264" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114264/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  In the selected cell, enter the [following function](https://vimeo-videos.techidaily.com/in-2024-high-end-downloads-best-10-apps-for-extracting-vimeo-videos/). In this function, replace `B2` with the cell where your full text is and `@` with the search character. Excel will extract the entire string to the right of this character.
 
@@ -81,22 +87,16 @@ Related: [12 Basic Excel Functions Everybody Should Know](https://visual-screen-
 
 ![Type the RIGHT function.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/5-type-right-function.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You'll see the result of the function in your chosen cell.
 
 ![The result of the RIGHT function.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/6-right-function-result.png) 
-
-<!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You're done.
 
@@ -110,6 +110,19 @@ Related: [13 Essential Excel Functions for Data Entry](https://vimeo-videos.tech
 
 ![Click a cell.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/7-mid-select-cell.png) 
 
+<!-- affiliate ads begin -->
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In the selected cell, enter the following function. In this function, replace `B2` with the cell where you have the full text, `1` with the position of the character where you want to start the string selection, and `3` with the number of characters you want to extract.
 
  Then press Enter.
@@ -117,13 +130,6 @@ Related: [13 Essential Excel Functions for Data Entry](https://vimeo-videos.tech
 =MID(B2,1,3)
 
 ![Enter the MID function.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/8-enter-mid-function.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Excel will extract the specified number of characters from the given position in your cell.
 
@@ -152,18 +158,16 @@ Related: [How to Count Cells With Text in Microsoft Excel](https://buynow-tips.t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-iconic-logos-for-podcasts-standout-strategies/"><u>[New] Iconic Logos for Podcasts Standout Strategies</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-superior-commercial-cloud-vaulting/"><u>[New] Superior Commercial Cloud Vaulting</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/affordable-excellence-a-review-of-the-40-hisense-tv-model-40h5590f-with-smart-technology/"><u>Affordable Excellence - A Review of the 40 Hisense TV Model 40H5590F with Smart Technology</u></a></li>
-<li><a href="https://win-forum.techidaily.com/connect-and-engage-with-audience-through-major-platforms-facebook-twitter-instagram-and-youtube-explained/"><u>Connect and Engage with Audience Through Major Platforms: Facebook, Twitter, Instagram & YouTube Explained</u></a></li>
-<li><a href="https://common-error.techidaily.com/corrective-measures-against-windows-d3dx939dll-missing-errors/"><u>Corrective Measures Against Windows D3DX9_39.dll Missing Errors</u></a></li>
-<li><a href="https://win-forum.techidaily.com/digital-giants-unveiled-mastering-interactions-on-facebook-twitter-instagram-and-youtube/"><u>Digital Giants Unveiled: Mastering Interactions on Facebook, Twitter, Instagram & YouTube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/exploring-social-media-giants-a-guide-to-facebook-twitter-instagram-and-youtube/"><u>Exploring Social Media Giants: A Guide to Facebook, Twitter, Instagram & Youtube</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-vivo-t2-pro-5g-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Vivo T2 Pro 5G to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-digital-leaders-the-top-10-online-video-recorder-apps/"><u>In 2024, Digital Leaders The Top 10 Online Video Recorder Apps</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/mastering-the-fix-for-ntdlldll-system-crashes-on-modern-windows-operating-systems/"><u>Mastering the Fix for ntdll.dll System Crashes on Modern Windows Operating Systems</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-guide-clearing-your-domain-name-system-cache-on-windows-1011/"><u>Step-by-Step Guide: Clearing Your Domain Name System Cache on Windows 10/11</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-guide-updating-your-windows-10-hardware-drivers-easily/"><u>Step-by-Step Guide: Updating Your Windows 10 Hardware Drivers Easily</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-vivo-y200-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Vivo Y200 Device</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-10-mock-musicals-that-bring-smiles/"><u>[New] In 2024, 10 Mock Musicals That Bring Smiles</u></a></li>
+<li><a href="https://win-forum.techidaily.com/1-8/"><u>1. 제공되는 모든 기능에 꼈짐이 들어 있는 가장 최고의 맥북 비디오 편집 소프트웨어: 8개 선보기</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/15-simple-steps-to-convert-youtube-to-mpeg-effortlessly/"><u>15 Simple Steps to Convert YouTube to MPEG Effortlessly</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-the-harmony-of-collaboration-brands-and-youtube-unite/"><u>2024 Approved The Harmony of Collaboration Brands & YouTube Unite</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/decoding-the-purpose-of-windows-11s-update-helper-a-guide-to-easily-disable-or-remove-it/"><u>Decoding the Purpose of Windows 11'S Update Helper: A Guide to Easily Disable or Remove It</u></a></li>
+<li><a href="https://article-posts.techidaily.com/full-analysis-of-t5-eyes-exceptional-action-recording-for-2024/"><u>Full Analysis of T5 Eye's Exceptional Action Recording for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/grayscale-conversion-black-and-white-effect-monochrome-and-simple-editing-tools/"><u>Grayscale Conversion, Black & White Effect, Monochrome, and Simple Editing Tools.</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/restoring-deformed-mp4-media-on-mobile-devices/"><u>Restoring Deformed MP4 Media on Mobile Devices</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-xiaomi-13t-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Xiaomi 13T for Parents | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-3-estrategias-para-converter-filmes-em-dvd-do-formato-mkv-compativel-com-windows-e-mac/"><u>Top 3 Estratégias Para Converter Filmes Em DVD Do Formato MKV (Compatível Com Windows E Mac)</u></a></li>
+<li><a href="https://win-forum.techidaily.com/trasforma-i-tuoi-file-ogv-in-animazioni-gif-senza-costi-con-movavi/"><u>Trasforma I Tuoi File OGV in Animazioni GIF Senza Costi Con Movavi</u></a></li>
 </ul></div>
 

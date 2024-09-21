@@ -1,7 +1,7 @@
 ---
 title: Efficiently Manage Full Storage Space Problems in Windows 11 Computers
-date: 2024-09-10T16:50:04.559Z
-updated: 2024-09-16T16:01:06.930Z
+date: 2024-09-14T17:17:53.874Z
+updated: 2024-09-21T17:33:56.781Z
 tags:
   - win11
   - win10
@@ -43,10 +43,10 @@ To open the Task Manager:
 ## Once you’ve checked your Task Manager and there are some issues, you can see how you can solve them below
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 1: Close applications that are running in the background
@@ -94,14 +94,14 @@ To open the Task Manager:
 ![Change advanced power settings](<https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-disk-usage/method4> - step4- Power Options.png)
 5. Select the “High-performance” option from the drop-down menu  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![High-performance](<https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-disk-usage/method4> - step5- Power Options.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 5: Reset Virtual Memory in Windows 10
 
@@ -114,6 +114,13 @@ To open the Task Manager:
 2. Click on “System”  
 ![system screen](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-disk-usage/method-5-step-2.png)
 3. Navigate to the “About” menu and click on “Advanced system settings”  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![Advanced system settings](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-disk-usage/method-5-step-3.jpg)
 4. In the “System Properties“ window click on the “Advanced” tab and click the “Settings” button in the “Performance” section  
@@ -146,6 +153,13 @@ To solve this problem you can rebuild the index:
 ![search index](<https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-disk-usage/method7> - step1.png)
 2. Select “Indexing Options” in the search results. Click on “Advanced” and hit the “Rebuild” button.  
 
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Indexing Options](<https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-disk-usage/method7> - step2.png)
 
  This will erase and rebuilt the index and fix the errors that are behind the 100% disk usage in Windows 10
@@ -160,13 +174,6 @@ Follow the steps to initiate a Disk Check:
 2. Type in the following command in the Command Prompt window –`chkdsk.exe /f /r`
 3. Hit**Enter** and type Y to confirm the Disk Check the next time you reboot your PC. The Disk Check will start the next time your system start to boot and sometimes it can take quite a while to complete.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 9: Stop the Superfetch Service
 
  Sometimes this service can cause problems and increase the usage of your hard drive.
@@ -176,10 +183,10 @@ Follow the steps to initiate a Disk Check:
 ![superfetch](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-disk-usage/method-9.png)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 10: Disable Windows Search
@@ -192,13 +199,6 @@ To disable the Windows Search follow these steps:
 ![Command Prompt](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-disk-usage/method-10-.png)
 2. Enter the command net.exe stop “Windows search”  
 ![windows search](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-disk-usage/method-10.1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  This will temporarily stop Window search from running until the next time Windows is restarted.
 
@@ -244,21 +244,15 @@ To disable the Windows Search follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-essential-igtv-feeds-for-modern-viewers/"><u>[New] In 2024, Essential IGTV Feeds for Modern Viewers</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-piecing-together-a-unique-tiktok-outro-elements/"><u>[New] In 2024, Piecing Together A Unique TikTok Outro Elements</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-instantaneously-ingesting-imagery-google-collage-basics/"><u>[Updated] Instantaneously Ingesting Imagery Google Collage Basics</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-navigating-the-best-ways-to-record-screens-on-hp-systems-for-2024/"><u>[Updated] Navigating the Best Ways to Record Screens on HP Systems for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-pathways-to-gaining-premium-image-content-without-payment/"><u>2024 Approved Pathways to Gaining Premium Image Content Without Payment</u></a></li>
-<li><a href="https://win-forum.techidaily.com/accelerate-your-productivity-discover-6-innovative-quick-steps-in-microsoft-outlook/"><u>Accelerate Your Productivity: Discover 6 Innovative Quick Steps in Microsoft Outlook</u></a></li>
-<li><a href="https://win-forum.techidaily.com/advantages-of-excel-online-why-it-beats-the-traditional-desktop-version/"><u>Advantages of Excel Online: Why It Beats the Traditional Desktop Version</u></a></li>
-<li><a href="https://win-forum.techidaily.com/collaborative-excellence-monitoring-update-progression-in-shared-excel-web-sheets/"><u>Collaborative Excellence: Monitoring Update Progression in Shared Excel Web Sheets</u></a></li>
-<li><a href="https://win-forum.techidaily.com/crafting-effective-project-timelines-using-microsoft-excel-tools/"><u>Crafting Effective Project Timelines Using Microsoft Excel Tools</u></a></li>
-<li><a href="https://win-forum.techidaily.com/design-your-own-waterfall-diagram-in-excel-easy-instructions-for-personalized-presentations/"><u>Design Your Own Waterfall Diagram in Excel - Easy Instructions for Personalized Presentations</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-and-install-amd-radeon-r9-graphics-card-drivers-on-your-windows-pc/"><u>Download and Install AMD Radeon R9 Graphics Card Drivers on Your Windows PC</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/latest-guide-how-to-bypass-itel-p55t-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Itel P55T FRP Without Computer</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-essential-resource-for-computer-enthusiasts-exploring-toms-hardware-reviews/"><u>The Essential Resource for Computer Enthusiasts: Exploring Tom's Hardware Reviews</u></a></li>
-<li><a href="https://win-forum.techidaily.com/ultimate-guide-mastering-cell-merging-techniques-in-google-sheets/"><u>Ultimate Guide: Mastering Cell Merging Techniques in Google Sheets</u></a></li>
-<li><a href="https://win-forum.techidaily.com/understanding-microsofts-office-insider-your-guide-to-previewing-new-features/"><u>Understanding Microsoft's Office Insider: Your Guide to Previewing New Features</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-no-copyright-worries-top-public-domain-video-download-sites-for-2024/"><u>Updated No Copyright Worries Top Public Domain Video Download Sites for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-a-step-by-step-approach-to-enhancing-your-instagram-video-sizes/"><u>[New] In 2024, A Step-by-Step Approach to Enhancing Your Instagram Video Sizes</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-stream-with-clarity-ranking-the-best-6-microphones-today/"><u>[New] Stream with Clarity Ranking the Best 6 Microphones Today</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-boosting-engagement-the-key-to-successful-tiktok-unpack-videos/"><u>[Updated] 2024 Approved Boosting Engagement The Key to Successful TikTok Unpack Videos</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-building-a-brand-on-fb-covers-that-speak-volumes/"><u>[Updated] Building a Brand on FB Covers that Speak Volumes</u></a></li>
+<li><a href="https://win-forum.techidaily.com/as-configuracoes-ideais-do-obs-no-inicio-dos-anos-2024-dicas-estrategicas-pela-movavi/"><u>As Configurações Ideais Do OBS No Início Dos Anos 2024 – Dicas Estratégicas Pela Movavi</u></a></li>
+<li><a href="https://win-forum.techidaily.com/grabacion-sin-coste-transforma-tu-audio-wav-a-mp3-facilmente-usando-la-herramienta-de-conversion-online-de-movavi/"><u>Grabación Sin Coste: Transforma Tu Audio WAV a MP3 Fácilmente Usando La Herramienta De Conversión Online De Movavi</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-unveiling-the-secrets-of-facebook-videos/"><u>In 2024, Unveiling the Secrets of Facebook Videos</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/top-mp4-metadata-editors-for-video-enthusiasts-for-2024/"><u>Top MP4 Metadata Editors for Video Enthusiasts for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/transform-videos-for-free-with-movavi-convert-mkv-to-mov-in-just-one-click/"><u>Transform Videos for Free with Movavi: Convert MKV to MOV in Just One Click</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-malfunctioning-drivers-with-windows-device-manager-on-windows-7-by-drivereasy-guide/"><u>Use Device Manager to identify malfunctioning drivers with Windows Device Manager on Windows 7</u></a></li>
 </ul></div>
 

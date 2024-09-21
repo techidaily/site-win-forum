@@ -1,7 +1,7 @@
 ---
 title: Top 8 Essential Settings to Optimize Any Windows Laptop (For Starters)
-date: 2024-09-14T16:07:32.695Z
-updated: 2024-09-16T16:24:11.518Z
+date: 2024-09-16T16:45:35.586Z
+updated: 2024-09-21T16:57:48.984Z
 tags:
   - windows
 categories:
@@ -54,11 +54,25 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Be careful not to clutter up the taskbar, as this can make finding relevant apps more complex. If pinning all frequently used apps clutters the taskbar, consider creating desktop shortcuts for some of them. This way, they will still easily access their frequently used apps without overloading the taskbar.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4  Set Up Automatic Data Backups 
 
  It's essential to back up the non-techie person's data to protect against accidental deletion and corruption of important files. While they could use an external drive, this method can be time-consuming and challenging. Therefore, I recommend using a cloud storage service, which will automatically back up their data without requiring any action from them (or you).
 
  One option is OneDrive, though it only backs up specific folders. For more thorough backups, [consider a premium backup service like Backblaze](https://audio-shaping.techidaily.com/in-2024-probing-sound-clarity-an-updated-analysis-of-cambridges-cxu-series/) that can back up their entire computer.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5  Foolproof the System's Security 
 
@@ -71,18 +85,18 @@ Lucas Gouveia / How-To Geek | Shutterstock.AI
 
  You can also [create a System Restore point](https://instagram-video-files.techidaily.com/updated-in-2024-multiplying-joy-sharing-a-pile-of-photos-and-videos-with-instagram/) to quickly revert their system if something goes wrong. Advise them against downloading third-party apps and use parental control software to restrict access to specific websites. Also, educate them on the best online practices for staying safe while surfing the web.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6  Uninstall Bloatware and Install Handy Apps 
 
  When someone gets a new computer, it’s likely to come with a lot of bloatware that uses up system storage and slows down performance. These unnecessary programs often start up with the computer, slow down the boot process, and consume resources in the background. Therefore, it’s essential to remove these apps and [debloat the operating system](https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-xiaomi-14-pro-without-puk-codes-by-drfone-android/).
 
  Afterward, you should install helpful apps to enhance their computer experience. For example, you could add Everything to make file searching easier, Auto Dark Mode to automatically switch between dark and light modes at different times of the day, ShareX for capturing screenshots and recording videos, and other [helpful apps and tools](https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-honor-90-drfone-by-drfone-virtual-android/).
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7  Customize Screen Element Sizes to Their Preferences 
 
@@ -91,39 +105,25 @@ Lucas Gouveia / How-To Geek | Shutterstock.AI
 ![Changing scale and resolution in the Settings app on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/3-changing-scale-and-resolution-in-the-settings-app-on-windows.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Next, navigate to the "Accessibility" tab on the left sidebar. Go to the "Text Size" section and drag the slider to increase the text size. Then, go back and select "Mouse Pointer and Touch" to adjust the pointer size and style. You can also change the size of desktop shortcut icons, pinned taskbar items, and more.
 
 ![Changing the text size in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/4-changing-the-text-size-in-the-windows-settings-app.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If the person you're setting up the Windows PC for has visual impairments, enable the Magnifier feature to enlarge parts of the screen for easier reading. You can also activate the Narrator to read text aloud. For those with hearing impairments, turn on Captions to provide closed captions for audio. You can turn these features on in the Accessibility settings.
 
 ![Enabling the magnifier, narrator and captions in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/5-enabling-the-magnifier-narrator-and-captions-in-the-windows-settings-app.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121331/18498" target="_top" id="2121331">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121331" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121331/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 8  Teach Them Basic Windows Actions 
 
@@ -150,18 +150,19 @@ Lucas Gouveia / How-To Geek | Shutterstock.AI
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-a-deep-dive-into-fraps-recording-capabilities/"><u>[New] 2024 Approved A Deep Dive Into Fraps Recording Capabilities</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-inside-the-world-of-xmedia-workshop-a-thorough-examination-for-2024/"><u>[New] Inside the World of XMedia Workshop A Thorough Examination for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-optimal-methods-for-game-recordings/"><u>[Updated] 2024 Approved Optimal Methods for Game Recordings</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-the-finishing-touch-journalisms-close-call/"><u>2024 Approved The Finishing Touch Journalism's Close Call</u></a></li>
-<li><a href="https://win-forum.techidaily.com/accelerate-your-productivity-discover-6-innovative-quick-steps-in-microsoft-outlook/"><u>Accelerate Your Productivity: Discover 6 Innovative Quick Steps in Microsoft Outlook</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Realme C67 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-crafting-dynamic-musical-journeys-with-crossfading/"><u>In 2024, Crafting Dynamic Musical Journeys with Crossfading</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-guide-extracting-your-subject-by-removing-the-background-with-microsoft-excel/"><u>Step-by-Step Guide: Extracting Your Subject by Removing the Background with Microsoft Excel</u></a></li>
-<li><a href="https://win-forum.techidaily.com/switching-on-dark-theme-a-step-by-step-guide-for-windows-11-users/"><u>Switching on Dark Theme: A Step-by-Step Guide for Windows 11 Users</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/-symphony-selecting-superior-dj-templates-for-download/"><u>Synth Symphony Selecting Superior DJ Templates for Download</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-ultimate-guide-to-utilizing-office-2016s-ink-function-for-math-equations/"><u>The Ultimate Guide to Utilizing Office 2016'S Ink Function for Math Equations.</u></a></li>
-<li><a href="https://win-forum.techidaily.com/ultimate-guide-mastering-cell-merging-techniques-in-google-sheets/"><u>Ultimate Guide: Mastering Cell Merging Techniques in Google Sheets</u></a></li>
-<li><a href="https://win-forum.techidaily.com/understanding-microsofts-office-insider-your-guide-to-previewing-new-features/"><u>Understanding Microsoft's Office Insider: Your Guide to Previewing New Features</u></a></li>
+<li><a href="https://win-forum.techidaily.com/1726224002243-v-is-the-final-velocity-0-ms/"><u> (V ) Is the Final Velocity (0 M/S)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-techniques-to-create-compelling-vlogger-dialogue-plans/"><u>[New] Techniques to Create Compelling Vlogger Dialogue Plans</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-recording-revolution-tactics-for-extracting-live-data/"><u>2024 Approved Recording Revolution Tactics for Extracting LIVE Data</u></a></li>
+<li><a href="https://win-forum.techidaily.com/5-facilisimos-pasos-para-empezar-a-grabar-en-vivo-por-internet-con-moviavi/"><u>5 Facilísimos Pasos Para Empezar a Grabar en Vivo Por Internet Con Moviavi</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mpgmp4avi-movavi/"><u>免費線上MPG/MP4轉換為AVI影片- Movavi轉檔工具選項</u></a></li>
+<li><a href="https://win-forum.techidaily.com/aiff-naar-mp3-online-konverteren-kostenloos-proficient-resultaten-met-movavi/"><u>AIFF Naar MP3 Online Konverteren Kostenloos: Proficiënt Resultaten Met Movavi</u></a></li>
+<li><a href="https://win-forum.techidaily.com/best-no-cost-animators-toolkit-of-2024-including-both-2d-and-3d-programming-options/"><u>Best No-Cost Animator's Toolkit of 2024 Including Both 2D and 3D Programming Options</u></a></li>
+<li><a href="https://win11.techidaily.com/boost-budget-efficiency-windows-11-pro-discounts/"><u>Boost Budget Efficiency: Windows 11 Pro Discounts</u></a></li>
+<li><a href="https://win-forum.techidaily.com/de-top-6-metodene-for-bedre-bildet-losningstekniken/"><u>De Top-6 Metodene for Bedre Bildet Lösningstekniken</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>Does find my friends work on Apple iPhone SE (2020) | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-tips-and-tricks-broadcasting-high-quality-360-videos-on-fb/"><u>In 2024, Tips and Tricks Broadcasting High-Quality 360 Videos on FB</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-viral-anime-themed-videos-for-tiktok-success/"><u>In 2024, Viral Anime-Themed Videos for TikTok Success</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/live-vs-stream-gopro-hero5-black-up-against-virb-ultra/"><u>Live Vs. Stream GoPro Hero5 Black Up Against VIRB Ultra</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-selection-of-ipad-pro-upgrades-the-must-have-devices/"><u>Ultimate Selection of iPad Pro Upgrades: The Must-Have Devices</u></a></li>
 </ul></div>
 

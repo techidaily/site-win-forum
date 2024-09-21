@@ -1,7 +1,7 @@
 ---
 title: "Mastering File Management: Setting Up Directories & Documents via Windows Command Line"
-date: 2024-09-13T16:22:42.800Z
-updated: 2024-09-16T16:26:53.668Z
+date: 2024-09-14T16:14:04.678Z
+updated: 2024-09-21T17:22:09.375Z
 tags:
   - windows
 categories:
@@ -55,13 +55,6 @@ mkdir Mahesh
 
 ![Create a single folder from Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-create-single-folder-cmd.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To create a folder that has spaces in its name, enclose the name with double quotes like this:
 
 mkdir “Mahesh Makvana”
@@ -78,6 +71,13 @@ mkdir Photos\Personal
 
 ![Create a subfolder using Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-create-subfolder-cmd.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Create Multiple Folders at Once
 
  To [make several folders at once](https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/), add the required folder names to the mkdir command.
@@ -88,14 +88,14 @@ mkdir Documents Photos Videos
 
 ![Create multiple folders with Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6-create-multiple-folders-cmd.jpg) 
 
- Make sure to enclose the folder name with double quotes if its name has spaces.
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Make sure to enclose the folder name with double quotes if its name has spaces.
 
 ##  Create a File with Command Prompt
 
@@ -112,10 +112,10 @@ type nul > document.txt
 ![Create a file with Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/7-create-file-cmd.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To create a text file and add some actual text to it, use the following command. Replace "Welcome to How-To Geek" with the text you want to add and "howtogeek" with the name you want to use for the file.
@@ -143,19 +143,20 @@ echo Welcome to How-To Geek > howtogeek.txt
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-choreographed-vocal-harmony-on-tiktok/"><u>[Updated] 2024 Approved Choreographed Vocal Harmony on TikTok</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-discover-the-perfect-tunefab-recorder-for-your-needs/"><u>[Updated] 2024 Approved Discover the Perfect Tunefab Recorder for Your Needs</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-selecting-the-finest-screen-recorders-1-to-5-android/"><u>[Updated] In 2024, Selecting the Finest Screen Recorders, #1 to #5 (Android)</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/360-degree-cameras-vs-3d-cameras-what-are-the-differences-in-2024/"><u>360 Degree Cameras Vs 3D Cameras What Are the Differences, In 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/forgotten-the-voicemail-password-of-oppo-reno-11-pro-5g-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Oppo Reno 11 Pro 5G? Try These Fixes</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-honor-90-pro-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Honor 90 Pro | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-tecno-camon-20-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Tecno Camon 20 Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-realme-v30-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Realme V30 for Streaming | Dr.fone</u></a></li>
-<li><a href="https://win-forum.techidaily.com/lockdowns-and-stay-at-home-orders/"><u>Lockdowns and Stay-at-Home Orders</u></a></li>
-<li><a href="https://win-forum.techidaily.com/quick-methods-for-discovering-and-deleting-aged-data-on-your-windows-11-pc/"><u>Quick Methods for Discovering and Deleting Aged Data on Your Windows 11 PC</u></a></li>
-<li><a href="https://win-forum.techidaily.com/retro-tech-goes-open-source-microsofts-dos-40-from-the-late-80s-ready-to-download/"><u>Retro Tech Goes Open Source: Microsoft's DOS 4.0 From the Late '80S Ready to Download!</u></a></li>
-<li><a href="https://win-forum.techidaily.com/save-big-secure-microsoft-windows-11-pro-with-an-impressive-88-price-cut/"><u>Save Big: Secure Microsoft Windows 11 Pro with an Impressive 88% Price Cut!</u></a></li>
-<li><a href="https://win-forum.techidaily.com/secure-your-childs-digital-space-a-step-by-step-tutorial-for-enabling-parental-controls-in-windows-11/"><u>Secure Your Child's Digital Space: A Step-by-Step Tutorial for Enabling Parental Controls in Windows 11</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-guide-removing-items-from-clipboard-memory-in-windows-11/"><u>Step-by-Step Guide: Removing Items From Clipboard Memory in Windows 11</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-the-magic-behind-immersive-world-creation/"><u>[New] 2024 Approved The Magic Behind Immersive World Creation</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-lifelike-linkage-logistics-softwares-substance-over-hardwares-hustle/"><u>[New] Lifelike Linkage Logistics Software's Substance over Hardware's Hustle</u></a></li>
+<li><a href="https://win-forum.techidaily.com/movaviwebmwmv/"><u>使用Movavi將WebM自動無條件地轉換成WMV格式 - 在線免費服務</u></a></li>
+<li><a href="https://win-forum.techidaily.com/conversion-gratuita-transforma-tu-musica-de-wma-a-mp3-directamente-desde-el-web/"><u>Conversión Gratuita: Transforma Tu Música De WMA a MP3 Directamente Desde El Web</u></a></li>
+<li><a href="https://win-forum.techidaily.com/converti-gif-in-file-ogv-senza-costi-su-internet-con-movavi-il-modo-piu-veloce-e-facile/"><u>Converti GIF in File OGV Senza Costi Su Internet Con Movavi - Il Modo Più Veloce E Facile!</u></a></li>
+<li><a href="https://win-forum.techidaily.com/effortlessly-resize-and-snip-iphone-footage-using-our-5-tricks-tutorial/"><u>Effortlessly Resize & Snip iPhone Footage Using Our 5-Tricks Tutorial</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-launchpad-gear-list-enhance-your-beginners-gopro-journey/"><u>In 2024, Launchpad Gear List - Enhance Your Beginner's GoPro Journey</u></a></li>
+<li><a href="https://win-forum.techidaily.com/metodo-simple-para-convertir-archivos-flv-en-mp3-online-sin-gasto-recomendado-por-movavi/"><u>Método Simple Para Convertir Archivos FLV en MP3 Online Sin Gasto: Recomendado Por Movavi</u></a></li>
+<li><a href="https://win-forum.techidaily.com/online-free-mp4-a-aac-convertidor-pelo-site-movavi-sem-custo/"><u>Online Free MP4 a AAC Convertidor Pelo Site Movavi - Sem Custo!</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/organize-your-videos-with-ease-top-8-mac-metadata-editors/"><u>Organize Your Videos with Ease Top 8 Mac Metadata Editors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quashing-games-recommendations-on-win11-systems/"><u>Quashing Games Recommendations on Win11 Systems</u></a></li>
+<li><a href="https://techtrends.techidaily.com/smart-assistants-face-off-why-alexa-or-google-assistant-might-be-your-ideal-pick/"><u>Smart Assistants Face-Off: Why Alexa or Google Assistant Might Be Your Ideal Pick</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-7-mejores-capturadoras-de-video-en-la-web-movavi/"><u>Top 7 Mejores Capturadoras De Video en La Web - Movavi</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/transform-yourfb-watchlist-with-easy-youtube-video-autoplay-configuration/"><u>Transform YourFB Watchlist with Easy Youtube Video Autoplay Configuration</u></a></li>
+<li><a href="https://driver-download.techidaily.com/troubleshooting-guide-for-linksys-ae1200-wireless-router-driver-installation-best-practices-and-fixes/"><u>Troubleshooting Guide for Linksys AE1200 Wireless Router Driver Installation – Best Practices & Fixes</u></a></li>
 </ul></div>
 

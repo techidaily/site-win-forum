@@ -1,7 +1,7 @@
 ---
 title: Design Your Own Waterfall Diagram in Excel - Easy Instructions for Personalized Presentations
-date: 2024-09-14T16:13:14.709Z
-updated: 2024-09-16T16:41:54.906Z
+date: 2024-09-20T16:38:07.135Z
+updated: 2024-09-21T16:38:47.396Z
 tags:
   - excel
 categories:
@@ -64,6 +64,13 @@ Related: [How to Automatically Generate Charts in Google Sheets](https://fox-dir
 
 ![Waterfall chart with totals](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/WaterfallChartWithTotals-ExcelWaterfall.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Customize a Waterfall Chart
 
  Like other chart types in Excel, you can customize the design, colors, and appearance of your chart. If this isn't something you've done yet in Excel, here are the basics for customizing your chart.
@@ -71,13 +78,6 @@ Related: [How to Automatically Generate Charts in Google Sheets](https://fox-dir
  If you'd like to start by changing the title, click the Chart Title text box.
 
 ![Change the Chart Title](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/ChartTitle-ExcelWaterfall.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114265/17093" target="_top" id="2114265">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114265" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114265/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Double-click the chart to open the Format Chart Area sidebar. Then, use the Fill & Line, Effects, and Size & Properties tabs to do things like add a border, apply a shadow, or scale the chart.
 
@@ -88,16 +88,10 @@ Related: [How to Automatically Generate Charts in Google Sheets](https://fox-dir
 ![Adjust the Chart Elements](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/ChartElements-ExcelWaterfall.png) 
 
 <!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Select the chart and go to the Chart Design tab. Then, use the tools in the ribbon to select a different layout, change the colors, pick a new style, or adjust your data selection.
@@ -125,20 +119,18 @@ Related: [How to Automatically Generate Charts in Google Sheets](https://fox-dir
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-mastering-clear-webcam-footage-recording-and-editing-tips/"><u>[New] 2024 Approved Mastering Clear Webcam Footage Recording & Editing Tips</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-in-depth-tutorials-on-documenting-ps3-gaming-sessions/"><u>[Updated] 2024 Approved In-Depth Tutorials on Documenting PS3 Gaming Sessions</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-beginners-blueprint-for-green-screen-in-kinemaster/"><u>[Updated] In 2024, Beginner's Blueprint for Green Screen in KineMaster</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-mastering-cost-effective-techniques-in-text-animations/"><u>2024 Approved Mastering Cost-Effective Techniques in Text Animations</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-prime-sound-capture-top-mics-pairing-with-4k-video-equipment/"><u>2024 Approved Prime Sound Capture Top Mics Pairing with 4K Video Equipment</u></a></li>
-<li><a href="https://blog-min.techidaily.com/free-and-fantastic-discover-the-premier-animation-programs-for-apple-devices-2024-edition/"><u>Free and Fantastic: Discover the Premier Animation Programs for Apple Devices, 2024 Edition</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-tecno-camon-20-pro-5g-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Tecno Camon 20 Pro 5G Running Slow and Freezing | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-guide-converting-interstellar-dvd-2014-for-viewing-on-your-iphoneipad/"><u>Step-by-Step Guide: Converting Interstellar (DVD, 2014) for Viewing on Your iPhone/iPad</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-guide-turning-off-windows-118s-smartscreen-protection/"><u>Step-by-Step Guide: Turning Off Windows 11/8'S SmartScreen Protection</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-guide-uninstalling-a-printer-from-your-computer-on-windows-11-or-windows-10/"><u>Step-by-Step Guide: Uninstalling a Printer From Your Computer on Windows 11 or Windows 10</u></a></li>
-<li><a href="https://win-forum.techidaily.com/support-for-healthcare-systems/"><u>Support for Healthcare Systems</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-peak-of-pc-gaming-a-world-without-launchers/"><u>The Peak of PC Gaming: A World Without Launchers</u></a></li>
-<li><a href="https://win-forum.techidaily.com/top-5-expectations-from-nvidias-revolutionary-arm-powered-cpu/"><u>Top 5 Expectations From NVIDIA's Revolutionary ARM-Powered CPU</u></a></li>
-<li><a href="https://win-forum.techidaily.com/transforming-your-uninteresting-windows-terminal-with-eye-catching-design-upgrades/"><u>Transforming Your Uninteresting Windows Terminal with Eye-Catching Design Upgrades</u></a></li>
-<li><a href="https://win-forum.techidaily.com/travel-restrictions/"><u>Travel Restrictions</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-capturing-creativity-expert-analyses-of-video-tech/"><u>[Updated] 2024 Approved Capturing Creativity Expert Analyses of Video Tech</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-cutting-edge-tips-for-making-masterpieces-with-snaps/"><u>[Updated] 2024 Approved Cutting-Edge Tips for Making Masterpieces with Snaps</u></a></li>
+<li><a href="https://win-forum.techidaily.com/wav-and-flv-movavi/"><u>「シークレット・コード: WAV & FLVの両方に対応する無料ウェブベース音楽ファイル変換 - Movavi」</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/daybreaks-dream-10-most-exquisite-websites-for-hd-skies/"><u>Daybreak's Dream 10 Most Exquisite Websites for HD Skies</u></a></li>
+<li><a href="https://common-error.techidaily.com/deciphering-error-code-0xc1900208-in-windows-11-fixes-and-tips-to-get-your-system-updated/"><u>Deciphering Error Code 0xC1900208 in Windows 11: Fixes and Tips to Get Your System Updated</u></a></li>
+<li><a href="https://win-forum.techidaily.com/expert-tips-for-producing-high-quality-video-memories-at-home/"><u>Expert Tips for Producing High-Quality Video Memories at Home</u></a></li>
+<li><a href="https://win-forum.techidaily.com/gratuit-online-konvertent-wav-van-w64-met-movavi-efficient-en-gemakkelijk/"><u>Gratuit Online Konvertent WAV Van W64 Met Movavi - Efficiënt en Gemakkelijk</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-a-comprehensive-guide-to-mastering-ipogo-for-pokemon-go-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>In 2024, A Comprehensive Guide to Mastering iPogo for Pokémon GO On Apple iPhone 6s | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-oppo-a79-5g-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Oppo A79 5G Phone without Any Data Loss</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-15-reproductores-de-archivos-mp4-facil-de-usar-para-windows-10-y-macos-version-gratuita/"><u>Top 15 Reproductores De Archivos MP4 Fácil De Usar Para Windows 10 Y macOS - Versión Gratuita</u></a></li>
+<li><a href="https://win-forum.techidaily.com/trasforma-i-tuoi-file-wav-in-aac-gratis-online-usando-movavi/"><u>Trasforma I Tuoi File WAV in AAC Gratis Online Usando Movavi</u></a></li>
+<li><a href="https://windows11.techidaily.com/understanding-microsofts-family-safety-features/"><u>Understanding Microsoft's Family Safety Features</u></a></li>
+<li><a href="https://win-forum.techidaily.com/1726225428259-mp3mkv/"><u>フリーバッティング変換ソリューション：オンデマンドMP3/MKVコンバーター - ムヴァビ</u></a></li>
 </ul></div>
 

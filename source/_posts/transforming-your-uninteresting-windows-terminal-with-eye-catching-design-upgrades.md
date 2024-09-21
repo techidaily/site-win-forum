@@ -1,7 +1,7 @@
 ---
 title: Transforming Your Uninteresting Windows Terminal with Eye-Catching Design Upgrades
-date: 2024-09-09T16:31:21.509Z
-updated: 2024-09-16T16:24:24.057Z
+date: 2024-09-15T16:03:42.642Z
+updated: 2024-09-21T17:13:32.459Z
 tags:
   - windows
 categories:
@@ -51,13 +51,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Windows Terminal Application Theme](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/windows-terminal-application-theme.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The "Color Schemes" menu contains many more themes, or you can even create your own color scheme.
 
 ![Windows Terminal color schemes](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/windows-terminal-color-schemes.png) 
@@ -67,13 +60,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  You can press the "Add New" button, play around with the color selection, and press the "Save" button to save it as a new color scheme. Then, you can choose that scheme from the list of color schemes. You need to set it as default to start using it.
 
 ![Adding a new color scheme to the Windows Terminal](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/adding-a-new-color-scheme-to-the-windows-terminal.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![New color scheme added to the Windows Terminal](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/add-new-color-scheme-to-the-windows-terminal.png) 
 
@@ -107,13 +93,6 @@ Close
 
 ![Font settings in Windows Terminal](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/font-settings-in-windows-terminal.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You should see a few font-related options here. You can choose the font family, font size, and font weight.
 
 ![Dfferent font settings in Windows Terminal](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/dfferent-font-settings-in-windows-terminal.png) 
@@ -127,15 +106,28 @@ Close
 ![Choosing colors in the Windows Terminal](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/choosing-colors-in-the-windows-terminal.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you don't like using solid colors for the Terminal background, you can also choose images. Go to Defaults > Appearance, then under Background Image, provide a path for the image you'd like to use as the background. You can also use your desktop wallpaper. Once you choose an image, you'll notice more options, such as the image stretch mode, alignment, and opacity.
 
 ![Windows Terminal background settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/windows-terminal-background-settings.png) 
+
+<!-- affiliate ads begin -->
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Make sure to choose a less bright image as your background. Otherwise, you'll have a hard time seeing the text. Another option is to lower the opacity to about 50%.
 
@@ -152,6 +144,13 @@ Close
 winget install JanDeDobbeleer.OhMyPosh -s winget
 
 ![Installing Oh My Posh on Windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/installing-oh-my-posh-on-windows.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After the installation, restart the Terminal to reload [the PATH](https://android-frp.techidaily.com/in-2024-the-complete-guide-to-meizu-frp-bypass-everything-you-need-to-know-by-drfone-android/). To confirm the installation, run:
 
@@ -198,6 +197,13 @@ notepad $PROFILE
 oh-my-posh init pwsh | Invoke-Expression
 
 ![Editing PowerShell profile on Windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/editing-powershell-profile-on-windows.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Save the file and reload the profile with this command:
 
@@ -251,16 +257,16 @@ Import-Module -Name Terminal-Icons
 
 ![Listing the directory content in Windows 11 using PowerShell](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/listing-the-directory-content-in-windows-11-using-powershell.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118304/7443" target="_top" id="2118304">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118304" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118304/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Combining everything so far, here's my final result.
 
 ![A customized Windows Terminal](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/customized-windows-terminal-1.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  A Beautiful Windows Terminal at Your Service
 
@@ -281,17 +287,17 @@ Import-Module -Name Terminal-Icons
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/updated-a-look-at-the-future-of-windows-10s-evolution/"><u>[Updated] A Look at the Future of Windows 10'S Evolution</u></a></li>
-<li><a href="https://facebook.techidaily.com/examining-buzz-generation-through-hashing-techniques-on-facebook/"><u>Examining #Buzz Generation Through Hashing Techniques on Facebook</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/finding-your-niche-making-money-with-video-content-for-2024/"><u>Finding Your Niche Making Money with Video Content for 2024</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/forgot-your-iphone-code-easy-methods-for-performing-a-full-device-reset/"><u>Forgot Your iPhone Code? Easy Methods for Performing a Full Device Reset</u></a></li>
-<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-oppo-reno-9a-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Oppo Reno 9A Phones with/without a PC</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-realme-12-proplus-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Realme 12 Pro+ 5G without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Oppo Find X6 Pro? | Dr.fone</u></a></li>
-<li><a href="https://win-forum.techidaily.com/revolutionizing-portable-computing-microsofts-improvements-to-windows-for-pocket-sized-pcs/"><u>Revolutionizing Portable Computing: Microsoft's Improvements to Windows for Pocket-Sized PCs</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-guide-elevate-your-computer-with-a-windows-11-update/"><u>Step-by-Step Guide: Elevate Your Computer with a Windows 11 Update</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-guide-resolving-error-occurred-during-troubleshooting-in-windows-1110/"><u>Step-by-Step Guide: Resolving 'Error Occurred During Troubleshooting' In Windows 11/10</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-guide-turning-off-windows-118s-smartscreen-protection/"><u>Step-by-Step Guide: Turning Off Windows 11/8'S SmartScreen Protection</u></a></li>
-<li><a href="https://fox-links.techidaily.com/ultimate-digital-lecture-name-builder-for-2024/"><u>Ultimate Digital Lecture Name Builder for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-unbeatable-deals-discover-the-best-free-desktop-recorders-for-2024/"><u>[New] Unbeatable Deals Discover the Best Free Desktop Recorders for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-quick-start-guide-to-schedule-and-start-zoom-calls-on-android/"><u>[Updated] In 2024, Quick-Start Guide to Schedule & Start Zoom Calls on Android</u></a></li>
+<li><a href="https://win-forum.techidaily.com/2-advanced-video-editing-techniques-expert-tips-for-trimming-footage-with-quicktime-and-movavi-tools/"><u>2. Advanced Video Editing Techniques: Expert Tips for Trimming Footage with QuickTime and Movavi Tools</u></a></li>
+<li><a href="https://win-forum.techidaily.com/gifs-to-webm-movavi/"><u>全面無限制地自由移動 GIFs to WebM - 利用 Movavi 簡便轉換器</u></a></li>
+<li><a href="https://win-forum.techidaily.com/conversion-gratuite-des-fichiers-raw-vers-ligne-de-base-movavi/"><u>Conversion Gratuite Des Fichiers RAW Vers Ligne De Base - Movavi</u></a></li>
+<li><a href="https://win-forum.techidaily.com/convertidor-livre-en-linea-para-archivos-vobts-con-movavi-facilidad-y-excelencia/"><u>Convertidor Livre en Línea Para Archivos VOB/TS Con Movavi - Facilidad Y Excelencia</u></a></li>
+<li><a href="https://win-forum.techidaily.com/des-astuces-pour-faire-en-sorte-que-windows-media-player-lise-les-dvd-sans-problemes/"><u>Des Astuces Pour Faire en Sorte Que Windows Media Player Lise Les DVD Sans Problèmes!</u></a></li>
+<li><a href="https://article-tips.techidaily.com/enriching-storytelling-the-magic-of-adding-music-to-reels-for-2024/"><u>Enriching Storytelling The Magic of Adding Music to Reels for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-when-apple-account-locked-from-apple-iphone-7-by-drfone-ios/"><u>In 2024, How to Fix when Apple Account Locked From Apple iPhone 7?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-issue-play-age-of-ashes-seamlessly-on-your-computer-now/"><u>Solved Issue! Play 'Age of Ashes' Seamlessly on Your Computer Now</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unraveling-the-mystery-behind-the-500-internal-server-blunder/"><u>Unraveling the Mystery Behind the 500 Internal Server Blunder</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723211510886-video-not-showing-follow-these-simple-steps-to-solve-the-problem/"><u>Video Not Showing? Follow These Simple Steps to Solve the Problem!</u></a></li>
 </ul></div>
 

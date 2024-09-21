@@ -1,7 +1,7 @@
 ---
 title: "VLOOKUP Essentials: A Step-by-Step Guide to Querying Ranges in Excel Spreadsheets"
-date: 2024-09-10T16:28:05.297Z
-updated: 2024-09-16T16:45:13.130Z
+date: 2024-09-15T17:40:36.031Z
+updated: 2024-09-21T17:06:48.197Z
 tags:
   - excel
 categories:
@@ -47,6 +47,13 @@ thumbnail: https://thmb.techidaily.com/23f13f96d936d78089a7e8a3b93e560ac0ab85876
 
  The table array has been fixed to stop it changing when the formula is copied down the cells of column B.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  Something to Be Careful About
 
  When looking in ranges with VLOOKUP, it is essential that the first column of the table array (column D in this scenario) is sorted in ascending order. The formula relies on this order to place the lookup value in the correct range.
@@ -56,16 +63,10 @@ thumbnail: https://thmb.techidaily.com/23f13f96d936d78089a7e8a3b93e560ac0ab85876
 ![Wrong results due to table not being in order](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/03/vlookup-gone-wrong.png) 
 
 <!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  It is important to be clear that the order is only essential with range lookups. When you put False on the end of a VLOOKUP function, the order is not so important.
@@ -92,13 +93,6 @@ thumbnail: https://thmb.techidaily.com/23f13f96d936d78089a7e8a3b93e560ac0ab85876
 
 ![VLOOKUP returning conditional discounts](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/03/vlookup-discounted-price.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
 
  VLOOKUP is not just useful for when looking for specific records such as employees and products. It's more versatile than many people know, and having it return from a range of values is an example of that. You can also use it as an alternative to otherwise complicated formulas.
@@ -118,19 +112,15 @@ thumbnail: https://thmb.techidaily.com/23f13f96d936d78089a7e8a3b93e560ac0ab85876
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-full-screen-mastery-for-premier-pro-users/"><u>[New] 2024 Approved Full Screen Mastery for Premier Pro Users</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-premium-windows-10-screen-recording-software-for-2024/"><u>[New] Premium Windows 10 Screen Recording Software for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-eliminating-noise-in-photos-using-photopeas-tools/"><u>[Updated] 2024 Approved Eliminating Noise in Photos Using Photopea's Tools</u></a></li>
-<li><a href="https://win-forum.techidaily.com/connect-and-engage-on-major-online-channels-facebook-twitter-instagram-and-youtube/"><u>Connect and Engage on Major Online Channels: Facebook, Twitter, Instagram & YouTube</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/decoding-poap-exploring-the-evolution-of-memory-storage-within-the-web3-revolution/"><u>Decoding POAP: Exploring the Evolution of Memory Storage Within the Web3 Revolution</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/delicate-film-opening/"><u>Delicate Film Opening</u></a></li>
-<li><a href="https://media-tips.techidaily.com/master-the-art-of-music-blending-a-step-by-step-guide-with-visuals-simplified/"><u>Master the Art of Music Blending: A Step-by-Step Guide with Visuals, Simplified</u></a></li>
-<li><a href="https://win-forum.techidaily.com/master-the-installation-of-revo-permission-manager-using-revouninstaller-a-detailed-guide/"><u>Master the Installation of Revo Permission Manager Using RevoUninstaller - A Detailed Guide</u></a></li>
-<li><a href="https://win-forum.techidaily.com/navigate-through-social-giants-strategies-for-facebook-twitter-instagram-and-youtube-success/"><u>Navigate Through Social Giants: Strategies for Facebook, Twitter, Instagram, and Youtube Success</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/sci-fis-new-dimensions-top-10-films-taking-viewers-beyond-our-reality-for-2024/"><u>Sci-Fi's New Dimensions Top 10 Films Taking Viewers Beyond Our Reality for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/solving-connectivity-issues-a-guide-to-reviving-your-logitech-k780-keyboard/"><u>Solving Connectivity Issues: A Guide to Reviving Your Logitech K780 Keyboard</u></a></li>
-<li><a href="https://win-forum.techidaily.com/synergy-of-popular-platforms-strategies-for-facebook-twitter-instagram-and-youtubers/"><u>Synergy of Popular Platforms: Strategies for Facebook, Twitter, Instagram and YouTubers</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-ultimate-guide-to-major-social-media-sites-twitter-instagram-and-more/"><u>The Ultimate Guide to Major Social Media Sites: Twitter, Instagram & More!</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-how-to-fix-fifa-21-failure-on-startup/"><u>Troubleshooting: How to Fix FIFA 21 Failure on Startup</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-color-theory-and-how-to-use-it/"><u>[New] Color Theory And How To Use It</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-elite-selection-of-fbs-best-viewing-apps/"><u>[New] In 2024, Elite Selection of FB's Best Viewing Apps</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-infinix-note-30-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Infinix Note 30 | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/gif-mov-movavi/"><u>GIF에서 MOV으로의 원활한 교체: Movavi를 사용하여 무료 바이너리화</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-depth-analysis-simplified-dynamic-range-photography-for-2024/"><u>In-Depth Analysis Simplified Dynamic Range Photography for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/individual-variability-in-response-to-injury-and-recovery-is-significant-affecting-the-design-of-personalized-treatment-plans/"><u>Individual Variability in Response to Injury and Recovery Is Significant, Affecting the Design of Personalized Treatment Plans.</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/infuse-your-films-with-text-magic-top-10-techniques-unveiled/"><u>Infuse Your Films with Text Magic Top 10 Techniques Unveiled</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-your-digital-world-top-picks-and-reviews-at-toms-gear-station/"><u>Mastering Your Digital World: Top Picks and Reviews at Tom's Gear Station</u></a></li>
+<li><a href="https://win-forum.techidaily.com/scopri-i-migliori-7-stili-animati-per-il-tuo-prossimo-progetto-creativo/"><u>Scopri I Migliori 7 Stili Animati per Il Tuo Prossimo Progetto Creativo</u></a></li>
+<li><a href="https://win-forum.techidaily.com/transform-your-videos-instantly-convert-vob-to-mjpeg-at-no-cost-using-our-service/"><u>Transform Your Videos Instantly: Convert VOB to MJPEG at No Cost Using Our Service!</u></a></li>
 </ul></div>
 

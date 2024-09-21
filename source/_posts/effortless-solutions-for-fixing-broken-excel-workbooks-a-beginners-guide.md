@@ -1,7 +1,7 @@
 ---
 title: "Effortless Solutions for Fixing Broken Excel Workbooks: A Beginner's Guide"
-date: 2024-09-14T16:40:41.395Z
-updated: 2024-09-16T16:37:42.175Z
+date: 2024-09-19T17:30:19.222Z
+updated: 2024-09-21T16:47:31.708Z
 tags:
   - excel
 categories:
@@ -52,13 +52,6 @@ thumbnail: https://thmb.techidaily.com/2e98346ae0ee2e0559c5260d992a7113232d0df75
 
  After that, click "OK." You should now be able to open your Excel file if the Microsoft Excel Trust Center settings were causing the problem. Once you finish working on your Excel file, you must re-check all the boxes for continued security.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Use the Excel Built-in Repair Tool
 
  Microsoft Excel comes with a repair tool that you can use to fix your Excel file. To use this tool, open Microsoft Excel, click the "Open" option in the left sidebar, and then select "Browse" from the right pane.
@@ -66,16 +59,16 @@ thumbnail: https://thmb.techidaily.com/2e98346ae0ee2e0559c5260d992a7113232d0df75
 ![Browse option in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/browse-option-in-excel.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Then, navigate to the location where the corrupt Excel file is located, select it, click the down arrow next to the "Open" button, and choose "Open and Repair."
@@ -112,40 +105,33 @@ thumbnail: https://thmb.techidaily.com/2e98346ae0ee2e0559c5260d992a7113232d0df75
 
 ![Advanced option in the Security tab.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/advanced-option-in-the-security-tab.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Click the "Change" button next to the owner field.
 
 ![Change button in the Advanced Security Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/change-button-in-the-advanced-security-settings.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  In the "Enter the object name to select" box, type "Everyone" and click "Check Names."
 
 ![Check Names option in the Select User or Group window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/check-names-option-in-the-select-user-or-group-window.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Click "Apply" and then "OK.”
 
 ![Apply option in the Advanced Security Settings window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/apply-option-in-the-advanced-security-settings-window.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Finally, click "OK" in the “Security” tab of the Excel file.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Launch Excel in Safe Mode
 
@@ -163,9 +149,23 @@ thumbnail: https://thmb.techidaily.com/2e98346ae0ee2e0559c5260d992a7113232d0df75
 
 ![My Add-ins option in the Office Add-ins window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/my-add-ins-option-in-the-office-add-ins-window.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Right-click on each add-in one by one, and select "Remove." Then, try to open your Excel file.
 
 ![Remove option  to remove add-ins.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/remove-option-to-remove-add-ins.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Keep repeating this process of removing add-ins and opening your Excel file until you can open your Excel file without encountering the problem. Once you've identified the problematic add-in, you can then reinstall the other add-ins you removed, one by one.
 
@@ -190,19 +190,14 @@ thumbnail: https://thmb.techidaily.com/2e98346ae0ee2e0559c5260d992a7113232d0df75
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-navigating-the-peak-content-igtvs-leaders/"><u>[Updated] 2024 Approved Navigating the Peak Content IGTV's Leaders</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-removing-aerial-video-pulsation-effects-for-2024/"><u>[Updated] Removing Aerial Video Pulsation Effects for 2024</u></a></li>
-<li><a href="https://win-forum.techidaily.com/comprehensive-walkthrough-purging-temporary-files-from-windows-5-master-the-art-of-cleanup-optimizing-your-pc-by-clearing-cache-in-windows-10/"><u>Comprehensive Walkthrough: Purging Temporary Files From Windows #5 Master the Art of Cleanup: Optimizing Your PC by Clearing Cache in Windows 10</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-claritycleanseapp-top-tier-background-eraser/"><u>In 2024, ClarityCleanseApp Top-Tier Background Eraser</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-harnessing-the-power-of-light-in-iphone-hdr-photography/"><u>In 2024, Harnessing the Power of Light in iPhone HDR Photography</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-the-ultimate-guide-to-unlocking-apple-watch-or-iphone-13-mini-from-icloud-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Unlocking Apple Watch Or iPhone 13 mini from iCloud</u></a></li>
-<li><a href="https://driver-download.techidaily.com/install-or-update-your-hp-laserjet-m5-810-paperless-free-download/"><u>Install or Update Your HP LaserJet M5 8/10 Paperless - Free Download</u></a></li>
-<li><a href="https://win-forum.techidaily.com/navigating-the-world-of-online-interaction-insights-into-facebook-twitter-instagram-and-youtube/"><u>Navigating the World of Online Interaction: Insights Into Facebook, Twitter, Instagram and YouTube</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721101110804-samsung-galaxy-tab-a5-not-recognized-by-kde-neon-solution-here/"><u>Samsung Galaxy Tab A5 Not Recognized by KDE Neon, Solution Here!</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-guide-updating-your-windows-10-device-drivers/"><u>Step-by-Step Guide: Updating Your Windows 10 Device Drivers</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-convenience-of-using-hunter-mode-revo-uninstaller/"><u>The Convenience of Using Hunter Mode - Revo Uninstaller</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-powerhouse-platforms-of-social-interaction-a-deep-dive-into-facebook-twitter-instagram-and-youtube/"><u>The Powerhouse Platforms of Social Interaction: A Deep Dive Into Facebook, Twitter, Instagram & YouTube</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-merge-videos-without-logos-best-7-software-options/"><u>Updated 2024 Approved Merge Videos Without Logos Best 7 Software Options</u></a></li>
-<li><a href="https://win-forum.techidaily.com/windows-11-users-tutorial-how-to-terminate-a-frozen-application-via-task-manager/"><u>Windows 11 User's Tutorial: How to Terminate a Frozen Application via Task Manager</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-embedding-youtube-playlists-with-minimal-complexity-and-maximum-impact/"><u>[New] 2024 Approved Embedding YouTube Playlists with Minimal Complexity and Maximum Impact</u></a></li>
+<li><a href="https://win-forum.techidaily.com/movavim4raiff/"><u>無限制地獄中的移動影片格式：如何自由使用Movavi來從M4R改變成AIFF</u></a></li>
+<li><a href="https://win-forum.techidaily.com/beginners-guide-to-voiceover-gear-essential-tools-and-applications/"><u>Beginner's Guide to Voiceover Gear: Essential Tools and Applications</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723003057549-cyberpunk-2amoored-eliminating-stuttering-and-smoothing-out-lags/"><u>Cyberpunk 2Amoored: Eliminating Stuttering and Smoothing Out Lags!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-honor-magic-6-lite-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Honor Magic 6 Lite? | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-planting-prowess-in-valheim-uncovering-premium-saplings/"><u>In 2024, Planting Prowess in Valheim Uncovering Premium Saplings</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-10-applicazioni-piu-efficaci-per-la-conversione-di-file-heic-a-formato-jpeg/"><u>Top 10 Applicazioni Più Efficaci per La Conversione Di File HEIC a Formato JPEG</u></a></li>
+<li><a href="https://win-forum.techidaily.com/understanding-mkv-files-and-mastering-the-art-of-playback/"><u>Understanding MKV Files and Mastering the Art of Playback</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/your-pathway-to-stellar-intros-on-mobile-devices-for-2024/"><u>Your Pathway to Stellar Intros on Mobile Devices for 2024</u></a></li>
 </ul></div>
 

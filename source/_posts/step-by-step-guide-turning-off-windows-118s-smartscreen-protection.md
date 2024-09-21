@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Turning Off Windows 11/8'S SmartScreen Protection"
-date: 2024-09-15T16:52:06.811Z
-updated: 2024-09-16T16:01:44.267Z
+date: 2024-09-16T16:05:21.974Z
+updated: 2024-09-21T16:04:10.633Z
 tags:
   - windows
 categories:
@@ -37,13 +37,6 @@ thumbnail: https://thmb.techidaily.com/366d048ff390e8ea9501aef5e5e819c7e4080380c
 
 ![Search for and launch 'Windows Security' from the Start Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-launch-windows-security.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120861/26400?prodsku=Saturn" target="_top" id="2120861">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120861" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120861/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Click the "App and Browser Control" icon in Windows Security to find these settings.
 
 ![Click 'App and Browser Control.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-app-and-browser-control.png) 
@@ -58,22 +51,21 @@ thumbnail: https://thmb.techidaily.com/366d048ff390e8ea9501aef5e5e819c7e4080380c
 
 ![Toggle 'Check Apps and Files' on or off.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-check-apps-and-files-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can also control whether or not Windows Security will block potentially unwanted software. You can disable it completely, or you can set it to block apps or downloads individually. 
 
 ![The settings that allow SmartScreen to block Potentially Unwanted Programs.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6-block-pups.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The "SmartScreen for Microsoft Edge" option controls [the SmartScreen filter build into the Microsoft Edge browser](https://ios-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-iphone-8-plus-by-drfone-ios/). It blocks malicious websites and downloads, but only in Microsoft Edge.
@@ -83,19 +75,33 @@ thumbnail: https://thmb.techidaily.com/366d048ff390e8ea9501aef5e5e819c7e4080380c
  The "SmartScreen for Windows Store apps" filter is used when apps you download from the Windows Store access web content. It warns you before those apps load dangerous content.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ![The SmartScreen for Microsoft Store apps](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/for-windows-smartscreen.png)Disable SmartScreen on Windows 8
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  On Windows 8, you'll find this option in the Control Panel. Navigate to Control Panel > System and Security > Action Center.
 
  Expand the "Security" section, locate Windows SmartScreen in the list, and click "Change settings" under it.
 
 ![img_5912453496fed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/05/img_5912453496fed.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can then choose what Windows does with unrecognized programs. You can have Windows require administrator approval before running an unknown program, warn you without requiring administrator approval, or select "Don't do anything" to turn off Windows SmartScreen.
 
@@ -114,20 +120,20 @@ thumbnail: https://thmb.techidaily.com/366d048ff390e8ea9501aef5e5e819c7e4080380c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-dive-deep-into-the-world-of-music-videos-best-apps-for-android-for-2024/"><u>[New] Dive Deep Into the World of Music Videos Best Apps for Android for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-viewsplit-diagnostics/"><u>[New] ViewSplit Diagnostics</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-strategic-animation-techniques-to-boost-your-facebook-ad-roi/"><u>2024 Approved Strategic Animation Techniques to Boost Your Facebook Ad ROI</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/expert-guide-overcoming-the-obstacles-of-fortnites-ls-0013-deployment-issue/"><u>Expert Guide: Overcoming the Obstacles of Fortnite's LS-0013 Deployment Issue</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/key-considerations-before-acquiring-a-secondhand-apple-tablet/"><u>Key Considerations Before Acquiring a Secondhand Apple Tablet</u></a></li>
-<li><a href="https://win-dash.techidaily.com/new-release-lenovos-thunderbolt-3-hub-driver-upgrade-guide/"><u>New Release: Lenovo's Thunderbolt 3 Hub Driver Upgrade Guide</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-up-your-game-with-advanced-copilot-plus-personal-computing-systems/"><u>Step Up Your Game with Advanced Copilot Plus Personal Computing Systems</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-tutorial-troubleshooting-and-solving-secure-internet-connectivity-problems-on-windows-pcs/"><u>Step-by-Step Tutorial: Troubleshooting & Solving Secure Internet Connectivity Problems on Windows PCs</u></a></li>
-<li><a href="https://win-forum.techidaily.com/steps-to-turn-off-microsoft-defender-forever-in-windows-11/"><u>Steps to Turn Off Microsoft Defender Forever in Windows 11</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-inconspicuous-upheaval-of-ai-witnessing-change-beyond-sight/"><u>The Inconspicuous Upheaval of AI: Witnessing Change Beyond Sight</u></a></li>
-<li><a href="https://win-forum.techidaily.com/top-3-essential-gameplay-analytics-software-for-serious-pc-gamers/"><u>Top 3 Essential Gameplay Analytics Software for Serious PC Gamers</u></a></li>
-<li><a href="https://win-forum.techidaily.com/top-7-essential-window-configurations-to-maintain-active-benefits-explained/"><u>Top 7 Essential Window Configurations to Maintain Active: Benefits Explained</u></a></li>
-<li><a href="https://win-forum.techidaily.com/top-8-essential-settings-to-optimize-any-windows-laptop-for-starters/"><u>Top 8 Essential Settings to Optimize Any Windows Laptop (For Starters)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unraveling-the-mystery-of-runtime-brokers-in-computing/"><u>Unraveling the Mystery of Runtime Brokers in Computing</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/why-is-ipogo-not-working-on-apple-iphone-xs-max-fixed-drfone-by-drfone-virtual-ios/"><u>Why is iPogo not working On Apple iPhone XS Max? Fixed | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-everything-about-metaverse-marketing-example-strategies-and-more/"><u>[New] 2024 Approved Everything About Metaverse Marketing Example, Strategies, and More</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-top-mac-mkv-players-compilation/"><u>[New] Top Mac MKV Players Compilation</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-ideal-methods-to-archive-playstation-4-gaming-sessions/"><u>[Updated] In 2024, Ideal Methods to Archive PlayStation 4 Gaming Sessions</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-rapid-capture-visuals-and-voices-together/"><u>2024 Approved Rapid Capture Visuals & Voices Together</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/audiovisual-decision-making-is-podcast-or-youtube-more-appealing-in-2024/"><u>Audiovisual Decision-Making Is Podcast or YouTube More Appealing, In 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/fable-formulators-fellowship-top-7-titans/"><u>Fable Formulators Fellowship – Top 7 Titans</u></a></li>
+<li><a href="https://win-forum.techidaily.com/gif-mov-movavi/"><u>GIF에서 MOV으로의 원활한 교체: Movavi를 사용하여 무료 바이너리화</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Xiaomi Redmi A2? | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/individual-variability-in-response-to-injury-and-recovery-is-significant-affecting-the-design-of-personalized-treatment-plans/"><u>Individual Variability in Response to Injury and Recovery Is Significant, Affecting the Design of Personalized Treatment Plans.</u></a></li>
+<li><a href="https://win-forum.techidaily.com/scopri-i-migliori-7-stili-animati-per-il-tuo-prossimo-progetto-creativo/"><u>Scopri I Migliori 7 Stili Animati per Il Tuo Prossimo Progetto Creativo</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/solving-iphone-activation-issues-effective-strategies-and-tips/"><u>Solving iPhone Activation Issues: Effective Strategies and Tips</u></a></li>
+<li><a href="https://win-forum.techidaily.com/technii-corecte-pentru-a-reduce-temporul-de-renderizare-unui-videoclip-in-adobe-after-effects/"><u>Technii Corecte Pentru a Reduce Temporul De Renderizare Unui Videoclip in Adobe After Effects</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-essential-information-on-claude-3s-functions/"><u>The Essential Information on Claude 3'S Functions</u></a></li>
+<li><a href="https://win-forum.techidaily.com/transform-your-videos-instantly-convert-vob-to-mjpeg-at-no-cost-using-our-service/"><u>Transform Your Videos Instantly: Convert VOB to MJPEG at No Cost Using Our Service!</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mpeg-flv-onliner-movavi/"><u>영구 무료 MPEG FLV 변환기: Onliner - Movavi</u></a></li>
 </ul></div>
 

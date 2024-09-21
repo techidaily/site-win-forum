@@ -1,7 +1,7 @@
 ---
 title: Conveniently Start Your PC From Afar with Wake-on-LAN in Modern Windows OSes
-date: 2024-09-09T16:07:23.651Z
-updated: 2024-09-16T16:09:31.514Z
+date: 2024-09-15T16:23:12.059Z
+updated: 2024-09-21T17:34:15.217Z
 tags:
   - win11
   - win10
@@ -48,13 +48,6 @@ To clear your Windows Explorer history do the following:
 3. Locate the**Privacy** section and click the “**Clear** ” button  
 ![Clear option](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-windows-explorer/Method1-step3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 2: Run System File Checker
 
  If your File Explorer keeps crashing there is a chance that a file is corrupted or missing. To check if this is the issue and repair the file you will have to perform a system check with the System File Checker tool. You will have to use the Windows PowerShell and to open it do the following:
@@ -77,16 +70,16 @@ To check for new system updates:
 ![update and security](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-windows-explorer/Method3-step2.png)
 3. If you see that there are many pending updates press**Install now** . If there aren’t any you can manually check for new updates by pressing Check for updates  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![windows update](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-windows-explorer/Method3-step3.jpg)
 
  If there are any available updates Windows will download them. Restart your PC to install them.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 4: Disable 3rd-Party Explorer Extensions
 
@@ -104,6 +97,13 @@ You will ask – but what are 3rd-party Explorer extensions?
 2. When you install it run the app to scan for extensions. To ensure that only 3rd-party extensions are being scanned go to**Options->Hide All Microsoft Extensions**
 3. Select all the extensions after the scan is complete, right-click and press**Disable Selected items**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 5: Separate File Explorer Processes
 
  File Explorer runs as a single process on your PC. Every time you open a new Windows File Explorer window is placed in a single system process. If your PC is slower it can cause some stability issues and in rare cases, File Explorer crashes.
@@ -113,13 +113,6 @@ To fix the issue do the following:
 1. Open File Explorer and click on**File -> Change folder and search options**  
 ![change folder and search options](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-windows-explorer/Method5-step1.png)
 2. In the Folder Options windows navigate to the**View** tab
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3. In the Advanced settings windows check the “**Launch windows in a separate process** ” checkbox  
 ![launch windows in separate process](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-windows-explorer/Method5-step2.png)
@@ -138,13 +131,6 @@ You can perform a malware scan with Windows Security:
 ![run](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-windows-explorer/Method6-step1.png)
 2. Type`windowsdefender` and press**OK**  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![windowsdefender command](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-windows-explorer/Method6-step2.png)
 3. In the Windows Security windows press**Virus & threat protection** , and press **Scan options**  
 **![virus and threat protection](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-windows-explorer/Method6-step3.png)**
@@ -152,7 +138,27 @@ You can perform a malware scan with Windows Security:
 
 ![scan now](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-windows-explorer/Method6-step4.png)
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After this Windows will reboot and begin the scan for malware on your PC. If malware is being detected Windows security will try to remove it or quarantine it. This should fix your stability issues and make your PC safe to use again.
+
+<!-- affiliate ads begin -->
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 7: Check Windows Error Logs
 
@@ -168,18 +174,18 @@ To do this follow the instructions below:
 ![even view command](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-windows-explorer/Method7-step2.png)
 3. In the “**Event View** ” click on**Windows Logs -> Application** in the left-hand menu  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![windows logs](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-windows-explorer/Method7-step3.png)
 4. In the Application panel on the right, search for Event IDs with the value 1000\. Event ID 1000 usually points to an error with the Windows Explorer process  
 
 ![event properties](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-windows-explorer/Method7-step4.png)
 5. If you find such errors, select it and check the General tab information. This will give you a bit of information on what the issue is and with further investigation and troubleshooting you will be able to fix it
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  For example, if a third-party app is the reason behind the Windows Explorer crash, it will be listed here and you will be able to remove it to solve the problem.
 
@@ -213,18 +219,16 @@ To do this follow the instructions below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-effortless-device-integration-with-obs-for-streaming-on-pcmac/"><u>[Updated] 2024 Approved Effortless Device Integration with OBS for Streaming on PC/Mac</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-pro-minecraft-recordings-handbook-for-2024/"><u>[Updated] Pro Minecraft Recordings Handbook for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-savvy-savers-for-your-instagram-treasures-for-2024/"><u>[Updated] Savvy Savers for Your Instagram Treasures for 2024</u></a></li>
-<li><a href="https://win-forum.techidaily.com/11-hidden-excel-tricks-you-need-to-know-boost-your-productivity/"><u>11 Hidden Excel Tricks You Need to Know: Boost Your Productivity</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-xiaomi-14-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Xiaomi 14 Fingerprint Lock</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Lava Blaze 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-lenovo-laptop-screen-logging-made-easy/"><u>In 2024, Lenovo Laptop Screen Logging Made Easy</u></a></li>
-<li><a href="https://games-able.techidaily.com/is-it-worth-it-review-of-the-premium-priced-mophie-powerstation-ac-charger-practicality-vs-price-point/"><u>Is It Worth It? Review of the Premium-Priced Mophie Powerstation AC Charger - Practicality Vs. Price Point</u></a></li>
-<li><a href="https://win-forum.techidaily.com/mastering-ms-excel-a-comprehensive-guide-to-navigating-with-ease/"><u>Mastering MS Excel: A Comprehensive Guide to Navigating with Ease</u></a></li>
-<li><a href="https://win-forum.techidaily.com/mastering-number-multiplication-a-step-by-step-guide-using-microsoft-excel/"><u>Mastering Number Multiplication: A Step-by-Step Guide Using Microsoft Excel</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-animated-excellence-the-best-stop-motion-software-for-mac-and-pc/"><u>New Animated Excellence The Best Stop Motion Software for Mac and PC</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-guide-transferring-sheets-between-excel-books/"><u>Step-by-Step Guide: Transferring Sheets Between Excel Books</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-netgear-nighthawk-x10-ad7200-a-detailed-review-for-enhanced-wi-fi-speed-and-reliability/"><u>The Netgear Nighthawk X10 (AD7200): A Detailed Review for Enhanced Wi-Fi Speed and Reliability</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-unlocking-composite-power-with-blend-mode-knowledge/"><u>[New] 2024 Approved Unlocking Composite Power with Blend Mode Knowledge</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-dive-into-editing-a-complete-look-at-final-cut-pro/"><u>[Updated] 2024 Approved Dive Into Editing A Complete Look at Final Cut Pro</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/boost-your-instagram-videos-watchability-and-speed/"><u>Boost Your Instagram Videos' Watchability and Speed</u></a></li>
+<li><a href="https://win-dash.techidaily.com/brother-mfc-9130cw-printer-drivers-free-download/"><u>Brother MFC-9130CW Printer Drivers - Free Download</u></a></li>
+<li><a href="https://win-forum.techidaily.com/comprehensive-editing-suite-discover-all-features-of-movavi-video-editor/"><u>Comprehensive Editing Suite: Discover All Features of Movavi Video Editor</u></a></li>
+<li><a href="https://win-forum.techidaily.com/guide-pratique-corriger-des-images-videos-desynchronisees-grace-a-movavi/"><u>Guide Pratique: Corriger Des Images Vidéos Désynchronisées Grâce À Movavi</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-change-credit-card-from-your-iphone-7-apple-id-and-apple-pay-by-drfone-ios/"><u>In 2024, How to Change Credit Card from Your iPhone 7 Apple ID and Apple Pay</u></a></li>
+<li><a href="https://win-forum.techidaily.com/simplificar-la-carga-de-videos-quicktime-un-metodo-practico-para-comprimirlos-en-4-pasos-sencillos/"><u>Simplificar La Carga De Videos QuickTime: Un Método Práctico Para Comprimirlos en 4 Pasos Sencillos</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-18-outils-et-logiciels-de-realisation-video-gratuite-compatibles-avec-windows-1187/"><u>Top 18 Outils Et Logiciels De Réalisation Vidéo Gratuite Compatibles Avec Windows (11/8/7)</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-20-conversores-de-video-mais-eficientes-para-windows-guia-completo/"><u>Top 20 Conversores De Vídeo Mais Eficientes Para Windows: Guia Completo</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-how-to-fix-your-airpods-microphone-issues-on-windows-10/"><u>Troubleshooting Guide: How to Fix Your AirPods Microphone Issues on Windows 10</u></a></li>
 </ul></div>
 

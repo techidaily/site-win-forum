@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Removing Items From Clipboard Memory in Windows 11"
-date: 2024-09-14T16:04:37.316Z
-updated: 2024-09-16T16:08:27.141Z
+date: 2024-09-16T16:16:08.221Z
+updated: 2024-09-21T16:09:26.031Z
 tags:
   - windows
 categories:
@@ -39,15 +39,22 @@ thumbnail: https://thmb.techidaily.com/d599dad7b998abdf06ca417d32becc28547b33f18
 ![The Clipboard history pop-up window on Windows 10](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/05/clipboard_history_plain.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To remove individual items from Clipboard history, call up the list with Windows+V and then click the three dots (ellipses) beside the item you'd like to delete.
 
 ![Click the ellipses in Clipboard history on Windows 10](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/05/click_ellipses.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  A small menu will pop up. Click "Delete" and the item will be removed from the list.
 
@@ -61,18 +68,18 @@ thumbnail: https://thmb.techidaily.com/d599dad7b998abdf06ca417d32becc28547b33f18
 
  Note that with Clipboard history enabled, new items will continue to appear in the Clipboard history list every time you copy something to the Clipboard. If you would like to prevent Windows from storing your Clipboard history, you will need to disable the feature in Windows Settings.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Another Way to Clear All Clipboard Data
 
  You can also clear your clipboard data in Windows Settings. Navigate to Settings > System > Clipboard and locate the "Clear Clipboard Data" section. Click on the "Clear" button, and the clipboard will be erased.
 
 ![Tap 'Clear' to clear your clipboard history.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/clear-clipboard-data.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  This is equivalent to pushing the "Clear All" button in the Clipboard history window, but it also works with Clipboard history turned off.
 
@@ -84,33 +91,20 @@ thumbnail: https://thmb.techidaily.com/d599dad7b998abdf06ca417d32becc28547b33f18
 
 ![Click 'Settings.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/click-settings.png) 
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  On the Settings sidebar, click on "Clipboard." In Clipboard settings, locate the section called "Clipboard history" and toggle the switch to "Off."
 
 ![Select 'Clipboard' to the left, then disable 'Clipboard History.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/clipboard.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once disabled, if you press Windows+V, you will see a small window alerting you that Windows 10 cannot show your Clipboard history because the feature is turned off.
 
 ![Can't show Clipboard history message in Windows 10](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/05/cant_show_history.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123478/16836" target="_top" id="2123478">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123478" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123478/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now you're free to copy and paste in privacy once again.
 
@@ -129,18 +123,20 @@ thumbnail: https://thmb.techidaily.com/d599dad7b998abdf06ca417d32becc28547b33f18
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/remium-talker-alteration-tech-for-bloggers-and-streamers-for-2024/"><u>[New] Premium Talker Alteration Tech for Bloggers and Streamers for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-recording-youtube-videos-effortlessly-the-free-way-to-screencasts/"><u>[Updated] Recording YouTube Videos Effortlessly - The Free Way to Screencasts</u></a></li>
-<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-tecno-spark-10c-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Tecno Spark 10C | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/expert-picks-the-most-comfortable-and-durable-keyboards-of-2024/"><u>Expert Picks: The Most Comfortable and Durable Keyboards of 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-samsung-galaxy-s23-fe-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Samsung Galaxy S23 FE | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-motorola-moto-g73-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Motorola Moto G73 5G Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-guide-on-how-to-remove-apple-id-from-apple-iphone-xs-by-drfone-ios/"><u>In 2024, Guide on How To Remove Apple ID From Apple iPhone XS</u></a></li>
-<li><a href="https://win-blog.techidaily.com/logitech-g403-driver-download-and-update-for-pc/"><u>Logitech G403 Driver Download & Update for PC</u></a></li>
-<li><a href="https://win-forum.techidaily.com/revolutionizing-portable-computing-microsofts-improvements-to-windows-for-pocket-sized-pcs/"><u>Revolutionizing Portable Computing: Microsoft's Improvements to Windows for Pocket-Sized PCs</u></a></li>
-<li><a href="https://driver-install.techidaily.com/smooth-touchscreen-driver-upgrades-in-win10/"><u>Smooth Touchscreen Driver Upgrades in Win10</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-guide-elevate-your-computer-with-a-windows-11-update/"><u>Step-by-Step Guide: Elevate Your Computer with a Windows 11 Update</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-guide-resolving-error-occurred-during-troubleshooting-in-windows-1110/"><u>Step-by-Step Guide: Resolving 'Error Occurred During Troubleshooting' In Windows 11/10</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-guide-turning-off-windows-118s-smartscreen-protection/"><u>Step-by-Step Guide: Turning Off Windows 11/8'S SmartScreen Protection</u></a></li>
+<li><a href="https://win-forum.techidaily.com/1726218805018-movavi/"><u>「スムーズな動画の回転技術：Movavi導入ガイド」</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-ideal-scripts-for-audio-performances/"><u>2024 Approved Ideal Scripts for Audio Performances</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-tomtom-bandit-camera-series-revolution-of-2023/"><u>2024 Approved TomTom Bandit Camera Series - Revolution of 2023</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-top-5-game-ready-keyboards-under-100-a-comparison/"><u>2024 Approved Top 5 Game-Ready Keyboards Under $100 – A Comparison</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/a-comprehensive-guide-to-apple-iphone-13-blacklist-removal-tips-and-tools-drfone-by-drfone-ios/"><u>A Comprehensive Guide to Apple iPhone 13 Blacklist Removal Tips and Tools | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/conversao-sem-custo-de-arquivos-imagem-mova-a-conversao-online-de-tga-para-tiff-com-o-movavi-gratuitamente/"><u>Conversão Sem Custo De Arquivos Imagem - Mova a Conversão Online De TGA Para TIFF Com O Movavi Gratuitamente!</u></a></li>
+<li><a href="https://win-forum.techidaily.com/convert-your-mov-files-into-asf-format-for-free-with-movavis-reliable-web-tool/"><u>Convert Your MOV Files Into ASF Format for Free with Movavi's Reliable Web Tool</u></a></li>
+<li><a href="https://win-forum.techidaily.com/efficient-movavi-video-editing-tutorials-schritt-fur-schritt-lektionen-fur-die-optimale-videobearbeitung/"><u>Efficiënt Movavi Video Editing Tutorials: Schritt Für Schritt Lektionen Für Die Optimale Videobearbeitung</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862814671-gamers-alert-alienwares-spectacular-34-oled-curved-gaming-monitor-for-a-steal-at-749-on-bestbuycom/"><u>Gamers Alert: Alienware's Spectacular 34 OLED Curved Gaming Monitor for a Steal at $749 on BestBuy.com!</u></a></li>
+<li><a href="https://win-forum.techidaily.com/guia-gratuita-para-convertir-imagenes-de-formato-pgm-a-jpg-directamente-desde-su-navegador-convertidor-rapido-y-eficiente-con-movavi/"><u>Guía Gratuita Para Convertir Imágenes De Formato PGM a JPG Directamente Desde Su Navegador - Convertidor Rápido Y Eficiente Con Movavi</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-decoding-fraps-video-capturing-techniques/"><u>In 2024, Decoding Fraps Video Capturing Techniques</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/snap-and-save-games-the-nvidia-way/"><u>Snap & Save Games - The NVIDIA Way</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-painters-touch-mastering-color-artistry/"><u>The Painter's Touch Mastering Color Artistry</u></a></li>
+<li><a href="https://win-forum.techidaily.com/unleash-creativity-transform-makeup-looks-in-photos-using-moveais-photo-editing-software/"><u>Unleash Creativity: Transform Makeup Looks in Photos Using Move.ai's Photo Editing Software 💄📸</u></a></li>
+<li><a href="https://techidaily.com/unlock-android-phone-if-you-don-t-have-asus-rog-phone-7-ultimate-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you don't have Asus ROG Phone 7 Ultimate fingerprint</u></a></li>
 </ul></div>
 

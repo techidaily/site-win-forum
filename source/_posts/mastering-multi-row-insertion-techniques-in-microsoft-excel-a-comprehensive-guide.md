@@ -1,7 +1,7 @@
 ---
 title: Mastering Multi-Row Insertion Techniques in Microsoft Excel – A Comprehensive Guide
-date: 2024-09-11T16:31:50.034Z
-updated: 2024-09-16T16:49:18.176Z
+date: 2024-09-20T16:32:05.965Z
+updated: 2024-09-21T17:01:50.792Z
 tags:
   - excel
 categories:
@@ -64,33 +64,27 @@ Related: [All the Best Microsoft Excel Keyboard Shortcuts](https://eaxpv-info.te
 
 ![Select rows in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/5-choose-rows.png) 
 
-<!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  While the rows are selected, press Ctrl+Shift+Plus (+ sign) at the same time on a PC, or Command+Shift+Plus (+ sign) on a Mac. This will open an "Insert" box. In this box, choose "Entire Row" and click "OK."
 
 ![Select "Entire Row" and click "OK" in the "Insert" box in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/6-add-rows.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Excel will add the selected number of rows to your spreadsheet.
 
 ![Rows added to Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/7-rows-inserted.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  And that's how you make room for new data in your spreadsheets by adding multiple rows at once. Very useful!
 
@@ -115,20 +109,18 @@ Related: [How to Add or Delete Columns and Rows in a Table in Microsoft Excel](h
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/n-2024-perfect-your-video-a-comprehensive-guide-to-ideal-thumbnail-heights/"><u>[New] In 2024, Perfect Your Video A Comprehensive Guide to Ideal Thumbnail Heights</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-streamlining-game-recording-techniques/"><u>[New] In 2024, Streamlining Game Recording Techniques</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-infallible-way-to-forbid-youtubes-snappy-videos/"><u>[Updated] Infallible Way to Forbid YouTube's Snappy Videos</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-imovie-music-mosaic-creating-audio-visual-harmony/"><u>In 2024, IMovie Music Mosaic Creating Audio-Visual Harmony</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-vivo-y28-5g-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Vivo Y28 5G for Streaming | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-task-managers-dominance-over-desktop-applications/"><u>Mastering Task Manager's Dominance Over Desktop Applications</u></a></li>
-<li><a href="https://win-forum.techidaily.com/navigating-the-digital-landscape-of-facebook-twitter-instagram-and-youtube/"><u>Navigating the Digital Landscape of Facebook, Twitter, Instagram & YouTube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/navigating-the-world-of-online-networking-a-look-at-facebook-twitter-instagram-and-youtube/"><u>Navigating the World of Online Networking: A Look at Facebook, Twitter, Instagram and YouTube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/quickly-terminate-stubborn-windows-applications-using-revouninstallers-advanced-features/"><u>Quickly Terminate Stubborn Windows Applications Using RevoUninstaller's Advanced Features</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-guide-enabling-wake-on-lan-feature-on-your-pc-with-windows-1011/"><u>Step-by-Step Guide: Enabling Wake-on-LAN Feature on Your PC with Windows 10/11</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-instructions-on-how-to-refresh-device-drivers-in-windows-10/"><u>Step-by-Step Instructions on How to Refresh Device Drivers in Windows 10</u></a></li>
-<li><a href="https://win-forum.techidaily.com/tackling-complete-hard-drive-overuse-in-windows-11-effective-solutions-explored/"><u>Tackling Complete Hard Drive Overuse in Windows 11: Effective Solutions Explored</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-final-word-on-deleting-files-permanently-from-your-windows/"><u>The Final Word on Deleting Files Permanently From Your Windows 지구토록스</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For OnePlus Nord N30 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unmasking-impostor-gpts-with-strategic-acknowledgments/"><u>Unmasking Impostor GPTs with Strategic Acknowledgments</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-free-digital-asset-valuation-tools/"><u>[Updated] 2024 Approved Free Digital Asset Valuation Tools</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mp4flv-movavi/"><u>「フリーウェルプレックスMP4、FLV変換ツール - Movavi」</u></a></li>
+<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-realme-11-proplus-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone Realme 11 Pro+ Phone? | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/gratis-mov-to-aiff-konvertierung-online-mit-movavi/"><u>Gratis MOV-to-AIFF Konvertierung Online Mit Movavi</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-enhance-wi-fi-connectivity-and-speed-on-ios-devices/"><u>How to Enhance Wi-Fi Connectivity and Speed on iOS Devices</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-meizu-21-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Meizu 21? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-vivo-y77t-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Vivo Y77t? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-tecno-spark-20-pro-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Tecno Spark 20 Pro Screen | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/joining-worlds-together-using-ps5-controller-on-windows-pc/"><u>Joining Worlds Together: Using PS5 Controller on Windows PC</u></a></li>
+<li><a href="https://win-forum.techidaily.com/kostenloze-amv-omzetting-naar-mp3-online-gelukkigheid-van-movavi/"><u>Kostenloze AMV-Omzetting Naar MP3 - Online Gelukkigheid Van Movavi</u></a></li>
+<li><a href="https://win-forum.techidaily.com/los-mejores-reproductores-de-archivos-swf-para-sistemas-windows-11-y-macos-un-ranking-definitivo/"><u>Los Mejores Reproductores De Archivos SWF Para Sistemas Windows 11 Y macOS: Un Ranking Definitivo</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/superior-methods-obs-streaming-onto-facebook/"><u>Superior Methods OBS Streaming Onto Facebook</u></a></li>
+<li><a href="https://win-forum.techidaily.com/transformez-un-fichier-raw-en-format-avi-en-ligne-sans-frais-movavi/"><u>Transformez Un Fichier RAW en Format AVI En Ligne Sans Frais - Movavi</u></a></li>
 </ul></div>
 

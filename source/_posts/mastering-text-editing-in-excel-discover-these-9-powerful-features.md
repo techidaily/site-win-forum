@@ -1,7 +1,7 @@
 ---
 title: "Mastering Text Editing in Excel: Discover These 9 Powerful Features"
-date: 2024-09-11T16:58:39.574Z
-updated: 2024-09-16T16:10:39.945Z
+date: 2024-09-14T16:32:08.140Z
+updated: 2024-09-21T17:13:13.134Z
 tags:
   - excel
 categories:
@@ -71,6 +71,13 @@ Related: [How to Quickly and Easily Change Case in Excel 2013 Using a Function](
 
 ![TRIM cell reference in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/TrimCell-ExcelTextFunctions.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Compare Text Strings: EXACT
 
  Maybe you have two cells containing text that you want to compare and see if they [match exactly](https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-asus-rog-phone-7-ultimate-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/). Appropriately named, the EXACT function comes to the rescue.
@@ -120,10 +127,10 @@ Related: [Functions vs. Formulas in Microsoft Excel: What's the Difference?](htt
 ![FIND with an instance](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/FindInstance-ExcelTextFunctions.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Replace Existing Text Using a Position: REPLACE
@@ -156,17 +163,16 @@ Related: [How to Find and Replace Text and Numbers in Excel](https://twitter-vid
 ![REPLACE text at the end](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/ReplaceEnd-ExcelTextFunctions.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Substitute Current With New Text: SUBSTITUTE
@@ -190,10 +196,10 @@ Related: [How to Find and Replace Text and Numbers in Excel](https://twitter-vid
 ![SUBSTITUTE a number](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/SubstituteNumber-ExcelTextFunctions.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Combine Text: CONCAT
@@ -208,6 +214,13 @@ Related: [How to Find and Replace Text and Numbers in Excel](https://twitter-vid
 
 ![CONCAT with a space](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/Concat-ExcelTextFunctions.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Notice that the quotes contain the space to add.
 
  To join that same text but add the prefix Mr. and a space in front, you would use this formula:
@@ -215,19 +228,6 @@ Related: [How to Find and Replace Text and Numbers in Excel](https://twitter-vid
 =CONCAT("Mr. ",A1," ",B1)
 
 ![CONCAT with a prefix](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/ConcatAdd-ExcelTextFunctions.png) 
-
-<!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Here you have Mr. with a space in the first set of quotes, the first cell reference, another space within quotes, and the second cell reference.
 
@@ -248,16 +248,19 @@ Related: [How to Find and Replace Text and Numbers in Excel](https://twitter-vid
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-legends-reign-supreme-top-7-total-war-quests/"><u>[New] 2024 Approved Legends Reign Supreme Top 7 Total War Quests</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-harmonizing-soundscape-elements-advanced-techniques-for-smooth-transitions-audacity/"><u>[New] Harmonizing Soundscape Elements Advanced Techniques for Smooth Transitions (Audacity)</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-advanced-strategies-for-no-sound-recording/"><u>[Updated] In 2024, Advanced Strategies for No-Sound Recording</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/excel-file-recovery-recover-corrupt-excel-2000-files-easily-by-stellar-guide/"><u>Excel File Recovery – Recover Corrupt Excel 2000 Files Easily</u></a></li>
-<li><a href="https://win-forum.techidaily.com/experience-hassle-free-app-uninstallation-with-the-revo-uninstaller-hunter-mode/"><u>Experience Hassle-Free App Uninstallation with the Revo Uninstaller Hunter Mode</u></a></li>
-<li><a href="https://win-forum.techidaily.com/expert-tips-to-alleviate-high-disk-usage-and-optimize-performance-on-windows-11-systems/"><u>Expert Tips to Alleviate High Disk Usage and Optimize Performance on Windows 11 Systems</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-8-withwithout-sim-card-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 8 with/without SIM Card</u></a></li>
-<li><a href="https://win-forum.techidaily.com/navigating-the-landscape-of-major-platforms-facebook-twitter-instagram-and-youtube/"><u>Navigating the Landscape of Major Platforms: Facebook, Twitter, Instagram, and YouTube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/social-media-networks-facebook-twitter-instagram-and-youtube/"><u>Social Media Networks: Facebook, Twitter, Instagram & YouTube</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722972615559-step-by-step-guide-to-downloading-the-latest-hp-deskjet-ink-advantage-3520-driver-improve-your-printing-experience/"><u>Step-by-Step Guide to Downloading the Latest HP Deskjet Ink Advantage 3520 Driver – Improve Your Printing Experience!</u></a></li>
-<li><a href="https://win-forum.techidaily.com/unlocking-full-control-running-software-with-admin-privileges-in-windows-11-without-hesitation/"><u>Unlocking Full Control: Running Software with Admin Privileges in Windows 11 Without Hesitation</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-inspiration-boost-with-leading-hr-tapes/"><u>[Updated] 2024 Approved Inspiration Boost with Leading HR Tapes</u></a></li>
+<li><a href="https://win-forum.techidaily.com/free-online-youtube-editor-craft-and-upload-videos-effortlessly/"><u>Free Online YouTube Editor: Craft and Upload Videos Effortlessly</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/free-windows-screen-capture-top-5-applications-reviewed-for-2024/"><u>Free Windows Screen Capture Top 5 Applications Reviewed for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/gratuita-conversione-dei-file-3gp-usare-lutilita-di-trasformatore-digitale-di-movavi-online/"><u>Gratuita Conversione Dei File .3Gp: Usare L'Utilità Di Trasformatore Digitale Di Movavi Online</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-troubleshoot-and-solve-hey-siri-issues-on-ios-devices/"><u>How to Troubleshoot and Solve 'Hey Siri' Issues on iOS Devices</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-crafting-closure-secrets-of-spectacative-video-sign-offs/"><u>In 2024, Crafting Closure Secrets of Spectacative Video Sign-Offs</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-top-5-oneplus-nord-ce-3-lite-5g-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 OnePlus Nord CE 3 Lite 5G Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/locked-out-of-apple-iphone-6-5-ways-to-get-into-a-locked-apple-iphone-6-drfone-by-drfone-ios/"><u>Locked Out of Apple iPhone 6? 5 Ways to get into a Locked Apple iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/movavi-video-editing-pro-gennemsnitskurssen-af-sikker-kobsguiden-optimal-forlag-til-filmudlejningsprogram/"><u>Movavi Video Editing Pro: Gennemsnitskurssen Af Sikker Købsguiden - Optimal Forlag Til Filmudlejningsprogram</u></a></li>
+<li><a href="https://win-forum.techidaily.com/obs-screen-recording-guide-how-to-set-up-and-use-complete-tutorial/"><u>Obs Screen Recording Guide - How to Set Up and Use [Complete Tutorial]</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/top-picks-for-vloggers-8-mirrorless-cameras-leading-the-pack/"><u>Top Picks for Vloggers 8 Mirrorless Cameras Leading the Pack</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshoot-and-upgrade-how-to-successfully-change-an-ipad-battery/"><u>Troubleshoot and Upgrade: How To Successfully Change An iPad Battery</u></a></li>
+<li><a href="https://win-forum.techidaily.com/web-vob-and-m4v-movavi/"><u>Web용 제공: VOB & M4V 포함 영상 무료 바이트체인 전환 - Movavi</u></a></li>
+<li><a href="https://win-forum.techidaily.com/1726225532182-ogg-mp4-movavi/"><u>오피스에서 비용 없이 Ogg 데이터를 MP4 형식으로 변환하는 것을 방문하세요 - Movavi</u></a></li>
 </ul></div>
 

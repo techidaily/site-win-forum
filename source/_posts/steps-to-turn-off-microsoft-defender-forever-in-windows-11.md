@@ -1,7 +1,7 @@
 ---
 title: Steps to Turn Off Microsoft Defender Forever in Windows 11
-date: 2024-09-12T16:44:37.211Z
-updated: 2024-09-16T16:50:53.627Z
+date: 2024-09-14T16:15:23.700Z
+updated: 2024-09-21T17:06:13.692Z
 tags:
   - windows
 categories:
@@ -51,9 +51,23 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Typing Windows Security in the Start Menu search bar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/typing-windows-defender-in-the-start-menu-search-bar.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Choose "Virus & Threat Protection" from the left sidebar, then click "Manage Settings" on the right.
 
 ![Virus & Threat Protection option in the Windows Security App.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/virus-threat-protection-option-in-the-windows-security-app.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Turn off the “Real-Time Protection” toggle. If UAC pops up, click “Yes” to confirm your decision.
 
@@ -64,13 +78,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Tamper Protection toggle in the Windows Security app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/tamper-protection-toggle-in-the-windows-security-app.jpg) 
 
  Once you’ve adjusted these settings in the Windows Security app, you’re all set to disable Microsoft Defender Antivirus on Windows 11 permanently.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Disable Microsoft Defender Using the Registry Editor
 
@@ -89,13 +96,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Name the value “DisableAntiSpyware.” Then, double-click the “DisableAntiSpyware” value, type **1** in the “Value Data” field, and click “OK.”
 
 ![Value Data field in the Registry Editor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/value-data-field-in-the-registry-editor.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After that, [restart your computer](https://instagram-clips.techidaily.com/2024-approved-15-must-use-hashtags-for-popularity-on-instagram-feed/) for the changes to take effect. Upon restart, you’ll see that Microsoft Defender has been permanently disabled on your computer.
 
@@ -119,13 +119,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Turn Off Microsoft Defender Antivirus policy in the Local Group Policy Editor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/turn-off-microsoft-defender-antivirus-policy-in-the-local-group-policy-editor.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In the Edit window, choose “Enabled.” Then, click “Apply” and “OK” to save the changes.
 
 ![Enabled option in the Local Group Policy Editor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/enabled-option-in-the-local-group-policy-editor.jpg) 
@@ -137,10 +130,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Disabled option in the Local Group Policy Editor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/disabled-option-in-the-local-group-policy-editor.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Check the State of Microsoft Defender on Windows 11
@@ -153,15 +146,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![PowerShell window showing Not Running in result.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/powershell-window-showing-not-running-in-result.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  However, if you get “Normal” as the result, it means Microsoft Defender is still running on your computer. In this case, double-check that you followed the steps correctly.
 
 ![PowerShell window showing Normal in result.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/powershell-window-showing-normal-in-result.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -183,13 +183,21 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-forum.techidaily.com/complete-tutorial-on-adding-strikethrough-formatting-in-excel-spreadsheets/"><u>Complete Tutorial on Adding Strikethrough Formatting in Excel Spreadsheets</u></a></li>
-<li><a href="https://program-issues.techidaily.com/diablo-ii-resurrected-failed-to-start-what-are-your-options/"><u>Diablo II Resurrected Failed to Start – What Are Your Options?</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/discover-petcubes-top-value-for-hd-pet-monitoring/"><u>Discover Petcube's Top Value for HD Pet Monitoring</u></a></li>
-<li><a href="https://win-forum.techidaily.com/easy-methods-to-compute-sum-of-squares-with-microsoft-excel-tutorials/"><u>Easy Methods to Compute Sum of Squares with Microsoft Excel Tutorials</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-honor-magic-6-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Honor Magic 6? | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/play-store-stuck-on-downloading-of-oppo-reno-8t-5g-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Oppo Reno 8T 5G? 7 Ways to Resolve | Dr.fone</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-guide-centering-text-spanning-several-cells-in-microsoft-excel/"><u>Step-by-Step Guide: Centering Text Spanning Several Cells in Microsoft Excel</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/swift-solution-regain-shared-resources-access/"><u>Swift Solution: Regain Shared Resources Access</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-calculating-20mb-video-length-in-secs-for-2024/"><u>[New] Calculating 20MB Video Length in Secs for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-breaking-down-the-elements-of-a-youtube-shorts-template/"><u>[New] In 2024, Breaking Down the Elements of a YouTube Shorts Template</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-the-future-is-now-how-vida-transforms-video-editing/"><u>[Updated] 2024 Approved The Future Is Now How Vida Transforms Video Editing</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-photography-transformed-simplifying-edges-and-corners/"><u>[Updated] Photography Transformed Simplifying Edges and Corners</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/advanced-file-destruction-techniques-unlock-the-power-of-stellar-file-eraser-5-the-ultimate-tool-for-windows-file-removal/"><u>Advanced File Destruction Techniques: Unlock the Power of Stellar File Eraser 5 - The Ultimate Tool for Windows File Removal</u></a></li>
+<li><a href="https://win-forum.techidaily.com/convert-swf-files-into-high-quality-wav-audio-for-free-with-movavis-web-service/"><u>Convert SWF Files Into High-Quality WAV Audio for Free with Movavi's Web Service!</u></a></li>
+<li><a href="https://win-forum.techidaily.com/convertissez-gratuitement-un-fichier-ts-en-format-mov-en-ligne-avec-movavi/"><u>Convertissez Gratuitement Un Fichier .TS en Format .MOV en Ligne Avec Movavi</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/convertissez-vos-fichiers-ogg-en-wma-sans-frais-avec-movavi-online-libre-de-changer-des-ogg-en-wma/"><u>Convertissez Vos Fichiers Ogg en Wma Sans Frais Avec Movavi - Online Libre De Changer Des OGG en WMA.</u></a></li>
+<li><a href="https://win-forum.techidaily.com/free-online-conversion-convert-3gp-files-into-mov-format-with-movavi/"><u>Free Online Conversion: Convert 3GP Files Into MOV Format with Movavi</u></a></li>
+<li><a href="https://discover-best.techidaily.com/how-to-2023-convert-and-burn-your-files-to-dvd-with-handbrake-for-both-pc-and-mac-users/"><u>How-To 2023: Convert and Burn Your Files to DVD with HandBrake for Both PC and Mac Users</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-mac-recording-discover-the-five-finest-techniques-using-movavi/"><u>Mastering Mac Recording: Discover the Five Finest Techniques Using Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721396762343-step-into-the-world-of-bug-hunting-get-a-payday-at-openai/"><u>Step Into the World of Bug Hunting; Get a Payday at OpenAI</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-solution-for-continuous-gameplay-in-path-of-exile-without-interruptions/"><u>Step-by-Step Solution for Continuous Gameplay in Path of Exile Without Interruptions</u></a></li>
+<li><a href="https://win-forum.techidaily.com/transformer-gratuitement-un-fichier-webm-en-format-mp4-conversion-facile-avec-movavi/"><u>Transformer Gratuitement Un Fichier WebM en Format MP4 - Conversion Facile Avec Movavi</u></a></li>
+<li><a href="https://win-forum.techidaily.com/vector-vs-raster-images-explained-unraveling-their-distinct-features/"><u>Vector vs Raster Images Explained: Unraveling Their Distinct Features</u></a></li>
+<li><a href="https://win-forum.techidaily.com/wi-fi-m4a-wmv-movavi/"><u>무료 Wi-Fi 시상회: M4A WMV 영상 변환 - Movavi의 단색 해결 방법</u></a></li>
 </ul></div>
 

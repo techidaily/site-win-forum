@@ -1,7 +1,7 @@
 ---
 title: Uncover the Secrets of Windows 11 - Explore 11 Essential Yet Overlooked Features!
-date: 2024-09-11T16:34:37.416Z
-updated: 2024-09-16T16:53:21.820Z
+date: 2024-09-20T16:55:43.919Z
+updated: 2024-09-21T17:21:30.754Z
 tags:
   - windows
 categories:
@@ -90,22 +90,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Different system settings on Windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/different-system-settings-on-windows.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120862/26400?prodsku=Saturn" target="_top" id="2120862">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120862" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120862/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Set a duration for your session and select or deselect any of the options depending on your preferences. Then press the "Start Focus Session" button.
 
 ![Windows Focus Sessions settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/windows-focus-sessions-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once you start a session, you'll see a new window with a clock, timer, task list, and other options. You can also integrate Spotify with Focus Sessions.
@@ -119,19 +112,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Turn on "End Task."
 
 ![End task from taskbar option on Windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/end-task-from-taskbar-option-on-windows.png) 
-
-<!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After that, if you want to end a task, simply right-click on the icon of that task in the taskbar and click "End Task."
 
@@ -167,13 +147,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![A notification being displayed on Windows 11 after taking a photo on Android](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/android-photo-notification-on-windows-11-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115927/19272" target="_top" id="2115927">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115927" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115927/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can tap the notification to open the photo on the Snipping Tool and start editing. This also works if you're on mobile data on your Android. Check out the full tutorial on [instantly transferring your Android photos to your Windows PC](https://video-capture.techidaily.com/new-in-2024-unveiling-the-secrets-of-live-broadcasting-on-instagram-through-obs/).
 
 ##  Start Button Shortcuts
@@ -183,10 +156,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Windows Start button hidden shortcuts being displayed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/windows-start-button-hidden-shortcuts.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  One advantage of pressing Windows+X instead of right-clicking the Start button is that you'll notice all the options in the menu have an underlined letter. Pressing that underlined letter on your keyboard will open that option. For example, if you press Windows+X and then T, it will open the [Task Manager](https://some-skills.techidaily.com/new-unveiling-the-secret-sauce-for-massive-tiktok-content-grabs/). No need to touch the mouse.
@@ -199,11 +172,32 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The OCR feature in Windows Snipping Tool being used to extract text from a screenshot](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ocr-feature-in-windows-snipping-tool.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Built-in Image Editing in the Photos App
 
  This is a big one for me personally. For small edits, I either had to rely on a large program like [Photoshop,](https://facebook-clips.techidaily.com/new-2024-approved-tips-to-incorrante-tv-with-facebook-live-integration/) which would be overkill, or apps on the web, which would sometimes force watermarks and limit the resolution. Now, with some useful editing features integrated into the Windows Photos app, it's easier than ever to make small tweaks to give a perfect shape to your photos.
 
 ![Editing an image on the Windows Photos app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/windows-photos-app.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  To get access to the editing options, open any image in the app and then press Ctrl+E. You can crop the image, make light and color adjustments, add filters, erase objects, and remove the background from the image.
 
@@ -226,17 +220,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-why-my-instagram-videos-turned-upside-down-whats-going-on/"><u>[New] In 2024, Why My Instagram Videos Turned Upside Down – What's Going On?</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-notable-book-trailers-showcasing-stories/"><u>[Updated] Notable Book Trailers Showcasing Stories</u></a></li>
-<li><a href="https://win-forum.techidaily.com/effortless-solutions-for-fixing-broken-excel-workbooks-a-beginners-guide/"><u>Effortless Solutions for Fixing Broken Excel Workbooks: A Beginner's Guide</u></a></li>
-<li><a href="https://win-forum.techidaily.com/enhance-productivity-integrating-ai-tools-into-microsoft-office-via-copilot-pro/"><u>Enhance Productivity: Integrating AI Tools Into Microsoft Office via Copilot Pro</u></a></li>
-<li><a href="https://win-forum.techidaily.com/essential-excel-basics-every-newcomer-should-master/"><u>Essential Excel Basics Every Newcomer Should Master</u></a></li>
-<li><a href="https://win-forum.techidaily.com/excel-mastery-tips-easily-manage-your-workbook-with-techniques-to-inserteditdelete-page-breaks/"><u>Excel Mastery Tips - Easily Manage Your Workbook with Techniques to Insert/Edit/Delete Page Breaks</u></a></li>
-<li><a href="https://win-forum.techidaily.com/how-to-calculate-age-in-microsoft-excel/"><u>How to Calculate Age in Microsoft Excel.</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-superior-alert-sound-pick-optimal-websites/"><u>In 2024, Superior Alert Sound Pick Optimal Websites</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-the-art-of-pinning-places-a-guide-to-adding-multiples-on-google-maps/"><u>Mastering the Art of Pinning Places: A Guide to Adding Multiples on Google Maps</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-and-solving-forza-horizon-4-crashes-on-windows-computers/"><u>Troubleshooting and Solving Forza Horizon 4 Crashes on Windows Computers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-complete-standstill-in-windows-10-at-boot-time-a-guide-to-quick-fixes/"><u>Troubleshooting Complete Standstill in Windows 10 at Boot Time: A Guide to Quick Fixes</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-motorola-moto-g-5g-2023-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Motorola Moto G 5G (2023)? | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-crafting-collabs-that-attract-and-retain-viewers/"><u>[New] 2024 Approved Crafting Collabs that Attract and Retain Viewers</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-extracting-music-tracks-from-fb/"><u>[Updated] Extracting Music Tracks From Fb</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exclusive-access-to-the-top-soundscape-archives/"><u>2024 Approved Exclusive Access to the Top Soundscape Archives</u></a></li>
+<li><a href="https://win-forum.techidaily.com/access-premium-pre-made-visual-content-with-storyblocks-downloads/"><u>Access Premium Pre-Made Visual Content with Storyblocks Downloads</u></a></li>
+<li><a href="https://win-forum.techidaily.com/convert-your-wma-audio-files-to-mp3-for-free-effortless-conversion-using-movavis-tool/"><u>Convert Your WMA Audio Files to MP3 for Free - Effortless Conversion Using Movavi's Tool</u></a></li>
+<li><a href="https://win-forum.techidaily.com/enhance-client-engagement-with-movavis-contact-hubs/"><u>Enhance Client Engagement with Movavis Contact Hubs</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/full-slomo-recording-app-review-insightful-2024/"><u>Full SloMo Recording App Review - Insightful 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-oneplus-nord-ce-3-5g-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from OnePlus Nord CE 3 5G to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-samsung-galaxy-a15-5g-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Samsung Galaxy A15 5G</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/mobile-friendly-video-posts-on-twitter-excluding-retweets/"><u>Mobile-Friendly Video Posts on Twitter Excluding Retweets</u></a></li>
+<li><a href="https://win-forum.techidaily.com/movavis-top-free-flv-to-mp4-video-format-converter-convert-online-in-just-one-click/"><u>Movavi's Top Free FLV to MP4 Video Format Converter - Convert Online in Just One Click!</u></a></li>
+<li><a href="https://win-forum.techidaily.com/transcodificar-video-asf-a-mp4-sin-gastos-tutorial-detallado-con-movavi/"><u>Transcodificar Video ASF a MP4 Sin Gastos: Tutorial Detallado Con Movavi</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-dolby-atmos-sound-on-pc-solved/"><u>Troubleshooting Dolby Atmos Sound on PC - Solved!</u></a></li>
+<li><a href="https://win-forum.techidaily.com/1726226274072-flac-movavi/"><u>무료 FLAC 편집기: 인터넷 공간에서 사용하세요 – Movavi</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastering Averages: Easy Methods to Find Median in Excel Spreadsheets"
-date: 2024-09-15T16:45:33.768Z
-updated: 2024-09-16T16:33:22.924Z
+date: 2024-09-14T16:23:36.125Z
+updated: 2024-09-21T17:10:13.359Z
 tags:
   - excel
 categories:
@@ -58,6 +58,13 @@ thumbnail: https://thmb.techidaily.com/8009d92085bbb2b59b0e3b6dadde39baefbadc66e
 
  To save time, you can instead calculate the average through a few simple clicks. First, select your data to average, click the "Home" tab on the ribbon, and in the "Editing" group, click on the drop-down arrow next to the sigma (Σ) symbol. From there, click "Average". The result will appear at the end of your data.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Use AVERAGEA in Excel
 
  AVERAGEA works in a very similar way to AVERAGE, but includes more than just numbers within the calculation. Here's the syntax for this function:
@@ -78,31 +85,11 @@ thumbnail: https://thmb.techidaily.com/8009d92085bbb2b59b0e3b6dadde39baefbadc66e
 
 ![Excel sheet showing a table with two columns: column A contains student names and column B contains their exam scores. Next to this table is the average of the scores, calculated using AVERAGE, and their average scores, calculated using the AVERAGEA function.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/averagea-calculated.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Unlike the AVERAGE function, which ignores logical values, the AVERAGEA calculation includes FALSE within the calculation as 0\. If this were instead TRUE, this would be counted as 1\. As a result, in our example, Student C's score of 0 is included, and Student F is also calculated as having scored 0\. This is why the result is lower for this calculation than the previous one.
 
  AVERAGEA counts any other text as 0 (for example, if you type FOUR, this is still represented as 0, and not 4), and ignores empty cells.
 
  As with AVERAGE, if any of the values being used in the AVERAGEA calculation were to contain [one of Excel's formula errors](https://extra-lessons.techidaily.com/step-into-premium-sound-quality-garageband-edition/), the calculation would return an error.
-
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How to Use AVERAGEIF in Excel
 
@@ -115,6 +102,19 @@ thumbnail: https://thmb.techidaily.com/8009d92085bbb2b59b0e3b6dadde39baefbadc66e
  We want to work out two things from this table. First, we want to find the average score of all students who scored more than 10 in the exam, and second, we want to work out the average scores of all students over 12 years of age.
 
 ![Excel sheet showing a table with three columns: column A contains student names, column B contains their exam scores, and column C contains their ages. Next to this table are cells where the AVERAGEIF functions will be tested.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/averageif-uncalculated.png) 
+
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  To work out the average score of all students who scored more than 10, we would use the following formula:
 
@@ -136,16 +136,16 @@ thumbnail: https://thmb.techidaily.com/8009d92085bbb2b59b0e3b6dadde39baefbadc66e
 
 ![Excel sheet showing a table with three columns: column A contains student names, column B contains their exam scores, and column C contains their ages. Next to this table, both AVERAGEIF calculations have been performed.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/averageif-calculated-2-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  This has correctly picked up the scores of Students A, B, D, and E, as they are all over 12 years of age. The calculation also ignores logical values, which is why it hasn't considered Student F, even though they are over 12 years old.
 
  The criteria used in AVERAGEIF can use one of Excel's six logical operators—these are > (greater than), < (less than), = (equal to), <= (less than or equal to), >= (greater than or equal to), or <> (not equal to)—and wildcards (\* and ?). If you want to include an actual question mark or asterisk, add a tilde (\~) before the character.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How to Use AVERAGEIFS in Excel
 
@@ -160,10 +160,10 @@ thumbnail: https://thmb.techidaily.com/8009d92085bbb2b59b0e3b6dadde39baefbadc66e
 ![Excel sheet showing a table with four columns: column A contains student names, column B contains their exam scores, column C contains their house, and column D contains their age. Next to this table is a cell where AVERAGEIFS will be performed.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/averageifs-uncalculated.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To do this, we would use the following formula:
@@ -200,20 +200,16 @@ thumbnail: https://thmb.techidaily.com/8009d92085bbb2b59b0e3b6dadde39baefbadc66e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-2023s-ultimate-list-of-affordable-live-stream-software-and-apps/"><u>[New] 2023’S Ultimate List of Affordable Live Stream Software and Apps</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-weaving-a-memorable-tiktok-outro-narrative/"><u>[Updated] In 2024, Weaving A Memorable TikTok Outro Narrative</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-apk-journey-to-gaming-bliss-funimate-pro-guide/"><u>2024 Approved APK Journey to Gaming Bliss Funimate Pro Guide</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722962319802-effortless-installation-downloading-and-updating-canon-printer-drivers-on-windows/"><u>Effortless Installation: Downloading & Updating Canon Printer Drivers on Windows</u></a></li>
-<li><a href="https://video-capture.techidaily.com/enhancing-your-recording-setup-with-rl-tech-insights/"><u>Enhancing Your Recording Setup with RL Tech Insights</u></a></li>
-<li><a href="https://win-forum.techidaily.com/how-to-fix-this-app-cant-run-on-your-pc-error/"><u>How to Fix This App Can't Run on Your PC Error</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Vivo Y100i Power 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-iview-harmony-ios-and-macos-slideshow-tool/"><u>In 2024, IView Harmony IOS & macOS Slideshow Tool</u></a></li>
-<li><a href="https://win-forum.techidaily.com/mastering-task-management-in-windows-how-to-force-quit-stubborn-apps/"><u>Mastering Task Management in Windows: How to Force Quit Stubborn Apps</u></a></li>
-<li><a href="https://win-forum.techidaily.com/navigating-social-media-giants-facebook-twitter-instagram-and-youtube/"><u>Navigating Social Media Giants: Facebook, Twitter, Instagram & YouTube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/navigating-the-major-networks-understanding-facebook-twitter-instagram-and-youtube/"><u>Navigating the Major Networks: Understanding Facebook, Twitter, Instagram, and YouTube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/navigating-the-world-of-social-networking-with-facebook-twitter-instagram-and-youtube/"><u>Navigating the World of Social Networking with Facebook, Twitter, Instagram, and YouTube</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/optimizing-youtube-and-twitch-with-obs-streaming-techniques-for-2024/"><u>Optimizing YouTube & Twitch with OBS Streaming Techniques for 2024</u></a></li>
-<li><a href="https://win-forum.techidaily.com/overcoming-hardware-barriers-how-to-run-windows-11-on-unsupported-chipsets/"><u>Overcoming Hardware Barriers: How to Run Windows 11 on Unsupported Chipsets</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-guide-accessing-windows-11s-system-information-using-command-prompt/"><u>Step-by-Step Guide: Accessing Windows 11'S System Information Using Command Prompt</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/-step-financial-forecasting-assessing-revenue-from-googles-platform-youtube-for-2024/"><u>[New] 3-Step Financial Forecasting Assessing Revenue From Google's Platform, YouTube for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-key-top-5-ultra-light-action-recording-models/"><u>[Updated] Key Top 5 Ultra-Light Action Recording Models</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-laughlens-lab-jestjokester-co/"><u>2024 Approved LaughLens Lab JestJokester Co</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-oppo-reno-11-5g-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Oppo Reno 11 5G</u></a></li>
+<li><a href="https://win-forum.techidaily.com/converta-facilmente-gracas-ao-movavi-convertendo-em-linha-atoa-mp3-para-formato-mpeg-sem-custo-algum/"><u>Converta Fácilmente Graças Ao Movavi - Convertendo Em Linha Atoa MP3 Para Formato MPEG Sem Custo Algum</u></a></li>
+<li><a href="https://win-forum.techidaily.com/convertidor-online-gratuito-de-formatos-de-3g2-a-wma-con-ease/"><u>Convertidor Online Gratuito De Formatos: De .3G2 a .WMA Con Ease</u></a></li>
+<li><a href="https://win-forum.techidaily.com/effortless-caf-file-conversions-at-no-cost-with-movavis-web-service/"><u>Effortless CAF File Conversions at No Cost with Movavi's Web Service</u></a></li>
+<li><a href="https://win-forum.techidaily.com/gratis-online-converter-transformeen-ogg-bestandjes-in-movie-formats-met-movavi/"><u>Gratis Online Converter: Transformeen Ogg-Bestandjes in Movie Formats Met Movavi</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-vivo-x90s-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Vivo X90S | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/revolutionizing-mobile-shopping-the-impending-improvements-you-can-expect-from-google-play-store/"><u>Revolutionizing Mobile Shopping: The Impending Improvements You Can Expect From Google Play Store</u></a></li>
+<li><a href="https://win-forum.techidaily.com/transformar-archivos-flac-en-alac-y-viceversa-con-facilidad-conversor-gratuito/"><u>Transformar Archivos FLAC en ALAC Y Viceversa Con Facilidad | Conversor Gratuito</u></a></li>
 </ul></div>
 

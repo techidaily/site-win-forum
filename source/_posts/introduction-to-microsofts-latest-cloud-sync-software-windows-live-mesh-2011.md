@@ -1,7 +1,7 @@
 ---
 title: "Introduction to Microsoft's Latest Cloud Sync Software: Windows Live Mesh 2011"
-date: 2024-09-12T16:35:25.369Z
-updated: 2024-09-16T16:16:14.967Z
+date: 2024-09-20T17:38:55.071Z
+updated: 2024-09-21T17:28:44.456Z
 tags:
   - excel
 categories:
@@ -113,6 +113,13 @@ Recently Microsoft has been indecisive with it's Live Mesh / Sync cloud based se
 
 ![sshot-2010-10-14-[19-00-08]](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/sshot-2010-10-14-19-00-08.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Then select where you want to sync the folder. Here we are going to select our Netbook and SkyDrive Synced Storage. 
 
 ![sshot-2010-10-14-[19-02-59]](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/sshot-2010-10-14-19-02-59.png) 
@@ -124,10 +131,10 @@ Recently Microsoft has been indecisive with it's Live Mesh / Sync cloud based se
 ![sshot-2010-10-14-[19-31-39]](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/sshot-2010-10-14-19-31-39.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you haven't done so already you'll need to click on Allow remote connections to this computer on each of the machines you want to access remotely. 
@@ -142,13 +149,6 @@ Recently Microsoft has been indecisive with it's Live Mesh / Sync cloud based se
 
 ![sshot-2010-10-14-[19-38-46]](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/sshot-2010-10-14-19-38-46.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121334/18498" target="_top" id="2121334">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121334/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Here we connected to our Netbook -- both running Windows 7\. Now you'll be able to access your other machine just like as if you were sitting in front of it. 
 
 ![sshot-2010-10-14-[20-06-37]](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/sshot-2010-10-14-20-06-37.png) 
@@ -156,6 +156,13 @@ Recently Microsoft has been indecisive with it's Live Mesh / Sync cloud based se
  From the bar at the top of the Live Mesh remote screen you can control different aspects of the other computer like sending Ctrl+Alt+Del. 
 
 ![sshot-2010-10-14-[20-11-16]](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/sshot-2010-10-14-20-11-16.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  When you are remotely connected to another computer, and another person was using it, they'll be locked out. 
 
@@ -174,28 +181,15 @@ Recently Microsoft has been indecisive with it's Live Mesh / Sync cloud based se
 ![sshot-2010-10-14-[22-07-15]](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/sshot-2010-10-14-22-07-15.png) 
 
 <!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  When you're done with a session just disconnect from the other machine. 
 
 ![sshot-2010-10-14-[19-42-10]](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/sshot-2010-10-14-19-42-10.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Sync Program Settings Between Computers
 
@@ -203,16 +197,16 @@ Recently Microsoft has been indecisive with it's Live Mesh / Sync cloud based se
 
 ![sshot-2010-10-14-[20-49-38]](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/sshot-2010-10-14-20-49-38.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  For one of our computers, IE 9 has the standard MSN bookmarks, and we turned on IE syncing. 
 
 ![sshot-2010-10-14-[22-20-12]](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/sshot-2010-10-14-22-20-12.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  And it quickly brought over bookmarks from the other PC. 
 
@@ -239,14 +233,18 @@ Recently Microsoft has been indecisive with it's Live Mesh / Sync cloud based se
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-your-guide-to-building-stylish-snapchat-filters/"><u>[New] In 2024, Your Guide to Building Stylish Snapchat Filters</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-decoding-upgrades-to-macos-11-big-surs-core-features/"><u>2024 Approved Decoding Upgrades to macOS 11 Big Sur's Core Features</u></a></li>
-<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-xiaomi-13-ultra-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Xiaomi 13 Ultra? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/bedtime-videos-breakdown-stories-and-reviews-for-2024/"><u>Bedtime Videos Breakdown Stories and Reviews for 2024</u></a></li>
-<li><a href="https://win-forum.techidaily.com/1722915345020-explore-the-giants-of-online-engagement-facebook-twitter-instagram-and-youtube/"><u>Explore the Giants of Online Engagement: Facebook, Twitter, Instagram & YouTube</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/is-prompt-crafting-a-viable-job-opportunity-understanding-its-prospects-with-9-factors/"><u>Is Prompt Crafting a Viable Job Opportunity? Understanding Its Prospects with 9 Factors</u></a></li>
-<li><a href="https://win-forum.techidaily.com/mastering-the-digital-age-with-major-platforms-insights-into-facebook-twitter-instagram-and-youtube/"><u>Mastering the Digital Age with Major Platforms: Insights Into Facebook, Twitter, Instagram, and YouTube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-ultimate-walkthrough-how-to-refresh-device-drivers-on-windows-10-with-the-help-of-revouninstaller/"><u>The Ultimate Walkthrough: How to Refresh Device Drivers on Windows 10 with the Help of RevoUninstaller</u></a></li>
-<li><a href="https://win-forum.techidaily.com/understanding-the-digital-era-a-guide-to-facebook-twitter-instagram-and-youtube/"><u>Understanding the Digital Era: A Guide to Facebook, Twitter, Instagram, and Youtube</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-expert-selection-prime-auto-tracking-tech-review/"><u>[New] Expert Selection Prime Auto Tracking Tech Review</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-enhance-fb-story-visibility-with-these-tips/"><u>[New] In 2024, Enhance FB Story Visibility with These Tips</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-the-ultimate-roundup-best-budget-friendly-virtual-calls-for-2024/"><u>[New] The Ultimate Roundup Best Budget-Friendly Virtual Calls for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-a-comparative-review-of-filmmaking-apps-filmora-and-democracy-creator/"><u>[Updated] 2024 Approved A Comparative Review of Filmmaking Apps Filmora & Democracy Creator</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-revive-lost-iphone-x-key-tips-and-tricks-shared-here-for-2024/"><u>[Updated] Revive Lost iPhone X Key Tips and Tricks Shared Here for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/clicca-qui-per-imparare-come-registrare-lo-schermo-di-windows-o-mac-usando-obs-tutorial-completo/"><u>Clicca Qui per Imparare Come Registrare Lo Schermo Di Windows O Mac Usando OBS - Tutorial Completo!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-logitech-g23-racing-wheel-setup-free-driver-download-and-installation-instructions-for-windows-7810-systems/"><u>Easy Logitech G23 Racing Wheel Setup: Free Driver Download & Installation Instructions For Windows 7/8/10 Systems</u></a></li>
+<li><a href="https://win-forum.techidaily.com/free-online-converter-change-pngs-into-animated-gifs-with-ease-using-movavi/"><u>Free Online Converter: Change PNGs Into Animated GIFs with Ease Using Movavi</u></a></li>
+<li><a href="https://win-forum.techidaily.com/movavi-wegomkeerd-verwerken-van-ai-beelten-tot-wmv-formaat-volledig-kostenloos-online/"><u>Movavi: Wegomkeerd Verwerken Van AI-Beelten Tot WMV-Formaat Volledig Kostenloos Online</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/pushing-boundaries-camera-capabilities-in-ios-11-for-2024/"><u>Pushing Boundaries Camera Capabilities in iOS 11 for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-android-and-ios-apps-for-slowing-down-videos-a-comprehensive-guide/"><u>Top Android & iOS Apps for Slowing Down Videos : A Comprehensive Guide</u></a></li>
+<li><a href="https://win-forum.techidaily.com/trasforma-i-tuoi-video-mkv-in-m4v-senza-costi-utilizzando-movavi-online/"><u>Trasforma I Tuoi Video MKV in M4V Senza Costi Utilizzando Movavi Online</u></a></li>
+<li><a href="https://win-forum.techidaily.com/fhm-alyat-alhd-mn-tkalyf-alshhn-oalirgaaa-lbdaa-mntgat/"><u>فهم آليات الحد من تكاليف الشحن والإرجاع لبضع منتجات</u></a></li>
 </ul></div>
 

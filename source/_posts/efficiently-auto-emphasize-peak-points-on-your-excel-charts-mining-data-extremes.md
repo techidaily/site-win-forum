@@ -1,7 +1,7 @@
 ---
 title: Efficiently Auto-Emphasize Peak Points on Your Excel Charts - Mining Data Extremes
-date: 2024-09-09T16:15:21.976Z
-updated: 2024-09-16T16:58:22.980Z
+date: 2024-09-18T16:08:50.530Z
+updated: 2024-09-21T17:24:58.355Z
 tags:
   - excel
 categories:
@@ -62,10 +62,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![An Excel table with three columns and an arrow pointing to the header name (Largest 3) in the third column.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/extra-column.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Step 4: Extract Your Parameters
@@ -130,16 +130,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![An Excel sheet with a chart selected and 'Select Data' highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/select-data.png) 
 
 <!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In the dialog box that opens, click "Add" under Legend Entries to add new data to your chart.
@@ -152,18 +146,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The Edit Series dialog box in Excel with Series Values labelled as '1' and Series Name labelled as '2'.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/edit-series.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You will then see the outcome in your graph, with an extra bar appearing next to each of the three largest values.
 
 ![An Excel chart next to a table. There are three arrows, each pointing from the new series of data in the table to its corresponding bar in the chart.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/series-added.png) 
 
  The final step is to make the new series overlap the existing series (that is to say, replace the largest three blue bars with the three orange bars).
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Step 6: Overlap the LARGE Series
 
@@ -173,20 +167,27 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![An Excel chart with the Format Chart Area pane open and a drop-down arrow highlighted. The series name is also highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/format-data-series.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Click the "Series Options" icon, and change "Series Overlap" to 100% by clicking and dragging the slider to the right.
 
 ![An Excel chart with the Series Options highlighted and opened, and the Series Overlap set to 100%.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/series-overlap.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You will now see the final outcome—your chart highlights the max three values in your Excel chart!
 
  You can format the chart to suit your needs, including giving it a title or changing the colors. Right-click anywhere on the chart and choose "Format Chart Area" or "Format Plot Area," or left-click the very edge of the chart outline and click "+."
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Step 7: Hide the Extra Table Column (Optional)
 
@@ -201,13 +202,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Then, click "Hidden And Empty Cells" in the Select Data Source window, and check the "Show Data In Hidden Rows And Columns" box.
 
 !['Show Data In Hidden Rows And Columns' in the Hidden And Empty Cells Settings dialog box is checked.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/show-data-in-hidden-1.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Finally, right-click the column you want to hide (in our case, we'll right-click the column C header), and click "Hide."
 
@@ -242,18 +236,21 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/updated-maximizing-social-sharing-uploading-360-degree-images-on-mobile-platforms-for-2024/"><u>[Updated] Maximizing Social Sharing Uploading 360-Degree Images on Mobile Platforms for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-ultimate-ios-tutorial-downloading-episodes-effortlessly/"><u>[Updated] Ultimate iOS Tutorial Downloading Episodes Effortlessly</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-exclusive-list-best-fb-video-mp4-extractors/"><u>2024 Approved Exclusive List Best FB Video MP4 Extractors</u></a></li>
-<li><a href="https://win-forum.techidaily.com/achieve-a-cleaner-system-release-unused-space-on-your-pc-with-windows-11/"><u>Achieve a Cleaner System: Release Unused Space on Your PC with Windows 11</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/nce-allure-3-ultimate-video-growth-methods/"><u>Audience Allure 3 Ultimate Video Growth Methods</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/bridging-audio-gaps-the-complete-guide-to-smooth-blending-in-audacity-for-2024/"><u>Bridging Audio Gaps The Complete Guide to Smooth Blending in Audacity for 2024</u></a></li>
-<li><a href="https://win-forum.techidaily.com/maximize-your-pcs-performance-using-revo-uninstaller-pro-5-now/"><u>Maximize Your PC's Performance Using Revo Uninstaller Pro 5 Now</u></a></li>
-<li><a href="https://win-forum.techidaily.com/navigating-the-giants-of-online-engagement-facebooktwitterinstagramyoutube-guide/"><u>Navigating the Giants of Online Engagement: Facebook/Twitter/Instagram/YouTube Guide</u></a></li>
-<li><a href="https://win-forum.techidaily.com/solving-the-windows-11-wont-run-error-on-your-pc-with-revouninstaller/"><u>Solving the 'Windows 11 Wont Run' Error on Your PC with RevoUninstaller</u></a></li>
-<li><a href="https://win-forum.techidaily.com/top-four-platforms-in-social-networking-insights-on-facebook-twitter-instagram-and-youtube/"><u>Top Four Platforms in Social Networking: Insights on Facebook, Twitter, Instagram and YouTube</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-the-sims-solved-graphic-hardware-issues-on-pc-and-mac/"><u>Troubleshooting The Sims ([SOLVED]) Graphic Hardware Issues on PC and Mac</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/upcoming-samsung-galaxy-s25-unveiling-the-latest-rumors-on-specs-price-and-launch-details/"><u>Upcoming Samsung Galaxy S25 - Unveiling the Latest Rumors on Specs, Price & Launch Details</u></a></li>
-<li><a href="https://win-forum.techidaily.com/windows-11-troubleshooting-guide-how-to-fix-high-resource-use-by-hard-drive/"><u>Windows 11 Troubleshooting Guide: How to Fix High Resource Use by Hard Drive</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-deconstructing-user-sentiments-for-vllo/"><u>[New] 2024 Approved Deconstructing User Sentiments for VLLO</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-dive-into-the-future-of-branding-with-these-10-igtv-ideas-for-2024/"><u>[New] Dive Into the Future of Branding with These 10 IGTV Ideas for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-navigating-facebooks-high-def-download-routes/"><u>[New] In 2024, Navigating Facebook's High-Def Download Routes</u></a></li>
+<li><a href="https://win-forum.techidaily.com/1726225832344-mmf-mp3-movavi/"><u>無限制網上 MMF 改成 MP3 - 便利版 Movavi編輯器</u></a></li>
+<li><a href="https://win-forum.techidaily.com/conversao-de-imagens-jpeg-para-gif-ferramenta-online-gratuita-do-movavi/"><u>Conversão De Imagens JPEG Para GIF: Ferramenta Online Gratuita Do Movavi</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-man-klipper-musik-seamless-audio-editing-across-pc-tablet-and-smartphone-devices/"><u>Exploring Man Klipper Musik: Seamless Audio Editing Across PC, Tablet & Smartphone Devices</u></a></li>
+<li><a href="https://win-forum.techidaily.com/guia-completa-para-transformar-musica-de-rmvb-a-mp3-sin-tarifa-en-internet-hablemos-de-movavi/"><u>Guía Completa Para Transformar Música De RMVB a MP3 Sin Tarifa en Internet: Hablemos De Movavi</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-lava-blaze-2-5g-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Lava Blaze 2 5G to New Android? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/materials/"><u>Materials</u></a></li>
+<li><a href="https://win-forum.techidaily.com/movavi-video-suite-achetez-en-securite-et-profitez-des-reductions-exclusives/"><u>Movavi Video Suite: Achetez en Sécurité Et Profitez Des Réductions Exclusives!</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-address-and-rectify-windows-app-error-0x800700c6/"><u>Steps to Address and Rectify Windows App Error 0X800700c6</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-5-methods-for-capturing-screenshots-with-sound-on-macos-using-movavi/"><u>Top 5 Methods for Capturing Screenshots with Sound on macOS - Using Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/troubleshoot-and-fix-windows-10-calculator-issues-complete-solution-guide/"><u>Troubleshoot and Fix Windows 10 Calculator Issues – Complete Solution Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-vision-tech-top-5-for-slow-motion-for-2024/"><u>Ultimate Vision Tech Top 5 for Slow Motion for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-and-download-epson-et-3760-print-driver-for-windows-a-comprehensive-tutorial/"><u>Update & Download Epson ET-3760 Print Driver for Windows: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mkv-and-mpg-movavi/"><u>オンラインでも簡単なフリー MKV & MPGビデオ変換 - Movavi</u></a></li>
 </ul></div>
 
