@@ -1,7 +1,7 @@
 ---
 title: "Effortless Currency Transformation: Learn How to Use Microsoft Excel for Effective Money Conversion"
-date: 2024-09-14T17:03:30.508Z
-updated: 2024-09-21T17:27:22.286Z
+date: 2024-09-28T16:01:34.109Z
+updated: 2024-10-01T17:04:08.699Z
 tags:
   - excel
 categories:
@@ -17,6 +17,13 @@ thumbnail: https://thmb.techidaily.com/7240c2e9a6abc552c14c05c0954b803ce022aaf37
 * [Converting Currency in Microsoft Excel](https://youtube-sure.techidaily.com/for-effective-tripod-usage-in-video-blogging-for-2024/)
 
  Microsoft Excel doesn't include built-in tools to convert currency. However, you can use an external data source to provide up-to-date rates. A basic multiplication formula will then convert from one currency to another. Here's how you do it!
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Adding an External Data Source to Excel
 
@@ -42,6 +49,13 @@ Related: [How to Convert Currency in Google Sheets](https://fox-blue.techidaily.
 
 ![Click Transform Data to convert an XML data feed during the XML import wizard](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/01/Excel-XML-Transform-Data.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The Excel Power Query Editor appears. Scroll to the "Item" column, and then double-click "Table" to load the up-to-date currency rates.
 
 ![In the Excel Power Query Editor, scroll to the Item column, then double-click the Table item](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/01/Excel-XML-Data-Select-Table.png) 
@@ -66,6 +80,13 @@ Related: [How to Convert Currency in Google Sheets](https://fox-blue.techidaily.
 
 ![Currency exchange rates, imported from an external data source in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/01/Excel-GBP-Currency-Rate.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Return to your existing worksheet, and type the USD price from which you want to convert into a cell. In a second cell, use the formula 
 
         `=A2*Sheet2!$I$3`
@@ -75,6 +96,13 @@ Related: [How to Convert Currency in Google Sheets](https://fox-blue.techidaily.
  Replace the second part of the formula with an [absolute reference](https://some-guidance.techidaily.com/the-ultimate-step-by-step-guide-to-kinemasters-green-screen-mastery-for-2024/) to the cell in the "exchangeRate" column on your imported data worksheet that contains the exchange rate to which you want to convert.
 
 ![Various currency conversion prices in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/01/Excel-Currency-Conversion.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  In the example above, Column A lists U.S. dollars. Column B lists the converted currency rates from U.S. dollars to British pounds (1 USD to GBP is in cell B2).
 
@@ -99,12 +127,23 @@ Related: [How to Convert Currency in Google Sheets](https://fox-blue.techidaily.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-top-5-ios-platforms-for-experiencing-classic-psp-games/"><u>[New] 2024 Approved Top 5 iOS Platforms for Experiencing Classic PSP Games</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-instant-facebook-beat-loader-for-2024/"><u>[New] Instant Facebook Beat Loader for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-convenient-methods-for-video-recording-on-youtube-for-2024/"><u>[Updated] Convenient Methods for Video Recording on YouTube for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722874435427-all-you-need-to-know-about-the-new-google-pixel-tablet-launch-info-and-hardware-details-revealed/"><u>All You Need to Know About The New Google Pixel Tablet - Launch Info and Hardware Details Revealed!</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/bridging-the-gap-between-zoom-and-social-media-streams/"><u>Bridging the Gap Between ZOOM and Social Media Streams</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Motorola Moto G24 | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/freeing-up-space-on-your-windows-11-system-a-comprehensive-guide/"><u>Freeing Up Space on Your Windows 11 System: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-fix-pc-issues-preventing-windows-11-installation-successfully/"><u>How to Fix PC Issues Preventing Windows 11 Installation Successfully</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-implement-power-on-by-lan-functionality-on-windows-11/"><u>How to Implement Power On By LAN Functionality on Windows 11</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Oppo Reno 11F 5G | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-social-media-landscapes-with-facebook-twitter-instagram-and-youtube/"><u>Mastering Social Media Landscapes with Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://techidaily.com/solutions-to-repair-corrupt-pdf-v17-file-by-stellar-guide/"><u>Solutions to Repair Corrupt PDF v1.7 File</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-big-players-of-online-networking-navigating-through-facebook-twitter-instagram-and-youtube/"><u>The Big Players of Online Networking: Navigating Through Facebook, Twitter, Instagram and Youtube</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/ultimate-guide-from-apple-iphone-13-icloud-activation-lock-bypass-by-drfone-ios/"><u>Ultimate Guide from Apple iPhone 13 iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://win-forum.techidaily.com/understanding-social-media-impact-with-facebook-twitter-instagram-and-youtube-analysis/"><u>Understanding Social Media Impact with Facebook, Twitter, Instagram, and YouTube Analysis</u></a></li>
+<li><a href="https://win-forum.techidaily.com/unpacking-the-powerhouses-of-digital-communication-facebook-twitter-instagram-and-youtube/"><u>Unpacking the Powerhouses of Digital Communication: Facebook, Twitter, Instagram & YouTube</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Quick Methods for Discovering and Deleting Aged Data on Your Windows 11 PC
-date: 2024-09-15T17:31:44.397Z
-updated: 2024-09-21T16:45:58.243Z
+date: 2024-09-24T16:32:03.825Z
+updated: 2024-10-01T17:22:21.420Z
 tags:
   - windows
 categories:
@@ -33,6 +33,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 !['System' and 'Storage' highlighted in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/1-storage-settings.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In the Storage Management section, turn on the toggle next to "Storage Sense," then click "Storage Sense."
 
 !['Storage Sense' highlighted in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/2-enable-storage-sense.jpg) 
@@ -47,14 +54,14 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Storage Sense configuration options in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/3-configure-storage-sense.jpg) 
 
- To run the feature now, click "Run Storage Sense Now." It will start removing the chosen files.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ To run the feature now, click "Run Storage Sense Now." It will start removing the chosen files.
 
 ##  With Microsoft PC Manager
 
@@ -76,35 +83,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 !['Size' drop-down menu highlighted for large files in PC Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/6-specify-file-size.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  When you see the files listed, choose the ones you want to remove and click "Permanently Delete."
 
 ![Large files and 'Permanently Delete' highlighted in PC Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/7-delete-large-files.jpg) 
-
-<!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  And that’s it.
 
  Another useful option is "Duplicate Files." This option finds the duplicates on your storage and helps you remove them all at once. Use it by clicking the option, letting the feature find any duplicates, choosing the files you want to remove, and clicking "Permanently Delete."
 
 ![Duplicate files and 'Permanently Delete' highlighted in PC Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/8-remove-duplicate-files.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  And you’re all set.
 
@@ -139,15 +133,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Save the ForFiles command as a batch file.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/10-save-batch-file.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  When you want to run your command, right-click your batch script and choose "Run as Administrator."
 
 !['Run as Administrator' highlighted for a batch file in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/11-run-batch-file.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can integrate this batch script with Task Manager, and Task Manager will run the script at your specified time. This basically automates the entire process of finding and removing old files from your specified folders.
@@ -169,5 +170,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-viral-video-victory-lap-youtubes-1-10-in-one-day/"><u>[New] 2024 Approved Viral Video Victory Lap YouTube's #1-#10 in One Day</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-immersion-in-hue-and-light-dreamcolors-z32-x-explored-for-2024/"><u>[New] Immersion in Hue and Light DreamColor's Z32 X Explored for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/essential-platforms-for-connectivity-exploring-facebook-twitter-instagram-and-youtube/"><u>Essential Platforms for Connectivity: Exploring Facebook, Twitter, Instagram and Youtube</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-audio-visual-blend-in-online-photography/"><u>In 2024, Audio-Visual Blend in Online Photography</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Honor X50 GT? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-guide-to-media-player-replacements-for-vlc/"><u>In 2024, The Ultimate Guide to Media Player Replacements for VLC</u></a></li>
+<li><a href="https://win-forum.techidaily.com/social-networks-unveiled-effective-techniques-for-facebook-twitter-instagram-and-youtube/"><u>Social Networks Unveiled: Effective Techniques for Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/-watch-top-15-youtube-guides-for-2024/"><u>Stock Watch Top 15 YouTube Guides for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-giants-of-networking-sites-exploring-facebook-twitter-instagram-and-youtube/"><u>The Giants of Networking Sites - Exploring Facebook, Twitter, Instagram and Youtube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/ultimate-guide-secure-your-windows-machine-in-5-simple-steps/"><u>Ultimate Guide: Secure Your Windows Machine in 5 Simple Steps</u></a></li>
+<li><a href="https://win-forum.techidaily.com/windows-11-disk-cleanup-mastery-how-to-expand-your-drives-available-space-easily/"><u>Windows 11 Disk Cleanup Mastery: How to Expand Your Drive's Available Space Easily</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Accelerate Your Productivity: Discover 6 Innovative Quick Steps in Microsoft Outlook"
-date: 2024-09-16T17:00:13.119Z
-updated: 2024-09-21T16:35:06.820Z
+date: 2024-09-27T17:14:17.485Z
+updated: 2024-10-01T16:05:27.148Z
 tags:
   - excel
 categories:
@@ -31,6 +31,19 @@ thumbnail: https://thmb.techidaily.com/77d2b3ef679b5fcf16ae0f3446de13ba438b3d48f
  To [create your own Quick Step](https://instagram-video-files.techidaily.com/in-2024-a-complete-tutorial-on-saving-your-instagram-story/), head to the Home tab and select the bottom arrow in the Quick Steps box.
 
 ![Arrow in the Quick Steps box](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/QuickStepsArrow-OutlookCustomQuickStep.png) 
+
+<!-- affiliate ads begin -->
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Choose "Create New." Alternatively, move your cursor to New Quick Step and pick "Custom" in the pop-out menu.
 
@@ -92,18 +105,38 @@ Related: [How to Delete Multiple Emails in Microsoft Outlook](https://screen-cap
 
 ![Categorize Message action](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/CategoriesCategorize-OutlookCustomQuickStep.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  As another example, we'll use the Create a Task With Text of Message action. This is a terrific action to use if you [manage your to-dos in Outlook](https://apple-account.techidaily.com/troubleshooting-error-connecting-to-the-apple-id-server-from-apple-iphone-12-pro-by-drfone-ios/). Then, just select the Quick Step and you'll see a new task window open with the email in the body.
 
 ![Create a Task action](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/CategoriesTask-OutlookCustomQuickStep.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Optionally, assign a shortcut and add a tooltip, then click "Finish" to save your Quick Step.
+
+<!-- affiliate ads begin -->
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  4\. Respond, Reply, or Forward
 
@@ -115,38 +148,24 @@ Related: [How to Forward an Email as an Attachment in Microsoft Outlook](https:/
 
 ![Respond Quick Steps](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/Respond-OutlookCustomQuickStep.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  A good example here is to forward the message as an attachment. This is perfect if you tend to receive emails that you often forward to someone else. Pick Forward Message as an Attachment in the Choose an Action box. To complete the remaining details at the time, you don't have to select anything else.
 
 ![Forward email as attachment action](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/RespondForward-OutlookCustomQuickStep.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To prefill the details for the email you forward, select "Show Options."
 
 ![Show Options for forwarding a message](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/RespondForwardShowOptions-OutlookCustomQuickStep.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can then add as much or little as you like for the email including to, subject, flag, importance, and text. Just remember, these details apply every time you use the Quick Step.
 
 ![Options for forwarding a message](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/RespondForwardOptions-OutlookCustomQuickStep.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Be sure to name the Quick Step and select any additional options at the bottom. Click "Finish."
 
@@ -157,6 +176,13 @@ Related: [How to Forward an Email as an Attachment in Microsoft Outlook](https:/
  One awesome example is creating a new meeting.
 
 ![Appointment Quick Steps](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/Appointment-OutlookCustomQuickStep.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  To set up a blank meeting request that you fill out on the spot, simply select New Meeting in the Choose an Action drop-down box and nothing else. To prefill the meeting details, select "Show Options."
 
@@ -178,18 +204,18 @@ Related: [How to Toggle and Customize Conversation View in Outlook](https://vide
 
 ![Conversations Quick Steps](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/Conversations-OutlookCustomQuickStep.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you choose to move the messages, select the location in the subsequent drop-down box. If you choose to ignore the messages, you don't have to select anything else.
 
 ![Always move messages action](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/ConversationsAlwaysMove-OutlookCustomQuickStep.png) 
 
  Name your Quick Step, pick an option at the bottom if you like, and click "Finish."
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How to Use Your Quick Step
 
@@ -200,6 +226,13 @@ Related: [How to Toggle and Customize Conversation View in Outlook](https://vide
  If the Quick Step moves, marks, or responds, it'll happen automatically when you click the button. If you set up a Quick Step for forwarding a message, creating a task, or setting up an appointment, you'll see the corresponding box appear, like the Quick Step shown below to create a task.
 
 ![New Task Quick Step](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/NewMeetingQuickStep-OutlookCustomQuickStep.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  While [rules in Outlook](https://instagram-video-recordings.techidaily.com/2024-approved-unlock-your-potential-best-instagram-video-editors-android-pc/) are great for automating tasks without lifting a finger, you may want to take an action to perform repetitive tasks on particular emails. This is the ideal time to use Quick Steps.
 
@@ -216,5 +249,21 @@ Related: [How to Toggle and Customize Conversation View in Outlook](https://vide
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-master-the-art-of-live-streaming-obs-tips-for-youtube-and-twitch/"><u>2024 Approved Master the Art of Live Streaming OBS Tips for YouTube & Twitch</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-speed-racers-remarkable-22-run/"><u>2024 Approved Speed Racers' Remarkable '22 Run</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/chuckle-champs-twitters-humor-heap/"><u>Chuckle-Champs Twitter’s Humor Heap</u></a></li>
+<li><a href="https://win-forum.techidaily.com/comprehensive-instructions-how-to-undo-the-most-recent-windows-11-installation-changes/"><u>Comprehensive Instructions: How to Undo the Most Recent Windows 11 Installation Changes</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/crafting-a-viral-video-journey-6-key-strategies-on-youtube/"><u>Crafting a Viral Video Journey 6 Key Strategies on YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/determining-your-current-powershell-verison-in-windows-10-a-step-by-step-guide/"><u>Determining Your Current PowerShell Verison in Windows 10: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-forum.techidaily.com/essential-social-media-sites-for-engagement-exploring-facebook-twitter-instagram-and-youtube/"><u>Essential Social Media Sites for Engagement: Exploring Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/fix-and-optimize-your-pc-a-comprehensive-guide-to-update-windows-11-drivers/"><u>Fix and Optimize Your PC: A Comprehensive Guide to Update Windows 11 Drivers</u></a></li>
+<li><a href="https://win-forum.techidaily.com/fixing-issues-when-an-application-fails-to-launch-on-windows-systems/"><u>Fixing Issues When an Application Fails to Launch on Windows Systems</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-free-up-space-by-deleting-bloatware-on-windows-10-and-11-systems/"><u>How to Free Up Space by Deleting Bloatware on Windows 10 and 11 Systems</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Apple iPhone 15 Plus | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/quickest-online-platforms-transforming-gif-into-video/"><u>Quickest Online Platforms Transforming GIF Into Video</u></a></li>
+<li><a href="https://program-issues.techidaily.com/snowrunner-crashing-woes-overcome-master-these-fixes-to-enjoy-uninterrupted-gameplay-on-windows-machines/"><u>Snowrunner Crashing Woes Overcome? Master These Fixes to Enjoy Uninterrupted Gameplay on Windows Machines</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/sonic-sequencing-for-improved-imovie-projects-for-2024/"><u>Sonic Sequencing for Improved iMovie Projects for 2024</u></a></li>
+</ul></div>
 

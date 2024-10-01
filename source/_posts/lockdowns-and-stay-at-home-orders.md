@@ -1,7 +1,7 @@
 ---
 title: Lockdowns and Stay-at-Home Orders
-date: 2024-09-15T16:18:27.463Z
-updated: 2024-09-21T16:41:53.989Z
+date: 2024-09-27T16:30:37.915Z
+updated: 2024-10-01T16:28:33.302Z
 tags:
   - windows
 categories:
@@ -42,12 +42,28 @@ PowerToys is a utility from Microsoft that adds some great productivity features
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-5-ways-to-record-audio-on-windows-10-for-2024/"><u>[New] 5 Ways to Record Audio on Windows 10 for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-transform-your-video-editing-youtube-tunes-in-imovie/"><u>[New] In 2024, Transform Your Video Editing YouTube Tunes in iMovie</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-top-10-tools-to-perfect-your-igtv-edits/"><u>[New] Top 10 Tools to Perfect Your IGTV Edits</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-simplifying-video-production-with-captivate/"><u>[Updated] In 2024, Simplifying Video Production with Captivate</u></a></li>
+<li><a href="https://games-able.techidaily.com/echoes-of-battle-the-ultimate-11-military-sims/"><u>Echoes of Battle: The Ultimate 11 Military Sims</u></a></li>
+<li><a href="https://win-forum.techidaily.com/emerging-trends-in-enterprise-search-tech-a-glimpse-into-the-future-beyond-copernic/"><u>Emerging Trends in Enterprise Search Tech: A Glimpse Into the Future Beyond Copernic</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-resetting-dns-cache-to-solve-internet-connectivity-issues-on-windows-platforms/"><u>How-To: Resetting DNS Cache to Solve Internet Connectivity Issues on Windows Platforms</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Vivo S17 Pro? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unleash-your-potential-top-6-head-mounted-cameras-by-gopro/"><u>In 2024, Unleash Your Potential Top 6 Head-Mounted Cameras by GoPro</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/meest-erfelijke-formaten-mef-in-jpegs-vervangen-onlinelastige-vrijetijdsbesteding-movavi-konvertingereiland/"><u>Meest Erfelijke Formaten (MEF) in JPEG's Vervangen - Onlinelastige Vrijetijdsbesteding Movavi Konvertingereiland!</u></a></li>
+<li><a href="https://win-forum.techidaily.com/1723809006988-santa-skims-but-you-need-depth-discover-how-copernic-transforms-your-data-check-with-precision-and-ease/"><u>Santa Skims, But You Need Depth - Discover How Copernic Transforms Your Data Check with Precision and Ease</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-solutions-for-unresponsive-nvidia-settings-dashboard/"><u>Step-by-Step Solutions for Unresponsive NVIDIA Settings Dashboard</u></a></li>
+<li><a href="https://win-forum.techidaily.com/1723809007894-struggling-to-track-down-files-on-your-machine-discover-proven-techniques-with-our-guide/"><u>Struggling to Track Down Files on Your Machine? Discover Proven Techniques with Our Guide!</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-four-platforms-navigating-the-world-of-facebook-twitter-instagram-and-youtube/"><u>Top Four Platforms: Navigating the World of Facebook, Twitter, Instagram & YouTube</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

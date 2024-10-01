@@ -1,7 +1,7 @@
 ---
 title: "Secure Superuser Access for Applications: A Step-by-Step Tutorial for Windows 11 Users"
-date: 2024-09-14T16:07:00.320Z
-updated: 2024-09-16T16:10:48.885Z
+date: 2024-09-26T16:18:23.143Z
+updated: 2024-10-01T16:00:40.083Z
 tags:
   - win11
   - win10
@@ -44,6 +44,13 @@ Here are the methods you can use to speed up your Windows 11 boot time:
 ![startup tab](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/speed-up-windows-11-boot-time/disable-startup-programs-in-windows-11-step-2.jpg)
 3. Finally, toggle the switch next to the apps you don’t want to run at startup. Under the toggle switch, you’ll see the status impact of each, which indicates what disabling them does to your system.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## II. Remove unnecessary files and programs
 
  Over time, your computer may become cluttered with unnecessary files and programs that can slow down your computer’s startup time. By removing these files and programs, you can speed up your Windows 11 boot time and improve your overall computer performance.
@@ -62,13 +69,6 @@ Here is how you can turn Fast Starup On:
 ![startup options](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/speed-up-windows-11-boot-time/enable-fast-startup-step-2.png)
 4. In the left pane, click on**Choose what the power buttons do** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Next, click the**Change settings that are currently unavailable** link.
 6. Under the**Shutdown settings** section, check the**Turn on fast startup (recommended)** option to turn on the feature.
 7. Uncheck the**Turn on fast startup option** to turn it off.  
@@ -76,16 +76,10 @@ Here is how you can turn Fast Starup On:
 8. Click**Save changes** to apply the changes.
 
 <!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## IV. Defragment your hard drive
@@ -101,6 +95,19 @@ Here is how you can turn Fast Starup On:
 4. Click on the Optimize button.
 
 5. Wait for the defragmentation process to complete.
+
+<!-- affiliate ads begin -->
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## V. Use an SSD
 
@@ -123,10 +130,10 @@ Here is how you can turn Fast Starup On:
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123474/16836" target="_top" id="2123474">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123474" border="0" alt="https://techidaily.com" width="300" height="50"/>
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123474/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## We can help you every time when…
@@ -151,5 +158,26 @@ Here is how you can turn Fast Starup On:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-the-complete-guide-to-mastering-polarrs-image-precision/"><u>[New] 2024 Approved The Complete Guide to Mastering Polarr's Image Precision</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-in-depth-analysis-top-15-youtube-channels-for-epic-product-reviews/"><u>[New] In-Depth Analysis Top 15 YouTube Channels for Epic Product Reviews</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-strategic-tips-to-enhance-your-gmeet-ppt-presentations-on-mobilelaptop/"><u>[New] Strategic Tips to Enhance Your GMeet PPT Presentations on Mobile/Laptop</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-swift-visualizer-windows-high-speed-image-viewer-for-2024/"><u>[New] Swift Visualizer - Windows High-Speed Image Viewer for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-building-trust-through-words-docu-script-insights/"><u>2024 Approved Building Trust Through Words Docu-Script Insights</u></a></li>
+<li><a href="https://win-forum.techidaily.com/bypassing-cpu-limitations-for-a-successful-windows-11-setup/"><u>Bypassing CPU Limitations for a Successful Windows 11 Setup</u></a></li>
+<li><a href="https://win-forum.techidaily.com/command-prompt-techniques-for-permanent-deletion-of-files-and-directories-on-windows-11-computers/"><u>Command Prompt Techniques for Permanent Deletion of Files and Directories on Windows 11 Computers</u></a></li>
+<li><a href="https://win-forum.techidaily.com/complete-guide-removing-applications-from-your-windows-11-pc/"><u>Complete Guide: Removing Applications From Your Windows 11 PC</u></a></li>
+<li><a href="https://win-forum.techidaily.com/comprehensive-instructions-how-to-wipe-out-recent-update-installations-from-windows-1011-using-the-power-of-revosofts-application/"><u>Comprehensive Instructions: How to Wipe Out Recent Update Installations From Windows 10/11 Using the Power of RevoSoft's Application</u></a></li>
+<li><a href="https://win-forum.techidaily.com/comprehensive-tutorial-erasing-memory-snapshots-from-your-pc/"><u>Comprehensive Tutorial: Erasing Memory Snapshots From Your PC</u></a></li>
+<li><a href="https://win-forum.techidaily.com/digital-landscapes-decoded-engaging-with-facebook-twitter-instagram-and-youtube-successfully/"><u>Digital Landscapes Decoded: Engaging with Facebook, Twitter, Instagram & YouTube Successfully</u></a></li>
+<li><a href="https://win-forum.techidaily.com/effective-techniques-for-arranging-your-android-applications-with-revo-uninstaller/"><u>Effective Techniques for Arranging Your Android Applications with Revo Uninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/effective-techniques-for-deleting-items-using-the-windows-11-command-line/"><u>Effective Techniques for Deleting Items Using the Windows 11 Command Line</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/engineering-engaging-podcast-sneak-peeks/"><u>Engineering Engaging Podcast Sneak Peeks</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-edge-with-newly-listed-ryzen-5-9600x-in-amazons-canada-store-for-cad472-is-it-worth-your-money/"><u>Get the Edge with Newly Listed Ryzen 5 9600X in Amazon's Canada Store for CAD$472 – Is It Worth Your Money?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-charting-your-path-podcast-income-expectations/"><u>In 2024, Charting Your Path Podcast Income Expectations</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-crafting-fast-fortnite-icons-in-minutes/"><u>In 2024, Crafting Fast Fortnite Icons in Minutes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-unlock-your-iphone-12-pro-learn-all-4-methods-by-drfone-ios/"><u>In 2024, How Do You Unlock your iPhone 12 Pro? Learn All 4 Methods</u></a></li>
+<li><a href="https://win-forum.techidaily.com/1722915231008-social-media-synergy-maximizing-impact-on-facebook-twitter-instagram-and-youtube-channels/"><u>Social Media Synergy: Maximizing Impact on Facebook, Twitter, Instagram and YouTube Channels</u></a></li>
+</ul></div>
 

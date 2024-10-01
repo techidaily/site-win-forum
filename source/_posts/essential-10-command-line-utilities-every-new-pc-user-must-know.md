@@ -1,7 +1,7 @@
 ---
 title: Essential 10 Command Line Utilities Every New PC User Must Know
-date: 2024-09-17T17:27:53.192Z
-updated: 2024-09-21T16:59:20.134Z
+date: 2024-09-26T16:39:15.220Z
+updated: 2024-10-01T16:06:50.033Z
 tags:
   - windows
 categories:
@@ -38,6 +38,13 @@ cd Documents
 
 ![Windows change directory command in the terminal.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/cd-2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or maybe you want to go up one level; you can type **cd ..** which will bring you back to the previous directory. This can be useful if you need to navigate through different directories quickly.
 
 ![Using the change directory command in Windows to go up one level.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/cd_up_one_level.png) 
@@ -49,6 +56,13 @@ cd C:\Windows\System32
 ![Using the change directory command in Windows to move to the System32 folder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/cd_to_system32.png) 
 
  It's all about making your file system a lot more accessible. For a deeper dive into changing directories on Windows, learn [how to change directories in command prompt on Windows 10](https://extra-information.techidaily.com/quick-and-easy-iphone-burst-techniques/).
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2  dir: List Directory Contents 
 
@@ -70,13 +84,6 @@ mkdir NewFolder
 
 ![Using the mkdir command in Windows to create a new directory.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/mkdir_newfolder.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  This command is a great way to keep your system organized.
 
  If you want to create a nested directory structure in one go, you can use the **mkdir a\\b\\c** command. This command will create directory "a," and within "a," it will create directory "b," and within "b," it will create directory "c." It's a convenient way to set up multiple levels of directories with a single command rather than having to create each directory individually.
@@ -91,22 +98,29 @@ rmdir NewFolder
 
 ![Using the rmdir command in WIndows to remove a folder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/rmdir_newfolder.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To remove a directory along with everything within it, use the **rmdir /s NewFolder** command.
 
 ![Using the rmdir command in Windows to remove a directory and its contents.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/rmdir_newfolder_andcontents.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Just be careful with that second one, and make sure you really want everything gone.
 
  When using the mkdir or rmdir commands, you won't see any confirmation message if the action is successful. To ensure the directory has been created or removed, you can use the dir command to list the contents of the current directory. If the action is successful, the new directory will appear or disappear from the list accordingly.
 
  If you need more information on a specific command, simply enter help followed by the command. For example, if you need more information on the rmdir command, type the **help rmdir** command.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5  del: Delete Files 
 
@@ -121,6 +135,13 @@ del file.txt
  It’s a powerful command, so handle it with care.
 
  The del command doesn't print anything in response to its use, which might surprise you. Once you run the command, the file will be deleted silently. You can verify that the file has been deleted by using the dir command to check the contents of the directory where the file was located.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6  copy: Copy Files to Another Location 
 
@@ -138,13 +159,6 @@ copy * .txt C:\Backup
 
  Press F7 to view and select from your command history. This allows you to easily re-run previous commands without retyping them.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7  move: Move Files to a New Location 
 
  Are you reorganizing your files? The move command lets you move files around on Windows without having to copy them to a new location. To move a file, use the move command followed by the filename and, finally, the location where you want it moved.
@@ -156,10 +170,10 @@ move file.txt C:\Backup
 ![Using the move command in Windows to move a file to a new location.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/move_tobackup.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8  type: Display the Contents of a Text File 
@@ -170,20 +184,27 @@ type file.txt
 
 ![Using the type command in Windows to display the contents of a text file.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/type_file.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The cls command clears all text from the terminal screen, giving you a clean slate to work from.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 9  systeminfo: View System Information 
 
  The systeminfo command provides an [overview of your Windows system](https://phone-solutions.techidaily.com/complete-guide-for-recovering-music-files-on-redmi-k70-pro-by-fonelab-android-recover-music/), perfect for troubleshooting or satisfying your curiosity. It displays information such as the operating system version, processor type, and installed RAM. It also includes details about the computer's network configuration.
 
 ![Using the systeminfo command in Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/systeminfo.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 10  tree: Display Directory Structure 
 
@@ -210,5 +231,20 @@ tree C:\Users
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-unleashing-potential-profile-video-elevation/"><u>[New] 2024 Approved Unleashing Potential Profile Video Elevation</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-make-your-screenshots-stand-out-the-ultimate-ios-and-android-app-list/"><u>[New] Make Your Screenshots Stand Out The Ultimate iOS & Android App List</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-revolutionize-your-speaking-style-in-snapchat-with-two-easy-methods/"><u>[Updated] 2024 Approved Revolutionize Your Speaking Style in Snapchat with Two Easy Methods</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/cultivate-creativity-20plus-inspiring-youtube-concepts-for-2024/"><u>Cultivate Creativity 20+ Inspiring YouTube Concepts for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/defying-hardware-limits-how-to-successfully-run-windows-11-on-disqualified-processors/"><u>Defying Hardware Limits: How to Successfully Run Windows 11 on Disqualified Processors</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-delete-diagnostic-data-memory-dumps-on-your-windows-11-pc/"><u>How To Delete Diagnostic Data (Memory Dumps) on Your Windows 11 PC</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-honor-x50-gt-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Honor X50 GT Device</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On OnePlus Nord N30 SE? | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-engagement-across-major-platforms-strategies-for-facebook-twitter-instagram-and-youtube/"><u>Mastering Engagement Across Major Platforms: Strategies for Facebook, Twitter, Instagram and YouTube</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/smart-spending-on-action-cams-find-your-bargains-under-100-for-2024/"><u>Smart Spending on ACTION Cams Find Your Bargains Under $100 for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/social-media-giants-navigating-through-facebook-twitter-instagram-and-youtube/"><u>Social Media Giants: Navigating Through Facebook, Twitter, Instagram & Youtube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-quadruple-threat-of-social-media-facebook-twitter-instagram-and-youtube/"><u>The Quadruple Threat of Social Media: Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/understanding-the-titans-of-sharing-facebook-twitter-instagram-and-youtube-dynamics/"><u>Understanding the Titans of Sharing: Facebook, Twitter, Instagram & YouTube Dynamics</u></a></li>
+</ul></div>
 

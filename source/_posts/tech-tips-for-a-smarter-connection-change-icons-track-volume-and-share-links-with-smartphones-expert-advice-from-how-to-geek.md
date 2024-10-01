@@ -1,7 +1,7 @@
 ---
 title: "Tech Tips for a Smarter Connection: Change Icons, Track Volume, and Share Links with Smartphones – Expert Advice From How-To Geek"
-date: 2024-09-20T16:56:51.590Z
-updated: 2024-09-21T16:49:01.311Z
+date: 2024-09-29T17:15:15.819Z
+updated: 2024-10-01T17:48:09.476Z
 tags:
   - excel
 categories:
@@ -19,6 +19,13 @@ thumbnail: https://thmb.techidaily.com/eb645c13ee9dd9fbe7f99fc761b9dd81222823674
 
  Every week we dip into our reader mailbag and answer your computer and tech-related questions. This week we're looking at swapping file icons, missing volume icons, and sending links to your smartphone.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Distinguish Between Similar Documents with Unique Icons
 
 ![2011-08-01_153954](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2011/08/2011-08-01_153954.jpg) 
@@ -35,7 +42,21 @@ thumbnail: https://thmb.techidaily.com/eb645c13ee9dd9fbe7f99fc761b9dd81222823674
 
  We've done the same thing for some highly used but similarly named documents.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Replacing a Missing System Tray Icon![2011-08-01_160154](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2011/08/2011-08-01_160154.jpg "2011-08-01_160154") 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 > Dear How-To Geek,
 > 
@@ -49,22 +70,15 @@ thumbnail: https://thmb.techidaily.com/eb645c13ee9dd9fbe7f99fc761b9dd81222823674
 
  Sometimes the system icons vanish in response to other variables on the computer. It's easy enough to get them back. Right click on your taskbar and click Properties. Then click the Taskbar tab in the menu that pops up. Halfway down the Taskbar options menu there is a Customize button in the Notification section. Click on that to toggle Notification Area icons on and off, including your missing volume icon.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Sharing Links with Your Smartphone
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/gg/up/sshot4d0efba212379.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 > Dear How-To Geek,
@@ -96,5 +110,18 @@ thumbnail: https://thmb.techidaily.com/eb645c13ee9dd9fbe7f99fc761b9dd81222823674
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-download-facebook-stories-seamlessly-a-comprehensive-guide/"><u>[New] Download Facebook Stories Seamlessly A Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-the-disrupters-guide-to-android-and-ios-music-shakers/"><u>2024 Approved The Disrupter's Guide to Android & iOS Music Shakers</u></a></li>
+<li><a href="https://extra-information.techidaily.com/beginners-guide-to-gopro-extras-for-2024/"><u>Beginner's Guide to GoPro Extras for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-the-big-4-in-social-media-an-insight-into-facebook-twitter-instagram-and-youtube/"><u>Exploring the Big 4 in Social Media - An Insight Into Facebook, Twitter, Instagram and Youtube</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-bypass-the-required-apple-store-verification-for-iphone-12-pro-max-drfone-by-drfone-ios/"><u>How To Bypass the Required Apple Store Verification For iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-motorola-razr-40-ultra-by-fonelab-android-recover-call-logs/"><u>How To Restore Missing Call Logs from Motorola Razr 40 Ultra</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-oneplus-ace-2-pro-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from OnePlus Ace 2 Pro to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-big-four-of-social-media-strategies-for-successful-presence-on-facebook-twitter-instagram-and-youtube/"><u>Navigating the Big Four of Social Media - Strategies for Successful Presence on Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-digital-landscape-a-dive-into-facebook-twitter-instagram-and-youtube/"><u>Navigating the Digital Landscape: A Dive Into Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/quick-guide-mastering-forced-closure-of-windows-programs-with-revo-uninstaller/"><u>Quick Guide: Mastering Forced Closure of Windows Programs with Revo Uninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/understanding-the-giants-of-social-media-a-look-at-facebook-twitter-instagram-and-youtube/"><u>Understanding the Giants of Social Media: A Look at Facebook, Twitter, Instagram and YouTube</u></a></li>
+</ul></div>
 

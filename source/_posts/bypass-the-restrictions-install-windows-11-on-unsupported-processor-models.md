@@ -1,7 +1,7 @@
 ---
 title: "Bypass the Restrictions: Install Windows 11 on Unsupported Processor Models"
-date: 2024-09-19T16:26:14.063Z
-updated: 2024-09-21T16:39:21.997Z
+date: 2024-09-25T16:51:33.633Z
+updated: 2024-10-01T17:36:35.437Z
 tags:
   - win11
   - win10
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/e086106512b2e9d753e081998408f58f33739fa1f
 1. Click on the**‘Start’** button located at the bottom left corner of the screen or press the**‘Windows’** key on your keyboard to open the Start menu. ![Start menu lock](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/lock-pc/method-1-start-menu.png)
 2. In the Start menu, click on your user profile icon or name located at the top.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. This will open a menu with various options. Click on**‘Lock’** from the list of options.
 4. Alternatively, you can also press the**‘Windows’** key +**‘L’** on your keyboard as a shortcut to lock your PC instantly.
 
@@ -49,10 +56,16 @@ thumbnail: https://thmb.techidaily.com/e086106512b2e9d753e081998408f58f33739fa1f
 8. Click**“OK”** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## III. How to Lock a Windows 11 computer via the Ctrl + Alt + Delete Menu
@@ -84,10 +97,17 @@ thumbnail: https://thmb.techidaily.com/e086106512b2e9d753e081998408f58f33739fa1f
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## We can help you every time when…
@@ -112,5 +132,21 @@ thumbnail: https://thmb.techidaily.com/e086106512b2e9d753e081998408f58f33739fa1f
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-facetime-simplified-a-compreited-guide-for-android-users-for-2024/"><u>[New] FaceTime Simplified A Compreited Guide for Android Users for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-professionals-choice-ranking-the-top-9-microphone-apps/"><u>[New] In 2024, Professional's Choice Ranking the Top 9 Microphone Apps</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-all-time-highest-chart-youtubes-premier-video-list-for-2024/"><u>[Updated] All-Time Highest Chart YouTube's Premier Video List for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/breeze-through-tasks-custom-windows-shortcuts-for-uwp/"><u>Breeze Through Tasks: Custom Windows Shortcuts for UWP</u></a></li>
+<li><a href="https://win-forum.techidaily.com/building-your-online-presence-across-platforms-effective-techniques-for-facebook-twitter-instagram-and-youtube/"><u>Building Your Online Presence Across Platforms: Effective Techniques for Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/expert-advice-for-disabling-new-features-in-your-windows-11-update/"><u>Expert Advice for Disabling New Features in Your Windows 11 Update</u></a></li>
+<li><a href="https://win-forum.techidaily.com/expert-advice-how-to-easily-eliminate-windows-11-user-profiles-via-revouninstaller/"><u>Expert Advice: How to Easily Eliminate Windows 11 User Profiles via RevoUninstaller</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/how-to-give-a-makeover-to-existing-images-and-videos-with-ig-filters/"><u>How to Give a Makeover to Existing Images and Videos with IG Filters</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-apple-iphone-xr-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your Apple iPhone XR</u></a></li>
+<li><a href="https://win-forum.techidaily.com/1722915316632-navigating-the-giants-of-online-networking-facebook-twitter-instagram-and-youtube/"><u>Navigating the Giants of Online Networking - Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/social-success-strategies-across-key-platforms-insights-for-facebook-twitter-instagram-and-youtube-users/"><u>Social Success Strategies Across Key Platforms: Insights for Facebook, Twitter, Instagram and Youtube Users</u></a></li>
+<li><a href="https://win-forum.techidaily.com/1722915367154-top-four-social-media-giants-facebook-twitter-instagram-and-youtube/"><u>Top Four Social Media Giants: Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/transnational-words-threading-into-eng-dictionary/"><u>Transnational Words Threading Into ENG Dictionary</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/unlock-insights-with-nytimes-may-24-connections-challenge-issue-348-answer-key/"><u>Unlock Insights with NYTimes' May 24 Connections Challenge (Issue #348) Answer Key!</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Calculate Age in Microsoft Excel.
-date: 2024-09-15T17:34:29.807Z
-updated: 2024-09-21T16:38:37.283Z
+date: 2024-09-26T16:14:39.497Z
+updated: 2024-10-01T17:44:37.215Z
 tags:
   - excel
 categories:
@@ -35,6 +35,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
 ![Click the C2 cell in the spreadsheet in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/2-c2-cell-spreadsheet.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In the C2 cell, we'll type the following function and press Enter. In this function, "B2" refers to the date of birth, "TODAY()" finds today's date, and "Y" indicates that you wish to see the age in years.
 
 =DATEDIF(B2,TODAY(),"Y")
@@ -59,6 +66,13 @@ Related: [How to Get Microsoft Excel to Calculate Uncertainty](https://extra-res
 
 ![A sample spreadsheet to find age in months in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/5-age-months-spreadsheet.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In this spreadsheet, we'll click the C2 cell where we want to display the age in months.
 
 ![Click the C2 cell in the spreadsheet in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/6-c2-cell.png) 
@@ -69,22 +83,16 @@ Related: [How to Get Microsoft Excel to Calculate Uncertainty](https://extra-res
 
 ![Enter =DATEDIF(B2,TODAY(),"M") in the C2 cell and press Enter in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/7-enter-month-formula.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Press Enter and you'll see the age in months in the C2 cell.
 
 ![Age in months in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/8-age-months-answer.png) 
-
-<!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How to Calculate Age in Days
 
@@ -97,6 +105,13 @@ Related: [How to Get Microsoft Excel to Calculate Uncertainty](https://extra-res
  In this spreadsheet, we'll click the C2 cell where we want to display the age in days.
 
 ![Click the C2 cell in the spreadsheet in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/10-c2-cell.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  In the C2 cell, we'll type the following function. In this function, the "D" argument tells the function to display the age in days.
 
@@ -125,15 +140,22 @@ Related: [How to Get Microsoft Excel to Calculate Uncertainty](https://extra-res
 ![Enter =DATEDIF(B2,TODAY(),"Y") & " Years " & DATEDIF(B2,TODAY(),"YM") & " Months " & DATEDIF(B2,TODAY(),"MD") & " Days" in the C2 cell in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/14-enter-age-formula.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In the C2 cell, you'll see the age in years, months, and days.
 
 ![Age in years, months, and days in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/15-age-combination-answer.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How to Calculate Age on a Specific Date
 
@@ -143,16 +165,16 @@ Related: [How to Get Microsoft Excel to Calculate Uncertainty](https://extra-res
 
 ![A specific date in the C2 cell in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/16-specific-date.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  We'll click the D2 cell where we want to show the age on the specified date.
 
 ![Click the D2 cell in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/17-d2-cell.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  In the D2 cell, we'll type the following function. In this function, "C2" refers to the cell where we've entered the specific date, on which the answer will be based:
 
@@ -160,22 +182,15 @@ Related: [How to Get Microsoft Excel to Calculate Uncertainty](https://extra-res
 
 ![Enter =DATEDIF(B2,C2,"Y") in the D2 cell in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/18-enter-specific-formula.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Press Enter and you'll see the age in years in the D2 cell.
 
 ![Age on a specific date in the D2 cell in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/19-specific-formula-answer.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  And that's how you find someone or something's oldness in Microsoft Excel!
@@ -203,5 +218,18 @@ Related: [How to Get Microsoft Excel to Calculate Uncertainty](https://extra-res
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-leading-gamescript-replacements-for-fbx-files-for-2024/"><u>[New] Leading Gamescript Replacements for FBX Files for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/park-sponsorships-a-guide-to-easy-fundraising-for-budget-channels/"><u>[New] Spark Sponsorships A Guide to Easy Fundraising for Budget Channels</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-chromebooks-and-hp-perfect-your-video-capture/"><u>2024 Approved Chromebooks and HP Perfect Your Video Capture</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/best-intro-creator-software-for-windows-and-mac/"><u>Best Intro Creator Software for Windows and Mac</u></a></li>
+<li><a href="https://win-forum.techidaily.com/diy-desktop-cleanup-getting-rid-of-excess-programs-in-windows-11-efficiently/"><u>DIY Desktop Cleanup: Getting Rid of Excess Programs in Windows 11 Efficiently</u></a></li>
+<li><a href="https://win-forum.techidaily.com/effective-strategies-to-resolve-errors-preventing-apps-from-running-on-your-desktop/"><u>Effective Strategies to Resolve Errors Preventing Apps From Running on Your Desktop</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-stuck-loading-screens-for-mgs5-cold-war-players-struggle-with-pc-and-console-crashes/"><u>Fixing Stuck Loading Screens for MGS5: Cold War Players Struggle with PC & Console Crashes</u></a></li>
+<li><a href="https://win-forum.techidaily.com/guide-how-to-delete-non-standard-software-via-windows-task-manager/"><u>Guide: How to Delete Non-Standard Software via Windows Task Manager</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/master-obs-on-macos-download-setup-and-get-to-work-for-2024/"><u>Master OBS on macOS Download, Setup & Get to Work for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/master-the-quick-fix-for-stuck-windows-software-a-step-by-step-guide-with-revouninstaller/"><u>Master the Quick Fix for Stuck Windows Software - A Step-by-Step Guide with RevoUninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/revolutionize-your-pc-maintenamo-by-creating-deleting-and-tweaking-registry-settings-using-revo-uninstaller/"><u>Revolutionize Your PC Maintenamo by Creating, Deleting, and Tweaking Registry Settings Using Revo Uninstaller</u></a></li>
+</ul></div>
 

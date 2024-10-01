@@ -1,7 +1,7 @@
 ---
 title: "Beginner's Guide: Easy Steps to Prepare Your New Windows Laptop"
-date: 2024-09-19T17:19:14.764Z
-updated: 2024-09-21T17:06:33.894Z
+date: 2024-09-28T16:31:40.254Z
+updated: 2024-10-01T16:40:53.154Z
 tags:
   - windows
 categories:
@@ -24,11 +24,31 @@ thumbnail: https://thmb.techidaily.com/4916a6d483134297a5c5a01cc889f69aabd6291d8
 
  A Windows PC that seems easy to use for you might be quite challenging for someone who is a beginner or isn’t tech-savvy. If you're setting up a new device for a first-time user or passing along your laptop to them, it's essential to make it user-friendly. Here are a few things you can do for them.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1  Make the Login Process Easier 
 
  When setting up a Windows device for a non-tech-savvy user, the first step is to simplify the login process. Choose a password that is easy for them to remember, or set up a login PIN, which is often easier to recall and enter. If the device supports it, you can also [enable Windows Hello for facial recognition or fingerprint login](https://extra-tips.techidaily.com/updated-capturing-brilliance-essential-angles-in-iphone-photography/) to streamline the process further.
 
  If they are the sole user and won't use the device in a shared environment, you can [bypass the password screen](https://network-issues.techidaily.com/gladiator-glitch-gadget-grind/) entirely, allowing them to go directly to the desktop upon startup, though that does introduce security risks.
+
+<!-- affiliate ads begin -->
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2  Remove Unnecessary Programs From the Startup List 
 
@@ -38,14 +58,14 @@ thumbnail: https://thmb.techidaily.com/4916a6d483134297a5c5a01cc889f69aabd6291d8
 
 ![Disabling startup apps from Task Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/1-disabling-a-startup-apps-from-task-manager.jpg) 
 
- Some applications automatically add themselves to the startup list when installed. So, periodically review their startup list and remove any unnecessary programs.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Some applications automatically add themselves to the startup list when installed. So, periodically review their startup list and remove any unnecessary programs.
 
 ## 3  Pin Frequently Used Apps to the Taskbar 
 
@@ -54,6 +74,13 @@ thumbnail: https://thmb.techidaily.com/4916a6d483134297a5c5a01cc889f69aabd6291d8
  To pin an app to the taskbar, right-click on the app and select "Pin to Taskbar" from the context menu.
 
 ![Pinning an app to the taskbar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/2-pinning-an-app-to-the-taskbar.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Likewise, remove any apps already pinned to the taskbar that they won’t use. To do that, right-click on the item and select "Unpin from Taskbar."
 
@@ -68,10 +95,10 @@ thumbnail: https://thmb.techidaily.com/4916a6d483134297a5c5a01cc889f69aabd6291d8
  One option is OneDrive, though it only backs up specific folders. For more thorough backups, [consider a premium backup service like Backblaze](https://audio-shaping.techidaily.com/in-2024-probing-sound-clarity-an-updated-analysis-of-cambridges-cxu-series/) that can back up their entire computer.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5  Foolproof the System's Security 
@@ -91,13 +118,6 @@ Lucas Gouveia / How-To Geek | Shutterstock.AI
 
  Afterward, you should install helpful apps to enhance their computer experience. For example, you could add Everything to make file searching easier, Auto Dark Mode to automatically switch between dark and light modes at different times of the day, ShareX for capturing screenshots and recording videos, and other [helpful apps and tools](https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-honor-90-drfone-by-drfone-virtual-android/).
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
-  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7  Customize Screen Element Sizes to Their Preferences 
 
  Check with the person to see if they’re comfortable with the default size of text, icons, mouse cursor, and other display elements. If not, adjust the display settings according to their preferences. To do this, right-click the Start button and select "Settings." Then, go to System > Display and modify the Scale and Display Resolution.
@@ -107,13 +127,6 @@ Lucas Gouveia / How-To Geek | Shutterstock.AI
  Next, navigate to the "Accessibility" tab on the left sidebar. Go to the "Text Size" section and drag the slider to increase the text size. Then, go back and select "Mouse Pointer and Touch" to adjust the pointer size and style. You can also change the size of desktop shortcut icons, pinned taskbar items, and more.
 
 ![Changing the text size in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/4-changing-the-text-size-in-the-windows-settings-app.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If the person you're setting up the Windows PC for has visual impairments, enable the Magnifier feature to enlarge parts of the screen for easier reading. You can also activate the Narrator to read text aloud. For those with hearing impairments, turn on Captions to provide closed captions for audio. You can turn these features on in the Accessibility settings.
 
@@ -142,5 +155,23 @@ Lucas Gouveia / How-To Geek | Shutterstock.AI
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-elite-list-of-best-videocall-services-without-cost-for-2024/"><u>[New] Elite List of Best Videocall Services Without Cost for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-the-futures-canvas-unveiling-6-pioneers-of-nft-artistry/"><u>[Updated] 2024 Approved The Future's Canvas Unveiling 6 Pioneers of NFT Artistry</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-decrypting-youtubes-view-count-calculation-system-for-2024/"><u>[Updated] Decrypting YouTube’s View-Count Calculation System for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-mastering-the-use-of-custom-gifs-in-your-instagram-stories/"><u>[Updated] Mastering the Use of Custom GIFs in Your Instagram Stories</u></a></li>
+<li><a href="https://win-forum.techidaily.com/complete-guide-deleting-protected-folders-in-windows-10-and-11/"><u>Complete Guide: Deleting Protected Folders in Windows 10 and 11</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-maximizing-engagement-in-your-tiktok-unpacking-sessions/"><u>In 2024, Maximizing Engagement in Your TikTok Unpacking Sessions</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-htc-u23-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass HTC U23 FRP</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-infinix-note-30-vip-racing-edition-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Infinix Note 30 VIP Racing Edition Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://win-forum.techidaily.com/meet-the-enhanced-revo-uninstaller-pro-5-the-ultimate-software-removal-tool/"><u>Meet the Enhanced Revo Uninstaller Pro 5: The Ultimate Software Removal Tool</u></a></li>
+<li><a href="https://win-forum.techidaily.com/seamless-driver-upgrades-on-windows-10-a-comprehensive-how-to-guide/"><u>Seamless Driver Upgrades on Windows 10 - A Comprehensive How-To Guide</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/snapstrategy-101-crafting-effective-ads-for-biz/"><u>SnapStrategy 101 Crafting Effective Ads for Biz</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-social-networking-titans-an-in-depth-guide-to-facebook-twitter-instagram-and-youtube/"><u>Top Social Networking Titans: An In-Depth Guide to Facebook, Twitter, Instagram & Youtube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/understanding-bios-an-in-depth-guide/"><u>Understanding BIOS: An In-Depth Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-myths-why-cracking-todays-advanced-conversational-ais-like-gpt-3-remains-a-challenge/"><u>Unlocking Myths: Why Cracking Today's Advanced Conversational AIs Like GPT-3 Remains a Challenge</u></a></li>
+<li><a href="https://win-forum.techidaily.com/what-is-windows-11-system-restore/"><u>What Is Windows 11 System Restore</u></a></li>
+<li><a href="https://win-forum.techidaily.com/winning-against-high-cpu-usage-by-svchostexe-in-windows-11-step-by-step-solution/"><u>Winning Against High CPU Usage by svchost.exe in Windows 11 - Step-by-Step Solution</u></a></li>
+</ul></div>
 

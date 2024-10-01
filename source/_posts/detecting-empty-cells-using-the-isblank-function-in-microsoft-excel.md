@@ -1,7 +1,7 @@
 ---
 title: Detecting Empty Cells Using the ISBLANK Function in Microsoft Excel
-date: 2024-09-17T16:02:48.686Z
-updated: 2024-09-21T16:25:55.157Z
+date: 2024-09-27T16:05:53.753Z
+updated: 2024-10-01T16:10:49.688Z
 tags:
   - excel
 categories:
@@ -65,13 +65,6 @@ Related: [How to Use the IS Functions in Microsoft Excel](https://win-amazing.te
 
 ![Select a cell.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/1-select-cell-excel.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In the selected cell, type the following function and press Enter. In this function, replace `C2` with the cell that you want to check.
 
 =ISBLANK(C2)
@@ -79,25 +72,33 @@ Related: [How to Use the IS Functions in Microsoft Excel](https://win-amazing.te
 ![Enter the ISBLANK function.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/2-use-isblank-function-excel.png) 
 
 <!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To [use the function for all your records](https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-honor-magic-6-drfone-by-drfone-virtual-android/) in the spreadsheet, from the bottom-right corner of the cell where you entered the function, drag downwards covering all your rows.
 
 ![The result of the ISBLANK function.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/3-excel-isblank-function-result.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now you know what cell is and isn't blank in your spreadsheet.
 
 Related: [How to Fill Excel Cells Automatically with Flash Fill and Auto Fill](https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-honor-magic-6-drfone-by-drfone-virtual-android/) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Perform an Action When a Cell Is Blank or Non-Blank
 
@@ -109,6 +110,13 @@ Related: [How to Fill Excel Cells Automatically with Flash Fill and Auto Fill](h
 
 ![Choose a cell.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/4-choose-cell-excel.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In your selected cell, type the following function and press Enter. Here, replace `C2` with the cell that you want to check (if it's blank or not), `Sale Not Made` with the text you want to use if the cell is blank, and `Sale Made` with the text if the cell is not blank.
 
 =IF(ISBLANK(C2),"Sale Not Made","Sale Made")
@@ -116,19 +124,6 @@ Related: [How to Fill Excel Cells Automatically with Flash Fill and Auto Fill](h
  To use the function for all your records in the spreadsheet, from the bottom-right corner of the cell where you've entered the function, drag downwards covering all your records.
 
 ![The result of the IF and ISBLANK functions.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/5-excel-isblank-if-function-result.png) 
-
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  And you now have your chosen text displayed for your blank and non-blank cells.
 
@@ -147,5 +142,22 @@ Related: [How to Skip Pasting Blank Cells When Copying in Microsoft Excel](https
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-enhance-viewing-experience-maximizing-utilization-of-picture-in-picture-on-netflix/"><u>[New] Enhance Viewing Experience Maximizing Utilization of Picture-in-Picture on Netflix</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-crafting-conversational-magic-how-to-write-podcast-scripts/"><u>2024 Approved Crafting Conversational Magic How to Write Podcast Scripts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-bottom-to-top-seo-guide-for-podcasters/"><u>2024 Approved From Bottom to Top Seo Guide for Podcasters</u></a></li>
+<li><a href="https://win-forum.techidaily.com/avoiding-trouble-undoing-the-latest-windows-11-software-changes/"><u>Avoiding Trouble: Undoing the Latest Windows 11 Software Changes</u></a></li>
+<li><a href="https://extra-information.techidaily.com/comprehensive-list-top-18-cam-recorders-compiled-for-2024/"><u>Comprehensive List Top 18 Cam Recorders Compiled for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/connect-online-with-leading-sites-facebook-twitter-instagram-and-youtube-journey/"><u>Connect Online with Leading Sites: Facebook, Twitter, Instagram and YouTube Journey</u></a></li>
+<li><a href="https://win-forum.techidaily.com/easy-methods-to-lockdown-your-text-files-using-passwords/"><u>Easy Methods to Lockdown Your Text Files Using Passwords</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-is-generative-artificnal-intelligence-paving-the-way-for-information-manipulation/"><u>How Is Generative Artificnal Intelligence Paving the Way for Information Manipulation?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Motorola Razr 40 Ultra | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-realme-narzo-n55-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Realme Narzo N55 | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-navigating-screen-magnification-in-ms-teams/"><u>In 2024, Navigating Screen Magnification in MS Teams</u></a></li>
+<li><a href="https://win-forum.techidaily.com/reset-your-windows-11-device-a-comprehensive-walkthrough/"><u>Reset Your Windows 11 Device - A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://win-forum.techidaily.com/1722915368124-social-networking-giants-exploring-facebook-twitter-instagram-and-youtube/"><u>Social Networking Giants: Exploring Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-power-of-social-media-engage-on-facebook-tweet-on-twitter-post-on-instagram-stream-on-youtube/"><u>The Power of Social Media: Engage on Facebook, Tweet on Twitter, Post on Instagram, Stream on Youtube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/unlock-full-control-ensuring-your-applications-run-with-admin-access-every-time-on-windows-nul-11/"><u>Unlock Full Control: Ensuring Your Applications Run with Admin Access Every Time on Windows Nul 11</u></a></li>
+</ul></div>
 

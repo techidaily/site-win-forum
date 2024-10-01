@@ -1,7 +1,7 @@
 ---
 title: "Mastering Averages: Easy Methods to Find Median in Excel Spreadsheets"
-date: 2024-09-14T16:23:36.125Z
-updated: 2024-09-21T17:10:13.359Z
+date: 2024-09-26T17:22:25.939Z
+updated: 2024-10-01T17:41:20.680Z
 tags:
   - excel
 categories:
@@ -32,6 +32,13 @@ thumbnail: https://thmb.techidaily.com/8009d92085bbb2b59b0e3b6dadde39baefbadc66e
 
  Let's explore these in more detail.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Use AVERAGE in Excel
 
  To calculate the average in Excel, use the following syntax:
@@ -43,6 +50,13 @@ thumbnail: https://thmb.techidaily.com/8009d92085bbb2b59b0e3b6dadde39baefbadc66e
  In this example, we have a set of seven students and want to calculate their average exam score.
 
 ![Excel sheet showing a table with two columns: column A contains student names and column B contains their exam scores. Next to this table is an 'average' cell, where their average scores will be calculated using the AVERAGE function.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/average-uncalculated.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  As you can see, Student C scored 0 and Student F has yet to take the exam. As a result, we want Excel to work out the scores of those who have taken the exam (all students except for Student F).
 
@@ -58,13 +72,6 @@ thumbnail: https://thmb.techidaily.com/8009d92085bbb2b59b0e3b6dadde39baefbadc66e
 
  To save time, you can instead calculate the average through a few simple clicks. First, select your data to average, click the "Home" tab on the ribbon, and in the "Editing" group, click on the drop-down arrow next to the sigma (Σ) symbol. From there, click "Average". The result will appear at the end of your data.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  How to Use AVERAGEA in Excel
 
  AVERAGEA works in a very similar way to AVERAGE, but includes more than just numbers within the calculation. Here's the syntax for this function:
@@ -78,6 +85,13 @@ thumbnail: https://thmb.techidaily.com/8009d92085bbb2b59b0e3b6dadde39baefbadc66e
  Taking the same set of data that we used in the example above, we now want to work out the average using AVERAGEA.
 
 ![Excel sheet showing a table with two columns: column A contains student names and column B contains their exam scores. Next to this table is the average of the scores, calculated using AVERAGE, and a space where their average scores will be calculated using the AVERAGEA function.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/averagea-uncalculated.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  In cell D5, we would type the following formula:
 
@@ -104,16 +118,10 @@ thumbnail: https://thmb.techidaily.com/8009d92085bbb2b59b0e3b6dadde39baefbadc66e
 ![Excel sheet showing a table with three columns: column A contains student names, column B contains their exam scores, and column C contains their ages. Next to this table are cells where the AVERAGEIF functions will be tested.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/averageif-uncalculated.png) 
 
 <!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To work out the average score of all students who scored more than 10, we would use the following formula:
@@ -136,16 +144,16 @@ thumbnail: https://thmb.techidaily.com/8009d92085bbb2b59b0e3b6dadde39baefbadc66e
 
 ![Excel sheet showing a table with three columns: column A contains student names, column B contains their exam scores, and column C contains their ages. Next to this table, both AVERAGEIF calculations have been performed.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/averageif-calculated-2-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  This has correctly picked up the scores of Students A, B, D, and E, as they are all over 12 years of age. The calculation also ignores logical values, which is why it hasn't considered Student F, even though they are over 12 years old.
 
  The criteria used in AVERAGEIF can use one of Excel's six logical operators—these are > (greater than), < (less than), = (equal to), <= (less than or equal to), >= (greater than or equal to), or <> (not equal to)—and wildcards (\* and ?). If you want to include an actual question mark or asterisk, add a tilde (\~) before the character.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How to Use AVERAGEIFS in Excel
 
@@ -158,13 +166,6 @@ thumbnail: https://thmb.techidaily.com/8009d92085bbb2b59b0e3b6dadde39baefbadc66e
  Take this example, where we want to work out the exam scores of students in Green House over the age of 10.
 
 ![Excel sheet showing a table with four columns: column A contains student names, column B contains their exam scores, column C contains their house, and column D contains their age. Next to this table is a cell where AVERAGEIFS will be performed.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/averageifs-uncalculated.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To do this, we would use the following formula:
 
@@ -198,5 +199,24 @@ thumbnail: https://thmb.techidaily.com/8009d92085bbb2b59b0e3b6dadde39baefbadc66e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-maximizing-revenue-through-youtube-brand-partnerships/"><u>[New] In 2024, Maximizing Revenue Through Youtube Brand Partnerships</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-dollars-and-sense-profit-driven-techniques-for-fb-video-content/"><u>[Updated] Dollars and Sense Profit-Driven Techniques for FB Video Content</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-camera-clash-hero5-black-versus-session/"><u>[Updated] Ultimate Camera Clash Hero5 Black Versus Session</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-affordable-video-capture-maximum-potential-via-obs/"><u>2024 Approved Affordable Video Capture - Maximum Potential via OBS</u></a></li>
+<li><a href="https://win-forum.techidaily.com/connecting-worlds-through-social-media-the-power-of-facebook-twitter-instagram-and-youtube/"><u>Connecting Worlds Through Social Media: The Power of Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/effective-strategies-for-addressing-access-denied-messages-on-windows-devices/"><u>Effective Strategies for Addressing 'Access Denied' Messages on Windows Devices</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ensuring-optimal-performance-amd-driver-upgrade-instructions-for-windows-os/"><u>Ensuring Optimal Performance: AMD Driver Upgrade Instructions for Windows OS</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-black-ops-understanding-the-black-screen-and-error-code-0xc0000005/"><u>Fixing Black Ops: Understanding the 'Black Screen' And 'Error Code 0xC0000005'</u></a></li>
+<li><a href="https://fox-that.techidaily.com/get-your-iphone-sms-back-on-track-top-10-repair-strategies-for-failed-messages/"><u>Get Your iPhone SMS Back on Track! Top 10 Repair Strategies for Failed Messages</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-get-rid-of-offscreen-applications-on-your-pc-no-control-panel-needed/"><u>How to Get Rid of Offscreen Applications on Your PC - No Control Panel Needed</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-setup-revouninstaller-a-complete-guide-to-managing-your-apps/"><u>How to Setup RevoUninstaller: A Complete Guide to Managing Your Apps</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-worlds-most-popular-networks-facebook-to-youtube/"><u>Navigating the World's Most Popular Networks: Facebook to YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/quick-guide-reducing-windows-11-startup-times-using-easy-methods/"><u>Quick Guide: Reducing Windows 11 Startup Times Using Easy Methods</u></a></li>
+<li><a href="https://techtrends.techidaily.com/seamless-pairing-a-step-by-step-guide-to-link-your-airpods-with-your-hp-computer/"><u>Seamless Pairing: A Step-by-Step Guide to Link Your AirPods with Your HP Computer</u></a></li>
+<li><a href="https://android-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-oneplus-nord-ce-3-5g-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass OnePlus Nord CE 3 5G FRP</u></a></li>
+<li><a href="https://win-forum.techidaily.com/ultimate-technique-for-abruptly-ending-hanging-windows-programs-the-role-of-revouninstaller/"><u>Ultimate Technique for Abruptly Ending Hanging Windows Programs - The Role of RevoUninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/understanding-the-giants-of-online-engagement-facebook-twitter-instagram-and-youtube/"><u>Understanding the Giants of Online Engagement: Facebook, Twitter, Instagram and Youtube</u></a></li>
+</ul></div>
 

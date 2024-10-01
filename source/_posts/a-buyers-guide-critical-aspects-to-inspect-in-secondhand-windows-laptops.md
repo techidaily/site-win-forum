@@ -1,7 +1,7 @@
 ---
 title: "A Buyer's Guide: Critical Aspects to Inspect in Secondhand Windows Laptops"
-date: 2024-09-15T16:52:22.232Z
-updated: 2024-09-21T17:19:33.260Z
+date: 2024-09-29T17:13:35.434Z
+updated: 2024-10-01T16:20:16.039Z
 tags:
   - windows
 categories:
@@ -34,6 +34,13 @@ thumbnail: https://thmb.techidaily.com/d5e8491d3f34992956d5390f8a8c8192037db1bb4
 
  This will help you confirm whether the trackpad on your new laptop is equally or more responsive than the other one.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Test the Speakers and Built-In Microphone
 
  Next, you should test the built-in microphone and speaker. While you can simply play and record something to check if the audio input and output devices are working fine, Windows also offers a way to test them in Settings. On Windows 11, right-click on the Start button and select "Settings." Then, navigate to System > Sound.
@@ -42,15 +49,22 @@ thumbnail: https://thmb.techidaily.com/d5e8491d3f34992956d5390f8a8c8192037db1bb4
 
 ![Testing the laptop speaker in Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/1-testing-the-laptop-speaker-in-settings.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To [test the built-in microphone](https://change-location.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-vivo-y200e-5g-drfone-by-drfone-virtual-android/), return to the sound settings, click on "Microphone Array," and then click on the "Start Test" button next to Test Your Microphone. Speak for a few seconds, then stop the test. If you see a decent volume percentage recorded, the microphone is working as it should.
 
 ![Testing the laptop microphone in Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/2-testing-the-laptop-microphone-in-settings.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Test the Built-In Camera
@@ -58,13 +72,6 @@ thumbnail: https://thmb.techidaily.com/d5e8491d3f34992956d5390f8a8c8192037db1bb4
  If you intend to use the laptop for video communication, test its built-in camera. To do this, type **Camera** in the Windows Search bar and open the Camera app.
 
  If the camera app detects the webcam and the visuals are clear and of satisfactory quality, as the seller claimed, then the camera is working correctly.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Check the Health of Your Laptop Battery
 
@@ -81,10 +88,10 @@ thumbnail: https://thmb.techidaily.com/d5e8491d3f34992956d5390f8a8c8192037db1bb4
 ![Checking the laptop battery report.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/08/br_5.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Ensure the Laptop Isn't Stolen
@@ -98,6 +105,13 @@ thumbnail: https://thmb.techidaily.com/d5e8491d3f34992956d5390f8a8c8192037db1bb4
  The appearance of the laptop body is a direct reflection of how carefully the original owner has treated the device. Any signs of scratches, cracks, dents, or loose and damaged hinges indicate rough handling by the previous owner. Missing screws are another indicator that the laptop may have been opened for repair or replacement, which raises a red flag.
 
  Also, watch out for stickers that may be covering up wear and tear underneath, as this is a common practice.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Test the Wired and Wireless Connectivity
 
@@ -132,5 +146,24 @@ thumbnail: https://thmb.techidaily.com/d5e8491d3f34992956d5390f8a8c8192037db1bb4
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-10-key-tips-on-how-to-design-podcast-cover-art/"><u>[New] 2024 Approved 10 Key Tips on How to Design Podcast Cover Art</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-the-verdict-on-screen-recording-does-obs-surpass-fraps/"><u>[New] 2024 Approved The Verdict on Screen Recording Does OBS Surpass Fraps?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-hue-adjustments-making-your-gopro-footage-pop/"><u>[Updated] Hue Adjustments Making Your GoPro Footage Pop</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-boost-engagement-with-creative-video-titling-and-tagging-techniques/"><u>[Updated] In 2024, Boost Engagement with Creative Video Titling and Tagging Techniques</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-screenshots-and-beyond-advanced-screen-recording-for-apple-products/"><u>[Updated] In 2024, Screenshots & Beyond Advanced Screen Recording for Apple Products</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Vivo T2 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/an-overview-of-what-the-windows-registry-is-and-how-it-works/"><u>An Overview of What The Windows Registry Is & How It Works</u></a></li>
+<li><a href="https://win-forum.techidaily.com/comparing-major-networks-facebook-twitter-instagram-and-youtube/"><u>Comparing Major Networks: Facebook, Twitter, Instagram and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/explore-the-top-online-tech-training-courses-available/"><u>Explore the Top Online Tech Training Courses Available</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-online-connectivity-a-comparison-of-facebook-twitter-instagram-and-youtube/"><u>Exploring Online Connectivity: A Comparison of Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-the-biggest-networks-online-from-tweets-to-likes-facebook-twitter-instagram-and-youtube/"><u>Exploring the Biggest Networks Online: From Tweets to Likes - Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-itel-p55-5g-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Itel P55 5G? Fixed | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-oneplus-ace-2-pro-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on OnePlus Ace 2 Pro with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-online-interaction-on-major-platforms-facebook-twitter-instagram-and-youtube-tips/"><u>Mastering Online Interaction on Major Platforms: Facebook, Twitter, Instagram & Youtube Tips</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-ultimate-guide-to-major-social-media-sites-facebook-twitter-instagram-and-youtube/"><u>The Ultimate Guide to Major Social Media Sites: Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-watermark-free-video-editing-the-top-10-free-online-options/"><u>Updated In 2024, Watermark-Free Video Editing The Top 10 Free Online Options</u></a></li>
+<li><a href="https://win-forum.techidaily.com/windows-10-power-users-tutorial-file-and-folder-removal-via-cmd/"><u>Windows 10 Power User's Tutorial: File & Folder Removal via CMD</u></a></li>
+</ul></div>
 

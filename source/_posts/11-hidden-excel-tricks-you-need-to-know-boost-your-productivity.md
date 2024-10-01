@@ -1,7 +1,7 @@
 ---
 title: "11 Hidden Excel Tricks You Need to Know: Boost Your Productivity"
-date: 2024-09-15T17:25:47.740Z
-updated: 2024-09-21T16:42:57.425Z
+date: 2024-09-29T16:04:19.817Z
+updated: 2024-10-01T17:19:27.844Z
 tags:
   - excel
 categories:
@@ -47,6 +47,13 @@ Related: [12 Basic Excel Functions Everybody Should Know](https://visual-screen-
 
 ![FLOOR function in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/Floor-ExcelFunctionsLittleKnown.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To round 5.6 up to the nearest multiple of 2, you'd use this formula:
 
 =CEILING(5.6,2)
@@ -71,6 +78,13 @@ Related: [12 Basic Excel Functions Everybody Should Know](https://visual-screen-
 
 ![MODE.SNGL function for two arrays](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/ModeSnglArrays-ExcelFunctionsLittleKnown.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  CONVERT for Converting From One Measurement to Another
 
  For a useful engineering function, you can [use CONVERT](https://discord-videos.techidaily.com/mastering-discord-speaking-tts-basics-guide-for-2024/) to change a value from one measurement system to another.
@@ -92,10 +106,10 @@ Related: [How to Convert Almost Any Unit in Microsoft Excel](https://discord-vid
 ![CONVERT function for centimeters to inches](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/ConvertLength-ExcelFunctionsLittleKnown.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  DELTA for Testing Equal or Not Equal Values
@@ -116,6 +130,13 @@ Related: [How to Convert Almost Any Unit in Microsoft Excel](https://discord-vid
 
 ![DELTA function using numbers](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/DeltaNumber-ExcelFunctionsLittleKnown.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  GESTEP for Testing Greater Than or Equal To a Threshold
 
  One more engineering function you may find useful is GESTEP which allows you to test values that are [greater than or equal to](https://buynow-reviews.techidaily.com/easy-steps-to-activate-your-own-nintendo-network-id-on-the-nintendo-3ds-handheld-system/) a step (threshold). The result is either 1 (true) or 0 (false).
@@ -133,6 +154,20 @@ Related: [How to Convert Almost Any Unit in Microsoft Excel](https://discord-vid
 =GESTEP(10,12)
 
 ![GESTEP function using a number](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/GestepNumbers-ExcelFunctionsLittleKnown.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  ADDRESS for Finding the Location of a Cell
 
@@ -154,13 +189,6 @@ Related: [How to Cross Reference Cells Between Microsoft Excel Spreadsheets](htt
 
 ![ADDRESS function in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/AddressFunction-ExcelFunctionsLittleKnown.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To find the address of the same cell using an absolute row and relative column, you'd use this formula:
 
 =ADDRESS(2,3,2)
@@ -172,6 +200,13 @@ Related: [How to Cross Reference Cells Between Microsoft Excel Spreadsheets](htt
 =ADDRESS(2,3,,,"Sheet2")
 
 ![ADDRESS function with a sheet name in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/AddressSheet-ExcelFunctionsLittleKnown.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  PI for the Value of Pi
 
@@ -206,10 +241,10 @@ Related: [How to Cross Reference Cells Between Microsoft Excel Spreadsheets](htt
 ![ARABIC function in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/Arabic-ExcelFunctionsLittleKnown.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To convert 2,999 to a Roman numeral, you'd use this formula:
@@ -226,19 +261,6 @@ Related: [How to Cross Reference Cells Between Microsoft Excel Spreadsheets](htt
 
 ![ROMAN function with an argument](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/RomanArgument-ExcelFunctionsLittleKnown.png) 
 
-<!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  REPT for Entering Repeating Text
 
  If you want to add a series of characters, symbols, or text as a placeholder or for a visual effect, use the REPT [text function](https://video-screen-grab.techidaily.com/updated-the-art-of-smooth-video-transitioning-for-2024/).
@@ -252,13 +274,6 @@ Related: [How to Add Text to a Cell With a Formula in Excel](https://buynow-revi
 =REPT("Excel",10)
 
 ![REPT function for the word Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/ReptExcel-ExcelFunctionsLittleKnown.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To repeat an asterisk 20 times, you'd use this formula:
 
@@ -287,5 +302,23 @@ Related: [How to Add Text to a Cell With a Formula in Excel](https://buynow-revi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-your-journey-to-youtubes-command-center-of-creativity/"><u>[New] In 2024, Your Journey to YouTube's Command Center of Creativity</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-premium-audio-playwright-craftsmanship/"><u>[New] Premium Audio Playwright Craftsmanship</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-sideways-scene-understanding-igs-upside-down-issue/"><u>[New] Sideways Scene Understanding IG's Upside-Down Issue</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-superior-free-fb-visual-storyteller-tool-for-2024/"><u>[New] Superior Free FB Visual Storyteller Tool for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-expert-insights-blending-visual-and-auditory-elements-in-windows-photos-for-2024/"><u>[Updated] Expert Insights Blending Visual & Auditory Elements in Windows Photos for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-honor-play-8t-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Honor Play 8T to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/connecting-the-world-online-through-major-platforms-facebook-twitter-instagram-and-youtube/"><u>Connecting the World Online Through Major Platforms - Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/determining-your-current-windows-11-powershell-version-a-comprehensive-guide/"><u>Determining Your Current Windows 11 PowerShell Version: A Comprehensive Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-infinix-hot-30i-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to Infinix Hot 30i Get Deleted Pictures Back with Ease and Safety?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-vivo-v27e-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Vivo V27e to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/remove-unwanted-online-trackers-a-complete-walkthrough-for-windows-11android-users/"><u>Remove Unwanted Online Trackers: A Complete Walkthrough for Windows 11/Android Users</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-power-of-online-influence-understanding-facebook-twitter-instagram-and-youtube/"><u>The Power of Online Influence: Understanding Facebook, Twitter, Instagram and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-powerhouse-quartet-of-online-interaction-facebook-twitter-insta-grams-and-youtubes-explained/"><u>The Powerhouse Quartet of Online Interaction: Facebook, Twitter, Insta-Grams & Youtubes Explained</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-quintessential-social-hubs-unveiling-facebook-twitter-instagram-and-youtubes-powerful-influence/"><u>The Quintessential Social Hubs: Unveiling Facebook, Twitter, Instagram & Youtube's Powerful Influence</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-ultimate-walkthrough-on-how-to-rollback-a-windows-11-patch/"><u>The Ultimate Walkthrough on How to Rollback a Windows 11 Patch</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/virtual-zoos-galore-androids-best-animal-games-for-2024/"><u>Virtual Zoos Galore Android's Best Animal Games for 2024</u></a></li>
+</ul></div>
 

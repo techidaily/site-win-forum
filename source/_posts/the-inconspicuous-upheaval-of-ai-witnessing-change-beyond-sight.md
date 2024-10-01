@@ -1,7 +1,7 @@
 ---
 title: "The Inconspicuous Upheaval of AI: Witnessing Change Beyond Sight"
-date: 2024-09-14T16:54:46.375Z
-updated: 2024-09-21T17:13:47.713Z
+date: 2024-09-27T17:42:09.465Z
+updated: 2024-10-01T16:27:07.728Z
 tags:
   - windows
 categories:
@@ -23,6 +23,13 @@ thumbnail: https://thmb.techidaily.com/a5092d91210ebecc5f12f725b9ff9f61857216831
 
  Qualcomm is developing a _lot_ of AI hardware and software, built up from the company’s experience with mobile image processing and other earlier implementations of on-device machine learning. The new [Snapdragon X chipsets for PC laptops](https://extra-skills.techidaily.com/updated-mobile-mastery-upgrade-photos-elevated-at-no-price/) have a dedicated neural processing unit (NPU) for on-device AI tasks. The company’s newer mobile chips, like the Snapdragon 8s Gen 3, can handle some large language models (LLMs) without help from an external server over an internet connection. Qualcomm isn’t alone here, to be clear—the latest laptop CPUs from AMD and Intel also have NPUs, and consumer Nvidia GPUs can also handle many on-device AI workloads.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Outside The Hype
 
  I know what you’re thinking. You’re tired of hearing every tech company ramble about AI like it’s the magical solution to all the world’s problems. You’re sick of the AI features popping up in your favorite apps. Maybe you’re an artist, writer, or some other creator that heard [OpenAI’s CTO say](https://fortune.com/2024/06/24/ai-creative-industry-jobs-losses-openai-cto-mira-murati-skill-displacement/) that AI could kill some creative jobs that “shouldn’t have been there in the first place,” and you’re ready to burn it all down to the ground. I get that, and I agree most implementations of “AI” right now are solutions in search of a problem or actively harmful.
@@ -33,6 +40,13 @@ thumbnail: https://thmb.techidaily.com/a5092d91210ebecc5f12f725b9ff9f61857216831
 
 ![Live demo of DJ software running on a Snapdragon X Elite laptop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/qualcomm.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Corbin Davenport / How-To Geek
 
  The ability to run large language models on a more typical smartphone, tablet, or PC opens up other interesting use cases. For example, the upcoming [“Apple Intelligence” on iPhones, iPads, and Macs](https://some-techniques.techidaily.com/new-from-streaming-to-savings-preserving-your-internet-tunes/) will use on-device AI to sort notifications and better understand spoken language in Siri. There are some features that are harder to build and scale when they require a powerful datacenter somewhere, and that’s what hardware makers are trying to change right now.
@@ -40,6 +54,13 @@ Corbin Davenport / How-To Geek
  There aren’t many applications and services that use on-device AI right now, because they can behave differently across different devices and operating systems, and not everyone has a phone or PC with the required processing power. Newer developer tools, like [NVIDIA’s TensorRT-LLM](https://blogs.nvidia.com/blog/ignite-rtx-ai-tensorrt-llm-chat-api/) and [Qualcomm’s AI Engine Direct SDK](https://www.qualcomm.com/developer/software/qualcomm-ai-engine-direct-sdk), are slowly making that part more accessible for software developers. Eventually, adding a feature that requires a powerful LLM won’t be much more complex than adding a feature that needs any other system function, and I expect that’s when we’ll see more apps adding useful features.
 
  These advancements are pointing towards a future where more on-device AI features will be possible, and they will be implemented just like any other functionality in your favorite applications. The trend of obnoxious AI chatbots or AI-suggested replies on social media posts will eventually fade away (hopefully), but we’ll be left with the features that are _actually useful_. That’s the real AI revolution: not a giant Copilot button in Microsoft Edge, but your apps and devices becoming smarter and accomplishing specific tasks much quicker and more efficiently.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  What’s Old Is New
 
@@ -64,12 +85,22 @@ _Disclosure: My trip to San Diego, California to visit the AI Analyst & Media Wo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-enhance-visual-narratives-with-story-remix-within-windows-10-photos/"><u>[New] 2024 Approved Enhance Visual Narratives with Story Remix Within Windows 10 Photos</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-exquisite-selection-idle-games-with-infinite-play/"><u>[Updated] 2024 Approved Exquisite Selection Idle Games with Infinite Play</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-essential-knowledge-for-aspiring-youtube-subscribers-for-2024/"><u>[Updated] Essential Knowledge for Aspiring YouTube Subscribers for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-navigating-apples-screen-recording-tools/"><u>2024 Approved Navigating Apple's Screen Recording Tools</u></a></li>
+<li><a href="https://win-forum.techidaily.com/android-security-essentials-spotting-and-removing-malicious-software-with-ease/"><u>Android Security Essentials: Spotting and Removing Malicious Software with Ease</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/breathe-life-into-your-reel-tips-for-perfect-slow-motion-for-2024/"><u>Breathe Life Into Your Reel Tips for Perfect Slow Motion for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/digital-engagement-hubs-explained-facebook-twitter-instagram-and-youtube-unveiled/"><u>Digital Engagement Hubs Explained: Facebook, Twitter, Instagram & YouTube Unveiled</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-wake-on-lan-configuration-steps-for-modern-windows-systems/"><u>Mastering Wake-on-LAN: Configuration Steps for Modern Windows Systems</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/melodic-mastery-add-songs-to-video-seamlessly-on-windows-11-pcs/"><u>Melodic Mastery Add Songs to Video Seamlessly on Windows 11 PCs</u></a></li>
+<li><a href="https://change-location.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Samsung Galaxy A15 4G? | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/seamless-superuser-execution-in-windows-11-your-comprehensive-how-to-manual/"><u>Seamless Superuser Execution in Windows 11: Your Comprehensive How-To Manual</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-tutorial-terminating-frozen-programs-easily-on-your-windows-11-system/"><u>Step-by-Step Tutorial: Terminating Frozen Programs Easily on Your Windows 11 System</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-ultimate-guide-to-social-media-mastery-leveraging-facebook-twitter-instagram-and-youtube-for-brand-impact/"><u>The Ultimate Guide to Social Media Mastery - Leveraging Facebook, Twitter, Instagram, and YouTube for Brand Impact</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/transforma-tu-biblioteca-de-peliculas-como-integrar-archivos-vob-sin-problemas-procedimiento-seguro-y-claro/"><u>Transforma Tu Biblioteca De Películas: Cómo Integrar Archivos VOB Sin Problemas - Procedimiento Seguro Y Claro</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-messages-from-oppo-a18-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Oppo A18</u></a></li>
+</ul></div>
 

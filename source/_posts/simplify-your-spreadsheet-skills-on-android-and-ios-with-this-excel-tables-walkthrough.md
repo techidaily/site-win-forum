@@ -1,7 +1,7 @@
 ---
 title: Simplify Your Spreadsheet Skills on Android & iOS with This Excel Tables Walkthrough
-date: 2024-09-20T17:33:20.416Z
-updated: 2024-09-21T17:10:11.857Z
+date: 2024-09-28T17:18:48.877Z
+updated: 2024-10-01T16:17:28.175Z
 tags:
   - excel
 categories:
@@ -34,6 +34,13 @@ Related: [How to Insert a Total Row in a Table in Microsoft Excel](https://howto
 
 ![Icons to open and close Cards View in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/OpenCloseCardsView-ExcelMobileTableCardsView.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Each [row of your table](https://howto.techidaily.com/android-screen-stuck-general-samsung-galaxy-s23-ultra-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/) is a card. You can see the row number on the top right and your row header as the main field for the card.
 
 ![Table row to a card](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/RowToCard-ExcelMobileTableCardsView.png) 
@@ -41,6 +48,13 @@ Related: [How to Insert a Total Row in a Table in Microsoft Excel](https://howto
  And, each column in your table is a field on the card.
 
 ![Table column to a card](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/ColumnToCard-ExcelMobileTableCardsView.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Edit Table Data
 
@@ -52,6 +66,13 @@ Related: [How to Insert a Total Row in a Table in Microsoft Excel](https://howto
 
 ![Previous and Next buttons on a card](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/PreviousNext-ExcelMobileTableCardsView.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Tap the arrow on the top left to return to the main Cards View screen.
 
 ##  Add a Card
@@ -60,13 +81,6 @@ Related: [How to Insert a Total Row in a Table in Microsoft Excel](https://howto
 
 ![Plus sign to add a card, row, to a table](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/AddCardBottom-ExcelMobileTableCardsView.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To add a card in a specific spot, open either the main Cards View page or a card's detail screen. Tap the three dots on the top right of a card. Select either "Insert Above" or "Insert Below."
 
  You'll then see a blank card with your existing table fields. Enter your data and tap the arrow on the top left to go back. Your new data saves automatically.
@@ -74,10 +88,16 @@ Related: [How to Insert a Total Row in a Table in Microsoft Excel](https://howto
 ![Insert a card, row, above or below](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/InsertCardAboveBelow-ExcelMobileTableCardsView.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Delete a Card
@@ -87,6 +107,19 @@ Related: [How to Insert a Total Row in a Table in Microsoft Excel](https://howto
 ![Delete a card](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/DeleteCard-ExcelMobileTableCardsView.png) 
 
  Keep in mind that removing a card [deletes that row](https://facebook-video-recording.techidaily.com/how-to-maximize-revenue-the-secret-of-fb-animation-campaigns/) from your table.
+
+<!-- affiliate ads begin -->
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Share a Card
 
@@ -104,20 +137,6 @@ Related: [How to Insert a Total Row in a Table in Microsoft Excel](https://howto
 
 ![Share a card](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/ShareCard-ExcelMobileTableCardsView.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Edit the Table Structure 
 
  In addition to editing your existing data or adding more as described above, you can change the current table fields (columns) and formatting.
@@ -127,6 +146,13 @@ Related: [How to Use the Accounting Number Format in Microsoft Excel](https://an
  On the main screen for Cards View, select the Table Settings icon (grid with a gear) on the top right. You'll then see the Field Label (column header) and Format for each piece of data.
 
 ![Table Settings icon to access the data fields](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/TableFields-ExcelMobileTableCardsView.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Tap a Field Label to change the text or the Format icon to change the format.
 
@@ -141,10 +167,10 @@ Related: [How to Use the Accounting Number Format in Microsoft Excel](https://an
 ![Delete a field, column](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/DeleteField-ExcelMobileTableCardsView.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Keep in mind that removing a field deletes that column in your table.
@@ -166,5 +192,21 @@ Related: [How to Use the Accounting Number Format in Microsoft Excel](https://an
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-explore-the-power-of-visuals-mastery-over-tiktok-video-backgrounds/"><u>[New] 2024 Approved Explore the Power of Visuals Mastery over TikTok Video Backgrounds</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-exploring-the-world-of-animated-lenses-in-snapchat/"><u>[Updated] 2024 Approved Exploring the World of Animated Lenses in Snapchat</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-iphone-expertise-crafting-time-lapse-photos/"><u>2024 Approved IPhone Expertise Crafting Time-Lapse Photos</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-ultra-hd-unveiled-delving-into-the-features-of-lg-27ud88-uhd-tv/"><u>2024 Approved Ultra HD Unveiled Delving Into the Features of LG 27UD88-UHD TV</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/7-proven-fixes-to-correct-your-steam-display-error-this-year/"><u>7 Proven Fixes to Correct Your Steam Display Error This Year</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/chip-synchrony-the-new-era-of-fluid-video-editing-experience/"><u>Chip Synchrony The New Era of Fluid Video Editing Experience</u></a></li>
+<li><a href="https://win-forum.techidaily.com/comprehensive-guide-to-leading-social-media-giants-facebook-twitter-instagram-and-youtube/"><u>Comprehensive Guide to Leading Social Media Giants: Facebook, Twitter, Instagram and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/confidentiality-matters-the-definitive-guide-to-adding-passwords-to-text-files/"><u>Confidentiality Matters: The Definitive Guide to Adding Passwords to Text Files</u></a></li>
+<li><a href="https://win-forum.techidaily.com/1723016010025-corsair-virtuoso-mic-woes-heres-how-to-get-it-working-again/"><u>Corsair Virtuoso Mic Woes? Here's How to Get It Working Again!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/elevate-your-smartphone-photography-with-professional-lighting-strategies-for-selfies/"><u>Elevate Your Smartphone Photography with Professional Lighting Strategies for Selfies</u></a></li>
+<li><a href="https://win-forum.techidaily.com/expert-advice-uninstalling-unlisted-software-without-control-panel-access/"><u>Expert Advice: Uninstalling Unlisted Software Without Control Panel Access</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-se-2022-to-other-iphone-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone SE (2022) to other iPhone devices? | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-social-networking-sites-unveiled-facebook-twitter-instagram-and-youtube/"><u>Top Social Networking Sites Unveiled: Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/ultimate-trick-for-permanent-administrator-access-when-opening-programs-on-windows-11/"><u>Ultimate Trick for Permanent Administrator Access When Opening Programs on Windows 11</u></a></li>
+</ul></div>
 

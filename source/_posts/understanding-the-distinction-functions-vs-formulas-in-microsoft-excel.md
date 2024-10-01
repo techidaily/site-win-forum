@@ -1,7 +1,7 @@
 ---
 title: "Understanding the Distinction: Functions Vs. Formulas in Microsoft Excel"
-date: 2024-09-20T16:17:44.038Z
-updated: 2024-09-21T17:24:26.468Z
+date: 2024-09-25T17:07:06.204Z
+updated: 2024-10-01T16:29:31.970Z
 tags:
   - excel
 categories:
@@ -18,6 +18,13 @@ thumbnail: https://thmb.techidaily.com/025f6d9d96521fea43b8d17c7244b091345a22a6d
 * [Remembering the Difference Between Functions and Formulas](https://screen-activity-recording.techidaily.com/new-expert-tips-for-effortless-screen-recording-on-android-for-2024/)
 
  We often talk about "functions" and "formulas" when discussing Microsoft Excel. In fact, some people use them interchangeably. However, there are differences between the two. To help you understand and use what you need, we'll explain how they're different.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  What Is a Function in Excel?
 
@@ -57,6 +64,13 @@ Related: [How to Use Logical Functions in Excel: IF, AND, OR, XOR, NOT](https://
 
 Related: [12 Basic Excel Functions Everybody Should Know](https://visual-screen-recording.techidaily.com/in-2024-a-step-by-step-recorder-for-discord-enthusiasts/) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  What Is a Formula in Excel?
 
  A formula in Excel is an expression, such as an equation, that you create inside a cell. You can insert a function into your formula or create an equation without one.
@@ -64,6 +78,13 @@ Related: [12 Basic Excel Functions Everybody Should Know](https://visual-screen-
  Formulas must start with an equal sign when inserted into a cell and are the final expressions used to perform the calculations or tasks you set up. Once you add a formula to a cell, you'll see it display in the Formula Bar at the top of your sheet.
 
 ![Formula bar in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/FormulaBar-ExcelFunctionsFormulas.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  Formulas With Functions
 
@@ -84,10 +105,10 @@ Related: [12 Basic Excel Functions Everybody Should Know](https://visual-screen-
 ![SUM function](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/Sum-ExcelFunctionsFormulas.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  Formulas Without Functions
@@ -103,13 +124,6 @@ Related: [12 Basic Excel Functions Everybody Should Know](https://visual-screen-
 ![Formula without function in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/Formula-ExcelFunctionsFormulas.png) 
 
 Related: [How to Add or Multiply Values with Paste Special in Microsoft Excel](https://extra-support.techidaily.com/2024-approved-step-by-step-perfectly-sharing-your-photography-on-youtube/) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Remembering the Difference Between Functions and Formulas
 
@@ -133,5 +147,22 @@ Related: [How to Add or Multiply Values with Paste Special in Microsoft Excel](h
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-the-essential-guide-to-cinematic-instagram-videos/"><u>[New] 2024 Approved The Essential Guide to Cinematic Instagram Videos</u></a></li>
+<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-realme-11-pro-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Realme 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/a-guide-to-dominant-social-media-giants-facebook-twitter-instagram-and-youtube/"><u>A Guide to Dominant Social Media Giants: Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/gif-to-avi-gratuitas-e-online-com-movavi-o-melhor-compactador/"><u>Gif-to-Avi Gratuitas E Online Com Móvavi: O Melhor Compactador</u></a></li>
+<li><a href="https://extra-information.techidaily.com/gopro-hero-series-clash-with-polaroid-cube-which-wins/"><u>GoPro Hero Series Clash with Polaroid Cube Which Wins?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-many-attempts-to-unlock-apple-iphone-12-mini-drfone-by-drfone-ios/"><u>How Many Attempts To Unlock Apple iPhone 12 mini | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-complete-sphere-unveiled-in-film-tech/"><u>In 2024, The Complete Sphere Unveiled in Film Tech</u></a></li>
+<li><a href="https://win-forum.techidaily.com/master-efficient-software-removal-using-revo-uninstaller-professional-edition-v5/"><u>Master Efficient Software Removal Using Revo Uninstaller Professional Edition, V5</u></a></li>
+<li><a href="https://win-forum.techidaily.com/master-the-quick-solutions-for-windows-class-not-registered-problems/"><u>Master the Quick Solutions for Windows 'Class Not Registered' Problems</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/perfect-your-wedding-countdown-experience-with-these-top-apps-androidios/"><u>Perfect Your Wedding Countdown Experience with These Top Apps (Android/iOS)</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/still-using-pattern-locks-with-samsung-galaxy-xcover-6-pro-tactical-edition-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Samsung Galaxy XCover 6 Pro Tactical Edition? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-leading-digital-hubs-understanding-facebook-twitter-instagram-and-youtube/"><u>The Leading Digital Hubs: Understanding Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-ultimate-tutorial-for-finding-and-erasing-threatening-android-programs-with-revouninstaller/"><u>The Ultimate Tutorial for Finding and Erasing Threatening Android Programs with RevoUninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/troubleshooting-tips-for-a-smooth-amazon-prime-video-experience/"><u>Troubleshooting Tips for a Smooth Amazon Prime Video Experience</u></a></li>
+<li><a href="https://win-forum.techidaily.com/unleashing-your-brands-potential-on-major-platforms-facebook-twitter-instagram-and-youtube-explained/"><u>Unleashing Your Brand's Potential on Major Platforms: Facebook, Twitter, Instagram & YouTube Explained</u></a></li>
+</ul></div>
 

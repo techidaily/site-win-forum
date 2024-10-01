@@ -1,7 +1,7 @@
 ---
 title: Top 3 Essential Gameplay Analytics Software for Serious PC Gamers
-date: 2024-09-15T16:40:56.752Z
-updated: 2024-09-21T17:37:04.393Z
+date: 2024-09-24T17:27:04.485Z
+updated: 2024-10-01T17:00:42.790Z
 tags:
   - windows
 categories:
@@ -37,6 +37,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![NVIDIA Overlay main menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/3-in-game-performance-monitoring-tools-i-recommend-to-every-pc-gamer-01.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once there, make sure to select the “Custom” statistics view, click on the "View All" button, and then simply enable the performance metrics you want to see on the statistics overlay.
 
 ![NVIDIA overlay in-game statistics options menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/3-in-game-performance-monitoring-tools-i-recommend-to-every-pc-gamer-03.png) 
@@ -58,10 +65,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![RivaTuner Statistics Server main window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/3-in-game-performance-monitoring-tools-i-recommend-to-every-pc-gamer-004.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Don't forget that you can add game EXE files to RTSS and create custom RTSS profiles. For example, if a game uses anti-cheat that can block RTSS, I recommend creating a custom profile and disabling the on-screen display (OSD) only in that game. You can also tweak a couple more OSD-related options in RTSS, such as the OSD zoom level.
@@ -75,15 +82,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![MSI Afterburner Main window and the On-Screen Display options menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/3-in-game-performance-monitoring-tools-i-recommend-to-every-pc-gamer-05.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now, click the “Monitoring” tab. In this tab, you can pick any in-game performance metric you want to see on the OSD; to enable it, click the “Show in On-Screen Display” box. You can also rename every metric by clicking the "Override Graph Name" and "Override Group Name" buttons.
 
 ![MSI Afterburner main window and the Monitoring menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/3-in-game-performance-monitoring-tools-i-recommend-to-every-pc-gamer-06-2.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After you enable the performance stats you want to see on the OSD, click the “Apply” button, and try out the OSD by entering the game and pressing the button you’ve mapped to open the RTSS performance overlay.
 
@@ -104,10 +118,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Intel PresentMon main window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/3-in-game-performance-monitoring-tools-i-recommend-to-every-pc-gamer-007.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  When you select the custom preset, click the “Edit” button to customize it.
@@ -117,13 +131,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Once in the configuration menu, explore different options and create your perfect monitoring overlay.
 
 ![Intel PresentMon custom preset configuration menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/3-in-game-performance-monitoring-tools-i-recommend-to-every-pc-gamer-08.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can combine multiple metrics by pressing the “Plus” button. For example, you can combine GPU and CPU busy graphs with GPU and CPU wait graphs, average and 99% low FPS, CPU and GPU utilization, and more. The “Options” button next to the “Plus” button allows you to customize each graph.
 
@@ -148,5 +155,26 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-broadcasting-showdown-deciding-between-obs-and-twitch-studio/"><u>[New] Broadcasting Showdown Deciding Between OBS and Twitch Studio</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-enhance-video-conferencing-with-a-blend-of-skype-and-zoom/"><u>[New] In 2024, Enhance Video Conferencing with a Blend of Skype & Zoom</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-precision-in-motion-select-smartphones-that-enhance-videography-effortlessly/"><u>[New] Precision in Motion Select Smartphones that Enhance Videography Effortlessly</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-leading-terraria-adjustments-and-tweaks-for-2024/"><u>[Updated] Leading Terraria Adjustments and Tweaks for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/effective-methods-for-forced-deletion-of-folders-on-windows-10-and-11-with-revo-uninstaller/"><u>Effective Methods for Forced Deletion of Folders on Windows 10 and 11 with Revo Uninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/essential-insights-into-using-windows-11s-built-in-system-restore-feature/"><u>Essential Insights Into Using Windows 11'S Built-In System Restore Feature</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-the-missing-power-alert-a-simple-guide-for-immediate-relief/"><u>Fix the Missing Power Alert: A Simple Guide for Immediate Relief</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-efficiently-remove-windows-10-memory-dump-logs/"><u>How to Efficiently Remove Windows 10 Memory Dump Logs</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-xiaomi-redmi-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Xiaomi Redmi 12 5G | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Apple iPhone 13 mini | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-lava-blaze-2-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Lava Blaze 2 Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-the-art-of-dvd-conversion-in-vlc-media-player-with-effective-solutions-for-rip-related-hiccups/"><u>Mastering the Art of DVD Conversion in VLC Media Player with Effective Solutions for Rip-Related Hiccups</u></a></li>
+<li><a href="https://win-forum.techidaily.com/maximize-your-pcs-potential-by-liberating-unused-space-in-windows-groovy-11/"><u>Maximize Your PC's Potential by Liberating Unused Space in Windows Groovy 11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-landscape-of-popular-social-channels-facey-twitty-instasnap-and-videoville/"><u>Navigating the Landscape of Popular Social Channels: Facey, Twitty, InstaSnap, and Videoville</u></a></li>
+<li><a href="https://win-forum.techidaily.com/social-media-showdown-the-roles-of-facebook-twitter-instagram-and-youtube-today/"><u>Social Media Showdown: The Roles of Facebook, Twitter, Instagram, and YouTube Today</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-social-media-networks-facebook-twitter-instagram-youtube/"><u>Top Social Media Networks: Facebook, Twitter, Instagram, YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/troubleshooting-windows-error-codes-how-to-fix-a-missing-class-registration/"><u>Troubleshooting Windows Error Codes: How to Fix a Missing Class Registration</u></a></li>
+<li><a href="https://win-forum.techidaily.com/unveiling-the-secrets-finding-out-what-powershell-version-you-have-on-windows-11/"><u>Unveiling the Secrets: Finding Out What PowerShell Version You Have on Windows 11</u></a></li>
+</ul></div>
 

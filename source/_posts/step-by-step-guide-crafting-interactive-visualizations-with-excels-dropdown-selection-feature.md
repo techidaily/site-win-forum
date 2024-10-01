@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Crafting Interactive Visualizations with Excel's Dropdown Selection Feature"
-date: 2024-09-20T16:30:19.967Z
-updated: 2024-09-21T17:13:34.280Z
+date: 2024-09-29T17:43:09.331Z
+updated: 2024-10-01T16:19:47.227Z
 tags:
   - excel
 categories:
@@ -29,6 +29,13 @@ thumbnail: https://thmb.techidaily.com/e0931ca8ae70302ccf65495c157857813d9635f22
 
 ![An Excel worksheet. 'Choose' is typed into cell A9, cell B9 is selected, and the 'Data Validation' function is highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/data-validation-options.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In the Data Validation window, choose "List" under Allow. Then, click in the "Source" field box and highlight the column headings in your table (the data that will be shown in the drop-down list you're creating). In our example, we want to choose the game numbers, as in the chart we are going to create later, we want to see the players' ratings for each game. Then, click "OK."
 
 ![An Excel spreadsheet with the data validation window open. The Allow field contains the "List" option, and the Source field contains the column headers from the table.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/data-validation-list.png) 
@@ -50,6 +57,13 @@ thumbnail: https://thmb.techidaily.com/e0931ca8ae70302ccf65495c157857813d9635f22
  Select and right-click the pasted data, hover over "Sort," and click "Sort A To Z."
 
 ![An Excel spreadsheet with data in Table 2 selected, and the Sort A to Z option highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/sort-data-a-to-z.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  To continue creating Table 2, you need to give the next column a heading. The data that appears in Table 2 will be dictated by what you select in your drop-down box, so in the cell where you want the heading to go, type **\=** and click the drop-down cell. In our case, we want our heading in cell I2, and in that cell, we will type **\=** and click cell B9.
 
@@ -104,31 +118,17 @@ thumbnail: https://thmb.techidaily.com/e0931ca8ae70302ccf65495c157857813d9635f22
 ![A table in Excel being AutoFilled.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/autofill-table-2.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Try changing your drop-down option to a different value and see the data change in Table 2, and check that it aligns with the information in Table 1\. Remember that we sorted the first column in Table 2 alphabetically, so check carefully, as the first column in Table 1 will be in a different order!
 
 ![An Excel sheet with a drop-down selection changed to 'Game 3,' and Table 2 showing the data for this selection.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/drop-down-with-data-in-table-2.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now that Table 2 successfully changes depending on our drop-down selection, we're ready to create the chart.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Step 4: Insert and Format Your Chart
 
@@ -140,6 +140,13 @@ thumbnail: https://thmb.techidaily.com/e0931ca8ae70302ccf65495c157857813d9635f22
 
 ![An Excel chart with the data chosen by a drop-down box, which uses Table 2 to retrieve data from Table 1.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/data-chart-based-on-drop-down-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Format the chart to appear as you wish, and again, play with your drop-down to see Table 2—and, consequently, your chart—adjust to your selection. You'll also see your chart title change.
 
 ##  Step 5: Add an Average Line to Your Chart
@@ -149,16 +156,10 @@ thumbnail: https://thmb.techidaily.com/e0931ca8ae70302ccf65495c157857813d9635f22
 ![An Excel spreadsheet with two tables and a chart. Table 2 has a new column, headed 'Average.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/table-2-average-column.png) 
 
 <!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now, [use the AVERAGE function](https://win-able.techidaily.com/fixing-overwatch-startup-issues-how-to-get-rid-of-the-persistent-black-screen/) to capture the average of the selected data. In our case, we've selected game 4, so we want to find the average rating among all five players for this game. To do this, type
@@ -178,10 +179,10 @@ thumbnail: https://thmb.techidaily.com/e0931ca8ae70302ccf65495c157857813d9635f22
 ![An Excel chart selected with the 'Select Data' icon in the Chart Design group selected.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/select-data-for-chart.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In the Select Data Source window, click "Add."
@@ -196,6 +197,13 @@ thumbnail: https://thmb.techidaily.com/e0931ca8ae70302ccf65495c157857813d9635f22
 
 ![An Excel chart with an average column selected through a right-click, and 'Change Series Chart Type' selected.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/change-series-chart-type.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Open the "All Charts" tab, click "Combo" in the menu on the left, and change the average data series to "Line."
 
 ![The Change Chart Type window in Excel, with the 'All Charts' tab opened, the 'Combo' menu selected, and Series 2 changed to 'Line.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/change-data-to-line.png) 
@@ -203,6 +211,13 @@ thumbnail: https://thmb.techidaily.com/e0931ca8ae70302ccf65495c157857813d9635f22
  Click OK to see the outcome, and change the drop-down choice to see your chart change dynamically!
 
 ![An Excel chart reflecting the drop-down choice and with an average line included as an additional data set.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/dynamic-chart-with-average-line.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can then format your line so that it stands out in the way that you want it to.
 
@@ -223,5 +238,24 @@ thumbnail: https://thmb.techidaily.com/e0931ca8ae70302ccf65495c157857813d9635f22
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/updated-superior-methods-for-silent-video-production/"><u>[Updated] Superior Methods for Silent Video Production</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-expert-tips-for-captivate-based-demos/"><u>2024 Approved Expert Tips for Captivate-Based Demos</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-maximizing-your-time-free-countdown-essentials/"><u>2024 Approved Maximizing Your Time Free Countdown Essentials</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Samsung Galaxy A05 | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/decoding-the-windows-registry-functionality-and-maintenance-tips-from-revouninstaller/"><u>Decoding the Windows Registry Functionality and Maintenance Tips From RevoUninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/efficient-drive-cleanup-tips-for-windows-11-the-role-of-revo-uninstaller/"><u>Efficient Drive Cleanup Tips for Windows 11: The Role of Revo Uninstaller</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-connect-and-captivate-youtube-twitter-and-facebook-using-zoom/"><u>In 2024, Connect and Captivate YouTube, Twitter & Facebook Using Zoom</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-social-media-landscapes-a-deep-dive-into-instagram-twitter-facebook-and-youtube/"><u>Mastering Social Media Landscapes: A Deep Dive Into Instagram, Twitter, Facebook & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-your-audience-across-leading-platforms-facebook-twitter-instagram-and-youtube/"><u>Mastering Your Audience Across Leading Platforms - Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/optimal-instagram-posting-times-a-comprehensive-overview/"><u>Optimal Instagram Posting Times A Comprehensive Overview</u></a></li>
+<li><a href="https://win-forum.techidaily.com/protect-your-device-effective-strategies-for-detecting-dangerous-apps-on-android/"><u>Protect Your Device: Effective Strategies for Detecting Dangerous Apps on Android</u></a></li>
+<li><a href="https://win-forum.techidaily.com/social-media-essentials-mastering-interaction-on-facebook-twitter-instagram-and-youtube/"><u>Social Media Essentials: Mastering Interaction on Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-wlanapidll-error-a-comprehensive-guide/"><u>Solving wlanapi.dll Error: A Comprehensive Guide</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-asus-rog-phone-7-ultimate-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/uncompromised-audio-best-concert-earplug-guide/"><u>Uncompromised Audio: Best Concert Earplug Guide</u></a></li>
+<li><a href="https://win-forum.techidaily.com/understanding-social-media-titans-a-deep-dive-into-facebook-twitter-instagram-and-youtube/"><u>Understanding Social Media Titans: A Deep Dive Into Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/understanding-the-windows-registry-and-its-role-with-revo-uninstaller/"><u>Understanding the Windows Registry & Its Role with Revo Uninstaller</u></a></li>
+</ul></div>
 

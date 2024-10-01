@@ -1,7 +1,7 @@
 ---
 title: "DIY Windows Alerts: Setting Up an Easy Event Log Notification Tool"
-date: 2024-09-16T16:45:48.143Z
-updated: 2024-09-21T16:08:27.570Z
+date: 2024-09-25T17:27:11.434Z
+updated: 2024-10-01T16:41:56.344Z
 tags:
   - excel
 categories:
@@ -21,6 +21,13 @@ thumbnail: https://thmb.techidaily.com/fa51da89f91ea3306806b0c92d6d119cfa0eae393
 
  Thankfully, we have a solution which will easily allow you to export and filter Windows Event Log entries and then have them emailed and/or saved to a text file. When this process is configured as part of a scheduled task you can have, for example, warning and error messages emailed to you automatically.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How It Works
 
  Our solution works by using a freeware utility, MyEventViewer, by Nirsoft which allows you to easily export Windows Event Logs to a comma separated file. Based on this output, we have developed an easy to configure batch script which filters these results and then can email and/or save the filtered results file. Because the results are a comma separated file, it can be opened in Excel (or your favorite CSV program) and further sorted and filtered.
@@ -37,9 +44,23 @@ thumbnail: https://thmb.techidaily.com/fa51da89f91ea3306806b0c92d6d119cfa0eae393
 
 ![image](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2011/08/image1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Note the value in the Full Name value, in this case "OAlerts". This would be the value you would need to enter into the script's configuration.
 
 ![image](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2011/08/image2.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Event Types** 
 
@@ -58,10 +79,10 @@ thumbnail: https://thmb.techidaily.com/fa51da89f91ea3306806b0c92d6d119cfa0eae393
 ![image](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2011/08/image4.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Examples
@@ -119,5 +140,16 @@ thumbnail: https://thmb.techidaily.com/fa51da89f91ea3306806b0c92d6d119cfa0eae393
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-navigating-the-world-of-video-editing-for-youtube-creators/"><u>[Updated] 2024 Approved Navigating the World of Video Editing for YouTube Creators</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/exploring-the-capabilities-of-toolwiz-a-comprehensive-mobile-review/"><u>Exploring the Capabilities of Toolwiz – A Comprehensive Mobile Review</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-safeguard-your-windows-system-with-these-5-tips/"><u>How to Safeguard Your Windows System with These 5 Tips</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-nokia-150-2023-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Nokia 150 (2023) to iPod | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-premium-action-recording-in-faceview-option/"><u>In 2024, Premium Action Recording In-Faceview Option</u></a></li>
+<li><a href="https://extra-information.techidaily.com/mastering-photo-editing-advanced-3d-lut-techniques-in-ps/"><u>Mastering Photo Editing Advanced 3D LUT Techniques in PS</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-digital-landscape-with-leading-sites-socialnet-facebook-microblog-twitter-photospace-instagram-and-videohub-youtube/"><u>Navigating the Digital Landscape with Leading Sites: SocialNet Facebook, MicroBlog Twitter, PhotoSpace Instagram & VideoHub YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/revouninstaller-tutorial-for-efficient-computer-maintenance-defragmenting-your-drive-in-windows-10/"><u>RevoUninstaller Tutorial for Efficient Computer Maintenance: Defragmenting Your Drive in Windows 10</u></a></li>
+<li><a href="https://win-forum.techidaily.com/unlocking-system-secrets-a-beginners-guide-to-bios-entry-on-windows-11-computers/"><u>Unlocking System Secrets: A Beginner's Guide to BIOS Entry on Windows 11 Computers</u></a></li>
+</ul></div>
 

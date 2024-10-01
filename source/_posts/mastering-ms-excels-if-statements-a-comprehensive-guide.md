@@ -1,7 +1,7 @@
 ---
 title: "Mastering MS Excel's IF Statements: A Comprehensive Guide"
-date: 2024-09-19T16:15:08.468Z
-updated: 2024-09-21T17:26:04.799Z
+date: 2024-09-29T16:01:43.640Z
+updated: 2024-10-01T16:37:22.849Z
 tags:
   - excel
 categories:
@@ -16,6 +16,13 @@ thumbnail: https://thmb.techidaily.com/d1114cdd62049ffd7653e7094748e36a17e96d607
 * [The IS Functions in Excel](https://facebook-clips.techidaily.com/in-2024-reclaim-inaccessible-watch-icon/)
 * [IS Function Examples](https://extra-resources.techidaily.com/2024-approved-benchmark-analysis-djis-drone-phantom-3/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
  Excel's IS functions return "True" or "False" depending on the contents of a cell. For example, =ISBLANK(A1) will return "TRUE" if cell A1 is blank and "FALSE" if it is not. Excel provides the following IS functions: ISBLANK, ISERR, ISERROR, ISLOGICAL, ISNA, ISNONTEXT, ISNUMBER, ISREF, and ISTEXT.
@@ -25,6 +32,13 @@ thumbnail: https://thmb.techidaily.com/d1114cdd62049ffd7653e7094748e36a17e96d607
  There are currently nine IS functions, also known as information functions, in Excel. This includes ISBLANK, ISERROR, ISTEXT, and more.
 
  When you use these functions in conjunction with others, like [the IF function](https://extra-skills.techidaily.com/in-2024-spark-engagement-the-ultimate-list-of-video-text-effects/), you can put parameters around your true/false statements. But, you can also use the IS functions on their own if it's beneficial. Let's take a look at how they work.
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  The IS Functions in Excel
 
@@ -59,15 +73,22 @@ thumbnail: https://thmb.techidaily.com/d1114cdd62049ffd7653e7094748e36a17e96d607
 * **ISTEXT:** Returns True if the value is text or False if it's not text.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  IS Function Examples
 
  As you review the above list, you can see where some of the IS functions can come in handy. At the same time, you may see a couple that you'll probably rarely use. So, let's look at common uses for a few of the functions.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  ISBLANK
 
@@ -81,6 +102,19 @@ thumbnail: https://thmb.techidaily.com/d1114cdd62049ffd7653e7094748e36a17e96d607
 
 ![ISBLANK function in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/ISBLANK-ExcelISFunctions.png) 
 
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now we'll include the IF function to display a question mark (?) for a blank cell and a hyphen (-) for a cell containing data.
 
 =IF(ISBLANK(A1),"?","-")
@@ -88,13 +122,6 @@ thumbnail: https://thmb.techidaily.com/d1114cdd62049ffd7653e7094748e36a17e96d607
  As you can see, we now have the result of a question mark instead of True for blank cells.
 
 ![ISBLANK function in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/ISBLANK-ExcelISFunctions.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  ISERROR
 
@@ -122,13 +149,6 @@ thumbnail: https://thmb.techidaily.com/d1114cdd62049ffd7653e7094748e36a17e96d607
 
 Related: [How to Hide Error Values and Indicators in Microsoft Excel](https://instagram-videos.techidaily.com/updated-cut-and-paste-success-enhancing-videos-for-instagram-shares/) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  ISNUMBER and ISTEXT
 
  Next, we'll look at examples using the ISNUMBER and ISTEXT functions. These similarly display True if the value is a number or text, respectively.
@@ -140,19 +160,6 @@ Related: [How to Hide Error Values and Indicators in Microsoft Excel](https://in
  Our result is False because the value in cell A1 is text, not a number.
 
 ![ISNUMBER function in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/ISNUMBER-ExcelISFunctions.png) 
-
-<!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now, we'll add the IF function to display nothing if the cell contains a number but "Please enter a number" if the cell doesn't contain a number.
 
@@ -195,5 +202,22 @@ Related: [How to Hide Error Values and Indicators in Microsoft Excel](https://in
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-perfecting-fading-audio-tracks-through-audacitys-tools/"><u>[New] 2024 Approved Perfecting Fading Audio Tracks Through Audacity's Tools</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-decoding-the-freeze-phenomenon-in-photobooth-videos-for-2024/"><u>[New] Decoding the Freeze Phenomenon in Photobooth Videos for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-free-10-high-quality-passport-photos-available-here/"><u>[Updated] In 2024, Free 10 High-Quality Passport Photos Available Here</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-lava-yuva-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Lava Yuva 3 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-oppo-reno-9a-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Oppo Reno 9A | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/comparing-top-platforms-insights-into-facebook-twitter-instagram-and-youtube-usage/"><u>Comparing Top Platforms: Insights Into Facebook, Twitter, Instagram and YouTube Usage</u></a></li>
+<li><a href="https://win-forum.techidaily.com/complete-guide-removing-memory-dump-crash-files-on-windows-11/"><u>Complete Guide: Removing Memory Dump (Crash) Files on Windows 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-installation-guide-epson-wf-2650-printer-software-for-windows-users/"><u>Easy Installation Guide: Epson WF-2650 Printer Software for Windows Users</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-accurately-check-the-powershell-version-on-your-windows-10-machine/"><u>How to Accurately Check the PowerShell Version on Your Windows 10 Machine</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-install-and-activate-revo-uninstaller-mobile-revouninstaller/"><u>How to Install and Activate Revo Uninstaller Mobile - RevoUninstaller</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-a-step-by-step-approach-to-boosting-your-podcasts-seo/"><u>In 2024, A Step-by-Step Approach to Boosting Your Podcast's SEO</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-nubia-z50-ultra-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Nubia Z50 Ultra to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-infinix-note-30-5g-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from Infinix Note 30 5G to iPad | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-world-of-social-media-facebook-twitter-instagram-and-youtube-unveiled/"><u>Navigating the World of Social Media - Facebook, Twitter, Instagram & YouTube Unveiled</u></a></li>
+<li><a href="https://win-forum.techidaily.com/understanding-the-giants-of-online-communication-facebook-twitter-instagram-and-youtube/"><u>Understanding the Giants of Online Communication - Facebook, Twitter, Instagram and Youtube</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Retro Tech Goes Open Source: Microsoft's DOS 4.0 From the Late '80S Ready to Download!"
-date: 2024-09-14T16:00:13.431Z
-updated: 2024-09-21T17:12:51.525Z
+date: 2024-09-26T17:22:50.840Z
+updated: 2024-10-01T17:19:20.260Z
 tags:
   - windows
 categories:
@@ -34,18 +34,28 @@ Microsoft Disk Operating System, or MS-DOS for short, was the operating system t
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-reducing-obs-streaming-bitrate/"><u>[New] 2024 Approved Reducing OBS Streaming Bitrate</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-no-fuss-streaming-technique-for-podcasts/"><u>[New] No-Fuss Streaming Technique for Podcasts</u></a></li>
+<li><a href="https://win-forum.techidaily.com/comparing-giants-of-digital-engagement-facebook-twitter-instagram-and-youtube/"><u>Comparing Giants of Digital Engagement: Facebook, Twitter, Instagram and YouTube</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/1721267419141-dont-lose-anythpressentiment-recover-iphone-files-quickly-with-stellar-order-now/"><u>Don't Lose Anythpressentiment; Recover iPhone Files Quickly with Stellar - Order Now</u></a></li>
+<li><a href="https://win-forum.techidaily.com/easy-steps-to-identify-the-version-of-powershell-on-your-windows-10-machine/"><u>Easy Steps to Identify the Version of PowerShell on Your Windows 10 Machine</u></a></li>
+<li><a href="https://win-forum.techidaily.com/effective-techniques-for-resetting-the-dns-resolver-cache-in-windows-versions-1011/"><u>Effective Techniques for Resetting the DNS Resolver Cache in Windows Versions 10/11</u></a></li>
+<li><a href="https://extra-information.techidaily.com/enriching-zoom-video-clarity-essential-tips/"><u>Enriching Zoom Video Clarity Essential Tips</u></a></li>
+<li><a href="https://win-forum.techidaily.com/expert-advice-how-to-turn-on-power-management-with-wake-on-lan-for-windows-users/"><u>Expert Advice: How to Turn On Power Management with Wake-on-LAN for Windows Users</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-10-affordable-mobile-apps-to-boost-your-images-visual-impact/"><u>In 2024, 10 Affordable Mobile Apps to Boost Your Image's Visual Impact</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-guide-installing-the-latest-driver-for-your-usb-30-network-card-on-windows/"><u>Step-by-Step Guide: Installing the Latest Driver for Your USB 3.0 Network Card on Windows</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-lexicon-of-persuasion-in-business-communication-for-2024/"><u>The Lexicon of Persuasion in Business Communication for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-the-missing-python24dll-tips-and-solutions/"><u>Troubleshooting the Missing Python24.dll: Tips and Solutions</u></a></li>
+<li><a href="https://win-forum.techidaily.com/unlock-your-computers-full-potential-easy-bios-entry-in-windows-11-explained/"><u>Unlock Your Computer's Full Potential: Easy BIOS Entry in Windows 11 Explained</u></a></li>
+<li><a href="https://win-forum.techidaily.com/windows-11-cheat-sheet-accessing-computer-specs-with-a-quick-keystroke-combo/"><u>Windows 11 Cheat Sheet: Accessing Computer Specs with a Quick Keystroke Combo</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

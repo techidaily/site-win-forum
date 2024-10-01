@@ -1,7 +1,7 @@
 ---
 title: "Mastering Text Editing in Excel: Discover These 9 Powerful Features"
-date: 2024-09-14T16:32:08.140Z
-updated: 2024-09-21T17:13:13.134Z
+date: 2024-09-29T16:12:32.819Z
+updated: 2024-10-01T17:13:25.915Z
 tags:
   - excel
 categories:
@@ -71,13 +71,6 @@ Related: [How to Quickly and Easily Change Case in Excel 2013 Using a Function](
 
 ![TRIM cell reference in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/TrimCell-ExcelTextFunctions.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Compare Text Strings: EXACT
 
  Maybe you have two cells containing text that you want to compare and see if they [match exactly](https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-asus-rog-phone-7-ultimate-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/). Appropriately named, the EXACT function comes to the rescue.
@@ -97,6 +90,13 @@ Related: [How to Use the XLOOKUP Function in Microsoft Excel](https://android-tr
  In the second example, the result is False. The text in cell A1 has uppercase letters whereas the text in cell B1 does not.
 
 ![EXACT with False due to upper case letters](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/ExactFalseCaps-ExcelTextFunctions.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  In our final example, the result is False once more. The text in cell B1 has spaces that the text in cell A1 does not.
 
@@ -118,6 +118,13 @@ Related: [Functions vs. Formulas in Microsoft Excel: What's the Difference?](htt
 
 ![FIND function in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/Find-ExcelTextFunctions.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To find the letter F in cell A1 beginning with the fourth character, you would use this formula:
 
 =FIND("F",A1,4)
@@ -127,10 +134,10 @@ Related: [Functions vs. Formulas in Microsoft Excel: What's the Difference?](htt
 ![FIND with an instance](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/FindInstance-ExcelTextFunctions.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Replace Existing Text Using a Position: REPLACE
@@ -163,16 +170,10 @@ Related: [How to Find and Replace Text and Numbers in Excel](https://twitter-vid
 ![REPLACE text at the end](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/ReplaceEnd-ExcelTextFunctions.png) 
 
 <!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Substitute Current With New Text: SUBSTITUTE
@@ -187,6 +188,13 @@ Related: [How to Find and Replace Text and Numbers in Excel](https://twitter-vid
 
 ![SUBSTITUTE a name](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/SubstituteName-ExcelTextFunctions.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To change "Location 1, Quarter 1" to "Location 1, Quarter 2" in cell A1, you would use this formula:
 
 =SUBSTITUTE(A1,"1","2",2)
@@ -196,10 +204,10 @@ Related: [How to Find and Replace Text and Numbers in Excel](https://twitter-vid
 ![SUBSTITUTE a number](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/SubstituteNumber-ExcelTextFunctions.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Combine Text: CONCAT
@@ -214,13 +222,6 @@ Related: [How to Find and Replace Text and Numbers in Excel](https://twitter-vid
 
 ![CONCAT with a space](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/Concat-ExcelTextFunctions.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Notice that the quotes contain the space to add.
 
  To join that same text but add the prefix Mr. and a space in front, you would use this formula:
@@ -228,6 +229,13 @@ Related: [How to Find and Replace Text and Numbers in Excel](https://twitter-vid
 =CONCAT("Mr. ",A1," ",B1)
 
 ![CONCAT with a prefix](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/ConcatAdd-ExcelTextFunctions.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Here you have Mr. with a space in the first set of quotes, the first cell reference, another space within quotes, and the second cell reference.
 
@@ -246,5 +254,18 @@ Related: [How to Find and Replace Text and Numbers in Excel](https://twitter-vid
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/everage-editing-to-boost-youtube-profile-impact-for-2024/"><u>[New] Leverage Editing to Boost YouTube Profile Impact for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-exclusive-list-of-top-5-iphone-podcast-platforms/"><u>[Updated] Exclusive List of Top 5 iPhone Podcast Platforms</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/amazon-prime-day-tech-deals-2024/"><u>Amazon Prime Day Tech Deals 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebooks-new-home-and-feeds-tabs-what-you-need-to-know/"><u>Facebook's New Home and Feeds Tabs: What You Need to Know</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-my-honor-v-purse-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Honor V Purse Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-play-uninterrupted-youtube-videos-with-continuous-audio-on-popular-browsers/"><u>How to Play Uninterrupted Youtube Videos with Continuous Audio on Popular Browsers</u></a></li>
+<li><a href="https://win-forum.techidaily.com/master-the-art-of-text-file-security-a-detailed-walkthrough-on-applying-password-protection/"><u>Master the Art of Text File Security: A Detailed Walkthrough on Applying Password Protection</u></a></li>
+<li><a href="https://win-forum.techidaily.com/solving-the-windows-11-wont-run-error-on-your-pc-with-revouninstaller/"><u>Solving the 'Windows 11 Wont Run' Error on Your PC with RevoUninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-ultimate-guide-deleting-items-using-cmd-on-windows-10/"><u>The Ultimate Guide: Deleting Items Using CMD on Windows 10</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-ultimate-walkthrough-resetting-your-windows-11-system-to-its-roots-with-revo-uninstaller/"><u>The Ultimate Walkthrough: Resetting Your Windows 11 System to Its Roots with Revo Uninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-four-platforms-in-social-networking-insights-on-facebook-twitter-instagram-and-youtube/"><u>Top Four Platforms in Social Networking: Insights on Facebook, Twitter, Instagram and YouTube</u></a></li>
+</ul></div>
 

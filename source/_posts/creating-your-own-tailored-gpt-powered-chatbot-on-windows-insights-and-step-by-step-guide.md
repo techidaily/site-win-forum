@@ -1,7 +1,7 @@
 ---
 title: "Creating Your Own Tailored GPT-Powered Chatbot on Windows: Insights & Step-by-Step Guide"
-date: 2024-09-16T17:17:10.395Z
-updated: 2024-09-21T16:38:25.481Z
+date: 2024-09-24T16:07:01.034Z
+updated: 2024-10-01T17:17:52.787Z
 tags:
   - windows
 categories:
@@ -20,6 +20,13 @@ thumbnail: https://thmb.techidaily.com/721844d81a2674aaafe28cc93fa85dbee744a7d0e
 * [Step 3: Launch the Text Generation Web UI](https://visual-screen-recording.techidaily.com/easy-peasy-guide-to-capturing-online-events-for-mac-and-windows-users/)
 * [Step 4: Install the GPT-2 Model From OpenAI](https://extra-support.techidaily.com/lolkit-design-memes-and-graphics-with-a-click-for-2024/)
 * [Step 5: Start Using Your Custom GPT AI Chatbot](https://some-approaches.techidaily.com/2024-approved-the-ultimate-key-to-exploring-without-boundaries-through-vr/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -43,13 +50,6 @@ thumbnail: https://thmb.techidaily.com/721844d81a2674aaafe28cc93fa85dbee744a7d0e
 
  text-generation-web-ui-docker bundles the text-generation-web-ui project using [Docker](https://vp-tips.techidaily.com/new-ultimate-auditory-interface-win-for-2024/), which removes the need for installing and managing all the complex dependencies that local AI tools usually require by storing everything in a container separate to your system. The only thing you need to run your local chatbot is a Windows PC that [supports Docker running using the Windows Subsystem for Linux (WSL)](https://docs.docker.com/desktop/install/windows-install/ "https://docs.docker.com/desktop/install/windows-install/"). You'll also need a fairly recent GPU, ideally one from NVIDIA, for maximum compatibility.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Step 1: Install Docker and the Windows Terminal App
 
  Docker containers are similar to [virtual machines](https://remote-screen-capture.techidaily.com/2024-approved-essential-guide-video-recording-with-vlc/) in that they contain a whole running system, but they are much more lightweight, and perfect for distributing applications and all of their requirements in a single, easy-to-install bundle. To run text-generation-web-ui-docker in Docker, [download and install Docker on your Windows system](https://www.docker.com/products/docker-desktop/ "https://www.docker.com/products/docker-desktop/").
@@ -57,6 +57,13 @@ thumbnail: https://thmb.techidaily.com/721844d81a2674aaafe28cc93fa85dbee744a7d0e
  Docker can run on Windows in one of two ways: WSL or Hyper-V mode. WSL is recommended for most users, so you may need to [enable it](https://some-skills.techidaily.com/new-unveiling-paid-content-in-product-analysis/) before installing Docker.
 
  It's also recommended to [install the Windows Terminal app](https://youtube-tips.techidaily.com/ed-mastering-youtube-streaming-a-guide-for-gamers-for-2024/), as it provides a convenient interface for WSL, PowerShell, and the Windows command line.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Step 2: Download the Text Generation Web UI GitHub Repository
 
@@ -75,19 +82,6 @@ Brad Morton / How-To Geek
  Before you launch text-generation-web-ui-docker, you need to make sure it's configured for your PC hardware. Edit the file **docker-compose.yml** to specify the variant that matches your hardware: **default-nvidia** or **default-cpu** (if you don't have a compatible GPU).
 
 ![Configuring the docker image variant in docker-compose.yml.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/variant.png) 
-
-<!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Brad Morton / How-To Geek
 
@@ -109,24 +103,31 @@ docker compose up -d
 
 ![The command for bringing up a Docker container.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/up.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Brad Morton / How-To Geek
 
  If you haven't run this command before and the application needs to be downloaded (pulled), you might need to go and make a cup of tea, as it could take a while. Once the command has completed running successfully, you'll see that the text-generation-web-ui-docker Docker container has been created and started.
 
 ![Windows terminal showing the status of a newly created container.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/created.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Brad Morton / How-To Geek
 
  The running container will also appear in Docker Desktop, where you can stop, start, and manage it.
 
 ![Docker Desktop showing a running container.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/docker.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Brad Morton / How-To Geek
 
@@ -140,18 +141,18 @@ Brad Morton / How-To Geek
 
 ![Downloading a model for use in text-generation-web-ui.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/win-gpt-6.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Brad Morton / How-To Geek
 
  Click the Refresh icon in the top-left, then select the newly downloaded openai-community/gpt2 from the adjacent Model drop-down menu. Finally, click the "Load" button, and wait a few minutes until you see a success message.
 
 ![Loading a model in text-generation-web-ui.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/win-gpt-7.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Brad Morton / How-To Geek
 
@@ -164,16 +165,10 @@ Brad Morton / How-To Geek
 ![A slightly unhinged response from an AI model that needs configuration.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/win-gpt-8.png) 
 
 <!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Brad Morton / How-To Geek
@@ -197,5 +192,22 @@ _Hoo boy, while it got the right answer, this AI chatbot needs a bit of fine-tun
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/updated-expert-guide-to-enhancing-video-subtitles-through-web-apps-for-2024/"><u>[Updated] Expert Guide to Enhancing Video Subtitles Through Web Apps for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-your-step-by-step-roadmap-for-instagrams-latest-feature-sharing-gifs/"><u>[Updated] In 2024, Your Step-by-Step Roadmap for Instagram's Latest Feature - Sharing GIFs</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-unraveling-the-mystery-of-selecting-a-virtual-reality-device-tethered-connections-vs-mobility-freedom-for-2024/"><u>[Updated] Unraveling the Mystery of Selecting a Virtual Reality Device Tethered Connections vs Mobility Freedom for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/beyond-the-basics-a-compreran-comparative-analysis/"><u>Beyond the Basics A Compreran Comparative Analysis</u></a></li>
+<li><a href="https://win-forum.techidaily.com/harnessing-the-influence-of-top-social-network-sites-facebook-twitter-instagram-youtube/"><u>Harnessing the Influence of Top Social Network Sites: Facebook, Twitter, Instagram, YouTube</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-get-to-know-the-pros-of-engaging-with-asmr/"><u>In 2024, Get to Know the Pros of Engaging with ASMR</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-giants-of-social-media-exploring-facebook-twitter-instagram-and-youtube/"><u>Navigating the Giants of Social Media - Exploring Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-giants-of-social-media-facebook-twitter-instagram-and-youtube/"><u>Navigating the Giants of Social Media: Facebook, Twitter, Instagram & Youtube</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/seamless-content-consumption-configuring-pip-for-youtube-on-iphone-for-2024/"><u>Seamless Content Consumption Configuring PIP for YouTube on iPhone for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/social-media-essentials-mastering-communication-across-facebook-twitter-instagram-and-youtube/"><u>Social Media Essentials: Mastering Communication Across Facebook, Twitter, Instagram & Youtube</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/the-hidden-face-technique-for-anonymous-content-sharing/"><u>The Hidden Face Technique for Anonymous Content Sharing</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-four-platforms-in-digital-engagement-a-look-at-facebook-twitter-instagram-and-youtube/"><u>Top Four Platforms in Digital Engagement: A Look at Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-social-media-networks-facebook-twitter-and-instagram-vs-youtube/"><u>Top Social Media Networks: Facebook, Twitter & Instagram vs YouTube</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/understanding-sudden-account-lockdowns-on-copyright-violations-for-2024/"><u>Understanding Sudden Account Lockdowns on Copyright Violations for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/updating-your-pcs-hardware-a-step-by-step-guide-for-windows-11-driver-updates/"><u>Updating Your PC's Hardware: A Step-by-Step Guide for Windows 11 Driver Updates</u></a></li>
+</ul></div>
 

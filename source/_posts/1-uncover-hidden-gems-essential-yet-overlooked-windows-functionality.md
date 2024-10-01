@@ -1,7 +1,7 @@
 ---
 title: "1. Uncover Hidden Gems: Essential Yet Overlooked Windows Functionality"
-date: 2024-09-18T16:56:41.232Z
-updated: 2024-09-21T16:08:52.719Z
+date: 2024-09-28T17:31:09.184Z
+updated: 2024-10-01T17:12:36.700Z
 tags:
   - windows
 categories:
@@ -34,6 +34,13 @@ thumbnail: https://thmb.techidaily.com/7031118575fc7c4b871e9bc0318e22904e8a5da64
 
 ![sound button](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/sound-button.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In the next window, scroll down to find the volume mixer.
 
 ![Accessing volume mixer from the sound menu in the system tray.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/accessing-volume-mixer-from-the-sound-menu-in-the-system-tray.jpg) 
@@ -43,6 +50,13 @@ thumbnail: https://thmb.techidaily.com/7031118575fc7c4b871e9bc0318e22904e8a5da64
  To directly open the Volume Mixer from the Settings app, open Settings, navigate to System > Sound, and click on "Volume Mixer." In the Volume Mixer, you'll see sliders to adjust the volume of each open app that produces sound. You can move these sliders right or left to adjust the volume or mute individual apps by clicking on the speaker icon beside each slider.
 
 ![Adjusting the volume and muting an app in Volume Mixer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/2-adjusting-the-volume-and-muting-an-app-in-volume-mixer.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Minimize the Blue Light Emission
 
@@ -54,6 +68,13 @@ thumbnail: https://thmb.techidaily.com/7031118575fc7c4b871e9bc0318e22904e8a5da64
 
 ![Changing the night light feature settings in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/3-changing-the-night-light-feature-settings-in-the-windows-settings-app.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Automatically Lock Your Screen When You Move Away
 
  If you work in an office environment and often leave your laptop unattended, you’ll love the [Dynamic Lock feature](https://extra-lessons.techidaily.com/a-critical-look-at-huawei-p10-for-photography-enthusiasts-for-2024/). This feature pairs your smartphone with your laptop, and whenever your paired smartphone moves out of range, the laptop notices and locks your screen in less than 30 seconds.
@@ -62,22 +83,22 @@ thumbnail: https://thmb.techidaily.com/7031118575fc7c4b871e9bc0318e22904e8a5da64
 
 ![Pair a device via Bluetooth in the Windows settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/4-pair-a-device-via-bluetooth-in-the-windows-settings-app.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once paired, select the “Accounts” tab on the left, go to “Sign-In Options,” scroll down and expand the “Dynamic Lock” section, and check the box next to “Allow Windows to lock your device automatically when you're away.” Now, whenever your smartphone moves out of range (typically 30 feet), your laptop will automatically lock.
 
 ![Setting up the dynamic lock feature in the Windows Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/5-setting-up-the-dynamic-lock-feature-in-the-windows-settings.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Automate Tasks With Task Scheduler
@@ -90,16 +111,16 @@ thumbnail: https://thmb.techidaily.com/7031118575fc7c4b871e9bc0318e22904e8a5da64
 
 ![Setting up a trigger for a task in Task Scheduler.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/6-setting-up-a-trigger-for-a-task-in-task-scheduler.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After that, navigate to the “Actions” tab, click “New,” define an action such as “Start a Program,” and add any additional arguments for advanced tasks. Then, go to the “Conditions” tab, and define conditions for when the task shouldn’t run. Once the task is properly configured, click “OK.”
 
 ![Defining conditions for a task in Task Scheduler.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/7-defining-conditions-for-a-task-in-task-scheduler.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Share Content Between Two Windows PCs
 
@@ -121,13 +142,6 @@ thumbnail: https://thmb.techidaily.com/7031118575fc7c4b871e9bc0318e22904e8a5da64
 
 ![Recording a screen with the Game Bar in Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/9-recording-a-screen-with-the-game-bar-in-windows.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The downside is that you can't annotate screenshots and videos, crop screenshots, clip recordings, or screen record in File Explorer and on the desktop.
 
 ---
@@ -147,5 +161,21 @@ thumbnail: https://thmb.techidaily.com/7031118575fc7c4b871e9bc0318e22904e8a5da64
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-explore-innovative-ways-for-sound-capture-in-modern-windows-11-pcs/"><u>[New] 2024 Approved Explore Innovative Ways for Sound Capture in Modern Windows 11 PCs</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-continuous-streams-perfect-loops-of-youtube-videos-for-tvs-for-2024/"><u>[Updated] Continuous Streams Perfect Loops of YouTube Videos for TVs for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-from-celluloid-to-screen-adapting-your-vids-for-ig/"><u>[Updated] From Celluloid to Screen Adapting Your Vids for IG</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-video-tales-in-reverse-perfecting-instagram-posts/"><u>[Updated] Video Tales in Reverse Perfecting Instagram Posts</u></a></li>
+<li><a href="https://win-forum.techidaily.com/accelerate-your-computers-launch-sequence-with-these-windows-11-tricks/"><u>Accelerate Your Computer’s Launch Sequence with These Windows 11 Tricks</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/convertissez-vos-livres-audio-m4b-en-formats-mp3-pour-une-meilleure-compatibilite-conversion-gratuite-par-movavi-online/"><u>Convertissez Vos Livres Audio M4B en Formats MP3 Pour Une Meilleure Compatibilité - Conversion Gratuite Par Movavi Online.</u></a></li>
+<li><a href="https://win-forum.techidaily.com/detailed-instructions-on-configuring-and-running-revo-permission-manager-in-revo-uninstaller-suite/"><u>Detailed Instructions on Configuring & Running Revo Permission Manager in Revo Uninstaller Suite</u></a></li>
+<li><a href="https://win-forum.techidaily.com/endless-crash-woes-discover-these-7-key-strategies-to-keep-your-windows-explorer-running-smoothly/"><u>Endless Crash Woes? Discover These 7 Key Strategies to Keep Your Windows Explorer Running Smoothly</u></a></li>
+<li><a href="https://win-forum.techidaily.com/guide-successful-windows-11-setup-on-non-compatible-processors-using-revouninstaller/"><u>Guide: Successful Windows 11 Setup on Non-Compatible Processors Using Revouninstaller</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-poco-f5-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Poco F5 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Lava Yuva 2 | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/step-by-step-guide-to-youtube-sound-placement-for-2024/"><u>Step-by-Step Guide to Youtube Sound Placement for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-four-giants-of-the-social-networking-world-facebook-twitter-instagram-and-youtube/"><u>Top Four Giants of the Social Networking World - Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/ultimate-troubleshooting-technique-clear-computer-cache-on-windows-10-systems/"><u>Ultimate Troubleshooting Technique: Clear Computer Cache on Windows 10 Systems</u></a></li>
+</ul></div>
 

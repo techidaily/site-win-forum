@@ -1,7 +1,7 @@
 ---
 title: "Mastering Passkey Setup: A Comprehensive Guide for Windows 11 Users"
-date: 2024-09-14T17:28:35.961Z
-updated: 2024-09-21T16:21:18.175Z
+date: 2024-09-26T16:38:49.834Z
+updated: 2024-10-01T16:31:55.381Z
 tags:
   - windows
 categories:
@@ -19,6 +19,13 @@ thumbnail: https://thmb.techidaily.com/97308f979ef9767cdb33e037debbc9d1c528c201f
 * [How to Use a Passkey to Sign In to a Site or App](https://facebook-clips.techidaily.com/2024-approved-bring-your-favorite-tunes-to-the-social-network-iphoneandroid/)
 * [How to View and Delete Passkeys on Windows 11](https://instagram-videos.techidaily.com/new-a-step-by-step-tutorial-for-capturing-excellent-igtv-footage/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * To create a passkey, access the account security page of a passkey-supported site or app, use the passkey creation option, and save the passkey to your PC.
@@ -34,13 +41,6 @@ thumbnail: https://thmb.techidaily.com/97308f979ef9767cdb33e037debbc9d1c528c201f
  For example, with Windows 11, you can use the [Windows Hello](https://extra-tips.techidaily.com/updated-capturing-brilliance-essential-angles-in-iphone-photography/) functionality to sign in to various services. This means you can use your PIN, [facial recognition](https://win-amazing.techidaily.com/install-or-enhance-your-hp-laserjet-m5100m6m7-printer-with-recent-driver-versions/), or fingerprint scanning to log in to multiple services and apps.
 
  Passkeys have multiple advantages over passwords. The main one is that, unlike passwords, it is borderline impossible to steal passkeys. Another advantage is that passkeys are almost completely impervious to phishing. It is relatively easy to trick a human into entering a password on a fake website, but passkeys aren't so easily fooled. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  What Platforms Support Passkeys?
 
@@ -58,16 +58,10 @@ thumbnail: https://thmb.techidaily.com/97308f979ef9767cdb33e037debbc9d1c528c201f
  You can [find a list of passkey-supported platforms on the Passkeys site](https://www.passkeys.io/who-supports-passkeys).
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Create and Save a Passkey to Your Windows 11 PC
@@ -90,25 +84,18 @@ thumbnail: https://thmb.techidaily.com/97308f979ef9767cdb33e037debbc9d1c528c201f
 
 ![A 'Windows Security' prompt for creating a passkey.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/3-windows-11-passkey-authentication1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You’ll see a "Passkey Saved" message confirming a passkey for your Google account was created and saved to your PC. Close the window by selecting "OK."
 
 !['OK' highlighted in the 'Windows Security' prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/4-google-passkey-created1.jpg) 
 
- And that’s it. You’ve successfully created a replacement for your Google account password.
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ And that’s it. You’ve successfully created a replacement for your Google account password.
 
 ##  How to Use a Passkey to Sign In to a Site or App
 
@@ -134,6 +121,13 @@ thumbnail: https://thmb.techidaily.com/97308f979ef9767cdb33e037debbc9d1c528c201f
 
 !['Continue' highlighted on Google's passkey usage page.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/9-google-continue-passkey1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In the "Windows Security" prompt, select the PIN, facial recognition, or fingerprint scanning authentication method.
 
 ![A 'Windows Security' prompt for signing in to Google with a passkey.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/10-verify-identity1.jpg) 
@@ -149,10 +143,10 @@ thumbnail: https://thmb.techidaily.com/97308f979ef9767cdb33e037debbc9d1c528c201f
 !['Accounts' and 'Passkey Settings' highlighted in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/11-windows-11-passkey-settings.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  On the "Passkeys" page, you’ll find a list of saved passkeys. To retrieve a specific passkey, use the search box at the top.
@@ -163,9 +157,29 @@ thumbnail: https://thmb.techidaily.com/97308f979ef9767cdb33e037debbc9d1c528c201f
 
 !['Delete Passkey' highlighted for a passkey in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/13-delete-passkey-windows-11.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In the open prompt, confirm your action by selecting "Delete."
 
 !['Delete' highlighted in the passkey removal prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/14-passkey-deletion-prompt-windows-11.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Windows 11 has removed the chosen passkey from the database. You can’t log in to that site or app using your PC’s authentication method any more (but you can always re-create any required passkeys).
 
@@ -186,5 +200,23 @@ thumbnail: https://thmb.techidaily.com/97308f979ef9767cdb33e037debbc9d1c528c201f
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-propel-your-youtube-presence-with-google-analytics-skills/"><u>[New] In 2024, Propel Your YouTube Presence with Google Analytics Skills</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-art-of-zooming-in-a-videoleap-approach/"><u>[Updated] The Art of Zooming In A Videoleap Approach</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlock-youtubes-potential-with-expert-picture-posting-techniques/"><u>2024 Approved Unlock YouTube's Potential with Expert Picture Posting Techniques</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/crafting-a-standout-solo-podcast-experience/"><u>Crafting a Standout Solo Podcast Experience</u></a></li>
+<li><a href="https://win-forum.techidaily.com/essential-social-networking-sites-navigating-facebook-twitter-instagram-youtube/"><u>Essential Social Networking Sites: Navigating Facebook, Twitter, Instagram, Youtube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-major-online-interaction-channels-facebook-twitter-instagram-and-youtube/"><u>Exploring Major Online Interaction Channels: Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-iphone-se-2022-system-issues-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iPhone SE (2022) System Issues? | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-elevating-speech-synthesis-converting-ssaxml-to-professional-srts/"><u>In 2024, Elevating Speech Synthesis Converting SSA/XML to Professional SRTs</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/mastering-ae-integrating-custom-typefaces/"><u>Mastering AE Integrating Custom Typefaces</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-major-networking-sites-insights-into-facebook-twitter-instagram-and-youtube/"><u>Navigating Major Networking Sites: Insights Into Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/new-beginnings-in-windows-11-heres-your-guide-to-a-full-system-restore/"><u>New Beginnings in Windows 11? Here's Your Guide to a Full System Restore</u></a></li>
+<li><a href="https://win-forum.techidaily.com/securely-grant-administrative-access-to-your-favorite-programs-on-windows-11/"><u>Securely Grant Administrative Access to Your Favorite Programs on Windows 11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/solve-internet-issues-with-ease-flushing-the-dns-on-your-windows-pcs/"><u>Solve Internet Issues with Ease: Flushing the DNS on Your Windows PCs</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-insights-expert-guides-on-hardware-and-computing/"><u>Tom's Tech Insights: Expert Guides on Hardware and Computing</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-10-applicazioni-di-montaggio-video-per-computer-valutazione-e-confronto/"><u>Top 10 Applicazioni Di Montaggio Video per Computer: Valutazione E Confronto</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-four-engaging-social-networks-discover-the-power-of-facebook-twitter-instagram-and-youtube/"><u>Top Four Engaging Social Networks - Discover the Power of Facebook, Twitter, Instagram, and YouTube</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Social Media Networks: Facebook, Twitter, Instagram & YouTube Explained"
-date: 2024-09-09T16:38:07.527Z
-updated: 2024-09-16T16:10:24.452Z
+date: 2024-09-29T16:18:29.134Z
+updated: 2024-10-01T17:47:40.786Z
 tags:
   - win11
   - win10
@@ -34,12 +34,26 @@ thumbnail: https://thmb.techidaily.com/3186e4df3cd85f5548d507c683f3aba596cb59805
 
  The BIOS includes instructions on how to load basic computer hardware. BIOS tests your system to verify the computer meets requirements to boot up properly. If the computer does not pass the test, you hear a combination of beeps indicating what is malfunctioning in the computer.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What are the four main functions of a PC BIOS?
 
 * **POST** – BIOS performs a test on your computer hardware and make sure no errors exist before loading the operating system.
 * **Bootstrap Loader** – This function locates the operating system. If a capable operating system is located, the BIOS will pass control to it.
 * **BIOS drivers** – Low-level drivers that give the computer basic operational control over your computer’s hardware.
 * **BIOS setup or CMOS setup** – Configuration program that allows you to configure hardware settings including system settings, such as date, time, and computer passwords.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How does BIOS work?
 
@@ -48,10 +62,10 @@ thumbnail: https://thmb.techidaily.com/3186e4df3cd85f5548d507c683f3aba596cb59805
  When you first start your computer BIOS checks if your system is operational. If everything is working on your system BIOS load the OS into the computer’s RAM (random access memory) from your hard disk.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135476/26400" target="_top" id="2135476">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135476/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Accessing BIOS
@@ -63,19 +77,6 @@ thumbnail: https://thmb.techidaily.com/3186e4df3cd85f5548d507c683f3aba596cb59805
 3. Upon seeing the prompt, quickly press the key specified.
 
  Once in BIOS Setup Utility, users can change hardware settings, manage memory settings, change the boot order or boot device, and reset the BIOS password, among other configuration tasks.
-
-<!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## BIOS security
 
@@ -92,10 +93,10 @@ thumbnail: https://thmb.techidaily.com/3186e4df3cd85f5548d507c683f3aba596cb59805
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## We can help you every time when…
@@ -120,5 +121,23 @@ thumbnail: https://thmb.techidaily.com/3186e4df3cd85f5548d507c683f3aba596cb59805
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-customize-and-upload-longer-youtube-content/"><u>[New] 2024 Approved Customize and Upload Longer YouTube Content</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-stellarworkspace-unified-elite-full-hd-screens/"><u>[New] In 2024, StellarWorkspace Unified, Elite Full HD Screens</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-navigating-multiple-perspectives-with-fb-lives-split-view-functionality/"><u>[Updated] 2024 Approved Navigating Multiple Perspectives with FB Live's Split View Functionality</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/5-most-effective-methods-to-unlock-iphone-14-pro-in-lost-mode-drfone-by-drfone-ios/"><u>5 Most Effective Methods to Unlock iPhone 14 Pro in Lost Mode | Dr.fone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/1726029676404-mp3-5/"><u>最新無料 MP3 への変換! オススメ動画変換フリーツールベスト5</u></a></li>
+<li><a href="https://win-forum.techidaily.com/conversione-libera-di-file-3gp-su-internet-al-formato-avif-movavi-guide-e-tutorial/"><u>Conversione Libera Di File 3GP Su Internet Al Formato Avif-Movavi Guide E Tutorial</u></a></li>
+<li><a href="https://win-forum.techidaily.com/convertir-facilement-et-gratuit-de-swf-vers-avi-en-ligne-avec-movavi-des-outils-professionnels-pour-la-video/"><u>Convertir Facilement Et Gratuit De SWF Vers AVI en Ligne Avec Movavi - Des Outils Professionnels Pour La Vidéo</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/d-links-pl-2000-powerline-solution-evaluation-user-friendly-setup-lightning-fast-data-sharing/"><u>D-Link's PL 2000 Powerline Solution Evaluation - User-Friendly Setup, Lightning-Fast Data Sharing!</u></a></li>
+<li><a href="https://win-forum.techidaily.com/grabar-audios-con-windows-11-and-mac-de-forma-gratuita/"><u>Grabar Audios Con Windows 11 & Mac De Forma Gratuita</u></a></li>
+<li><a href="https://win-forum.techidaily.com/gratis-3gp-in-mov-uppleggen-professioneel-online-konverteren-met-movavi/"><u>Gratis 3GP in MOV Uppleggen - Professioneel Online Konverteren Met Movavi</u></a></li>
+<li><a href="https://win-forum.techidaily.com/gratuito-los-mejores-reproductores-multimedia-mp4-compatibles-con-windows-11-y-mac-listados-en-orden-descendente/"><u>Gratuito: Los Mejores Reproductores Multimedia MP4 Compatibles Con Windows 11 Y Mac, Listados en Orden Descendente</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-honor-magic-6-pro-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Honor Magic 6 Pro to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/movavi-trasforma-i-tuoi-file-mpe-in-mp3-gratuitamente-online/"><u>Movavi: Trasforma I Tuoi File MPE in MP3 Gratuitamente Online</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-social-evolution-how-platforms-are-shaping-society/"><u>The Social Evolution: How Platforms Are Shaping Society</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-ultimate-list-2024s-leading-free-mov-video-editors-completely-cost-free/"><u>The Ultimate List: 2024'S Leading Free MOV Video Editors (Completely Cost-Free)</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/urban-elegance-best-6-modern-mc-mansions-for-2024/"><u>Urban Elegance Best 6 Modern MC Mansions for 2024</u></a></li>
+</ul></div>
 

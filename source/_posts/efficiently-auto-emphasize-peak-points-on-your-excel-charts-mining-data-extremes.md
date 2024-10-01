@@ -1,7 +1,7 @@
 ---
 title: Efficiently Auto-Emphasize Peak Points on Your Excel Charts - Mining Data Extremes
-date: 2024-09-18T16:08:50.530Z
-updated: 2024-09-21T17:24:58.355Z
+date: 2024-09-30T16:39:24.814Z
+updated: 2024-10-01T17:18:42.805Z
 tags:
   - excel
 categories:
@@ -37,6 +37,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![An Excel table with the Format As Table drop-down opened.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/format-table.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Formatting your table is a crucial step, as it means that your chart will pick up any additional data you might add later on.
 
 ##  Step 2: Create Your Chart
@@ -44,6 +51,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Now, you can create the chart for your table. Select all the data in your table (including the header row). Then, in the Insert tab on the ribbon, head to the Charts group, and open the chart drop-down selector.
 
 ![An Excel worksheet with data in a table selected, and the chart drop-down selector opened.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/create-chart-from-data.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  For our data, we've chosen a 2D clustered bar chart.
 
@@ -60,13 +74,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  You will see a new column appear, which you will need to name according to what data you want to highlight in your chart. In our example, we want to highlight the three largest values.
 
 ![An Excel table with three columns and an arrow pointing to the header name (Largest 3) in the third column.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/extra-column.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Step 4: Extract Your Parameters
 
@@ -121,6 +128,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![An Excel sheet containing a table with the largest three values extracted into an additional column.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/largest-3-values-in-data.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Step 5: Add this Data to the Chart
 
  Now that you've applied your new parameters to your table, you're ready to add this to your chart.
@@ -128,13 +142,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Select the chart, open "Chart Design" on the ribbon, and click "Select Data."
 
 ![An Excel sheet with a chart selected and 'Select Data' highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/select-data.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  In the dialog box that opens, click "Add" under Legend Entries to add new data to your chart.
 
@@ -147,10 +154,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![The Edit Series dialog box in Excel with Series Values labelled as '1' and Series Name labelled as '2'.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/edit-series.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You will then see the outcome in your graph, with an extra bar appearing next to each of the three largest values.
@@ -168,10 +175,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![An Excel chart with the Format Chart Area pane open and a drop-down arrow highlighted. The series name is also highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/format-data-series.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Click the "Series Options" icon, and change "Series Overlap" to 100% by clicking and dragging the slider to the right.
@@ -179,15 +186,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![An Excel chart with the Series Options highlighted and opened, and the Series Overlap set to 100%.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/series-overlap.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You will now see the final outcome—your chart highlights the max three values in your Excel chart!
 
  You can format the chart to suit your needs, including giving it a title or changing the colors. Right-click anywhere on the chart and choose "Format Chart Area" or "Format Plot Area," or left-click the very edge of the chart outline and click "+."
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Step 7: Hide the Extra Table Column (Optional)
 
@@ -206,6 +220,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Finally, right-click the column you want to hide (in our case, we'll right-click the column C header), and click "Hide."
 
 ![Column C selected with a right-click, and 'Hide" highlighted in the drop-down options.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/hide-extra-column.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You will then see your table appear as it did when you first formatted it, and the chart maintains the additional color feature you added.
 
@@ -234,5 +255,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-memories-in-motion-a-step-by-step-guide-for-digital-conversion-for-2024/"><u>[New] Memories in Motion A Step-by-Step Guide for Digital Conversion for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/loggers-money-saving-camera-recommendations/"><u>[New] Vloggers' Money-Saving Camera Recommendations</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-best-zero-cost-image-booster-online-plus-mobile-app/"><u>[Updated] Best Zero-Cost Image Booster Online + Mobile App</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-a-step-by-step-approach-to-typography-addition-in-ae/"><u>[Updated] In 2024, A Step-by-Step Approach to Typography Addition in AE</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-transform-your-devices-tone-swiftly-with-these-leading-chrome-apps/"><u>[Updated] Transform Your Device's Tone Swiftly With These Leading Chrome Apps</u></a></li>
+<li><a href="https://win-forum.techidaily.com/complete-guide-to-forcibly-deleting-files-in-windows-11-with-revo-uninstaller/"><u>Complete Guide to Forcibly Deleting Files in Windows 11 with Revo Uninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/fix-your-crashing-file-explorer-7-essential-troubleshooting-steps/"><u>Fix Your Crashing File Explorer: 7 Essential Troubleshooting Steps</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unravel-the-mystery-of-scouring-exceptional-photos-on-pexels/"><u>In 2024, Unravel the Mystery of Scouring Exceptional Photos on Pexels</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-world-of-social-media-with-facebook-twitter-instagram-and-youtube/"><u>Navigating the World of Social Media with Facebook, Twitter, Instagram, and Youtube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/revo-uninstaller-pro-5-the-ultimate-software-removal-solution/"><u>Revo Uninstaller Pro 5: The Ultimate Software Removal Solution</u></a></li>
+<li><a href="https://techtrends.techidaily.com/revolutionize-your-designs-top-er-reviewed-by-experts-in-their-fields/"><u>Revolutionize Your Designs: Top Er Reviewed by Experts in Their Fields.</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-disabling-and-uninstalling-browser-add-ons-in-windows-11/"><u>Step-by-Step Guide: Disabling & Uninstalling Browser Add-Ons in Windows 11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-big-four-in-digital-sphere-exploring-facebook-twitter-instagram-and-youtube/"><u>The Big Four in Digital Sphere: Exploring Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-big-four-in-social-sphere-connecting-with-facebook-twitter-instagram-and-youtube/"><u>The Big Four in Social Sphere: Connecting with Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/unlocking-hidden-gems-discover-special-content-with-flipbuilder/"><u>Unlocking Hidden Gems: Discover Special Content with FlipBuilder</u></a></li>
+</ul></div>
 

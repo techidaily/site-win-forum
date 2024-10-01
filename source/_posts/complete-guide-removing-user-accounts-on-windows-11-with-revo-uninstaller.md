@@ -1,7 +1,7 @@
 ---
 title: "Complete Guide: Removing User Accounts on Windows 11 with Revo Uninstaller"
-date: 2024-09-11T16:43:26.873Z
-updated: 2024-09-16T16:08:30.252Z
+date: 2024-09-28T17:15:55.289Z
+updated: 2024-10-01T16:29:10.898Z
 tags:
   - win11
   - win10
@@ -57,16 +57,23 @@ To clear your Windows Explorer history do the following:
 ![Windows PowerShell](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-windows-explorer/Method2-step1.png)
 2. When the PowerShell windows opens type`sfc /scannow` and press Enter  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![scannow command](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-windows-explorer/Method2-step2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  By performing this the SFC tool will scan your computer for file errors. If it detects errors Windows will repair and replace the files, which should fix your File Explorer crashing issues.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 3: Update your Windows OS
 
@@ -78,6 +85,13 @@ To check for new system updates:
 2. Navigate to**Update&Security** and click on**Windows Updates**  
 ![update and security](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-windows-explorer/Method3-step2.png)
 3. If you see that there are many pending updates press**Install now** . If there aren’t any you can manually check for new updates by pressing Check for updates  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![windows update](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-windows-explorer/Method3-step3.jpg)
 
@@ -100,10 +114,10 @@ You will ask – but what are 3rd-party Explorer extensions?
 3. Select all the extensions after the scan is complete, right-click and press**Disable Selected items**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115944/19272" target="_top" id="2115944">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115944" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 5: Separate File Explorer Processes
@@ -131,8 +145,23 @@ You can perform a malware scan with Windows Security:
 1. Right-click the**Start Menu** and select**Run**  
 ![run](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-windows-explorer/Method6-step1.png)
 2. Type`windowsdefender` and press**OK**  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![windowsdefender command](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-windows-explorer/Method6-step2.png)
 3. In the Windows Security windows press**Virus & threat protection** , and press **Scan options**  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **![virus and threat protection](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-windows-explorer/Method6-step3.png)**
 4. Select Microsoft Defender Offline scan and press**Scan Now**  
@@ -152,43 +181,30 @@ To do this follow the instructions below:
 ![run](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-windows-explorer/Method7-step1.png)
 2. In the Run box type`eventvwr` and press**OK** . This will launch the Event Viewer  
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![even view command](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-windows-explorer/Method7-step2.png)
 3. In the “**Event View** ” click on**Windows Logs -> Application** in the left-hand menu  
-
-<!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![windows logs](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-windows-explorer/Method7-step3.png)
 4. In the Application panel on the right, search for Event IDs with the value 1000\. Event ID 1000 usually points to an error with the Windows Explorer process  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120866/26400?prodsku=mars" target="_top" id="2120866">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120866/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![event properties](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-windows-explorer/Method7-step4.png)
 5. If you find such errors, select it and check the General tab information. This will give you a bit of information on what the issue is and with further investigation and troubleshooting you will be able to fix it
 
- For example, if a third-party app is the reason behind the Windows Explorer crash, it will be listed here and you will be able to remove it to solve the problem.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115942/19272" target="_top" id="2115942">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115942" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115942/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ For example, if a third-party app is the reason behind the Windows Explorer crash, it will be listed here and you will be able to remove it to solve the problem.
 
 ## Conclusion
 
@@ -218,5 +234,24 @@ To do this follow the instructions below:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-seamless-easy-to-use-web-tools-for-gif-to-video-transformation-for-2024/"><u>[New] Seamless, Easy-to-Use Web Tools for GIF to Video Transformation for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/2024-guide-identifying-and-dodging-phishing-scams-in-emails/"><u>2024 Guide: Identifying and Dodging Phishing Scams in Emails</u></a></li>
+<li><a href="https://win-forum.techidaily.com/wavmpg-movavi/"><u>免費在线WAV至MPG转换 - 利用Movavi提�지取得效果更好</u></a></li>
+<li><a href="https://win-forum.techidaily.com/1726223858986-cr2jpeg-movavi/"><u>移動畫質高效且免費的CR2到JPEG格式在線轉換工團 - Movavi</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-fixes-for-accessing-windows-11-safe-mode-when-f8-shortcut-doesnt-work-as-expected/"><u>Comprehensive Fixes for Accessing Windows 11 Safe Mode When F8 Shortcut Doesn't Work as Expected</u></a></li>
+<li><a href="https://win-forum.techidaily.com/comprehensive-quicktime-video-capture-tutorial-record-screens-and-sound-seamlessly/"><u>Comprehensive QuickTime Video Capture Tutorial: Record Screens & Sound Seamlessly</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fix-the-persistent-issues-prevent-dreamlight-valley-game-crashes-on-pc/"><u>Fix the Persistent Issues: Prevent Dreamlight Valley Game Crashes on PC</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-12-pro-max-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 12 Pro Max without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-windows-movie-maker-your-gateway-into-the-world-of-digital-cartoons/"><u>In 2024, Windows Movie Maker Your Gateway Into the World of Digital Cartoons</u></a></li>
+<li><a href="https://win-forum.techidaily.com/les-9-meilleures-solutions-logiciel-danimation-en-2d-selon-google/"><u>Les 9 Meilleures Solutions Logiciel D'Animation en 2D Selon Google</u></a></li>
+<li><a href="https://win-forum.techidaily.com/online-gif-to-bmp-conversion-tool-enhance-images-at-no-cost-with-easyconv/"><u>Online Gif-to-Bmp Conversion Tool - Enhance Images at No Cost with EasyConv!</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/the-finest-open-world-games-to-engage-with-for-2024/"><u>The Finest Open World Games to Engage With for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723006344233-tired-of-titanfall-2-crashes-discover-easy-ways-to-keep-your-game-running-smoothly/"><u>Tired of Titanfall 2 Crashes? Discover Easy Ways to Keep Your Game Running Smoothly!</u></a></li>
+<li><a href="https://win-forum.techidaily.com/transfert-de-fichier-mmf-a-wav-sur-internet-convertissez-gratuitement-avec-des-tutoriels-facile-dacces/"><u>Transfert De Fichier MMF À WAV Sur Internet - Convertissez Gratuitement Avec Des Tutoriels Facile D'accès</u></a></li>
+<li><a href="https://win-forum.techidaily.com/transforma-y-mejora-la-calidad-de-tu-video-conversion-gratuita-de-flv-a-flac-por-movavi/"><u>Transforma Y Mejora La Calidad De Tu Vídeo: Conversión Gratuita De FLV a FLAC Por Movavi</u></a></li>
+<li><a href="https://win-forum.techidaily.com/ultimate-how-to-for-obs-screen-recorders-a-step-by-step-movavi-guide-to-flawless-screenshots-and-streams/"><u>Ultimate How-To for OBS Screen Recorders: A Step-by-Step Movavi Guide to Flawless Screenshots and Streams</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-elevate-logic-pro-x-discover-the-most-valuable-free-and-paid-plugins-for-your-studio/"><u>Updated In 2024, Elevate Logic Pro X Discover the Most Valuable Free and Paid Plugins for Your Studio</u></a></li>
+</ul></div>
 

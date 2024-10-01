@@ -1,7 +1,7 @@
 ---
 title: "Effortless Solutions for Fixing Broken Excel Workbooks: A Beginner's Guide"
-date: 2024-09-19T17:30:19.222Z
-updated: 2024-09-21T16:47:31.708Z
+date: 2024-09-24T16:57:57.188Z
+updated: 2024-10-01T17:09:30.509Z
 tags:
   - excel
 categories:
@@ -19,6 +19,13 @@ thumbnail: https://thmb.techidaily.com/2e98346ae0ee2e0559c5260d992a7113232d0df75
 * [Edit the Corrupt Excel File Security Settings](https://hardware-tips.techidaily.com/toms-tech-hub-in-depth-hardware-reviews-and-insights/)
 * [Launch Excel in Safe Mode](https://article-files.techidaily.com/updated-how-to-optimize-your-presence-on-spotify-ads-for-2024/)
 * [What About Online Repair Tools?](https://network-issues.techidaily.com/system-error-due-to-nvidia-now-resolved/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -38,6 +45,13 @@ thumbnail: https://thmb.techidaily.com/2e98346ae0ee2e0559c5260d992a7113232d0df75
 
 ![Option button in Microsoft Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/option-button-in-microsoft-excel.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In the Excel Options window, select "Trust Center" from the left sidebar, and then choose "Trust Center Settings" on the right.
 
 ![Trust Center Settings option in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/trust-center-settings-option-in-excel.jpg) 
@@ -52,24 +66,18 @@ thumbnail: https://thmb.techidaily.com/2e98346ae0ee2e0559c5260d992a7113232d0df75
 
  After that, click "OK." You should now be able to open your Excel file if the Microsoft Excel Trust Center settings were causing the problem. Once you finish working on your Excel file, you must re-check all the boxes for continued security.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Use the Excel Built-in Repair Tool
 
  Microsoft Excel comes with a repair tool that you can use to fix your Excel file. To use this tool, open Microsoft Excel, click the "Open" option in the left sidebar, and then select "Browse" from the right pane.
 
 ![Browse option in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/browse-option-in-excel.jpg) 
-
-<!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Then, navigate to the location where the corrupt Excel file is located, select it, click the down arrow next to the "Open" button, and choose "Open and Repair."
 
@@ -93,9 +101,23 @@ thumbnail: https://thmb.techidaily.com/2e98346ae0ee2e0559c5260d992a7113232d0df75
 
 ![Rename option in the context menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/rename-option-in-the-context-menu.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If your Excel file contains macros, give it an ".xlsm" extension. And, if it's a normal Excel file, save it with an ".xlsx" extension. Click "Yes" to confirm your decision.
 
 ![Yes option to confirm decision.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/yes-option-to-confirm-decision.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Edit the Corrupt Excel File Security Settings
 
@@ -109,29 +131,29 @@ thumbnail: https://thmb.techidaily.com/2e98346ae0ee2e0559c5260d992a7113232d0df75
 
 ![Change button in the Advanced Security Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/change-button-in-the-advanced-security-settings.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In the "Enter the object name to select" box, type "Everyone" and click "Check Names."
 
 ![Check Names option in the Select User or Group window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/check-names-option-in-the-select-user-or-group-window.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Click "Apply" and then "OK.”
 
 ![Apply option in the Advanced Security Settings window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/apply-option-in-the-advanced-security-settings-window.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Finally, click "OK" in the “Security” tab of the Excel file.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Launch Excel in Safe Mode
 
@@ -145,27 +167,20 @@ thumbnail: https://thmb.techidaily.com/2e98346ae0ee2e0559c5260d992a7113232d0df75
 
 ![More Add-ins option in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/more-add-ins-option-in-excel.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Click "My Add-Ins."
 
 ![My Add-ins option in the Office Add-ins window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/my-add-ins-option-in-the-office-add-ins-window.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Right-click on each add-in one by one, and select "Remove." Then, try to open your Excel file.
 
 ![Remove option  to remove add-ins.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/remove-option-to-remove-add-ins.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Keep repeating this process of removing add-ins and opening your Excel file until you can open your Excel file without encountering the problem. Once you've identified the problematic add-in, you can then reinstall the other add-ins you removed, one by one.
 
@@ -188,5 +203,19 @@ thumbnail: https://thmb.techidaily.com/2e98346ae0ee2e0559c5260d992a7113232d0df75
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-crafting-captivating-openings-top-free-intra-makers-list/"><u>[New] In 2024, Crafting Captivating Openings Top Free Intra Makers List</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-streamline-screen-capture-on-google-chat-for-2024/"><u>[New] Streamline Screen Capture on Google Chat for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/movavi-mp43gp/"><u>網站自由下載Movavi MP4至3GP格式轉檔器 - 線上無限制</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/comprehensive-guide-fixing-critical-failure-with-dxgmms2sys-error-message-on-windows-11/"><u>Comprehensive Guide: Fixing Critical Failure with dxgmms2.sys Error Message on Windows 11</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-action-packed-snapshots-the-bold-polaroid-xs-100i-review/"><u>In 2024, Action-Packed Snapshots The Bold Polaroid XS 100I Review</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-popular-platforms-a-guide-to-facebook-twitter-instagram-and-youtube/"><u>Navigating Popular Platforms: A Guide to Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/overcoming-100-memory-usage-glitches-for-smooth-windows-10-operations/"><u>Overcoming 100% Memory Usage Glitches for Smooth Windows 10 Operations</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/question/"><u>Question:</u></a></li>
+<li><a href="https://win-forum.techidaily.com/social-media-giants-navigating-through-facebook-twitter-instagram-and-youtube-for-better-engagement/"><u>Social Media Giants - Navigating Through Facebook, Twitter, Instagram and YouTube for Better Engagement</u></a></li>
+<li><a href="https://win-forum.techidaily.com/social-media-titans-unveiling-the-power-of-facebook-twitter-instagram-and-youtube/"><u>Social Media Titans - Unveiling the Power of Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/techniques-for-swapping-your-images-tone-spectrum-for-2024/"><u>Techniques for Swapping Your Image's Tone Spectrum for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/windows-explorer-malfunction-try-these-7-effective-fixes/"><u>Windows Explorer Malfunction? Try These 7 Effective Fixes!</u></a></li>
+</ul></div>
 

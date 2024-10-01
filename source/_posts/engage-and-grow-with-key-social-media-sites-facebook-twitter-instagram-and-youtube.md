@@ -1,7 +1,7 @@
 ---
 title: "Engage and Grow with Key Social Media Sites: Facebook, Twitter, Instagram & YouTube"
-date: 2024-09-09T16:41:27.207Z
-updated: 2024-09-16T16:59:39.327Z
+date: 2024-09-27T17:02:11.262Z
+updated: 2024-10-01T17:49:15.716Z
 tags:
   - win11
   - win10
@@ -26,9 +26,23 @@ thumbnail: https://thmb.techidaily.com/c773b247e1e0895c35ac3965c0957524900af663f
 
  PowerShell is an amazing tool created by Microsoft so you can automate tasks. By knowing which PowerShell version you have access to, you will know what features you can use. There are more than 200 commands that can be used within PowerShell and it is a super flexible framework that will save you a bunch of time.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Can you use PowerShell only on your Windows computer?
 
  Since 2016 PowerShell was announced as open-source and cross-platform. You can use it on macOS and Linux too. Although it is native to Windows OS, and Microsoft only supports security updates and bug fixes, PowerShell Core is being worked on to clear these issues with other OS.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Why is it important to know which PowerShell version you are running?
 
@@ -51,31 +65,25 @@ thumbnail: https://thmb.techidaily.com/c773b247e1e0895c35ac3965c0957524900af663f
 
 ![PSVersion command](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/check-win10-powershell-version/powershell-version-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Another method that you can use to check what PowerShell version you are running is to use the command “Get-Host”
 
 ![Get Host command](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/check-win10-powershell-version/powershell-version-2.png)
 
 <!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The last method we will show you is by using the command “$host.version”. You will see the PowerShell version in a slightly different format. You will be able to see the Major and Minor release and the build number and revision.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How can I upgrade to a newer version of PowerShell?
 
@@ -86,13 +94,6 @@ thumbnail: https://thmb.techidaily.com/c773b247e1e0895c35ac3965c0957524900af663f
  Overall PowerShell can help you with automating some of the tasks that you are doing on regular basis on your PC. By knowing which version you are running and how to upgrade it you will be able to utilize it without any issues.
 
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## We can help you every time when…
 
@@ -116,5 +117,20 @@ thumbnail: https://thmb.techidaily.com/c773b247e1e0895c35ac3965c0957524900af663f
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-2023-access-exclusive-beats-for-free-fb-downloader/"><u>[New] 2023 Access Exclusive Beats for Free - FB Downloader</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-5-effective-ways-of-resizing-your-igtv-videos-for-2024/"><u>[Updated] 5 Effective Ways of Resizing Your IGTV Videos for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/charting-the-top-8-online-photo-hybrid-creator-for-2024/"><u>Charting the Top 8 Online Photo Hybrid Creator for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/effortless-registry-key-customization-how-to-use-revo-uninstaller-for-editing-and-deletion-tasks/"><u>Effortless Registry Key Customization: How to Use Revo Uninstaller for Editing and Deletion Tasks</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-from-oppo-find-x6-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Oppo Find X6 Devices</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-key-points-to-consider-when-opting-for-a-youtube-tv-subscription/"><u>In 2024, Key Points to Consider When Opting for a YouTube TV Subscription</u></a></li>
+<li><a href="https://win-forum.techidaily.com/installing-windows-13-on-incompatible-cpus-using-tricks-and-techniques-comprehensive-tutorial/"><u>Installing Windows 13 on Incompatible CPUs Using Tricks & Techniques - Comprehensive Tutorial</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/leading-spots-for-buying-smartphones-and-mobile-devices-near-you/"><u>Leading Spots for Buying Smartphones and Mobile Devices Near You</u></a></li>
+<li><a href="https://win-forum.techidaily.com/permanent-data-erasure-techniques-for-windows-11-users/"><u>Permanent Data Erasure Techniques for Windows 11 Users</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-ultimate-social-experience-exploring-the-power-of-facebook-twitter-instagram-and-youtube/"><u>The Ultimate Social Experience: Exploring the Power of Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-oppo-find-n3-flip-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Oppo Find N3 Flip without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/windows-10-driver-update-tutorial-keeping-your-system-smooth-and-fast/"><u>Windows 10 Driver Update Tutorial - Keeping Your System Smooth and Fast</u></a></li>
+<li><a href="https://win-forum.techidaily.com/windows-11-installation-hacks-for-unsupported-cpu-users/"><u>Windows 11 Installation Hacks for Unsupported CPU Users</u></a></li>
+</ul></div>
 

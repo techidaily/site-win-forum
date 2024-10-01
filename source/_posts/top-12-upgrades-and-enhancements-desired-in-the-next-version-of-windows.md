@@ -1,7 +1,7 @@
 ---
 title: Top 12 Upgrades and Enhancements Desired in the Next Version of Windows
-date: 2024-09-16T16:58:52.205Z
-updated: 2024-09-21T17:00:31.782Z
+date: 2024-09-25T16:33:36.844Z
+updated: 2024-10-01T16:12:48.641Z
 tags:
   - windows
 categories:
@@ -36,6 +36,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The legacy Control Panel in Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2024-05-06_02h14_47.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Expand Phone Link's Usefulness
 
 [Phone Link](https://data-safeguard.techidaily.com/automated-data-gathering-with-cookiebot-solutions/), formerly Your Phone, has steadily improved over the years, but it is still a far cry from the sort of seamless integration Apple users have access to if they combine a Mac and an iPhone.
@@ -43,6 +50,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  We’re not likely to ever see that ease of use and depth of integration. However, while we’re wishing, we’d like to see all the features Phone Link supports (like screen mirroring) available on all Android devices, not just a select few Samsung phones.
 
 ![The Microsoft Phone Link app with a Pixel device.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2024-05-06_02h14_14.png) 
+
+<!-- affiliate ads begin -->
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Universal Noise Cancellation Built-in
 
@@ -55,13 +75,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![A microphone on a table.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/52730616053_b68b4eca6b_o.png) 
 
 Andrew Heinzman / How-To Geek
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Live and Dynamic Backgrounds
 
@@ -83,13 +96,6 @@ Andrew Heinzman / How-To Geek
 
  Personally, I’d love a little weather widget in the upper right corner of my right monitor.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Control Over the Right-Click Menu
 
  The right-click context menu is an essential part of using a Windows computer, and yet, we have no meaningful built-in tools to customize how it looks and operates. Why not?
@@ -97,13 +103,6 @@ Andrew Heinzman / How-To Geek
  Windows 12 should include tools to customize how menu items are displayed, like the ability to [switch between the legacy menu and the icons introduced in Windows 11](https://fox-boxes.techidaily.com/new-game-on-essential-samsung-gear-vr-experiences-for-2024/), and how big those menu items are. At a minimum, it should definitely include tools to [clean up extra menu items](https://extra-guidance.techidaily.com/new-master-iphone-filmmaking-for-full-sphere-effects/) that get added by apps you install without digging through the registry or using a third-party tool.
 
  We’ve been living with cluttered right-click menus for decades. A native tool would be a small but fantastic addition to Windows 12.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  A Favorites List on the Emoji Picker
 
@@ -114,10 +113,10 @@ Andrew Heinzman / How-To Geek
 ![The Emoji picker on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2024-05-06_02h15_16.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
-  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  It would be great to have the option to build a favorites tab that opens by default. It would be even better if the favorites tab let you assign a key to each favorited item for faster access, much like [how the Power User Menu works](https://pokemon-go-android.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/).
@@ -130,6 +129,13 @@ Andrew Heinzman / How-To Geek
 
  Live tiles were a bit of a bust, but allowing users to integrate their favorite widgets into the Start Menu would be a nice start. The ability to toggle between a list display and an icon grid array would also be really nice.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  The Xbox App Needs a Rework
 
  The Xbox app is notoriously buggy and has been for years. Sometimes it works, sometimes, inexplicably, it doesn’t.
@@ -137,6 +143,13 @@ Andrew Heinzman / How-To Geek
  It also lacks basic functionality that other game distribution platforms support, like the ability to limit your bandwidth within the actual app, among others. You shouldn’t need to fiddle around in the Windows Settings app to achieve something basic like that.
 
  The Xbox app needs some TLC from Microsoft to reach its maximum potential. Hopefully we’ll see that with Windows 12 (or sooner!)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Better Device Backup Options in Windows Backup
 
@@ -155,14 +168,14 @@ Andrew Heinzman / How-To Geek
 
 ![The Run feature from Windows PowerToys.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2024-05-06_02h17_07.png) 
 
- We’d love to see something that combines the best of Windows Search (live results, like weather) with PowerToys' Run integrated into Windows 12.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ We’d love to see something that combines the best of Windows Search (live results, like weather) with PowerToys' Run integrated into Windows 12.
 
 ##  Helpful Local AI Tools
 
@@ -187,5 +200,24 @@ Andrew Heinzman / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-ion-air-pro-3-camera-analysis-gearing-up-for-great-shots/"><u>[New] ION Air Pro 3 Camera Analysis - Gearing Up for Great Shots</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-efficient-methods-for-extracting-vimeo-sound-tracks/"><u>[Updated] 2024 Approved Efficient Methods for Extracting Vimeo Sound Tracks</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-how-to-give-a-makeover-to-existing-images-and-videos-with-ig-filters/"><u>2024 Approved How to Give a Makeover to Existing Images and Videos with IG Filters</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-the-comprehensive-blueprint-for-capturing-whatsapp-calls/"><u>2024 Approved The Comprehensive Blueprint for Capturing WhatsApp Calls</u></a></li>
+<li><a href="https://win-forum.techidaily.com/complete-guide-to-forcibly-removing-directories-on-windows-11-a-step-by-step-process/"><u>Complete Guide to Forcibly Removing Directories on Windows 11: A Step-by-Step Process</u></a></li>
+<li><a href="https://win-forum.techidaily.com/connect-with-the-world-dive-into-facebook-twitter-instagram-and-youtube/"><u>Connect with the World: Dive Into Facebook, Twitter, Instagram & Youtube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/connecting-with-billions-a-guide-to-using-facebook-twitter-instagram-and-youtube/"><u>Connecting with Billions: A Guide to Using Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Samsung Galaxy M14 4G | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-novice-to-pro-creating-metaverse-laughter-for-2024/"><u>From Novice to Pro Creating Metaverse Laughter for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-samsung-galaxy-m54-5g-by-fonelab-android-recover-music/"><u>How To Restore Missing Music Files from Samsung Galaxy M54 5G</u></a></li>
+<li><a href="https://win-forum.techidaily.com/reset-your-internet-connection-dns-flushing-for-windows-users/"><u>Reset Your Internet Connection: DNS Flushing for Windows Users</u></a></li>
+<li><a href="https://win-forum.techidaily.com/revouninstallers-techniques-to-forcibly-delete-stubborn-folders-on-your-windows-11-system/"><u>RevoUninstaller's Techniques to Forcibly Delete Stubborn Folders on Your Windows 11 System</u></a></li>
+<li><a href="https://win-forum.techidaily.com/social-media-giants-unveiled-a-look-at-facebook-twitter-instagram-and-youtube/"><u>Social Media Giants Unveiled: A Look at Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-tutorial-terminating-applications-that-wont-close-on-windows-11/"><u>Step-by-Step Tutorial: Terminating Applications That Won't Close on Windows 11</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/-takeover-transitioning-tracks-to-youtube-for-2024/"><u>Tunes Takeover Transitioning Tracks to YouTube for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/ultimate-fixes-for-overcoming-your-pcs-app-compatibility-snags/"><u>Ultimate Fixes for Overcoming Your PC's App Compatibility Snags</u></a></li>
+</ul></div>
 

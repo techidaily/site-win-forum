@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Cutting Out Text Segments Using Microsoft Excel"
-date: 2024-09-17T17:39:33.562Z
-updated: 2024-09-21T16:43:51.009Z
+date: 2024-09-25T17:01:38.787Z
+updated: 2024-10-01T17:02:07.853Z
 tags:
   - excel
 categories:
@@ -44,6 +44,13 @@ Related: [12 Basic Excel Functions Everybody Should Know](https://visual-screen-
 
 ![Select a cell.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/1-left-select-cell.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In your selected cell, type the following function. In this function, replace `B2` with the cell where your full text is and `@` with the search character. The function will retrieve the entire string to the left of this character.
 
  Then press Enter.
@@ -59,16 +66,10 @@ Related: [12 Basic Excel Functions Everybody Should Know](https://visual-screen-
  You're all set.
 
 <!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Extract the String to the Right of Your Text
@@ -87,16 +88,16 @@ Related: [12 Basic Excel Functions Everybody Should Know](https://visual-screen-
 
 ![Type the RIGHT function.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/5-type-right-function.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You'll see the result of the function in your chosen cell.
 
 ![The result of the RIGHT function.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/6-right-function-result.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You're done.
 
@@ -110,19 +111,6 @@ Related: [13 Essential Excel Functions for Data Entry](https://vimeo-videos.tech
 
 ![Click a cell.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/7-mid-select-cell.png) 
 
-<!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In the selected cell, enter the following function. In this function, replace `B2` with the cell where you have the full text, `1` with the position of the character where you want to start the string selection, and `3` with the number of characters you want to extract.
 
  Then press Enter.
@@ -131,9 +119,23 @@ Related: [13 Essential Excel Functions for Data Entry](https://vimeo-videos.tech
 
 ![Enter the MID function.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/8-enter-mid-function.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Excel will extract the specified number of characters from the given position in your cell.
 
 ![The result of the MID function.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/9-mid-function-result.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  And that's all there is to it.
 
@@ -156,5 +158,24 @@ Related: [How to Count Cells With Text in Microsoft Excel](https://buynow-tips.t
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-instant-file-accessibility-syncing-from-pc-to-iphone/"><u>[New] 2024 Approved Instant File Accessibility Syncing From PC to iPhone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-nine-crucial-strategies-to-elevate-your-youtube-presence/"><u>[Updated] 2024 Approved Nine Crucial Strategies to Elevate Your Youtube Presence</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-apples-m1-battle-is-the-air-or-pro-more-efficient-in-2024/"><u>[Updated] Apple's M1 Battle Is the Air or Pro More Efficient, In 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-evaluating-cloud-options-price-and-performance/"><u>[Updated] In 2024, Evaluating Cloud Options Price & Performance</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/essential-10-no-cost-video-conference-platforms-worklearn-edition-for-2024/"><u>Essential 10 No-Cost Video Conference Platforms Work/Learn Edition for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/expert-advice-how-to-erase-tracker-footprints-on-your-windows-and-android-devices/"><u>Expert Advice: How to Erase Tracker Footprints on Your Windows and Android Devices</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-fix-this-app-cant-run-on-your-pc-error/"><u>How to Fix This App Can't Run on Your PC Error</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-disk-maintenance-the-ultimate-guide-to-defragging-on-windows-11-with-revo-uninstaller/"><u>Mastering Disk Maintenance: The Ultimate Guide to Defragging on Windows 11 with Revo Uninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-system-diagnostics-a-users-manual-for-windows-11-bios-tools/"><u>Mastering System Diagnostics: A User's Manual for Windows 11 BIOS Tools</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-major-networks-understanding-facebook-twitter-instagram-and-youtube/"><u>Navigating the Major Networks: Understanding Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-world-of-social-networking-with-facebook-twitter-instagram-and-youtube/"><u>Navigating the World of Social Networking with Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcome-error-getting-netflix-up-and-running-again-on-xbox-gaming-system/"><u>Overcome Error: Getting Netflix Up and Running Again on Xbox Gaming System</u></a></li>
+<li><a href="https://win-forum.techidaily.com/overcoming-hardware-barriers-how-to-run-windows-11-on-unsupported-chipsets/"><u>Overcoming Hardware Barriers: How to Run Windows 11 on Unsupported Chipsets</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/personal-growth-reflections-for-digital-platforms/"><u>Personal Growth Reflections for Digital Platforms</u></a></li>
+<li><a href="https://win-forum.techidaily.com/race-away-from-restarts-7-surefire-fixes-for-forza-horizon-5-freeze/"><u>Race Away From Restarts: 7 Surefire Fixes for Forza Horizon 5 Freeze</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-open-source-video-tools-for-every-desktop-environment-for-2024/"><u>Top Open Source Video Tools for Every Desktop Environment for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/est-immersion-top-ten-titles-for-2024/"><u>VR's Best Immersion Top Ten Titles for 2024</u></a></li>
+</ul></div>
 

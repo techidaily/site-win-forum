@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Creating and Utilizing Data Tables Within MS Excel Visuals"
-date: 2024-09-17T16:02:21.252Z
-updated: 2024-09-21T16:40:33.959Z
+date: 2024-09-25T16:37:42.582Z
+updated: 2024-10-01T17:48:02.136Z
 tags:
   - excel
 categories:
@@ -39,6 +39,13 @@ Related: [How to Make a Bar Chart in Microsoft Excel](https://extra-support.tech
 
 ![Data Table types in the Add Chart Element menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/AddElementDataTable-ExcelDataTableChart.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In Excel on Windows, you have an additional way to insert a data table. Click the Chart Elements button (+) on the top right or left corner of the chart. Check the box for Data Table and select the arrow to pick the type of table you want to use.
 
 ![Data Table types in the Chart Element menu on Windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/AddElementDataTableWindows-ExcelDataTableChart.png) 
@@ -47,7 +54,27 @@ Related: [How to Make a Bar Chart in Microsoft Excel](https://extra-support.tech
 
 ![Resized chart and data table in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/ResizedChart-ExcelDataTableChart.png) 
 
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you decide later to remove the table, return to Chart Design > Add Chart Element and pick "None" in the Data Table pop-out menu.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Customize a Data Table in Excel
 
@@ -59,6 +86,19 @@ Related: [How to Create and Customize a Waterfall Chart in Microsoft Excel](http
 
 ![More Data Table Options in the Add Chart Element menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/MoreDataTableOptions-ExcelDataTableChart.png) 
 
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  When the Format Data Table sidebar opens, confirm that you're on the Table Options tab. Then, expand the Data Table Options section to see the borders.
 
  You can check or uncheck the boxes to use horizontal, vertical, or outline borders. If you change your mind about the legend keys, check or uncheck the Show Legend Keys box.
@@ -66,10 +106,10 @@ Related: [How to Create and Customize a Waterfall Chart in Microsoft Excel](http
 ![Border options in the Format Data Table sidebar](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/FormatDataTableOptionsTab-ExcelDataTableChart.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To change the fill and border settings, select the Fill & Line tab. You can choose a fill type and pick a color from the palette.
@@ -80,23 +120,9 @@ Related: [How to Create and Customize a Waterfall Chart in Microsoft Excel](http
 
 ![Line and Effects in the Format Data Table sidebar](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/FormatDataTableLineEffects-ExcelDataTableChart.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can also change the font that displays within the table. At the top of the sidebar, choose Text Options. Use the Text Fill & Outline and Text Effects tabs to adjust the text fill style, font color, transparency, and effects.
 
 ![Text options in the Format Data Table sidebar](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/FormatDataTableTextOptions-ExcelDataTableChart.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Changing the Table Data
 
@@ -119,5 +145,24 @@ Related: [How to Create and Customize a Waterfall Chart in Microsoft Excel](http
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-guide-to-the-prime-10-websites-for-photo-acquisition-without-expense/"><u>[New] Guide to the Prime 10 Websites for Photo Acquisition Without Expense</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unlocking-speed-edit-photos-in-windows-11/"><u>[New] Unlocking Speed Edit Photos in Windows 11</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-launching-a-vlog-essential-equipmentapps/"><u>[Updated] Launching a Vlog Essential Equipment/Apps</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-lightroom-lut-wonders-your-go-to-selection-of-10-titles/"><u>[Updated] LightRoom LUT Wonders Your Go-To Selection of 10 Titles</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-techniques-for-maximizing-gopro-battery-life/"><u>[Updated] Techniques for Maximizing GoPro Battery Life</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/acemagic-x1-dual-screen-laptop-unveil-the-price-and-purchase-details-this-coming-month/"><u>AceMagic X1 Dual-Screen Laptop: Unveil the Price & Purchase Details This Coming Month!</u></a></li>
+<li><a href="https://win-forum.techidaily.com/efficiently-manage-your-pc-how-to-erase-windows-1/"><u>Efficiently Manage Your PC: How to Erase Windows 1</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-fresh-start-windows-11-installation-with-the-factory-default-settings/"><u>How To Fresh Start Windows 11 Installation With The Factory Default Settings</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-laughter-on-the-go-iphones/"><u>In 2024, Laughter on the Go (iPhones)</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-the-fresh-start-steps-to-full-factory-reset-on-your-windows-11-pc/"><u>Mastering the Fresh Start: Steps to Full Factory Reset on Your Windows 11 PC</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-through-and-resolving-class-not-found-hiccups-on-windows/"><u>Navigating Through and Resolving 'Class Not Found' Hiccups on Windows</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/prime-mkv-software-pc-and-android/"><u>Prime MKV Software PC & Android</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resolving-the-mystery-of-a-missing-shell32dll-file-a-step-by-step-guide/"><u>Resolving the Mystery of a Missing Shell32.dll File: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-forum.techidaily.com/revitalize-your-network-the-ultimate-guide-to-flush-dns-in-windows-environments/"><u>Revitalize Your Network: The Ultimate Guide to Flush DNS in Windows Environments</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-big-four-in-online-interaction-connect-and-engage-on-facebook-twitter-instagram-and-youtube/"><u>The Big Four in Online Interaction: Connect and Engage on Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/troubleshooting-errors-why-this-application-wont-start-on-windows/"><u>Troubleshooting Errors: Why This Application Won't Start on Windows</u></a></li>
+<li><a href="https://win-forum.techidaily.com/why-doesnt-my-file-explorer-work-discover-the-best-troubleshooting-techniques/"><u>Why Doesn't My File Explorer Work? Discover the Best Troubleshooting Techniques</u></a></li>
+</ul></div>
 

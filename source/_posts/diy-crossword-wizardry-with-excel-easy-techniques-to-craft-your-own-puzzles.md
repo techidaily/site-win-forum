@@ -1,7 +1,7 @@
 ---
 title: "DIY Crossword Wizardry with Excel: Easy Techniques to Craft Your Own Puzzles"
-date: 2024-09-16T16:13:48.012Z
-updated: 2024-09-21T16:17:10.247Z
+date: 2024-09-25T16:49:52.837Z
+updated: 2024-10-01T17:32:07.094Z
 tags:
   - excel
 categories:
@@ -43,6 +43,20 @@ thumbnail: https://thmb.techidaily.com/7f8f4d19272d4759318cbc88d919ca0c7c48f6200
 
 ![An Excel sheet with a crossword grid and some words added.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/some-words-in-crossword.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  Every Word Must Cross
 
  Let me start by emphasizing one golden rule—never have any hanging words. In other words, every word you add must cross another one. This means that each time your solver correctly works out one word, they've got some letters for the next word, and they will soon master a certain region of your puzzle. This is the whole premise of a crossword, so it must be respected at all times.
@@ -50,19 +64,6 @@ thumbnail: https://thmb.techidaily.com/7f8f4d19272d4759318cbc88d919ca0c7c48f6200
 ###  Aim for Symmetry
 
  In my experience, the most challenging part of this process is making the crossword symmetrical—but it's worth it. In the end, you'll have an aesthetically pleasing and professional crossword. You can aim for one line of symmetry (such as the left matching the right), or two lines of symmetry (by making the top mirror the bottom, and the left mirror the right). In my example, I'm going to use two. Start in the top-left corner with a long word downwards and a long word across, and then mirror that structure in the top-right corner. Then, do the same in the bottom corners. Now, any time you add a word stemming from one corner, mirror it in all four corners.
-
-<!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  But Don't Add Words for the Sake Of It
 
@@ -72,20 +73,27 @@ thumbnail: https://thmb.techidaily.com/7f8f4d19272d4759318cbc88d919ca0c7c48f6200
 
  You want to avoid two-letter words and limit the number of times you use a three-letter word. In essence, most of your words should be at least four letters long, and the more long words you have, the more flexible you can be with your clues. This approach will also let you use those longer words to generate more words stemming from them.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  Words to Avoid
 
  Don't obscure words that people mightn't have encountered before. Getting your quizzer to correctly guess a tiny village in Sweden or a nineteenth-century Japanese art form will simply demotivate them and raise concerns about the solvability of your puzzle. Instead, you can use interesting words that come up in everyday life to fill in parts of the challenging words.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  Think About Your Clues
 
  As you add your words, think ahead about how you might lure your solver to guess them. Ask yourself, "How will I tantalize my quizzer with a clever clue?"—and if you can't answer that question, choose another word. Another way to approach this is to use words with more than one meaning, which will give you more flexibility.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Step 3: Black Out Empty Squares
 
@@ -99,26 +107,47 @@ thumbnail: https://thmb.techidaily.com/7f8f4d19272d4759318cbc88d919ca0c7c48f6200
 
 ![An Excel sheet containing words in the form of a crossword and the empty cells colored black.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/empty-squares-colored-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Step 4: Add Your Numbers
 
  In order to link your clues to your words, you now need to add numbers. Starting in the top-left corner and working along each row, type a number in front of the first letter of each new word (whether horizontal or vertical). On my crossword, I'll start with "Desperation" and add the number "1" to the "D." Then, moving along the top row, I'll add the number "2" to the letter "S" in "Saga."
 
 ![An Excel containing words in a crossword structure, and numbers added to the cells where words begin.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/add-numbers-to-crossword-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  This might seem a straightforward process—and it is—but I've often been caught out and had to go back and change all my numbers because I'd missed one. When you finish a row, go back across to make sure you've not missed any words.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Step 5: Write Your Clues
 
  You now need to craft your clues to the words you've chosen. Start with the "Across" clues, and then do the "Down" clues using the numbers you added in the previous step. You should also add the number of letters in the word to your clue so your solver can consider solutions without having to look back and forth between the clues and the grid. Here's what my clues for "Dispensable" and "Performance" (my first two horizontal words on the top row) will look like:
 
 ![An Excel sheet with two crossword clues typed underneath the main grid. Each clue has a square reference number, a hint, and the number of letters in brackets.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/crossword-clues.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  ​​​As well as single-word synonym-type clues like those used above, you can vary the types of hints you offer:
 
@@ -138,23 +167,9 @@ thumbnail: https://thmb.techidaily.com/7f8f4d19272d4759318cbc88d919ca0c7c48f6200
 
 ![A crossword grid in Excel with numbers in the cells where words begin.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/numbers-on-crossword-grid.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Finally, format the numbers so that they're in the top-left corner of their squares, and leave enough room for your solver to write their answers.
 
 ![A fully compiled crossword in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/crossword-completed.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Step 7: Test Your Puzzle
 
@@ -177,5 +192,19 @@ thumbnail: https://thmb.techidaily.com/7f8f4d19272d4759318cbc88d919ca0c7c48f6200
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-explore-these-seven-sources-for-youtube-sound-effects/"><u>[New] 2024 Approved Explore These Seven Sources for YouTube Sound Effects</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-free-srt-tools-the-most-reliable-high-quality-apps-listed/"><u>[New] Free SRT Tools The Most Reliable, High-Quality Apps Listed</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-visualize-success-free-templates-to-elevate-your-youtube-presence/"><u>[Updated] Visualize Success Free Templates to Elevate Your YouTube Presence</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-enhance-video-content-with-these-expertly-curated-online-subtitles-editors/"><u>2024 Approved Enhance Video Content with These Expertly Curated Online Subtitles Editors</u></a></li>
+<li><a href="https://win-forum.techidaily.com/expert-tips-for-effective-use-of-command-prompt-to-remove-files-on-windows-11/"><u>Expert Tips for Effective Use of Command Prompt to Remove Files on Windows 11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/guide-to-altering-erasing-and-building-registry-keys-via-the-revouninstaller-tool/"><u>Guide to Altering, Erasing, and Building Registry Keys via the RevoUninstaller Tool</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-optimizing-video-zoom-on-the-youtube-stage/"><u>In 2024, Optimizing Video Zoom on the YouTube Stage</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigate-major-social-platforms-engage-with-facebook-twitter-post-to-instagram-and-create-content-for-youtube/"><u>Navigate Major Social Platforms: Engage with Facebook, Twitter, Post to Instagram & Create Content for Youtube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-biggest-networking-sites-a-look-at-facebook-twitter-instagram-and-youtube/"><u>Navigating the Biggest Networking Sites: A Look at Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/revamp-your-pcs-performance-with-windows-11-driver-updates/"><u>Revamp Your PC's Performance with Windows 11 Driver Updates</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-ultimate-guide-to-using-the-rca-video-doorbell-surveillance-camera/"><u>The Ultimate Guide to Using the RCA Video Doorbell Surveillance Camera</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-resolve-laptop-audio-issues-a-comprehensive-guide/"><u>Troubleshoot and Resolve Laptop Audio Issues: A Comprehensive Guide</u></a></li>
+</ul></div>
 

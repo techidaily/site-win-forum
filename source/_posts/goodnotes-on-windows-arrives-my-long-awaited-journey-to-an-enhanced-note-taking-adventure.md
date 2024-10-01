@@ -1,7 +1,7 @@
 ---
 title: GoodNotes on Windows Arrives - My Long-Awaited Journey to an Enhanced Note-Taking Adventure
-date: 2024-09-20T17:24:22.313Z
-updated: 2024-09-21T16:49:23.721Z
+date: 2024-09-28T17:03:01.398Z
+updated: 2024-10-01T16:00:46.434Z
 tags:
   - windows
 categories:
@@ -19,6 +19,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Goodnotes gained popularity among the younger generation of iPad users because it makes note-taking fun and keeps files organized. The only downside was that the app was only compatible with iOS devices. Luckily, Goodnotes finally released a Windows version, and here are the things you need to know.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Signing Up for Goodnotes
 
  You can sign up or log in to the Goodnotes app on Windows with Google, Microsoft, or Apple. So, if you've signed up to Goodnotes in the past, you can use the same account on your Windows PC. Additionally, you can sign in to multiple accounts and easily switch between profiles, making your note-taking experience smoother than ever.
@@ -30,6 +37,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  The plans available are Goodnotes for Windows and Goodnotes Pro, which offer unlimited notebooks and allow you to import documents up to 250GB and export without a watermark. The major difference is the pricing and iOS features exclusive to Goodnotes Pro. These include AI typing, AI math assistance, and practice materials for exams like SATs.
 
 ![The 'Goodnotes for Windows' option highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/goodnotes-for-windows-option.jpeg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  As of June 2024, Goodnotes for Windows is priced at $6.99 a year, while Goodnotes Pro is a bit more expensive and costs $9.99 a year. A GoodNote Pro subscription lets you use Goodnotes on iOS, Android, Windows devices, or the web.
 
@@ -43,63 +57,44 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![A variety of paper formats displayed in Goodnotes.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/paper-formats.jpeg) 
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After launching the Goodnotes app and setting it up, you’ll need a notebook to start taking notes. Much like the iOS versions, Goodnotes for Windows offers many different page formats for taking notes and even daily planning to stay organized. I was very impressed to see different music sheet options, so you can write music using the app.
 
  If you use Goodnotes to take notes in class or a meeting and prefer writing in a straight line, there is a ruled paper option. And if you love to bullet journal, you can now do so digitally with the dotted page options. There are also blank pages for drawing or jotting down ideas freely. The best part is customizing your own templates to make your notes exactly how you like.
-
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  Offline Access
 
  You can also access your notes offline, so there's no need to worry about having a stable internet connection. Goodnotes lets you view and edit your notes, and they will sync when your connection is restored.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  Planners And To-Do Templates![The Planner page in Goodnotes, with a few different views visible.](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/planner-option-for-goodnotes.jpeg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The planner and to-do templates in Goodnotes might be the least exciting feature to many, but if you love [digital planners and organization tools](https://android-pokemon-go.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-nokia-g22-drfone-by-drfone-virtual-android/) like myself, Goodnotes has plenty of options.
 
  From accounting sheets to planning your finances, a variety of monthly and weekly planner sheets and a standard to-do sheet to keep your day organized. The templates are quite basic, but they give you the creative room to customize them and make them your own.
 
-<!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  Lasso Tool
 
 ![Selecting the heart diagram in Goodnotes.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/select-diagram.jpeg) 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you are a student and deal with many charts and diagrams while studying and taking notes, the lasso tool in Goodnotes is like having a rope for your diagrams and charts. If you are unfamiliar with it, the lasso tool, represented by lines forming a rope, lets you select and move multiple elements simultaneously. This makes it easy to copy and paste elements onto your notes or rearrange notes.
 
@@ -125,6 +120,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  You also have the option to join as a creator and show off your skills, which is a plus. All the templates currently listed in the marketplace section are free for users with a paid subscription to either Goodnotes on Windows or Goodnotes Pro.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  What We’d Like To See
 
  So far, so good, but there are some areas where Goodnotes for Windows could be better. For instance, there should be more instructions on how to navigate the app. This is especially necessary for first-time users who have never used Goodnotes before. It would be helpful to see some instructions pop up when you hold your cursor over tools.
@@ -146,5 +148,26 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-best-apps-allow-you-to-transcribe-speech-to-text-offline/"><u>[New] 2024 Approved Best Apps Allow You to Transcribe Speech to Text Offline</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-pinnacle-phones-the-supreme-choices-in-mobile-video-recording/"><u>[New] Pinnacle Phones The Supreme Choices in Mobile Video Recording</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-uniting-platforms-sharing-vids-on-twtplustumblr-space/"><u>[New] Uniting Platforms Sharing Vids on Twt+Tumblr Space</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-chromebook-voice-alteration-guide-essential-online-reverb-and-pitch-tools/"><u>[Updated] 2024 Approved Chromebook Voice Alteration Guide Essential Online Reverb & Pitch Tools</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-conquer-video-editing-on-pclaptop-with-inshot/"><u>2024 Approved Conquer Video Editing on PC/Laptop with Inshot</u></a></li>
+<li><a href="https://win-forum.techidaily.com/complete-guide-to-managing-and-fixing-100-disk-space-usage-on-windows-10/"><u>Complete Guide to Managing and Fixing 100% Disk Space Usage on Windows 10</u></a></li>
+<li><a href="https://win-forum.techidaily.com/complete-instructions-to-automatically-launch-apps-with-admin-authority-in-windows-11/"><u>Complete Instructions to Automatically Launch Apps with Admin Authority in Windows 11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/conversao-efetiva-do-formato-wav-em-flv-com-o-movavi-ferramenta-online-gratuita-atendendo-as-suas-necessidades/"><u>Conversão Efetiva Do Formato WAV Em FLV Com O Movavi: Ferramenta Online Gratuita Atendendo Às Suas Necessidades!</u></a></li>
+<li><a href="https://win-forum.techidaily.com/discover-a-year-in-review-the-impactful-world-of-facebook-twitter-instagram-and-youtube/"><u>Discover a Year In Review: The Impactful World of Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/easy-way-to-establish-collaborative-conversations-on-skype-regardless-of-your-operating-system/"><u>Easy Way to Establish Collaborative Conversations on Skype, Regardless of Your Operating System</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/engage-learn-and-multitask-top-ideas-for-making-most-of-your-podcasts/"><u>Engage, Learn & Multitask Top Ideas for Making Most of Your Podcasts</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-restore-lost-facebook-watch-thumbnail/"><u>In 2024, Restore Lost Facebook Watch Thumbnail</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-networking-on-giants-of-digital-age-facebook-twitter-instagram-and-youtub/"><u>Mastering Networking on Giants of Digital Age: Facebook, Twitter, Instagram & YouTub</u></a></li>
+<li><a href="https://win-forum.techidaily.com/removing-undetected-installed-software-on-windows-computers/"><u>Removing Undetected Installed Software on Windows Computers</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-enabling-wake-on-lan-on-your-pcs-with-windows-10-and-11/"><u>Step-by-Step Guide: Enabling Wake-on-LAN on Your PCs with Windows 10 & 11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/streamline-tech-support-updating-device-drivers-on-windows-11-made-simple/"><u>Streamline Tech Support: Updating Device Drivers on Windows 11 Made Simple</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-ultimate-fix-for-frequent-windows-1011-stalling-insider-advice/"><u>The Ultimate Fix for Frequent Windows 10/11 Stalling: Insider Advice</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-ultimate-social-media-quartet-mastering-facebook-twitter-instagram-and-youtube/"><u>The Ultimate Social Media Quartet: Mastering Facebook, Twitter, Instagram, & YouTube</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/voice-command-vehicles-now-a-reality-unveiling-the-latest-mercedes-benz-innovation-with-chatgpt-assistant/"><u>Voice Command Vehicles Now a Reality - Unveiling the Latest Mercedes-Benz Innovation with ChatGPT Assistant</u></a></li>
+</ul></div>
 

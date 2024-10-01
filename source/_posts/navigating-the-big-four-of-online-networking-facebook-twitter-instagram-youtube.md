@@ -1,7 +1,7 @@
 ---
 title: "Navigating The Big Four of Online Networking: Facebook, Twitter, Instagram, Youtube"
-date: 2024-09-10T10:54:31.340Z
-updated: 2024-09-11T10:54:31.340Z
+date: 2024-09-24T16:33:56.841Z
+updated: 2024-10-01T17:48:07.016Z
 tags:
   - win11
   - win10
@@ -15,20 +15,6 @@ thumbnail: https://thmb.techidaily.com/79c7e594da2bcc4e0b5a712ad425c9a3c9c769d43
 
 ## Exploring Key Social Networks: Unpacking the Influence of Facebook, Twitter, Instagram & YouTube
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## [How to Fix the “Something Didn’t Go As Planned” Error in Windows 11](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1)
 
 * Share
@@ -37,20 +23,6 @@ thumbnail: https://thmb.techidaily.com/79c7e594da2bcc4e0b5a712ad425c9a3c9c769d43
 * [](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1)
 
 [How to Fix the “Something Didn’t Go As Planned” Error in Windows 11](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/something-didnt-go-as-planned-error/cover.png) ](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## What is the “Something Didn’t Go As Planned” error and why you can encounter it
 
@@ -77,25 +49,6 @@ thumbnail: https://thmb.techidaily.com/79c7e594da2bcc4e0b5a712ad425c9a3c9c769d43
    ![check for updates](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/something-didnt-go-as-planned-error/method-2-windows-update.jpg)  
    3. If any updates are available, download and install them.  
 
-
-
-
-<!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
    4. Restart your computer if prompted.
 3. Run Windows Update Troubleshooter: If updating Windows didn’t resolve the issue, you can try running the built-in Windows Update Troubleshooter.  
    1. Open the Settings app, and navigate to Update & Security.  
@@ -104,31 +57,20 @@ thumbnail: https://thmb.techidaily.com/79c7e594da2bcc4e0b5a712ad425c9a3c9c769d43
    ![troubleshoot](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/something-didnt-go-as-planned-error/method-3-windows-update.jpg)  
    4. Select Windows Update and follow the on-screen instructions to run the troubleshooter.
 
-
-
-
-<!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 4. Check for hardware compatibility issues: Windows 11 has specific system requirements, and not all computers may be compatible with the new operating system. Ensure that your hardware meets the minimum requirements for Windows 11\. Visit the official Microsoft website or use the PC Health Check tool to determine if your system is compatible.
 5. Perform a clean boot: Sometimes, third-party applications or services can conflict with Windows and cause errors. Performing a clean boot helps you identify if any non-Microsoft services are causing the “Something Didn’t Go As Planned” error.  
    1. Press Windows + R, type “msconfig,” and hit Enter.  
    2. In the System Configuration window, go to the Services tab and check the “Hide all Microsoft services” box.  
    ![system configuration](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/something-didnt-go-as-planned-error/method-5-system-configuration-step-b.jpg)  
    3. Click on “Disable all” and then go to the Startup tab, selecting “Open Task Manager.”  
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
    ![system configuration](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/something-didnt-go-as-planned-error/method-5-system-configuration-step-c.jpg)  
    4. Disable all the startup applications one by one.  
    5. Restart your computer, and check if the error persists.
@@ -136,6 +78,14 @@ thumbnail: https://thmb.techidaily.com/79c7e594da2bcc4e0b5a712ad425c9a3c9c769d43
    * sfc /scannow  
    ![command prompt](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/something-didnt-go-as-planned-error/method-6-command-prompt-1.jpg)  
    * dism /online /cleanup-image /restorehealth  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
    ![command prompt](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/something-didnt-go-as-planned-error/method-6-command-prompt-2.jpg)  
 Wait for the process to complete and restart your computer.
 7. Perform a system restore: If you recently made any changes to your system, such as installing new software or drivers, and started encountering the error, performing a system restore can help revert your system back to a working state. Open the Control Panel, select System and Security, and choose System. Click on “System Protection” from the left-hand side menu, then click on[“System Restore.”](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1) Follow the on-screen instructions to restore your system to an earlier point.
@@ -147,33 +97,19 @@ Wait for the process to complete and restart your computer.
 
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
-
-
-
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## We can help you every time when…
 
@@ -190,8 +126,6 @@ Wait for the process to complete and restart your computer.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -199,4 +133,24 @@ Wait for the process to complete and restart your computer.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-captivating-creatives-an-audience-centric-compilation-of-the-best-20-tiktok-captions/"><u>[Updated] Captivating Creatives An Audience-Centric Compilation of the Best 20 TikTok Captions</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-ultimate-conclusion-to-your-youtube-journey/"><u>[Updated] The Ultimate Conclusion to Your YouTube Journey</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unraveling-360-degree-vision-a-new-cinematic-experience/"><u>[Updated] Unraveling 360-Degree Vision A New Cinematic Experience</u></a></li>
+<li><a href="https://win-forum.techidaily.com/effective-techniques-for-forcing-closure-of-unresponsive-windows-programs-with-revouninstaller/"><u>Effective Techniques for Forcing Closure of Unresponsive Windows Programs with RevoUninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/efficiently-remove-files-and-folders-via-command-prompt-in-windows-11-a-step-by-step-tutorial/"><u>Efficiently Remove Files & Folders via Command Prompt in Windows 11 - A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://win-forum.techidaily.com/enabling-wake-on-lan-functionality-on-windows-10-and-11-a-step-by-step-guide/"><u>Enabling Wake-on-LAN Functionality on Windows 10 & 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-forum.techidaily.com/ensure-peak-protection-for-your-windows-machine-follow-our-5-step-advice/"><u>Ensure Peak Protection for Your Windows Machine: Follow Our 5-Step Advice</u></a></li>
+<li><a href="https://win-forum.techidaily.com/expert-advice-on-disabling-windows-11-patches-and-fixes/"><u>Expert Advice on Disabling Windows 11 Patches and Fixes</u></a></li>
+<li><a href="https://win-forum.techidaily.com/expert-advice-how-to-identify-the-current-powershell-version-in-windows-11/"><u>Expert Advice: How to Identify the Current PowerShell Version in Windows 11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-the-giants-of-social-media-a-deep-dive-into-facebook-twitter-instagram-and-youtube/"><u>Exploring the Giants of Social Media - A Deep Dive Into Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-fix-windows-11-wont-run-on-my-pc-error-revouninstaller/"><u>How to Fix Windows 11 Wont Run on My PC Error - RevoUninstaller</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-boosting-income-a-complete-guide-to-youtube-ad-profits/"><u>In 2024, Boosting Income A Complete Guide to YouTube Ad Profits</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-captivating-imagery-with-these-20-top-video-thumbnail-fonts/"><u>In 2024, Captivating Imagery with These 20 Top Video Thumbnail Fonts</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-projector-vs-tv-which-is-best-for-your-4k-experience/"><u>In 2024, Projector vs TV Which Is Best for Your 4K Experience</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-compre-writters-manual-for-great-documentary-storytelling/"><u>In 2024, The Compre Writter's Manual for Great Documentary Storytelling</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/movavis-no-cost-mpeg-to-mp3-converter-web-service-effortless-digital-format-switching/"><u>Movavi's No-Cost MPEG to MP3 Converter Web Service - Effortless Digital Format Switching</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-everything-you-want-to-know-about-kapwing-video-translation-for-2024/"><u>Updated Everything You Want To Know About Kapwing Video Translation for 2024</u></a></li>
+</ul></div>
 

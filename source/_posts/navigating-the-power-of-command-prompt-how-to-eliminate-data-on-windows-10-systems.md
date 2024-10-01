@@ -1,7 +1,7 @@
 ---
 title: "Navigating the Power of Command Prompt: How to Eliminate Data on Windows 10 Systems"
-date: 2024-09-09T16:09:50.783Z
-updated: 2024-09-16T16:42:20.371Z
+date: 2024-09-25T17:42:39.222Z
+updated: 2024-10-01T16:53:35.686Z
 tags:
   - win11
   - win10
@@ -26,6 +26,13 @@ thumbnail: https://thmb.techidaily.com/6ea4b6540cbc9defac45234e6794ae14daad67ae8
 
  Clearing your cache in Windows 10 can help you resolve some problems with your operating system.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## First, let’s discover what cache is
 
  Windows cache plays the role of a high-speed storage mechanism. The cache storage can be either a reserved section of the main memory or a specific independent storage device. To be more precise Windows cache is a hardware or software element that is used to store data.
@@ -45,6 +52,13 @@ thumbnail: https://thmb.techidaily.com/6ea4b6540cbc9defac45234e6794ae14daad67ae8
 [Freeing up disk space](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1) may seem trivial and not necessary to be performed frequently, and to an extent that is true. However, remember that if you are using an SSD, it is a good idea to keep the free space on it as high as possible, as that can improve the drive’s performance and lifespan. That is why you should still consider deleting certain temporary/cached files occasionally.
 
  Since certain caches can become corrupt (e.g. the Windows icon cache) or outdated (e.g. browser cache), sometimes they would need to be cleared/deleted to fix certain problems, like missing/blank icons in Windows or certain websites not functioning properly.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to clear the Windows 10 cache?
 
@@ -69,8 +83,30 @@ thumbnail: https://thmb.techidaily.com/6ea4b6540cbc9defac45234e6794ae14daad67ae8
 1. Open Revo Uninstaller Pro, and click Tools.  
 ![screen of windows tools](<https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/Blog/Remove> temporary files Revo Uninstaller Pro 4 -1.jpg)
 2. Click History Cleaner.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![screen of history cleaner](<https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/Blog/Remove> temporary files Revo Uninstaller Pro 4 -2.jpg)
 3. Check “Delete Temporary Internet files” for all browsers whose cache you wish to delete, and click**Clear** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Clear browser cache via the built-in browser options
 
@@ -82,26 +118,12 @@ thumbnail: https://thmb.techidaily.com/6ea4b6540cbc9defac45234e6794ae14daad67ae8
 2. Set the Time range to All time, check Cached images and files, and click the Clear data button to clear the entire browser cache. Of course, you can choose other items, in addition to the cache, if you wish.  
 ![screen of clear browsing data](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/Blog/google-clear-data.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115939/19272" target="_top" id="2115939">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115939" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115939/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### Mozilla Firefox
 
 1. 1. Open Firefox, and in the upper right corner click the “tree lines” button, then click**Options** .  
    2. Click Privacy and Security, and scroll down to “Cookies and Site Data”. Click**Clear Data…** .
 
 ![screen of clear data](<https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/Blog/Firefox> - Clear cache -1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115913/19272" target="_top" id="2115913">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115913" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115913/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 1. Select**Cached Web Content** , and click**Clear** .  
 ![screen of cached web content](<https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/Blog/Firefox> - Clear cache -2.jpg)
@@ -121,6 +143,14 @@ thumbnail: https://thmb.techidaily.com/6ea4b6540cbc9defac45234e6794ae14daad67ae8
 
 1. Start Revo Uninstaller Pro, click Tools, then click Windows tools and finally double-click Disk Cleanup. ![screen of tools](<https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/Blog/Remove> temporary files Revo Uninstaller Pro 4 -1.jpg)  
 ![screen of disk cleanup](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/Blog/windows-tools.png)  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Alternatively, you can access the Disk Cleanup feature by opening the Windows Start Menu (for Windows 10 you can press Win+S on your keyboard) and search for Disk Cleanup.
 2. In the pop-up window select the drive you want to clean up from the drop-down menu and click OK.  
 ![screen of Disk Cleanup](<https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/Blog/Disk> cleanup - 2.jpg)
@@ -130,25 +160,19 @@ thumbnail: https://thmb.techidaily.com/6ea4b6540cbc9defac45234e6794ae14daad67ae8
 ![screen of disk cleanup](<https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/Blog/Disk> cleanup - 3.jpg)  
 ![screen of disk cleanup](<https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/Blog/Disk> cleanup - 4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Remove the Windows Store Cache
 
 1. Press the Win+R on your keyboard to open the Run window.
 2. Type “wsreset.exe” (without quotation marks), and press**Enter** (or click**OK** ).  
 ![screen of Run](<https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/Blog/Clean> Windows store cache -1.jpg)
 3. Wait for the process to finish. The Windows Store will appear once the procedure is complete.
-
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Clear cache in File Explorer
 
@@ -158,31 +182,11 @@ thumbnail: https://thmb.techidaily.com/6ea4b6540cbc9defac45234e6794ae14daad67ae8
 ![screen of history cleaner](<https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/Blog/Delete> thumbnail cache - 1.jpg)
 * **Windows icon cache** : The icon cache cannot be deleted directly, as it is used actively by Windows Explorer and – thus – locked. We have created a CMD script file that will simplify the process.  
 
-<!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Warning: make sure to save all your work and documents before you execute the script.  
 [Download the file](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1) to a convenient location, right-click it, and select**Run as administrator** . This will forcibly close Windows Explorer, delete the cache files, and then relaunch Windows Explorer. Your other programs should not be affected/closed, however, we recommended that all documents should be saved beforehand as a precaution.  
  Reboot your computer to complete the rebuilding of the icon cache.
 * **Windows update cache** : This is another cache that is locked and requires a different approach. Again, we have provided a CMD script file that will simplify the procedure.[Download the file](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1) to a convenient location, right-click it, and select**Run as administrator** . This will stop the Windows Update service, delete the directory containing the cache, and re-start the Windows Update service. Rebooting your device is recommended but not mandatory.
 * **File Explorer history** : File Explorer also keeps its own history of all recently opened files and performed searches. These can be considered privacy concerns if you are sharing your computer with another person. To clear said history, open File Explorer, click the**View** tab, then click**Options** in the ribbon, and finally click**Clear** in the newly opened window.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Clear System Restore cache on Windows 10
 
@@ -210,6 +214,13 @@ This operation will delete all restore points for the drive.
 3. To examine the ARP cache, type in`**arp -a**`  
 ![screen of arp -a](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/Blog/arp-a.jpg)
 4. To clear the ARP cache, type **`arp -d` .** The -a parameter causes the program to show the ARP cache, whereas the -d flag causes it to delete it.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![screen of arp -d](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/Blog/arp-d.jpg)
 
@@ -239,5 +250,24 @@ This operation will delete all restore points for the drive.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-essential-guide-to-5-prime-slow-motion-cameras-for-2024/"><u>[New] Essential Guide to 5 Prime Slow Motion Cameras for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-premier-popularity-prognosticator-for-video-charts-for-2024/"><u>[Updated] Premier Popularity Prognosticator for Video Charts for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/a-complete-breakdown-of-biometrics-concepts-and-uses-unveiled/"><u>A Complete Breakdown of Biometrics: Concepts and Uses Unveiled</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/descubre-los-18-mejores-herramientas-de-creacion-de-peliculas-gratuitas-para-su-pc-con-windows-versiones-11-8-o-7/"><u>Descubre Los 18 Mejores Herramientas De Creación De Películas Gratuitas Para Su PC Con Windows (Versiones 11, 8 O 7)</u></a></li>
+<li><a href="https://discover-able.techidaily.com/exploring-the-basics-understanding-azw-format/"><u>Exploring the Basics: Understanding AZW Format</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-realme-c55-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Realme C55 Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-complete-windows-11-system-restore-using-a-factory-reset/"><u>Step-by-Step Guide: Complete Windows 11 System Restore Using a Factory Reset</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-setting-up-and-enabling-the-revo-app-manager/"><u>Step-by-Step Guide: Setting Up & Enabling the Revo App Manager</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-tidying-up-your-android-device-by-managing-app-placement/"><u>Step-by-Step Guide: Tidying Up Your Android Device by Managing App Placement</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-solutions-for-windows-7-critical-process-died-error-0x0000007e/"><u>Step-by-Step Solutions for Windows 7 'CRITICAL PROCESS DIED' Error (0X0000007E)</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-quintessential-social-networking-giants-unpacking-facebook-twitter-instagram-and-youtube/"><u>The Quintessential Social Networking Giants: Unpacking Facebook, Twitter, Instagram & Youtube</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/top-thumbnails-the-ultimate-guide-to-optimal-youtube-sizes/"><u>Top Thumbnails The Ultimate Guide to Optimal YouTube Sizes</u></a></li>
+<li><a href="https://win-forum.techidaily.com/ultimate-guide-managing-registry-entries-with-ease/"><u>Ultimate Guide: Managing Registry Entries with Ease</u></a></li>
+<li><a href="https://win-forum.techidaily.com/ultimate-tricks-how-to-remove-non-control-panel-listed-applications/"><u>Ultimate Tricks: How to Remove Non-Control Panel Listed Applications</u></a></li>
+<li><a href="https://win-forum.techidaily.com/understanding-todays-leading-social-networks-facebook-twitter-instagram-and-youtube/"><u>Understanding Today's Leading Social Networks: Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://facebook.techidaily.com/unmasking-cryptic-stability-the-stablecoin-phenomenon/"><u>Unmasking Cryptic Stability: The Stablecoin Phenomenon</u></a></li>
+<li><a href="https://win-forum.techidaily.com/unveiling-social-media-titans-understanding-the-dynamics-of-facebook-twitter-instagram-and-youtube/"><u>Unveiling Social Media Titans: Understanding the Dynamics of Facebook, Twitter, Instagram & YouTube</u></a></li>
+</ul></div>
 

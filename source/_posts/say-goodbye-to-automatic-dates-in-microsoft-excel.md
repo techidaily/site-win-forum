@@ -1,7 +1,7 @@
 ---
 title: Say Goodbye to Automatic Dates in Microsoft Excel!
-date: 2024-09-19T16:58:45.025Z
-updated: 2024-09-21T16:17:36.380Z
+date: 2024-09-27T16:22:37.919Z
+updated: 2024-10-01T16:45:11.667Z
 tags:
   - excel
 categories:
@@ -40,12 +40,39 @@ Microsoft
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-different-options-for-googles-ar-enhancements/"><u>[New] 2024 Approved Different Options for Google's Ar Enhancements</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-instaboomers-hook-your-audience-with-circular-content/"><u>[New] 2024 Approved InstaBoomers Hook Your Audience with Circular Content</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-best-macpc-screenshot-toolkit-for-desktops-for-2024/"><u>[New] Best MacPC Screenshot Toolkit for Desktops for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-zip-to-subrip-conversion-techniques-for-2024/"><u>[Updated] Zip-to-SubRip Conversion Techniques for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/bypassing-control-panel-limits-for-complete-software-deletion/"><u>Bypassing Control Panel Limits for Complete Software Deletion</u></a></li>
+<li><a href="https://win-forum.techidaily.com/connecting-through-digital-age-giants-a-look-at-facebook-twitter-instagram-and-youtube/"><u>Connecting Through Digital Age Giants: A Look at Facebook, Twitter, Instagram & Youtube</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/discovering-artistic-expression-top-film-tips-on-youtube-for-2024/"><u>Discovering Artistic Expression Top Film Tips on YouTube for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-stutter-and-crashes-optimizing-your-pubg-gaming-experience-on-personal-computers/"><u>Fixing Stutter and Crashes: Optimizing Your PUBG Gaming Experience on Personal Computers</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-world-of-online-interaction-insights-into-facebook-twitter-instagram-and-youtube/"><u>Navigating the World of Online Interaction: Insights Into Facebook, Twitter, Instagram and YouTube</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/optimized-with-advanced-tracking-the-cookiebot-solution/"><u>Optimized with Advanced Tracking: The Cookiebot Solution</u></a></li>
+<li><a href="https://win-forum.techidaily.com/resolving-disk-space-issues-in-windows-11-a-step-by-step-guide/"><u>Resolving Disk Space Issues in Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/restoring-playback-to-corrupted-mp4-and-mov-files-via-qt/"><u>Restoring Playback to Corrupted MP4 and MOV Files via QT</u></a></li>
+<li><a href="https://win-forum.techidaily.com/solving-your-sluggish-pc-woes-a-guide-using-revo-uninstaller/"><u>Solving Your Sluggish PC Woes: A Guide Using Revo Uninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-updating-your-windows-10-device-drivers/"><u>Step-by-Step Guide: Updating Your Windows 10 Device Drivers</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-convenience-of-using-hunter-mode-revo-uninstaller/"><u>The Convenience of Using Hunter Mode - Revo Uninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-powerhouse-platforms-of-social-interaction-a-deep-dive-into-facebook-twitter-instagram-and-youtube/"><u>The Powerhouse Platforms of Social Interaction: A Deep Dive Into Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-silent-discord-chats-how-to-get-back-that-sound/"><u>Troubleshooting Silent Discord Chats: How to Get Back That Sound</u></a></li>
+<li><a href="https://win-forum.techidaily.com/windows-11-users-tutorial-how-to-terminate-a-frozen-application-via-task-manager/"><u>Windows 11 User's Tutorial: How to Terminate a Frozen Application via Task Manager</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/3gp3g2-movavi/"><u>オンラインで変換フリー: 3GPを3G2に変更する方法 - Movavi</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

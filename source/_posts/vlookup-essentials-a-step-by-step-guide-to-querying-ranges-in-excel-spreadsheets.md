@@ -1,7 +1,7 @@
 ---
 title: "VLOOKUP Essentials: A Step-by-Step Guide to Querying Ranges in Excel Spreadsheets"
-date: 2024-09-15T17:40:36.031Z
-updated: 2024-09-21T17:06:48.197Z
+date: 2024-09-24T17:34:46.586Z
+updated: 2024-10-01T17:27:01.298Z
 tags:
   - excel
 categories:
@@ -48,10 +48,10 @@ thumbnail: https://thmb.techidaily.com/23f13f96d936d78089a7e8a3b93e560ac0ab85876
  The table array has been fixed to stop it changing when the formula is copied down the cells of column B.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  Something to Be Careful About
@@ -63,13 +63,20 @@ thumbnail: https://thmb.techidaily.com/23f13f96d936d78089a7e8a3b93e560ac0ab85876
 ![Wrong results due to table not being in order](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/03/vlookup-gone-wrong.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  It is important to be clear that the order is only essential with range lookups. When you put False on the end of a VLOOKUP function, the order is not so important.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Example Two: Providing a Discount Based on How Much a Customer Spends
 
@@ -78,6 +85,13 @@ thumbnail: https://thmb.techidaily.com/23f13f96d936d78089a7e8a3b93e560ac0ab85876
  A lookup table (columns D and E) contains the discounts at each spending bracket.
 
 ![Second VLOOKUP example data](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/03/VLOOKUP-second-example.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The VLOOKUP formula below can be used to return the correct discount from the table.
 
@@ -110,5 +124,16 @@ thumbnail: https://thmb.techidaily.com/23f13f96d936d78089a7e8a3b93e560ac0ab85876
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-explore-new-horizons-mobile-videography-beyond-periscope/"><u>[New] Explore New Horizons Mobile Videography Beyond Periscope</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-instagrams-edge-infusing-artistry-with-slow-motion/"><u>[New] In 2024, Instagram's Edge Infusing Artistry with Slow Motion</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-unlock-clearer-depths-with-instas-bokeh-effects/"><u>[Updated] Unlock Clearer Depths with Insta's Bokeh Effects</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-video-marketing-excellence-on-instagram-crafting-a-winning-strategy/"><u>2024 Approved Video Marketing Excellence on Instagram Crafting a Winning Strategy</u></a></li>
+<li><a href="https://win-forum.techidaily.com/comprehensive-tutorial-on-entering-the-bios-configuration-of-a-windows-11-device/"><u>Comprehensive Tutorial on Entering the BIOS Configuration of a Windows 11 Device</u></a></li>
+<li><a href="https://win-forum.techidaily.com/evaluating-protection-levels-the-fintie-case-for-apples-laptop-series-a-detailed-macbook-pro-13-assessment-on-worth-and-endurance/"><u>Evaluating Protection Levels: The Fintie Case for Apple's Laptop Series - A Detailed MacBook Pro 13 Assessment on Worth & Endurance</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-upgrade-samsung-bdplus-k850-review-update-2023/"><u>In 2024, The Ultimate Upgrade Samsung BD+ K850 Review Update 2023</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-big-four-of-social-networking-exploring-facebook-twitter-instagram-and-youtube/"><u>The Big Four of Social Networking: Exploring Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/understanding-modern-connectivity-the-impact-of-facebook-twitter-instagram-and-youtube-on-our-lives/"><u>Understanding Modern Connectivity: The Impact of Facebook, Twitter, Instagram and YouTube on Our Lives</u></a></li>
+</ul></div>
 

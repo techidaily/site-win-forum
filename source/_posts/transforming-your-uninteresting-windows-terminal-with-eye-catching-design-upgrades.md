@@ -1,7 +1,7 @@
 ---
 title: Transforming Your Uninteresting Windows Terminal with Eye-Catching Design Upgrades
-date: 2024-09-15T16:03:42.642Z
-updated: 2024-09-21T17:13:32.459Z
+date: 2024-09-27T16:31:59.807Z
+updated: 2024-10-01T17:20:40.297Z
 tags:
   - windows
 categories:
@@ -19,6 +19,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Don't like the good old "white text on black screen" look of the Windows Terminal? Me neither. Gladly, you don't have to stick with it. Here's how you can change several items related to the Terminal, and how to completely change the look and feel of it.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Built-in Customization Options Are a Great Start
 
  The Windows Terminal contains many built-in settings you can tweak to perform an instant appearance upgrade. Make sure you have the Windows Terminal app installed from the [Microsoft Store](https://eaxpv-info.techidaily.com/updated-final-goodbye-to-youtubes-minis-a-step-by-step-process-for-2024/).
@@ -33,6 +40,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Opening Windows Terminal settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/windows-terminal-settings.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  From here on, we'll tweak different settings to change the look and feel of the Windows Terminal.
 
 ###  Title bar
@@ -41,9 +55,23 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Making Windows Terminal title bar transparent](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/make-windows-terminal-title-bar-transparent.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The title bar should become transparent with a blurry effect. You'll see whatever is behind the Terminal window but behind a blurred glass.
 
 ![Transparent Windows Terminal title bar](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/transparent-windows-terminal-title-bar.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  Changing Themes
 
@@ -54,6 +82,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  The "Color Schemes" menu contains many more themes, or you can even create your own color scheme.
 
 ![Windows Terminal color schemes](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/windows-terminal-color-schemes.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  When adding a new color scheme, you have two options.
 
@@ -75,6 +110,13 @@ Close
 
 ![Opening the Windows Terminal JSON file](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/windows-terminal-json-file.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  It will open in your default [text editor](https://android-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-lava-yuva-3-drfone-by-drfone-virtual-android/) for JSON files, which is probably [Notepad](https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-poco-x6-pro-drfone-by-drfone-android/). After that, scroll down until you find the Schemes section. You can also use the search functionality to find it faster.
 
 ![Windows Terminal JSON color schemes](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/windows-terminal-json-color-schemes.png) 
@@ -86,6 +128,13 @@ Close
  Save the file and exit the JSON file. Go back to the "Color Schemes" menu, and you should see the newly added theme in the list. Set it as default to use it. Press the "Save" button to save your changes. To see the new theme in action, restart the Windows Terminal.
 
 ![Dark Solarized Patched color scheme on the Windows Terminal](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/dark-solarized-patched-color-scheme-on-the-windows-terminal.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  Fonts
 
@@ -99,35 +148,22 @@ Close
 
  There are a few fonts to choose from. If you fancy, you can download additional fonts from [Nerd Fonts](https://www.nerdfonts.com/), install them, and configure them so you can use them system-wide, including the Terminal.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  Color and Background
 
  When you choose a theme, it automatically selects a set of colors. However, you can adjust the colors individually. The settings let you pick colors using RGB values, HSV values, color codes, and a graphical color picker. You can set a color for the foreground, background, cursor, and selection.
 
 ![Choosing colors in the Windows Terminal](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/choosing-colors-in-the-windows-terminal.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you don't like using solid colors for the Terminal background, you can also choose images. Go to Defaults > Appearance, then under Background Image, provide a path for the image you'd like to use as the background. You can also use your desktop wallpaper. Once you choose an image, you'll notice more options, such as the image stretch mode, alignment, and opacity.
 
 ![Windows Terminal background settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/windows-terminal-background-settings.png) 
-
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Make sure to choose a less bright image as your background. Otherwise, you'll have a hard time seeing the text. Another option is to lower the opacity to about 50%.
 
@@ -144,13 +180,6 @@ Close
 winget install JanDeDobbeleer.OhMyPosh -s winget
 
 ![Installing Oh My Posh on Windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/installing-oh-my-posh-on-windows.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After the installation, restart the Terminal to reload [the PATH](https://android-frp.techidaily.com/in-2024-the-complete-guide-to-meizu-frp-bypass-everything-you-need-to-know-by-drfone-android/). To confirm the installation, run:
 
@@ -197,13 +226,6 @@ notepad $PROFILE
 oh-my-posh init pwsh | Invoke-Expression
 
 ![Editing PowerShell profile on Windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/editing-powershell-profile-on-windows.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Save the file and reload the profile with this command:
 
@@ -261,13 +283,6 @@ Import-Module -Name Terminal-Icons
 
 ![A customized Windows Terminal](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/customized-windows-terminal-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  A Beautiful Windows Terminal at Your Service
 
  By now, you should have a cool looking Terminal on your Windows computer. With some creativity, you can make it more flashy. If you'd like to read more on what you can do with Oh My Posh, check the [official documentation](https://ohmyposh.dev/docs).
@@ -285,5 +300,22 @@ Import-Module -Name Terminal-Icons
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-unveiling-the-ultimate-tools-for-high-quality-monitoring/"><u>[New] Unveiling the Ultimate Tools for High-Quality Monitoring</u></a></li>
+<li><a href="https://win-forum.techidaily.com/connecting-worlds-through-top-channels-facebook-twitter-instagram-and-youtube-explained/"><u>Connecting Worlds Through Top Channels: Facebook, Twitter, Instagram, and YouTube Explained</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-steps-to-activate-and-use-microsoft-365-suite-on-windows-or-mac/"><u>Easy Steps to Activate and Use Microsoft 365 Suite on Windows or Mac</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/horizonhawk-reality-check/"><u>HorizonHawk Reality Check</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-honor-x50iplus-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Honor X50i+ to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-for-security-reasons-on-iphone-15-pro-max-find-the-best-solution-here-by-drfone-ios/"><u>In 2024, Apple ID Locked for Security Reasons On iPhone 15 Pro Max? Find the Best Solution Here</u></a></li>
+<li><a href="https://win-forum.techidaily.com/in-depth-testing-results-for-the-chargetech-27000mah-battery-pack-a-large-capacity-solution-unveiled/"><u>In-Depth Testing Results for the ChargeTech 27000mAh Battery Pack: A Large Capacity Solution Unveiled</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-wake-on-lan-a-step-by-step-guide-for-windows-10-and-11/"><u>Mastering Wake-on-LAN: A Step-by-Step Guide for Windows 10 & 11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-social-media-platforms-facebook-twitter-instagram-and-youtube/"><u>Navigating Social Media Platforms: Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/solve-your-playstation-4-mic-woes-with-these-expert-tips-and-techniques/"><u>Solve Your PlayStation 4 Mic Woes with These Expert Tips & Techniques</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-big-four-of-online-networking-insights-on-facebook-twitter-instagram-and-youtube/"><u>The Big Four of Online Networking: Insights on Facebook, Twitter, Instagram and YouTube</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-essentials-of-llama-2-insights-and-implementation-tips/"><u>The Essentials of Llama 2: Insights and Implementation Tips</u></a></li>
+<li><a href="https://extra-information.techidaily.com/through-the-lens-through-editing-pro-secrets-of-stunning-art/"><u>Through the Lens, Through Editing Pro Secrets of Stunning Art</u></a></li>
+<li><a href="https://win-forum.techidaily.com/troubleshooting-unseen-software-remove-hidden-programs-efficiently/"><u>Troubleshooting Unseen Software: Remove Hidden Programs Efficiently</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/youtube-tech-basics-essential-equipment-guide/"><u>YouTube Tech Basics Essential Equipment Guide</u></a></li>
+</ul></div>
 

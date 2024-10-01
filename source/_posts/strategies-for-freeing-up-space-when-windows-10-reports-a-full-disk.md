@@ -1,7 +1,7 @@
 ---
 title: Strategies for Freeing Up Space When Windows 10 Reports a Full Disk
-date: 2024-08-23T11:03:01.700Z
-updated: 2024-08-24T11:03:01.700Z
+date: 2024-09-26T16:14:20.369Z
+updated: 2024-10-01T16:25:34.682Z
 tags:
   - win11
   - win10
@@ -45,8 +45,12 @@ Here are the methods you can use to speed up your Windows 11 boot time:
 3. Finally, toggle the switch next to the apps you don’t want to run at startup. Under the toggle switch, you’ll see the status impact of each, which indicates what disabling them does to your system.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## II. Remove unnecessary files and programs
 
  Over time, your computer may become cluttered with unnecessary files and programs that can slow down your computer’s startup time. By removing these files and programs, you can speed up your Windows 11 boot time and improve your overall computer performance.
@@ -69,8 +73,19 @@ Here is how you can turn Fast Starup On:
 7. Uncheck the**Turn on fast startup option** to turn it off.  
 ![fast startup](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/speed-up-windows-11-boot-time/enable-fast-startup-step-5.jpg)
 8. Click**Save changes** to apply the changes.
+
 <!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## IV. Defragment your hard drive
@@ -84,23 +99,14 @@ Here is how you can turn Fast Starup On:
 3. Select the hard drive you want to defragment.  
 ![defragment hard drive](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/speed-up-windows-11-boot-time/defragment-your-hard-drive-step-3.png)
 4. Click on the Optimize button.
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 5. Wait for the defragmentation process to complete.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ## V. Use an SSD
 
  If you have a modern PC running Windows 11, chances are that it uses an SSD (Solid State Drive), which is faster than a traditional hard disk drive. However, if you’re experiencing slow boot times, upgrading to a new SSD can help improve your boot time.
 
  In addition to upgrading your SSD, another way to speed up your PC’s boot time is to upgrade your RAM. With more RAM, your PC will have more volatile memory available to load temporary items, resulting in faster boot times and an overall improvement in your PC’s performance.
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ## VI. Adjust BIOS settings for faster Windows 11 boot time
 
  Adjusting the BIOS settings can help speed up the boot time on your Windows 11 computer. Here are the steps you need to follow in order to adjust your BIOS settings to improve your Windows 11 boot time:
@@ -116,8 +122,12 @@ Here is how you can turn Fast Starup On:
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## We can help you every time when…
 
 * you cannot find the program in the Apps & Features list
@@ -133,8 +143,6 @@ Here is how you can turn Fast Starup On:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -142,4 +150,26 @@ Here is how you can turn Fast Starup On:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-extract-and-save-youtube-gallery-files-for-2024/"><u>[New] Extract and Save YouTube Gallery Files for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-ultimate-live-setting-picks/"><u>[New] In 2024, Ultimate Live Setting Picks</u></a></li>
+<li><a href="https://win-forum.techidaily.com/software-name-for-windows-11-users-a-simple-way-to-clean-out-your-computers-cache/"><u>[Software Name] for Windows 11 Users: A Simple Way to Clean Out Your Computer's Cache</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-action-camera-selection-under-200-high-quality-low-cost/"><u>2024 Approved Action Camera Selection Under $200 High Quality, Low Cost</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-channel-branding-mastery-securing-a-loyal-youtube-subscriber-base/"><u>2024 Approved Channel Branding Mastery Securing a Loyal YouTube Subscriber Base</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/googles-bard-ai-upgrades-revealed-at-io-202n3-the-top-7-features-you-cant-miss/"><u>Google's BARD AI Upgrades Revealed at IO 202N3 - The Top 7 Features You Can't Miss</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-assessing-cloud-storage-fees-comparisons-and-optimal-prices/"><u>In 2024, Assessing Cloud Storage Fees Comparisons & Optimal Prices</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-harmonizing-vision-and-voice-the-ultimate-guide/"><u>In 2024, Harmonizing Vision and Voice The Ultimate Guide</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-realme-c67-4g-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Realme C67 4G? | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/ipads-best-practices-for-clear-voice-recording-for-2024/"><u>IPad's Best Practices for Clear Voice Recording for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/solving-windows-11s-unexpected-hiccups-a-step-by-step-guide/"><u>Solving Windows 11'S Unexpected Hiccups: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-accessing-and-modifying-system-properties-in-windows-11/"><u>Step-by-Step Guide: Accessing and Modifying System Properties in Windows 11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-removing-unlisted-software-from-your-pc/"><u>Step-by-Step Guide: Removing Unlisted Software From Your PC</u></a></li>
+<li><a href="https://win-forum.techidaily.com/tackling-100-hard-drive-load-problems-in-windows-11-expert-strategies-and-solutions/"><u>Tackling 100% Hard Drive Load Problems in Windows 11 - Expert Strategies & Solutions</u></a></li>
+<li><a href="https://win-forum.techidaily.com/tackling-undetected-installed-apps-on-windows-comprehensive-removal-techniques/"><u>Tackling Undetected Installed Apps on Windows: Comprehensive Removal Techniques</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-complete-tutorial-for-uninstalling-programs-missing-in-the-control-panel/"><u>The Complete Tutorial for Uninstalling Programs Missing in the Control Panel</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-digital-connection-hubs-exploring-facebook-twitter-instagram-and-youtubes-impact/"><u>The Digital Connection Hubs: Exploring Facebook, Twitter, Instagram & YouTube's Impact</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-leading-online-networks-for-communication-facebook-twitter-instagram-youtube/"><u>The Leading Online Networks for Communication: Facebook | Twitter | Instagram | Youtube</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/unraveling-twitchs-mysteries-the-recording-connoisseurs-guide/"><u>Unraveling Twitch's Mysteries The Recording Connoisseur's Guide</u></a></li>
+</ul></div>
 

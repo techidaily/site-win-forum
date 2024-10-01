@@ -1,7 +1,7 @@
 ---
 title: Installing Windows 13 on Incompatible CPUs Using Tricks & Techniques - Comprehensive Tutorial
-date: 2024-09-17T17:09:23.326Z
-updated: 2024-09-21T17:37:21.640Z
+date: 2024-09-24T17:23:06.702Z
+updated: 2024-10-01T16:14:19.957Z
 tags:
   - win11
   - win10
@@ -32,8 +32,23 @@ thumbnail: https://thmb.techidaily.com/57883fb87f9cced582d221233b7cbca11e45336f7
 
 1. Click on the**‘Start’** button located at the bottom left corner of the screen or press the**‘Windows’** key on your keyboard to open the Start menu. ![Start menu lock](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/lock-pc/method-1-start-menu.png)
 2. In the Start menu, click on your user profile icon or name located at the top.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. This will open a menu with various options. Click on**‘Lock’** from the list of options.
 4. Alternatively, you can also press the**‘Windows’** key +**‘L’** on your keyboard as a shortcut to lock your PC instantly.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## II. Another way to lock your Windows Computer and protect your data is through the Task Manager. Here are the steps you have to take in order to do that
 
@@ -51,19 +66,19 @@ thumbnail: https://thmb.techidaily.com/57883fb87f9cced582d221233b7cbca11e45336f7
 
  Pressing**Ctrl + Alt + Delete** triggers a distinct Windows menu to appear on your screen, offering a range of functionalities. Among these options is the Task Manager, granting you the capability to perform several actions, including switching user accounts, changing passwords, and, most notably for our discussion, locking your PC. Simply selecting**“Lock”** from this menu instantly secures your Windows 11 device.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## IV. Lock your PC via the Command Prompt
 
  Locking your Windows 11 system is also possible through the Command Prompt, which is a text-based user interface accepting keyboard input.
 
  To initiate this process, begin by accessing the Start menu search bar. Enter “Command Prompt” and select the best match. Once the Command Prompt window opens, input the following command and press Enter:  
 **Rundll32.exe user32.dll,LockWorkStation**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## V. How to lock your computer with Dynamic Lock
 
@@ -83,10 +98,10 @@ thumbnail: https://thmb.techidaily.com/57883fb87f9cced582d221233b7cbca11e45336f7
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## We can help you every time when…
@@ -111,5 +126,20 @@ thumbnail: https://thmb.techidaily.com/57883fb87f9cced582d221233b7cbca11e45336f7
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-frame-your-cinematic-tales-three-paths-for-instagram-borders/"><u>[New] In 2024, Frame Your Cinematic Tales Three Paths for Instagram Borders</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-breaking-down-anonymous-instagram-streaming-techniques/"><u>[Updated] In 2024, Breaking Down Anonymous Instagram Streaming Techniques</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-selecting-the-perfect-screen-recorder-for-educational-purposes/"><u>2024 Approved Selecting the Perfect Screen Recorder for Educational Purposes</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2024s-most-effective-cable-modem-models-reviewed-for-optimal-internet-speed/"><u>2024'S Most Effective Cable Modem Models Reviewed for Optimal Internet Speed</u></a></li>
+<li><a href="https://article-files.techidaily.com/adding-emotion-and-context-narration-for-videos/"><u>Adding Emotion and Context Narration for Videos</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-photos-from-redmi-a2-by-fonelab-android-recover-photos/"><u>Best Android Data Recovery - Retrieve Lost Photos from Redmi A2.</u></a></li>
+<li><a href="https://win-forum.techidaily.com/connecting-billions-an-in-depth-look-at-facebook-twitter-instagram-and-youtube/"><u>Connecting Billions: An In-Depth Look at Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/demystifying-the-inflexibility-in-gpt-customization/"><u>Demystifying the Inflexibility in GPT Customization</u></a></li>
+<li><a href="https://win-forum.techidaily.com/effective-ways-to-delete-user-settings-in-windows-11-via-revouninstaller-software/"><u>Effective Ways to Delete User Settings in Windows 11 via RevoUninstaller Software</u></a></li>
+<li><a href="https://win-forum.techidaily.com/expert-advice-efficiently-flush-dns-caches-across-both-windows-10-and-windows-11-platforms/"><u>Expert Advice: Efficiently Flush DNS Caches Across Both Windows 10 and Windows 11 Platforms</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-the-fix-for-peak-disk-usage-spike-on-your-windows-10-device-top-tips-and-tricks/"><u>Mastering the Fix for Peak Disk Usage Spike on Your Windows 10 Device: Top Tips & Tricks</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/minecraft-homestead-essentials-6-10/"><u>Minecraft Homestead Essentials #6-10</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Expert Fixes for Clearing Up Dark Screen Troubles on Your Star Wars Battlefront 2 Console/PC Setup
-date: 2024-09-10T10:54:31.670Z
-updated: 2024-09-11T10:54:31.670Z
+date: 2024-09-27T17:23:24.583Z
+updated: 2024-10-01T17:21:53.718Z
 tags:
   - win11
   - win10
@@ -30,19 +30,18 @@ thumbnail: https://thmb.techidaily.com/b39a417d51f84d42969e276c8326049152a3ecf4c
 5. **[Reinstall Fortnite](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Bonus tips: Update your graphics driver](https://tools.techidaily.com/drivereasy/download/)**
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### Fix 1: Restart your computer
 
@@ -50,19 +49,12 @@ thumbnail: https://thmb.techidaily.com/b39a417d51f84d42969e276c8326049152a3ecf4c
 
 If Fortnite still fails, don’t worry. Try the fix, below.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135475/26400" target="_top" id="2135475">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135475/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### Fix 2: Clear the Binaries folder
 
@@ -72,37 +64,16 @@ If Fortnite still fails, don’t worry. Try the fix, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-02_12-03-47.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 **2)**  Type**C:\\Program Files\\Epic Games\\Fortnite\\FortniteGame** in the address bar and press **Enter**  on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-02_12-03-56.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 **3)** Highlight the**Binaries folder** and press the**Del** key on your keyboard.
 
@@ -112,19 +83,12 @@ If Fortnite still fails, don’t worry. Try the fix, below.
 
 If you still can’t open Fortnite, move on and try the next fix.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118304/7443" target="_top" id="2118304">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118304" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118304/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### Fix 3: Verify your game files
 
@@ -140,20 +104,6 @@ If you still can’t open Fortnite, move on and try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-02_12-04-28.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  This process could take several minutes. Please wait for it to be complete. Then, try launching Fortnite to test your problem. If you still get the error message, don’t worry! There are still 2 fixes to try.
 
 ### Fix 4: Repair the EasyAntiCheat
@@ -164,37 +114,16 @@ If you still can’t open Fortnite, move on and try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-02_12-04-38.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 **2)**  Type**easyanticheat** in the search box and press **Enter**  on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-02_12-04-42.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123465/16836" target="_top" id="2123465">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123465" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123465/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 **3)** Right-click **EasyAntiCheat\_Setup.exe** , and then select **Run as administrator** .
 
@@ -206,19 +135,12 @@ If you still can’t open Fortnite, move on and try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-02_12-05-17.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  After the process is complete, relaunch your game to check if your problem has been resolved. If not, read on and try the fix, below.
 
@@ -254,45 +176,24 @@ OR
 
 **[Option 2 – Automatically (Recommended)](https://www.drivereasy.com/knowledge/solved-fortnite-entry-point-not-found-2019-tips/#e2)**  – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ### **Option 1 – Download and install the driver manually**
 
  Epson keeps updating drivers. To get them, you need to go to your graphics product manufacturer’s website, find the driver corresponding with your specific flavor of Windows version (for example, Windows 32 bit) and download the driver manually.
 
  Once you’ve downloaded the correct drivers for your system, double-click on the downloaded file and follow the on-screen instructions to install the driver.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### **Option 2 – Automatically update** your graphics driver
 
@@ -327,8 +228,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -336,4 +235,24 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-best-practices-aspect-ratio-in-twitters-videos/"><u>[New] 2024 Approved Best Practices Aspect Ratio in Twitters Videos</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-determining-view-counts-direct-effect-on-creator-revenue/"><u>[New] 2024 Approved Determining View Count's Direct Effect on Creator Revenue</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/reaking-barriers-youtube-marketing-mastery/"><u>[New] Breaking Barriers YouTube Marketing Mastery</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-a-step-by-step-guide-to-enhancing-your-youtube-content-post-uploading/"><u>[New] In 2024, A Step-by-Step Guide to Enhancing Your YouTube Content Post-Uploading</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-easy-steps-for-arranging-a-google-meeting-for-2024/"><u>[Updated] Easy Steps for Arranging a Google Meeting for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-preventing-non-displayed-images-in-youtubes-shorts/"><u>[Updated] In 2024, Preventing Non-Displayed Images in YouTubes Shorts</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722977766938-download-and-latest-updates-for-canon-mg3022-printer-drivers/"><u>Download & Latest Updates for Canon MG3022 Printer Drivers</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/dvd-shrinkwindows-groove/"><u>DVD ShrinkをWindows Groove上で操作するための完全なガイド：日本語版ダウンロードから始めましょう！</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-giants-of-social-platforms-twitter-facebook-insta-and-yt/"><u>Navigating the Giants of Social Platforms: Twitter, Facebook, Insta & YT</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-a-non-functional-sennheiser-gameone-microphone-a-guide/"><u>Reviving a Non-Functional Sennheiser GameOne Microphone: A Guide</u></a></li>
+<li><a href="https://win-forum.techidaily.com/social-media-titans-delving-into-facebook-twitter-instagram-and-youtubes-success/"><u>Social Media Titans: Delving Into Facebook, Twitter, Instagram and YouTube's Success.</u></a></li>
+<li><a href="https://win-forum.techidaily.com/social-media-titans-strategies-for-dominance-in-facebook-twitter-instagram-and-youtube/"><u>Social Media Titans: Strategies for Dominance in Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/social-sphere-leaders-how-to-use-facebook-twitter-instagram-and-youtube-for-marketing/"><u>Social Sphere Leaders: How to Use Facebook, Twitter, Instagram and YouTube for Marketing</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-correcting-the-class-not-registered-issue-on-your-pc/"><u>Step-by-Step Guide: Correcting the ‘Class Not Registered’ Issue on Your PC</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-deleting-data-using-cmd-on-windows-10/"><u>Step-by-Step Guide: Deleting Data Using CMD on Windows 10</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-setting-up-and-enabling-revo-permission-manager-with-revouninstaller/"><u>Step-by-Step Guide: Setting Up & Enabling Revo Permission Manager with RevoUninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-setting-up-and-enabling-revoappmanager-with-revouninstaller/"><u>Step-by-Step Guide: Setting Up & Enabling RevoAppManager with RevoUninstaller</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Uninstalling a Printer From Your Computer on Windows 11 or Windows 10"
-date: 2024-09-18T17:07:10.245Z
-updated: 2024-09-21T16:10:34.146Z
+date: 2024-09-27T16:41:00.555Z
+updated: 2024-10-01T17:33:10.722Z
 tags:
   - windows
 categories:
@@ -19,6 +19,13 @@ thumbnail: https://thmb.techidaily.com/c9a6389a75e39b0704a742bad64a540518e449e3f
 * [Use PowerShell to Remove a Printer](https://screen-capture.techidaily.com/new-selecting-the-perfect-no-fee-video-communication-tools/)
 * [Delete the Printer's Installed Apps](https://digital-screen-recording.techidaily.com/new-in-2024-best-online-meeting-capture-the-leading-5-gadgets/)
 * [Clean Up the Print Spooler and Leftover Registry Keys](https://instagram-videos.techidaily.com/new-crescendo-creations-adding-audio-magic-to-instagram-stories/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -46,20 +53,27 @@ thumbnail: https://thmb.techidaily.com/c9a6389a75e39b0704a742bad64a540518e449e3f
 
 !['Remove' highlighted for a printer in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-remove-printer-windows-11.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Windows has removed the selected printer.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Uninstall a Printer Using Device Manager
 
  To remove a Printer with Device Manager, first [open Device Manager](https://desktop-recording.techidaily.com/updated-2024-approved-easily-record-lenovo-laptop-screen-activity/) by right-clicking the Start Menu icon and selecting "Device Manager."
 
 !['Device Manager' highlighted in Power User Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-open-windows-device-manager.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Select "View" in the menu bar, then enable "Show Hidden Devices" to ensure your printer appears even if it's hidden. 
 
@@ -69,18 +83,32 @@ thumbnail: https://thmb.techidaily.com/c9a6389a75e39b0704a742bad64a540518e449e3f
 
 !['Uninstall Device' highlighted for a printer in Device Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-uninstall-printer-device-manager.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In the "Uninstall Device" window, enable the "Attempt to Remove the Driver for This Device" (Windows 11) or "Delete the Driver Software for This Device" (Windows 10) option. Then, click "Uninstall."
 
 ![Delete a printer and its drivers in Device Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6-delete-printer-driver-device-manager.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Wait while Device Manager uninstalls the selected printer. Then, bring the changes into effect by [restarting your Windows 11](https://screen-video-capture.techidaily.com/updated-in-2024-addressing-mute-problems-in-obs-live-recording/) or [Windows 10](https://article-posts.techidaily.com/comparing-the-creme-de-la-creme-gopro-hero5-black-to-hero4-silver-for-2024/) PC.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Use PowerShell to Remove a Printer
 
@@ -108,13 +136,6 @@ Remove-Printer -Name “PrinterName”
 
  Most printers (if not all) install their own manufacturer apps when you add a printer to your PC. If you’ve gotten rid of your printer for good, you should remove these installed apps as well. Here’s how to do that.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  On Windows 11
 
  Open Settings using Windows+i and navigate to Apps > Installed apps.
@@ -125,19 +146,6 @@ Remove-Printer -Name “PrinterName”
 
 !['Uninstall' highlighted for a printer app in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/11-delete-printer-app-windows-11.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Select "Uninstall" in the prompt.
 
 ###  On Windows 10
@@ -145,6 +153,13 @@ Remove-Printer -Name “PrinterName”
  Launch Settings using Windows+i and select "Apps."
 
 !['Apps' highlighted in Windows 10 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/12-apps-windows-10-settings.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Find and select your printer app on the list. Choose "Uninstall" and select "Uninstall."
 
@@ -165,10 +180,10 @@ services.msc
 !['Stop' highlighted for the 'Print Spooler' service.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/14-stop-print-spooler-service.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Open Run again (using Windows+R), type the following path, and press Enter:
@@ -214,5 +229,19 @@ HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Print\Printers
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-ultimate-text-effect-strategies/"><u>[New] 2024 Approved Ultimate Text Effect Strategies</u></a></li>
+<li><a href="https://win-forum.techidaily.com/complete-guide-to-permanently-deleting-folders-in-windows-1011-with-revo-uninstaller/"><u>Complete Guide to Permanently Deleting Folders in Windows 10/11 with Revo Uninstaller</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/conversion-gratuite-de-fichiers-3gp-en-format-mjpeg-sur-internet-movavi/"><u>Conversion Gratuite De Fichiers 3GP en Format MJPEG Sur Internet - Movavi</u></a></li>
+<li><a href="https://win-forum.techidaily.com/easy-steps-to-refresh-your-windows-11-driver-software/"><u>Easy Steps to Refresh Your Windows 11 Driver Software</u></a></li>
+<li><a href="https://win-forum.techidaily.com/essential-steps-to-abruptly-end-hanging-windows-apps-without-revouninstaller/"><u>Essential Steps to Abruptly End Hanging Windows Apps Without RevoUninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-the-giants-of-social-media-from-facebook-to-youtube-and-beyond/"><u>Exploring the Giants of Social Media: From Facebook to YouTube and Beyond!</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-13-mini-without-swiping-up-6-ways-drfone-by-drfone-ios/"><u>In 2024, How To Unlock iPhone 13 mini Without Swiping Up? 6 Ways | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-resolve-your-iphone-se-keeps-asking-for-outlook-password-by-drfone-ios/"><u>In 2024, Resolve Your iPhone SE Keeps Asking for Outlook Password</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/pinnacle-mac-sound-segregation-technology-new-2024-improvements/"><u>Pinnacle Mac Sound Segregation Technology – New 2024 Improvements</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-xiaomi-redmi-note-12t-pro-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Xiaomi Redmi Note 12T Pro Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/the-key-to-immersive-roleplay-zooming-into-roblox-worlds/"><u>The Key to Immersive Roleplay Zooming Into Roblox Worlds</u></a></li>
+<li><a href="https://win-forum.techidaily.com/understanding-the-giants-of-digital-networking-fb-tw-ig-and-yt/"><u>Understanding the Giants of Digital Networking: FB, TW, IG & YT</u></a></li>
+</ul></div>
 

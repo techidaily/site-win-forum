@@ -1,7 +1,7 @@
 ---
 title: Maximize Productivity with These 4 Expert Tricks for Using Windows 11 File Explorer Tabs Every Day
-date: 2024-09-20T16:19:21.059Z
-updated: 2024-09-21T17:18:01.399Z
+date: 2024-09-26T16:21:53.122Z
+updated: 2024-10-01T17:37:49.942Z
 tags:
   - windows
 categories:
@@ -42,6 +42,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The tab closing options viewable in File Explorer by right-clicking on an existing tab.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/tab-closing-options.png) 
 
+<!-- affiliate ads begin -->
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Click "Close Other Tabs" to leave just that one tab open, or click "Close Tabs To The Right" to keep that tab and the tabs to the left open, while closing all the other tabs.
 
 ##  Change the Default New Tab Folder
@@ -52,9 +65,29 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The File Explorer 'Options,' accessed via the three dots on the ribbon in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/file-explorer-options.png) 
 
+<!-- affiliate ads begin -->
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Open the "Home" tab in Folder Options window, and click the "Open File Explorer To" drop-down arrow. From there, you can change the default launch folder to "Home" (if this is not already selected), "This PC," or "\[Your Name\] - Personal" (your OneDrive folder). You'll see this in action next time you open a new File Explorer window or tab.
 
 ![File Explorer's Folder Options Window with the 'Open File Explorer To' drop-down options highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/file-explorer-folder-options-window.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Jump Between and Reorder Tabs
 
@@ -66,34 +99,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Five File Explorer tabs numbered from one to five.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/numbered-tabs.png) 
 
 <!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To reorder your tabs along the tab bar (for example, I like to organize my tabs in terms of work completion, with new tasks on the left, semi-finished tasks in their various degrees of completion in the middle, and completed tasks on the right), simply click and drag the tab you want to move and drop it in its new place.
 
  If you want to split your tabs back into separate windows (for example, if you're working on two screens and would find it easier to see a specific folder on the second screen), drag and drop the tab away from the File Explorer window.
-
-<!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Move or Copy Files or Folders Between Tabs
 
@@ -122,5 +136,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-smarter-gameplay-strategic-memory-allocation-to-minecraft/"><u>[New] Smarter Gameplay Strategic Memory Allocation to Minecraft</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-top-10-youtube-cameras-from-novices-to-experts/"><u>[Updated] Top 10 YouTube Cameras, From Novices to Experts</u></a></li>
+<li><a href="https://win-forum.techidaily.com/boost-your-brand-with-effective-techniques-for-facebook-twitter-instagram-and-youtube/"><u>Boost Your Brand with Effective Techniques for Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/command-prompt-techniques-for-file-and-folder-removal-in-windows-nt/"><u>Command Prompt Techniques for File and Folder Removal in Windows nT</u></a></li>
+<li><a href="https://win-forum.techidaily.com/connecting-worldwide-through-top-networks-facebook-twitter-insta-gram-and-youtube/"><u>Connecting Worldwide Through Top Networks: Facebook, Twitter, Insta-Gram, and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/demystifying-bios-using-the-power-of-revo-uninstaller/"><u>Demystifying BIOS Using the Power of Revo Uninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/1722915179991-discover-popular-sites-connect-and-share-on-facebook-twitter-instagram-youtube/"><u>Discover Popular Sites: Connect and Share on Facebook, Twitter, Instagram, Youtube!</u></a></li>
+<li><a href="https://win-forum.techidaily.com/essential-techniques-to-safeguard-your-windows-device-top-5-ways/"><u>Essential Techniques to Safeguard Your Windows Device – Top 5 Ways</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-music-from-samsung-galaxy-a24-by-fonelab-android-recover-music/"><u>How to retrieve erased music from Samsung Galaxy A24</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On OnePlus 11 5G | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-top-10-extensions-for-maxed-out-terria/"><u>In 2024, Top 10 Extensions for Maxed-Out Terria</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-issues-with-netflix-what-to-do-when-titles-wont-stream/"><u>Solving Issues with Netflix: What To Do When Titles Won't Stream</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-tutorial-for-setting-up-wake-on-lan-on-windows-11-systems/"><u>Step-by-Step Tutorial for Setting Up Wake-on-LAN on Windows 11 Systems</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-google-pixel-fold-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Google Pixel Fold Phone Network-Ready</u></a></li>
+<li><a href="https://windows11.techidaily.com/win-11-tackle-icons-not-aligned/"><u>Win 11: Tackle Icons Not Aligned</u></a></li>
+</ul></div>
 

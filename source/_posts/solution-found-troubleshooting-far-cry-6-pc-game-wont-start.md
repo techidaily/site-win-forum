@@ -1,7 +1,7 @@
 ---
 title: "Solution Found: Troubleshooting Far Cry 6 PC Game Won't Start"
-date: 2024-09-14T16:32:00.405Z
-updated: 2024-09-16T16:35:55.853Z
+date: 2024-09-26T16:12:35.195Z
+updated: 2024-10-01T16:51:15.671Z
 tags:
   - win11
   - win10
@@ -30,6 +30,13 @@ Wondering how you can fix the error “Unable to launch game, please verify your
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/how-to-fix-error-Unable-to-launch-game-please-verify-your-game-data.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Verify your game files
 
  Obviously, when this error message pops up, the first thing you would do is to verify the game files. If you’ve done this for multiple times but it still doesn’t work, move to[fix 2](https://tools.techidaily.com/drivereasy/download/) .
@@ -40,6 +47,13 @@ Wondering how you can fix the error “Unable to launch game, please verify your
 2. Navigate to**Settings** . Under**My installed games** on the left, select the game you need to verify. Then click on the tab**VERIFY INTEGRITY** .  
 
 ![Rockstar Games Launcher verify game files](https://images.drivereasy.com/wp-content/uploads/2021/12/rockstar-verify.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Upon completion, a message will pop up above the system tray stating that your game is verified and ready to play.
 
@@ -57,13 +71,6 @@ Wondering how you can fix the error “Unable to launch game, please verify your
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/click-on-the-Check-for-updates-tab.png)
 
  Upon restart, launch your game and check if this works for you. If the error message still pops up, try the next fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Update your drivers
 
@@ -87,10 +94,10 @@ Wondering how you can fix the error “Unable to launch game, please verify your
  After the update is finished, restart your PC. If the error message still occurs, try the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123481/16836" target="_top" id="2123481">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123481" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123481/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Disable background applications
@@ -103,15 +110,22 @@ Wondering how you can fix the error “Unable to launch game, please verify your
 ![open Task Manager](https://images.drivereasy.com/wp-content/uploads/2021/01/open-task-manager.png)
 3. Under the Processes tab, right-click on the programs that you don’t necessarily use and select **End task** .  
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/disable-programs-running-in-the-backgroundend-task.jpg)
 
  Then relaunch your game. If this doesn’t do the trick, move on to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Run the launcher as administrator
@@ -125,6 +139,13 @@ Wondering how you can fix the error “Unable to launch game, please verify your
 
 ![rockstar games launcher run as administrator](https://images.drivereasy.com/wp-content/uploads/2021/12/run-as-administrator.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Then click**Apply > OK** to save the changes.
 
  If your problem persists, don’t worry. Below are some other fixes you can try.
@@ -136,13 +157,6 @@ Wondering how you can fix the error “Unable to launch game, please verify your
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/delete-social-club-folder-rockstar-games-launcher.png)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/delete-social-club-folder-rockstar-games-launcher-2.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Then try to run your game from the Rockstar Games Launcher. If the error message still pops up, it’s time to delete the Rockstar Games folder from OneDrive.
 
@@ -167,5 +181,24 @@ Wondering how you can fix the error “Unable to launch game, please verify your
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-forum.techidaily.com/2024mkv12/"><u>2024年ご覧無料Mkvエディター上位12 - 推奨フリーウェア</u></a></li>
+<li><a href="https://win-forum.techidaily.com/wmvvob-movavi-video/"><u>簡單方法從線上自由將WMV換成VOB - 使用Movavi Video編輯器</u></a></li>
+<li><a href="https://win-forum.techidaily.com/rawwav-movavi/"><u>無料で簡単！オンラインRAWファイルをWAVに変換する - Movavi</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-call-logs-on-itel-by-fonelab-android-recover-call-logs/"><u>Complete guide for recovering call logs on Itel</u></a></li>
+<li><a href="https://win-forum.techidaily.com/effortless-transformation-of-m4a-track-to-wmv-format-get-started-here-for-free/"><u>Effortless Transformation of M4A Track to WMV Format - Get Started Here for Free!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/fast-and-simple-bcm20702a0-driver-download-for-windows-get-started-now/"><u>Fast and Simple BCM20702A0 Driver Download for Windows - Get Started Now!</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-tecno-spark-go-2024-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Tecno Spark Go (2024) Pattern Lock Screen</u></a></li>
+<li><a href="https://win-forum.techidaily.com/free-online-conversion-transforming-m4b-audiobooks-into-m4a-format-with-ease/"><u>Free Online Conversion: Transforming M4B Audiobooks Into M4A Format with Ease</u></a></li>
+<li><a href="https://win-forum.techidaily.com/gratuit-online-konvertent-wav-van-w64-met-movavi-efficient-en-gemakkelijk/"><u>Gratuit Online Konvertent WAV Van W64 Met Movavi - Efficiënt en Gemakkelijk</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-get-your-pc-to-recognize-razer-devices-again/"><u>How to Get Your PC to Recognize Razer Devices Again</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-lava-yuva-2-pro-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Lava Yuva 2 Pro For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-nokia-g310-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Nokia G310 for Parents | Dr.fone</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/new-in-2024-how-to-make-video-slideshow-with-your-travel-photos/"><u>New In 2024, How to Make Video Slideshow with Your Travel Photos</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/prevent-unwanted-image-disappearance-on-iphone-with-this-crucial-icloud-feature-lessons-from-the-apple-glitch/"><u>Prevent Unwanted Image Disappearance on iPhone with This Crucial iCloud Feature, Lessons From the Apple Glitch</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-15-reproductores-de-archivos-mp4-facil-de-usar-para-windows-10-y-macos-version-gratuita/"><u>Top 15 Reproductores De Archivos MP4 Fácil De Usar Para Windows 10 Y macOS - Versión Gratuita</u></a></li>
+<li><a href="https://win-forum.techidaily.com/trasforma-i-tuoi-file-dts-in-formato-m4v-online-gratuitamente-usando-movavi-prova-ora/"><u>Trasforma I Tuoi File DTS in Formato M4V OnLine Gratuitamente Usando Movavi - Prova Ora!</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-on-infinix-smart-8-pro-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Infinix Smart 8 Pro FRP Bypass</u></a></li>
+</ul></div>
 

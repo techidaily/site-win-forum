@@ -1,7 +1,7 @@
 ---
 title: "Easy Guide: Transforming Apple Numbers Documents Into Microsoft Excel Format"
-date: 2024-09-14T16:35:19.358Z
-updated: 2024-09-21T17:03:49.870Z
+date: 2024-09-29T16:40:28.549Z
+updated: 2024-10-01T16:33:56.898Z
 tags:
   - excel
 categories:
@@ -39,15 +39,36 @@ Related: [How to Insert Data from a Picture in Microsoft Excel for Mac](https://
 
 ![Summary sheet in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/Summary-NumbersToExcel.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Require Password to Open**: If the workbook contains sensitive data, you can [password-protect it](https://smart-video-creator.techidaily.com/updated-2024-approved-premiere-pro-performance-optimization-tips-for-a-faster-workflow/) and provide your recipient with that password. Set the password, verify it, and optionally include a hint.
 
 ![Password, Verify, and Hint](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/RequirePassword-NumbersToExcel.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Advanced Options**: You can export the sheet in either XLSX or XLS format depending on the version of Excel your recipient uses. XLS covers older versions of Excel.
 
  When you finish, click "Next."
 
 ![Excel file format selection](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/ExportSheet-NumbersToExcel.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Then, give your file a name, select a location to save it, and click "Export."
 
@@ -67,13 +88,34 @@ Related: [What Is Apple's iCloud and What Does It Back Up?](https://facebook-vid
 
 ![Upload a document on iCloud](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/iCloudUpload-NumbersToExcel.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Browse for, select your file, and click "Open."
 
 ![Open the file](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/iCloudOpenFile-NumbersToExcel.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You'll then see your file uploaded to iCloud. To view and edit the file online, simply double-click to open it.
 
 ![Numbers file on iCloud](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/iCloudWorkbook-NumbersToExcel.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you prefer to download the file in Excel format to edit on your computer, click the three dots on the bottom right corner of the file. Select "Download a Copy."
 
@@ -82,13 +124,6 @@ Related: [What Is Apple's iCloud and What Does It Back Up?](https://facebook-vid
  Choose "Excel" to download the file.
 
 ![Download as Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/iCloudExcel-NumbersToExcel.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Convert Numbers to Excel Using a File Converter
 
@@ -103,13 +138,6 @@ Related: [The Best Free Video Converters](https://discord-videos.techidaily.com/
  Once your file uploads, you can use the format drop-down box to choose XLS or XLSX. Click "Convert" when you're ready.
 
 ![Choose the file type](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/CloudConvertFormat-NumbersToExcel.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After the file is converted, you'll see "Finished" and click "Download" to obtain your Excel file.
 
@@ -136,5 +164,26 @@ Related: [How to Set Excel as the Default App for Spreadsheets on Mac](https://s
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-conquer-the-metaverse-top-7-devices-that-matter/"><u>[New] 2024 Approved Conquer the Metaverse Top 7 Devices That Matter</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-unveiling-the-secrets-of-timelapse-video-shooting-with-hero5/"><u>[Updated] In 2024, Unveiling the Secrets of Timelapse Video Shooting with Hero5</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-the-filmmakers-almanac-of-cinematic-mastery-in-24-for-2024/"><u>[Updated] The Filmmaker's Almanac of Cinematic Mastery in '24 for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/5-premium-ps1-game-simulators-for-pc-gamers-for-2024/"><u>5 Premium PS1 Game Simulators for PC Gamers for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/dancefloor-dynamics-free-pristine-dj-template-videos-for-2024/"><u>Dancefloor Dynamics Free, Pristine DJ Template Videos for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/effective-solutions-for-when-you-encounter-an-app-cant-run-error-on-pc/"><u>Effective Solutions for When You Encounter an 'App Can't Run' Error on PC</u></a></li>
+<li><a href="https://win-forum.techidaily.com/engage-on-the-webs-largest-social-sites-facebook-twitter-instagram-and-youtube/"><u>Engage on The Web's Largest Social Sites: Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-social-media-landscapes-contrast-between-facebook-twitter-instagram-and-youtube/"><u>Exploring Social Media Landscapes: Contrast Between Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Asus ROG Phone 7 Ultimate? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-iphone-hacks-for-minimalist-video-presentation/"><u>In 2024, IPhone Hacks for Minimalist Video Presentation</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-apps-and-online-tools-to-track-itel-p55plus-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Itel P55+ Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-the-mainstream-comprehensive-guide-to-facebook-twitter-instagram-and-youtube-usage/"><u>Mastering the Mainstream: Comprehensive Guide to Facebook, Twitter, Instagram & Youtube Usage</u></a></li>
+<li><a href="https://win-forum.techidaily.com/social-media-titans-an-in-depth-look-at-facebook-twitter-instagram-and-youtube/"><u>Social Media Titans: An In-Depth Look at Facebook, Twitter, Instagram & Youtube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-process-to-forcefully-stop-hanging-software-on-your-windows-11-desktop/"><u>Step-by-Step Process to Forcefully Stop Hanging Software on Your Windows 11 Desktop</u></a></li>
+<li><a href="https://win-forum.techidaily.com/stop-the-cycle-of-crashes-top-7-solutions-for-stable-windows-explorer-experience/"><u>Stop the Cycle of Crashes - Top 7 Solutions for Stable Windows Explorer Experience</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ideal-selection-of-accessories-to-maximize-your-iphone-experience/"><u>The Ideal Selection of Accessories to Maximize Your iPhone Experience</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-leading-digital-hubs-a-guide-to-facebook-twitter-instagram-and-youtube-engagement/"><u>The Leading Digital Hubs: A Guide to Facebook, Twitter, Instagram, and YouTube Engagement</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-powerhouse-platforms-for-digital-interaction-delve-into-facebook-twitter-instagram-and-youtube/"><u>The Powerhouse Platforms for Digital Interaction: Delve Into Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-intense-directx-malfunctions-for-smooth-performance/"><u>Troubleshooting Intense DirectX Malfunctions for Smooth Performance</u></a></li>
+</ul></div>
 

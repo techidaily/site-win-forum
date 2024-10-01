@@ -1,7 +1,7 @@
 ---
 title: "How to Clean Out Persistent Folders From Your System: A Guide for Windows 10/11 Users with Revo Uninstaller"
-date: 2024-09-14T16:16:05.727Z
-updated: 2024-09-21T16:51:22.799Z
+date: 2024-09-30T17:19:08.940Z
+updated: 2024-10-01T16:35:35.819Z
 tags:
   - win11
   - win10
@@ -38,6 +38,13 @@ thumbnail: https://thmb.techidaily.com/8154242c4b48a5a3e2c375932f0ce95d88da4301b
 
  With Revo Uninstaller Pro 5 you can now view your uninstall history. The goal is to let our users keep track of all of the completed uninstall operations.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Command-Line support for Windows Apps and Browser Extensions
 
  In the latest release of Revo Uninstaller, we’ve made a few changes to the Windows Apps module. Aside from having the ability to uninstall Windows Apps via the standard graphical user interface, we’ve also added the choice of uninstalling them via the command-line interface (CLI).
@@ -48,6 +55,13 @@ thumbnail: https://thmb.techidaily.com/8154242c4b48a5a3e2c375932f0ce95d88da4301b
 
 ![Windows Tools](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/introducing-revo-5/3-new-windows-tools.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In Revo Uninstaller Pro 5 we’ve added 3 new additional Windows tools for easy usage:
 
 * Deployment Image Servicing and Management
@@ -57,10 +71,10 @@ thumbnail: https://thmb.techidaily.com/8154242c4b48a5a3e2c375932f0ce95d88da4301b
  Additionally, we added the capability to add custom tools to the Windows Tools module so you can access them easily.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Possibility to uninstall programs and apps for standard (non-admin) users
@@ -73,33 +87,19 @@ Standard user accounts can now uninstall programs and apps
 
  Revo Uninstaller Pro allows you to scan and remove leftovers from different user accounts on your Windows computer.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Improved AutoRun Manager
 
  With the Improved Autorun Manager, you can see a list of Windows Apps and manage their automatic startup for better System Boot speed.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Improved leftover and scanning speed
 
  Another major improvement we’ve made is to reduce the loading times when loading and scanning for leftovers. The speed is improved by up to 30-50%. This is especially noticeable when uninstalling large programs.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Batch uninstall of Windows Apps and Browser Extensions
@@ -108,9 +108,23 @@ Standard user accounts can now uninstall programs and apps
 
  Another improvement to the Windows Apps module is the functionality of batch uninstall. This allows the users to uninstall multiple apps and browser extensions at once.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Dark Mode to the user interface (UI) of Revo Uninstaller Pro 5
 
 ![Dark mode](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/introducing-revo-5/dark-mode.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Revo Uninstaller Pro 5 brings a new Dark mode to the user interface. If you prefer to use dark mode with your apps, you can now set Revo Uninstaller to match your preferences by enabling this feature.
 
@@ -121,13 +135,6 @@ Standard user accounts can now uninstall programs and apps
 ### Improved and Redesigned Quick Uninstall
 
  Our improved Quick Uninstall Module includes a better User Interface and visualization of the whole uninstallation process. Now Revo Uninstaller Pro 5 Quick Uninstall lists all Windows Apps and Browser Extensions, so you can get quick access to them and remove the ones you are not using.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Summary
 
@@ -157,5 +164,19 @@ Standard user accounts can now uninstall programs and apps
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-unveiling-hidden-tiktok-ban-criteria/"><u>[New] 2024 Approved Unveiling Hidden TikTok Ban Criteria</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-essential-steps-for-fb-file-transfers-on-linux-mac/"><u>2024 Approved Essential Steps for FB File Transfers on Linux, Mac</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-video-reviews-the-pivotal-element-in-advertising/"><u>2024 Approved Video Reviews The Pivotal Element in Advertising</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Vivo V30 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/effective-solutions-for-when-programs-refuse-to-open-on-your-personal-computer/"><u>Effective Solutions for When Programs Refuse to Open on Your Personal Computer</u></a></li>
+<li><a href="https://win-forum.techidaily.com/1722915228207-exploring-the-giants-of-social-networking-facebook-twitter-instagram-and-youtube/"><u>Exploring the Giants of Social Networking: Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on OnePlus Nord N30 SE? | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/maximize-storage-on-your-windows-11-pc-with-these-clever-tricks/"><u>Maximize Storage on Your Windows 11 PC with These Clever Tricks</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/reconstructing-damaged-dvds-assistance-from-a-sample/"><u>Reconstructing Damaged Dvds: Assistance From a Sample</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-social-networks-facebook-twitter-instagram-and-youtube-unveiled/"><u>Top Social Networks: Facebook, Twitter, Instagram & YouTube Unveiled</u></a></li>
+<li><a href="https://win-forum.techidaily.com/troubleshooting-and-activation-of-wake-on-lan-for-pcs-running-windows-11/"><u>Troubleshooting and Activation of Wake-on-LAN for PCs Running Windows 11</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-new-horizons-the-absolute-top-9-no-cost-language-websites-to-learn-languages-effortlessly/"><u>Unlocking New Horizons: The Absolute Top 9 No-Cost Language Websites to Learn Languages Effortlessly</u></a></li>
+</ul></div>
 

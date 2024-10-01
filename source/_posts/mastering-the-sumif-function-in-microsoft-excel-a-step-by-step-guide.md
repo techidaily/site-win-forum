@@ -1,7 +1,7 @@
 ---
 title: Mastering the SUMIF Function in Microsoft Excel - A Step-by-Step Guide
-date: 2024-09-16T16:56:52.724Z
-updated: 2024-09-21T16:49:09.014Z
+date: 2024-09-25T17:20:26.614Z
+updated: 2024-10-01T16:35:37.861Z
 tags:
   - excel
 categories:
@@ -57,6 +57,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
 ![SUMIF using equals for a single cell range](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/SingleEquals-ExcelSUMIF.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Use SUMIF With Number Criteria for Multiple Ranges
 
  Now let's put that conditional argument to work, `sum_range`. Here we're [calculating expenses](https://fox-blue.techidaily.com/updated-diving-into-the-depths-with-gopro-hero5-for-2024/) and revenue. With SUMIF, we can calculate the revenue for locations whose expenses meet our criteria and vice versa.
@@ -84,10 +97,10 @@ Related: [How to Create Expense and Income Spreadsheets in Microsoft Excel](http
 ![SUMIF using greater than a cell](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/MultipleGreaterThanCell-ExcelSUMIF.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Use SUMIF With Text Criteria for Multiple Ranges
@@ -102,6 +115,13 @@ Related: [How to Count Cells With Text in Microsoft Excel](https://buynow-tips.t
 
 ![SUMIF equals a word for multiple cells](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/MultipleTextWord-ExcelSUMIF.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  For another example, you can add the sales in cells C2 through C7 for products in cells B2 through B7 that end in "ts."
 
 =SUMIF(B2:B7,"*ts",C2:C7)
@@ -110,13 +130,6 @@ Related: [How to Count Cells With Text in Microsoft Excel](https://buynow-tips.t
 
 ![SUMIF ends with letters in multiple cells](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/MultipleTextWildcard-ExcelSUMIF.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  One more example uses our Shoes product whose Type is blank.
 
 =SUMIF(A2:B7,"",C2:C7)
@@ -124,6 +137,13 @@ Related: [How to Count Cells With Text in Microsoft Excel](https://buynow-tips.t
  In this formula the quotation marks are side-by-side with no space between them. This gives us the sales for Shoes as seen below.
 
 ![SUMIF using a blank for multiple cells](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/MultipleTextBlank-ExcelSUMIF.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The SUMIF function in Excel allows you to take a basic equation and spice it up to fit your needs. It's super handy when adding numbers isn't as simple as two plus two.
 
@@ -142,5 +162,22 @@ Related: [How to Count Cells With Text in Microsoft Excel](https://buynow-tips.t
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-crafting-new-tones-top-7-recording-changer-applications-reviewed/"><u>[New] In 2024, Crafting New Tones Top 7 Recording Changer Applications Reviewed</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-foremost-apps-to-upgrade-your-gopro-creations-on-smartphones/"><u>[Updated] Foremost Apps to Upgrade Your GoPro Creations on Smartphones</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-enhance-your-artistic-expression-10plus-luts-for-zero-price/"><u>[Updated] In 2024, Enhance Your Artistic Expression – 10+ LUTs for Zero Price</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/best-alternatives-to-manycam-top-live-streaming-and-virtual-camera-apps/"><u>Best Alternatives to ManyCam: Top Live Streaming and Virtual Camera Apps</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/downloadable-driving-game-compatible-with-xbox-360-controllers/"><u>Downloadable Driving Game Compatible with Xbox 360 Controllers</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-digital-conversations-on-facebook-twitter-instagram-and-youtube/"><u>Exploring Digital Conversations on Facebook, Twitter, Instagram and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-factory-reset-windows-11-revouninstaller/"><u>How to Factory Reset Windows 11 - RevoUninstaller</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-google-images-and-speed-a-handy-collage-creation-routine/"><u>In 2024, Google Images & Speed A Handy Collage Creation Routine</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-nokia-c210-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Nokia C210 Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/optimize-and-customize-adjusting-bios-configurations-for-windows-11-systems/"><u>Optimize and Customize: Adjusting BIOS Configurations for Windows 11 Systems</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-contacts-after-realme-gt-5-has-been-deleted-by-fonelab-android-recover-contacts/"><u>Recover your contacts after Realme GT 5 has been deleted.</u></a></li>
+<li><a href="https://win-forum.techidaily.com/solving-application-cannot-be-launched-on-your-computer-issue/"><u>Solving 'Application Cannot Be Launched on Your Computer' Issue</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/synergy-with-silicon-6-traits-for-a-flourishing-future-workforce/"><u>Synergy with Silicon: 6 Traits for a Flourishing Future Workforce</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-digital-giants-navigating-through-facebook-twitter-instagram-and-youtube/"><u>Top Digital Giants: Navigating Through Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/1722915145446-understanding-digital-interaction-the-powerhouses-facebook-twitter-instagram-and-youtube/"><u>Understanding Digital Interaction: The Powerhouses - Facebook, Twitter, Instagram & Youtube</u></a></li>
+</ul></div>
 

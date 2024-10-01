@@ -1,7 +1,7 @@
 ---
 title: "Unlock the Power of Your PC: Discover 13 Methods to Access Windows 11 Settings"
-date: 2024-09-17T16:41:23.871Z
-updated: 2024-09-21T16:47:33.289Z
+date: 2024-09-25T16:40:06.569Z
+updated: 2024-10-01T17:09:52.030Z
 tags:
   - windows
 categories:
@@ -43,10 +43,10 @@ thumbnail: https://thmb.techidaily.com/d62120d0f92dda8643d1fb18ba050a4238aed422d
  The Settings app will open.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Use the Power User Menu
@@ -56,13 +56,6 @@ thumbnail: https://thmb.techidaily.com/d62120d0f92dda8643d1fb18ba050a4238aed422d
 ![Right-click the Start button, then select 'Settings.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/open-settings-power-user-menu.png) 
 
  Settings will open.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Search for Settings in Windows Search
 
@@ -74,6 +67,13 @@ thumbnail: https://thmb.techidaily.com/d62120d0f92dda8643d1fb18ba050a4238aed422d
 
  Settings will then launch.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Access Settings From the Context Menu on the Desktop
 
  Another quick way to access Settings is from the desktop's context menu. First, right-click anywhere on your desktop and the context menu will appear. At the bottom of the context menu, click "Display Settings" or "Personalize."
@@ -84,6 +84,13 @@ thumbnail: https://thmb.techidaily.com/d62120d0f92dda8643d1fb18ba050a4238aed422d
 
 ![Click the 'Home' button in the top-left corner of any of the pages in the Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/click-the-home-button.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 
 
 ##  Open Settings From File Explorer
@@ -91,6 +98,13 @@ thumbnail: https://thmb.techidaily.com/d62120d0f92dda8643d1fb18ba050a4238aed422d
  You can also access the Settings app from File Explorer's ribbon. First, [open File Explorer](https://youtube-web.techidaily.com/ed-2024-approved-streamers-financial-health-check-in-youtubers/) by clicking its icon in the Taskbar, or use the Windows+E keyboard shortcut.
 
 ![Click the File Explorer icon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/Click-the-File-Explorer-icon..png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Next, in File Explorer, click "This PC" in the left-hand pane and then click "Open Settings" in the ribbon.
 
@@ -103,13 +117,6 @@ thumbnail: https://thmb.techidaily.com/d62120d0f92dda8643d1fb18ba050a4238aed422d
  There's also a way to start the Settings app from the [Action Center](https://win-dash.techidaily.com/download-and-update-tp-link-usb-400-bluetooth-adapter-drivers-faster-pairing/). First, click the text bubble in the bottom-right corner of your desktop to open the Action Center.
 
 ![Click the text bubble icon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/Click-the-text-bubble-icon..png) 
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Next, click "Expand" in the bottom-left corner of the Action Center.
 
@@ -126,6 +133,13 @@ thumbnail: https://thmb.techidaily.com/d62120d0f92dda8643d1fb18ba050a4238aed422d
  You can open all kinds of apps from Task Manager—including the Settings app. First, [open Task Manager](https://youtube-blog.techidaily.com/24-top-15-gaming-capture-utilities/) by using the Ctrl+Shift+Esc keyboard shortcut. In Task Manager, click the "File" tab and then click "Run New Task" from the drop-down menu.
 
 ![Click 'File,' then select 'Run New Task.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/tsk-mngr-file-run-new-task.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The Create New Task window will appear. In the text box, type **ms-settings:** in the field, and then click "OK."
 
@@ -156,10 +170,23 @@ thumbnail: https://thmb.techidaily.com/d62120d0f92dda8643d1fb18ba050a4238aed422d
 ![Click the 'Home' button to go to the main page of the Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/click-home-button-in-settings-again.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Run a Command in the Run App
@@ -176,18 +203,18 @@ thumbnail: https://thmb.techidaily.com/d62120d0f92dda8643d1fb18ba050a4238aed422d
 
 ![Opening 'Command Prompt' from the Start Menu or taskbar search.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/command-prompt.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In Command Prompt, run this command:
 
 start ms-settings:
 
 ![Running 'start ms-settings:' in Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/cmd.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The Settings app will open.
 
@@ -220,5 +247,24 @@ start ms-settings:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-best-5-fpv-goggles-for-drone-racing/"><u>[New] Best 5 FPV Goggles for Drone Racing</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-the-ultimate-list-of-cost-free-industry-approved-video-callers/"><u>[Updated] 2024 Approved The Ultimate List of Cost-Free, Industry-Approved Video Callers</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-revolutionizing-gameplay-a-curated-list-of-stardew-valleys-top-7-mods/"><u>[Updated] Revolutionizing Gameplay A Curated List of Stardew Valley's Top 7 Mods</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-above-and-beyond-vertical-panoramas-made-easy/"><u>2024 Approved Above and Beyond Vertical Panoramas Made Easy</u></a></li>
+<li><a href="https://techtrends.techidaily.com/classroom-companions-unveiling-the-top-nine-technological-essentials-for-academics/"><u>Classroom Companions: Unveiling the Top Nine Technological Essentials for Academics</u></a></li>
+<li><a href="https://win-forum.techidaily.com/1722915325819-exploring-the-biggest-networking-sites-facebook-twitter-instagram-and-youtube/"><u>Exploring the Biggest Networking Sites: Facebook, Twitter, Instagram, and YouTube!</u></a></li>
+<li><a href="https://extra-information.techidaily.com/integrating-soundscapes-with-fusion-studios-tips/"><u>Integrating Soundscapes with Fusion Studio's Tips</u></a></li>
+<li><a href="https://win-forum.techidaily.com/introducing-the-new-and-enhanced-revo-uninstaller-pro-5-edition/"><u>Introducing the New and Enhanced Revo Uninstaller Pro 5 Edition</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-file-management-a-step-by-step-tutorial-for-cmd-deletion-on-windows-10/"><u>Mastering File Management: A Step-by-Step Tutorial for CMD Deletion on Windows 10</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-pc-control-how-to-hard-stop-programs-stuck-on-windows-11-computers/"><u>Mastering PC Control: How to Hard Stop Programs Stuck on Windows 11 Computers</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-the-big-players-in-social-media-tips-for-using-facebook-twitter-instagram-and-youtube/"><u>Mastering the Big Players in Social Media: Tips for Using Facebook, Twitter, Instagram & Youtube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-command-line-for-optimal-file-deletion-in-windows-11-environments/"><u>Navigating the Command Line for Optimal File Deletion in Windows 11 Environments</u></a></li>
+<li><a href="https://win-guides.techidaily.com/transform-dailymotion-music-clips-into-crystal-clear-mp3-audio-using-this-powerful-downloader-tool/"><u>Transform DailyMotion Music Clips Into Crystal Clear MP3 Audio Using This Powerful Downloader Tool</u></a></li>
+<li><a href="https://win-forum.techidaily.com/ultimate-fixes-for-the-missing-class-error-in-windows-a-comprehensive-tutorial/"><u>Ultimate Fixes for the Missing Class Error in Windows: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://win-forum.techidaily.com/ultimate-troubleshooting-steps-for-managing-maxed-out-disk-space-in-windows-11/"><u>Ultimate Troubleshooting Steps for Managing Maxed-Out Disk Space in Windows 11</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unleash-universal-connectivity-mastering-access-to-chatgpt-through-chatgpt-everywheres-features/"><u>Unleash Universal Connectivity: Mastering Access to ChatGPT Through ChatGPT Everywhere's Features</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-the-best-free-mkv-editors-for-cutting-and-trimming-for-2024/"><u>Updated The Best Free MKV Editors for Cutting and Trimming for 2024</u></a></li>
+</ul></div>
 
