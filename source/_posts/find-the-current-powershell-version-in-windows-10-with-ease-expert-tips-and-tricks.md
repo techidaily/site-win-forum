@@ -1,7 +1,7 @@
 ---
 title: Find the Current PowerShell Version in Windows 10 with Ease – Expert Tips & Tricks
-date: 2024-08-18T11:12:20.592Z
-updated: 2024-08-19T11:12:20.592Z
+date: 2024-10-01T18:39:32.355Z
+updated: 2024-10-06T18:24:55.071Z
 tags:
   - win11
   - win10
@@ -38,8 +38,12 @@ After that, you need to do the following:
 3. Continue clicking the**Encrypt the File Only** option and click**OK** .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How to encrypt your text file
 
  After password-protecting your text file, the next crucial step is to encrypt the file to ensure optimal data protection. Encryption is the process of converting the original text file into a coded format, making it unreadable to anyone who does not have the correct decryption key. By encrypting your text file, you can ensure that even if someone gains unauthorized access to it, they will not be able to read the contents without the decryption key.
@@ -58,9 +62,6 @@ Some of the popular encryption tools are
 
  These tools will allow you to encrypt your file with a password. Choose the one that suits your needs and download it from their official website. Once downloaded, install the software on your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Encrypt your text files with WinRar to password protect your text files
 
  To show you an example we will take a look at how to encrypt your text files with WinRar.
@@ -73,14 +74,14 @@ So, here are the steps to follow:
 2. Under the**General tab** , you can choose an Archive format among RAR, RAR5, and ZIP, and click**Set password** .  
 ![set password](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/password-protect-text-files/encrypt-your-text-files-with-winrar-step-2.png)
 3. Enter the password you prepared and click**OK** .
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Conclusion
 
  Password-protecting your text files is a simple yet effective way to safeguard sensitive information. By using encryption software, you can easily protect your files from unauthorized access. Remember to choose a strong password and delete the original unencrypted text file to ensure maximum security.
@@ -88,12 +89,25 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## We can help you every time when…
 
 * you cannot find the program in the Apps & Features list
@@ -109,8 +123,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -118,4 +130,26 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-mastering-snapshits-pro-photography-edits-guide-for-2024/"><u>[New] Mastering Snapshits Pro Photography Edits Guide for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-optimizing-your-virtual-gaming-experience-with-kinemaster-and-its-competitors/"><u>[New] Optimizing Your Virtual Gaming Experience with KineMaster & Its Competitors</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-the-easy-way-to-change-and-upgrade-iphones-ringtones/"><u>[New] The Easy Way to Change and Upgrade iPhone's Ringtones</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-melodic-melding-understanding-sound-transition/"><u>[Updated] In 2024, Melodic Melding Understanding Sound Transition</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-easy-access-best-free-youtube-subtitle-extractors/"><u>2024 Approved Easy Access Best Free YouTube Subtitle Extractors</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-freeze-action-with-iphone-mastery-of-motion-blur-techniques/"><u>2024 Approved Freeze Action with iPhone Mastery of Motion-Blur Techniques</u></a></li>
+<li><a href="https://win-forum.techidaily.com/freeing-up-space-on-your-windows-11-system-a-comprehensive-guide/"><u>Freeing Up Space on Your Windows 11 System: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-fix-pc-issues-preventing-windows-11-installation-successfully/"><u>How to Fix PC Issues Preventing Windows 11 Installation Successfully</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-implement-driver-updates-on-your-computer-running-windows-10-effortlessly/"><u>How to Implement Driver Updates on Your Computer Running Windows 10 Effortlessly</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unravel-the-secrets-of-top-tier-video-editing-with-vivacut-24/"><u>In 2024, Unravel the Secrets of Top-Tier Video Editing with VivaCut '24</u></a></li>
+<li><a href="https://fox-access.techidaily.com/inshot-cut-mastery-creating-fluid-movements/"><u>Inshot Cut Mastery Creating Fluid Movements</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-the-windows-11-installation-hurdle-on-incompatible-systems/"><u>Mastering the Windows 11 Installation Hurdle on Incompatible Systems</u></a></li>
+<li><a href="https://win-forum.techidaily.com/maximize-performance-with-revouninstaller-pro-5-advanced-uninstalling-at-its-best/"><u>Maximize Performance with RevoUninstaller Pro 5 - Advanced Uninstalling at Its Best</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-digital-world-mastering-engagement-across-facebook-twitter-instagram-and-youtube-platforms/"><u>Navigating the Digital World: Mastering Engagement Across Facebook, Twitter, Instagram & YouTube Platforms</u></a></li>
+<li><a href="https://extra-support.techidaily.com/podcast-vs-youtube-the-ideal-medium-explored-for-2024/"><u>Podcast vs YouTube The Ideal Medium Explored for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Vivo V30 Lite 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/social-media-powerhouses-stay-connected-with-facebook-twitter-insta-gram-and-tubeyou/"><u>Social Media Powerhouses: Stay Connected with Facebook, Twitter, Insta-Gram & TubeYou</u></a></li>
+<li><a href="https://win-forum.techidaily.com/solving-windows-11-cannot-launch-issues-in-your-system/"><u>Solving 'Windows 11 Cannot Launch' Issues in Your System</u></a></li>
+<li><a href="https://win-forum.techidaily.com/understanding-social-media-impact-with-facebook-twitter-instagram-and-youtube-analysis/"><u>Understanding Social Media Impact with Facebook, Twitter, Instagram, and YouTube Analysis</u></a></li>
+</ul></div>
 

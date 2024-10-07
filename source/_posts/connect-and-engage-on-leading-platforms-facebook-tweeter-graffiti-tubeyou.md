@@ -1,7 +1,7 @@
 ---
 title: "Connect and Engage on Leading Platforms: Facebook, Tweeter, Graffiti, TubeYou"
-date: 2024-08-18T11:12:14.030Z
-updated: 2024-08-19T11:12:14.030Z
+date: 2024-09-29T21:06:33.684Z
+updated: 2024-10-06T19:16:12.179Z
 tags:
   - win11
   - win10
@@ -42,6 +42,13 @@ To use this method do the following:
 ![delete file with command prompt](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/delete-with-command-prompt/Method1-step2.png)
 3. After that press**Enter**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Lets’ see this example to clarify the whole process:
 
  You want to delete a file called_Info.txt_ that is located on your desktop. Use the following command in the Command Prompt where you replace username with your own username:
@@ -58,14 +65,6 @@ You can also add the /f parameter to force delete a read-only file.
 
  You can also use Revo Uninstallers’[force uninstall feature](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1) if you have trouble removing stubborn programs.
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## To delete folders in Windows 10 with CMD you have to use the rmdir command
 
  This command will remove all folders including the subfolders and files in them.
@@ -77,8 +76,12 @@ To use this command do the following:
 **`rmdir PATH`**  
 ![remove folder with command prompt](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/delete-with-command-prompt/Method2-step2.png)
 3. Press**Enter** to finish the process
+
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  For example, to delete a folder named “Info” on your desktop, use the following command where you will replace username with your own username:
@@ -90,9 +93,12 @@ To use this command do the following:
  If you want to delete all the files and subfolders in the folder you want to delete, add the /s parameter. This will ensure that the folder is removed including the subfolders and files in it.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Conclusion
 
  As you’ve noticed, commands to delete files and folders in Windows 10 can be pretty handy if you have trouble deleting them the regular way.
@@ -100,11 +106,12 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
+
 ## We can help you every time when…
 
 * you cannot find the program in the Apps & Features list
@@ -120,8 +127,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -129,4 +134,21 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-leveraging-the-power-of-windows-11s-auto-hdr-enhancement/"><u>[New] Leveraging the Power of Windows 11'S Auto HDR Enhancement</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-crossing-the-line-free-verifying-video-rights-on-tiktok/"><u>[Updated] Crossing the Line-Free Verifying Video Rights on TikTok</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-elevate-your-video-workflow-capturing-mov-files-on-windows-10/"><u>2024 Approved Elevate Your Video Workflow Capturing MOV Files on Windows 10</u></a></li>
+<li><a href="https://win-forum.techidaily.com/connecting-in-the-age-of-media-giants-the-power-of-facebook-twitter-instagram-youtube/"><u>Connecting in the Age of Media Giants: The Power of Facebook, Twitter, Instagram, YouTube</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/efficient-movie-file-management-in-windows-11-six-approaches/"><u>Efficient Movie File Management in Windows 11 Six Approaches</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/evaluating-the-govee-t8-led-flood-lights-versatile-outdoor-lighting-options-at-a-premium-cost/"><u>Evaluating the Govee T8 LED Flood Lights: Versatile Outdoor Lighting Options at a Premium Cost</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-the-world-of-social-networking-on-fb-twtr-ig-yt/"><u>Exploring the World of Social Networking on FB, TWTR, IG, YT</u></a></li>
+<li><a href="https://win-forum.techidaily.com/guide-to-identifying-the-latest-powershell-version-installed-in-windows-11/"><u>Guide to Identifying the Latest PowerShell Version Installed in Windows 11</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Oppo F23 5G | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-itel-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Itel S23+? | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-silencing-sounds-techniques-for-audio-deletion-in-imovie-videos/"><u>In 2024, Silencing Sounds Techniques for Audio Deletion in iMovie Videos</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-system-information-accessing-bios-on-windows-11/"><u>Mastering System Information: Accessing BIOS on Windows 11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-removing-windows-11-updates-successfully/"><u>Step-by-Step Guide: Removing Windows 11 Updates Successfully</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-made-simple-how-to-perform-a-full-cmos-reset/"><u>Troubleshooting Made Simple: How to Perform a Full CMOS Reset</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Big Four of Social Networks: Facebook, Twitter, Instagram & YouTube"
-date: 2024-08-23T10:59:03.620Z
-updated: 2024-08-24T10:59:03.620Z
+date: 2024-10-03T19:32:32.539Z
+updated: 2024-10-06T19:36:52.872Z
 tags:
   - win11
   - win10
@@ -30,9 +30,6 @@ thumbnail: https://thmb.techidaily.com/307c74c604613a22f691edcf44e5f2764e78d11c7
 
  Since 2016 PowerShell was announced as open-source and cross-platform. You can use it on macOS and Linux too. Although it is native to Windows OS, and Microsoft only supports security updates and bug fixes, PowerShell Core is being worked on to clear these issues with other OS.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ## Why is it important to know which PowerShell version you are running?
 
  PowerShell had many versions during the year starting with version 1.0 back in 2006\. The newest version( version 7) comes with the following new features:
@@ -50,32 +47,41 @@ thumbnail: https://thmb.techidaily.com/307c74c604613a22f691edcf44e5f2764e78d11c7
 
 ![start menu PowerShell](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/check-win10-powershell-version/start-menu-powershell.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You will see a window, where you enter the following command**$PSVersionTable.PSVersion** , and hit Enter. In the screenshot below you can see an example where you can find the version.
 
 ![PSVersion command](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/check-win10-powershell-version/powershell-version-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
  Another method that you can use to check what PowerShell version you are running is to use the command “Get-Host”
 
 ![Get Host command](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/check-win10-powershell-version/powershell-version-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
  The last method we will show you is by using the command “$host.version”. You will see the PowerShell version in a slightly different format. You will be able to see the Major and Minor release and the build number and revision.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How can I upgrade to a newer version of PowerShell?
 
  You can run both Windows PowerShell and PowerShell 7.2 on the same computer. You do not have to worry about the lack of feature parity by upgrading. Simply keep the current Windows PowerShell installed and also download PowerShell. You can do that by going to its[GitHub release page](https://github.com/PowerShell/PowerShell/releases) . You will see a list of assets, where you can simply choose the OS you want to download for.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Conclusion
 
  Overall PowerShell can help you with automating some of the tasks that you are doing on regular basis on your PC. By knowing which version you are running and how to upgrade it you will be able to utilize it without any issues.
@@ -83,8 +89,12 @@ thumbnail: https://thmb.techidaily.com/307c74c604613a22f691edcf44e5f2764e78d11c7
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## We can help you every time when…
 
 * you cannot find the program in the Apps & Features list
@@ -100,8 +110,6 @@ thumbnail: https://thmb.techidaily.com/307c74c604613a22f691edcf44e5f2764e78d11c7
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -109,4 +117,18 @@ thumbnail: https://thmb.techidaily.com/307c74c604613a22f691edcf44e5f2764e78d11c7
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-elevate-your-feed-10-must-have-instagram-tools/"><u>[New] In 2024, Elevate Your Feed 10 Must-Have Instagram Tools</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-comprehensive-list-the-most-acclaimed-10-vimeo-video-harvesters/"><u>[Updated] In 2024, Comprehensive List The Most Acclaimed 10 Vimeo Video Harvesters</u></a></li>
+<li><a href="https://win-forum.techidaily.com/fix-this-device-doesnt-support-receiving-miracast-2024-tips/"><u>Fix ‘This Device Doesn’t Support Receiving Miracast’ 2024 Tips</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-gmail-password-on-infinix-smart-7-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Infinix Smart 7 Devices</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/kodi-mastery-setting-up-alldvd-as-a-replacement-for-realdebrid-streaming-services/"><u>Kodi Mastery: Setting Up AllDVD as a Replacement for RealDebrid Streaming Services</u></a></li>
+<li><a href="https://win-forum.techidaily.com/no-more-interruptions-solve-your-disco-elysium-pc-game-crashes-today/"><u>No More Interruptions: Solve Your Disco Elysium PC Game Crashes Today!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/realme-data-retrieval-tool-restore-lost-data-from-realme-by-fonelab-android-recover-data/"><u>Realme Data Retrieval tool – restore lost data from Realme</u></a></li>
+<li><a href="https://win-forum.techidaily.com/1723016215288-restoring-audio-to-your-hearthstone-adventures-no-more-silent-battles/"><u>Restoring Audio to Your Hearthstone Adventures: No More Silent Battles</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/revamp-your-computer-experience-with-tailored-themes-in-windows-10/"><u>Revamp Your Computer Experience with Tailored Themes in Windows 10</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-solution-enforcing-immediate-shutdown-of-frozen-apps-on-windows-e/"><u>Step-by-Step Solution: Enforcing Immediate Shutdown of Frozen Apps on Windows E</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-second-generation-of-google-nest-hub-insights-a-missed-opportunity-without-cameras/"><u>The Second Generation of Google Nest Hub Insights - A Missed Opportunity Without Cameras?</u></a></li>
+</ul></div>
 

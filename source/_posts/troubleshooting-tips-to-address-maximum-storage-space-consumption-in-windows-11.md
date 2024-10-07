@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Tips to Address Maximum Storage Space Consumption in Windows 11
-date: 2024-08-23T10:58:04.894Z
-updated: 2024-08-24T10:58:04.894Z
+date: 2024-10-05T16:29:43.212Z
+updated: 2024-10-06T18:49:18.256Z
 tags:
   - win11
   - win10
@@ -25,6 +25,13 @@ thumbnail: https://thmb.techidaily.com/535e511366421d20704d6ebc700fde0a780ee97fa
 [How to check Windows 10 PowerShell version](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/check-win10-powershell-version/cover.png) ](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1)
 
  PowerShell is an amazing tool created by Microsoft so you can automate tasks. By knowing which PowerShell version you have access to, you will know what features you can use. There are more than 200 commands that can be used within PowerShell and it is a super flexible framework that will save you a bunch of time.
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Can you use PowerShell only on your Windows computer?
 
@@ -51,28 +58,30 @@ thumbnail: https://thmb.techidaily.com/535e511366421d20704d6ebc700fde0a780ee97fa
 
 ![PSVersion command](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/check-win10-powershell-version/powershell-version-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
  Another method that you can use to check what PowerShell version you are running is to use the command “Get-Host”
 
 ![Get Host command](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/check-win10-powershell-version/powershell-version-2.png)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  The last method we will show you is by using the command “$host.version”. You will see the PowerShell version in a slightly different format. You will be able to see the Major and Minor release and the build number and revision.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How can I upgrade to a newer version of PowerShell?
 
  You can run both Windows PowerShell and PowerShell 7.2 on the same computer. You do not have to worry about the lack of feature parity by upgrading. Simply keep the current Windows PowerShell installed and also download PowerShell. You can do that by going to its[GitHub release page](https://github.com/PowerShell/PowerShell/releases) . You will see a list of assets, where you can simply choose the OS you want to download for.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Conclusion
 
  Overall PowerShell can help you with automating some of the tasks that you are doing on regular basis on your PC. By knowing which version you are running and how to upgrade it you will be able to utilize it without any issues.
@@ -80,20 +89,12 @@ thumbnail: https://thmb.techidaily.com/535e511366421d20704d6ebc700fde0a780ee97fa
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ## We can help you every time when…
 
 * you cannot find the program in the Apps & Features list
@@ -109,8 +110,6 @@ thumbnail: https://thmb.techidaily.com/535e511366421d20704d6ebc700fde0a780ee97fa
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -118,4 +117,26 @@ thumbnail: https://thmb.techidaily.com/535e511366421d20704d6ebc700fde0a780ee97fa
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-secrets-of-the-trade-boosting-popularity-with-tiktok-unboxings/"><u>[New] 2024 Approved Secrets of the Trade Boosting Popularity with TikTok Unboxings</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-retro-revelry-on-snapchat-camera-roll-insights/"><u>[New] In 2024, Retro Revelry on Snapchat Camera Roll Insights</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-downloading-videos-directly-to-iphoneipad-youtubes-quick-guide/"><u>[Updated] 2024 Approved Downloading Videos Directly to iPhone/iPad - YouTube's Quick Guide</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-elevate-your-content-pc-video-editing-for-effective-youtube-presentations-for-2024/"><u>[Updated] Elevate Your Content PC Video Editing for Effective YouTube Presentations for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-fundamental-furnishings-in-mc-the-basics-of-homesteading/"><u>[Updated] Fundamental Furnishings in MC The Basics of Homesteading</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/best-20-free-public-license-pubg-gallery-mixes-for-2024/"><u>Best 20 Free Public License PUBG Gallery Mixes for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/determining-your-current-powershell-version-on-windows-11-a-step-by-step-guide/"><u>Determining Your Current PowerShell Version on Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-the-big-four-of-social-networks-facebook-twitter-instagram-and-youtube/"><u>Exploring the Big Four of Social Networks: Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-apple-iphone-14-plus-to-chromecast-drfone-by-drfone-ios/"><u>How to Cast Apple iPhone 14 Plus to Chromecast? | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-digital-landscape-facebook-twitter-instagram-and-youtube-guide/"><u>Navigating the Digital Landscape: Facebook, Twitter, Instagram and YouTube Guide</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-through-top-digital-landscapes-a-look-at-facebook-twitter-instagram-and-youtube/"><u>Navigating Through Top Digital Landscapes: A Look at Facebook, Twitter, Instagram & Youtube</u></a></li>
+<li><a href="https://common-error.techidaily.com/nvidia-share-not-responding-solved/"><u>NVIDIA Share Not Responding [SOLVED]</u></a></li>
+<li><a href="https://win-forum.techidaily.com/overcoming-errors-preventing-windows-11-setup-on-pc-revouninstaller-methods-explained/"><u>Overcoming Errors Preventing Windows 11 Setup on PC - RevoUninstaller Methods Explained</u></a></li>
+<li><a href="https://win-forum.techidaily.com/social-media-titans-showdown-facebook-vs-twitter-vs-instagram-vs-youtube-explained/"><u>Social Media Titans Showdown: Facebook Vs. Twitter Vs. Instagram Vs. YouTube Explained</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-setting-up-your-revoapps-manager-and-reactivating-with-ease/"><u>Step-by-Step Guide: Setting Up Your RevoApps Manager & Reactivating with Ease</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-definitive-guide-to-removing-windows-1sic-10-accounts-using-revo-uninstaller/"><u>The Definitive Guide to Removing Windows 1([Sic] 10 Accounts Using Revo Uninstaller</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-ultimate-showdown-determining-the-best-between-alexa-and-google-assistant-for-you/"><u>The Ultimate Showdown: Determining the Best Between Alexa and Google Assistant for You</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transforming-3d-printing-the-tiny-chip-based-printer-thats-bigger-than-its-size-now-smaller-than-a-penny-with-unparalleled-reliability/"><u>Transforming 3D Printing: The Tiny Chip-Based Printer That's Bigger Than Its Size - Now Smaller than a Penny with Unparalleled Reliability</u></a></li>
+<li><a href="https://win-forum.techidaily.com/unraveling-the-world-of-social-networks-a-deep-dive-into-facebook-twitter-instagram-and-youtube/"><u>Unraveling the World of Social Networks: A Deep Dive Into Facebook, Twitter, Instagram and YouTubе</u></a></li>
+</ul></div>
 

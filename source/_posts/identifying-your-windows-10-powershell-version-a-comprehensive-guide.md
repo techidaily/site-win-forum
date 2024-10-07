@@ -1,7 +1,7 @@
 ---
 title: "Identifying Your Windows 10 PowerShell Version: A Comprehensive Guide"
-date: 2024-08-23T11:01:52.748Z
-updated: 2024-08-24T11:01:52.748Z
+date: 2024-09-29T17:18:19.073Z
+updated: 2024-10-06T17:04:53.966Z
 tags:
   - win11
   - win10
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/80d3fa767f44fdaa6b3c03730260a31e590107858
 3. This will open a menu with various options. Click on**‘Lock’** from the list of options.
 4. Alternatively, you can also press the**‘Windows’** key +**‘L’** on your keyboard as a shortcut to lock your PC instantly.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## II. Another way to lock your Windows Computer and protect your data is through the Task Manager. Here are the steps you have to take in order to do that
 
 1. Right-click on the taskbar at the bottom of your screen. This will open a context menu.
@@ -43,32 +50,34 @@ thumbnail: https://thmb.techidaily.com/80d3fa767f44fdaa6b3c03730260a31e590107858
 4. Select**“App History”**
 5. From the dropdown menu, select**“Run new task”** . ![Run new task](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/lock-pc/method-2-task-manager-1.png)
 6. In the**“Create new task”** window, type**“tsdiscon”** (short for “Terminal Services Disconnect”) into the text field. ![Create new task](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/lock-pc/method-2-task-manager-2.png)
-7. Check the box next to**“Create this task with administrative privileges”** .
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+7. Check the box next to**“Create this task with administrative privileges”** .
 8. Click**“OK”** .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## III. How to Lock a Windows 11 computer via the Ctrl + Alt + Delete Menu
 
  Pressing**Ctrl + Alt + Delete** triggers a distinct Windows menu to appear on your screen, offering a range of functionalities. Among these options is the Task Manager, granting you the capability to perform several actions, including switching user accounts, changing passwords, and, most notably for our discussion, locking your PC. Simply selecting**“Lock”** from this menu instantly secures your Windows 11 device.
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## IV. Lock your PC via the Command Prompt
 
  Locking your Windows 11 system is also possible through the Command Prompt, which is a text-based user interface accepting keyboard input.
@@ -77,8 +86,12 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 **Rundll32.exe user32.dll,LockWorkStation**
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## V. How to lock your computer with Dynamic Lock
 
  Locking your Windows 11 PC with Dynamic Lock offers an additional layer of security by automatically securing your device when you step away. Dynamic Lock utilizes the presence of a paired Bluetooth device to determine your proximity to the PC. When you move out of range, your PC locks itself to prevent unauthorized access. Here’s how to set it up:
@@ -96,12 +109,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ## We can help you every time when…
 
 * you cannot find the program in the Apps & Features list
@@ -117,8 +124,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -126,4 +131,22 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-advanced.techidaily.com/1-seamless-video-conversion-tool-transform-your-fc2-files-into-various-formats-including-mp4-wmv-and-avi/"><u>1. Seamless Video Conversion Tool: Transform Your FC2 Files Into Various Formats Including MP4, WMV & AVI</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-tutorial-to-decompress-rar-on-mac-os-x-platforms/"><u>Comprehensive Tutorial to Decompress RAR on Mac OS X Platforms</u></a></li>
+<li><a href="https://win-forum.techidaily.com/deciphering-the-purpose-and-functions-of-the-windows-registry-with-insights-from-revouninstaller/"><u>Deciphering the Purpose and Functions of the Windows Registry with Insights From RevoUninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/detecting-unsafe-apps-on-android-phones-tips-for-keeping-your-device-secure/"><u>Detecting Unsafe Apps on Android Phones: Tips for Keeping Your Device Secure</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/full-guide-to-apple-iphone-6-icloud-bypass-by-drfone-ios/"><u>Full guide to Apple iPhone 6 iCloud Bypass</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/gratuita-come-trasformare-i-file-mka-in-formato-avi-usando-movavi-online/"><u>Gratuita: Come Trasformare I File MKA in Formato AVI Usando Movavi Online</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-eliminate-user-accounts-from-windows-11-a-revo-uninstaller-approach/"><u>How to Eliminate User Accounts From Windows 11: A Revo Uninstaller Approach</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/in-depth-examination-of-the-gigabyte-ud8-solution/"><u>In-Depth Examination of the Gigabyte UD8# Solution</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-social-networking-giants-facebook-twitter-instagram-and-youtube/"><u>Navigating the Social Networking Giants: Facebook, Twitter, Instagram & Youtube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/overcoming-installation-woes-effective-strategies-for-forced-uninstalls/"><u>Overcoming Installation Woes: Effective Strategies for Forced Uninstalls</u></a></li>
+<li><a href="https://win-forum.techidaily.com/solve-complete-disk-consumption-issues-in-windows-11-a-step-by-step-guide/"><u>Solve Complete Disk Consumption Issues in Windows 11 – A Step-by-Step Guide</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-google-pixel-fold-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Google Pixel Fold</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-ultimate-guide-to-bios-configuration-and-management-with-revo-uninstaller/"><u>The Ultimate Guide to BIOS Configuration & Management with Revo Uninstaller</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-ultimate-review-unveiling-the-power-of-the-netgear-nighthawk-c7000-smart-wifi-router/"><u>The Ultimate Review: Unveiling the Power of the Netgear Nighthawk C7000 Smart WiFi Router</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-woes-resolving-warzone-launch-failures/"><u>Troubleshooting Woes: Resolving Warzone Launch Failures</u></a></li>
+</ul></div>
 

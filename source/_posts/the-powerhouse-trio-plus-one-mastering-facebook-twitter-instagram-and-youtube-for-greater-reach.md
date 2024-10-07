@@ -1,7 +1,7 @@
 ---
 title: "The Powerhouse Trio-Plus One: Mastering Facebook, Twitter, Instagram, and YouTube for Greater Reach"
-date: 2024-08-23T10:59:05.964Z
-updated: 2024-08-24T10:59:05.964Z
+date: 2024-09-30T17:23:52.531Z
+updated: 2024-10-06T16:44:25.746Z
 tags:
   - win11
   - win10
@@ -30,22 +30,30 @@ thumbnail: https://thmb.techidaily.com/bfe8f97d519484170998bced830c25ea7c96c9f9f
 
  The term BIOS was first used by Gary Kildall in 1975\. The first BIOS was incorporated in IBMs’ first personal computer in 198\. In the years to come, it gained popularity within other PCs, becoming an integral part of computers for some time.Unfortunately BIOS’ popularity starts to decline in favor of a newer technology: Unified Extensible Firmware Interface (UEFI). Intel announced a plan in 2017 to retire support for legacy BIOS systems by 2020, replacing them with UEFI.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ## So what does a BIOS include?
 
  The BIOS includes instructions on how to load basic computer hardware. BIOS tests your system to verify the computer meets requirements to boot up properly. If the computer does not pass the test, you hear a combination of beeps indicating what is malfunctioning in the computer.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## What are the four main functions of a PC BIOS?
 
 * **POST** – BIOS performs a test on your computer hardware and make sure no errors exist before loading the operating system.
 * **Bootstrap Loader** – This function locates the operating system. If a capable operating system is located, the BIOS will pass control to it.
 * **BIOS drivers** – Low-level drivers that give the computer basic operational control over your computer’s hardware.
 * **BIOS setup or CMOS setup** – Configuration program that allows you to configure hardware settings including system settings, such as date, time, and computer passwords.
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How does BIOS work?
 
@@ -64,21 +72,18 @@ thumbnail: https://thmb.techidaily.com/bfe8f97d519484170998bced830c25ea7c96c9f9f
  Once in BIOS Setup Utility, users can change hardware settings, manage memory settings, change the boot order or boot device, and reset the BIOS password, among other configuration tasks.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## BIOS security
 
  Usually not a lot of users talk about BIOS security, but it should not be overlooked. There is a case study by the Security Group – Cylance that showed how modern BIOS can have flaw in its security and ransomware programs can access the motherboard’s UEFI and exploit the other PC BIOS vulnerabilities.
 
  Another unique exploit involving the manipulation of BIOS was Plundervolt. Plundervolt could be used to mess with a computer’s power supply at the time data was being written to memory, causing errors that lead to security gaps. Intel released a BIOS patch to defend against it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ## Can a BIOS chip be upgraded or updated?
 
  Adding additional memory to a BIOS chip, as an upgrade, can only be done by replacing the existing BIOS chip with a new, more advanced BIOS chip.
@@ -88,11 +93,12 @@ No advertising on the website.
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ## We can help you every time when…
 
 * you cannot find the program in the Apps & Features list
@@ -108,8 +114,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -117,4 +121,22 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-next-level-screenshots-review-of-apowersofts-pc-recorder-for-2024/"><u>[New] Next-Level Screenshots Review of Apowersoft's PC Recorder for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-tweetaudioextractor-quick-sound-maker-for-2024/"><u>[Updated] TweetAudioExtractor Quick Sound Maker for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/connect-with-billions-on-major-platforms-a-guide-to-facebook-twitter-instagram-and-youtube/"><u>Connect with Billions on Major Platforms: A Guide to Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/effortless-srt-to-txt-conversion-in-under-minutes/"><u>Effortless SRT to TXT Conversion in Under Minutes</u></a></li>
+<li><a href="https://win-forum.techidaily.com/expert-instructions-to-customize-eliminate-and-generate-critical-system-registry-keys/"><u>Expert Instructions to Customize, Eliminate & Generate Critical System Registry Keys</u></a></li>
+<li><a href="https://win-forum.techidaily.com/fixing-error-messages-for-apps-failing-to-launch-on-personal-computers/"><u>Fixing Error Messages for Apps Failing to Launch on Personal Computers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/guarding-againnst-ai-crawlers-stop-openai-from-scraping-your-website/"><u>Guarding Againnst AI Crawlers: Stop OpenAI From Scraping Your Website</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-permanently-wipe-out-files-from-windows-10-devices/"><u>How to Permanently Wipe Out Files From Windows 10 Devices</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-the-complete-instagram-analytics-companion-transforming-metrics-into-strategy/"><u>In 2024, The Complete Instagram Analytics Companion Transforming Metrics Into Strategy</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-communication-in-the-modern-world-with-facebook-twitter-instagram-and-youtube/"><u>Mastering Communication in the Modern World with Facebook, Twitter, Instagram, and Youtube</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-selecting-an-ideal-mac-music-file-identifier-tool/"><u>New 2024 Approved Selecting an Ideal Mac Music File Identifier Tool</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-tutorial-for-backing-up-drivers-before-refreshing-or-replacing-windows-operating-systems-windows-11-7-8-etc/"><u>Step-by-Step Tutorial for Backing Up Drivers Before Refreshing or Replacing Windows Operating Systems (Windows 11, 7, 8, Etc.)</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-a-list-of-online-platforms-mastering-facebook-twitter-instagram-and-youtube-engagement/"><u>The A-List of Online Platforms: Mastering Facebook, Twitter, Instagram and YouTube Engagement</u></a></li>
+<li><a href="https://win-forum.techidaily.com/understanding-and-checking-powershell-versions-in-windows-11-systems/"><u>Understanding and Checking PowerShell Versions in Windows 11 Systems</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-unleash-the-power-of-fcpx-plugins-troubleshooting-and-fixing-common-issues/"><u>Updated In 2024, Unleash the Power of FCPX Plugins Troubleshooting and Fixing Common Issues</u></a></li>
+</ul></div>
 

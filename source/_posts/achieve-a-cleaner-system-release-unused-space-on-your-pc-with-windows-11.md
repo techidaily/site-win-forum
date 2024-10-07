@@ -1,7 +1,7 @@
 ---
 title: "Achieve a Cleaner System: Release Unused Space on Your PC with Windows 11"
-date: 2024-08-23T11:00:03.091Z
-updated: 2024-08-24T11:00:03.091Z
+date: 2024-10-05T17:40:32.854Z
+updated: 2024-10-06T21:57:57.600Z
 tags:
   - win11
   - win10
@@ -30,9 +30,6 @@ thumbnail: https://thmb.techidaily.com/2205900e82610c2779399ae469623ae027920f8a8
 
  Since 2016 PowerShell was announced as open-source and cross-platform. You can use it on macOS and Linux too. Although it is native to Windows OS, and Microsoft only supports security updates and bug fixes, PowerShell Core is being worked on to clear these issues with other OS.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Why is it important to know which PowerShell version you are running?
 
  PowerShell had many versions during the year starting with version 1.0 back in 2006\. The newest version( version 7) comes with the following new features:
@@ -50,29 +47,34 @@ thumbnail: https://thmb.techidaily.com/2205900e82610c2779399ae469623ae027920f8a8
 
 ![start menu PowerShell](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/check-win10-powershell-version/start-menu-powershell.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You will see a window, where you enter the following command**$PSVersionTable.PSVersion** , and hit Enter. In the screenshot below you can see an example where you can find the version.
 
 ![PSVersion command](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/check-win10-powershell-version/powershell-version-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Another method that you can use to check what PowerShell version you are running is to use the command “Get-Host”
 
 ![Get Host command](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/check-win10-powershell-version/powershell-version-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The last method we will show you is by using the command “$host.version”. You will see the PowerShell version in a slightly different format. You will be able to see the Major and Minor release and the build number and revision.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ## How can I upgrade to a newer version of PowerShell?
 
  You can run both Windows PowerShell and PowerShell 7.2 on the same computer. You do not have to worry about the lack of feature parity by upgrading. Simply keep the current Windows PowerShell installed and also download PowerShell. You can do that by going to its[GitHub release page](https://github.com/PowerShell/PowerShell/releases) . You will see a list of assets, where you can simply choose the OS you want to download for.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Conclusion
 
  Overall PowerShell can help you with automating some of the tasks that you are doing on regular basis on your PC. By knowing which version you are running and how to upgrade it you will be able to utilize it without any issues.
@@ -80,11 +82,19 @@ thumbnail: https://thmb.techidaily.com/2205900e82610c2779399ae469623ae027920f8a8
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## We can help you every time when…
 
 * you cannot find the program in the Apps & Features list
@@ -100,8 +110,6 @@ thumbnail: https://thmb.techidaily.com/2205900e82610c2779399ae469623ae027920f8a8
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -109,4 +117,19 @@ thumbnail: https://thmb.techidaily.com/2205900e82610c2779399ae469623ae027920f8a8
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-perfecting-the-instagram-story-format-with-youtube-integration-for-2024/"><u>[New] Perfecting the Instagram Story Format with YouTube Integration for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-unlock-your-potential-with-these-influential-biz-video-hubs/"><u>[Updated] Unlock Your Potential with These Influential Biz Video Hubs</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-acclaimed-websites-for-google-pixel-tonal-sounds/"><u>2024 Approved Acclaimed Websites for Google Pixel Tonal Sounds</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-amplifying-image-size-unchanged-crispness/"><u>2024 Approved Amplifying Image Size, Unchanged Crispness</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elegoo-saturn-4-ultra-reviewed-transforming-the-landscape-of-resin-based-3d-printing-innovations/"><u>Elegoo Saturn 4 Ultra Reviewed - Transforming the Landscape of Resin-Based 3D Printing Innovations</u></a></li>
+<li><a href="https://win-forum.techidaily.com/expert-tips-for-forced-removal-of-persistent-folders-on-windows-operating-systems/"><u>Expert Tips for Forced Removal of Persistent Folders on Windows Operating Systems</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-newest-amd-radeon-pro-w5700-driver-software-for-all-windows-versions/"><u>Get the Newest AMD Radeon Pro W5700 Driver Software for All Windows Versions</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-the-ultimate-zoom-video-enhancement-playbook/"><u>In 2024, The Ultimate Zoom Video Enhancement Playbook</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-social-spheres-mastering-content-strategy-on-facebook-twitter-instagram-and-youtube/"><u>Navigating Social Spheres: Mastering Content Strategy on Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-worlds-leading-social-sites-youtube-instagram-facebook-and-twitter/"><u>Navigating the World's Leading Social Sites: YouTube, Instagram, Facebook & Twitter</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-defragmenting-a-pc-on-windows-11-with-revo-uninstaller/"><u>Step-by-Step Guide: Defragmenting a PC on Windows 11 with Revo Uninstaller</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/turning-off-subtitles-in-amazons-streaming-service-easy-steps-explained/"><u>Turning Off Subtitles in Amazon's Streaming Service: Easy Steps Explained</u></a></li>
+</ul></div>
 

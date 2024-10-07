@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate How-To: Eradicating Windows 11 Installation and Subsequent Patches"
-date: 2024-08-18T11:11:29.447Z
-updated: 2024-08-19T11:11:29.447Z
+date: 2024-10-03T16:56:25.298Z
+updated: 2024-10-06T18:54:56.860Z
 tags:
   - win11
   - win10
@@ -35,9 +35,12 @@ thumbnail: https://thmb.techidaily.com/56db2abce12454619eb56aa29719b3ba982081a75
 ## So how can you install Windows 11 if your processor is not supported?
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Download the Windows 11 ISO
 
  This is a very important step. If you use the Windows 11 Install Assistant, this method won’t work.
@@ -52,22 +55,34 @@ The ultimate burning program for all your needs!</a>
 1. Open the Start Menu and in the Search Bar type “regedit”  
 ![regedit](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/install-windows-unsupported-cpu/regedit-exe.png)
 2. In the Registry Editor navigate to**Computer\\HKEY\_LOCAL\_MACHINE\\SYSTEM\\Setup\\MoSetup**
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. In the right pane, right-click and select**New -> DWORD (32-bit) Value** .  
 ![dword](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/install-windows-unsupported-cpu/dword.png)
 4. Name the value “**AllowUpgradesWithUnsupportedTPMOrCPU** ” (don’t include the quotes).
+
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 5. Double-click on the newly created value and enter 1 in the**Value data** filed.  
 ![dword value](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/install-windows-unsupported-cpu/edit-dword-value.jpg)
 6. Click**OK** and close the registry editor.
 
 <!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### The final step is the following
 
  Remember the Windows 11 ISO that you started downloading at the beginning of this article?
@@ -75,18 +90,19 @@ The ultimate burning program for all your needs!</a>
 1. Right-click on it and select**Open with -> Windows Explorer** to mount the virtual disc.
 2. Double-click the setup file to begin the Windows 11 installation.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Summary
 
  If you’ve followed all the steps, you should see a warning message that your CPU is not “the perfect match” for Windows 11, but you will be allowed to install it on your PC. **Just keep in mind that Microsoft reserves the right to stop your security updates if you decide to use this method** .
 
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## We can help you every time when…
 
 * you cannot find the program in the Apps & Features list
@@ -102,8 +118,6 @@ The ultimate burning program for all your needs!</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -111,4 +125,19 @@ The ultimate burning program for all your needs!</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-snapchat-trick-turn-videos-upside-down/"><u>[New] Snapchat Trick Turn Videos Upside Down</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-chromebooks-ultimate-sniping-software-our-5-favorites/"><u>[Updated] Chromebook's Ultimate Sniping Software Our 5 Favorites</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/demystifying-matroska-mkv-an-insight-into-this-popular-video-container/"><u>Demystifying Matroska (MKV): An Insight Into This Popular Video Container</u></a></li>
+<li><a href="https://win-forum.techidaily.com/effortless-currency-transformation-learn-how-to-use-microsoft-excel-for-effective-money-conversion/"><u>Effortless Currency Transformation: Learn How to Use Microsoft Excel for Effective Money Conversion</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-inside-intova-x-pushing-video-tech-boundaries/"><u>In 2024, Inside Intova X Pushing Video Tech Boundaries</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-poco-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Poco Phone? Unlock It Now</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-ms-excel-a-comprehensive-guide-to-navigating-with-ease/"><u>Mastering MS Excel: A Comprehensive Guide to Navigating with Ease</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-number-multiplication-a-step-by-step-guide-using-microsoft-excel/"><u>Mastering Number Multiplication: A Step-by-Step Guide Using Microsoft Excel</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/protect-your-memories-with-the-official-back-up-for-gi-joe-retaliation-dvd/"><u>Protect Your Memories with the Official Back-Up for G.I. Joe: Retaliation DVD</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-transferring-sheets-between-excel-books/"><u>Step-by-Step Guide: Transferring Sheets Between Excel Books</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-rated-budget-tablets-comprehensive-reviews-by-tech-gurus/"><u>Top-Rated Budget Tablets : Comprehensive Reviews by Tech Gurus</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-how-to-stream-local-video-to-chromecast-on-windowsmacandroidios/"><u>Updated In 2024, How to Stream Local Video to Chromecast on Windows/Mac/Android/iOS</u></a></li>
+</ul></div>
 

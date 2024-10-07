@@ -1,7 +1,7 @@
 ---
 title: XCOM 2 Stability Improved – Say Goodbye to Windows Crashes
-date: 2024-08-23T10:57:57.039Z
-updated: 2024-08-24T10:57:57.039Z
+date: 2024-10-03T23:41:26.716Z
+updated: 2024-10-06T18:04:04.003Z
 tags:
   - win11
   - win10
@@ -56,9 +56,6 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
 
  If this resolves your problem, you may need to replace your antivirus software or contact the vendor of the software for advice.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Verify your game cache
 
  If your game crashes on XCOM 2 startup, it’s possible that the installation of XCOM 2 is corrupted. Then you can use this fix to redownload files and fix crashes.
@@ -70,13 +67,24 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
 4. After the process, relaunch the game and check the crash will appear or not.
 
 <!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 3: Change your save files location
 
  If Fix 2 can’t solve your problem, the saved file could be the culprit. When you delete the save file with modded content, the crash can happen. You can transfer the save files into a different location for safekeeping.
 
  The save files should be located at: “C:\\Users\\YOUR USERNAME\\Documents\\my games\\XCOM2\\XComGame\\SaveData”. Copy files and move to elsewhere and then delete the original SaveData folder.
+
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Disable Steam Overlay
 
@@ -86,13 +94,14 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
 2. Right-click on XCOM 2 and click**Properties** .
 3. In the **GENERAL**  tab, uncheck “**Enable the Steam Overlay while in-game** “.![](https://images.drivereasy.com/wp-content/uploads/2019/08/over.jpg)
 4. Relaunch the game and check whether the crash will appear or not.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 5: Update your driver
 
  Missing or outdated drivers may also trigger the game crash issues. In this case, you need to update your drivers to resolve this issue.
@@ -115,14 +124,16 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
 2. Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
+
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Relaunch the game and check the crash will appear or not.
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -136,8 +147,6 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -145,4 +154,20 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-framefinder-pro-a-treasure-trove-for-every-twitterscape-enthusiast/"><u>[New] 2024 Approved FrameFinder Pro A Treasure Trove for Every Twitterscape Enthusiast</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-essential-tips-for-stepping-away-from-a-discord-chat-room-for-2024/"><u>[New] Essential Tips for Stepping Away From a Discord Chat Room for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-best-practices-in-selecting-screen-recording-tools-for-windows-10-for-2024/"><u>[Updated] Best Practices in Selecting Screen Recording Tools for Windows 10 for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-beginners-guide-to-iphone-video-capture/"><u>[Updated] In 2024, Beginner's Guide to Iphone Video Capture</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-revolutionize-your-console-proven-strategies-for-clear-gaming-recordings/"><u>[Updated] Revolutionize Your Console Proven Strategies for Clear Gaming Recordings</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-the-art-of-creating-shareable-content-on-fb/"><u>2024 Approved The Art of Creating Shareable Content on Fb</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-vidgrabmaster-mobilepc-app-downloads/"><u>2024 Approved VidGrabMaster Mobile/PC App Downloads</u></a></li>
+<li><a href="https://win-forum.techidaily.com/comparing-giants-of-social-networking-insights-into-facebook-twitter-instagram-and-youtube-usage/"><u>Comparing Giants of Social Networking: Insights Into Facebook, Twitter, Instagram, and YouTube Usage</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-fix-class-not-registered-error-on-windows/"><u>How to Fix “Class Not Registered” Error on Windows</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Motorola Edge 40 | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/learning-the-art-of-softly-amplifying-audio-tracks-for-2024/"><u>Learning the Art of Softly Amplifying Audio Tracks for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/1722915406026-tackle-constant-windows-explorer-errors-using-our-proven-7-tricks/"><u>Tackle Constant Windows Explorer Errors Using Our Proven 7 Tricks</u></a></li>
+<li><a href="https://win-forum.techidaily.com/troubleshooting-steps-overcoming-app-incompatibility-messages-in-windows/"><u>Troubleshooting Steps: Overcoming App Incompatibility Messages in Windows</u></a></li>
+</ul></div>
 

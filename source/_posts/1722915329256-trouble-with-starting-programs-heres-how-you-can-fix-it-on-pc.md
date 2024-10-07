@@ -1,7 +1,7 @@
 ---
 title: Trouble with Starting Programs? Here's How You Can Fix It on PC!
-date: 2024-08-18T11:11:15.372Z
-updated: 2024-08-19T11:11:15.372Z
+date: 2024-09-30T23:37:00.571Z
+updated: 2024-10-06T22:49:01.813Z
 tags:
   - win11
   - win10
@@ -28,6 +28,13 @@ thumbnail: https://thmb.techidaily.com/a5e56b77e4674926b57f0f9161817ac7d31c24b7d
 
  This scenario is quite inconvenient, but in our article, we have the solutions to solve this problem.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Here are the most common reasons why you see the “this app can’t run on your PC” error
 
 * Access is denied You will see this error if your[user account](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1) is not set up properly. Creating a new administrator account should fix it.
@@ -37,14 +44,8 @@ thumbnail: https://thmb.techidaily.com/a5e56b77e4674926b57f0f9161817ac7d31c24b7d
 * Software publisher error – “Contact the software publisher” error message is common amongst Windows users which prevents them from using specific software products.
 * Antivirus software – You can also stumble upon this error with Antivirus products.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Methods to fix “This app can’t run on your PC” error
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Method 1: Make a copy of the .exe files you are trying to run
 
  If you are getting the “this app can’t run on your PC” error you may attempt to fix it by creating a copy of the file you try to run.
@@ -54,17 +55,24 @@ thumbnail: https://thmb.techidaily.com/a5e56b77e4674926b57f0f9161817ac7d31c24b7d
 ![copy command](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-this-app-cant-run/Method-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Method 2: Disable SmartScreen
 
 1. Press the Windows key and in the search field type`smart screen`
 2. Click on Change SmartScreen from the shown results  
 ![change SmartScreen settings](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-this-app-cant-run/Method-2.png)
 3. Navigate to Security and locate**Windows SmartScreen**
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Click Change settings and select “**Do not do anything** “
 5. Click OK to save the changes
 
@@ -72,9 +80,6 @@ thumbnail: https://thmb.techidaily.com/a5e56b77e4674926b57f0f9161817ac7d31c24b7d
 
  A lot of users have reported that this feature is preventing their apps from running.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Method 3: Update Windows Store
 
  In some cases, you can’t open Microsoft Store apps on your PC. This can be caused by a bug that is corrupting the current version of the store. To fix that simply check for updates and install the latest Windows Store version:
@@ -84,20 +89,12 @@ thumbnail: https://thmb.techidaily.com/a5e56b77e4674926b57f0f9161817ac7d31c24b7d
 3. Click on the “**Get Updates** ” button  
 ![get updates button](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-this-app-cant-run/Method-3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ### Method 4: Create a new administrator account
 
 1. Open the Settings app. Navigate to**Accounts > Family & other users**
 2. Navigate to the “**Other users** ” section and click Add someone else to this PC  
 ![add someone else to this pc](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-this-app-cant-run/Method-4-step2.png)
 3. Select “**I don’t have this person’s sign-in information** “
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Choose “**Add a user without a Microsoft account** “
 5. Enter the desired username and password for the account
 6. Now the new account should be visible in the Other users’ section
@@ -109,9 +106,6 @@ The powerful video editing program for your Windows PC</a>
 
  In most cases the error was fixed by creating a new administrator account.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ### Method 5: Disable Proxy orVPN if you are running them
 
 1. Open the**Start Menu** and open**Control Panel**
@@ -121,6 +115,13 @@ The powerful video editing program for your Windows PC</a>
 5. Uncheck the box beside “**Use a proxy server for your Lan** ”  
 ![Lan settings](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-this-app-cant-run/Method-5-step6.png)
 6. Click OK to confirm the changes and try to log-in again in to your Microsoft Account
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you are using this feature, there is a big chance that the connection to the Microsoft Store servers is being blocked. If your apps don’t run on your PC, disable these settings.
 
@@ -132,21 +133,23 @@ The powerful video editing program for your Windows PC</a>
 ![scannow command](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-this-app-cant-run/Method-7-step2.jpg)
 3. Wait for the process to end and reboot your computer. This scan should fix all of your corrupted files
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 7: Enable App side-loading
 
 1. Open the**Start Menu** and click on**PC Settings**  
 ![developer mode](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-this-app-cant-run/Method-7-step1.jpg)
 2. Navigate to “**Update&Security** “
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Navigate to the “**For developers** ” tab and turn on “**Developer Mode** “
 
  This fix will prevent the “this app can’t run on your PC” error from appearing again.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 8: Check your disk for errors
 
  Another reason behind the “this app can’t run on your PC” error can be disk errors. To fix them open**Command Prompt** as mentioned in the previous step and type the command`chkdsk C: /f`
@@ -154,8 +157,12 @@ The powerful video editing program for your Windows PC</a>
 ![chkdsk command](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-this-app-cant-run/Method-8.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Method 9: Clear your browser cache
 
  There are cases where during download the files are getting corrupted. This will result in files and folders not being fully downloaded. This usually happens if you don’t clean your browser cache regularly.
@@ -173,6 +180,13 @@ So how to clean your temporary files?
 3. Select “**Clean up system files** ”  
 ![clean up system files](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-this-app-cant-run/Method-10.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 11: Run a full Windows Defender scan
 
  As most of us know malware can be very bad for our PC. It can be the reason behind many error messages, it can also prevent many apps from running or from being installed.
@@ -184,9 +198,6 @@ So how to clean your temporary files?
 3. In the new window select “**Advanced scan** “
 4. Check the “full scan” option to launch a full system scan
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Method 12: Update your Windows 10 Operating System
 
  If some of your apps can’t run on your PC, maybe the issue is that your Windows OS is not running the latest version.
@@ -199,9 +210,6 @@ To update your Windows:
 ![check for updates](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-this-app-cant-run/Method-12-step3.jpg)
 4. Install the latest Windows updates
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 13: Check if your PC is 32-bit or 64-bit Compatible
 
  WindowsOS has two versions: 32-bit and 64-bit. There is a chance that you are running a 32-bit version of Windows, but the app is 64-bit.
@@ -212,17 +220,29 @@ To confirm if that is the reason, check the PC specifications:
 2. Select**System**  
 ![system](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-this-app-cant-run/Method-13-step2.png)
 3. Click on “**About** ”  
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![about](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-this-app-cant-run/Method-13-step3.jpg)
 4. On the right-pane, under**Device specifications** , see what is your**System type**
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 
 ## Final Words
 
  Running into the “this app can’t run on your PC” error is quite inconvenient. The methods mentioned above most of the time fix this error, but if it keeps persisting maybe your problems lie somewhere else.
 
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## We can help you every time when…
 
@@ -239,8 +259,6 @@ To confirm if that is the reason, check the PC specifications:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -248,4 +266,26 @@ To confirm if that is the reason, check the PC specifications:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-the-ultimate-guide-to-cross-social-sharing/"><u>[New] In 2024, The Ultimate Guide to Cross-Social Sharing</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-step-by-step-guide-to-nba-streaming-top-15-essentials/"><u>[Updated] 2024 Approved Step-by-Step Guide to NBA Streaming - Top 15 Essentials</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-examining-youtubes-mobile-app-for-iosandroid-devices-for-2024/"><u>[Updated] Examining YouTube's Mobile App for iOS/Android Devices for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unlock-creative-potential-smart-b-roll-incorporation/"><u>2024 Approved Unlock Creative Potential Smart B Roll Incorporation</u></a></li>
+<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-poco-x6-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Poco X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/budget-friendly-office-suite-comparison-an-effective-substitute-for-microsoft-office/"><u>Budget-Friendly Office Suite Comparison: An Effective Substitute for Microsoft Office</u></a></li>
+<li><a href="https://win-forum.techidaily.com/download-arc-browser-official-release-for-windows-11-users/"><u>Download Arc Browser: Official Release for Windows 11 Users</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/easily-edit-avi-files-on-your-windows-8-pc-a-beginners-guide-for-2024/"><u>Easily Edit AVI Files on Your Windows 8 PC A Beginners Guide for 2024</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-tecno-phantom-v-flip-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Tecno Phantom V Flip | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-action-plan-from-ttml-and-xml-to-srt-translation/"><u>In 2024, The Ultimate Action Plan From TTML & XML to SRT Translation</u></a></li>
+<li><a href="https://win-forum.techidaily.com/latest-cybersecurity-news-a-closer-look-at-atandts-security-lapse-and-the-new-wave-of-samsung-mobile-devices/"><u>Latest Cybersecurity News: A Closer Look at AT&T’s Security Lapse and the New Wave of Samsung Mobile Devices</u></a></li>
+<li><a href="https://win-forum.techidaily.com/launch-of-arc-browser-now-compatible-with-windows-10/"><u>Launch of Arc Browser: Now Compatible with Windows 10</u></a></li>
+<li><a href="https://win-forum.techidaily.com/lenovo-unveils-the-future-of-portable-computing-the-revolutionary-l-series-lineup/"><u>Lenovo Unveils the Future of Portable Computing: The Revolutionary L-Series Lineup</u></a></li>
+<li><a href="https://win-forum.techidaily.com/maximize-productivity-with-these-4-expert-tricks-for-using-windows-11-file-explorer-tabs-every-day/"><u>Maximize Productivity with These 4 Expert Tricks for Using Windows 11 File Explorer Tabs Every Day</u></a></li>
+<li><a href="https://win-forum.techidaily.com/revolutionizing-desktops-with-arm-technology-qualcomms-new-windows-experience/"><u>Revolutionizing Desktops with Arm Technology - Qualcomm's New Windows Experience</u></a></li>
+<li><a href="https://howto.techidaily.com/samsung-galaxy-a14-4g-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy A14 4G Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/significant-user-interface-enhancements-elevate-the-new-version-of-windows-11s-photos-application/"><u>Significant User Interface Enhancements Elevate the New Version of Windows 11'S Photos Application</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/sim-unlock-xiaomi-redmi-note-13-pro-5g-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Xiaomi Redmi Note 13 Pro 5G Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-retrieving-file-and-folder-locations-in-windows-11/"><u>Step-by-Step Guide: Retrieving File & Folder Locations in Windows 11</u></a></li>
+</ul></div>
 

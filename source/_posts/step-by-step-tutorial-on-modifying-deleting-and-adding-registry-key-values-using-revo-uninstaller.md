@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Tutorial on Modifying, Deleting & Adding Registry Key Values Using Revo Uninstaller
-date: 2024-08-18T11:11:18.803Z
-updated: 2024-08-19T11:11:18.803Z
+date: 2024-10-03T16:29:34.221Z
+updated: 2024-10-07T00:43:56.454Z
 tags:
   - win11
   - win10
@@ -33,16 +33,24 @@ thumbnail: https://thmb.techidaily.com/2b0e79e191f0ed82f151a5598b1f3bbb7dbdcce94
 ## What did we add in the new 5.0.0 version of Revo Uninstaller Pro?
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Uninstall History module
 
 ![History Module](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/introducing-revo-5/history-module.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  With Revo Uninstaller Pro 5 you can now view your uninstall history. The goal is to let our users keep track of all of the completed uninstall operations.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Command-Line support for Windows Apps and Browser Extensions
 
@@ -54,9 +62,6 @@ thumbnail: https://thmb.techidaily.com/2b0e79e191f0ed82f151a5598b1f3bbb7dbdcce94
 
 ![Windows Tools](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/introducing-revo-5/3-new-windows-tools.png)
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  In Revo Uninstaller Pro 5 we’ve added 3 new additional Windows tools for easy usage:
 
 * Deployment Image Servicing and Management
@@ -65,9 +70,6 @@ thumbnail: https://thmb.techidaily.com/2b0e79e191f0ed82f151a5598b1f3bbb7dbdcce94
 
  Additionally, we added the capability to add custom tools to the Windows Tools module so you can access them easily.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Possibility to uninstall programs and apps for standard (non-admin) users
 
 Standard user accounts can now uninstall programs and apps
@@ -81,6 +83,13 @@ Standard user accounts can now uninstall programs and apps
 ### Improved AutoRun Manager
 
  With the Improved Autorun Manager, you can see a list of Windows Apps and manage their automatic startup for better System Boot speed.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Improved leftover and scanning speed
 
@@ -96,31 +105,23 @@ Standard user accounts can now uninstall programs and apps
 
 ![Dark mode](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/introducing-revo-5/dark-mode.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Revo Uninstaller Pro 5 brings a new Dark mode to the user interface. If you prefer to use dark mode with your apps, you can now set Revo Uninstaller to match your preferences by enabling this feature.
 
 ### Customization options for most program colors
 
  If Dark mode is not your thing, we’ve got you covered. Aside from Dark mode, Revo Uninstaller Pro 5 now lets you customize most of the program colors, so you can make it look the way you like. To make this easier, we’ve added an extended color customization palette.
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Improved and Redesigned Quick Uninstall
 
  Our improved Quick Uninstall Module includes a better User Interface and visualization of the whole uninstallation process. Now Revo Uninstaller Pro 5 Quick Uninstall lists all Windows Apps and Browser Extensions, so you can get quick access to them and remove the ones you are not using.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Summary
 
  If you want to try out these new features, you can get Revo Uninstaller Pro 5[here](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1) . If you already have an active subscription all you need to do is update to the latest version.
@@ -128,11 +129,19 @@ Standard user accounts can now uninstall programs and apps
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## We can help you every time when…
 
 * you cannot find the program in the Apps & Features list
@@ -148,8 +157,6 @@ Standard user accounts can now uninstall programs and apps
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -157,4 +164,19 @@ Standard user accounts can now uninstall programs and apps
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/a-list-editors-for-android-pics/"><u>A-List Editors for Android Pics</u></a></li>
+<li><a href="https://blog-min.techidaily.com/acesso-simplificado-as-suas-cancoes-favoritas-as-maneiras-mais-confiaveis-de-transformar-cd-em-mp3-reveladas/"><u>Acesso Simplificado Às Suas Canções Favoritas: As Maneiras Mais Confiáveis De Transformar CD Em MP3 Reveladas</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-contacts-files-on-narzo-n53-by-fonelab-android-recover-contacts/"><u>Complete guide for recovering contacts files on Narzo N53.</u></a></li>
+<li><a href="https://article-files.techidaily.com/deciphering-cameras-smart-hdr-features-and-their-impact/"><u>Deciphering Camera's Smart HDR Features and Their Impact</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-vivo-t2-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Vivo T2 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-av1s-edge-in-efficiency-over-vp9/"><u>In 2024, AV1's Edge in Efficiency Over VP9</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/legal-chants-for-clarity-top-10-downloads-guide/"><u>Legal Chants for Clarity Top 10 Downloads Guide</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-multi-row-insertion-techniques-in-microsoft-excel-a-comprehensive-guide/"><u>Mastering Multi-Row Insertion Techniques in Microsoft Excel – A Comprehensive Guide</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-personalized-chart-design-in-excel-a-step-by-step-guide/"><u>Mastering Personalized Chart Design in Excel: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-spreadsheet-management-customizing-row-heights-and-column-sizes-in-excel-tutorial/"><u>Mastering Spreadsheet Management: Customizing Row Heights and Column Sizes in Excel Tutorial</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-the-sumif-function-in-microsoft-excel-a-step-by-step-guide/"><u>Mastering the SUMIF Function in Microsoft Excel - A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/velocity-victories-olympics-year-2022-for-2024/"><u>Velocity Victories Olympics, Year 2022 for 2024</u></a></li>
+</ul></div>
 

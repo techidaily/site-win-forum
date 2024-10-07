@@ -1,7 +1,7 @@
 ---
 title: "The Big Players of Online Networking: Navigating Through Facebook, Twitter, Instagram and Youtube"
-date: 2024-08-23T11:02:34.285Z
-updated: 2024-08-24T11:02:34.285Z
+date: 2024-10-05T18:11:05.600Z
+updated: 2024-10-06T18:28:16.097Z
 tags:
   - win11
   - win10
@@ -36,8 +36,12 @@ thumbnail: https://thmb.techidaily.com/4e8fed255189bd9ee7a706026d30ffe02100ebaee
 4. Alternatively, you can also press the**‘Windows’** key +**‘L’** on your keyboard as a shortcut to lock your PC instantly.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## II. Another way to lock your Windows Computer and protect your data is through the Task Manager. Here are the steps you have to take in order to do that
 
 1. Right-click on the taskbar at the bottom of your screen. This will open a context menu.
@@ -46,26 +50,28 @@ thumbnail: https://thmb.techidaily.com/4e8fed255189bd9ee7a706026d30ffe02100ebaee
 4. Select**“App History”**
 5. From the dropdown menu, select**“Run new task”** . ![Run new task](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/lock-pc/method-2-task-manager-1.png)
 6. In the**“Create new task”** window, type**“tsdiscon”** (short for “Terminal Services Disconnect”) into the text field. ![Create new task](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/lock-pc/method-2-task-manager-2.png)
+
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 7. Check the box next to**“Create this task with administrative privileges”** .
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 8. Click**“OK”** .
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## III. How to Lock a Windows 11 computer via the Ctrl + Alt + Delete Menu
 
  Pressing**Ctrl + Alt + Delete** triggers a distinct Windows menu to appear on your screen, offering a range of functionalities. Among these options is the Task Manager, granting you the capability to perform several actions, including switching user accounts, changing passwords, and, most notably for our discussion, locking your PC. Simply selecting**“Lock”** from this menu instantly secures your Windows 11 device.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## IV. Lock your PC via the Command Prompt
 
  Locking your Windows 11 system is also possible through the Command Prompt, which is a text-based user interface accepting keyboard input.
@@ -91,8 +97,12 @@ thumbnail: https://thmb.techidaily.com/4e8fed255189bd9ee7a706026d30ffe02100ebaee
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## We can help you every time when…
 
 * you cannot find the program in the Apps & Features list
@@ -108,8 +118,6 @@ thumbnail: https://thmb.techidaily.com/4e8fed255189bd9ee7a706026d30ffe02100ebaee
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -117,4 +125,24 @@ thumbnail: https://thmb.techidaily.com/4e8fed255189bd9ee7a706026d30ffe02100ebaee
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-the-best-iphone-selfie-devices-ranked-8/"><u>[New] 2024 Approved The Best Iphone Selfie Devices Ranked (#8)</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-chart-topping-storytellers-to-follow-on-youtube-this-year/"><u>[New] Chart-Topping Storytellers to Follow on YouTube This Year</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-scouring-youtubes-discussions/"><u>[Updated] Scouring YouTubes' Discussions</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-concealed-crusaders-conflict-with-clarion-champion/"><u>2024 Approved Concealed Crusader's Conflict with Clarion Champion</u></a></li>
+<li><a href="https://win-forum.techidaily.com/addressing-the-something-went-wrong-alert-on-your-windows-11-pc-successfully/"><u>Addressing the Something Went Wrong Alert on Your Windows 11 PC Successfully</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/effortless-avi-to-wmv-conversion-guide-for-macos-mavericks-users/"><u>Effortless AVI to WMV Conversion Guide for macOS Mavericks Users</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-defrag-your-computer-windows-11-revouninstaller/"><u>How to Defrag Your Computer - Windows 11 - RevoUninstaller</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-elevating-visuals-with-hdr-excellence-in-photoshop/"><u>In 2024, Elevating Visuals with HDR Excellence in Photoshop</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-highlights-from-chinas-winter-olympiad-2022/"><u>In 2024, Highlights From China's Winter Olympiad 2022</u></a></li>
+<li><a href="https://extra-information.techidaily.com/keeping-your-gopro-fogless-for-perfection/"><u>Keeping Your GoPro Fogless for Perfection</u></a></li>
+<li><a href="https://win-forum.techidaily.com/master-the-art-of-keeping-devices-in-harmony-updating-windows-11-driver-software/"><u>Master the Art of Keeping Devices in Harmony: Updating Windows 11 Driver Software</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-your-online-presence-across-top-platforms-fb-twtr-insga-and-yt/"><u>Mastering Your Online Presence Across Top Platforms: FB, TWTR, INSGA & YT</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-giants-of-social-sharing-facebook-twitter-instagram-and-youtub/"><u>Navigating the Giants of Social Sharing: Facebook, Twitter, Instagram & YouTub</u></a></li>
+<li><a href="https://win-forum.techidaily.com/social-sensations-navigating-facebook-twitter-instagram-and-youtubes-popularity/"><u>Social Sensations: Navigating Facebook, Twitter, Instagram and YouTube's Popularity</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-tutorial-fresh-up-your-windows-with-updated-canon-pixma-mx490-driver-software/"><u>Step-by-Step Tutorial: Fresh Up Your Windows with Updated Canon PIXMA MX490 Driver Software</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-social-networks-explored-facebook-twitter-instagram-and-youtube/"><u>Top Social Networks Explored: Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/ultimate-guide-step-by-step-process-of-removing-a-user-account-from-windows-11/"><u>Ultimate Guide: Step-by-Step Process of Removing a User Account From Windows 11</u></a></li>
+</ul></div>
 

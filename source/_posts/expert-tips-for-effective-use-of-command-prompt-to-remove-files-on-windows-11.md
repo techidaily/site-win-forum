@@ -1,7 +1,7 @@
 ---
 title: Expert Tips for Effective Use of Command Prompt to Remove Files on Windows 11
-date: 2024-08-18T11:09:46.149Z
-updated: 2024-08-19T11:09:46.149Z
+date: 2024-09-29T19:50:52.088Z
+updated: 2024-10-06T16:46:29.398Z
 tags:
   - win11
   - win10
@@ -69,13 +69,14 @@ thumbnail: https://thmb.techidaily.com/04f98c03565f60c0b0ad3b1ba3f80966cc746c43e
 1. Open Revo Uninstaller Pro, and click Tools.  
 ![screen of windows tools](<https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/Blog/Remove> temporary files Revo Uninstaller Pro 4 -1.jpg)
 2. Click History Cleaner.  
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ![screen of history cleaner](<https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/Blog/Remove> temporary files Revo Uninstaller Pro 4 -2.jpg)
 3. Check “Delete Temporary Internet files” for all browsers whose cache you wish to delete, and click**Clear** .
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Clear browser cache via the built-in browser options
@@ -95,29 +96,33 @@ thumbnail: https://thmb.techidaily.com/04f98c03565f60c0b0ad3b1ba3f80966cc746c43e
 
 ![screen of clear data](<https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/Blog/Firefox> - Clear cache -1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 1. Select**Cached Web Content** , and click**Clear** .  
 ![screen of cached web content](<https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/Blog/Firefox> - Clear cache -2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 #### Microsoft Edge
 
 1. Open Microsoft Edge, and press the combination of buttons Ctrl + Shift + Delete. The “Clean browsing data” windows will appear. Select the time range from the drop-down menu, check**Cached images and files** , and click**Clear now** .  
 ![screen of clear browsing data](<https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/Blog/Microsoft> Edge-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 #### Opera
 
 1. Open Opera, and press Ctrl+H to open your history page.
 2. Click Clear browsing data in the top-right corner.
 3. Select the time range from the drop-down menu, check Cached image and files (and any other items you wish), and click Clear data.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Clear Windows temporary files with the Disk Cleanup Utility
 
@@ -127,16 +132,24 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 2. In the pop-up window select the drive you want to clean up from the drop-down menu and click OK.  
 ![screen of Disk Cleanup](<https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/Blog/Disk> cleanup - 2.jpg)
 3. Be patient while the tool finishes scanning the drive. You need to check the items you wish to delete and click OK.  
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you wish to be able to delete system files/cache (in addition to user files/cache), click**Clean up system files** before selecting any items. This will re-scan the drive, this time including system data.  
 ![screen of disk cleanup](<https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/Blog/Disk> cleanup - 3.jpg)  
 ![screen of disk cleanup](<https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/Blog/Disk> cleanup - 4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Remove the Windows Store Cache
 
 1. Press the Win+R on your keyboard to open the Run window.
@@ -144,9 +157,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![screen of Run](<https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/Blog/Clean> Windows store cache -1.jpg)
 3. Wait for the process to finish. The Windows Store will appear once the procedure is complete.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Clear cache in File Explorer
 
  Some of the caches related to Windows Explorer (also known as File Explorer), can be deleted easily, whereas others require slightly more advanced methods.
@@ -154,18 +164,12 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 * **Windows thumbnail cache** : To clear the Windows thumbnail cache, open Revo Uninstaller Pro, click**Tools** , click History Cleaner, and then click Windows Cleaner. Check**Delete Thumbnail Cache** , and click**Clear** .  
 ![screen of history cleaner](<https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/Blog/Delete> thumbnail cache - 1.jpg)
 * **Windows icon cache** : The icon cache cannot be deleted directly, as it is used actively by Windows Explorer and – thus – locked. We have created a CMD script file that will simplify the process.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
  Warning: make sure to save all your work and documents before you execute the script.  
 [Download the file](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1) to a convenient location, right-click it, and select**Run as administrator** . This will forcibly close Windows Explorer, delete the cache files, and then relaunch Windows Explorer. Your other programs should not be affected/closed, however, we recommended that all documents should be saved beforehand as a precaution.  
  Reboot your computer to complete the rebuilding of the icon cache.
 * **Windows update cache** : This is another cache that is locked and requires a different approach. Again, we have provided a CMD script file that will simplify the procedure.[Download the file](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1) to a convenient location, right-click it, and select**Run as administrator** . This will stop the Windows Update service, delete the directory containing the cache, and re-start the Windows Update service. Rebooting your device is recommended but not mandatory.
 * **File Explorer history** : File Explorer also keeps its own history of all recently opened files and performed searches. These can be considered privacy concerns if you are sharing your computer with another person. To clear said history, open File Explorer, click the**View** tab, then click**Options** in the ribbon, and finally click**Clear** in the newly opened window.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Clear System Restore cache on Windows 10
 
  System Restore is a feature built-in Windows for creating snapshots of vital Registry entries and files so that in case of an issue users can use a previously created restore point to return their computer to an earlier state. Thus, it is considered a good idea to create restore points before installing Windows updates, drivers, or more complex programs.
@@ -179,19 +183,18 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 This operation will delete all restore points for the drive.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Clear the DNS cache
 
  If you are experiencing problems loading a website, sometimes that could be to a corrupt or outdated DNS record on your device. If this is the cause, then clearing the DNS cache would be the solution, and it is a rather simple operation.
 
 1. Open the Start Menu, and in the search bar type “cmd” (without quotation marks), and launch the found program. ![screen command prompt](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/Blog/Dns-clear-1.jpg)
 2. When the Command prompt window appears, type “ipconfig /flushdns” (without quotation marks), and press Enter. ![screen command prompt](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/Blog/Dns-clear-2.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 
 ## How to Clear the ARP Cache in Windows 10
 
@@ -203,15 +206,23 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 ![screen of arp -d](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/Blog/arp-d.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  There are various ways to clear your Windows cache and Revo Uninstaller is one of the tools that helps you with most of your Windows cache issues. Clearing your cache can be helpful in many situations, but if you are experiencing low PC performance and clearing your Windows cache does not solve them, then maybe you need to check your system performance and investigate what is the cause.
 
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## We can help you every time when…
 
 * you cannot find the program in the Apps & Features list
@@ -227,8 +238,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -236,4 +245,26 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-essential-asmr-creators-to-follow/"><u>[New] 2024 Approved Essential ASMR Creators to Follow</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-a-fresh-take-on-frigidity-crafting-inviting-backdrops/"><u>[New] In 2024, A Fresh Take on Frigidity Crafting Inviting Backdrops</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-elevate-your-content-with-these-top-keyword-discovery-tools-for-2024/"><u>[Updated] Elevate Your Content with These Top Keyword Discovery Tools for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-optimize-video-flows-5-steps-for-expert-cutting-and-lengthening-of-vimeo-content/"><u>2024 Approved Optimize Video Flows 5 Steps for Expert Cutting & Lengthening of Vimeo Content</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-time-warp-with-snapchat-reversing-videos-simplified/"><u>2024 Approved Time Warp with Snapchat Reversing Videos Simplified</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-pc-knowledge-with-toms-circuitry-experts/"><u>Advanced PC Knowledge with Tom's Circuitry Experts</u></a></li>
+<li><a href="https://win-forum.techidaily.com/choosing-top-ranking-seo-tools-how-to-accurately-measure-active-hyperlinks/"><u>Choosing Top-Ranking SEO Tools: How to Accurately Measure Active Hyperlinks</u></a></li>
+<li><a href="https://win-forum.techidaily.com/convert-audio-files-from-wav-to-aac-no-cost-with-movavi-converter/"><u>Convert Audio Files From WAV to AAC - No Cost with Movavi Converter</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/decoded-troubleshooting-failed-writes-to-0x-pointed-out-memory-slot-0x/"><u>Decoded: Troubleshooting Failed Writes to 0X Pointed-Out Memory Slot (0X)</u></a></li>
+<li><a href="https://win-forum.techidaily.com/movavi-wma-to-vob-and/"><u>Movavi WMA-to-VOB 바이트 크론기: 비용 없는 원자성 & 웹 내 변환 기술</u></a></li>
+<li><a href="https://win-forum.techidaily.com/movavimp3aac/"><u>Movaviで円熟した技術を用いてMP3ファイル自由にAACへ – 試せる無料オンラインコンバータ</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-performance-optimized-overcoming-deathloops-previous-frame-rate-problems/"><u>PC Performance Optimized - Overcoming Deathloop's Previous Frame Rate Problems</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-realme-gt-neo-5-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Realme GT Neo 5 and Browser | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/reviving-the-sounds-of-tamriel-solutions-for-skyrims-muted-woes/"><u>Reviving the Sounds of Tamriel: Solutions for Skyrim's Muted Woes</u></a></li>
+<li><a href="https://win-forum.techidaily.com/toutes-les-etapes-pour-changer-un-fichier-flac-en-ogg-gratuitement-en-ligne-movavi-guide/"><u>Toutes Les Étapes Pour Changer Un Fichier FLAC en OGG Gratuitement en Ligne - Movavi Guide</u></a></li>
+<li><a href="https://win-forum.techidaily.com/transforma-archivos-swf-con-sonido-libre-y-sin-costo-en-formatos-mp3-soluciones-efectivas-en-linea/"><u>Transforma Archivos SWF Con Sonido Libre Y Sin Costo en Formatos MP3: Soluciones Efectivas En Línea</u></a></li>
+<li><a href="https://win-forum.techidaily.com/virtueel-converteren-van-speech-to-text-ape-naar-m4a-mp3-gratis-movavi-online-tool/"><u>Virtueel Converteren Van Speech-to-Text (APE) Naar M4A MP3, Gratis - Movavi Online Tool</u></a></li>
+<li><a href="https://win-forum.techidaily.com/1726222186389-aiffaac-movavi/"><u>オンラインで無料: AIFF形式からAACへの簡単変換 - Movavi音楽ソフト</u></a></li>
+<li><a href="https://win-forum.techidaily.com/movavim2p-avi/"><u>スピーディかつコストなし: MOVAVIによるM2P オンラインAVI形式変換サービス</u></a></li>
+</ul></div>
 

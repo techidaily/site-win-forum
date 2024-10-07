@@ -1,7 +1,7 @@
 ---
 title: "Master the Art of Social Media with Four Titans: Facebook, Twitter, Instagram & Youtube"
-date: 2024-08-23T11:01:54.927Z
-updated: 2024-08-24T11:01:54.927Z
+date: 2024-10-04T00:03:29.300Z
+updated: 2024-10-06T17:55:02.190Z
 tags:
   - win11
   - win10
@@ -31,8 +31,12 @@ thumbnail: https://thmb.techidaily.com/41013bb9d5578181edb6e45a776caec9c659ae0e0
  The term BIOS was first used by Gary Kildall in 1975\. The first BIOS was incorporated in IBMs’ first personal computer in 198\. In the years to come, it gained popularity within other PCs, becoming an integral part of computers for some time.Unfortunately BIOS’ popularity starts to decline in favor of a newer technology: Unified Extensible Firmware Interface (UEFI). Intel announced a plan in 2017 to retire support for legacy BIOS systems by 2020, replacing them with UEFI.
 
 <!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## So what does a BIOS include?
 
  The BIOS includes instructions on how to load basic computer hardware. BIOS tests your system to verify the computer meets requirements to boot up properly. If the computer does not pass the test, you hear a combination of beeps indicating what is malfunctioning in the computer.
@@ -45,8 +49,12 @@ thumbnail: https://thmb.techidaily.com/41013bb9d5578181edb6e45a776caec9c659ae0e0
 * **BIOS setup or CMOS setup** – Configuration program that allows you to configure hardware settings including system settings, such as date, time, and computer passwords.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How does BIOS work?
 
  Most computers come with included BIOS in them as firmware on the chip of your motherboard. BIOS is a program that is accessible by the microprocessor on an erasable programmable read-only memory (EPROM) chip. When you turn on your PC the microprocessor passes control to the BIOS.
@@ -54,8 +62,12 @@ thumbnail: https://thmb.techidaily.com/41013bb9d5578181edb6e45a776caec9c659ae0e0
  When you first start your computer BIOS checks if your system is operational. If everything is working on your system BIOS load the OS into the computer’s RAM (random access memory) from your hard disk.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Accessing BIOS
 
  You can access and configure BIOS through the BIOS Setup Utility. The way you can get access to BIOS varies and depends on the computer you are using. You can follow this general steps to get access to your BIOS:
@@ -66,9 +78,6 @@ thumbnail: https://thmb.techidaily.com/41013bb9d5578181edb6e45a776caec9c659ae0e0
 
  Once in BIOS Setup Utility, users can change hardware settings, manage memory settings, change the boot order or boot device, and reset the BIOS password, among other configuration tasks.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## BIOS security
 
  Usually not a lot of users talk about BIOS security, but it should not be overlooked. There is a case study by the Security Group – Cylance that showed how modern BIOS can have flaw in its security and ransomware programs can access the motherboard’s UEFI and exploit the other PC BIOS vulnerabilities.
@@ -76,8 +85,12 @@ thumbnail: https://thmb.techidaily.com/41013bb9d5578181edb6e45a776caec9c659ae0e0
  Another unique exploit involving the manipulation of BIOS was Plundervolt. Plundervolt could be used to mess with a computer’s power supply at the time data was being written to memory, causing errors that lead to security gaps. Intel released a BIOS patch to defend against it.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Can a BIOS chip be upgraded or updated?
 
  Adding additional memory to a BIOS chip, as an upgrade, can only be done by replacing the existing BIOS chip with a new, more advanced BIOS chip.
@@ -86,9 +99,6 @@ thumbnail: https://thmb.techidaily.com/41013bb9d5578181edb6e45a776caec9c659ae0e0
 
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## We can help you every time when…
 
 * you cannot find the program in the Apps & Features list
@@ -104,8 +114,6 @@ thumbnail: https://thmb.techidaily.com/41013bb9d5578181edb6e45a776caec9c659ae0e0
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -113,4 +121,24 @@ thumbnail: https://thmb.techidaily.com/41013bb9d5578181edb6e45a776caec9c659ae0e0
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-youtubes-iconic-counter-based-awards-system/"><u>[New] YouTube's Iconic Counter-Based Awards System</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-advanced-tips-for-ps4-screen-capture/"><u>[Updated] 2024 Approved Advanced Tips for PS4 Screen Capture</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-pc-screenshot-wizardry-unveiling-apowersoft-screen-recorder/"><u>[Updated] In 2024, PC Screenshot Wizardry Unveiling Apowersoft Screen Recorder</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-mastering-the-music-merger-for-captivating-social-media-vids/"><u>[Updated] Mastering the Music Merger for Captivating Social Media Vids</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-how-to-get-started-windows-11-sound-capture/"><u>2024 Approved How to Get Started Windows 11 Sound Capture</u></a></li>
+<li><a href="https://win-forum.techidaily.com/complete-guide-step-by-step-process-of-deleting-windows-11-memory-dump-files/"><u>Complete Guide: Step-by-Step Process of Deleting Windows 11 Memory Dump Files</u></a></li>
+<li><a href="https://win-forum.techidaily.com/complete-tutorial-edit-bios-settings-in-windows-11-made-simple/"><u>Complete Tutorial: Edit BIOS Settings in Windows 11 Made Simple</u></a></li>
+<li><a href="https://win-forum.techidaily.com/comprehensive-tutorial-on-deleting-profiles-for-windows-10-users-using-advanced-tools/"><u>Comprehensive Tutorial on Deleting Profiles for Windows 10 Users Using Advanced Tools</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/delving-deep-into-ios-video-recording-capabilities-for-2024/"><u>Delving Deep Into IO's Video Recording Capabilities for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-effortless-extraction-of-twitter-jokes-3-ways/"><u>In 2024, Effortless Extraction of Twitter Jokes 3 Ways</u></a></li>
+<li><a href="https://win-forum.techidaily.com/lock-down-windows-a-step-by-step-guide-to-enhanced-computer-safety/"><u>Lock Down Windows: A Step-by-Step Guide to Enhanced Computer Safety</u></a></li>
+<li><a href="https://win-forum.techidaily.com/revo-uninstaller-technique-to-delete-users-in-windows-11-efficiently/"><u>Revo Uninstaller Technique to Delete Users in Windows 11 Efficiently</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-removing-windows-1n-10-memory-dump-files/"><u>Step-by-Step Guide: Removing Windows 1N 10 Memory Dump Files</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/the-abcd-of-effective-copy-in-facebook-campaigns-for-2024/"><u>The ABCD of Effective Copy in Facebook Campaigns for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-ultimate-guide-to-navigating-leading-social-media-sites-facebook-twitter-instagram-youtube/"><u>The Ultimate Guide to Navigating Leading Social Media Sites: Facebook, Twitter, Instagram, YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-social-networking-sites-facebook-twitter-instagram-youtube/"><u>Top Social Networking Sites: Facebook, Twitter, Instagram, YouTube</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-guide-making-a-non-responsive-mac-acknowledge-external-displays/"><u>Troubleshooting Guide: Making a Non-Responsive Mac Acknowledge External Displays</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide to Reducing Windows 11 Startup Duration with Ease
-date: 2024-08-23T10:59:45.274Z
-updated: 2024-08-24T10:59:45.274Z
+date: 2024-10-02T18:34:35.746Z
+updated: 2024-10-06T20:09:30.796Z
 tags:
   - win11
   - win10
@@ -30,11 +30,26 @@ thumbnail: https://thmb.techidaily.com/7463aefc3bf7373e7e8450adfdbb24d271ecbb972
 
  Windows 11 has several neat settings that you can use to get rid of temporary and system files or any other files that can fill up your storage space. Note that your important files will be safe as Windows 11 helps you decide what you need to delete to improve the performance of your computer.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to automatically free up drive space in Windows 11
 
 1. Press**Win Key + S** to open the Windows search and type Storage Settings and click on it.  
 ![Storage settings](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/free-up-drive-space/Method1-step-1.png)
 2. Click on**Storage**  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If this is the first time you go into your Storage settings, it will take several seconds for your PC to analyze your stored data. You will get full information about your files on your PC such as temporary files, apps and features, and others.
 3. Turn ON the**Storage Sense** . By enabling this feature, your PC will automatically begin deleting temporary files, old downloads, and emptying your recycle bin when it is running low on space.  
 ![Storage sense](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/free-up-drive-space/Method1-step-2.jpg)
@@ -49,31 +64,27 @@ thumbnail: https://thmb.techidaily.com/7463aefc3bf7373e7e8450adfdbb24d271ecbb972
 2. Type in the field**disk cleanup** and click on the app from the search results.  
 ![disk cleanup](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/free-up-drive-space/Method2-step-2.png)
 3. Select the drive you want to scan. In 99% of the cases, it is drive C: where most of the temporary and junk files are stored.
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 4. Click the**Clean up system files button** .  
 ![clean up system files](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/free-up-drive-space/Method2-step-4.png)
 5. Select the same system drive and click OK.
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. Select**Windows Update Cleanup** and**Previous Windows Installation** options if available.  
 ![windows update cleanup](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/free-up-drive-space/Method2-step-6.png)
 7. Click**OK** and then click**Delete Files** to confirm the action. Make sure you are deleting the correct files. This is a permanent action and it will**permanently delete** all the files you’ve selected.
+
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Free up drive space with Revo Uninstaller Pro
 
  The most common culprit of a full hard drive is the big number of apps and software installed on your computer.
@@ -82,18 +93,12 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  You can check our article on how you can[delete the software you are no longer using](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1) and it is filling up your disk space.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Summary
 
  Performing a routine cleanup task can help you remove junk files that you have no use for and reclaim a ton of precious storage space. Enabling Storage Sense is an easy way to make sure that old temporary and junk files are removed from your hard drive and do not take extra space.
 
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ## We can help you every time when…
 
 * you cannot find the program in the Apps & Features list
@@ -109,8 +114,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -118,4 +121,22 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-aesthetic-alignment-for-online-glamour-content-for-2024/"><u>[New] Aesthetic Alignment for Online Glamour Content for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-the-complete-guide-to-iphone-silhouette-mastery/"><u>[New] The Complete Guide to iPhone Silhouette Mastery</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-elevate-your-tech-game-master-the-craft-of-screen-recordings-in-macos/"><u>[Updated] In 2024, Elevate Your Tech Game Master the Craft of Screen Recordings in macOS</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-monthly-income-prospects-for-youtube-creators/"><u>2024 Approved Monthly Income Prospects for YouTube Creators</u></a></li>
+<li><a href="https://win-forum.techidaily.com/a-comprehensive-guide-to-deleting-user-accounts-from-windows-10-systems/"><u>A Comprehensive Guide to Deleting User Accounts From Windows 10 Systems</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-nubia-red-magic-8s-prowithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Nubia Red Magic 8S Prowith/without a PC</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-pc-refreshes-how-to-perform-a-full-restore-on-windows-11-using-revouninstaller/"><u>Mastering PC Refreshes: How to Perform a Full Restore on Windows 11 Using RevoUninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-giants-of-social-media-facebook-twitter-instagram-and-youtube-explained/"><u>Navigating the Giants of Social Media: Facebook, Twitter, Instagram, and YouTube Explained</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-world-of-online-interaction-with-top-platforms-fb-twtr-ig-and-yt/"><u>Navigating the World of Online Interaction with Top Platforms: FB, TWTR, IG & YT</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/premium-fitness-apps-the-secret-to-enhanced-workouts-and-performance/"><u>Premium Fitness Apps: The Secret to Enhanced Workouts and Performance?</u></a></li>
+<li><a href="https://win-forum.techidaily.com/quick-guide-accelerate-your-windows-11-startup-with-simple-tips/"><u>Quick Guide: Accelerate Your Windows 11 Startup with Simple Tips</u></a></li>
+<li><a href="https://os-tips.techidaily.com/resetting-your-hotmail-password-easily-even-if-you-cant-use-a-backup-email-or-phone-number/"><u>Resetting Your Hotmail Password Easily – Even if You Can't Use a Backup Email or Phone Number</u></a></li>
+<li><a href="https://win-forum.techidaily.com/say-hello-to-efficient-app-cleanup-with-revo-uninstaller-pro-5/"><u>Say Hello to Efficient App Cleanup with Revo Uninstaller Pro 5</u></a></li>
+<li><a href="https://win-forum.techidaily.com/social-media-giants-facebook-twitter-instagram-and-youtube-explained/"><u>Social Media Giants: Facebook, Twitter, Instagram & YouTube Explained</u></a></li>
+<li><a href="https://facebook.techidaily.com/tech-companies-role-in-ensuring-a-safer-digital-space-against-fraudulent-ads/"><u>Tech Companies' Role in Ensuring a Safer Digital Space Against Fraudulent Ads</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Complete Guide: Step-by-Step Process of Performing a System Restore on Windows 11"
-date: 2024-08-18T11:10:13.663Z
-updated: 2024-08-19T11:10:13.663Z
+date: 2024-09-30T22:36:51.846Z
+updated: 2024-10-06T21:05:37.868Z
 tags:
   - win11
   - win10
@@ -30,13 +30,17 @@ thumbnail: https://thmb.techidaily.com/9bd169ce317850079833c4c232eaa6d389f824b0e
 
  DNS stands for Domain Network System. The main role of the DNS is to translate familiar domain names like revouninstaller.com into IP addresses computers use to connect with each other. For example, if you want to connect to google.com, your computer queries a DNS server on the internet to get the corresponding IP address connected to the google.com domain. Windows 10 and Windows 11 store a copy of the information it gets from the DNS server on your PC, so the process can be faster.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## When will you have to flush your DNS cache
 
  Most of the systems connected to the internet automatically update the cache and hostnames, you can have problems when the IP address of a webpage changes before the update. If that is the case you can have connectivity issues, with the page failing to load in your browser. When you flush your DNS all the stored information on your PC is removed. This forces your computer to retrieve new data that will solve your connectivity issues.
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## So how can you flush your DNS on your Windows 10 or Windows 11 PC?
 
 1. ### Using Command Prompt  
@@ -45,9 +49,6 @@ thumbnail: https://thmb.techidaily.com/9bd169ce317850079833c4c232eaa6d389f824b0e
    2. Copy and paste the following command:`ipconfig /flushdns` and press**Enter** .  
    ![cmd window](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/flush-dns-windows/method-1-command-prompt.png)  
  Your Windows 10 or Windows 11 DNS cache should be flushed. You will get a message saying the operation is successful.
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 2. ### Using Windows PowerShell  
 
@@ -57,15 +58,16 @@ thumbnail: https://thmb.techidaily.com/9bd169ce317850079833c4c232eaa6d389f824b0e
    2. Copy and paste the following command:`ipconfig /flushdns` and press**Enter** . This will clear the DNS cache on your computer.  
    ![powershell window](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/flush-dns-windows/method-2-powershell.png)
    3. ### Using a Run Command  
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
    1. Press**Win Key + R** and type the following command:`ipconfig /flushdns` and hit**Enter** .  
    ![run window](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/flush-dns-windows/method-3-run.png)  
    2. Your DNS cache should be erased from your Windows 10 or Windows 11 computer.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Flushing the DNS cache may seem like a lot of technical jargon, but it’s a simple process, as you now know.
@@ -77,11 +79,19 @@ thumbnail: https://thmb.techidaily.com/9bd169ce317850079833c4c232eaa6d389f824b0e
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## We can help you every time when…
 
 * you cannot find the program in the Apps & Features list
@@ -97,8 +107,6 @@ thumbnail: https://thmb.techidaily.com/9bd169ce317850079833c4c232eaa6d389f824b0e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -106,4 +114,16 @@ thumbnail: https://thmb.techidaily.com/9bd169ce317850079833c4c232eaa6d389f824b0e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-forum.techidaily.com/conversion-gratuite-de-fichier-snd-en-format-wav-sur-la-toile-tapez-avec-movavi/"><u>Conversion Gratuite De Fichier SND en Format WAV Sur La Toile - Tapez Avec Movavi</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/enhancing-video-experience-with-apple-melodies/"><u>Enhancing Video Experience with Apple Melodies</u></a></li>
+<li><a href="https://win-forum.techidaily.com/epiteszetileg-hasznalatos-targyatokon-gyujtasasztechnika-diskordin-pc-es-mobil-rendszerbe/"><u>Építészetileg Használatos Tárgyatokon Gyújtásásztechnika - Diskordin PC És Mobil Rendszerbe</u></a></li>
+<li><a href="https://program-issues.techidaily.com/essential-troubleshooting-tips-for-major-bugs-in-activisions-popular-fps-games/"><u>Essential Troubleshooting Tips for Major Bugs in Activision's Popular FPS Games</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-zte-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock ZTE Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mp4-naar-aac-converteren-zonder-ongedaan-houden-voorlopiger-online-service/"><u>MP4 Naar AAC Converteren Zonder Ongedaan Houden - Voorlopiger Online Service</u></a></li>
+<li><a href="https://article-posts.techidaily.com/seamlessly-stitch-words-onto-pictures-photo-editor-pros-for-2024/"><u>Seamlessly Stitch Words Onto Pictures Photo Editor Pros for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/step-by-step-designing-aplus-cover-photos-for-your-insta-highlights/"><u>Step-by-Step Designing A+ Cover Photos for Your Insta Highlights</u></a></li>
+<li><a href="https://win-forum.techidaily.com/transformacion-gratuita-de-archivos-opus-a-formato-mp3-desde-la-comodidad-del-hogar-usando-movavi/"><u>Transformación Gratuita De Archivos OPUS a Formato MP3 Desde La Comodidad Del Hogar Usando Movavi</u></a></li>
+</ul></div>
 

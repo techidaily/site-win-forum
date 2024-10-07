@@ -1,7 +1,7 @@
 ---
 title: "Connect and Engage on the Web's Most Popular Sites: A Look at Facebook, Twitter, Instagram & YouTube"
-date: 2024-08-23T11:02:02.971Z
-updated: 2024-08-24T11:02:02.971Z
+date: 2024-10-02T00:22:08.004Z
+updated: 2024-10-06T20:29:59.124Z
 tags:
   - win11
   - win10
@@ -37,15 +37,15 @@ thumbnail: https://thmb.techidaily.com/8c5008233da724661a30d3225b0be351e1d277e0e
 * Software publisher error – “Contact the software publisher” error message is common amongst Windows users which prevents them from using specific software products.
 * Antivirus software – You can also stumble upon this error with Antivirus products.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ## Methods to fix “This app can’t run on your PC” error
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Method 1: Make a copy of the .exe files you are trying to run
 
  If you are getting the “this app can’t run on your PC” error you may attempt to fix it by creating a copy of the file you try to run.
@@ -54,10 +54,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
 ![copy command](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-this-app-cant-run/Method-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ### Method 2: Disable SmartScreen
 
 1. Press the Windows key and in the search field type`smart screen`
@@ -81,8 +77,12 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![get updates button](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-this-app-cant-run/Method-3.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Method 4: Create a new administrator account
 
 1. Open the Settings app. Navigate to**Accounts > Family & other users**
@@ -97,11 +97,22 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![change account type](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-this-app-cant-run/Method-4-step8.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  There are reports that sometimes “This app can’t run on your PC” error is seen even when the users are trying to perform simple tasks such as opening their Task Manager.
 
  In most cases the error was fixed by creating a new administrator account.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 5: Disable Proxy orVPN if you are running them
 
@@ -113,6 +124,13 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![Lan settings](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-this-app-cant-run/Method-5-step6.png)
 6. Click OK to confirm the changes and try to log-in again in to your Microsoft Account
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you are using this feature, there is a big chance that the connection to the Microsoft Store servers is being blocked. If your apps don’t run on your PC, disable these settings.
 
 ### Method 6: Run anSFC scan
@@ -120,15 +138,17 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 1. Open the**Start Menu** . In the search bar type cmd. Right-click**Command Prompt** and select**Run as Administrator**  
 ![run as administrator](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-this-app-cant-run/Method-6.jpg)
 2. Type the`sfc/scannow` command  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![scannow command](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-this-app-cant-run/Method-7-step2.jpg)
 3. Wait for the process to end and reboot your computer. This scan should fix all of your corrupted files
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 7: Enable App side-loading
 
 1. Open the**Start Menu** and click on**PC Settings**  
@@ -138,9 +158,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  This fix will prevent the “this app can’t run on your PC” error from appearing again.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 8: Check your disk for errors
 
  Another reason behind the “this app can’t run on your PC” error can be disk errors. To fix them open**Command Prompt** as mentioned in the previous step and type the command`chkdsk C: /f`
@@ -148,24 +165,18 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![chkdsk command](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-this-app-cant-run/Method-8.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
+
 ### Method 9: Clear your browser cache
 
  There are cases where during download the files are getting corrupted. This will result in files and folders not being fully downloaded. This usually happens if you don’t clean your browser cache regularly.
 
  You can check our article on how to[clear your computers’ cache](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1) with Revo Uninstaller Pro, including your browser.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 10: Clean your temporary files and folders
 
  The temporary files in rare cases can affect your computer. If your system is cluttered with them it can result in slow processing speed and may also trigger different errors. Clean your temporary files and reinstall the app that currently shows the “this app can’t run on your PC” error.
@@ -199,9 +210,6 @@ To update your Windows:
 3. Click on the “**Check for Updates** ” button  
 ![check for updates](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-this-app-cant-run/Method-12-step3.jpg)
 4. Install the latest Windows updates
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 
 ### Method 13: Check if your PC is 32-bit or 64-bit Compatible
 
@@ -213,20 +221,21 @@ To confirm if that is the reason, check the PC specifications:
 2. Select**System**  
 ![system](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-this-app-cant-run/Method-13-step2.png)
 3. Click on “**About** ”  
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![about](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-this-app-cant-run/Method-13-step3.jpg)
 4. On the right-pane, under**Device specifications** , see what is your**System type**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ## Final Words
 
  Running into the “this app can’t run on your PC” error is quite inconvenient. The methods mentioned above most of the time fix this error, but if it keeps persisting maybe your problems lie somewhere else.
 
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## We can help you every time when…
 
@@ -243,8 +252,6 @@ To confirm if that is the reason, check the PC specifications:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -252,4 +259,26 @@ To confirm if that is the reason, check the PC specifications:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-top-alternative-to-samsungs-360-vr-camera/"><u>[New] In 2024, Top Alternative to Samsung’s 360 VR Camera</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-mastering-the-art-of-thumbnail-design-with-your-mac/"><u>[New] Mastering the Art of Thumbnail Design with Your Mac</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/anticipating-the-release-google-pixel-watch-price-and-features-leak-details/"><u>Anticipating the Release: Google Pixel Watch Price & Features Leak Details</u></a></li>
+<li><a href="https://windows11.techidaily.com/beat-the-blank-screen-blues-faster-input-in-windows-11/"><u>Beat the Blank Screen Blues: Faster Input in Windows 11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/beat-the-windows-explorer-malfunction-effective-strategies-to-prevent-crashes-7-ways/"><u>Beat the Windows Explorer Malfunction: Effective Strategies to Prevent Crashes (7 Ways)</u></a></li>
+<li><a href="https://win-forum.techidaily.com/decoding-the-leaders-of-online-networking-an-insightful-study-on-facebook-twitter-instagram-and-youtube/"><u>Decoding the Leaders of Online Networking: An Insightful Study on Facebook, Twitter, Instagram, and Youtube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/effective-techniques-to-reset-dns-settings-for-windows-10-and-11-users/"><u>Effective Techniques to Reset DNS Settings for Windows 10 & 11 Users</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-the-digital-landscape-with-facebook-twitter-instagram-and-youtube/"><u>Exploring the Digital Landscape with Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/guide-terminate-unresponsive-apps-in-windows-11-using-keyboard-shortcuts/"><u>Guide: Terminate Unresponsive Apps in Windows 11 Using Keyboard Shortcuts</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-full-guide-to-unlock-iphone-7-plus-with-itunes-by-drfone-ios/"><u>In 2024, Full Guide to Unlock iPhone 7 Plus with iTunes</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-futuristic-vr-tech-for-remote-pilots/"><u>In 2024, Futuristic VR Tech for Remote Pilots</u></a></li>
+<li><a href="https://win-forum.techidaily.com/revouninstaller-explained-a-deep-dive-into-computer-boot-settings/"><u>RevoUninstaller Explained: A Deep Dive Into Computer Boot Settings</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/snappy-strategies-for-reacquiring-deleted-posts-for-2024/"><u>Snappy Strategies for Reacquiring Deleted Posts for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-tutorial-on-activating-wake-on-lan-for-latest-windows-versions/"><u>Step-by-Step Tutorial on Activating Wake-on-LAN for Latest Windows Versions</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-infinix-note-30-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Infinix Note 30 Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/take-control-of-your-privacy-in-android-11-learn-to-use-one-time-permission-settings-and-revouninstaller-effectively/"><u>Take Control of Your Privacy in Android 11: Learn to Use One-Time Permission Settings & RevoUninstaller Effectively</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-ultimate-guide-to-adding-a-password-layer-to-your-text-files/"><u>The Ultimate Guide to Adding a Password Layer to Your Text Files</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-linking-your-firestick-device-to-a-mobile-hotspot/"><u>Ultimate Guide: Linking Your Firestick Device to a Mobile Hotspot</u></a></li>
+<li><a href="https://techtrends.techidaily.com/upcoming-xbox-virtual-reality-set-latest-leaks-on-cost-and-launch-timeline/"><u>Upcoming Xbox Virtual Reality Set - Latest Leaks on Cost & Launch Timeline</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "The Big Four in Digital Sphere: Exploring Facebook, Twitter, Instagram & YouTube"
-date: 2024-08-18T11:10:31.133Z
-updated: 2024-08-19T11:10:31.133Z
+date: 2024-10-01T19:26:52.858Z
+updated: 2024-10-06T17:37:05.626Z
 tags:
   - win11
   - win10
@@ -26,26 +26,34 @@ thumbnail: https://thmb.techidaily.com/27d9679823f15c1f840af178653026beb0d15afa8
 
  BIOS (basic input/output system) is actually a program that the computer’s microprocessor is using to start the computer system. It’s other functions are to manage data flow between the computer’s operating system (OS) and attached devices, such as the hard disk, video adapter, keyboard, mouse and printer.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## First lets learn more about the history of BIOS
 
  The term BIOS was first used by Gary Kildall in 1975\. The first BIOS was incorporated in IBMs’ first personal computer in 198\. In the years to come, it gained popularity within other PCs, becoming an integral part of computers for some time.Unfortunately BIOS’ popularity starts to decline in favor of a newer technology: Unified Extensible Firmware Interface (UEFI). Intel announced a plan in 2017 to retire support for legacy BIOS systems by 2020, replacing them with UEFI.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## So what does a BIOS include?
 
  The BIOS includes instructions on how to load basic computer hardware. BIOS tests your system to verify the computer meets requirements to boot up properly. If the computer does not pass the test, you hear a combination of beeps indicating what is malfunctioning in the computer.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ## What are the four main functions of a PC BIOS?
 
 * **POST** – BIOS performs a test on your computer hardware and make sure no errors exist before loading the operating system.
 * **Bootstrap Loader** – This function locates the operating system. If a capable operating system is located, the BIOS will pass control to it.
 * **BIOS drivers** – Low-level drivers that give the computer basic operational control over your computer’s hardware.
 * **BIOS setup or CMOS setup** – Configuration program that allows you to configure hardware settings including system settings, such as date, time, and computer passwords.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How does BIOS work?
 
@@ -63,9 +71,6 @@ thumbnail: https://thmb.techidaily.com/27d9679823f15c1f840af178653026beb0d15afa8
 
  Once in BIOS Setup Utility, users can change hardware settings, manage memory settings, change the boot order or boot device, and reset the BIOS password, among other configuration tasks.
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## BIOS security
 
  Usually not a lot of users talk about BIOS security, but it should not be overlooked. There is a case study by the Security Group – Cylance that showed how modern BIOS can have flaw in its security and ransomware programs can access the motherboard’s UEFI and exploit the other PC BIOS vulnerabilities.
@@ -73,8 +78,18 @@ thumbnail: https://thmb.techidaily.com/27d9679823f15c1f840af178653026beb0d15afa8
  Another unique exploit involving the manipulation of BIOS was Plundervolt. Plundervolt could be used to mess with a computer’s power supply at the time data was being written to memory, causing errors that lead to security gaps. Intel released a BIOS patch to defend against it.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Can a BIOS chip be upgraded or updated?
 
  Adding additional memory to a BIOS chip, as an upgrade, can only be done by replacing the existing BIOS chip with a new, more advanced BIOS chip.
@@ -84,12 +99,18 @@ thumbnail: https://thmb.techidaily.com/27d9679823f15c1f840af178653026beb0d15afa8
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
+
 ## We can help you every time when…
 
 * you cannot find the program in the Apps & Features list
@@ -105,8 +126,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -114,4 +133,21 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/n-2024-enthralling-epics-essential-channel-building-tactics/"><u>[New] In 2024, Enthralling Epics Essential Channel-Building Tactics</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-streamline-content-sharing-a-complete-instagram-video-upload-guide-from-desktop/"><u>[Updated] In 2024, Streamline Content Sharing A Complete Instagram Video Upload Guide From Desktop</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-premier-platforms-identifying-the-finest-ps2-emulation-tools-for-android-for-2024/"><u>[Updated] Premier Platforms Identifying the Finest PS2 Emulation Tools for Android for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-viral-video-potential-analyzing-dslr-and-mirrorless-cameras/"><u>2024 Approved Viral Video Potential Analyzing DSLR and Mirrorless Cameras</u></a></li>
+<li><a href="https://win-forum.techidaily.com/2024mkv12/"><u>2024年ご覧無料Mkvエディター上位12 - 推奨フリーウェア</u></a></li>
+<li><a href="https://win-forum.techidaily.com/wmvvob-movavi-video/"><u>簡單方法從線上自由將WMV換成VOB - 使用Movavi Video編輯器</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/bright-future-for-your-android-videos-a-comprehensive-plan-for-2024/"><u>Bright Future for Your Android Videos - A Comprehensive Plan for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/bringing-back-the-glitter-integrating-instagram-effects-to-past-media/"><u>Bringing Back the Glitter Integrating Instagram Effects to Past Media</u></a></li>
+<li><a href="https://win-forum.techidaily.com/effortless-transformation-of-m4a-track-to-wmv-format-get-started-here-for-free/"><u>Effortless Transformation of M4A Track to WMV Format - Get Started Here for Free!</u></a></li>
+<li><a href="https://win-forum.techidaily.com/free-online-conversion-transforming-m4b-audiobooks-into-m4a-format-with-ease/"><u>Free Online Conversion: Transforming M4B Audiobooks Into M4A Format with Ease</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-origami-inspired-best-minimalist-homes-in-minecraft/"><u>In 2024, Origami Inspired Best Minimalist Homes in Minecraft</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-your-pc-searches-use-everythingapp/"><u>Streamline Your PC Searches, Use EverythingApp</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-15-reproductores-de-archivos-mp4-facil-de-usar-para-windows-10-y-macos-version-gratuita/"><u>Top 15 Reproductores De Archivos MP4 Fácil De Usar Para Windows 10 Y macOS - Versión Gratuita</u></a></li>
+<li><a href="https://win-forum.techidaily.com/trasforma-i-tuoi-file-dts-in-formato-m4v-online-gratuitamente-usando-movavi-prova-ora/"><u>Trasforma I Tuoi File DTS in Formato M4V OnLine Gratuitamente Usando Movavi - Prova Ora!</u></a></li>
+</ul></div>
 

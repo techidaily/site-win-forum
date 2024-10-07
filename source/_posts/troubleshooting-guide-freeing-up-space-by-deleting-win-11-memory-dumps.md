@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Freeing Up Space by Deleting Win 11 Memory Dumps"
-date: 2024-08-23T10:59:28.136Z
-updated: 2024-08-24T10:59:28.136Z
+date: 2024-10-01T18:54:37.831Z
+updated: 2024-10-07T00:02:40.024Z
 tags:
   - win11
   - win10
@@ -44,26 +44,40 @@ thumbnail: https://thmb.techidaily.com/58d1c82f33ff87a2a49ef482dc26ca840416cdee7
 4. Finally, click**64-bit Download** .
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### The next step is to edit the Windows Registry to skip the CPU Check during Windows 11 installation
 
 1. Open the Start Menu and in the Search Bar type “regedit”  
 ![regedit](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/install-windows-unsupported-cpu/regedit-exe.png)
 2. In the Registry Editor navigate to**Computer\\HKEY\_LOCAL\_MACHINE\\SYSTEM\\Setup\\MoSetup**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. In the right pane, right-click and select**New -> DWORD (32-bit) Value** .  
 ![dword](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/install-windows-unsupported-cpu/dword.png)
 4. Name the value “**AllowUpgradesWithUnsupportedTPMOrCPU** ” (don’t include the quotes).
+
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 5. Double-click on the newly created value and enter 1 in the**Value data** filed.  
 ![dword value](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/install-windows-unsupported-cpu/edit-dword-value.jpg)
 6. Click**OK** and close the registry editor.
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ### The final step is the following
 
  Remember the Windows 11 ISO that you started downloading at the beginning of this article?
@@ -72,20 +86,24 @@ thumbnail: https://thmb.techidaily.com/58d1c82f33ff87a2a49ef482dc26ca840416cdee7
 2. Double-click the setup file to begin the Windows 11 installation.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Summary
 
  If you’ve followed all the steps, you should see a warning message that your CPU is not “the perfect match” for Windows 11, but you will be allowed to install it on your PC. **Just keep in mind that Microsoft reserves the right to stop your security updates if you decide to use this method** .
 
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## We can help you every time when…
 
 * you cannot find the program in the Apps & Features list
@@ -101,8 +119,6 @@ thumbnail: https://thmb.techidaily.com/58d1c82f33ff87a2a49ef482dc26ca840416cdee7
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -110,4 +126,24 @@ thumbnail: https://thmb.techidaily.com/58d1c82f33ff87a2a49ef482dc26ca840416cdee7
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-safe-no-cost-methods-for-youtube-tracks-extraction/"><u>[New] 2024 Approved Safe, No-Cost Methods for YouTube Tracks Extraction</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-elite-alternatives-to-microsofts-official-gaming-recorder/"><u>[New] Elite Alternatives to Microsoft's Official Gaming Recorder</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-cutting-edge-fb-video-ads-mastery-with-free-toolset/"><u>[Updated] 2024 Approved Cutting-Edge FB Video Ads Mastery with FREE Toolset</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-continuous-connection-avoiding-streak-breakers-on-snapchat/"><u>[Updated] In 2024, Continuous Connection Avoiding Streak Breakers on Snapchat</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-leap-into-a-bigger-view-the-new-full-screen-fb-video-trend/"><u>2024 Approved Leap Into a Bigger View The New Full-Screen FB Video Trend</u></a></li>
+<li><a href="https://win-forum.techidaily.com/comprehensive-tutorial-eradicating-data-with-the-windows-10-command-line-interface/"><u>Comprehensive Tutorial: Eradicating Data with the Windows 10 Command Line Interface</u></a></li>
+<li><a href="https://win-forum.techidaily.com/defend-your-data-protecting-text-file-with-simple-password-techniques-explored/"><u>Defend Your Data: Protecting Text File with Simple Password Techniques Explored</u></a></li>
+<li><a href="https://win-forum.techidaily.com/determining-the-latest-powershell-version-in-windows-11-made-easy/"><u>Determining the Latest PowerShell Version in Windows 11 Made Easy</u></a></li>
+<li><a href="https://win-forum.techidaily.com/discover-how-to-determine-powershell-version-on-a-windows-10-machine-easily/"><u>Discover How to Determine PowerShell Version on a Windows 10 Machine Easily</u></a></li>
+<li><a href="https://win-forum.techidaily.com/expert-advice-for-clearing-up-entire-disk-capacity-problems-on-windows-11-computers/"><u>Expert Advice for Clearing Up Entire Disk Capacity Problems on Windows 11 Computers</u></a></li>
+<li><a href="https://win-forum.techidaily.com/explore-the-giants-of-online-communication-facebook-twitter-instagram-and-youtube/"><u>Explore the Giants of Online Communication: Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/exploring-open-source-options-is-vlc-bound-to-beat-mpc-in-2024/"><u>Exploring Open-Source Options Is VLC Bound to Beat MPC, In 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-explore-tiktoks-1-game-bloggers-list/"><u>In 2024, Explore TikTok's #1 Game Bloggers List</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-shadowy-troubles-how-to-repair-black-screens-in-resident-evil-village-gameplay-pc/"><u>Overcoming Shadowy Troubles: How to Repair Black Screens in Resident Evil Village Gameplay (PC)</u></a></li>
+<li><a href="https://win-forum.techidaily.com/1722915162683-professional-grade-program-elimination-with-revo-uninstaller-pro-latest-update/"><u>Professional-Grade Program Elimination with Revo Uninstaller Pro - Latest Update</u></a></li>
+<li><a href="https://fox-that.techidaily.com/simplify-photo-management-combining-identical-person-albums-using-iphoneipad-or-mac-tools/"><u>Simplify Photo Management: Combining Identical Person Albums Using iPhone/iPad or Mac Tools</u></a></li>
+<li><a href="https://win-forum.techidaily.com/understanding-social-media-giants-facebook-twitter-and-instagram-youtube/"><u>Understanding Social Media Giants: Facebook, Twitter & Instagram, YouTube</u></a></li>
+</ul></div>
 

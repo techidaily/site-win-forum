@@ -1,7 +1,7 @@
 ---
 title: Advanced File Deletion Techniques with Command Prompt for Windows 10 Users
-date: 2024-08-23T11:01:57.924Z
-updated: 2024-08-24T11:01:57.924Z
+date: 2024-09-30T19:01:01.399Z
+updated: 2024-10-06T17:24:04.699Z
 tags:
   - win11
   - win10
@@ -44,11 +44,25 @@ Here are the methods you can use to speed up your Windows 11 boot time:
 ![startup tab](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/speed-up-windows-11-boot-time/disable-startup-programs-in-windows-11-step-2.jpg)
 3. Finally, toggle the switch next to the apps you don’t want to run at startup. Under the toggle switch, you’ll see the status impact of each, which indicates what disabling them does to your system.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## II. Remove unnecessary files and programs
 
  Over time, your computer may become cluttered with unnecessary files and programs that can slow down your computer’s startup time. By removing these files and programs, you can speed up your Windows 11 boot time and improve your overall computer performance.
 
  We’ve covered in this[article](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1) how you can remove unnecessary files and programs with Revo Uninstaller and many other methods.
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## III. Enable Fast Startup
 
@@ -61,16 +75,17 @@ Here is how you can turn Fast Starup On:
 3. Go to**System and Security** and then click on**Power Options** .  
 ![startup options](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/speed-up-windows-11-boot-time/enable-fast-startup-step-2.png)
 4. In the left pane, click on**Choose what the power buttons do** .
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 5. Next, click the**Change settings that are currently unavailable** link.
 6. Under the**Shutdown settings** section, check the**Turn on fast startup (recommended)** option to turn on the feature.
 7. Uncheck the**Turn on fast startup option** to turn it off.  
 ![fast startup](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/speed-up-windows-11-boot-time/enable-fast-startup-step-5.jpg)
 8. Click**Save changes** to apply the changes.
+
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## IV. Defragment your hard drive
@@ -84,23 +99,14 @@ Here is how you can turn Fast Starup On:
 3. Select the hard drive you want to defragment.  
 ![defragment hard drive](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/speed-up-windows-11-boot-time/defragment-your-hard-drive-step-3.png)
 4. Click on the Optimize button.
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Wait for the defragmentation process to complete.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## V. Use an SSD
 
  If you have a modern PC running Windows 11, chances are that it uses an SSD (Solid State Drive), which is faster than a traditional hard disk drive. However, if you’re experiencing slow boot times, upgrading to a new SSD can help improve your boot time.
 
  In addition to upgrading your SSD, another way to speed up your PC’s boot time is to upgrade your RAM. With more RAM, your PC will have more volatile memory available to load temporary items, resulting in faster boot times and an overall improvement in your PC’s performance.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ## VI. Adjust BIOS settings for faster Windows 11 boot time
 
  Adjusting the BIOS settings can help speed up the boot time on your Windows 11 computer. Here are the steps you need to follow in order to adjust your BIOS settings to improve your Windows 11 boot time:
@@ -116,8 +122,12 @@ Here is how you can turn Fast Starup On:
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
 
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## We can help you every time when…
 
 * you cannot find the program in the Apps & Features list
@@ -133,8 +143,6 @@ Here is how you can turn Fast Starup On:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -142,4 +150,24 @@ Here is how you can turn Fast Starup On:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-beat-bringers-sourcing-premium-dj-visuals/"><u>[New] 2024 Approved Beat Bringers Sourcing Premium DJ Visuals</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-expert-picks-top-5-high-performing-android-recorders/"><u>[New] Expert Picks Top 5 High-Performing Android Recorders</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-boost-your-channels-subscribers-on-a-shoestring-budget/"><u>[Updated] 2024 Approved Boost Your Channel's Subscribers on a Shoestring Budget</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-srt-file-management-for-seamless-audible-experience/"><u>[Updated] In 2024, SRT File Management for Seamless Audible Experience</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-uncomplicated-methods-for-archiving-vimeo-content/"><u>2024 Approved Uncomplicated Methods for Archiving Vimeo Content</u></a></li>
+<li><a href="https://win-forum.techidaily.com/a-user-friendly-approach-to-install-latest-drivers-on-your-windows-10-setup/"><u>A User-Friendly Approach to Install Latest Drivers on Your Windows 10 Setup</u></a></li>
+<li><a href="https://win-forum.techidaily.com/connect-with-billions-on-popular-platforms-like-facebook-twitter-instagram-youtube/"><u>Connect with Billions on Popular Platforms Like Facebook, Twitter, Instagram, YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/connecting-the-dots-among-top-platforms-facebook-twitter-instagram-and-youtube/"><u>Connecting the Dots Among Top Platforms: Facebook, Twitter, Instagram & Youtube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/discover-the-latest-methods-verifying-your-powershell-version-on-windows-11/"><u>Discover the Latest Methods: Verifying Your PowerShell Version on Windows 11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-the-big-four-of-social-networking-facebook-tweetdeck-gramflex-and-vidplay/"><u>Exploring the Big Four of Social Networking: FaceBook, TweetDeck, GramFlex & VidPlay</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-nokia-c12-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Nokia C12 Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-elevate-landscape-imaging-with-your-iphone-device-for-2024/"><u>How to Elevate Landscape Imaging with Your iPhone Device for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-vivo-y77t-by-fonelab-android-recover-photos/"><u>How To Restore Missing Photos Files from Vivo Y77t.</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-capture-connections-real-time-recordings/"><u>In 2024, Capture Connections Real Time Recordings</u></a></li>
+<li><a href="https://win-forum.techidaily.com/social-media-titans-facebook-twitter-instagram-and-youtube-unveiled/"><u>Social Media Titans: Facebook, Twitter, Instagram & YouTube Unveiled</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-clearing-your-pcs-cache-in-windows-11-using-revo-uninstaller/"><u>Step-by-Step Guide: Clearing Your PC's Cache in Windows 11 Using Revo Uninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-essentials-of-bios-explained-insights-for-revouninstaller-users/"><u>The Essentials of BIOS Explained: Insights for RevoUninstaller Users</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Easy Tutorial on How to Erase Profiles From Windows 10 Systems
-date: 2024-08-18T11:10:21.489Z
-updated: 2024-08-19T11:10:21.489Z
+date: 2024-09-29T18:05:37.521Z
+updated: 2024-10-06T20:41:32.441Z
 tags:
   - win11
   - win10
@@ -26,20 +26,34 @@ thumbnail: https://thmb.techidaily.com/dfb31f4a374c12c54be4691af9a495853d8fa50fd
 
  In some cases when you have trouble connecting to the internet the reason behind it can be your PC’s DNS cache. If you have already tried to[clear your browser cache and cookies](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1) , you will have to flush your Windows 10 or Windows 11 DNS. In this article, we will discover how to flush DNS on your Windows PC.
 
+<!-- affiliate ads begin -->
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## First let’s discover what the Windows DNS cache does
 
  DNS stands for Domain Network System. The main role of the DNS is to translate familiar domain names like revouninstaller.com into IP addresses computers use to connect with each other. For example, if you want to connect to google.com, your computer queries a DNS server on the internet to get the corresponding IP address connected to the google.com domain. Windows 10 and Windows 11 store a copy of the information it gets from the DNS server on your PC, so the process can be faster.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## When will you have to flush your DNS cache
 
  Most of the systems connected to the internet automatically update the cache and hostnames, you can have problems when the IP address of a webpage changes before the update. If that is the case you can have connectivity issues, with the page failing to load in your browser. When you flush your DNS all the stored information on your PC is removed. This forces your computer to retrieve new data that will solve your connectivity issues.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## So how can you flush your DNS on your Windows 10 or Windows 11 PC?
 
 1. ### Using Command Prompt  
@@ -48,9 +62,6 @@ thumbnail: https://thmb.techidaily.com/dfb31f4a374c12c54be4691af9a495853d8fa50fd
    2. Copy and paste the following command:`ipconfig /flushdns` and press**Enter** .  
    ![cmd window](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/flush-dns-windows/method-1-command-prompt.png)  
  Your Windows 10 or Windows 11 DNS cache should be flushed. You will get a message saying the operation is successful.
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 2. ### Using Windows PowerShell  
 
@@ -60,16 +71,17 @@ thumbnail: https://thmb.techidaily.com/dfb31f4a374c12c54be4691af9a495853d8fa50fd
    2. Copy and paste the following command:`ipconfig /flushdns` and press**Enter** . This will clear the DNS cache on your computer.  
    ![powershell window](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/flush-dns-windows/method-2-powershell.png)
    3. ### Using a Run Command  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
    1. Press**Win Key + R** and type the following command:`ipconfig /flushdns` and hit**Enter** .  
    ![run window](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/flush-dns-windows/method-3-run.png)  
    2. Your DNS cache should be erased from your Windows 10 or Windows 11 computer.
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Flushing the DNS cache may seem like a lot of technical jargon, but it’s a simple process, as you now know.
 
@@ -80,8 +92,12 @@ thumbnail: https://thmb.techidaily.com/dfb31f4a374c12c54be4691af9a495853d8fa50fd
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## We can help you every time when…
 
 * you cannot find the program in the Apps & Features list
@@ -97,8 +113,6 @@ thumbnail: https://thmb.techidaily.com/dfb31f4a374c12c54be4691af9a495853d8fa50fd
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -106,4 +120,22 @@ thumbnail: https://thmb.techidaily.com/dfb31f4a374c12c54be4691af9a495853d8fa50fd
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-the-a-list-of-ig-edits-essential-apps-for-marketers/"><u>[New] 2024 Approved The A-List of IG Edits Essential Apps for Marketers</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-social-simulacrum-sketches-designing-distorted-digital-selves/"><u>[New] Social Simulacrum Sketches Designing Distorted Digital Selves</u></a></li>
+<li><a href="https://win-forum.techidaily.com/movavim4raiff/"><u>無限制地獄中的移動影片格式：如何自由使用Movavi來從M4R改變成AIFF</u></a></li>
+<li><a href="https://win-forum.techidaily.com/beginners-guide-to-voiceover-gear-essential-tools-and-applications/"><u>Beginner's Guide to Voiceover Gear: Essential Tools and Applications</u></a></li>
+<li><a href="https://win-forum.techidaily.com/gratuito-conversor-de-fotos-raw-a-formato-bmp-en-linea-con-movavi/"><u>Gratuito Conversor De FOTOS RAW a Formato BMP - En Línea Con Movavi</u></a></li>
+<li><a href="https://facebook.techidaily.com/implementing-key-privacy-measures-in-adolescent-social-media-use/"><u>Implementing Key Privacy Measures in Adolescent Social Media Use</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-expertly-capture-your-macs-display-with-no-cost/"><u>In 2024, Expertly Capture Your Mac's Display with No Cost</u></a></li>
+<li><a href="https://facebook.techidaily.com/navigating-facebooks-renaming-process/"><u>Navigating Facebook's Renaming Process</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-best-mobile-apps-to-extract-audio-from-videos-ios-and-android/"><u>New Best Mobile Apps to Extract Audio From Videos (iOS and Android)</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-what-should-be-considered-to-choose-a-nice-gopro-for-vlogging-in-2024/"><u>New What Should Be Considered to Choose A Nice GoPro for Vlogging, In 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/oculus-quest-2s-elite-strap-a-game-changer-with-integrated-battery-and-robust-travel-case-review-insights/"><u>Oculus Quest 2'S Elite Strap: A Game-Changer with Integrated Battery and Robust Travel Case Review Insights</u></a></li>
+<li><a href="https://win-forum.techidaily.com/online-video-audio-extraction-with-extraktor-zvuku/"><u>Online Video Audio Extraction with Extraktor Zvuku</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-10-applicazioni-piu-efficaci-per-la-conversione-di-file-heic-a-formato-jpeg/"><u>Top 10 Applicazioni Più Efficaci per La Conversione Di File HEIC a Formato JPEG</u></a></li>
+<li><a href="https://win-forum.techidaily.com/transformation-gratuit-de-fichiers-bmp-en-images-png-sur-place-movavi/"><u>Transformation Gratuit De Fichiers BMP en Images PNG Sur Place - Movavi</u></a></li>
+<li><a href="https://win-forum.techidaily.com/understanding-mkv-files-and-mastering-the-art-of-playback/"><u>Understanding MKV Files and Mastering the Art of Playback</u></a></li>
+</ul></div>
 

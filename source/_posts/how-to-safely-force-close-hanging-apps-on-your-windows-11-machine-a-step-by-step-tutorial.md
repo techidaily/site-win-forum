@@ -1,7 +1,7 @@
 ---
 title: How to Safely Force Close Hanging Apps on Your Windows 11 Machine - A Step by Step Tutorial
-date: 2024-08-23T11:00:54.180Z
-updated: 2024-08-24T11:00:54.180Z
+date: 2024-10-03T17:11:17.057Z
+updated: 2024-10-06T22:29:55.760Z
 tags:
   - win11
   - win10
@@ -26,17 +26,28 @@ thumbnail: https://thmb.techidaily.com/95c7607cc85834758f594e36f86b8274633568f32
 
  In some cases when you have trouble connecting to the internet the reason behind it can be your PC’s DNS cache. If you have already tried to[clear your browser cache and cookies](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1) , you will have to flush your Windows 10 or Windows 11 DNS. In this article, we will discover how to flush DNS on your Windows PC.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## First let’s discover what the Windows DNS cache does
 
  DNS stands for Domain Network System. The main role of the DNS is to translate familiar domain names like revouninstaller.com into IP addresses computers use to connect with each other. For example, if you want to connect to google.com, your computer queries a DNS server on the internet to get the corresponding IP address connected to the google.com domain. Windows 10 and Windows 11 store a copy of the information it gets from the DNS server on your PC, so the process can be faster.
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will you have to flush your DNS cache
 
  Most of the systems connected to the internet automatically update the cache and hostnames, you can have problems when the IP address of a webpage changes before the update. If that is the case you can have connectivity issues, with the page failing to load in your browser. When you flush your DNS all the stored information on your PC is removed. This forces your computer to retrieve new data that will solve your connectivity issues.
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## So how can you flush your DNS on your Windows 10 or Windows 11 PC?
 
 1. ### Using Command Prompt  
@@ -45,22 +56,12 @@ thumbnail: https://thmb.techidaily.com/95c7607cc85834758f594e36f86b8274633568f32
    2. Copy and paste the following command:`ipconfig /flushdns` and press**Enter** .  
    ![cmd window](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/flush-dns-windows/method-1-command-prompt.png)  
  Your Windows 10 or Windows 11 DNS cache should be flushed. You will get a message saying the operation is successful.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 2. ### Using Windows PowerShell  
@@ -71,17 +72,10 @@ Key features:
    2. Copy and paste the following command:`ipconfig /flushdns` and press**Enter** . This will clear the DNS cache on your computer.  
    ![powershell window](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/flush-dns-windows/method-2-powershell.png)
    3. ### Using a Run Command  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 
    1. Press**Win Key + R** and type the following command:`ipconfig /flushdns` and hit**Enter** .  
    ![run window](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/flush-dns-windows/method-3-run.png)  
    2. Your DNS cache should be erased from your Windows 10 or Windows 11 computer.
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  Flushing the DNS cache may seem like a lot of technical jargon, but it’s a simple process, as you now know.
 
@@ -92,11 +86,12 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
+
 ## We can help you every time when…
 
 * you cannot find the program in the Apps & Features list
@@ -112,8 +107,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -121,4 +114,24 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-how-to-blur-background-in-zoom-with-ease-an-ultimate-guide-for-2024/"><u>[Updated] How to Blur Background in Zoom with Ease An Ultimate Guide for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-navigating-social-media-imitation-how-to-clone-yourself-with-finesse-on-tiktok-for-2024/"><u>[Updated] Navigating Social Media Imitation How to Clone Yourself with Finesse on TikTok for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-multimedia-artists-cyber-meeting-room/"><u>2024 Approved Multimedia Artists' Cyber Meeting Room</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/behind-the-curtain-detailed-guide-to-import-tasks-w11-for-2024/"><u>Behind the Curtain Detailed Guide to Import Tasks W11 for 2024</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/convert-and-save-your-favorite-jibjab-content-in-various-formats-mp4-wmv-avi/"><u>Convert and Save Your Favorite JibJab Content in Various Formats (MP4, WMV, AVI)</u></a></li>
+<li><a href="https://win-forum.techidaily.com/easy-methods-for-installing-latest-windows-10-drivers-with-revouninstaller/"><u>Easy Methods for Installing Latest Windows 10 Drivers with RevoUninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/enhance-windows-1astoff-speed-strategies-and-tools/"><u>Enhance Windows 1Astoff Speed - Strategies & Tools</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-interactive-media-channels-the-power-of-facebook-twitter-instagram-and-youtube/"><u>Exploring Interactive Media Channels: The Power of Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Samsung Galaxy M34 5G | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-motorola-moto-g24-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Motorola Moto G24 to Another | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-turn-your-shorts-into-cash-effective-monetization-techniques/"><u>In 2024, Turn Your Shorts Into Cash Effective Monetization Techniques</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-social-media-engagement-on-major-sites-like-facebook-twitter-instagram-and-youtube/"><u>Mastering Social Media Engagement on Major Sites Like Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-giants-of-social-media-facebook-twitter-and-instagram/"><u>Navigating the Giants of Social Media: Facebook, Twitter & Instagram</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-eradicating-tracking-cookies-from-your-windows-11-and-android-device/"><u>Step-by-Step Guide: Eradicating Tracking Cookies From Your Windows 11 & Android Device</u></a></li>
+<li><a href="https://fox-that.techidaily.com/stuck-on-ios-update-unlock-the-secrets-of-9-powerful-fixes-for-your-device/"><u>Stuck on iOS Update? Unlock the Secrets of 9 Powerful Fixes for Your Device</u></a></li>
+<li><a href="https://win-forum.techidaily.com/1722915306474-the-digital-mosaic-a-guide-to-successful-branding-on-facebook-twitter-instagram-and-youtube/"><u>The Digital Mosaic: A Guide to Successful Branding on Facebook, Twitter, Instagram & Youtube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-ultimate-guide-to-social-networks-tactics-for-success-on-facebook-twitter-instagram-and-youtube/"><u>The Ultimate Guide to Social Networks: Tactics for Success on Facebook, Twitter, Instagram & YouTube</u></a></li>
+</ul></div>
 

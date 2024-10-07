@@ -1,7 +1,7 @@
 ---
 title: Transformez Facilement Votre Vidéo FLV en 3GP Sans Frais Avec OnlineConvertPro by Moveave
-date: 2024-09-27T17:24:29.675Z
-updated: 2024-10-01T16:51:14.525Z
+date: 2024-10-02T21:15:49.308Z
+updated: 2024-10-06T16:10:27.187Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/90cf06f9730c5591652ae4f421f62950743940a3b49411aac162c7581850732b.jpg
@@ -167,10 +167,10 @@ Un facteur clé qui peut ralentir votre expérience de jeu est l'utilisation d'u
 ![](https://cdn.staticont.net/pages/0013/24/1698d2ec33be3cf4f4bedd243e199c87dbd8ac34.webp)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Si votre jeu commence à ralentir et que l'image est saccadée, surtout lorsqu'elle bouge, c'est que votre taux d'images par seconde (IPS) est faible. Cela se produit lorsque le matériel de votre ordinateur a du mal à faire fonctionner votre jeu ou fait des heures supplémentaires. S'il travaille trop, la vitesse du jeu ralentit.
@@ -188,19 +188,6 @@ Avant de commencer, il est toujours bon d'avoir un compteur de FPS dans le jeu, 
 Comment rendre Windows 10 plus rapide pour les jeux (corrections rapides)
 
 ![](https://cdn.staticont.net/pages/0013/24/d54a84e68415bc2949ca1ec30e4cf5f5b067a4e1.webp)
-
-<!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Vous voulez savoir comment rendre Windows 10 plus rapide pour jouer avec une solution rapide ? Suivez ces conseils et recommencez à jouer !
 
@@ -260,13 +247,6 @@ Si vous ne trouvez pas ces paramètres, cela signifie que la dernière Windows C
 
 ![](https://cdn.staticont.net/pages/0012/47/719892cfb3ccc9e05c269dd850ef3c6c37589035.webp)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Oui, Windows 10 peut installer des mises à jour et redémarrer votre ordinateur en plein milieu de votre session de jeu sans même un simple "excusez-moi". Ouch. Cela peut être décevant, c'est le moins que l'on puisse dire, surtout si vous êtes un joueur compétitif et que votre sortie non planifiée peut affecter vos coéquipiers ou votre classement.
 
 Mais même en l'absence de tels redémarrages "en pleine face", qui sont en fait assez rares, le téléchargement des mises à jour en arrière-plan limite vos vitesses de connexion et occupe la mémoire vive de votre PC.
@@ -293,9 +273,23 @@ Si vous souhaitez conserver un minimum de graphismes pour que votre interface n'
 * Afficher le contenu de la fenêtre pendant le glissement.
 * Lisser les bords des polices d'écran.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Gérer les mises à jour automatiques de Steam
 
 ![](https://cdn.staticont.net/default/0012/47/297019451ab2d6ffba248c33b083ec10c2390f59.webp)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Le problème ici est le même qu'avec Windows Mises à jour. Steam met automatiquement à jour tous vos jeux, même ceux auxquels vous n'avez pas joué depuis longtemps. Les mises à jour en arrière-plan consomment la mémoire de votre PC et peuvent ralentir les processus de jeu.
 
@@ -337,6 +331,13 @@ Les cartes graphiques AMD ont également beaucoup de paramètres. Certains disen
 
 Cette solution entre facilement dans la catégorie des "solutions rapides". Parfois, votre système ne peut tout simplement pas gérer un jeu, et vous n'avez pas le temps de chercher des solutions à plus long terme. Allez dans les paramètres système du jeu et réduisez la résolution d'un niveau. Surveillez ensuite votre FPS jusqu'à ce que les choses s'améliorent.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Désactiver l'accélération de la souris
 
 Celui-ci n'a rien à voir avec l'amélioration des performances de votre PC en matière de jeu, mais il s'agit plutôt d'un conseil pour vous permettre d'améliorer vos performances personnelles en matière de jeu. L'accélération de la souris est un paramètre qui fait bouger votre souris en se basant non seulement sur la détection des mouvements physiques mais aussi sur la vitesse. Cette option rend en fait les mouvements de votre souris moins précis, car elle ajoute un paramètre supplémentaire au mouvement que vous transmettez à la souris. Étant donné que la précision est cruciale pour la précision de la visée dans les jeux de tir à la première personne, si vous êtes un fan de Call of Duty, Counter-Strike ou Overwatch, vous devriez absolument désactiver cette option.
@@ -344,6 +345,13 @@ Celui-ci n'a rien à voir avec l'amélioration des performances de votre PC en m
 Pour ce faire, appuyez sur la   **touche Windows** \+ **I**. Tapez "pointeur de la souris" dans la zone de recherche. Choisissez **Modifier l'affichage ou la vitesse du pointeur de la souris**. Dans la fenêtre qui s'ouvre, allez dans l'onglet **Options du pointeur** et décochez la case **Améliorer la précision du pointeur**.
 
 Vous pouvez également modifier le curseur de la vitesse du pointeur pour créer la configuration qui vous convient le mieux.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 
 
@@ -354,16 +362,16 @@ Comment améliorer les performances de jeu sur Windows 10 (corrections avancées
 Vous ne savez toujours pas comment rendre Windows 10 plus rapide pour les jeux ? Utilisez ces correctifs avancés pour une solution à long terme.
 
 <!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Optez pour un SSD
@@ -499,13 +507,6 @@ Logiciel d'enregistrement de jeux et de streaming gratuit et simple
 
 Foire aux questions 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Comment optimiser mon ordinateur pour les jeux ?
 
 L'article ci-dessus énumère une série de mesures que vous pouvez prendre pour optimiser votre ordinateur portable ou de bureau pour les jeux. Voici les principaux conseils :
@@ -514,13 +515,6 @@ L'article ci-dessus énumère une série de mesures que vous pouvez prendre pour
 * Modifiez les paramètres de votre carte graphique
 * Mettez à niveau votre GPU et/ou votre CPU
 * Vérifiez les paramètres de performance de votre Windows.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Qu'est-ce qui ralentit mon ordinateur ?
 
@@ -531,13 +525,6 @@ Il y a une longue liste de choses qui pourraient ralentir votre ordinateur. Voic
 3. Les pilotes du GPU ne sont pas à jour
 4. Vous utilisez DirectX 11 et devez effectuer une mise à jour.
 5. Le système fonctionne avec des paramètres de performance inférieurs pour économiser la batterie.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Comment faire fonctionner un ordinateur plus rapidement ?
 
@@ -563,6 +550,13 @@ Atteindre 60 FPS dans un jeu n'est pas différent des conseils pour accélérer 
 4. Vérifiez les paramètres graphiques de votre jeu.
 5. Installez les derniers pilotes pour votre carte graphique
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Pourquoi ai-je des fps faibles sur mon PC haut de gamme ?
 
 La baisse du nombre de FPS se produit lorsque votre ordinateur n'a pas la mémoire ou la puissance nécessaire pour faire tourner le jeu à pleine vitesse. Parmi les problèmes les plus courants à l'origine d'une baisse du nombre d'images par seconde, citons les pilotes de cartes graphiques obsolètes, les cartes graphiques de qualité inférieure, les vieux processeurs et le manque de mémoire vive. 
@@ -572,10 +566,10 @@ Ce n'est pas parce que vous dépensez de l'argent pour un ordinateur qu'il est �
 ![Avez-vous des questions&nbsp;?](https://cdn.staticont.net/global/0023/54/e832fd4fe897893df1de795a67cafcd74a13283a.webp)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Avez-vous des questions ?
@@ -613,22 +607,21 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/1716069265053-new-2024-approved-kiddos-best-gaming-delights-top-girls-adventures/"><u>[New] 2024 Approved Kiddo's Best Gaming Delights - Top Girls' Adventures!</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-blending-past-memories-with-instagrams-vivid-filters-for-2024/"><u>[New] Blending Past Memories with Instagram's Vivid Filters for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-cut-out-facebook-video-2023-edition-mobile-friendly-for-2024/"><u>[New] Cut Out Facebook Video 2023 Edition, Mobile-Friendly for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-superior-2-written-by-robert-littell/"><u>[New] Superior 2 Written by Robert Littell</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-inside-look-how-youtube-funds-are-transforming-content-creation/"><u>2024 Approved Inside Look How YouTube Funds Are Transforming Content Creation</u></a></li>
-<li><a href="https://win11.techidaily.com/bridge-the-gap-connecting-your-computer-again/"><u>Bridge the Gap: Connecting Your Computer Again</u></a></li>
-<li><a href="https://win-forum.techidaily.com/explore-popular-online-communities-facebook-instagram-and-more/"><u>Explore Popular Online Communities: Facebook, Instagram, and More</u></a></li>
-<li><a href="https://win-forum.techidaily.com/explore-the-world-of-connectivity-with-facebook-twitter-instagram-and-youtube/"><u>Explore the World of Connectivity with Facebook, Twitter, Instagram, and YouTube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/exploring-popular-networking-sites-a-comparison-of-facebook-twitter-instagram-and-youtube/"><u>Exploring Popular Networking Sites: A Comparison of Facebook, Twitter, Instagram and YouTube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/exploring-popular-online-communities-a-deep-dive-into-facebook-twitter-instagram-and-youtube/"><u>Exploring Popular Online Communities: A Deep Dive Into Facebook, Twitter, Instagram & YouTube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/exploring-social-networks-strategies-for-success-on-facebook-twitter-instagram-and-youtube/"><u>Exploring Social Networks: Strategies for Success on Facebook, Twitter, Instagram & YouTube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/finding-the-right-powershell-version-for-windows-10-using-command-prompt-or-powershell/"><u>Finding the Right PowerShell Version for Windows 10 Using Command Prompt or Powershell</u></a></li>
-<li><a href="https://win-forum.techidaily.com/fixing-windows-11-wont-run-problems-expert-strategies-and-solutions/"><u>Fixing 'Windows 11 Wont Run' Problems: Expert Strategies and Solutions</u></a></li>
-<li><a href="https://some-tips.techidaily.com/gratis-online-converter-mp3-via-movavi-autoconversao-sem-custo/"><u>Gratis Online Converter: Mp3 via Movavi - Autoconversão Sem Custo</u></a></li>
-<li><a href="https://win-forum.techidaily.com/guide-successfully-setting-up-windows-11-on-non-compatible-processors/"><u>Guide: Successfully Setting Up Windows 11 on Non-Compatible Processors</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Oppo Find X7 Ultra | Dr.fone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/the-ultimate-guide-to-using-obs-for-gamers/"><u>The Ultimate Guide to Using OBS for Gamers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-chic-and-stylish-beauty-videos/"><u>[Updated] Chic and Stylish Beauty Videos</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-easy-insights-into-effective-use-of-showmore-screen-recorder/"><u>[Updated] In 2024, Easy Insights Into Effective Use of ShowMore Screen Recorder</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-loves-anthem-top-10-songs-that-define-proposal-moments/"><u>[Updated] Love's Anthem Top 10 Songs That Define Proposal Moments</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-for-security-reasons-on-iphone-7-plus-find-the-best-solution-here-by-drfone-ios/"><u>Apple ID Locked for Security Reasons On iPhone 7 Plus? Find the Best Solution Here</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/changing-instagram-voices-a-step-by-step-guide/"><u>Changing Instagram Voices A Step-by-Step Guide</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebook-pledges-for-metaverse-are-you-interested/"><u>Facebook Pledges for Metaverse: Are You Interested?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-find-the-optimal-balance-equipment-for-drone-photography-for-2024/"><u>How To Find the Optimal Balance Equipment for Drone Photography for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-optimize-video-files-for-android-devices-a-comprehensive-format-conversion-tutorial/"><u>How to Optimize Video Files for Android Devices: A Comprehensive Format Conversion Tutorial</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-realme-narzo-60-5g-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Realme Narzo 60 5G to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-leading-titans-of-social-media-interaction-facebook-twitter-instagram-and-youtube/"><u>The Leading Titans of Social Media Interaction: Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/troubleshooting-the-pc-cannot-boot-windows-ebxn-506914830-87b-4f0fbfd4fd-nt-security-center/"><u>Troubleshooting the 'PC Cannot Boot Windows Ebxn-506914830, 87B-4f0fbfd4fd, nT Security Center]'</u></a></li>
+<li><a href="https://win-forum.techidaily.com/ultimate-guide-preventing-automatic-startup-of-applications-with-revo-uninstaller/"><u>Ultimate Guide: Preventing Automatic Startup of Applications with Revo Uninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/ultimate-troubleshooting-tips-mastering-the-windows-11-factory-reset-process/"><u>Ultimate Troubleshooting Tips: Mastering the Windows 11 Factory Reset Process</u></a></li>
+<li><a href="https://win-forum.techidaily.com/understanding-social-engagement-on-leading-networks-facebook-twitter-instagram-youtube/"><u>Understanding Social Engagement on Leading Networks: Facebook, Twitter, Instagram, YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/understanding-social-platforms-impact-exploring-facebook-twitter-instagram-and-youtube-in-todays-connected-world/"><u>Understanding Social Platforms' Impact: Exploring Facebook, Twitter, Instagram and YouTube in Today’s Connected World</u></a></li>
+<li><a href="https://win-forum.techidaily.com/understanding-todays-top-networking-sites-insights-into-facebook-twitter-instagram-and-youtube/"><u>Understanding Today's Top Networking Sites: Insights Into Facebook, Twitter, Instagram, and YouTube</u></a></li>
 </ul></div>
 

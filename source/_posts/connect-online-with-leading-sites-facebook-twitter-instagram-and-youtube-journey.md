@@ -1,7 +1,7 @@
 ---
 title: "Connect Online with Leading Sites: Facebook, Twitter, Instagram and YouTube Journey"
-date: 2024-08-18T11:09:37.246Z
-updated: 2024-08-19T11:09:37.246Z
+date: 2024-10-01T20:42:22.819Z
+updated: 2024-10-07T00:47:21.436Z
 tags:
   - win11
   - win10
@@ -42,6 +42,13 @@ To use this method do the following:
 ![delete file with command prompt](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/delete-with-command-prompt/Method1-step2.png)
 3. After that press**Enter**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Lets’ see this example to clarify the whole process:
 
  You want to delete a file called_Info.txt_ that is located on your desktop. Use the following command in the Command Prompt where you replace username with your own username:
@@ -59,8 +66,12 @@ You can also add the /f parameter to force delete a read-only file.
  You can also use Revo Uninstallers’[force uninstall feature](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1) if you have trouble removing stubborn programs.
 
 <!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## To delete folders in Windows 10 with CMD you have to use the rmdir command
 
  This command will remove all folders including the subfolders and files in them.
@@ -72,9 +83,6 @@ To use this command do the following:
 **`rmdir PATH`**  
 ![remove folder with command prompt](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/delete-with-command-prompt/Method2-step2.png)
 3. Press**Enter** to finish the process
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  For example, to delete a folder named “Info” on your desktop, use the following command where you will replace username with your own username:
 
@@ -85,8 +93,12 @@ To use this command do the following:
  If you want to delete all the files and subfolders in the folder you want to delete, add the /s parameter. This will ensure that the folder is removed including the subfolders and files in it.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Conclusion
 
  As you’ve noticed, commands to delete files and folders in Windows 10 can be pretty handy if you have trouble deleting them the regular way.
@@ -94,11 +106,12 @@ To use this command do the following:
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
+
 ## We can help you every time when…
 
 * you cannot find the program in the Apps & Features list
@@ -114,8 +127,6 @@ To use this command do the following:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -123,4 +134,26 @@ To use this command do the following:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-conquer-the-crunch-how-to-edit-and-reduce-massive-tiktok-files/"><u>[New] 2024 Approved Conquer the Crunch How to Edit and Reduce Massive TikTok Files</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-next-gen-broadcast-tools-outperforming-streamlabs-obs/"><u>[Updated] 2024 Approved Next-Gen Broadcast Tools Outperforming StreamLabs OBS</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-redefining-mobile-gaming-mastery-an-examination-of-kinemaster/"><u>[Updated] 2024 Approved Redefining Mobile Gaming Mastery An Examination of KineMaster</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-panoramic-lenses-vs-depth-filled-images/"><u>[Updated] Panoramic Lenses vs Depth-Filled Images</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-perfect-your-igtv-presentations-with-top-video-editors/"><u>[Updated] Perfect Your IGTV Presentations with Top Video Editors</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-leveraging-windows-media-player-your-cd-conversion-companion/"><u>2024 Approved Leveraging Windows Media Player Your CD Conversion Companion</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-revitalized-interview-selections-for-podcasters/"><u>2024 Approved Revitalized Interview Selections for Podcasters</u></a></li>
+<li><a href="https://win-forum.techidaily.com/movaviwebmwmv/"><u>使用Movavi將WebM自動無條件地轉換成WMV格式 - 在線免費服務</u></a></li>
+<li><a href="https://win-forum.techidaily.com/1726228267776-m4vmkv-movavi/"><u>無錢額 M4V為MKV自助線上轉檔 - 利用Movavi 免費版</u></a></li>
+<li><a href="https://win-forum.techidaily.com/as-duas-melhores-formas-de-criar-uma-colagem-com-fotos-no-iphone/"><u>As Duas Melhores Formas De Criar Uma Colagem Com Fotos No iPhone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/capture-clash-comparing-the-latest-gopro-and-virb-models/"><u>Capture Clash Comparing the Latest GoPro and VIRB Models</u></a></li>
+<li><a href="https://win-forum.techidaily.com/connect-and-share-on-popular-platforms-facebook-twitter-instagram-youtube/"><u>Connect and Share on Popular Platforms: Facebook | Twitter | Instagram | YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/conversion-sans-frais-convertissez-fichiers-aac-en-mp4-sur-demande-avec-movavi/"><u>Conversion Sans Frais: Convertissez Fichiers AAC en MP4 Sur Demande Avec Movavi</u></a></li>
+<li><a href="https://win-forum.techidaily.com/easily-check-your-active-powershell-version-in-a-windows-10-system/"><u>Easily Check Your Active PowerShell Version in a Windows 10 System</u></a></li>
+<li><a href="https://win-forum.techidaily.com/fast-track-to-faster-pc-starts-optimizing-windows-11-boot-time/"><u>Fast Track to Faster PC Starts: Optimizing Windows 11 Boot Time</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-go-joystick-on-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Tecno Spark 10 Pro? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-meizu-21-pro-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Meizu 21 Pro Phone FRP Lock</u></a></li>
+<li><a href="https://win-forum.techidaily.com/securing-your-documents-a-step-by-step-guide-to-password-protecting-text-files/"><u>Securing Your Documents: A Step-by-Step Guide to Password-Protecting Text Files</u></a></li>
+<li><a href="https://win-forum.techidaily.com/transformer-un-fichier-3gp-au-format-mp4-gratuitement-sur-internet-le-guide-complet-de-movie-edit/"><u>Transformer Un Fichier 3GP Au Format MP4 Gratuitement Sur Internet - Le Guide Complet De Movie Edit</u></a></li>
+</ul></div>
 

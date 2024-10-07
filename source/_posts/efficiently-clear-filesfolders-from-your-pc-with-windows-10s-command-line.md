@@ -1,7 +1,7 @@
 ---
 title: Efficiently Clear Files/Folders From Your PC with Windows 10'S Command Line
-date: 2024-08-23T11:01:40.195Z
-updated: 2024-08-24T11:01:40.195Z
+date: 2024-10-02T19:13:47.615Z
+updated: 2024-10-06T18:51:55.198Z
 tags:
   - win11
   - win10
@@ -44,18 +44,12 @@ Here are the methods you can use to speed up your Windows 11 boot time:
 ![startup tab](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/speed-up-windows-11-boot-time/disable-startup-programs-in-windows-11-step-2.jpg)
 3. Finally, toggle the switch next to the apps you don’t want to run at startup. Under the toggle switch, you’ll see the status impact of each, which indicates what disabling them does to your system.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## II. Remove unnecessary files and programs
 
  Over time, your computer may become cluttered with unnecessary files and programs that can slow down your computer’s startup time. By removing these files and programs, you can speed up your Windows 11 boot time and improve your overall computer performance.
 
  We’ve covered in this[article](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1) how you can remove unnecessary files and programs with Revo Uninstaller and many other methods.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## III. Enable Fast Startup
 
  Windows 11 comes with a variety of features that can help speed up your computer’s boot time. One such feature is Fast Startup, which allows your computer to start up faster by using a hybrid sleep mode that saves system information to a file on the hard drive.
@@ -67,16 +61,17 @@ Here is how you can turn Fast Starup On:
 3. Go to**System and Security** and then click on**Power Options** .  
 ![startup options](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/speed-up-windows-11-boot-time/enable-fast-startup-step-2.png)
 4. In the left pane, click on**Choose what the power buttons do** .
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Next, click the**Change settings that are currently unavailable** link.
 6. Under the**Shutdown settings** section, check the**Turn on fast startup (recommended)** option to turn on the feature.
 7. Uncheck the**Turn on fast startup option** to turn it off.  
 ![fast startup](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/speed-up-windows-11-boot-time/enable-fast-startup-step-5.jpg)
 8. Click**Save changes** to apply the changes.
+
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## IV. Defragment your hard drive
@@ -90,18 +85,14 @@ Here is how you can turn Fast Starup On:
 3. Select the hard drive you want to defragment.  
 ![defragment hard drive](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/speed-up-windows-11-boot-time/defragment-your-hard-drive-step-3.png)
 4. Click on the Optimize button.
+
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 5. Wait for the defragmentation process to complete.
 
 ## V. Use an SSD
@@ -111,8 +102,18 @@ Here is how you can turn Fast Starup On:
  In addition to upgrading your SSD, another way to speed up your PC’s boot time is to upgrade your RAM. With more RAM, your PC will have more volatile memory available to load temporary items, resulting in faster boot times and an overall improvement in your PC’s performance.
 
 <!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## VI. Adjust BIOS settings for faster Windows 11 boot time
 
  Adjusting the BIOS settings can help speed up the boot time on your Windows 11 computer. Here are the steps you need to follow in order to adjust your BIOS settings to improve your Windows 11 boot time:
@@ -126,6 +127,13 @@ Here is how you can turn Fast Starup On:
  In conclusion, these are some tips on how to speed up your Windows 11 boot time. By following these steps, you can optimize your computer’s performance and reduce the time it takes to start up.
 
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## We can help you every time when…
 
@@ -142,8 +150,6 @@ Here is how you can turn Fast Starup On:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -151,4 +157,18 @@ Here is how you can turn Fast Starup On:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-hero5-black-versus-yi-4k-latest-updates-on-high-res-cameras/"><u>2024 Approved Hero5 Black Versus Yi 4K Latest Updates on High-Res Cameras</u></a></li>
+<li><a href="https://win-forum.techidaily.com/connecting-in-the-modern-age-a-deep-dive-into-facebook-twitter-instagram-and-youtube-strategies/"><u>Connecting in the Modern Age: A Deep Dive Into Facebook, Twitter, Instagram, and YouTube Strategies</u></a></li>
+<li><a href="https://fox-that.techidaily.com/icloud-not-syncing-how-to-solve-icloud-sync-issues/"><u>ICloud Not Syncing? How to Solve iCloud Sync Issues</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-gameplay-memories-preserved-unveiling-6-minecraft-tips/"><u>In 2024, Gameplay Memories Preserved Unveiling 6 Minecraft Tips</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-world-of-social-media-a-look-at-facebook-twitter-instagram-and-youtube/"><u>Navigating the World of Social Media: A Look at Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/protect-your-digital-life-mastering-mac-hard-drive-encryptiondecryption-and-data-restoration-expert-video-walkthrough/"><u>Protect Your Digital Life: Mastering Mac Hard Drive Encryption/Decryption & Data Restoration - Expert Video Walkthrough</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-the-issue-preventing-spotify-from-freezing-on-locked-ios-devices/"><u>Solving the Issue: Preventing Spotify From Freezing on Locked iOS Devices</u></a></li>
+<li><a href="https://win-forum.techidaily.com/solving-the-mystery-of-invisible-program-removal-on-windows-systems/"><u>Solving the Mystery of Invisible Program Removal on Windows Systems</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/the-contrast-between-brazilian-and-european-keyboard-features/"><u>The Contrast Between Brazilian & European Keyboard Features</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-platforms-in-social-networking-exploring-facebook-twitter-instagram-and-youtube/"><u>Top Platforms in Social Networking - Exploring Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/ultimate-walkthrough-mastering-the-art-of-windows-11-system-refresh-using-advanced-tools/"><u>Ultimate Walkthrough: Mastering the Art of Windows 11 System Refresh Using Advanced Tools</u></a></li>
+</ul></div>
 

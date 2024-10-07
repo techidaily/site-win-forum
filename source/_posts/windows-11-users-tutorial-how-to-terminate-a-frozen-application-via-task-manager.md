@@ -1,7 +1,7 @@
 ---
 title: "Windows 11 User's Tutorial: How to Terminate a Frozen Application via Task Manager"
-date: 2024-08-23T11:00:20.475Z
-updated: 2024-08-24T11:00:20.475Z
+date: 2024-10-05T23:32:55.195Z
+updated: 2024-10-07T00:28:50.231Z
 tags:
   - win11
   - win10
@@ -35,9 +35,12 @@ thumbnail: https://thmb.techidaily.com/e1ce3f3e6442fac637b9a262af6a28dc4e5da35e5
  To check if any of your hardware devices has issues you need to check the Device Manager. In order to open the Device Manager you need to open the Windows Start Menu and in the search bar type “Device Manager”. If there are devices with issues they will appear under the respective category, marked with an exclamation mark warning sign.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How to update Windows 10 drivers?
 
 1. ### Via Windows Update  
@@ -45,20 +48,22 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
    1. Press Win Button + I and click**Updates & Security** .  
    ![update and security](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/update-windows-10-device-drivers/method-1-step-1-update-and-security.png)  
    2. Click on**Windows Updates** . Your PC should automatically check for updates.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
    ![check for updates](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/update-windows-10-device-drivers/method-1-step-2-check-for-updates.png)  
  The more significant hardware companies are partners with Microsoft, so they release driver updates regularly via the Windows Update.
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 2. ### Use the Device Manager  
 
    1. Open the Windows Start Menu and in the search bar type “Device Manager”  
    ![device manager](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/update-windows-10-device-drivers/method-2-step-1-device-manager.png)  
    2. You will see the list of all your hardware components.  
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
    3. Right-click on the component you want to check for driver updates and click on**Update driver** .  
    ![update driver](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/update-windows-10-device-drivers/method-2-step-3-update-driver.png)  
    4. You will be presented with two choices. You can select the first one if you want the system to automatically search for a driver. The second is for when you already downloaded a driver and so you will have to point to its location.  
@@ -89,19 +94,36 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
    4. Click on**Troubleshoot program** .  
    ![program compatibility troubleshoot](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/update-windows-10-device-drivers/method-4-step-2-compatability-troubleshooter.png)  
    5. Select which is the problem with the program. If the driver worked as intended, select the first option and click**Next** .  
+
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
    ![program compatibility troubleshoot](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/update-windows-10-device-drivers/method-4-step-3-compatability-troubleshooter-2.png)  
    6. Choose the Windows version where the driver worked fine, and click**Next** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
    ![program compatibility troubleshoot](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/update-windows-10-device-drivers/method-4-step-4-compatability-troubleshooter-3.png)  
    7. Click on Test the program and hit**Next** again.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
    ![test the program](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/update-windows-10-device-drivers/method-4-step-5-compatability-troubleshooter-4.png)  
    8. Follow the instructions to install the drivers as you usually do.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 
 5. ### Via BIOS  
 
@@ -114,18 +136,26 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
    6. Click**Advanced** options and select**UEFI Firmware Settings** .  
    ![UEFI Firmware Settings](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/update-windows-10-device-drivers/method-5-step-2-uefi-firmware-settings.png)  
    7. Finally, select**Restart** and use the menus to update the BIOS / UEFI.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Understanding what BIOS is can feel like an overwhelming task.. We’ve created a separate article where we cover the topic[what is BIOS](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1)
 
  These are the different ways to update your drivers in Windows 10\. Of course, you can always use any method that seems most accessible, but all of them are guaranteed to work.
 
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ## We can help you every time when…
 
 * you cannot find the program in the Apps & Features list
@@ -141,8 +171,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -150,4 +178,21 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-instagram-insights-the-best-apps-to-supercharge-your-profile-for-2024/"><u>[New] Instagram Insights The Best Apps to Supercharge Your Profile for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-crafting-an-apple-powered-athletic-broadcast-platform/"><u>[Updated] Crafting an Apple-Powered Athletic Broadcast Platform</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-earn-more-maximizing-income-through-youtube-mobile-advertising/"><u>[Updated] Earn More Maximizing Income Through YouTube Mobile Advertising</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-professional-packing-for-personal-filmmaking/"><u>[Updated] Professional Packing for Personal Filmmaking</u></a></li>
+<li><a href="https://win-forum.techidaily.com/comprehensive-tutorial-eliminating-memory-dump-records-from-win11/"><u>Comprehensive Tutorial: Eliminating Memory Dump Records From Win11</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/cookiebot-enabled-enhancing-your-websites-visitor-tracking-experience/"><u>Cookiebot-Enabled: Enhancing Your Website's Visitor Tracking Experience</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-repairing-windows-11-bluetooth-connectivity-errors-for-smooth-device-pairing/"><u>Diagnosing & Repairing Windows 11 Bluetooth Connectivity Errors for Smooth Device Pairing</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/embrace-romance-french-films-to-learn-language/"><u>Embrace Romance: French Films to Learn Language</u></a></li>
+<li><a href="https://win-forum.techidaily.com/maintain-optimal-performance-updating-hardware-drivers-in-windows-10-using-revouninstaller/"><u>Maintain Optimal Performance: Updating Hardware Drivers in Windows 10 Using RevoUninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/master-the-art-of-flushing-dns-tips-and-tricks-for-windows-1011-users/"><u>Master the Art of Flushing DNS: Tips and Tricks for Windows 10/11 Users</u></a></li>
+<li><a href="https://win-forum.techidaily.com/master-the-trick-to-always-launch-windows-11-programs-as-an-administrator/"><u>Master the Trick to Always Launch Windows 11 Programs as an Administrator</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Honor 70 Lite 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/power-users-guide-navigating-cmd-file-deletion-commands-for-windows-11-systems/"><u>Power User's Guide: Navigating CMD File Deletion Commands for Windows 11 Systems</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-setting-up-and-enabling-revo-uninstaller-on-your-smartphone/"><u>Step-by-Step Guide: Setting Up & Enabling Revo Uninstaller on Your Smartphone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Navigating the Web's Giants: A Comparative Look at Facebook, Twitter, Instagram and YouTube"
-date: 2024-08-18T11:12:25.162Z
-updated: 2024-08-19T11:12:25.162Z
+date: 2024-10-05T23:07:08.169Z
+updated: 2024-10-07T00:31:03.888Z
 tags:
   - win11
   - win10
@@ -37,14 +37,8 @@ thumbnail: https://thmb.techidaily.com/a080ef814e8219bc0372e6a68a593bc00b4cb1212
 * Software publisher error – “Contact the software publisher” error message is common amongst Windows users which prevents them from using specific software products.
 * Antivirus software – You can also stumble upon this error with Antivirus products.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Methods to fix “This app can’t run on your PC” error
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ### Method 1: Make a copy of the .exe files you are trying to run
 
  If you are getting the “this app can’t run on your PC” error you may attempt to fix it by creating a copy of the file you try to run.
@@ -59,9 +53,6 @@ thumbnail: https://thmb.techidaily.com/a080ef814e8219bc0372e6a68a593bc00b4cb1212
 2. Click on Change SmartScreen from the shown results  
 ![change SmartScreen settings](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-this-app-cant-run/Method-2.png)
 3. Navigate to Security and locate**Windows SmartScreen**
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Click Change settings and select “**Do not do anything** “
 5. Click OK to save the changes
 
@@ -69,9 +60,6 @@ thumbnail: https://thmb.techidaily.com/a080ef814e8219bc0372e6a68a593bc00b4cb1212
 
  A lot of users have reported that this feature is preventing their apps from running.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Method 3: Update Windows Store
 
  In some cases, you can’t open Microsoft Store apps on your PC. This can be caused by a bug that is corrupting the current version of the store. To fix that simply check for updates and install the latest Windows Store version:
@@ -87,6 +75,14 @@ thumbnail: https://thmb.techidaily.com/a080ef814e8219bc0372e6a68a593bc00b4cb1212
 2. Navigate to the “**Other users** ” section and click Add someone else to this PC  
 ![add someone else to this pc](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-this-app-cant-run/Method-4-step2.png)
 3. Select “**I don’t have this person’s sign-in information** “
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Choose “**Add a user without a Microsoft account** “
 5. Enter the desired username and password for the account
 6. Now the new account should be visible in the Other users’ section
@@ -94,10 +90,6 @@ thumbnail: https://thmb.techidaily.com/a080ef814e8219bc0372e6a68a593bc00b4cb1212
 8. Choose Administrator from the “**Account type** ” menu and click OK  
 ![change account type](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-this-app-cant-run/Method-4-step8.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
  There are reports that sometimes “This app can’t run on your PC” error is seen even when the users are trying to perform simple tasks such as opening their Task Manager.
 
  In most cases the error was fixed by creating a new administrator account.
@@ -111,11 +103,15 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 5. Uncheck the box beside “**Use a proxy server for your Lan** ”  
 ![Lan settings](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-this-app-cant-run/Method-5-step6.png)
 6. Click OK to confirm the changes and try to log-in again in to your Microsoft Account
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 
  If you are using this feature, there is a big chance that the connection to the Microsoft Store servers is being blocked. If your apps don’t run on your PC, disable these settings.
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 6: Run anSFC scan
 
@@ -135,27 +131,24 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  This fix will prevent the “this app can’t run on your PC” error from appearing again.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Method 8: Check your disk for errors
 
  Another reason behind the “this app can’t run on your PC” error can be disk errors. To fix them open**Command Prompt** as mentioned in the previous step and type the command`chkdsk C: /f`
 
 ![chkdsk command](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-this-app-cant-run/Method-8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 9: Clear your browser cache
 
  There are cases where during download the files are getting corrupted. This will result in files and folders not being fully downloaded. This usually happens if you don’t clean your browser cache regularly.
 
  You can check our article on how to[clear your computers’ cache](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1) with Revo Uninstaller Pro, including your browser.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ### Method 10: Clean your temporary files and folders
 
  The temporary files in rare cases can affect your computer. If your system is cluttered with them it can result in slow processing speed and may also trigger different errors. Clean your temporary files and reinstall the app that currently shows the “this app can’t run on your PC” error.
@@ -167,12 +160,6 @@ So how to clean your temporary files?
 3. Select “**Clean up system files** ”  
 ![clean up system files](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-this-app-cant-run/Method-10.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 11: Run a full Windows Defender scan
 
  As most of us know malware can be very bad for our PC. It can be the reason behind many error messages, it can also prevent many apps from running or from being installed.
@@ -197,8 +184,19 @@ To update your Windows:
 4. Install the latest Windows updates
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 13: Check if your PC is 32-bit or 64-bit Compatible
 
  WindowsOS has two versions: 32-bit and 64-bit. There is a chance that you are running a 32-bit version of Windows, but the app is 64-bit.
@@ -209,20 +207,36 @@ To confirm if that is the reason, check the PC specifications:
 2. Select**System**  
 ![system](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-this-app-cant-run/Method-13-step2.png)
 3. Click on “**About** ”  
+
 <!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![about](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-this-app-cant-run/Method-13-step3.jpg)
 4. On the right-pane, under**Device specifications** , see what is your**System type**
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Final Words
 
  Running into the “this app can’t run on your PC” error is quite inconvenient. The methods mentioned above most of the time fix this error, but if it keeps persisting maybe your problems lie somewhere else.
 
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## We can help you every time when…
 
@@ -239,8 +253,6 @@ To confirm if that is the reason, check the PC specifications:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -248,4 +260,26 @@ To confirm if that is the reason, check the PC specifications:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-transitioning-instagram-video-to-mp3-format/"><u>[New] 2024 Approved Transitioning Instagram Video to Mp3 Format</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-channel-charm-with-cost-free-visual-aids-for-2024/"><u>[New] Channel Charm with Cost-Free Visual Aids for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-curving-images-without-complication-a-guide/"><u>[Updated] In 2024, Curving Images without Complication A Guide</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-voyage-for-valuables-5-prime-map-expeditions/"><u>2024 Approved Voyage for Valuables 5 Prime Map Expeditions</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/amazon-echo-show-10-third-generation-an-unmatched-portable-smart-display-for-your-home/"><u>Amazon Echo Show 10 (Third Generation) - An Unmatched Portable Smart Display for Your Home</u></a></li>
+<li><a href="https://win-forum.techidaily.com/connecting-the-dots-in-digital-networking-through-facebook-twitter-instagram-and-youtube/"><u>Connecting the Dots in Digital Networking Through Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/connecting-the-world-online-through-major-platforms-facebook-twitter-instagram-and-youtube/"><u>Connecting the World Online Through Major Platforms - Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/determining-your-current-windows-11-powershell-version-a-comprehensive-guide/"><u>Determining Your Current Windows 11 PowerShell Version: A Comprehensive Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/from-precursor-pcs-to-progressive-windows-11-platforms/"><u>From Precursor PCs to Progressive Windows 11 Platforms</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-nubia-red-magic-8s-proplus-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Nubia Red Magic 8S Pro+ to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Vivo Y78+ | Dr.fone</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/1721268127511-master-mac-security-learn-to-encrypt-and-decrypt-your-hard-drive-effectively/"><u>Master Mac Security: Learn to Encrypt and Decrypt Your Hard Drive Effectively</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-social-media-engagement-across-major-platforms-facebook-twitter-instagram-and-youtube/"><u>Mastering Social Media Engagement Across Major Platforms: Facebook, Twitter, Instagram and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/remove-unwanted-online-trackers-a-complete-walkthrough-for-windows-11android-users/"><u>Remove Unwanted Online Trackers: A Complete Walkthrough for Windows 11/Android Users</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-removing-hidden-applications-from-your-pc-without-using-control-panel/"><u>Step-by-Step Guide: Removing Hidden Applications From Your PC Without Using Control Panel</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-power-of-online-influence-understanding-facebook-twitter-instagram-and-youtube/"><u>The Power of Online Influence: Understanding Facebook, Twitter, Instagram and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-powerhouse-quartet-of-online-interaction-facebook-twitter-insta-grams-and-youtubes-explained/"><u>The Powerhouse Quartet of Online Interaction: Facebook, Twitter, Insta-Grams & Youtubes Explained</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-ultimate-walkthrough-on-how-to-rollback-a-windows-11-patch/"><u>The Ultimate Walkthrough on How to Rollback a Windows 11 Patch</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/unlock-the-solution-getting-your-realtek-hd-audio-manager-up-and-running-again/"><u>Unlock the Solution: Getting Your Realtek HD Audio Manager Up and Running Again</u></a></li>
+</ul></div>
 

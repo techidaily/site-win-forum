@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Guide to Setting Up File Encryption and Password Protection for Text Files
-date: 2024-08-23T10:59:43.309Z
-updated: 2024-08-24T10:59:43.309Z
+date: 2024-10-01T23:33:28.563Z
+updated: 2024-10-07T00:00:30.835Z
 tags:
   - win11
   - win10
@@ -28,6 +28,13 @@ thumbnail: https://thmb.techidaily.com/9639571683ee2faea594be2c39567620326555f8b
 
  When it comes to force a program to quit, there are several approaches you can take.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Force quit a program by using keyboard shortcut
 
  If a program on your Windows system freezes or it does not respond, you can force it to quit by pressing the key combination**Alt + F4** . By pressing both keys you can force a program to quit when the program’s window is selected and active. If you press**Alt + F4** and no program windows is selected, the computers Shut Down menu will appear.
@@ -35,8 +42,12 @@ thumbnail: https://thmb.techidaily.com/9639571683ee2faea594be2c39567620326555f8b
 If this method does not work you can try the one below:
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Force a stuck program to quit by using Windows Task Manager
 
 This method is the most commonly used to force quit a program.
@@ -46,20 +57,8 @@ This method is the most commonly used to force quit a program.
 3. Selec the program that is stuck. Right – click on it and select End task.  
 ![end task](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site%2Fblog%2Fforce-quit%2Fforce-a-stuck-program-to-quit-by-using-windows-task-manager.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 This should quit the program that is causing you issues.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ## Use Command Prompt to force quit a program
 
  There are cases when Task Manager is not enough as a method to deal with a stuck program.
@@ -75,18 +74,21 @@ This should quit the program that is causing you issues.
 ![forece quit using cmd](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site%2Fblog%2Fforce-quit%2Fuse-command-prompt-to-force-quit-a-program.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ## We can help you every time when…
 
 * you cannot find the program in the Apps & Features list
@@ -102,8 +104,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -111,4 +111,23 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-the-freelancers-companion-easy-and-affordable-audio-effect-additions/"><u>[New] 2024 Approved The Freelancer's Companion Easy and Affordable Audio Effect Additions</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/xpert-tips-for-embedding-time-stamp-data-on-youtube-videos-desktopmobile-for-2024/"><u>[New] Expert Tips for Embedding Time Stamp Data on YouTube Videos (Desktop/Mobile) for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-strategies-for-procuring-high-quality-clip-art-with-no-cost/"><u>[Updated] Strategies for Procuring High-Quality Clip Art with No Cost</u></a></li>
+<li><a href="https://win-forum.techidaily.com/accelerate-your-computers-launch-sequence-with-these-windows-11-tricks/"><u>Accelerate Your Computer’s Launch Sequence with These Windows 11 Tricks</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/convert-your-favorite-dailymotion-playlists-into-downloads-mp4-wmv-avi-and-mov-formats-for-pcsmacs/"><u>Convert Your Favorite DailyMotion Playlists Into Downloads – MP4, WMV, AVI & MOV Formats for PCs/Macs</u></a></li>
+<li><a href="https://win-able.techidaily.com/diagnosing-and-repairing-issues-with-fall-guys-not-starting-properly-crashing-instantly/"><u>Diagnosing & Repairing Issues With Fall Guys Not Starting Properly / Crashing Instantly</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-pivotal-scenes-with-abbyy-and-arsenal-wsl-transformative-insights-exposed/"><u>Discover Pivotal Scenes with ABBYY & Arsenal WSL - Transformative Insights Exposed</u></a></li>
+<li><a href="https://win-forum.techidaily.com/endless-crash-woes-discover-these-7-key-strategies-to-keep-your-windows-explorer-running-smoothly/"><u>Endless Crash Woes? Discover These 7 Key Strategies to Keep Your Windows Explorer Running Smoothly</u></a></li>
+<li><a href="https://win-forum.techidaily.com/explore-popular-networking-sites-facebook-twitter-instagram-youtube/"><u>Explore Popular Networking Sites: Facebook | Twitter | Instagram | YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/fixing-the-not-according-to-the-script-hiccup-in-windows-11-operations/"><u>Fixing the 'Not According to the Script' Hiccup in Windows 11 Operations</u></a></li>
+<li><a href="https://win-forum.techidaily.com/guide-successful-windows-11-setup-on-non-compatible-processors-using-revouninstaller/"><u>Guide: Successful Windows 11 Setup on Non-Compatible Processors Using Revouninstaller</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-wbk-file-online-with-digisigner-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Sign .wbk file Online with DigiSigner</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-uninstall-windows-10-and-11-updates-revouninstaller/"><u>How to Uninstall Windows 10 and 11 Updates - RevoUninstaller</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-metaverse-vs-multiverse-understanding-the-distinctions/"><u>In 2024, Metaverse Vs. Multiverse Understanding the Distinctions</u></a></li>
+<li><a href="https://win-forum.techidaily.com/meet-the-titans-navigating-the-worlds-of-facepage-twittersphere-instarealms-and-yt-universe/"><u>Meet the Titans: Navigating the Worlds of FacePage, TwitterSphere, InstaRealms & YT Universe!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-downloading-and-setting-up-nvidias-3d-vision-on-your-pc/"><u>Step-by-Step: Downloading and Setting Up NVIDIA's 3D Vision on Your PC</u></a></li>
+</ul></div>
 

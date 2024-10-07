@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Clearing Windows 11 Memory Dump Files"
-date: 2024-08-23T10:59:16.060Z
-updated: 2024-08-24T10:59:16.060Z
+date: 2024-10-03T16:17:29.928Z
+updated: 2024-10-06T21:45:32.697Z
 tags:
   - win11
   - win10
@@ -26,6 +26,13 @@ thumbnail: https://thmb.techidaily.com/94b7a174ed243f819c2a07dd5584017cb8f870683
 
  Clearing your cache in Windows 10 can help you resolve some problems with your operating system.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## First, let’s discover what cache is
 
  Windows cache plays the role of a high-speed storage mechanism. The cache storage can be either a reserved section of the main memory or a specific independent storage device. To be more precise Windows cache is a hardware or software element that is used to store data.
@@ -36,9 +43,6 @@ thumbnail: https://thmb.techidaily.com/94b7a174ed243f819c2a07dd5584017cb8f870683
 
  Another example would be the icon cache that Windows creates. Each executable has its set of icons built-in. Windows creates its own cache of all icons and pre-loads it on startup to avoid reading each executable file’s icon separately every time.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ## Why do you need to clear the Windows 10 system cache?
 
  Now that you have an idea what cache is, you need to know why you need to clear it.
@@ -65,6 +69,13 @@ thumbnail: https://thmb.techidaily.com/94b7a174ed243f819c2a07dd5584017cb8f870683
 * [DNS Cache](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1)
 * [How to Clear the ARP Cache in Windows 10](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Clear the browser cache with Revo Uninstaller Pro
 
  Revo Uninstaller Pro has a dedicated tool – named[Browsers Cleaner](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1) – for deleting various browser-related data, and it supports the following browsers:**Internet Explorer, Edge, Mozilla Firefox, Google Chrome, and Opera** .
@@ -72,11 +83,15 @@ thumbnail: https://thmb.techidaily.com/94b7a174ed243f819c2a07dd5584017cb8f870683
 1. Open Revo Uninstaller Pro, and click Tools.  
 ![screen of windows tools](<https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/Blog/Remove> temporary files Revo Uninstaller Pro 4 -1.jpg)
 2. Click History Cleaner.  
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![screen of history cleaner](<https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/Blog/Remove> temporary files Revo Uninstaller Pro 4 -2.jpg)
 3. Check “Delete Temporary Internet files” for all browsers whose cache you wish to delete, and click**Clear** .
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Clear browser cache via the built-in browser options
 
@@ -87,6 +102,13 @@ thumbnail: https://thmb.techidaily.com/94b7a174ed243f819c2a07dd5584017cb8f870683
 1. Open Chrome, click the three-dot icon, then click More tools > Clear browsing data.
 2. Set the Time range to All time, check Cached images and files, and click the Clear data button to clear the entire browser cache. Of course, you can choose other items, in addition to the cache, if you wish.  
 ![screen of clear browsing data](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/Blog/google-clear-data.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Mozilla Firefox
 
@@ -109,41 +131,46 @@ thumbnail: https://thmb.techidaily.com/94b7a174ed243f819c2a07dd5584017cb8f870683
 2. Click Clear browsing data in the top-right corner.
 3. Select the time range from the drop-down menu, check Cached image and files (and any other items you wish), and click Clear data.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Clear Windows temporary files with the Disk Cleanup Utility
 
 1. Start Revo Uninstaller Pro, click Tools, then click Windows tools and finally double-click Disk Cleanup. ![screen of tools](<https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/Blog/Remove> temporary files Revo Uninstaller Pro 4 -1.jpg)  
 ![screen of disk cleanup](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/Blog/windows-tools.png)  
- Alternatively, you can access the Disk Cleanup feature by opening the Windows Start Menu (for Windows 10 you can press Win+S on your keyboard) and search for Disk Cleanup.
+
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Alternatively, you can access the Disk Cleanup feature by opening the Windows Start Menu (for Windows 10 you can press Win+S on your keyboard) and search for Disk Cleanup.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2. In the pop-up window select the drive you want to clean up from the drop-down menu and click OK.  
 ![screen of Disk Cleanup](<https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/Blog/Disk> cleanup - 2.jpg)
 3. Be patient while the tool finishes scanning the drive. You need to check the items you wish to delete and click OK.  
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
  If you wish to be able to delete system files/cache (in addition to user files/cache), click**Clean up system files** before selecting any items. This will re-scan the drive, this time including system data.  
 ![screen of disk cleanup](<https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/Blog/Disk> cleanup - 3.jpg)  
 ![screen of disk cleanup](<https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/Blog/Disk> cleanup - 4.jpg)
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ### Remove the Windows Store Cache
 
 1. Press the Win+R on your keyboard to open the Run window.
 2. Type “wsreset.exe” (without quotation marks), and press**Enter** (or click**OK** ).  
 ![screen of Run](<https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/Blog/Clean> Windows store cache -1.jpg)
 3. Wait for the process to finish. The Windows Store will appear once the procedure is complete.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Clear cache in File Explorer
@@ -153,10 +180,6 @@ thumbnail: https://thmb.techidaily.com/94b7a174ed243f819c2a07dd5584017cb8f870683
 * **Windows thumbnail cache** : To clear the Windows thumbnail cache, open Revo Uninstaller Pro, click**Tools** , click History Cleaner, and then click Windows Cleaner. Check**Delete Thumbnail Cache** , and click**Clear** .  
 ![screen of history cleaner](<https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/Blog/Delete> thumbnail cache - 1.jpg)
 * **Windows icon cache** : The icon cache cannot be deleted directly, as it is used actively by Windows Explorer and – thus – locked. We have created a CMD script file that will simplify the process.  
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
  Warning: make sure to save all your work and documents before you execute the script.  
 [Download the file](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1) to a convenient location, right-click it, and select**Run as administrator** . This will forcibly close Windows Explorer, delete the cache files, and then relaunch Windows Explorer. Your other programs should not be affected/closed, however, we recommended that all documents should be saved beforehand as a precaution.  
  Reboot your computer to complete the rebuilding of the icon cache.
@@ -181,13 +204,14 @@ This operation will delete all restore points for the drive.
 
 1. Open the Start Menu, and in the search bar type “cmd” (without quotation marks), and launch the found program. ![screen command prompt](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/Blog/Dns-clear-1.jpg)
 2. When the Command prompt window appears, type “ipconfig /flushdns” (without quotation marks), and press Enter. ![screen command prompt](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/Blog/Dns-clear-2.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How to Clear the ARP Cache in Windows 10
 
 1. Type`**cmd**` in the Windows start bar, then right-click on the command prompt and select**Run as administrator** .
@@ -197,19 +221,10 @@ This operation will delete all restore points for the drive.
 4. To clear the ARP cache, type **`arp -d` .** The -a parameter causes the program to show the ARP cache, whereas the -d flag causes it to delete it.  
 ![screen of arp -d](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/Blog/arp-d.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
  There are various ways to clear your Windows cache and Revo Uninstaller is one of the tools that helps you with most of your Windows cache issues. Clearing your cache can be helpful in many situations, but if you are experiencing low PC performance and clearing your Windows cache does not solve them, then maybe you need to check your system performance and investigate what is the cause.
 
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## We can help you every time when…
 
 * you cannot find the program in the Apps & Features list
@@ -225,8 +240,6 @@ This operation will delete all restore points for the drive.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -234,4 +247,18 @@ This operation will delete all restore points for the drive.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-measuring-movie-gb-usage-over-a-day/"><u>[New] Measuring Movie GB Usage Over a Day</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/our-guide-to-iconic-fonts-boosting-video-engagement/"><u>[New] Your Guide to Iconic Fonts Boosting Video Engagement</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-high-quality-video-capture-for-tech-enthusiasts-for-2024/"><u>[Updated] High-Quality Video Capture for Tech Enthusiasts for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ducers-path-to-procuring-cost-free-tunes/"><u>A Producer's Path to Procuring Cost-Free Tunes</u></a></li>
+<li><a href="https://win-forum.techidaily.com/easy-how-to-refresh-your-internet-connections-dns-on-windows-10-or-11/"><u>Easy How-To: Refresh Your Internet Connection's DNS on Windows 10 or 11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/expert-tips-for-bypassing-permission-errors-and-completely-deleting-folders-in-windows-1011/"><u>Expert Tips for Bypassing Permission Errors and Completely Deleting Folders in Windows 10/11</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-giggle-gallery-exploring-the-best-15-hilarious-video-picks/"><u>In 2024, Giggle Gallery Exploring the Best 15 Hilarious Video Picks</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-vivo-v29-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Vivo V29 | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-samsung-galaxy-s21-fe-5g-2023-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Samsung Galaxy S21 FE 5G (2023) FRP Bypass</u></a></li>
+<li><a href="https://win-forum.techidaily.com/in-depth-instructions-eliminate-windows-11-users-easily-via-revouninstaller/"><u>In-Depth Instructions: Eliminate Windows 11 Users Easily via RevoUninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-worlds-top-four-social-media-facebook-to-youtube/"><u>Navigating the World's Top Four Social Media: Facebook to Youtube</u></a></li>
+</ul></div>
 

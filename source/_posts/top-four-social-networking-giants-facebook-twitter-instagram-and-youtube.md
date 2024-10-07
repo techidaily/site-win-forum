@@ -1,7 +1,7 @@
 ---
 title: "Top Four Social Networking Giants: Facebook, Twitter, Instagram & YouTube"
-date: 2024-08-18T11:09:22.308Z
-updated: 2024-08-19T11:09:22.308Z
+date: 2024-10-03T17:02:07.822Z
+updated: 2024-10-06T19:45:00.589Z
 tags:
   - win11
   - win10
@@ -36,8 +36,12 @@ thumbnail: https://thmb.techidaily.com/af956098d5b96a801357a76a13d56b662de68774c
 4. Alternatively, you can also press the**‘Windows’** key +**‘L’** on your keyboard as a shortcut to lock your PC instantly.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## II. Another way to lock your Windows Computer and protect your data is through the Task Manager. Here are the steps you have to take in order to do that
 
 1. Right-click on the taskbar at the bottom of your screen. This will open a context menu.
@@ -46,25 +50,34 @@ thumbnail: https://thmb.techidaily.com/af956098d5b96a801357a76a13d56b662de68774c
 4. Select**“App History”**
 5. From the dropdown menu, select**“Run new task”** . ![Run new task](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/lock-pc/method-2-task-manager-1.png)
 6. In the**“Create new task”** window, type**“tsdiscon”** (short for “Terminal Services Disconnect”) into the text field. ![Create new task](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/lock-pc/method-2-task-manager-2.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
-7. Check the box next to**“Create this task with administrative privileges”** .
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-8. Click**“OK”** .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+7. Check the box next to**“Create this task with administrative privileges”** .
+8. Click**“OK”** .
+
 ## III. How to Lock a Windows 11 computer via the Ctrl + Alt + Delete Menu
 
  Pressing**Ctrl + Alt + Delete** triggers a distinct Windows menu to appear on your screen, offering a range of functionalities. Among these options is the Task Manager, granting you the capability to perform several actions, including switching user accounts, changing passwords, and, most notably for our discussion, locking your PC. Simply selecting**“Lock”** from this menu instantly secures your Windows 11 device.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## IV. Lock your PC via the Command Prompt
 
  Locking your Windows 11 system is also possible through the Command Prompt, which is a text-based user interface accepting keyboard input.
@@ -90,10 +103,12 @@ thumbnail: https://thmb.techidaily.com/af956098d5b96a801357a76a13d56b662de68774c
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## We can help you every time when…
 
 * you cannot find the program in the Apps & Features list
@@ -109,8 +124,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -118,4 +131,26 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-dissecting-facebook-short-videos-a-comprehensive-overview-for-2024/"><u>[New] Dissecting Facebook Short Videos A Comprehensive Overview for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-profile-perfection-101-expert-strategies-for-facebook-biography-enhancement-for-2024/"><u>[New] Profile Perfection 101 Expert Strategies for Facebook Biography Enhancement for 2024</u></a></li>
+<li><a href="https://fox-where.techidaily.com/download-gameshows-from-gameone-convert-episodes-into-mp4wmvavi-formats-with-ease/"><u>Download Gameshows From GameOne: Convert Episodes Into MP4/WMV/AVI Formats with Ease</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/-gamers-showcase-premium-setups-unveiled-for-2024/"><u>Elite Gamers' Showcase – Premium Setups Unveiled for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-the-issue-how-to-open-epic-games-launcher-instantly/"><u>Fixing the Issue: How to Open Epic Games Launcher Instantly</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-complete-blueprint-for-tracking-yt-viewsrevenue/"><u>In 2024, Complete Blueprint for Tracking YT Views/Revenue</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-apcs-back-ups-pro-1500va-high-energy-reserve-and-convenient-battery-management-with-multiple-port-options/"><u>In-Depth Analysis: APC's Back-UPS Pro 1500VA – High Energy Reserve & Convenient Battery Management with Multiple Port Options</u></a></li>
+<li><a href="https://techidaily.com/is-your-motorola-edge-40-pro-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Motorola Edge 40 Pro working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/masterful-video-cropping-elevate-your-content-game-on-instagram/"><u>Masterful Video Cropping Elevate Your Content Game on Instagram</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-alternative-path-operating-system-setup-for-incompatible-processors-with-windows-11/"><u>The Alternative Path: Operating System Setup for Incompatible Processors with Windows 11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-big-four-of-online-networking-connect-on-facebook-twitter-insta-and-you/"><u>The Big Four of Online Networking: Connect on Facebook, Twitter, Insta & You</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-ultimate-guide-to-purging-browser-cache-in-windows-11-with-the-help-of-revo-uninstaller/"><u>The Ultimate Guide to Purging Browser Cache in Windows 11 with the Help of Revo Uninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/tips-and-tricks-to-overcome-full-disk-utilization-issues-in-windows-10-systems/"><u>Tips and Tricks to Overcome Full Disk Utilization Issues in Windows 10 Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-insights-expert-reviews-and-analysis/"><u>Tom's Tech Insights: Expert Reviews and Analysis</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-5-methods-for-securing-your-pc-focus-on-windows/"><u>Top 5 Methods for Securing Your PC: Focus on Windows</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-platforms-in-social-networking-explore-facebook-twitter-instagram-and-youtube/"><u>Top Platforms in Social Networking - Explore Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/ultimate-guide-updating-your-windows-10-driver-software/"><u>Ultimate Guide: Updating Your Windows 10 Driver Software</u></a></li>
+<li><a href="https://win-forum.techidaily.com/ultimate-instructions-for-installing-and-using-the-revoapp-manager-successfully/"><u>Ultimate Instructions for Installing and Using the RevoApp Manager Successfully</u></a></li>
+<li><a href="https://win-forum.techidaily.com/ultimate-technique-for-deleting-diagnostic-information-logs-in-windows-11/"><u>Ultimate Technique for Deleting Diagnostic Information Logs in Windows 11</u></a></li>
+</ul></div>
 

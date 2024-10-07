@@ -1,7 +1,7 @@
 ---
 title: "Quick Guide: Forcing Closure of Unresponsive Apps in Windows 11 Using the Command Line"
-date: 2024-08-18T11:11:40.054Z
-updated: 2024-08-19T11:11:40.054Z
+date: 2024-09-29T16:33:52.441Z
+updated: 2024-10-06T23:37:35.556Z
 tags:
   - win11
   - win10
@@ -28,6 +28,13 @@ thumbnail: https://thmb.techidaily.com/db6e8bb5b9330de241494205e28fd162607bcee64
 
  When it comes to force a program to quit, there are several approaches you can take.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Force quit a program by using keyboard shortcut
 
  If a program on your Windows system freezes or it does not respond, you can force it to quit by pressing the key combination**Alt + F4** . By pressing both keys you can force a program to quit when the program’s window is selected and active. If you press**Alt + F4** and no program windows is selected, the computers Shut Down menu will appear.
@@ -35,9 +42,12 @@ thumbnail: https://thmb.techidaily.com/db6e8bb5b9330de241494205e28fd162607bcee64
 If this method does not work you can try the one below:
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Force a stuck program to quit by using Windows Task Manager
 
 This method is the most commonly used to force quit a program.
@@ -48,13 +58,21 @@ This method is the most commonly used to force quit a program.
 ![end task](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site%2Fblog%2Fforce-quit%2Fforce-a-stuck-program-to-quit-by-using-windows-task-manager.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 This should quit the program that is causing you issues.
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Use Command Prompt to force quit a program
 
  There are cases when Task Manager is not enough as a method to deal with a stuck program.
@@ -69,22 +87,8 @@ This should quit the program that is causing you issues.
 
 ![forece quit using cmd](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site%2Fblog%2Fforce-quit%2Fuse-command-prompt-to-force-quit-a-program.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ## We can help you every time when…
 
 * you cannot find the program in the Apps & Features list
@@ -100,8 +104,6 @@ This should quit the program that is causing you issues.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -109,4 +111,26 @@ This should quit the program that is causing you issues.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-high-flying-rivals-dji-drone-vs-gopro/"><u>[New] In 2024, High-Flying Rivals DJI Drone vs GoPro</u></a></li>
+<li><a href="https://win-forum.techidaily.com/digital-engagement-essentials-mastering-the-art-on-facebook-twitter-instagram-and-youtube/"><u>Digital Engagement Essentials: Mastering the Art on Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/digital-interaction-hubs-unpacking-the-phenomenon-of-facebook-twitter-instagram-and-youtube/"><u>Digital Interaction Hubs - Unpacking the Phenomenon of Facebook, Twitter, Instagram and YouTube.</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/dynamic-duo-of-images-on-ig/"><u>Dynamic Duo of Images on IG</u></a></li>
+<li><a href="https://win-forum.techidaily.com/expert-advice-how-to-use-revo-uninstaller-for-total-erasure-of-folders-in-windows-11/"><u>Expert Advice: How to Use Revo Uninstaller for Total Erasure of Folders in Windows 11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/guide-to-finding-and-checking-your-powershell-version-on-windows-11/"><u>Guide to Finding and Checking Your PowerShell Version on Windows 11</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-honor-x9a-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Honor X9a | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-perform-factory-reset-windows-10-revo-uninstaller-pro-4/"><u>How to Perform Factory Reset Windows 10 - Revo Uninstaller Pro 4</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-honor-x7b-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Honor X7b to iPhone | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-your-device-uninterrupted-revealing-the-top-7-android-adblockers/"><u>In 2024, Your Device, Uninterrupted Revealing the Top 7 Android AdBlockers</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-digital-sphere-an-insight-into-facebook-twitter-instagram-and-youtube-usage/"><u>Navigating the Digital Sphere: An Insight Into Facebook, Twitter, Instagram & YouTube Usage</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-dreamlight-valleys-pc-crashing-problem-discover-6-reliable-fixes/"><u>Overcoming Dreamlight Valley's PC Crashing Problem: Discover 6 Reliable Fixes</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-realme-c53-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Realme C53? | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/social-media-showdown-is-the-future-with-likes-or-sticking-to-tiktok-in-2024/"><u>Social Media Showdown Is the Future with Likes or Sticking to TikTok, In 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/streamline-filmmaking-install-xps-media-tools-for-2024/"><u>Streamline Filmmaking Install XP's Media Tools for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-powerhouses-of-social-media-a-closer-look-at-facebook-twitter-instagram-and-youtube/"><u>The Powerhouses of Social Media: A Closer Look at Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-15-apps-to-hack-wifi-password-on-vivo-y100i-by-drfone-android/"><u>Top 15 Apps To Hack WiFi Password On Vivo Y100i</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-4-social-networking-titans-mastering-facebook-twitter-instagram-and-youtube-engagement/"><u>Top 4 Social Networking Titans: Mastering Facebook, Twitter, Instagram, and YouTube Engagement</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-giants-of-online-networking-facebook-twitter-instagram-youtube/"><u>Top Giants of Online Networking - Facebook | Twitter | Instagram | YouTube</u></a></li>
+</ul></div>
 

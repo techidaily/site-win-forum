@@ -1,7 +1,7 @@
 ---
 title: Connecting the World Online Through Major Platforms - Facebook, Twitter, Instagram & YouTube
-date: 2024-08-23T11:02:09.141Z
-updated: 2024-08-24T11:02:09.141Z
+date: 2024-09-30T20:02:27.784Z
+updated: 2024-10-06T23:54:02.501Z
 tags:
   - win11
   - win10
@@ -26,6 +26,13 @@ thumbnail: https://thmb.techidaily.com/2a86960040387567ee8a74265a39e135c9493f594
 
  PowerShell is an amazing tool created by Microsoft so you can automate tasks. By knowing which PowerShell version you have access to, you will know what features you can use. There are more than 200 commands that can be used within PowerShell and it is a super flexible framework that will save you a bunch of time.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Can you use PowerShell only on your Windows computer?
 
  Since 2016 PowerShell was announced as open-source and cross-platform. You can use it on macOS and Linux too. Although it is native to Windows OS, and Microsoft only supports security updates and bug fixes, PowerShell Core is being worked on to clear these issues with other OS.
@@ -41,9 +48,6 @@ thumbnail: https://thmb.techidaily.com/2a86960040387567ee8a74265a39e135c9493f594
 
  We are saying all this, so you can know that not all PowerShell versions are the same. A lot of people need assistance when they try to figure out what PowerShell version they are running. Therefore we created this small guide with all the ways you can check.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## How to check what PowerShell version I have installed?
 
  First, you need to open PowerShell. Simply open the Windows Start Menu and type in the search bar PowerShell, and click on the app.
@@ -51,8 +55,12 @@ thumbnail: https://thmb.techidaily.com/2a86960040387567ee8a74265a39e135c9493f594
 ![start menu PowerShell](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/check-win10-powershell-version/start-menu-powershell.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  You will see a window, where you enter the following command**$PSVersionTable.PSVersion** , and hit Enter. In the screenshot below you can see an example where you can find the version.
 
 ![PSVersion command](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/check-win10-powershell-version/powershell-version-1.png)
@@ -61,30 +69,32 @@ thumbnail: https://thmb.techidaily.com/2a86960040387567ee8a74265a39e135c9493f594
 
 ![Get Host command](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/check-win10-powershell-version/powershell-version-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  The last method we will show you is by using the command “$host.version”. You will see the PowerShell version in a slightly different format. You will be able to see the Major and Minor release and the build number and revision.
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How can I upgrade to a newer version of PowerShell?
 
  You can run both Windows PowerShell and PowerShell 7.2 on the same computer. You do not have to worry about the lack of feature parity by upgrading. Simply keep the current Windows PowerShell installed and also download PowerShell. You can do that by going to its[GitHub release page](https://github.com/PowerShell/PowerShell/releases) . You will see a list of assets, where you can simply choose the OS you want to download for.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Conclusion
 
  Overall PowerShell can help you with automating some of the tasks that you are doing on regular basis on your PC. By knowing which version you are running and how to upgrade it you will be able to utilize it without any issues.
 
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ## We can help you every time when…
 
 * you cannot find the program in the Apps & Features list
@@ -100,8 +110,6 @@ thumbnail: https://thmb.techidaily.com/2a86960040387567ee8a74265a39e135c9493f594
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -109,4 +117,24 @@ thumbnail: https://thmb.techidaily.com/2a86960040387567ee8a74265a39e135c9493f594
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-unpacking-virtual-reality-its-upside-and-downside/"><u>[Updated] 2024 Approved Unpacking Virtual Reality Its Upside & Downside</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-no-cost-nintendo-switch-virtual-games/"><u>[Updated] In 2024, No-Cost Nintendo Switch Virtual Games</u></a></li>
+<li><a href="https://techtrends.techidaily.com/boosting-in-house-digital-tv-quality-the-power-of-an-indoor-antenna-guide/"><u>Boosting In-House Digital TV Quality: The Power of an Indoor Antenna Guide</u></a></li>
+<li><a href="https://win-forum.techidaily.com/boosting-speed-on-a-lethargic-laptop-with-revo-uninstaller/"><u>Boosting Speed on a Lethargic Laptop with Revo Uninstaller</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-do-not-have-access-error-when-uninstalling-apps/"><u>Bypassing Do Not Have Access Error When Uninstalling Apps</u></a></li>
+<li><a href="https://win-forum.techidaily.com/efficient-methods-for-keeping-your-windows-10-hardware-compatible-with-updated-drivers/"><u>Efficient Methods for Keeping Your Windows 10 Hardware Compatible with Updated Drivers</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/efficiently-access-your-facebook-lite-videos-with-these-top-apps-of-2023/"><u>Efficiently Access Your Facebook Lite Videos with These Top Apps of 2023</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-find-out-what-powershell-version-is-installed-with-windows-1/"><u>How to Find Out What PowerShell Version Is Installed with Windows 1지</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-keep-your-windows-11-devices-running-smoothly-by-updating-drivers-with-revouninstaller/"><u>How to Keep Your Windows 11 Devices Running Smoothly by Updating Drivers with RevoUninstaller</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-lava-agni-2-5g-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Lava Agni 2 5G FRP Locks</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-big-four-of-social-media-platforms-facebook-twitter-instagram-youtube/"><u>Navigating the Big Four of Social Media Platforms: Facebook, Twitter, Instagram, YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-removing-a-user-account-from-your-windows-10-pc-with-ease/"><u>Step-by-Step Guide: Removing a User Account From Your Windows 10 PC with Ease</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-solving-the-failed-to-execute-plan-message-in-windows-11/"><u>Step-by-Step Guide: Solving the 'Failed To Execute Plan' Message in Windows 11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-digital-giants-how-facebook-twitter-instagram-and-youtube-shape-our-lives/"><u>The Digital Giants: How Facebook, Twitter, Instagram and YouTube Shape Our Lives</u></a></li>
+<li><a href="https://win11.techidaily.com/the-path-to-peaceful-application-management-in-window-11/"><u>The Path to Peaceful Application Management in Window 11</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-and-repairing-ntfs-file-structure-glitches-on-windows-11-tips-and-tricks/"><u>Troubleshooting and Repairing NTFS File Structure Glitches on Windows 11: Tips & Tricks</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unstuck-in-ios-learn-how-to-perform-an-emergency-reset-and-enter-device-recovery-modes/"><u>Unstuck in iOS? Learn How to Perform an Emergency Reset and Enter Device Recovery Modes</u></a></li>
+</ul></div>
 

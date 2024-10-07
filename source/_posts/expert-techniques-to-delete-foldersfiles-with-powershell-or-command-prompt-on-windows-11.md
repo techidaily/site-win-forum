@@ -1,7 +1,7 @@
 ---
 title: Expert Techniques to Delete Folders/Files with PowerShell or Command Prompt on Windows 11
-date: 2024-08-23T10:58:26.301Z
-updated: 2024-08-24T10:58:26.301Z
+date: 2024-10-04T00:36:48.784Z
+updated: 2024-10-06T20:51:23.240Z
 tags:
   - win11
   - win10
@@ -37,9 +37,6 @@ After that, you need to do the following:
 ![encrypt contents](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/password-protect-text-files/how-to-password-protect-a-text-files-step-2.png)
 3. Continue clicking the**Encrypt the File Only** option and click**OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ## How to encrypt your text file
 
  After password-protecting your text file, the next crucial step is to encrypt the file to ensure optimal data protection. Encryption is the process of converting the original text file into a coded format, making it unreadable to anyone who does not have the correct decryption key. By encrypting your text file, you can ensure that even if someone gains unauthorized access to it, they will not be able to read the contents without the decryption key.
@@ -59,8 +56,12 @@ Some of the popular encryption tools are
  These tools will allow you to encrypt your file with a password. Choose the one that suits your needs and download it from their official website. Once downloaded, install the software on your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Encrypt your text files with WinRar to password protect your text files
 
  To show you an example we will take a look at how to encrypt your text files with WinRar.
@@ -73,13 +74,20 @@ So, here are the steps to follow:
 2. Under the**General tab** , you can choose an Archive format among RAR, RAR5, and ZIP, and click**Set password** .  
 ![set password](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/password-protect-text-files/encrypt-your-text-files-with-winrar-step-2.png)
 3. Enter the password you prepared and click**OK** .
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Conclusion
 
  Password-protecting your text files is a simple yet effective way to safeguard sensitive information. By using encryption software, you can easily protect your files from unauthorized access. Remember to choose a strong password and delete the original unencrypted text file to ensure maximum security.
@@ -87,11 +95,25 @@ So, here are the steps to follow:
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## We can help you every time when…
 
 * you cannot find the program in the Apps & Features list
@@ -107,8 +129,6 @@ So, here are the steps to follow:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -116,4 +136,17 @@ So, here are the steps to follow:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-strategies-to-eliminate-frames-loss-in-obs-recordings/"><u>[New] In 2024, Strategies to Eliminate Frames Loss in OBS Recordings</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-step-by-step-getting-started-with-snapseed-editing/"><u>[Updated] Step by Step Getting Started with Snapseed Editing</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/agriculture-adventures-with-comrades-top-10-farmers-craft/"><u>Agriculture Adventures with Comrades Top 10 Farmer's Craft</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-review-of-garmin-gpsmap/"><u>Comprehensive Review of Garmin GPSMAP</u></a></li>
+<li><a href="https://win-forum.techidaily.com/essential-social-media-sites-a-guide-to-facebook-twitter-instagram-and-youtube/"><u>Essential Social Media Sites: A Guide to Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/essential-tips-for-changing-deleting-and-setting-up-windows-registry-keys/"><u>Essential Tips for Changing, Deleting and Setting Up Windows Registry Keys</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-nexiq-usb-link-2-drivers-step-by-step-installation-tutorial/"><u>Get the Latest Nexiq USB Link 2 Drivers - Step-by-Step Installation Tutorial</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-tutorial-running-windows-11-on-unsupported-intelamd-chips/"><u>Step-by-Step Tutorial: Running Windows 11 on Unsupported Intel/AMD Chips</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-ultimate-how-to-eradicating-windows-11-installation-and-subsequent-patches/"><u>The Ultimate How-To: Eradicating Windows 11 Installation and Subsequent Patches</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlocking-apple-iphone-6s-plus-passcode-without-a-computer-drfone-by-drfone-ios/"><u>Unlocking Apple iPhone 6s Plus Passcode without a Computer | Dr.fone</u></a></li>
+</ul></div>
 

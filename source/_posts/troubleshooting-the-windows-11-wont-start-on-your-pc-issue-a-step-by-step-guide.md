@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting the 'Windows 11 Won't Start On Your PC' Issue: A Step-by-Step Guide"
-date: 2024-08-18T11:10:16.993Z
-updated: 2024-08-19T11:10:16.993Z
+date: 2024-09-30T16:57:11.454Z
+updated: 2024-10-07T00:52:56.343Z
 tags:
   - win11
   - win10
@@ -37,14 +37,8 @@ thumbnail: https://thmb.techidaily.com/c055207526e0593f6267057e6bfa17ba8927fb82b
 * Software publisher error – “Contact the software publisher” error message is common amongst Windows users which prevents them from using specific software products.
 * Antivirus software – You can also stumble upon this error with Antivirus products.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Methods to fix “This app can’t run on your PC” error
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Method 1: Make a copy of the .exe files you are trying to run
 
  If you are getting the “this app can’t run on your PC” error you may attempt to fix it by creating a copy of the file you try to run.
@@ -76,8 +70,12 @@ thumbnail: https://thmb.techidaily.com/c055207526e0593f6267057e6bfa17ba8927fb82b
 ![get updates button](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-this-app-cant-run/Method-3.png)
 
 <!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Method 4: Create a new administrator account
 
 1. Open the Settings app. Navigate to**Accounts > Family & other users**
@@ -91,16 +89,10 @@ thumbnail: https://thmb.techidaily.com/c055207526e0593f6267057e6bfa17ba8927fb82b
 8. Choose Administrator from the “**Account type** ” menu and click OK  
 ![change account type](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-this-app-cant-run/Method-4-step8.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  There are reports that sometimes “This app can’t run on your PC” error is seen even when the users are trying to perform simple tasks such as opening their Task Manager.
 
  In most cases the error was fixed by creating a new administrator account.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ### Method 5: Disable Proxy orVPN if you are running them
 
 1. Open the**Start Menu** and open**Control Panel**
@@ -110,9 +102,6 @@ thumbnail: https://thmb.techidaily.com/c055207526e0593f6267057e6bfa17ba8927fb82b
 5. Uncheck the box beside “**Use a proxy server for your Lan** ”  
 ![Lan settings](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-this-app-cant-run/Method-5-step6.png)
 6. Click OK to confirm the changes and try to log-in again in to your Microsoft Account
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you are using this feature, there is a big chance that the connection to the Microsoft Store servers is being blocked. If your apps don’t run on your PC, disable these settings.
 
@@ -124,18 +113,37 @@ thumbnail: https://thmb.techidaily.com/c055207526e0593f6267057e6bfa17ba8927fb82b
 ![scannow command](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-this-app-cant-run/Method-7-step2.jpg)
 3. Wait for the process to end and reboot your computer. This scan should fix all of your corrupted files
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 7: Enable App side-loading
 
 1. Open the**Start Menu** and click on**PC Settings**  
 ![developer mode](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-this-app-cant-run/Method-7-step1.jpg)
 2. Navigate to “**Update&Security** “
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Navigate to the “**For developers** ” tab and turn on “**Developer Mode** “
 
  This fix will prevent the “this app can’t run on your PC” error from appearing again.
 
 <!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Method 8: Check your disk for errors
 
  Another reason behind the “this app can’t run on your PC” error can be disk errors. To fix them open**Command Prompt** as mentioned in the previous step and type the command`chkdsk C: /f`
@@ -143,12 +151,12 @@ thumbnail: https://thmb.techidaily.com/c055207526e0593f6267057e6bfa17ba8927fb82b
 ![chkdsk command](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-this-app-cant-run/Method-8.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
+
 ### Method 9: Clear your browser cache
 
  There are cases where during download the files are getting corrupted. This will result in files and folders not being fully downloaded. This usually happens if you don’t clean your browser cache regularly.
@@ -167,8 +175,12 @@ So how to clean your temporary files?
 ![clean up system files](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-this-app-cant-run/Method-10.png)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Method 11: Run a full Windows Defender scan
 
  As most of us know malware can be very bad for our PC. It can be the reason behind many error messages, it can also prevent many apps from running or from being installed.
@@ -180,9 +192,6 @@ So how to clean your temporary files?
 3. In the new window select “**Advanced scan** “
 4. Check the “full scan” option to launch a full system scan
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ### Method 12: Update your Windows 10 Operating System
 
  If some of your apps can’t run on your PC, maybe the issue is that your Windows OS is not running the latest version.
@@ -194,10 +203,6 @@ To update your Windows:
 3. Click on the “**Check for Updates** ” button  
 ![check for updates](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-this-app-cant-run/Method-12-step3.jpg)
 4. Install the latest Windows updates
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 
 ### Method 13: Check if your PC is 32-bit or 64-bit Compatible
 
@@ -209,13 +214,14 @@ To confirm if that is the reason, check the PC specifications:
 2. Select**System**  
 ![system](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-this-app-cant-run/Method-13-step2.png)
 3. Click on “**About** ”  
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![about](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-this-app-cant-run/Method-13-step3.jpg)
 4. On the right-pane, under**Device specifications** , see what is your**System type**
+
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Final Words
@@ -223,6 +229,13 @@ To confirm if that is the reason, check the PC specifications:
  Running into the “this app can’t run on your PC” error is quite inconvenient. The methods mentioned above most of the time fix this error, but if it keeps persisting maybe your problems lie somewhere else.
 
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## We can help you every time when…
 
@@ -239,8 +252,6 @@ To confirm if that is the reason, check the PC specifications:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -248,4 +259,24 @@ To confirm if that is the reason, check the PC specifications:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-inside-the-art-of-youtube-video-earnings/"><u>[New] 2024 Approved Inside the Art of YouTube Video Earnings</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-pros-choice-review-the-ultimate-4k-dslr-rigs/"><u>[New] 2024 Approved Pro's Choice Review The Ultimate 4K DSLR Rigs</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-streamlining-creative-processes-with-obs-studio-tools-for-2024/"><u>[New] Streamlining Creative Processes with OBS Studio Tools for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-pinnacle-battles-the-leading-royale-gaming-list-for-2024/"><u>[Updated] Pinnacle Battles The Leading Royale Gaming List for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-mastering-the-art-of-transcending-huge-video-sizes-iphone-mac-connection/"><u>2024 Approved Mastering the Art of Transcending Huge Video Sizes IPhone-Mac Connection</u></a></li>
+<li><a href="https://win-forum.techidaily.com/tsmp3-movavi/"><u>免費網路服務下載TS到MP3 : 利用Movavi進行無損錄音</u></a></li>
+<li><a href="https://win-forum.techidaily.com/cambia-archivos-mpe-a-formato-ogg-gratuitamente-con-online-audio-converter-movavi/"><u>Cambia Archivos MPE a Formato Ogg Gratuitamente Con Online Audio Converter - Movavi</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/complete-your-dragon-ball-journey-a-comprehensive-watching-order/"><u>Complete Your Dragon Ball Journey - A Comprehensive Watching Order</u></a></li>
+<li><a href="https://win-forum.techidaily.com/descoberta-dos-dez-conjuntos-de-graca-melhores-reprodutores-de-dvd-para-windowsmac/"><u>Descoberta Dos Dez Conjuntos De Graça Melhores Reprodutores De DVD Para Windows/Mac</u></a></li>
+<li><a href="https://win-forum.techidaily.com/ferramenta-de-conversao-on-line-pelo-movavi-faca-a-ponte-entre-png-e-bmp-sem-custo-algum/"><u>Ferramenta De Conversão On-Line Pelo Movavi - Faça a Ponte Entre PNG E BMP Sem Custo Algum</u></a></li>
+<li><a href="https://fox-that.techidaily.com/steps-to-conduct-an-online-iphone-check-up-with-apple-services/"><u>Steps to Conduct an Online iPhone Check-Up with Apple Services</u></a></li>
+<li><a href="https://blog-min.techidaily.com/top-24-photo-organization-tools-free-and-paid-options-for-windows-and-mac/"><u>Top 24 Photo Organization Tools: Free and Paid Options for Windows & Mac</u></a></li>
+<li><a href="https://win-forum.techidaily.com/ultimate-techniques-for-high-quality-image-scaling-using-the-movavi-editor/"><u>Ultimate Techniques for High-Quality Image Scaling Using the Movavi Editor</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/unlocking-your-online-potential-mastering-seo-for-youtube-success-for-2024/"><u>Unlocking Your Online Potential Mastering SEO for YouTube Success for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/vrije-online-avi-naar-mp4-versterker-expertise-konvertiepunten-van-movavi/"><u>Vrije Online AVI Naar MP4 Versterker - Expertise Konvertiepunten Van Movavi</u></a></li>
+<li><a href="https://win-forum.techidaily.com/vullen-met-gifs-verzamelen-sie-apng-in-gratis-online-toegangscode-niet-te-meer-dan-movavi/"><u>Vullen Met GIF's: Verzamelen Sie APNG in Gratis Online Toegangscode – Niet Te Meer Dan Movavi</u></a></li>
+<li><a href="https://win-forum.techidaily.com/3g-mp4-movavi/"><u>모바일에서 3G 비디오를 MP4로 자유성 속도: Movavi의 방법</u></a></li>
+</ul></div>
 
