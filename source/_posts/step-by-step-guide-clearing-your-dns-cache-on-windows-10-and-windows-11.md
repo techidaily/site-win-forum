@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Clearing Your DNS Cache on Windows 10 & Windows 11"
-date: 2024-08-18T11:07:54.499Z
-updated: 2024-08-19T11:07:54.499Z
+date: 2024-10-09T17:05:50.043Z
+updated: 2024-10-12T17:32:36.247Z
 tags:
   - win11
   - win10
@@ -37,8 +37,19 @@ thumbnail: https://thmb.techidaily.com/e4dab8212b61415ab670db2724890039dc2188864
 3. Click**‘End task’** ![End task](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/force-quit-11/how-to-force-quit-an-app-method-1-task-manager.png)
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to force quit on Windows through the Settings menu
 
 1. Click on the**‘Windows’** start icon, then select**‘Settings’** .
@@ -48,11 +59,12 @@ thumbnail: https://thmb.techidaily.com/e4dab8212b61415ab670db2724890039dc2188864
 5. Finally, click on**‘Terminate’** to force quit the app and its associated processes. ![End task](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/force-quit-11/how-to-force-quit-an-app-method-2-settings-terminate-2.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
+
 ## Here’s how to force quit an application on Windows using Command Prompt
 
 1. Press**‘Windows + R’** to open the Run dialog box.
@@ -61,9 +73,6 @@ thumbnail: https://thmb.techidaily.com/e4dab8212b61415ab670db2724890039dc2188864
 4. Identify the process ID (PID) or name of the application you want to force quit from the list.
 5. Once you’ve identified the application, type**‘taskkill /f /im insertprogram.exe’** (replace “insertprogram.exe” with the name of the program or its process ID) and press**‘Enter’** to forcefully terminate the application.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ## Force quit on Windows App quickly with keyboard shortcut
 
 1. Click on the unresponsive application or window to ensure it’s active.
@@ -78,11 +87,12 @@ thumbnail: https://thmb.techidaily.com/e4dab8212b61415ab670db2724890039dc2188864
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
+
 ## We can help you every time when…
 
 * you cannot find the program in the Apps & Features list
@@ -98,8 +108,6 @@ thumbnail: https://thmb.techidaily.com/e4dab8212b61415ab670db2724890039dc2188864
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -107,4 +115,23 @@ thumbnail: https://thmb.techidaily.com/e4dab8212b61415ab670db2724890039dc2188864
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/ffortless-playlist-pivot-the-top-5-spotify-to-youtube-tools/"><u>[New] Effortless Playlist Pivot The Top 5 Spotify-to-YouTube Tools</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-a-comprehensive-guide-to-mac-audio-recording-with-audacity/"><u>[Updated] In 2024, A Comprehensive Guide to Mac Audio Recording with Audacity</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/cookiebot-your-reliable-partner-for-advanced-personalization-solutions/"><u>Cookiebot: Your Reliable Partner for Advanced Personalization Solutions</u></a></li>
+<li><a href="https://win-forum.techidaily.com/expert-advice-freeing-up-space-by-removing-memory-dump-files-on-win-11/"><u>Expert Advice: Freeing Up Space by Removing Memory Dump Files on Win 11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/expert-solutions-for-addressing-the-plan-gone-wrong-alert-in-your-windows-11-pc/"><u>Expert Solutions for Addressing the 'Plan Gone Wrong' Alert in Your Windows 11 PC</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-major-social-channels-the-power-of-facebook-twitter-instagram-and-youtube/"><u>Exploring Major Social Channels: The Power of Facebook, Twitter, Instagram & Youtube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-the-top-digital-platforms-a-comprehensive-guide-to-facebook-twitter-instagram-and-youtube/"><u>Exploring the Top Digital Platforms: A Comprehensive Guide to Facebook, Twitter, Instagram and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/finding-your-way-around-a-guide-to-locating-powershell-version-in-windows-11/"><u>Finding Your Way Around: A Guide to Locating PowerShell Version in Windows 11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/fresh-start-how-to-refresh-device-drivers-on-windows-10-without-hitches/"><u>Fresh Start: How to Refresh Device Drivers on Windows 10 Without Hitches</u></a></li>
+<li><a href="https://win-forum.techidaily.com/guide-to-quick-unwinding-files-forced-deletion-techniques-for-windows-11-users-leveraging-revouninstaller/"><u>Guide to Quick Unwinding Files: Forced Deletion Techniques for Windows 11 Users Leveraging RevoUninstaller</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Asus ROG Phone 7 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-vivo-y100-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Vivo Y100 5G Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-essential-shoppers-guide-to-modern-360cams/"><u>The Essential Shopper's Guide to Modern 360Cams</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-science-behind-effective-slug-lines-for-2024/"><u>The Science Behind Effective Slug Lines for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/ultimate-youtuber-wealth-wonders-for-2024/"><u>Ultimate Youtuber Wealth Wonders for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-apple-watch-series-6-small-steps-forward-still-a-consumer-favorite/"><u>Unveiling the Apple Watch Series 6: Small Steps Forward, Still a Consumer Favorite</u></a></li>
+</ul></div>
 

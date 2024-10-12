@@ -1,7 +1,7 @@
 ---
 title: "Reset Your Internet Connection: DNS Flushing for Windows Users"
-date: 2024-08-18T11:08:49.188Z
-updated: 2024-08-19T11:08:49.188Z
+date: 2024-10-09T16:01:30.068Z
+updated: 2024-10-12T16:53:44.873Z
 tags:
   - win11
   - win10
@@ -42,6 +42,13 @@ To use this method do the following:
 ![delete file with command prompt](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/delete-with-command-prompt/Method1-step2.png)
 3. After that press**Enter**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Lets’ see this example to clarify the whole process:
 
  You want to delete a file called_Info.txt_ that is located on your desktop. Use the following command in the Command Prompt where you replace username with your own username:
@@ -59,8 +66,12 @@ You can also add the /f parameter to force delete a read-only file.
  You can also use Revo Uninstallers’[force uninstall feature](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1) if you have trouble removing stubborn programs.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## To delete folders in Windows 10 with CMD you have to use the rmdir command
 
  This command will remove all folders including the subfolders and files in them.
@@ -72,8 +83,12 @@ To use this command do the following:
 **`rmdir PATH`**  
 ![remove folder with command prompt](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/delete-with-command-prompt/Method2-step2.png)
 3. Press**Enter** to finish the process
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  For example, to delete a folder named “Info” on your desktop, use the following command where you will replace username with your own username:
@@ -84,10 +99,6 @@ To use this command do the following:
 
  If you want to delete all the files and subfolders in the folder you want to delete, add the /s parameter. This will ensure that the folder is removed including the subfolders and files in it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## Conclusion
 
  As you’ve noticed, commands to delete files and folders in Windows 10 can be pretty handy if you have trouble deleting them the regular way.
@@ -95,11 +106,12 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
+
 ## We can help you every time when…
 
 * you cannot find the program in the Apps & Features list
@@ -115,8 +127,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -124,4 +134,22 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-beneath-the-surface-secrets-to-professional-underwater-videos-with-gopro-for-2024/"><u>[New] Beneath the Surface Secrets to Professional Underwater Videos with GoPro for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-blend-sounds-in-presentation-ppts/"><u>[New] Blend Sounds in Presentation PPTs</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/remier-fifa-vids-data-visualized-for-social-media/"><u>[New] Premier FIFA Vids Data Visualized for Social Media</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-leveraging-zoom-for-superior-skype-interactions-and-communication/"><u>2024 Approved Leveraging Zoom for Superior Skype Interactions & Communication</u></a></li>
+<li><a href="https://facebook.techidaily.com/deny-hidden-network-proposals-on-social-site/"><u>Deny Hidden Network Proposals on Social Site</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-google-pixel-8-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Google Pixel 8 | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-major-online-platforms-insights-into-facebook-twitter-instagram-and-youtube/"><u>Navigating Major Online Platforms: Insights Into Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-social-media-landscapes-insights-into-facebook-twitter-instagram-and-youtube-usage/"><u>Navigating Social Media Landscapes: Insights Into Facebook, Twitter, Instagram & YouTube Usage</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-big-four-exploring-facebook-twitter-instagram-and-youtube/"><u>Navigating the Big Four: Exploring Facebook, Twitter, Instagram and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-giants-how-facebook-twitter-instagram-and-youtube-dominate-online-interaction/"><u>Navigating the Giants: How Facebook, Twitter, Instagram and YouTube Dominate Online Interaction</u></a></li>
+<li><a href="https://win-forum.techidaily.com/resetting-your-internet-settings-a-comprehensive-dns-flush-tutorial-for-modern-windows-systems/"><u>Resetting Your Internet Settings: A Comprehensive DNS Flush Tutorial for Modern Windows Systems</u></a></li>
+<li><a href="https://win-forum.techidaily.com/resolving-app-cannot-operate-on-pc-a-step-by-step-guide/"><u>Resolving 'App Cannot Operate on PC': A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-forum.techidaily.com/revouninstaller-tutorial-master-the-art-of-forced-shutdown-for-windows-apps/"><u>RevoUninstaller Tutorial: Master the Art of Forced Shutdown for Windows Apps</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/unlocking-success-top-10-strategies-for-boosting-youtube-video-views/"><u>Unlocking Success Top 10 Strategies for Boosting YouTube Video Views</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-the-variances-between-hulu-and-hulu-plus-services/"><u>Unveiling the Variances Between Hulu and Hulu Plus Services</u></a></li>
+</ul></div>
 

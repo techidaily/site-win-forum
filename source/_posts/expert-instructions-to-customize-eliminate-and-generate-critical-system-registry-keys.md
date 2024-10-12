@@ -1,7 +1,7 @@
 ---
 title: Expert Instructions to Customize, Eliminate & Generate Critical System Registry Keys
-date: 2024-08-18T11:07:20.008Z
-updated: 2024-08-19T11:07:20.008Z
+date: 2024-10-10T16:07:32.603Z
+updated: 2024-10-12T16:13:08.356Z
 tags:
   - win11
   - win10
@@ -39,11 +39,22 @@ thumbnail: https://thmb.techidaily.com/1d9a817ed59482a0eeff36b88b02b53bced3999d9
 3. Turn ON the**Storage Sense** . By enabling this feature, your PC will automatically begin deleting temporary files, old downloads, and emptying your recycle bin when it is running low on space.  
 ![Storage sense](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/free-up-drive-space/Method1-step-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  When you turn on Storage Sense you will see a few more options. As we mention in the introduction, these options will help you determine which files are important, so you do not lose important information.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How to manually free drive space after you upgrade to Windows 11
 
  The good old Disk Cleanup utility can also be a reliable tool to free up drive space occupied by Windows backup and other temporary files.
@@ -52,21 +63,20 @@ thumbnail: https://thmb.techidaily.com/1d9a817ed59482a0eeff36b88b02b53bced3999d9
 2. Type in the field**disk cleanup** and click on the app from the search results.  
 ![disk cleanup](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/free-up-drive-space/Method2-step-2.png)
 3. Select the drive you want to scan. In 99% of the cases, it is drive C: where most of the temporary and junk files are stored.
+
 <!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 4. Click the**Clean up system files button** .  
 ![clean up system files](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/free-up-drive-space/Method2-step-4.png)
 5. Select the same system drive and click OK.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. Select**Windows Update Cleanup** and**Previous Windows Installation** options if available.  
 ![windows update cleanup](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/free-up-drive-space/Method2-step-6.png)
 7. Click**OK** and then click**Delete Files** to confirm the action. Make sure you are deleting the correct files. This is a permanent action and it will**permanently delete** all the files you’ve selected.
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 ## Free up drive space with Revo Uninstaller Pro
 
@@ -76,14 +86,6 @@ thumbnail: https://thmb.techidaily.com/1d9a817ed59482a0eeff36b88b02b53bced3999d9
 
  You can check our article on how you can[delete the software you are no longer using](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1) and it is filling up your disk space.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ## Summary
 
  Performing a routine cleanup task can help you remove junk files that you have no use for and reclaim a ton of precious storage space. Enabling Storage Sense is an easy way to make sure that old temporary and junk files are removed from your hard drive and do not take extra space.
@@ -91,8 +93,18 @@ thumbnail: https://thmb.techidaily.com/1d9a817ed59482a0eeff36b88b02b53bced3999d9
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## We can help you every time when…
 
 * you cannot find the program in the Apps & Features list
@@ -108,8 +120,6 @@ thumbnail: https://thmb.techidaily.com/1d9a817ed59482a0eeff36b88b02b53bced3999d9
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -117,4 +127,17 @@ thumbnail: https://thmb.techidaily.com/1d9a817ed59482a0eeff36b88b02b53bced3999d9
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-streamlined-guide-to-ingesting-ipodcast-content/"><u>[Updated] 2024 Approved Streamlined Guide to Ingesting IPodcast Content</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-expert-tips-on-navigating-the-complex-world-of-instagram-hashtags-for-2024/"><u>[Updated] Expert Tips on Navigating the Complex World of Instagram Hashtags for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/connect-and-engage-leveraging-facebook-twitter-instagram-and-youtube-for-growth/"><u>Connect and Engage: Leveraging Facebook, Twitter, Instagram & YouTube for Growth</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-system-startup-unpacking-bios-with-revouninstaller-insights/"><u>Exploring System Startup: Unpacking BIOS with RevoUninstaller Insights</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-vivo-s18-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Vivo S18 | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-major-networking-sites-facebook-twitter-instagram-and-youtube-unveiled/"><u>Navigating Major Networking Sites: Facebook, Twitter, Instagram & YouTube Unveiled</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-zero-cost-wonders-the-best-free-vob-video-editing-software-for-2024/"><u>New Zero-Cost Wonders The Best Free VOB Video Editing Software for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reconfiguring-account-lockout-limit-post-failed-sign-in-in-windows-1011/"><u>Reconfiguring Account Lockout Limit Post-Failed Sign-In in Windows 10/11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-updating-your-windows-11-drivers-with-ease/"><u>Step-by-Step Guide: Updating Your Windows 11 Drivers with Ease</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-tips-for-pop-culture-meme-success-for-2024/"><u>Top Tips for Pop Culture Meme Success for 2024</u></a></li>
+</ul></div>
 
