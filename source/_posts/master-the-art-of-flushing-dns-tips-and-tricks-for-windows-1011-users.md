@@ -1,7 +1,7 @@
 ---
 title: "Master the Art of Flushing DNS: Tips and Tricks for Windows 10/11 Users"
-date: 2024-08-12T04:57:39.230Z
-updated: 2024-08-13T04:57:39.230Z
+date: 2024-10-11T16:21:08.064Z
+updated: 2024-10-18T16:08:11.842Z
 tags:
   - win11
   - win10
@@ -36,32 +36,40 @@ Here are the methods you can use to speed up your Windows 11 boot time:
 6. [Adjust BIOS settings](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## I. Disable startup programs in Windows 11
 
  Windows 11 comes with several programs that start automatically with the operating system. While some of these programs may be useful, others can slow down your computer’s startup and take up valuable resources. Disabling unnecessary startup programs can help speed up your Windows 11 boot time. This is how you can disable them:
 
 1. Press**Windows + I** to open Windows**Settings** .
 2. Click the**Apps** tab from the sidebar and tap on**Startup** in the right-hand pane to view all your startup apps.  
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![startup tab](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/speed-up-windows-11-boot-time/disable-startup-programs-in-windows-11-step-2.jpg)
 3. Finally, toggle the switch next to the apps you don’t want to run at startup. Under the toggle switch, you’ll see the status impact of each, which indicates what disabling them does to your system.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## II. Remove unnecessary files and programs
 
  Over time, your computer may become cluttered with unnecessary files and programs that can slow down your computer’s startup time. By removing these files and programs, you can speed up your Windows 11 boot time and improve your overall computer performance.
 
  We’ve covered in this[article](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1) how you can remove unnecessary files and programs with Revo Uninstaller and many other methods.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## III. Enable Fast Startup
 
  Windows 11 comes with a variety of features that can help speed up your computer’s boot time. One such feature is Fast Startup, which allows your computer to start up faster by using a hybrid sleep mode that saves system information to a file on the hard drive.
@@ -80,8 +88,12 @@ Here is how you can turn Fast Starup On:
 8. Click**Save changes** to apply the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## IV. Defragment your hard drive
 
  If you are experiencing slow boot times on your Windows 11 computer, one possible cause could be a fragmented hard drive.
@@ -93,6 +105,14 @@ Here is how you can turn Fast Starup On:
 3. Select the hard drive you want to defragment.  
 ![defragment hard drive](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/speed-up-windows-11-boot-time/defragment-your-hard-drive-step-3.png)
 4. Click on the Optimize button.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Wait for the defragmentation process to complete.
 
 ## V. Use an SSD
@@ -115,9 +135,6 @@ Here is how you can turn Fast Starup On:
 
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ## We can help you every time when…
 
 * you cannot find the program in the Apps & Features list
@@ -133,8 +150,6 @@ Here is how you can turn Fast Starup On:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -142,4 +157,23 @@ Here is how you can turn Fast Starup On:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-secrets-to-dominating-your-social-networks-featured-pages/"><u>[New] Secrets to Dominating Your Social Network's Featured Pages</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-top-5-video-frame-captures-for-mac/"><u>[New] Top 5 Video Frame Captures for Mac</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-top-8-linux-screenshot-utilities-compared/"><u>[New] Top 8 Linux Screenshot Utilities Compared</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-unlocking-the-secrets-of-success-top-strategies-for-fb-video-growth-for-2024/"><u>[New] Unlocking the Secrets of Success Top Strategies for FB Video Growth for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-staying-pure-hearted-amidst-the-ruse-of-ratings-and-likes-for-2024/"><u>[Updated] Staying Pure-Hearted Amidst the Ruse of Ratings and Likes for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Samsung Galaxy A23 5G | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/delete-a-user-profile-permanently-on-windows-nx-with-ease/"><u>Delete a User Profile Permanently on Windows nX with Ease</u></a></li>
+<li><a href="https://win-forum.techidaily.com/enhance-pc-efficiency-with-simple-techniques-to-update-drivers-in-windows-11/"><u>Enhance PC Efficiency with Simple Techniques to Update Drivers in Windows 11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/guide-successful-steps-to-run-windows-11-on-non-compatible-processors/"><u>Guide: Successful Steps to Run Windows 11 on Non-Compatible Processors</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-optimize-privacy-in-android-11-a-step-by-step-guide-to-one-time-app-permissions-and-revouninstaller-use/"><u>How to Optimize Privacy in Android 11: A Step-by-Step Guide to One-Time App Permissions & RevoUninstaller Use</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-android-freedom-the-most-popular-top-10-fb-video-extraction-tools/"><u>In 2024, Android Freedom The Most Popular Top 10 FB Video Extraction Tools</u></a></li>
+<li><a href="https://win-forum.techidaily.com/master-the-art-of-windows-registry-management-with-revo-uninstaller-delete-add-and-modify-keys/"><u>Master the Art of Windows Registry Management with Revo Uninstaller – Delete, Add & Modify Keys</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-social-media-engagement-on-major-platforms-like-fb-twtr-ig-and-yt/"><u>Mastering Social Media Engagement on Major Platforms Like FB, TWTR, IG & YT</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/reviving-the-disappearing-video-icon-on-fb-watch-platform-for-2024/"><u>Reviving the Disappearing Video Icon on FB Watch Platform for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-premier-selection-of-compact-gaming-computers/"><u>The Premier Selection of Compact Gaming Computers</u></a></li>
+<li><a href="https://win-forum.techidaily.com/windows-11-quick-launch-techniques-a-step-by-step-booting-speed-guide/"><u>Windows 11 Quick Launch Techniques: A Step-by-Step Booting Speed Guide</u></a></li>
+</ul></div>
 

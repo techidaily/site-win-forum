@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Tutorial: Erasing Stubborn Files & Folders From Windows 10/11"
-date: 2024-08-12T04:58:26.205Z
-updated: 2024-08-13T04:58:26.205Z
+date: 2024-10-13T16:42:41.429Z
+updated: 2024-10-18T16:26:49.455Z
 tags:
   - win11
   - win10
@@ -28,6 +28,13 @@ thumbnail: https://thmb.techidaily.com/ab163d296acb79c8d1b99be55f1a9e8dc7788fd98
 
  When it comes to force a program to quit, there are several approaches you can take.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Force quit a program by using keyboard shortcut
 
  If a program on your Windows system freezes or it does not respond, you can force it to quit by pressing the key combination**Alt + F4** . By pressing both keys you can force a program to quit when the program’s window is selected and active. If you press**Alt + F4** and no program windows is selected, the computers Shut Down menu will appear.
@@ -35,9 +42,12 @@ thumbnail: https://thmb.techidaily.com/ab163d296acb79c8d1b99be55f1a9e8dc7788fd98
 If this method does not work you can try the one below:
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Force a stuck program to quit by using Windows Task Manager
 
 This method is the most commonly used to force quit a program.
@@ -45,16 +55,24 @@ This method is the most commonly used to force quit a program.
 1. Open the Task Manager by pressing the Win button and type in the search bar "ask Manager". Click on the appropriate result as shown in the screenshot below.
 2. In some cases the Task Manager is displayed with a simple interface. To get access to the more advanced interface click the More details button on the lower left corner.
 3. Selec the program that is stuck. Right – click on it and select End task.  
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![end task](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site%2Fblog%2Fforce-quit%2Fforce-a-stuck-program-to-quit-by-using-windows-task-manager.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 This should quit the program that is causing you issues.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Use Command Prompt to force quit a program
 
  There are cases when Task Manager is not enough as a method to deal with a stuck program.
@@ -67,20 +85,10 @@ This should quit the program that is causing you issues.
 
  In the example below we want to force quit Microsoft Word. I will type taskkill/im word.exe and press Enter. If you follow all the steps correctly, the command will run successfully. A message should appear that says "Sent termination signal to the process Word.exe with PID 5972". The PID means the Proceess od which was defined by the Windows system.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![forece quit using cmd](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site%2Fblog%2Fforce-quit%2Fuse-command-prompt-to-force-quit-a-program.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## We can help you every time when…
 
 * you cannot find the program in the Apps & Features list
@@ -96,8 +104,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -105,4 +111,19 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-the-a-list-of-ig-edits-essential-apps-for-marketers/"><u>[New] 2024 Approved The A-List of IG Edits Essential Apps for Marketers</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-the-10-best-gba-emulators-for-android/"><u>[New] In 2024, The 10 Best GBA Emulators for Android</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-ranking-top-10-srt-modifications-for-pc-and-macos/"><u>[New] Ranking Top 10 SRT Modifications for PC & macOS</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-ghostly-movie-editing-hacks/"><u>[Updated] 2024 Approved Ghostly Movie Editing Hacks</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-the-dawn-of-distinctive-filmmaking-with-vr/"><u>[Updated] 2024 Approved The Dawn of Distinctive Filmmaking with VR</u></a></li>
+<li><a href="https://win-forum.techidaily.com/command-prompt-mastery-clearing-files-and-directories-on-your-windows-10-pc/"><u>Command Prompt Mastery: Clearing Files & Directories on Your Windows 10 PC</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-ultimate-guide-to-unlocking-your-iphone-12-on-metropcs-by-drfone-ios/"><u>The Ultimate Guide to Unlocking Your iPhone 12 on MetroPCS</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-four-social-networking-giants-facebook-twitter-instagram-youtube/"><u>Top Four Social Networking Giants: Facebook, Twitter, Instagram, Youtube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/troubleshooting-the-this-app-wont-start-message-on-your-computer/"><u>Troubleshooting the 'This App Won't Start' Message on Your Computer</u></a></li>
+<li><a href="https://extra-information.techidaily.com/uncover-10-keys-to-picking-your-perfect-broadcast-platform/"><u>Uncover 10 Keys to Picking Your Perfect Broadcast Platform</u></a></li>
+<li><a href="https://win-forum.techidaily.com/upgrade-to-revo-uninstaller-pro-5-the-ultimate-tool-for-a-clean-and-efficient-system/"><u>Upgrade to Revo Uninstaller Pro 5 - The Ultimate Tool for a Clean & Efficient System.</u></a></li>
+<li><a href="https://win-forum.techidaily.com/winning-the-battle-againnst-100-cpu-usage-in-windows-10-expert-solutions-unveiled/"><u>Winning the Battle Againnst 100% CPU Usage in Windows 10 - Expert Solutions Unveiled</u></a></li>
+</ul></div>
 

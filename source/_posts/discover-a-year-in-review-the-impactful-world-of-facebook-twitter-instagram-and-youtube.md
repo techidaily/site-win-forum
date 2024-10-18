@@ -1,7 +1,7 @@
 ---
 title: "Discover a Year In Review: The Impactful World of Facebook, Twitter, Instagram & YouTube"
-date: 2024-08-12T04:58:30.275Z
-updated: 2024-08-13T04:58:30.275Z
+date: 2024-10-16T16:50:48.112Z
+updated: 2024-10-18T16:03:09.106Z
 tags:
   - win11
   - win10
@@ -46,9 +46,6 @@ thumbnail: https://thmb.techidaily.com/b74744220589b6a906ebb663c728844a6da00413e
 2. Update Windows 11: Microsoft regularly releases updates to address bugs and improve system stability. Ensure that your Windows 11 installation is up to date.  
    1. Go to Settings, select Windows Update  
    2. Click on the**“Check for updates”** button.  
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
    ![check for updates](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/something-didnt-go-as-planned-error/method-2-windows-update.jpg)  
    3. If any updates are available, download and install them.  
    4. Restart your computer if prompted.
@@ -56,38 +53,45 @@ thumbnail: https://thmb.techidaily.com/b74744220589b6a906ebb663c728844a6da00413e
    1. Open the Settings app, and navigate to Update & Security.  
    2. Select Troubleshoot from the left-hand side menu.  
    3. Click on Additional Troubleshooters  
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
    ![troubleshoot](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/something-didnt-go-as-planned-error/method-3-windows-update.jpg)  
    4. Select Windows Update and follow the on-screen instructions to run the troubleshooter.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Check for hardware compatibility issues: Windows 11 has specific system requirements, and not all computers may be compatible with the new operating system. Ensure that your hardware meets the minimum requirements for Windows 11\. Visit the official Microsoft website or use the PC Health Check tool to determine if your system is compatible.
 5. Perform a clean boot: Sometimes, third-party applications or services can conflict with Windows and cause errors. Performing a clean boot helps you identify if any non-Microsoft services are causing the “Something Didn’t Go As Planned” error.  
    1. Press Windows + R, type “msconfig,” and hit Enter.  
    2. In the System Configuration window, go to the Services tab and check the “Hide all Microsoft services” box.  
    ![system configuration](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/something-didnt-go-as-planned-error/method-5-system-configuration-step-b.jpg)  
    3. Click on “Disable all” and then go to the Startup tab, selecting “Open Task Manager.”  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
    ![system configuration](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/something-didnt-go-as-planned-error/method-5-system-configuration-step-c.jpg)  
    4. Disable all the startup applications one by one.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
    5. Restart your computer, and check if the error persists.
 6. Use System File Checker (SFC) and DISM: Corrupted system files can lead to various errors in Windows, including the “Something Didn’t Go As Planned” error. To fix this, you can use the built-in System File Checker (SFC) and Deployment Image Servicing and Management (DISM) tools. Open Command Prompt as an administrator, then run the following commands one by one:  
    * sfc /scannow  
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
    ![command prompt](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/something-didnt-go-as-planned-error/method-6-command-prompt-1.jpg)  
    * dism /online /cleanup-image /restorehealth  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
    ![command prompt](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/something-didnt-go-as-planned-error/method-6-command-prompt-2.jpg)  
 Wait for the process to complete and restart your computer.
 7. Perform a system restore: If you recently made any changes to your system, such as installing new software or drivers, and started encountering the error, performing a system restore can help revert your system back to a working state. Open the Control Panel, select System and Security, and choose System. Click on “System Protection” from the left-hand side menu, then click on[“System Restore.”](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1) Follow the on-screen instructions to restore your system to an earlier point.
@@ -100,8 +104,18 @@ Wait for the process to complete and restart your computer.
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## We can help you every time when…
 
 * you cannot find the program in the Apps & Features list
@@ -117,8 +131,6 @@ Wait for the process to complete and restart your computer.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -126,4 +138,21 @@ Wait for the process to complete and restart your computer.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-ultimate-guide-to-aspect-ratios-for-youtube-images/"><u>[Updated] The Ultimate Guide to Aspect Ratios for YouTube Images</u></a></li>
+<li><a href="https://win-forum.techidaily.com/a-guide-to-navigating-major-social-channels-facebook-twitter-instagram-and-youtube/"><u>A Guide to Navigating Major Social Channels - Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-practical-guide-to-creating-and-managing-a-win-11-hotspot/"><u>A Practical Guide to Creating and Managing a Win 11 Hotspot</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/digital-frontier-exploration-selecting-best-tools-for-turning-images-into-nfts/"><u>Digital Frontier Exploration Selecting Best Tools for Turning Images Into NFTs</u></a></li>
+<li><a href="https://win-forum.techidaily.com/engage-with-users-through-popular-sites-twitter-youtube-instagram-and-facebook/"><u>Engage with Users Through Popular Sites: Twitter, YouTube, Instagram, & Facebook</u></a></li>
+<li><a href="https://win-forum.techidaily.com/essential-online-platforms-engage-with-facebook-twitter-instagram-and-youtube/"><u>Essential Online Platforms: Engage with Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-poco-x5-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Poco X5?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-most-compelling-free-ae-design-samples/"><u>In 2024, The Most Compelling Free AE Design Samples</u></a></li>
+<li><a href="https://win-forum.techidaily.com/optimize-system-performance-in-windows-11-by-learning-how-to-defrag-using-revo-uninstaller/"><u>Optimize System Performance in Windows 11 by Learning How to Defrag Using Revo Uninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/quick-guide-terminating-unresponsive-windows-programs-with-ease/"><u>Quick Guide: Terminating Unresponsive Windows Programs with Ease</u></a></li>
+<li><a href="https://win-forum.techidaily.com/social-medias-big-four-exploring-facebook-twitter-instagram-and-youtube/"><u>Social Media's Big Four: Exploring Facebook, Twitter, Instagram and YouTube</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/success-achieved-mastering-acronis-true-image-and-crucial-cloning-issues/"><u>Success Achieved: Mastering Acronis True Image & Crucial Cloning Issues</u></a></li>
+<li><a href="https://some-skills.techidaily.com/tools-and-gear-for-crafting-vlogs-for-2024/"><u>Tools & Gear for Crafting Vlogs for 2024</u></a></li>
+</ul></div>
 
