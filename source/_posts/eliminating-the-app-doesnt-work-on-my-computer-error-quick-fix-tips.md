@@ -1,7 +1,7 @@
 ---
 title: Eliminating the ‘App Doesn’t Work on My Computer’ Error – Quick Fix Tips
-date: 2024-08-12T04:49:09.052Z
-updated: 2024-08-13T04:49:09.052Z
+date: 2024-10-21T07:10:06.455Z
+updated: 2024-10-23T16:59:43.265Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/58db6060726575b8629c11f7c48875e22b705d59d
 
 ## Find Out the Version of PowerShell in Windows 10 with Simple Tricks
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ## [How to check Windows 10 PowerShell version](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1)
 
 * Share
@@ -29,14 +26,17 @@ thumbnail: https://thmb.techidaily.com/58db6060726575b8629c11f7c48875e22b705d59d
 
  PowerShell is an amazing tool created by Microsoft so you can automate tasks. By knowing which PowerShell version you have access to, you will know what features you can use. There are more than 200 commands that can be used within PowerShell and it is a super flexible framework that will save you a bunch of time.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Can you use PowerShell only on your Windows computer?
 
  Since 2016 PowerShell was announced as open-source and cross-platform. You can use it on macOS and Linux too. Although it is native to Windows OS, and Microsoft only supports security updates and bug fixes, PowerShell Core is being worked on to clear these issues with other OS.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ## Why is it important to know which PowerShell version you are running?
 
  PowerShell had many versions during the year starting with version 1.0 back in 2006\. The newest version( version 7) comes with the following new features:
@@ -49,8 +49,12 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
  We are saying all this, so you can know that not all PowerShell versions are the same. A lot of people need assistance when they try to figure out what PowerShell version they are running. Therefore we created this small guide with all the ways you can check.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How to check what PowerShell version I have installed?
 
  First, you need to open PowerShell. Simply open the Windows Start Menu and type in the search bar PowerShell, and click on the app.
@@ -59,9 +63,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
  You will see a window, where you enter the following command**$PSVersionTable.PSVersion** , and hit Enter. In the screenshot below you can see an example where you can find the version.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![PSVersion command](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/check-win10-powershell-version/powershell-version-1.png)
 
  Another method that you can use to check what PowerShell version you are running is to use the command “Get-Host”
@@ -70,22 +71,29 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
  The last method we will show you is by using the command “$host.version”. You will see the PowerShell version in a slightly different format. You will be able to see the Major and Minor release and the build number and revision.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How can I upgrade to a newer version of PowerShell?
 
  You can run both Windows PowerShell and PowerShell 7.2 on the same computer. You do not have to worry about the lack of feature parity by upgrading. Simply keep the current Windows PowerShell installed and also download PowerShell. You can do that by going to its[GitHub release page](https://github.com/PowerShell/PowerShell/releases) . You will see a list of assets, where you can simply choose the OS you want to download for.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Conclusion
 
  Overall PowerShell can help you with automating some of the tasks that you are doing on regular basis on your PC. By knowing which version you are running and how to upgrade it you will be able to utilize it without any issues.
 
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## We can help you every time when…
 
@@ -102,8 +110,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -111,4 +117,20 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-complete-guide-to-aspect-ratios-about-youtube-videosshortsads/"><u>[Updated] 2024 Approved Complete Guide to Aspect Ratios About YouTube Videos/Shorts/Ads</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-deconstructing-the-legal-framework-of-youtube-and-cc-licenses/"><u>[Updated] Deconstructing the Legal Framework of Youtube & CC Licenses</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/24-revolutionary-metaverse-concepts-explored-diligently-for-2024/"><u>24 Revolutionary Metaverse Concepts Explored Diligently for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-the-glitch-proven-strategies-to-resolve-overwatch-2-launch-failures/"><u>Beat the Glitch: Proven Strategies to Resolve Overwatch 2 Launch Failures</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/elevating-roi-by-mastering-the-craft-of-fb-animated-advertising/"><u>Elevating ROI by Mastering the Craft of FB Animated Advertising</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-the-giants-of-online-interaction-facebook-twitter-instagram-and-youtube/"><u>Exploring the Giants of Online Interaction - Facebook, Twitter, Instagram and Youtube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/finding-out-which-powershell-version-you-have-in-windows-11-tips-and-tricks/"><u>Finding Out Which PowerShell Version You Have in Windows 11: Tips & Tricks</u></a></li>
+<li><a href="https://win-forum.techidaily.com/guide-mastering-keyboard-shortcuts-for-accessing-system-information-on-windows-11/"><u>Guide: Mastering Keyboard Shortcuts for Accessing System Information on Windows 11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-safeguard-your-windows-system-using-simple-techniques-video/"><u>How to Safeguard Your Windows System Using Simple Techniques (Video)</u></a></li>
+<li><a href="https://win-forum.techidaily.com/leading-platforms-in-the-digital-age-facebook-twitter-instagram-and-youtube/"><u>Leading Platforms in the Digital Age: Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-digital-engagement-on-major-sites-facebook-twitter-instagram-youtube-strategies/"><u>Mastering Digital Engagement on Major Sites: Facebook, Twitter, Instagram, YouTube Strategies</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-rated-wi-fi-signal-boosters-a-comprehensive-guide/"><u>Top Rated Wi-Fi Signal Boosters : A Comprehensive Guide</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/updated-8-best-meme-maker-app-to-create-memes-with-your-own-picture-for-2024/"><u>Updated 8 Best Meme Maker App to Create Memes with Your Own Picture for 2024</u></a></li>
+</ul></div>
 

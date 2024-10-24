@@ -1,7 +1,7 @@
 ---
 title: How to Correctly Address 'Not As Expected' Messages on Windows 11
-date: 2024-08-12T04:50:15.703Z
-updated: 2024-08-13T04:50:15.703Z
+date: 2024-10-22T18:17:47.435Z
+updated: 2024-10-23T19:44:21.884Z
 tags:
   - win11
   - win10
@@ -32,9 +32,6 @@ thumbnail: https://thmb.techidaily.com/2e9cfa327b9759eb425968540a827a94cde4fe4ea
 
  Note: If you use this method, Microsoft reserves the right to deny updates on your OS.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ## So how can you install Windows 11 if your processor is not supported?
 
 ### Download the Windows 11 ISO
@@ -47,25 +44,36 @@ thumbnail: https://thmb.techidaily.com/2e9cfa327b9759eb425968540a827a94cde4fe4ea
 4. Finally, click**64-bit Download** .
 
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### The next step is to edit the Windows Registry to skip the CPU Check during Windows 11 installation
 
 1. Open the Start Menu and in the Search Bar type “regedit”  
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![regedit](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/install-windows-unsupported-cpu/regedit-exe.png)
 2. In the Registry Editor navigate to**Computer\\HKEY\_LOCAL\_MACHINE\\SYSTEM\\Setup\\MoSetup**
 3. In the right pane, right-click and select**New -> DWORD (32-bit) Value** .  
 ![dword](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/install-windows-unsupported-cpu/dword.png)
 4. Name the value “**AllowUpgradesWithUnsupportedTPMOrCPU** ” (don’t include the quotes).
 5. Double-click on the newly created value and enter 1 in the**Value data** filed.  
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dword value](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/install-windows-unsupported-cpu/edit-dword-value.jpg)
 6. Click**OK** and close the registry editor.
+
+<!-- affiliate ads begin -->
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### The final step is the following
 
@@ -75,16 +83,24 @@ thumbnail: https://thmb.techidaily.com/2e9cfa327b9759eb425968540a827a94cde4fe4ea
 2. Double-click the setup file to begin the Windows 11 installation.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Summary
 
  If you’ve followed all the steps, you should see a warning message that your CPU is not “the perfect match” for Windows 11, but you will be allowed to install it on your PC. **Just keep in mind that Microsoft reserves the right to stop your security updates if you decide to use this method** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## We can help you every time when…
 
@@ -101,8 +117,6 @@ thumbnail: https://thmb.techidaily.com/2e9cfa327b9759eb425968540a827a94cde4fe4ea
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -110,4 +124,18 @@ thumbnail: https://thmb.techidaily.com/2e9cfa327b9759eb425968540a827a94cde4fe4ea
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-how-do-i-access-the-full-range-of-shared-media-on-messenger/"><u>[New] How Do I Access the Full Range of Shared Media on Messenger?</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-downloading-fb-videos-made-easy-our-top-5-selection/"><u>[New] In 2024, Downloading FB Videos Made Easy Our Top 5 Selection</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-enhance-youtube-livestreams-webcam-selection-mastery-for-2024/"><u>[Updated] Enhance YouTube Livestreams Webcam Selection Mastery for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/explore-popular-networking-sites-the-powerhouse-trio-facebook-twitter-instagram-with-a-focus-on-video-sharing-at-youtube/"><u>Explore Popular Networking Sites: The Powerhouse Trio - Facebook, Twitter, Instagram with a Focus on Video Sharing at YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-giants-of-social-networks-a-deep-dive-into-facebook-twitter-instagram-and-youtube/"><u>Exploring Giants of Social Networks: A Deep Dive Into Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-the-digital-landscape-of-facebook-twitter-instagram-and-youtube/"><u>Exploring the Digital Landscape of Facebook, Twitter, Instagram, and Youtube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-the-dominance-of-facebook-twitter-instagram-and-youtube-in-todays-online-landscape/"><u>Exploring the Dominance of Facebook, Twitter, Instagram & Youtube in Today's Online Landscape</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/fps-feudalists-unearthing-the-top-7-war-games/"><u>FPS Feudalists – Unearthing the Top 7 War Games</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-accelerate-your-tunes-top-phone-apps-reviewed/"><u>In 2024, Accelerate Your Tunes Top Phone Apps Reviewed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-the-art-of-multifunctional-desktop-tools-a-guide-to-efficient-media-file-management/"><u>Mastering the Art of Multifunctional Desktop Tools: A Guide to Efficient Media File Management</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-zero-noise-videos-how-to-extract-audio-free-mp4mkvavimov-files/"><u>New Zero-Noise Videos How to Extract Audio-Free MP4/MKV/AVI/MOV Files</u></a></li>
+</ul></div>
 

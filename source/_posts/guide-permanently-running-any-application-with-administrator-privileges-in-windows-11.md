@@ -1,7 +1,7 @@
 ---
 title: "Guide: Permanently Running Any Application with Administrator Privileges in Windows 11"
-date: 2024-08-12T04:52:41.707Z
-updated: 2024-08-13T04:52:41.707Z
+date: 2024-10-19T00:19:42.302Z
+updated: 2024-10-24T10:23:01.250Z
 tags:
   - win11
   - win10
@@ -35,43 +35,54 @@ thumbnail: https://thmb.techidaily.com/fc6a682db0e3d4f0e7a82dcc086d1d5b243871658
  To check if any of your hardware devices has issues you need to check the Device Manager. In order to open the Device Manager you need to open the Windows Start Menu and in the search bar type “Device Manager”. If there are devices with issues they will appear under the respective category, marked with an exclamation mark warning sign.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How to update Windows 10 drivers?
 
 1. ### Via Windows Update  
 
    1. Press Win Button + I and click**Updates & Security** .  
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
    ![update and security](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/update-windows-10-device-drivers/method-1-step-1-update-and-security.png)  
    2. Click on**Windows Updates** . Your PC should automatically check for updates.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
    ![check for updates](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/update-windows-10-device-drivers/method-1-step-2-check-for-updates.png)  
  The more significant hardware companies are partners with Microsoft, so they release driver updates regularly via the Windows Update.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 2. ### Use the Device Manager  
 
    1. Open the Windows Start Menu and in the search bar type “Device Manager”  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
    ![device manager](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/update-windows-10-device-drivers/method-2-step-1-device-manager.png)  
    2. You will see the list of all your hardware components.  
    3. Right-click on the component you want to check for driver updates and click on**Update driver** .  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
    ![update driver](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/update-windows-10-device-drivers/method-2-step-3-update-driver.png)  
    4. You will be presented with two choices. You can select the first one if you want the system to automatically search for a driver. The second is for when you already downloaded a driver and so you will have to point to its location.  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
    ![update drivers](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/update-windows-10-device-drivers/method-2-step-4-update-choices.png)  
    5. If a driver update is available, the wizard will automatically install it, if not, your driver is already up to date.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3. ### Update your drivers through the manufacturers website  
 
@@ -95,9 +106,6 @@ thumbnail: https://thmb.techidaily.com/fc6a682db0e3d4f0e7a82dcc086d1d5b243871658
    ![troubleshoot compatibility](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/update-windows-10-device-drivers/method-4-step-1-troubleshoot.png)  
    3. The Program Compatibility Troubleshooter will look for any problems.  
    4. Click on**Troubleshoot program** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
    ![program compatibility troubleshoot](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/update-windows-10-device-drivers/method-4-step-2-compatability-troubleshooter.png)  
    5. Select which is the problem with the program. If the driver worked as intended, select the first option and click**Next** .  
    ![program compatibility troubleshoot](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/update-windows-10-device-drivers/method-4-step-3-compatability-troubleshooter-2.png)  
@@ -106,6 +114,13 @@ thumbnail: https://thmb.techidaily.com/fc6a682db0e3d4f0e7a82dcc086d1d5b243871658
    7. Click on Test the program and hit**Next** again.  
    ![test the program](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/update-windows-10-device-drivers/method-4-step-5-compatability-troubleshooter-4.png)  
    8. Follow the instructions to install the drivers as you usually do.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 5. ### Via BIOS  
 
@@ -118,13 +133,18 @@ thumbnail: https://thmb.techidaily.com/fc6a682db0e3d4f0e7a82dcc086d1d5b243871658
    6. Click**Advanced** options and select**UEFI Firmware Settings** .  
    ![UEFI Firmware Settings](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/update-windows-10-device-drivers/method-5-step-2-uefi-firmware-settings.png)  
    7. Finally, select**Restart** and use the menus to update the BIOS / UEFI.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Understanding what BIOS is can feel like an overwhelming task.. We’ve created a separate article where we cover the topic[what is BIOS](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1)
 
  These are the different ways to update your drivers in Windows 10\. Of course, you can always use any method that seems most accessible, but all of them are guaranteed to work.
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
 
 ## We can help you every time when…
@@ -142,8 +162,6 @@ thumbnail: https://thmb.techidaily.com/fc6a682db0e3d4f0e7a82dcc086d1d5b243871658
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -151,4 +169,18 @@ thumbnail: https://thmb.techidaily.com/fc6a682db0e3d4f0e7a82dcc086d1d5b243871658
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-how-to-view-instagram-stories-anonymously-on-pc-android-and-iphone/"><u>[Updated] 2024 Approved How to View Instagram Stories Anonymously on PC, Android, and iPhone</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-xiaomi-13t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Xiaomi 13T | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-watch-hulu-outside-us-on-nokia-c300-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Nokia C300 | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-lava-yuva-2-pro-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Lava Yuva 2 Pro FRP In 3 Different Ways</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/iphones-ultimate-video-capture-list/"><u>IPhone's Ultimate Video Capture List</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/premium-after-effects-text-enhancements/"><u>Premium After Effects Text Enhancements</u></a></li>
+<li><a href="https://win-forum.techidaily.com/social-media-titans-unveiled-a-deep-dive-into-facebook-twitter-instagram-and-youtube/"><u>Social Media Titans Unveiled: A Deep Dive Into Facebook, Twitter, Instagram and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/social-media-titans-facebook-twitter-instagram-and-youtube/"><u>Social Media Titans: Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-clearing-the-dns-cache-on-windows-10-and-11-devices/"><u>Step-by-Step Guide: Clearing the DNS Cache on Windows 10 & 11 Devices</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-freeing-up-disk-usage-thats-reaching-100-on-windows-tenth/"><u>Step-by-Step Guide: Freeing Up Disk Usage That's Reaching 100% on Windows Tenth</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-techniques-for-embedding-images-into-music-tracks/"><u>Updated Techniques for Embedding Images Into Music Tracks</u></a></li>
+</ul></div>
 

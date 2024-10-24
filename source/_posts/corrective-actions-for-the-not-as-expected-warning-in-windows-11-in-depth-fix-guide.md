@@ -1,7 +1,7 @@
 ---
 title: "Corrective Actions for the Not as Expected Warning in Windows 11: In-Depth Fix Guide"
-date: 2024-08-12T04:51:02.868Z
-updated: 2024-08-13T04:51:02.868Z
+date: 2024-10-17T01:49:25.941Z
+updated: 2024-10-24T10:56:27.098Z
 tags:
   - win11
   - win10
@@ -36,8 +36,12 @@ Here are the methods you can use to speed up your Windows 11 boot time:
 6. [Adjust BIOS settings](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1)
 
 <!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## I. Disable startup programs in Windows 11
 
  Windows 11 comes with several programs that start automatically with the operating system. While some of these programs may be useful, others can slow down your computer’s startup and take up valuable resources. Disabling unnecessary startup programs can help speed up your Windows 11 boot time. This is how you can disable them:
@@ -47,11 +51,31 @@ Here are the methods you can use to speed up your Windows 11 boot time:
 ![startup tab](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/speed-up-windows-11-boot-time/disable-startup-programs-in-windows-11-step-2.jpg)
 3. Finally, toggle the switch next to the apps you don’t want to run at startup. Under the toggle switch, you’ll see the status impact of each, which indicates what disabling them does to your system.
 
+<!-- affiliate ads begin -->
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## II. Remove unnecessary files and programs
 
  Over time, your computer may become cluttered with unnecessary files and programs that can slow down your computer’s startup time. By removing these files and programs, you can speed up your Windows 11 boot time and improve your overall computer performance.
 
  We’ve covered in this[article](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1) how you can remove unnecessary files and programs with Revo Uninstaller and many other methods.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## III. Enable Fast Startup
 
@@ -62,9 +86,6 @@ Here is how you can turn Fast Starup On:
 1. Press**Win + R** to open**Run** .
 2. Type`control` and click**OK** to open the Control Panel.
 3. Go to**System and Security** and then click on**Power Options** .  
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![startup options](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/speed-up-windows-11-boot-time/enable-fast-startup-step-2.png)
 4. In the left pane, click on**Choose what the power buttons do** .
 5. Next, click the**Change settings that are currently unavailable** link.
@@ -73,9 +94,6 @@ Here is how you can turn Fast Starup On:
 ![fast startup](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/speed-up-windows-11-boot-time/enable-fast-startup-step-5.jpg)
 8. Click**Save changes** to apply the changes.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ## IV. Defragment your hard drive
 
  If you are experiencing slow boot times on your Windows 11 computer, one possible cause could be a fragmented hard drive.
@@ -85,21 +103,22 @@ Here is how you can turn Fast Starup On:
 1. Press the Windows key + S to open the search bar.
 2. Type in “Defragment and Optimize Drives” and select it from the search results.
 3. Select the hard drive you want to defragment.  
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![defragment hard drive](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/speed-up-windows-11-boot-time/defragment-your-hard-drive-step-3.png)
 4. Click on the Optimize button.
 5. Wait for the defragmentation process to complete.
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## V. Use an SSD
 
  If you have a modern PC running Windows 11, chances are that it uses an SSD (Solid State Drive), which is faster than a traditional hard disk drive. However, if you’re experiencing slow boot times, upgrading to a new SSD can help improve your boot time.
 
  In addition to upgrading your SSD, another way to speed up your PC’s boot time is to upgrade your RAM. With more RAM, your PC will have more volatile memory available to load temporary items, resulting in faster boot times and an overall improvement in your PC’s performance.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## VI. Adjust BIOS settings for faster Windows 11 boot time
 
@@ -113,9 +132,6 @@ Here is how you can turn Fast Starup On:
 
  In conclusion, these are some tips on how to speed up your Windows 11 boot time. By following these steps, you can optimize your computer’s performance and reduce the time it takes to start up.
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
 
 ## We can help you every time when…
@@ -133,8 +149,6 @@ Here is how you can turn Fast Starup On:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -142,4 +156,18 @@ Here is how you can turn Fast Starup On:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-pushing-boundaries-the-innovations-of-magix-vpx/"><u>[New] In 2024, Pushing Boundaries The Innovations of Magix VPX</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-embedded-recorder-usage-in-huaweis-mate-series-and-the-p-lineup/"><u>[Updated] 2024 Approved Embedded Recorder Usage in Huawei's Mate Series and the P Lineup</u></a></li>
+<li><a href="https://win-forum.techidaily.com/activate-your-revoappmanager-a-comprehensive-walkthrough-using-revouninstaller/"><u>Activate Your RevoAppManager - A Comprehensive Walkthrough Using RevoUninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/boost-your-pcs-security-a-focus-on-five-tactics-for-windows-protection/"><u>Boost Your PC's Security: A Focus on Five Tactics for Windows Protection</u></a></li>
+<li><a href="https://win-forum.techidaily.com/clearing-storage-on-your-pc-a-step-by-step-guide-to-reclaim-disk-space-in-windows-11/"><u>Clearing Storage on Your PC: A Step-by-Step Guide to Reclaim Disk Space in Windows 11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/clearing-up-space-and-speed-boost-a-users-manual-for-eliminating-extensions-in-windows-11-browsers/"><u>Clearing Up Space & Speed Boost: A User’s Manual for Eliminating Extensions in Windows 11 Browsers</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-itel-a60s-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Itel A60s | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-vivo-v30-lite-5g-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Vivo V30 Lite 5G Phone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/revealing-the-12-paths-fixing-non-appearing-fb-video-posts-now-for-2024/"><u>Revealing The 12 Paths Fixing Non-Appearing FB Video Posts, Now for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-6-ways-to-transfer-text-messages-from-nubia-red-magic-8s-pro-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 6 Ways to Transfer Text Messages from Nubia Red Magic 8S Pro to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1725290399788-winxvideo-ai/"><u>Winxvideo AIを利用して、画質の向上とキャリブレーション：徹底ガイド</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Tutorial on Eliminating Unnecessary Programs in Windows 11
-date: 2024-08-12T04:48:56.292Z
-updated: 2024-08-13T04:48:56.292Z
+date: 2024-10-19T10:16:16.020Z
+updated: 2024-10-24T00:08:41.052Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/81859b9b9a2b43ef1619da21603d5597234e71b31
 
 ## Harnessing Connections: Mastering Facebook, Twitter, Instagram and Youtube for Success
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## [How to delete files and folders with Command Prompt in Windows 10](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1)
 
 * Share
@@ -33,9 +30,6 @@ thumbnail: https://thmb.techidaily.com/81859b9b9a2b43ef1619da21603d5597234e71b31
 * How to delete folders on Windows 10 with CMD
 * Force Uninstall
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Deleting files on Windows 10 with command prompt
 
  The built-in del command can help you delete files on Windows 10\. You have to point out the specific path to this file on your PC.
@@ -64,6 +58,13 @@ You can also add the /f parameter to force delete a read-only file.
 
  You can also use Revo Uninstallers’[force uninstall feature](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1) if you have trouble removing stubborn programs.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## To delete folders in Windows 10 with CMD you have to use the rmdir command
 
  This command will remove all folders including the subfolders and files in them.
@@ -73,12 +74,21 @@ To use this command do the following:
 1. Open the Start Menu and in the search bar type “cmd”. Right-click on the result and select “Run as Administrator”
 2. Type in the field the following command where PATH will be replaced with the full path to the file you want to delete.  
 **`rmdir PATH`**  
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ![remove folder with command prompt](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/delete-with-command-prompt/Method2-step2.png)
 3. Press**Enter** to finish the process
+
+<!-- affiliate ads begin -->
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  For example, to delete a folder named “Info” on your desktop, use the following command where you will replace username with your own username:
 
@@ -88,21 +98,26 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
  If you want to delete all the files and subfolders in the folder you want to delete, add the /s parameter. This will ensure that the folder is removed including the subfolders and files in it.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ## Conclusion
 
  As you’ve noticed, commands to delete files and folders in Windows 10 can be pretty handy if you have trouble deleting them the regular way.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## We can help you every time when…
 
 * you cannot find the program in the Apps & Features list
@@ -118,8 +133,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -127,4 +140,22 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-evaluating-video-space-on-a-64gb-card/"><u>[New] Evaluating Video Space on a 64GB Card</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-the-yearly-revelation-of-cost-effective-editing-apps/"><u>[New] In 2024, The Yearly Revelation of Cost-Effective Editing Apps</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-art-and-science-of-capturing-stunning-gopro-time-lapse/"><u>[New] The Art & Science of Capturing Stunning GoPro Time Lapse</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-prime-online-collections-for-3d-typography/"><u>2024 Approved Prime Online Collections for 3D Typography</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Vivo Y100i Power 5G | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-about-infinix-hot-40-frp-bypass-by-drfone-android/"><u>In 2024, About Infinix Hot 40 FRP Bypass</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-remedies-effective-ways-to-stop-logitech-g930-mic-from-going-offline/"><u>Quick Remedies: Effective Ways to Stop Logitech G930 Mic From Going Offline</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-quintessential-quadruplet-of-social-sites-facebook-twitter-instagram-and-youtube/"><u>The Quintessential Quadruplet of Social Sites: Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-top-four-social-media-networks-facebook-twitter-instagram-and-youtube/"><u>The Top Four Social Media Networks: Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-four-platforms-in-social-networking-facebook-twitter-instagram-and-youtube/"><u>Top Four Platforms in Social Networking - Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-four-platforms-connecting-on-facebook-twitter-instagram-and-youtube/"><u>Top Four Platforms: Connecting on Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-four-platforms-navigating-facebook-twitter-instagram-and-youtube/"><u>Top Four Platforms: Navigating Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-social-media-platforms-facebook-twitter-instagram-and-youtube/"><u>Top Social Media Platforms: Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/troubleshooting-100-disk-occupancy-problems-under-windows-11-proven-methods-and-tips/"><u>Troubleshooting 100% Disk Occupancy Problems Under Windows 11 - Proven Methods and Tips</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/ultimate-tutorial-step-by-step-process-to-sync-your-whatsapp-messages-with-google-drive-on-ios-devices/"><u>Ultimate Tutorial: Step-by-Step Process to Sync Your WhatsApp Messages with Google Drive on iOS Devices</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Confirming Your Windows 11 PowerShell Version with Ease - A Comprehensive Tutorial
-date: 2024-08-12T04:53:46.009Z
-updated: 2024-08-13T04:53:46.009Z
+date: 2024-10-17T05:41:22.811Z
+updated: 2024-10-23T20:48:09.503Z
 tags:
   - win11
   - win10
@@ -39,9 +39,6 @@ thumbnail: https://thmb.techidaily.com/a208b6b47f62fc53f6719bf37fb44710d3bca87f0
 1. ### Via Windows Update  
 
    1. Press Win Button + I and click**Updates & Security** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
    ![update and security](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/update-windows-10-device-drivers/method-1-step-1-update-and-security.png)  
    2. Click on**Windows Updates** . Your PC should automatically check for updates.  
    ![check for updates](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/update-windows-10-device-drivers/method-1-step-2-check-for-updates.png)  
@@ -50,20 +47,36 @@ thumbnail: https://thmb.techidaily.com/a208b6b47f62fc53f6719bf37fb44710d3bca87f0
 2. ### Use the Device Manager  
 
    1. Open the Windows Start Menu and in the search bar type “Device Manager”  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
    ![device manager](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/update-windows-10-device-drivers/method-2-step-1-device-manager.png)  
    2. You will see the list of all your hardware components.  
-   3. Right-click on the component you want to check for driver updates and click on**Update driver** .  
+
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+   3. Right-click on the component you want to check for driver updates and click on**Update driver** .  
    ![update driver](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/update-windows-10-device-drivers/method-2-step-3-update-driver.png)  
    4. You will be presented with two choices. You can select the first one if you want the system to automatically search for a driver. The second is for when you already downloaded a driver and so you will have to point to its location.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
    ![update drivers](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/update-windows-10-device-drivers/method-2-step-4-update-choices.png)  
    5. If a driver update is available, the wizard will automatically install it, if not, your driver is already up to date.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3. ### Update your drivers through the manufacturers website  
 
@@ -84,9 +97,6 @@ thumbnail: https://thmb.techidaily.com/a208b6b47f62fc53f6719bf37fb44710d3bca87f0
 
    1. Locate where the installation files of your drivers are.  
    2. Right-click on the drivers setup file and select Troubleshoot compatibility.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
    ![troubleshoot compatibility](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/update-windows-10-device-drivers/method-4-step-1-troubleshoot.png)  
    3. The Program Compatibility Troubleshooter will look for any problems.  
    4. Click on**Troubleshoot program** .  
@@ -96,18 +106,14 @@ thumbnail: https://thmb.techidaily.com/a208b6b47f62fc53f6719bf37fb44710d3bca87f0
    6. Choose the Windows version where the driver worked fine, and click**Next** .  
    ![program compatibility troubleshoot](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/update-windows-10-device-drivers/method-4-step-4-compatability-troubleshooter-3.png)  
    7. Click on Test the program and hit**Next** again.  
+
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
    ![test the program](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/update-windows-10-device-drivers/method-4-step-5-compatability-troubleshooter-4.png)  
    8. Follow the instructions to install the drivers as you usually do.
 
@@ -118,25 +124,38 @@ thumbnail: https://thmb.techidaily.com/a208b6b47f62fc53f6719bf37fb44710d3bca87f0
    3. The next step is to insert the USB stick into the system.  
    4. To activate the booting sequence, press and hold the power button a few times.  
    5. Choose**Troubleshoot** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
    ![BIOS troubleshoot](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/update-windows-10-device-drivers/method-5-step-1-bios.png)  
    6. Click**Advanced** options and select**UEFI Firmware Settings** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
    ![UEFI Firmware Settings](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/update-windows-10-device-drivers/method-5-step-2-uefi-firmware-settings.png)  
    7. Finally, select**Restart** and use the menus to update the BIOS / UEFI.  
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Understanding what BIOS is can feel like an overwhelming task.. We’ve created a separate article where we cover the topic[what is BIOS](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1)
 
  These are the different ways to update your drivers in Windows 10\. Of course, you can always use any method that seems most accessible, but all of them are guaranteed to work.
 
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ## We can help you every time when…
 
 * you cannot find the program in the Apps & Features list
@@ -152,8 +171,6 @@ thumbnail: https://thmb.techidaily.com/a208b6b47f62fc53f6719bf37fb44710d3bca87f0
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -161,4 +178,24 @@ thumbnail: https://thmb.techidaily.com/a208b6b47f62fc53f6719bf37fb44710d3bca87f0
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-the-top-10-lifters-drones-that-move-mountains/"><u>[New] 2024 Approved The Top 10 Lifters Drones That Move Mountains</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-strategies-for-improved-zoom-visuals-via-filters/"><u>[Updated] 2024 Approved Strategies for Improved Zoom Visuals via Filters</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-detailed-guide-taking-full-screen-photos-with-android/"><u>[Updated] Detailed Guide Taking Full-Screen Photos with Android</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/are-data-duplication-and-raid-mirroring-equivalent-techniques/"><u>Are Data Duplication and RAID Mirroring Equivalent Techniques?</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/bypass-copy-protection-on-lionsgate-dvds-and-more-expert-solutions-revealed/"><u>Bypass Copy Protection on Lionsgate DVDs & More – Expert Solutions Revealed!</u></a></li>
+<li><a href="https://win-forum.techidaily.com/comprehensive-guide-using-revo-uninstaller-pro-for-a-fresh-start-on-your-windows-11-pc/"><u>Comprehensive Guide: Using Revo Uninstaller Pro for a Fresh Start on Your Windows 11 PC</u></a></li>
+<li><a href="https://win-forum.techidaily.com/connecting-the-world-an-overview-of-top-platforms-facebook-twitter-instagram-and-youtube/"><u>Connecting the World: An Overview of Top Platforms - Facebook, Twitter, Instagram & Youtube</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/elevate-web-traffic-with-cookiebot-seo-solutions/"><u>Elevate Web Traffic with Cookiebot SEO Solutions</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-major-social-media-platforms-facebook-twitter-instagram-and-youtube/"><u>Exploring Major Social Media Platforms: Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-online-communities-across-facebook-twitter-instagram-and-youtube-platforms/"><u>Exploring Online Communities Across Facebook, Twitter, Instagram & YouTube Platforms</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/facebook-featured-best-10-music-clips-today-for-2024/"><u>Facebook Featured Best 10 Music Clips Today for 2024</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-samsung-galaxy-a14-5g-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Samsung Galaxy A14 5G | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-big-four-understanding-facebook-twitter-instagram-and-youtube/"><u>Navigating the Big Four: Understanding Facebook, Twitter, Instagram & Youtube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-worlds-most-influential-social-sites-a-closer-look-at-facebook-twitter-instagram-and-youtube/"><u>Navigating the World's Most Influential Social Sites: A Closer Look at Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-10-free-video-orientation-changers-to-fix-your-footage/"><u>New In 2024, 10 Free Video Orientation Changers to Fix Your Footage</u></a></li>
+<li><a href="https://win-forum.techidaily.com/troubleshooting-class-not-registration-problems-on-windows-systems/"><u>Troubleshooting 'Class Not Registration' Problems on Windows Systems</u></a></li>
+<li><a href="https://win-forum.techidaily.com/troubleshooting-tips-how-to-rollback-windows-11-updates/"><u>Troubleshooting Tips: How To Rollback Windows 11 Updates</u></a></li>
+</ul></div>
 

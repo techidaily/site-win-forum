@@ -1,7 +1,7 @@
 ---
 title: Master the Art of Force Quitting Stubborn Windows Software Instantly!
-date: 2024-08-12T04:49:01.179Z
-updated: 2024-08-13T04:49:01.179Z
+date: 2024-10-23T06:57:04.493Z
+updated: 2024-10-24T00:37:07.416Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/93cb6ac8ec609718de42842a42295e1ee84908cc0
 
 ## Resolve Persistent Windows Explorer Freezing with These 7 Tips
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ## [7 Fixes If Windows Explorer Keeps Crashing](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1)
 
 * Share
@@ -29,9 +26,6 @@ thumbnail: https://thmb.techidaily.com/93cb6ac8ec609718de42842a42295e1ee84908cc0
 
  File Explorer( also known as Windows Explorer) is the default file manager in Windows, but it is so much more. The explorer.exe process is responsible for generating part of your user interface – Start Menu, Desktop icons, and more. If your Windows Explorer keeps crashing your experience using your PC will be awful.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## If you are not aware of the reasoning why your Windows Explorer is crashing, try these methods to solve your problem
 
 * [Method 1: Clear Windows Explorer History](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1)
@@ -43,8 +37,12 @@ thumbnail: https://thmb.techidaily.com/93cb6ac8ec609718de42842a42295e1ee84908cc0
 * [Method 7: Check Windows Error Logs](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Method 1: Clear Windows Explorer History
 
  It is not very common for Windows users to clear their Windows Explorer history. Using Windows Explorer for long periods of time can accumulate a lot of files which can cause the utility to crash.
@@ -55,24 +53,30 @@ To clear your Windows Explorer history do the following:
 2. Click on “**File Explorer Options** ” and navigate to the**General** tab  
 ![file explorer options](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-windows-explorer/Method1-step2.png)
 3. Locate the**Privacy** section and click the “**Clear** ” button  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Clear option](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-windows-explorer/Method1-step3.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 2: Run System File Checker
 
  If your File Explorer keeps crashing there is a chance that a file is corrupted or missing. To check if this is the issue and repair the file you will have to perform a system check with the System File Checker tool. You will have to use the Windows PowerShell and to open it do the following:
 
 1. Right-click on the Start Menu and click Windows PowerShell (Admin)  
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Windows PowerShell](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-windows-explorer/Method2-step1.png)
 2. When the PowerShell windows opens type`sfc /scannow` and press Enter  
+
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![scannow command](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-windows-explorer/Method2-step2.png)
 
  By performing this the SFC tool will scan your computer for file errors. If it detects errors Windows will repair and replace the files, which should fix your File Explorer crashing issues.
@@ -85,9 +89,6 @@ To check for new system updates:
 
 1. 1\. Right-click on the**Start Menu** and press**Settings**
 2. Navigate to**Update&Security** and click on**Windows Updates**  
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![update and security](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-windows-explorer/Method3-step2.png)
 3. If you see that there are many pending updates press**Install now** . If there aren’t any you can manually check for new updates by pressing Check for updates  
 ![windows update](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-windows-explorer/Method3-step3.jpg)
@@ -110,6 +111,13 @@ You will ask – but what are 3rd-party Explorer extensions?
 2. When you install it run the app to scan for extensions. To ensure that only 3rd-party extensions are being scanned go to**Options->Hide All Microsoft Extensions**
 3. Select all the extensions after the scan is complete, right-click and press**Disable Selected items**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 5: Separate File Explorer Processes
 
  File Explorer runs as a single process on your PC. Every time you open a new Windows File Explorer window is placed in a single system process. If your PC is slower it can cause some stability issues and in rare cases, File Explorer crashes.
@@ -120,11 +128,14 @@ To fix the issue do the following:
 ![change folder and search options](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-windows-explorer/Method5-step1.png)
 2. In the Folder Options windows navigate to the**View** tab
 3. In the Advanced settings windows check the “**Launch windows in a separate process** ” checkbox  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ![launch windows in separate process](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-windows-explorer/Method5-step2.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Click OK to save and apply the settings.
 
@@ -141,14 +152,16 @@ You can perform a malware scan with Windows Security:
 2. Type`windowsdefender` and press**OK**  
 ![windowsdefender command](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-windows-explorer/Method6-step2.png)
 3. In the Windows Security windows press**Virus & threat protection** , and press **Scan options**  
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 **![virus and threat protection](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-windows-explorer/Method6-step3.png)**
 4. Select Microsoft Defender Offline scan and press**Scan Now**  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![scan now](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-windows-explorer/Method6-step4.png)
 
  After this Windows will reboot and begin the scan for malware on your PC. If malware is being detected Windows security will try to remove it or quarantine it. This should fix your stability issues and make your PC safe to use again.
@@ -164,29 +177,35 @@ To do this follow the instructions below:
 1. Right-click the**Start Menu** and select**Run**  
 ![run](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-windows-explorer/Method7-step1.png)
 2. In the Run box type`eventvwr` and press**OK** . This will launch the Event Viewer  
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![even view command](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-windows-explorer/Method7-step2.png)
 3. In the “**Event View** ” click on**Windows Logs -> Application** in the left-hand menu  
 ![windows logs](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-windows-explorer/Method7-step3.png)
 4. In the Application panel on the right, search for Event IDs with the value 1000\. Event ID 1000 usually points to an error with the Windows Explorer process  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![event properties](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-windows-explorer/Method7-step4.png)
 5. If you find such errors, select it and check the General tab information. This will give you a bit of information on what the issue is and with further investigation and troubleshooting you will be able to fix it
 
  For example, if a third-party app is the reason behind the Windows Explorer crash, it will be listed here and you will be able to remove it to solve the problem.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
  Hopefully, the above methods managed to help you fix your File Explorer crashes. If the issue persists you will probably have to turn to a specialist or reinstall your Windows OS.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## We can help you every time when…
 
@@ -203,8 +222,6 @@ To do this follow the instructions below:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -212,4 +229,26 @@ To do this follow the instructions below:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-what-if-my-videos-removed-immediately-due-to-copyright/"><u>[Updated] 2024 Approved What If My Videos Removed Immediately Due to Copyright?</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-livestran-vs-screen-capture-titans-battle-of-software-giants-obs-and-bandicam/"><u>2024 Approved Livestran vs Screen Capture Titans Battle of Software Giants, OBS & Bandicam</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-mastering-adventures-with-the-foremost-6-gopro-mounts-revealed/"><u>2024 Approved Mastering Adventures with the Foremost 6 GoPro Mounts Revealed</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/best-av1-encoders-top-5-tools-to-convert-av1-files-into-mp4-h265-and-others/"><u>Best AV1 Encoders: Top 5 Tools to Convert AV1 Files Into MP4, H.265 & Others</u></a></li>
+<li><a href="https://win-community.techidaily.com/boost-your-pcs-performance-mastering-the-hidden-feature-in-windows-11-to-quickly-terminate-lagging-programs-insights-from-zdnet/"><u>Boost Your PC's Performance: Mastering the Hidden Feature in Windows 11 to Quickly Terminate Lagging Programs - Insights From ZDNet</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-address-and-resolve-a-class-not-registered-problem-in-windows/"><u>How to Address and Resolve a 'Class Not Registered' Problem in Windows</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-force-delete-a-folder-windows-10-and-11-revouninstaller/"><u>How to Force Delete a Folder - Windows 10 & 11 - RevoUninstaller</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-create-memes-with-kapwing-magic-tool/"><u>In 2024, Create Memes with Kapwing Magic Tool</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-transform-your-mac-display-utilizing-picture-in-picture-multimedia-features/"><u>In 2024, Transform Your Mac Display Utilizing Picture in Picture Multimedia Features</u></a></li>
+<li><a href="https://win-forum.techidaily.com/installing-windows-11-on-incompatible-cpus-a-step-by-step-solution-with-revouninstaller/"><u>Installing Windows 11 on Incompatible CPUs: A Step-by-Step Solution with Revouninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/master-the-art-of-fixing-constant-windows-explorer-crashes-with-our-expert-recommended-top-7-techniques-including-revouninstaller-aid/"><u>Master the Art of Fixing Constant Windows Explorer Crashes with Our Expert-Recommended Top #7 Techniques Including RevoUninstaller Aid</u></a></li>
+<li><a href="https://win-forum.techidaily.com/master-your-windows-privacy-easy-ways-to-securely-log-offoff/"><u>Master Your Windows Privacy: Easy Ways to Securely Log Off/Off</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-samsung-galaxy-a54-5g-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Samsung Galaxy A54 5G Device</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-online-connections-with-major-sites-like-facebook-twitter-instagram-youtube/"><u>Mastering Online Connections with Major Sites Like Facebook, Twitter, Instagram, Youtube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-the-major-networks-connect-with-friends-and-followers-on-facebook-twitter-instagram-and-youtube/"><u>Mastering the Major Networks: Connect with Friends and Followers on Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-user-privileges-running-any-app-as-an-admin-on-your-windows-11-pc/"><u>Mastering User Privileges: Running Any App as an Admin on Your Windows 11 PC</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-major-networking-sites-a-look-at-facebook-twitter-instagram-and-youtube/"><u>Navigating Major Networking Sites: A Look at Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-new-to-cartoon-making-here-are-the-top-10-tools-to-get-you-started/"><u>Updated In 2024, New to Cartoon Making? Here Are the Top 10 Tools to Get You Started</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/windows-10-bluetooth-driver-issues-solved/"><u>Windows 10 Bluetooth Driver Issues [SOLVED]</u></a></li>
+</ul></div>
 

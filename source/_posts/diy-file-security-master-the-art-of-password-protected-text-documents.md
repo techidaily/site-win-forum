@@ -1,7 +1,7 @@
 ---
 title: "DIY File Security: Master the Art of Password-Protected Text Documents"
-date: 2024-08-12T04:51:45.189Z
-updated: 2024-08-13T04:51:45.189Z
+date: 2024-10-16T22:53:18.826Z
+updated: 2024-10-24T06:03:06.454Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/14b0662c78e5872a3461f2dbc1feb1f76e4bd1f28
 
 ## Master Social Media: Harnessing the Power of Facebook, Twitter, Instagram and Youtube
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## [How to remove system error memory dump files on Windows 10](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1)
 
 * Share
@@ -33,9 +30,6 @@ thumbnail: https://thmb.techidaily.com/14b0662c78e5872a3461f2dbc1feb1f76e4bd1f28
 
  In case you are running out of space on your PC(insert how to uninstall programs with Revo), or your problem is resolved, there are several methods that you can use to delete memory dump files on Windows 10
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Methods to delete memory dump files Windows 10
 
 * Delete system error dump files with Revo Uninstaller Pro
@@ -51,11 +45,16 @@ thumbnail: https://thmb.techidaily.com/14b0662c78e5872a3461f2dbc1feb1f76e4bd1f28
 2. Navigate to Tools  
 ![Tools](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/screens/tools.png)
 3. Click on History Cleaner  
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ![History Cleaner](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/screens/history-cleaner.png)
 4. Select Windows Cleaner
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Select “Delete crash memory dump files”
 6. Click Clear  
 ![Windows Cleaner](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/screens/windows-cleaner-delete-crash-memory-dump-files.png)
@@ -76,25 +75,49 @@ thumbnail: https://thmb.techidaily.com/14b0662c78e5872a3461f2dbc1feb1f76e4bd1f28
 1. Open the Start Menu and click PC Settings  
 ![PC settings](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/memory-dump-files/method-3-step1.png)
 2. Click on System  
+
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![System](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/memory-dump-files/method-3-step2.png)
 3. Click on Storage  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ![Storage](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/memory-dump-files/method-3-step3.jpg)
 4. In the Storage, section select Temporary Files  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![Temporary Files](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/memory-dump-files/method-3-step4.jpg)
 5. Check the System error memory dump file option
-6. Again optionally you can check the System error minidump files option  
+
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+6. Again optionally you can check the System error minidump files option  
 ![System error memory dump files](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/memory-dump-files/method-3-step5,6.png)
 7. Click the Remove files button
 
@@ -107,10 +130,21 @@ thumbnail: https://thmb.techidaily.com/14b0662c78e5872a3461f2dbc1feb1f76e4bd1f28
 `del /f /s /q %systemroot%\memory.dmp`
 4. To optionally delete the system error minidump files type this command and press Enter:  
 `del /f /s /q %systemroot%\Minidump\*.*`  
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![command prompt del command](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/memory-dump-files/method-4-command-prompt-step3,4.png)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Delete memory dump files from the File Location
 
@@ -120,33 +154,33 @@ thumbnail: https://thmb.techidaily.com/14b0662c78e5872a3461f2dbc1feb1f76e4bd1f28
 3. Click the System category  
 ![System](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/memory-dump-files/method-5-step3.png)
 4. Open the Advanced system settings  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![Advanced system settings](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/memory-dump-files/method-5-step4.png)
 5. Click the Settings button under Startup and Recovery  
+
 <!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![Startup and recovery](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/memory-dump-files/method-5-step5.png)
 6. Navigate to Write debugging information. Click on the drop-down menu and select a type of dump file. Now you can see where the files are stored.
 7. Copy the location of the dump file  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Write debugging information](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/memory-dump-files/method-5-step6.png)
 8. Open Run by pressing Win Key + R and paste the dump file location and hit Enter  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![Run command](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/memory-dump-files/method-5-step7.png)
 9. Select the MEMORY.dmp file and delete it permanently  
 ![memory.dmp file](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/memory-dump-files/method-5-step8.png)
 10. Restart your computer and the dump files will be removed
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Turn off Crash Dumps
 
 1. Open the Start Menu and in the search bar type Settings
@@ -178,8 +212,6 @@ thumbnail: https://thmb.techidaily.com/14b0662c78e5872a3461f2dbc1feb1f76e4bd1f28
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -187,4 +219,24 @@ thumbnail: https://thmb.techidaily.com/14b0662c78e5872a3461f2dbc1feb1f76e4bd1f28
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-dominate-the-scene-the-best-hashtag-tactics-for-youtube-gamers/"><u>[Updated] 2024 Approved Dominate the Scene The Best Hashtag Tactics for YouTube Gamers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-getting-started-with-itunes-podcasts-on-ios-devices/"><u>[Updated] Getting Started with iTunes Podcasts on iOS Devices</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-enriching-meta-descriptions-a-template-transformation-journey/"><u>[Updated] In 2024, Enriching Meta Descriptions A Template Transformation Journey</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-tailoring-your-content-for-split-screen-audiences-via-facebook-lives-for-2024/"><u>[Updated] Tailoring Your Content for Split Screen Audiences via Facebook Lives for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-video-expertise-elevated-streamline-your-edits-with-these-vimeo-shortening-techniques-for-2024/"><u>[Updated] Video Expertise Elevated Streamline Your Edits with These Vimeo Shortening Techniques for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/connect-with-the-worlds-largest-communities-mastering-facebook-twitter-instagram-youtube/"><u>Connect with the World's Largest Communities: Mastering Facebook | Twitter | Instagram | YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/connecting-and-sharing-in-todays-digital-age-through-facebook-twitter-instagram-and-youtube/"><u>Connecting and Sharing in Today's Digital Age Through Facebook, Twitter, Instagram & Youtube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/digital-engagement-powerhouses-unveiling-facebook-twitter-instagram-and-youtube/"><u>Digital Engagement Powerhouses: Unveiling Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/effective-ways-to-clean-up-memory-dump-data-in-windows-10/"><u>Effective Ways to Clean Up Memory Dump Data in Windows 10</u></a></li>
+<li><a href="https://win-forum.techidaily.com/enhance-your-windows-11-boot-speed-with-our-simple-strategies/"><u>Enhance Your Windows 11 Boot Speed with Our Simple Strategies</u></a></li>
+<li><a href="https://win-forum.techidaily.com/ensure-full-control-setting-up-universal-administrator-execution-in-windows-11-apps/"><u>Ensure Full Control: Setting Up Universal Administrator Execution in Windows 11 Apps</u></a></li>
+<li><a href="https://win-forum.techidaily.com/expert-tips-for-forced-deletion-of-resistant-folders-in-modern-windows-os-using-revo-uninstaller-tool/"><u>Expert Tips for Forced Deletion of Resistant Folders in Modern Windows OS Using Revo Uninstaller Tool</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/expert-tips-for-triggering-windows-11-startup-repair-effortlessly/"><u>Expert Tips for Triggering Windows 11 Startup Repair Effortlessly</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-global-connectivity-on-leading-networks-facebook-twitter-instagram-and-youtube-insights/"><u>Exploring Global Connectivity on Leading Networks: Facebook, Twitter, Instagram, and YouTube Insights</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Poco M6 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-oppo-k11x-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Oppo K11x | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/mp3vlc-simple-guide-for-converting-mp3-music-with-vlc/"><u>MP3音楽をVLCに変換する簡単ガイド - Simple Guide for Converting MP3 Music with VLC</u></a></li>
+</ul></div>
 

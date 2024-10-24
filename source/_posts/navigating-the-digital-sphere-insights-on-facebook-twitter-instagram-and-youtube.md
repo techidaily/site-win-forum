@@ -1,7 +1,7 @@
 ---
 title: "Navigating the Digital Sphere: Insights on Facebook, Twitter, Instagram & Youtube"
-date: 2024-08-12T04:48:57.275Z
-updated: 2024-08-13T04:48:57.275Z
+date: 2024-10-20T06:20:43.817Z
+updated: 2024-10-24T08:09:09.685Z
 tags:
   - win11
   - win10
@@ -30,14 +30,23 @@ thumbnail: https://thmb.techidaily.com/641461279d3ad9059bf4fdcda2c6b1609c3c8007c
 
  The term BIOS was first used by Gary Kildall in 1975\. The first BIOS was incorporated in IBMs’ first personal computer in 198\. In the years to come, it gained popularity within other PCs, becoming an integral part of computers for some time.Unfortunately BIOS’ popularity starts to decline in favor of a newer technology: Unified Extensible Firmware Interface (UEFI). Intel announced a plan in 2017 to retire support for legacy BIOS systems by 2020, replacing them with UEFI.
 
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## So what does a BIOS include?
 
  The BIOS includes instructions on how to load basic computer hardware. BIOS tests your system to verify the computer meets requirements to boot up properly. If the computer does not pass the test, you hear a combination of beeps indicating what is malfunctioning in the computer.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ## What are the four main functions of a PC BIOS?
 
 * **POST** – BIOS performs a test on your computer hardware and make sure no errors exist before loading the operating system.
@@ -46,8 +55,12 @@ DbSchema database designer for all databases, schema design in the team, schema 
 * **BIOS setup or CMOS setup** – Configuration program that allows you to configure hardware settings including system settings, such as date, time, and computer passwords.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How does BIOS work?
 
  Most computers come with included BIOS in them as firmware on the chip of your motherboard. BIOS is a program that is accessible by the microprocessor on an erasable programmable read-only memory (EPROM) chip. When you turn on your PC the microprocessor passes control to the BIOS.
@@ -55,8 +68,12 @@ DbSchema database designer for all databases, schema design in the team, schema 
  When you first start your computer BIOS checks if your system is operational. If everything is working on your system BIOS load the OS into the computer’s RAM (random access memory) from your hard disk.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Accessing BIOS
 
  You can access and configure BIOS through the BIOS Setup Utility. The way you can get access to BIOS varies and depends on the computer you are using. You can follow this general steps to get access to your BIOS:
@@ -73,23 +90,21 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
  Another unique exploit involving the manipulation of BIOS was Plundervolt. Plundervolt could be used to mess with a computer’s power supply at the time data was being written to memory, causing errors that lead to security gaps. Intel released a BIOS patch to defend against it.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Can a BIOS chip be upgraded or updated?
 
  Adding additional memory to a BIOS chip, as an upgrade, can only be done by replacing the existing BIOS chip with a new, more advanced BIOS chip.
 
  The data on a BIOS chip can be updated if it’s a flash BIOS. Using specially designed software, the BIOS can be updated to fix problems or add new features for the motherboard.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## We can help you every time when…
 
 * you cannot find the program in the Apps & Features list
@@ -105,8 +120,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -114,4 +127,26 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-capture-studio-ultimate-professional-record/"><u>[New] 2024 Approved Capture Studio Ultimate Professional Record</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-innovating-your-online-presence-expert-tips-for-video-enhancement-after-upload/"><u>[Updated] Innovating Your Online Presence Expert Tips for Video Enhancement After Upload</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-top-tips-for-effective-story-emoji-integration-on-instagram-for-2024/"><u>[Updated] Top Tips for Effective Story Emoji Integration on Instagram for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/arctic-athleticism-winter-olympics-spotlight-on-snowboard-cross-stars/"><u>Arctic Athleticism Winter Olympics Spotlight on Snowboard Cross Stars</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-methods-for-deleting-facebook-photographs-a-step-by-step-tutorial/"><u>Easy Methods for Deleting Facebook Photographs - A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-oneplus-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On OnePlus?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-can-we-unlock-our-samsung-galaxy-f14-5g-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Samsung Galaxy F14 5G Phone Screen?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/installing-the-most-recent-hp-officejet-pro-9015-driver-step-by-step-guide-and-download-links/"><u>Installing the Most Recent HP Officejet Pro 9015 Driver: Step-by-Step Guide & Download Links</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-samsung-galaxy-f54-5g-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Samsung Galaxy F54 5G Phone? Unlock It Now</u></a></li>
+<li><a href="https://win-forum.techidaily.com/troubleshooting-steps-for-when-your-pc-fails-to-upgrade-to-windows-11/"><u>Troubleshooting Steps for When Your PC Fails to Upgrade to Windows 11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/troubleshooting-tips-for-fixing-access-denied-errors-in-windows-systems/"><u>Troubleshooting Tips for Fixing Access Denied Errors in Windows Systems</u></a></li>
+<li><a href="https://win-forum.techidaily.com/troubleshooting-windows-11-not-working-errors-on-pcs/"><u>Troubleshooting Windows 11 Not Working Errors on PCs</u></a></li>
+<li><a href="https://win-forum.techidaily.com/understanding-social-networking-giants-insights-into-facebook-twitter-instagram-and-youtube-usage/"><u>Understanding Social Networking Giants: Insights Into Facebook, Twitter, Instagram, and YouTube Usage</u></a></li>
+<li><a href="https://win-forum.techidaily.com/understanding-the-role-of-bios-in-your-computer-system/"><u>Understanding the Role of BIOS in Your Computer System</u></a></li>
+<li><a href="https://win-forum.techidaily.com/uninstall-with-confidence-eliminating-user-setups-in-windows-amo/"><u>Uninstall With Confidence: Eliminating User Setups in Windows Amo</u></a></li>
+<li><a href="https://win-forum.techidaily.com/unlisted-software-removal-techniques-from-your-pc/"><u>Unlisted Software Removal Techniques From Your PC</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-your-disabled-apple-iphone-12-mini-without-itunes-in-5-ways-drfone-by-drfone-ios/"><u>Unlock Your Disabled Apple iPhone 12 mini Without iTunes in 5 Ways | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/unlocking-the-potential-of-your-network-with-wake-on-lan-on-windows-11-systems/"><u>Unlocking the Potential of Your Network with Wake-on-LAN on Windows 11 Systems</u></a></li>
+<li><a href="https://win-forum.techidaily.com/unveiling-the-mystery-of-the-windows-registry-with-revouninstaller-insights/"><u>Unveiling the Mystery of the Windows Registry with RevoUninstaller Insights</u></a></li>
+</ul></div>
 

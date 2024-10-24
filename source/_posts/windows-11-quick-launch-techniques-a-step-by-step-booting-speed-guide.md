@@ -1,7 +1,7 @@
 ---
 title: "Windows 11 Quick Launch Techniques: A Step-by-Step Booting Speed Guide"
-date: 2024-08-12T04:51:50.225Z
-updated: 2024-08-13T04:51:50.225Z
+date: 2024-10-18T11:03:58.406Z
+updated: 2024-10-23T17:12:31.739Z
 tags:
   - win11
   - win10
@@ -26,6 +26,13 @@ thumbnail: https://thmb.techidaily.com/95f65ec843e39dc81b80b6ffcbfef45d788958cee
 
  If your computer is slow and your Windows 10 Task Manager shows 100% disk usage, that means that there is an issue that is causing your hard drive to over-work. Read on to learn how you can fix the 100% disk usage in Windows 10.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What are the reasons behind 100% disk usage in Windows 10
 
  The easiest way to discover what is causing the 100% disk usage is to go to the Windows Task Manager. You will see which process is overloading your system and which issue you need to fix.
@@ -36,22 +43,12 @@ To open the Task Manager:
 2. Click on the Processes Tab
 3. Arrange the Disk column to show the processes with the highest disk usage.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ![task manager screen](<https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-disk-usage/Task> Manager.png)
 
  If there are items that are utilizing more than 1 to 2 MB per second is a concern. The performance of your system can be harmed even if there is slightly higher disk usage.
 
 ## Once you’ve checked your Task Manager and there are some issues, you can see how you can solve them below
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Method 1: Close applications that are running in the background
 
  If there are a lot of background applications that are running may cause 100% disk usage in Windows 10\. You can[uninstall](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1) some of the ones that you are not using, but most of the time you can stop them from running.
@@ -64,9 +61,6 @@ No advertising on the website.
 
  This will force stop the software or the process that is causing the 100% disk usage and should improve the performance of your system.
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 2: Update Windows 10
 
  Updating your Windows 10 to its latest version can many times solve problems of unknown nature. You can check if your Windows is up to date by:
@@ -74,53 +68,62 @@ No advertising on the website.
 1. Go to PC Settings  
 ![pc settings](<https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-disk-usage/method-2-step-1-PC> settings.png)
 2. Click on “Update & Security settings”  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![Update & Security settings](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-disk-usage/method-2-step2-UpdateandSecurity.png)
 3. Navigate to “Windows Update”  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Windows Update](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-disk-usage/method-2-step3-WindowsUpdates.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  By updating your system you can improve the overall performance including that of your hard drive.
 
 <!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Method 3: Restart Your Computer
 
  This is an all-knowing method for resolving some of the Windows 10 issues, including 100% disk usage. This method may not point you to the reason behind your issue, but it can fix it.
 
 ![restart screen](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-disk-usage/method-3-Restart.png)
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 4: Change the Energy Options
 
  In some cases, this method helps some of the users to fix their 100% disk usage problem in Windows 10.
 
 1. Open and Windows Start Menu and click on Control Panel
 2. Go to Hardware and Sound -> Power Options  
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Power Options](<https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-disk-usage/method4> - step2- Power Options.png)
 3. Click on Change Plan settings  
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Change Plan settings](<https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-disk-usage/method4> - step3- Power Options.png)
 4. Click on “Change advanced power settings”  
 ![Change advanced power settings](<https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-disk-usage/method4> - step4- Power Options.png)
 5. Select the “High-performance” option from the drop-down menu  
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![High-performance](<https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-disk-usage/method4> - step5- Power Options.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Method 5: Reset Virtual Memory in Windows 10
 
  Virtual memory is using your disk as if is RAM, by swapping temporary files when it runs out of actual RAM. Errors can start showing up in the_pagefile.sys_ and it can cause 100% disk usage on your Windows 10 computer.
@@ -134,16 +137,8 @@ No advertising on the website.
 3. Navigate to the “About” menu and click on “Advanced system settings”  
 ![Advanced system settings](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-disk-usage/method-5-step-3.jpg)
 4. In the “System Properties“ window click on the “Advanced” tab and click the “Settings” button in the “Performance” section  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ![system properties screen](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-disk-usage/method-5-step-4.png)
 5. Navigate to the “Advanced” tab and click on “Change”  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![change screen](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-disk-usage/method-5-step-5.png)
 6. Make sure the box titled “Automatically manage paging file size” is checked. Press OK and then reboot. By doing this your system will inhibit the use of virtual memory and may improve your disk performance.
 
@@ -158,9 +153,6 @@ To reset OneDrive for example you can do the following:
 
 This should fix the issue and your disk usage should go back to normal.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ### Method 7: Rebuild the Windows Search index
 
  Windows Search helps you find files, folders, or anything on your hard drive. To do that it scans your hard drive and turns into a super-fast index to show you your desired results.
@@ -186,19 +178,20 @@ Follow the steps to initiate a Disk Check:
 2. Type in the following command in the Command Prompt window –`chkdsk.exe /f /r`
 3. Hit**Enter** and type Y to confirm the Disk Check the next time you reboot your PC. The Disk Check will start the next time your system start to boot and sometimes it can take quite a while to complete.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Method 9: Stop the Superfetch Service
 
  Sometimes this service can cause problems and increase the usage of your hard drive.
 
  Similar to the previous step open again the Command prompt. Type the command:`net.exe stop superfetch` .
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ![superfetch](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-disk-usage/method-9.png)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 10: Disable Windows Search
 
@@ -207,9 +200,6 @@ Follow the steps to initiate a Disk Check:
 To disable the Windows Search follow these steps:
 
 1. Open the Command Prompt(as mentioned in Method 8)  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Command Prompt](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-disk-usage/method-10-.png)
 2. Enter the command net.exe stop “Windows search”  
 ![windows search](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-disk-usage/method-10.1.jpg)
@@ -223,13 +213,24 @@ To disable the Windows Search follow these steps:
 3. Select**Disable** under Startup type and then click**OK** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Method 11: Remove temporary files
 
 [Deleting your temporary files](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1) as we have covered in our previous article, can help you prevent issues. In some rare cases, bugs with temporary files can cause a Windows process or application to create a lot of files and increase your disk usage to 100%.
 
  Deleting the temporary files is a solution you need to look into to fix the problem.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## So what if the 100% disk usage in Windows 10 issue persists?
 
@@ -252,8 +253,6 @@ To disable the Windows Search follow these steps:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -261,4 +260,20 @@ To disable the Windows Search follow these steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-scaling-up-instagram-videos-mobile-and-desktop-approaches-for-2024/"><u>[New] Scaling Up Instagram Videos Mobile & Desktop Approaches for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-streamlining-problems-in-creating-effective-youtube-shorts/"><u>[Updated] 2024 Approved Streamlining Problems in Creating Effective YouTube Shorts</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-luts-ranked-top-10-in-photoshop-and-lightroom/"><u>Best LUTs Ranked Top 10 in Photoshop & Lightroom</u></a></li>
+<li><a href="https://win-dash.techidaily.com/getting-your-canon-mg3022-printer-drivers-updated-and-installed/"><u>Getting Your Canon MG3022 Printer Drivers Updated and Installed</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-honor-v-purse-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Honor V Purse | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/keep-your-snaps-alive-strategies-for-longevity-for-2024/"><u>Keep Your Snaps Alive – Strategies for Longevity for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-todays-digital-world-through-facebook-twitter-instagram-and-youtube/"><u>Navigating Today's Digital World Through Facebook, Twitter, Instagram, and Youtube</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/nokia-31-phone-review-the-perfect-starter-phone/"><u>Nokia 3.1 Phone Review: The Perfect Starter Phone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/organization-hacks-for-android-users-with-revo-uninstallers-easy-solutions/"><u>Organization Hacks for Android Users with Revo Uninstaller’s Easy Solutions</u></a></li>
+<li><a href="https://win-forum.techidaily.com/resetting-windows-11-to-its-original-state-a-comprehensive-guide-for-users/"><u>Resetting Windows 11 to Its Original State: A Comprehensive Guide for Users</u></a></li>
+<li><a href="https://win-forum.techidaily.com/revealing-hidden-data-navigating-windows-11s-built-in-bios-settings/"><u>Revealing Hidden Data: Navigating Windows 11'S Built-In BIOS Settings</u></a></li>
+<li><a href="https://win-forum.techidaily.com/social-media-giants-a-look-at-facebook-twitter-instagram-and-youtube-usage/"><u>Social Media Giants - A Look at Facebook, Twitter, Instagram & YouTube Usage</u></a></li>
+<li><a href="https://win-forum.techidaily.com/speeding-up-the-initial-load-of-windows-11-for-a-faster-experience/"><u>Speeding Up the Initial Load of Windows 11 for a Faster Experience</u></a></li>
+</ul></div>
 

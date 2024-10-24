@@ -1,7 +1,7 @@
 ---
 title: Complete Guide to Performing a Clean Install of Windows 11 Using System Restore
-date: 2024-08-12T04:49:35.667Z
-updated: 2024-08-13T04:49:35.667Z
+date: 2024-10-19T03:00:51.866Z
+updated: 2024-10-24T08:37:05.265Z
 tags:
   - win11
   - win10
@@ -36,9 +36,6 @@ thumbnail: https://thmb.techidaily.com/581e555a79746fa6146e452431e04adcc0fe595ec
 
  Another example would be the icon cache that Windows creates. Each executable has its set of icons built-in. Windows creates its own cache of all icons and pre-loads it on startup to avoid reading each executable file’s icon separately every time.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Why do you need to clear the Windows 10 system cache?
 
  Now that you have an idea what cache is, you need to know why you need to clear it.
@@ -65,9 +62,6 @@ thumbnail: https://thmb.techidaily.com/581e555a79746fa6146e452431e04adcc0fe595ec
 * [DNS Cache](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1)
 * [How to Clear the ARP Cache in Windows 10](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ### Clear the browser cache with Revo Uninstaller Pro
 
  Revo Uninstaller Pro has a dedicated tool – named[Browsers Cleaner](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1) – for deleting various browser-related data, and it supports the following browsers:**Internet Explorer, Edge, Mozilla Firefox, Google Chrome, and Opera** .
@@ -86,10 +80,14 @@ thumbnail: https://thmb.techidaily.com/581e555a79746fa6146e452431e04adcc0fe595ec
 
 1. Open Chrome, click the three-dot icon, then click More tools > Clear browsing data.
 2. Set the Time range to All time, check Cached images and files, and click the Clear data button to clear the entire browser cache. Of course, you can choose other items, in addition to the cache, if you wish.  
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![screen of clear browsing data](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/Blog/google-clear-data.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Mozilla Firefox
 
@@ -104,9 +102,6 @@ thumbnail: https://thmb.techidaily.com/581e555a79746fa6146e452431e04adcc0fe595ec
 #### Microsoft Edge
 
 1. Open Microsoft Edge, and press the combination of buttons Ctrl + Shift + Delete. The “Clean browsing data” windows will appear. Select the time range from the drop-down menu, check**Cached images and files** , and click**Clear now** .  
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![screen of clear browsing data](<https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/Blog/Microsoft> Edge-1.jpg)
 
 #### Opera
@@ -115,33 +110,34 @@ thumbnail: https://thmb.techidaily.com/581e555a79746fa6146e452431e04adcc0fe595ec
 2. Click Clear browsing data in the top-right corner.
 3. Select the time range from the drop-down menu, check Cached image and files (and any other items you wish), and click Clear data.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ### Clear Windows temporary files with the Disk Cleanup Utility
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 1. Start Revo Uninstaller Pro, click Tools, then click Windows tools and finally double-click Disk Cleanup. ![screen of tools](<https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/Blog/Remove> temporary files Revo Uninstaller Pro 4 -1.jpg)  
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![screen of disk cleanup](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/Blog/windows-tools.png)  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Alternatively, you can access the Disk Cleanup feature by opening the Windows Start Menu (for Windows 10 you can press Win+S on your keyboard) and search for Disk Cleanup.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2. In the pop-up window select the drive you want to clean up from the drop-down menu and click OK.  
 ![screen of Disk Cleanup](<https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/Blog/Disk> cleanup - 2.jpg)
 3. Be patient while the tool finishes scanning the drive. You need to check the items you wish to delete and click OK.  
  If you wish to be able to delete system files/cache (in addition to user files/cache), click**Clean up system files** before selecting any items. This will re-scan the drive, this time including system data.  
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ![screen of disk cleanup](<https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/Blog/Disk> cleanup - 3.jpg)  
 ![screen of disk cleanup](<https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/Blog/Disk> cleanup - 4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Remove the Windows Store Cache
 
 1. Press the Win+R on your keyboard to open the Run window.
@@ -150,17 +146,17 @@ thumbnail: https://thmb.techidaily.com/581e555a79746fa6146e452431e04adcc0fe595ec
 3. Wait for the process to finish. The Windows Store will appear once the procedure is complete.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Clear cache in File Explorer
 
  Some of the caches related to Windows Explorer (also known as File Explorer), can be deleted easily, whereas others require slightly more advanced methods.
 
 * **Windows thumbnail cache** : To clear the Windows thumbnail cache, open Revo Uninstaller Pro, click**Tools** , click History Cleaner, and then click Windows Cleaner. Check**Delete Thumbnail Cache** , and click**Clear** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![screen of history cleaner](<https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/Blog/Delete> thumbnail cache - 1.jpg)
 * **Windows icon cache** : The icon cache cannot be deleted directly, as it is used actively by Windows Explorer and – thus – locked. We have created a CMD script file that will simplify the process.  
  Warning: make sure to save all your work and documents before you execute the script.  
@@ -181,9 +177,6 @@ thumbnail: https://thmb.techidaily.com/581e555a79746fa6146e452431e04adcc0fe595ec
 
 This operation will delete all restore points for the drive.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Clear the DNS cache
 
  If you are experiencing problems loading a website, sometimes that could be to a corrupt or outdated DNS record on your device. If this is the cause, then clearing the DNS cache would be the solution, and it is a rather simple operation.
@@ -191,26 +184,46 @@ This operation will delete all restore points for the drive.
 1. Open the Start Menu, and in the search bar type “cmd” (without quotation marks), and launch the found program. ![screen command prompt](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/Blog/Dns-clear-1.jpg)
 2. When the Command prompt window appears, type “ipconfig /flushdns” (without quotation marks), and press Enter. ![screen command prompt](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/Blog/Dns-clear-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Clear the ARP Cache in Windows 10
 
 1. Type`**cmd**` in the Windows start bar, then right-click on the command prompt and select**Run as administrator** .
 2. Open a command prompt with elevated privileges.
 3. To examine the ARP cache, type in`**arp -a**`  
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![screen of arp -a](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/Blog/arp-a.jpg)
 4. To clear the ARP cache, type **`arp -d` .** The -a parameter causes the program to show the ARP cache, whereas the -d flag causes it to delete it.  
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![screen of arp -d](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/Blog/arp-d.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  There are various ways to clear your Windows cache and Revo Uninstaller is one of the tools that helps you with most of your Windows cache issues. Clearing your cache can be helpful in many situations, but if you are experiencing low PC performance and clearing your Windows cache does not solve them, then maybe you need to check your system performance and investigate what is the cause.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
 
 ## We can help you every time when…
@@ -228,8 +241,6 @@ This operation will delete all restore points for the drive.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -237,4 +248,26 @@ This operation will delete all restore points for the drive.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-solutions.techidaily.com/1723012741154-fixed-why-does-adobe-after-effects-keep-crashing-on-windows-11-and-10-solutions-inside/"><u>[FIXED] Why Does Adobe After Effects Keep Crashing on Windows 11 & 10? Solutions Inside</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-dodgingdullnessaftermycam/"><u>[New] In 2024, DodgingDullnessAfterMyCam</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-8-unique-workout-concepts-for-a-pulse-raising-video-channel-for-2024/"><u>[Updated] 8 Unique Workout Concepts for a Pulse-Raising Video Channel for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-supercharge-your-vehicles-top-10-srt-mods-for-os-x-and-windows/"><u>[Updated] In 2024, Supercharge Your Vehicles Top 10 SRT Mods for OS X & Windows</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-achieving-flawless-audio-to-text-translation-using-google/"><u>2024 Approved Achieving Flawless Audio to Text Translation Using Google</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-idle-geniuses-top-12-pc-classics/"><u>2024 Approved Idle Geniuses Top 12 PC Classics</u></a></li>
+<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-vivo-y27-4g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Vivo Y27 4G to iPhone | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/a-complete-tutorial-on-verifying-powershell-versions-specifically-for-windows-10-users/"><u>A Complete Tutorial on Verifying PowerShell Versions Specifically for Windows 10 Users</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apple-worldwide-developer-conference-wwdc-2025-announcements-news-and-more/"><u>Apple Worldwide Developer Conference (WWDC) 2025: Announcements, News, and More</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-exclusive-list-top-sandbox-experiences/"><u>In 2024, Exclusive List Top Sandbox Experiences</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-samsung-galaxy-s24-ultra-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Samsung Galaxy S24 Ultra to PC? | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/tackle-constant-windows-explorer-errors-using-our-proven-7-tricks/"><u>Tackle Constant Windows Explorer Errors Using Our Proven 7 Tricks!</u></a></li>
+<li><a href="https://win-forum.techidaily.com/text-file-encryption-tutorial-how-to-apply-password-security-using-revouninstaller/"><u>Text File Encryption Tutorial: How To Apply Password Security Using RevoUninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-digital-sphere-navigating-popular-channels-facebook-twitter-instagram-youtube/"><u>The Digital Sphere: Navigating Popular Channels - Facebook, Twitter, Instagram, YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-essential-guide-to-navigating-the-windows-registry-with-helpful-revouninstaller-strategies/"><u>The Essential Guide to Navigating the Windows Registry with Helpful RevoUninstaller Strategies</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-ultimate-guide-to-mastering-major-social-sites-facebook-twitter-instagram-you-tube/"><u>The Ultimate Guide to Mastering Major Social Sites: Facebook, Twitter, Instagram, You Tube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/ultimate-guide-ensuring-administrator-access-every-time-for-windows-11-apps-with-ease/"><u>Ultimate Guide: Ensuring Administrator Access Every Time for Windows 11 Apps with Ease</u></a></li>
+<li><a href="https://win-forum.techidaily.com/unlocking-remote-power-on-a-how-to-guide-to-configuring-wake-nwlan-with-windows-11/"><u>Unlocking Remote Power On: A How-To Guide to Configuring Wake-nWLan with Windows 11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/unlocking-success-on-major-social-platforms-mastering-facebook-twitter-instagram-and-youtube/"><u>Unlocking Success on Major Social Platforms: Mastering Facebook, Twitter, Instagram & YouTube</u></a></li>
+</ul></div>
 

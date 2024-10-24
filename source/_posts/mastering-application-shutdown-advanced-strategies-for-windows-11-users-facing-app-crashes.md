@@ -1,7 +1,7 @@
 ---
 title: "Mastering Application Shutdown: Advanced Strategies for Windows 11 Users Facing App Crashes"
-date: 2024-08-12T04:52:03.791Z
-updated: 2024-08-13T04:52:03.791Z
+date: 2024-10-21T18:23:10.550Z
+updated: 2024-10-23T17:57:56.962Z
 tags:
   - win11
   - win10
@@ -40,10 +40,14 @@ thumbnail: https://thmb.techidaily.com/8761d7ab814205b2f88e7841689a57f834d49b25e
 
  To begin, open your “Start” menu and look for “Command Prompt.” Then, on the right, select “Run as Administrator.”
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![run as Administrator](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/force-delete-folder/method-1-command-prompt.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 A “User Account Control” prompt will appear. Choose “Yes.”
 
@@ -61,8 +65,25 @@ If your path contains spaces, enclose it with double quotes.
 ![command prompt](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/force-delete-folder/method-1-command-prompts-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 2: Boot in Windows Safe Mode
 
  If you are unsure which app has hijacked your folder and prevented you from deleting it, restart your PC in safe mode and then attempt to delete the folder. In safe mode, your PC only loads the necessary Windows files, preventing any third-party apps from launching automatically.
@@ -71,18 +92,12 @@ If your path contains spaces, enclose it with double quotes.
 
  Once in safe mode, open**File Explorer** and navigate to the folder you want to delete. Then, right-click on the folder and select**“Delete”** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![delete folder](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/force-delete-folder/method-2-delete-folder.jpg)
 
 Your folder has been deleted.
 
  You may also want to remove the folder from the Recycle Bin, which you can do by opening it, right-clicking your folder, and selecting**“Delete”** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ## Method 3: Use WinRAR to Force Remove Folders
 
  This may sound strange, but you can delete stubborn folders using[WinRAR](https://www.win-rar.com/) (a file compression app). This works by creating an archive from your “undeletable” folder and then asking the app to delete the original folder after the archive is created.
@@ -95,20 +110,21 @@ Your folder has been deleted.
 
 ![add to archive](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/force-delete-folder/method-3-add-to-archive.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  On the “Archive Name and Parameters” window, in the “Archiving Options” section, enable the “Delete Files After Archiving” option. Then, at the bottom of the window, select “OK.”
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ![archive](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/force-delete-folder/method-3-add-to-archive-2.jpg)
 
  Allow WinRAR to create an archive from the folder you’ve chosen. After that, WinRAR will delete the original folder. You may now delete your recently created archive.
 
  That’s how you get rid of any unwanted or stubborn folders on your Windows PC.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
 
 ## We can help you every time when…
@@ -126,8 +142,6 @@ Your folder has been deleted.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -135,4 +149,21 @@ Your folder has been deleted.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-streamlining-video-aesthetics-blur-background-in-microsoft-teams/"><u>[New] 2024 Approved Streamlining Video Aesthetics Blur Background in Microsoft Teams</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-becoming-a-green-mastermind-with-kinemasters-gs-knowledge/"><u>[Updated] In 2024, Becoming a Green Mastermind with KineMaster's GS Knowledge</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-uploading-success-stories-mastering-igtv-content-posting/"><u>[Updated] Uploading Success Stories Mastering IGTV Content Posting</u></a></li>
+<li><a href="https://win-forum.techidaily.com/digital-giants-face-off-understanding-the-impact-of-facebook-twitter-instagram-vs-youtube/"><u>Digital Giants Face-Off: Understanding the Impact of Facebook, Twitter, Instagram vs YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/effective-ways-to-perform-a-disk-defragmentation-on-windows-10-using-revo-uninstaller/"><u>Effective Ways to Perform a Disk Defragmentation on Windows 10 Using Revo Uninstaller</u></a></li>
+<li><a href="https://win-updates.techidaily.com/efficient-strategies-for-successfully-moving-mp3-content-into-the-ipod-library/"><u>Efficient Strategies for Successfully Moving MP3 Content Into the iPod Library</u></a></li>
+<li><a href="https://win-forum.techidaily.com/ensuring-complete-file-removal-in-windows-11-without-recovery/"><u>Ensuring Complete File Removal in Windows 11 Without Recovery</u></a></li>
+<li><a href="https://win-forum.techidaily.com/essential-platforms-for-online-engagement-exploring-facebook-twitter-instagram-and-youtube/"><u>Essential Platforms for Online Engagement: Exploring Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/expert-tricks-for-force-quitting-rebel-software-in-your-microsoft-windows-11-system/"><u>Expert Tricks for Force Quitting Rebel Software in Your Microsoft Windows 11 System</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-social-platforms-insights-on-facebook-twitter-instagram-and-youtube/"><u>Exploring Social Platforms: Insights on Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-ultimate-video-guide-from-youtube-to-twitter/"><u>In 2024, Ultimate Video Guide From YouTube to Twitter</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/optimize-and-scale-effortlessly-powered-by-the-latest-in-cookiebot-tech/"><u>Optimize & Scale Effortlessly - Powered by the Latest in Cookiebot Tech</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/visual-storytelling-cropping-and-editing-tips-for-instagram-audiences/"><u>Visual Storytelling Cropping and Editing Tips for Instagram Audiences</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1726029613228-zoom/"><u>Zoom リモート ミーティング中にビジュアル・オーディオが不良の場合、どうすればよいか？</u></a></li>
+</ul></div>
 

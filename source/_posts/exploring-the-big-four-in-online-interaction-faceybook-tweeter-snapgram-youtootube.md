@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Big Four in Online Interaction: FaceyBook, Tweeter, Snapgram, YouTooTube"
-date: 2024-08-12T04:53:38.921Z
-updated: 2024-08-13T04:53:38.921Z
+date: 2024-10-19T16:19:11.091Z
+updated: 2024-10-24T03:57:36.696Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/e0dd15b42e7cb5414bdb7af5c281fcfdfef62e342
 
 ## Exploring the Biggest Networking Sites: Facebook, Twitter, Instagram, and YouTube
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ## [What is BIOS](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1)
 
 * Share
@@ -29,9 +26,6 @@ thumbnail: https://thmb.techidaily.com/e0dd15b42e7cb5414bdb7af5c281fcfdfef62e342
 
  BIOS (basic input/output system) is actually a program that the computer’s microprocessor is using to start the computer system. It’s other functions are to manage data flow between the computer’s operating system (OS) and attached devices, such as the hard disk, video adapter, keyboard, mouse and printer.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ## First lets learn more about the history of BIOS
 
  The term BIOS was first used by Gary Kildall in 1975\. The first BIOS was incorporated in IBMs’ first personal computer in 198\. In the years to come, it gained popularity within other PCs, becoming an integral part of computers for some time.Unfortunately BIOS’ popularity starts to decline in favor of a newer technology: Unified Extensible Firmware Interface (UEFI). Intel announced a plan in 2017 to retire support for legacy BIOS systems by 2020, replacing them with UEFI.
@@ -40,6 +34,13 @@ thumbnail: https://thmb.techidaily.com/e0dd15b42e7cb5414bdb7af5c281fcfdfef62e342
 
  The BIOS includes instructions on how to load basic computer hardware. BIOS tests your system to verify the computer meets requirements to boot up properly. If the computer does not pass the test, you hear a combination of beeps indicating what is malfunctioning in the computer.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What are the four main functions of a PC BIOS?
 
 * **POST** – BIOS performs a test on your computer hardware and make sure no errors exist before loading the operating system.
@@ -47,9 +48,6 @@ thumbnail: https://thmb.techidaily.com/e0dd15b42e7cb5414bdb7af5c281fcfdfef62e342
 * **BIOS drivers** – Low-level drivers that give the computer basic operational control over your computer’s hardware.
 * **BIOS setup or CMOS setup** – Configuration program that allows you to configure hardware settings including system settings, such as date, time, and computer passwords.
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How does BIOS work?
 
  Most computers come with included BIOS in them as firmware on the chip of your motherboard. BIOS is a program that is accessible by the microprocessor on an erasable programmable read-only memory (EPROM) chip. When you turn on your PC the microprocessor passes control to the BIOS.
@@ -57,8 +55,12 @@ thumbnail: https://thmb.techidaily.com/e0dd15b42e7cb5414bdb7af5c281fcfdfef62e342
  When you first start your computer BIOS checks if your system is operational. If everything is working on your system BIOS load the OS into the computer’s RAM (random access memory) from your hard disk.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Accessing BIOS
 
  You can access and configure BIOS through the BIOS Setup Utility. The way you can get access to BIOS varies and depends on the computer you are using. You can follow this general steps to get access to your BIOS:
@@ -69,6 +71,13 @@ thumbnail: https://thmb.techidaily.com/e0dd15b42e7cb5414bdb7af5c281fcfdfef62e342
 
  Once in BIOS Setup Utility, users can change hardware settings, manage memory settings, change the boot order or boot device, and reset the BIOS password, among other configuration tasks.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## BIOS security
 
  Usually not a lot of users talk about BIOS security, but it should not be overlooked. There is a case study by the Security Group – Cylance that showed how modern BIOS can have flaw in its security and ransomware programs can access the motherboard’s UEFI and exploit the other PC BIOS vulnerabilities.
@@ -76,17 +85,18 @@ thumbnail: https://thmb.techidaily.com/e0dd15b42e7cb5414bdb7af5c281fcfdfef62e342
  Another unique exploit involving the manipulation of BIOS was Plundervolt. Plundervolt could be used to mess with a computer’s power supply at the time data was being written to memory, causing errors that lead to security gaps. Intel released a BIOS patch to defend against it.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Can a BIOS chip be upgraded or updated?
 
  Adding additional memory to a BIOS chip, as an upgrade, can only be done by replacing the existing BIOS chip with a new, more advanced BIOS chip.
 
  The data on a BIOS chip can be updated if it’s a flash BIOS. Using specially designed software, the BIOS can be updated to fix problems or add new features for the motherboard.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
 
 ## We can help you every time when…
@@ -104,8 +114,6 @@ thumbnail: https://thmb.techidaily.com/e0dd15b42e7cb5414bdb7af5c281fcfdfef62e342
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -113,4 +121,22 @@ thumbnail: https://thmb.techidaily.com/e0dd15b42e7cb5414bdb7af5c281fcfdfef62e342
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-accelerate-creativity-in-photo-editing-using-pixlr/"><u>[New] Accelerate Creativity in Photo Editing Using Pixlr</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-cleanest-recording-app-ad-aware-edition/"><u>[New] In 2024, Cleanest Recording App - Ad-Aware Edition</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-optimize-your-iphone-for-gif-saving-and-playing-like-a-pro/"><u>[New] Optimize Your iPhone for GIF Saving & Playing Like a Pro</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-superior-5-cameras-for-extended-time-lapses/"><u>[New] Superior 5 Cameras for Extended Time-Lapses</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-tailored-for-tech-savvy-audiences-unveil-the-youtuber-who-resonates-with-you-through-six-quizzes/"><u>[New] Tailored for Tech-Savvy Audiences Unveil the YouTuber Who Resonates with You Through Six Quizzes</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-enhancing-gamers-experience-recording-console-titles-for-pc/"><u>[Updated] 2024 Approved Enhancing Gamers' Experience Recording Console Titles for PC</u></a></li>
+<li><a href="https://win-webster.techidaily.com/best-iphone-data-retrieval-tools-top-20-software-solutions-reviewed-for-windows-computers/"><u>Best iPhone Data Retrieval Tools: Top 20 Software Solutions Reviewed for Windows Computers</u></a></li>
+<li><a href="https://win-forum.techidaily.com/1722915380826-enhance-performance-and-security-using-revo-uninstaller-pro-v5/"><u>Enhance Performance & Security Using Revo Uninstaller Pro V5.</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-communication-on-leading-channels-fb-tw-insta-and-video-site/"><u>Mastering Communication on Leading Channels: FB, TW, INSTA & VIDEO SITE</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-modern-communication-insights-into-facebook-twitter-instagram-and-youtube/"><u>Mastering Modern Communication: Insights Into Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/maximizing-storage-efficiently-clearing-disk-space-on-windows-11-with-revo-uninstaller/"><u>Maximizing Storage: Efficiently Clearing Disk Space on Windows 11 with Revo Uninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-major-platforms-explore-facebook-twitter-instagram-and-youtube/"><u>Navigating Major Platforms: Explore Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/unlock-the-potential-of-remote-bootup-activate-wake-on-lan-on-your-windows-desktops-windows-1011/"><u>Unlock the Potential of Remote Bootup: Activate Wake-on-LAN on Your Windows Desktops (Windows 10/11)</u></a></li>
+<li><a href="https://win-blog.techidaily.com/unlock-the-secrets-of-evil-genius-2-fixing-initialization-difficulties/"><u>Unlock the Secrets of Evil Genius 2 - Fixing Initialization Difficulties</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-navigating-through-the-excellent-windowed-and-mac-compatible-daws-top-10-selection-for-2024/"><u>Updated Navigating Through the Excellent Windowed & Mac Compatible DAWs - Top 10 Selection for 2024</u></a></li>
+</ul></div>
 

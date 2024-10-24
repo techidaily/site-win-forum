@@ -1,7 +1,7 @@
 ---
 title: The Power of Digital Communities on Facebook, Twitter, Instagram and Youtube
-date: 2024-08-12T04:51:26.305Z
-updated: 2024-08-13T04:51:26.305Z
+date: 2024-10-21T03:52:52.064Z
+updated: 2024-10-24T10:32:17.513Z
 tags:
   - win11
   - win10
@@ -27,15 +27,16 @@ thumbnail: https://thmb.techidaily.com/70a221261e83ff3179ef93192d51afbff1f725757
  PowerShell is an amazing tool created by Microsoft so you can automate tasks. By knowing which PowerShell version you have access to, you will know what features you can use. There are more than 200 commands that can be used within PowerShell and it is a super flexible framework that will save you a bunch of time.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Can you use PowerShell only on your Windows computer?
 
  Since 2016 PowerShell was announced as open-source and cross-platform. You can use it on macOS and Linux too. Although it is native to Windows OS, and Microsoft only supports security updates and bug fixes, PowerShell Core is being worked on to clear these issues with other OS.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Why is it important to know which PowerShell version you are running?
 
  PowerShell had many versions during the year starting with version 1.0 back in 2006\. The newest version( version 7) comes with the following new features:
@@ -48,15 +49,16 @@ thumbnail: https://thmb.techidaily.com/70a221261e83ff3179ef93192d51afbff1f725757
  We are saying all this, so you can know that not all PowerShell versions are the same. A lot of people need assistance when they try to figure out what PowerShell version they are running. Therefore we created this small guide with all the ways you can check.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How to check what PowerShell version I have installed?
 
  First, you need to open PowerShell. Simply open the Windows Start Menu and type in the search bar PowerShell, and click on the app.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![start menu PowerShell](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/check-win10-powershell-version/start-menu-powershell.png)
 
  You will see a window, where you enter the following command**$PSVersionTable.PSVersion** , and hit Enter. In the screenshot below you can see an example where you can find the version.
@@ -67,12 +69,15 @@ thumbnail: https://thmb.techidaily.com/70a221261e83ff3179ef93192d51afbff1f725757
 
 ![Get Host command](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/check-win10-powershell-version/powershell-version-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The last method we will show you is by using the command “$host.version”. You will see the PowerShell version in a slightly different format. You will be able to see the Major and Minor release and the build number and revision.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ## How can I upgrade to a newer version of PowerShell?
 
  You can run both Windows PowerShell and PowerShell 7.2 on the same computer. You do not have to worry about the lack of feature parity by upgrading. Simply keep the current Windows PowerShell installed and also download PowerShell. You can do that by going to its[GitHub release page](https://github.com/PowerShell/PowerShell/releases) . You will see a list of assets, where you can simply choose the OS you want to download for.
@@ -81,10 +86,14 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
  Overall PowerShell can help you with automating some of the tasks that you are doing on regular basis on your PC. By knowing which version you are running and how to upgrade it you will be able to utilize it without any issues.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## We can help you every time when…
 
@@ -101,8 +110,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -110,4 +117,20 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-dazzling-depths-expert-tips-for-video-brightness/"><u>[New] Dazzling Depths Expert Tips for Video Brightness</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-gaining-clarity-on-your-youtube-audiences-behavior/"><u>[Updated] 2024 Approved Gaining Clarity on Your YouTube Audience's Behavior</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-step-up-your-home-cinema-game-with-these-essential-tips/"><u>[Updated] Step Up Your Home Cinema Game with These Essential Tips</u></a></li>
+<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Realme 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-introduction-to-professional-audio-recording-a-mac-and-audacity-approach/"><u>2024 Approved Introduction to Professional Audio Recording A Mac & Audacity Approach</u></a></li>
+<li><a href="https://win-forum.techidaily.com/bypass-the-restrictions-install-windows-11-on-unsupported-cpu-systems-via-revouninstaller-tips/"><u>Bypass the Restrictions: Install Windows 11 on Unsupported CPU Systems via RevoUninstaller Tips</u></a></li>
+<li><a href="https://win-forum.techidaily.com/complete-guide-to-permanently-remove-a-login-account-from-your-pc-windows-11-and-revo-uninstaller-techniques/"><u>Complete Guide to Permanently Remove a Login Account From Your PC: Windows 11 and Revo Uninstaller Techniques</u></a></li>
+<li><a href="https://win-able.techidaily.com/destiny-2-beyond-light-now-running-smoothly-on-your-pc-say-goodbye-to-troublesome-crashes/"><u>Destiny 2 Beyond Light Now Running Smoothly on Your PC - Say Goodbye to Troublesome Crashes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-wacom-tablet-drivers-missing-error-in-windows-11/"><u>How to Fix Wacom Tablet Drivers Missing Error in Windows 11</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-itel-p40plus-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Itel P40+? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-ps4-controller-for-your-pcmac/"><u>The Ultimate PS4 Controller for Your PC/Mac</u></a></li>
+<li><a href="https://win-forum.techidaily.com/unlock-the-secrets-to-a-swift-windows-1n-boot-tactics-and-tools-for-efficiency/"><u>Unlock the Secrets to a Swift Windows 1N Boot: Tactics and Tools for Efficiency</u></a></li>
+<li><a href="https://win-forum.techidaily.com/upgrade-your-system-the-ultimate-tutorial-on-refreshing-windows-11-driver-software/"><u>Upgrade Your System: The Ultimate Tutorial on Refreshing Windows 11 Driver Software</u></a></li>
+</ul></div>
 

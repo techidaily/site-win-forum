@@ -1,7 +1,7 @@
 ---
 title: "Understanding the Big Four: A Deep Dive Into Facebook, Twitter, Instagram and Youtube"
-date: 2024-08-12T04:48:59.234Z
-updated: 2024-08-13T04:48:59.234Z
+date: 2024-10-20T20:56:25.487Z
+updated: 2024-10-23T20:47:29.487Z
 tags:
   - win11
   - win10
@@ -29,33 +29,43 @@ thumbnail: https://thmb.techidaily.com/e0a34c7a81fb8279e0e4f8e61ff399b11932a0b05
  Below we will go through several methods of how to lock your Windows PC:
 
 <!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## I. To lock your Windows 11 PC through the Start menu, follow these steps
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 1. Click on the**‘Start’** button located at the bottom left corner of the screen or press the**‘Windows’** key on your keyboard to open the Start menu. ![Start menu lock](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/lock-pc/method-1-start-menu.png)
 2. In the Start menu, click on your user profile icon or name located at the top.
 3. This will open a menu with various options. Click on**‘Lock’** from the list of options.
 4. Alternatively, you can also press the**‘Windows’** key +**‘L’** on your keyboard as a shortcut to lock your PC instantly.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## II. Another way to lock your Windows Computer and protect your data is through the Task Manager. Here are the steps you have to take in order to do that
 
 1. Right-click on the taskbar at the bottom of your screen. This will open a context menu.
 2. From the context menu, select**“Task Manager”** . Alternatively, you can press**Ctrl + Shift + Esc** on your keyboard to open Task Manager directly.
 3. Once Task Manager opens, go to the**“File”** menu located in the top left corner of the window.
 4. Select**“App History”**
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 5. From the dropdown menu, select**“Run new task”** . ![Run new task](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/lock-pc/method-2-task-manager-1.png)
 6. In the**“Create new task”** window, type**“tsdiscon”** (short for “Terminal Services Disconnect”) into the text field. ![Create new task](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/lock-pc/method-2-task-manager-2.png)
 7. Check the box next to**“Create this task with administrative privileges”** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 8. Click**“OK”** .
 
 ## III. How to Lock a Windows 11 computer via the Ctrl + Alt + Delete Menu
@@ -63,8 +73,12 @@ thumbnail: https://thmb.techidaily.com/e0a34c7a81fb8279e0e4f8e61ff399b11932a0b05
  Pressing**Ctrl + Alt + Delete** triggers a distinct Windows menu to appear on your screen, offering a range of functionalities. Among these options is the Task Manager, granting you the capability to perform several actions, including switching user accounts, changing passwords, and, most notably for our discussion, locking your PC. Simply selecting**“Lock”** from this menu instantly secures your Windows 11 device.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## IV. Lock your PC via the Command Prompt
 
  Locking your Windows 11 system is also possible through the Command Prompt, which is a text-based user interface accepting keyboard input.
@@ -89,9 +103,6 @@ thumbnail: https://thmb.techidaily.com/e0a34c7a81fb8279e0e4f8e61ff399b11932a0b05
 
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## We can help you every time when…
 
 * you cannot find the program in the Apps & Features list
@@ -107,8 +118,6 @@ thumbnail: https://thmb.techidaily.com/e0a34c7a81fb8279e0e4f8e61ff399b11932a0b05
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -116,4 +125,22 @@ thumbnail: https://thmb.techidaily.com/e0a34c7a81fb8279e0e4f8e61ff399b11932a0b05
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-download-essential-video-intros-for-beginners-for-2024/"><u>[New] Download Essential Video Intros for Beginners for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-illuminate-your-recording-setup-how-to-prevent-a-dark-screen-on-obs/"><u>[New] In 2024, Illuminate Your Recording Setup How to Prevent a Dark Screen on OBS</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-smooth-file-migration-to-computer-5-proven-techniques/"><u>[New] Smooth File Migration to Computer – 5 Proven Techniques</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unleash-creativity-with-these-essential-vector-editors/"><u>[New] Unleash Creativity with These Essential Vector Editors</u></a></li>
+<li><a href="https://win-forum.techidaily.com/connecting-the-world-online-a-guide-to-facebook-twitter-instagram-and-youtube/"><u>Connecting the World Online: A Guide to Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/digital-connectivity-essentials-mastering-facebook-twitter-instagram-and-youtube/"><u>Digital Connectivity Essentials: Mastering Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/easy-instructions-how-to-get-and-start-using-revo-app-manager-with-revo-uninstaller/"><u>Easy Instructions: How to Get and Start Using Revo App Manager with Revo Uninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/effective-techniques-for-deleting-crash-dumps-in-windows-10-operating-system/"><u>Effective Techniques for Deleting Crash Dumps in Windows 10 Operating System</u></a></li>
+<li><a href="https://win-forum.techidaily.com/effective-techniques-for-reverting-windows-11-update-changes/"><u>Effective Techniques for Reverting Windows 11 Update Changes</u></a></li>
+<li><a href="https://win-forum.techidaily.com/effective-ways-to-resolve-full-capacity-disk-space-consumption-in-windows-10/"><u>Effective Ways to Resolve Full-Capacity Disk Space Consumption in Windows 10</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixed-how-to-resolve-your-star-wars-squadrons-game-crashes-ultimate-guide/"><u>Fixed! How to Resolve Your Star Wars: Squadrons Game Crashes | Ultimate Guide</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/rical-insights-from-youtubes-top-10-vlogs-for-2024/"><u>Historical Insights From YouTube's Top 10 Vlogs for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/power-up-storage-ultimate-ps5-hard-drives-compared/"><u>Power Up Storage Ultimate PS5 Hard Drives Compared</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/running-ai-conversations-with-chatgpt-on-windows-quick-setup-instructions/"><u>Running AI Conversations with ChatGPT on Windows – Quick Setup Instructions</u></a></li>
+<li><a href="https://windows11.techidaily.com/solving-code-0x0001-issue-geforce-software-w11/"><u>Solving Code 0X0001 Issue: GeForce Software W11</u></a></li>
+</ul></div>
 

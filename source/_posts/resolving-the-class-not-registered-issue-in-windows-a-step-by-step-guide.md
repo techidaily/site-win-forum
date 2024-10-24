@@ -1,7 +1,7 @@
 ---
 title: "Resolving the 'Class Not Registered' Issue in Windows: A Step-by-Step Guide"
-date: 2024-08-12T04:47:52.654Z
-updated: 2024-08-13T04:47:52.654Z
+date: 2024-10-18T05:16:23.297Z
+updated: 2024-10-23T16:59:59.503Z
 tags:
   - win11
   - win10
@@ -52,11 +52,15 @@ thumbnail: https://thmb.techidaily.com/3609177e3560fa8effb2d59f8677c6110107a707b
 * [This PC can’t run Windows 11. The PC must support Secure Boot.](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1)
 * [This PC can’t run Windows 11. The processor isn’t supported for Windows 11.](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Guide 1: How to fix “This PC can’t run Windows 11\. TPM 2.0 is a requirement for running Windows 11” error
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ![TPM required](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-windows-11-wont-run/guide1-overview.jpg)
 
 In this case there are 2 issues:
@@ -64,9 +68,6 @@ In this case there are 2 issues:
 1. Your PC contains a TPM chip, but it is not enabled.
 2. Your PC does not have a TPM chip and you won’t be able to update to Windows 11.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### How to fix the issue
 
 1. Check if your PC supports TPM:  
@@ -74,11 +75,16 @@ In this case there are 2 issues:
    2. Step 2 – When the TPM utility pops up, check if the chip is in use.  
     If yes, you’ll see it under the Status section, marked as The TPM is ready to use.  
    3. Step 3 – The TPM Manufacturer Information section will provide you with information about the TPM version.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
    ![TPM ready to use](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-windows-11-wont-run/guide1-step3.jpg) If it is TPM 2.0, you will be able to install and run Windows 11.If the version of TPM is not 2.0 or if it is lower, that means that you won’t be able to update to Windows 11.  
     When your computer warns “Compatible TPM cannot be found” or the TPM module version is lower than 2.0, staying with your current computer operating system will be a wise decision.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2. Enable TPM 2.0 chip for Windows 11  
    1. Step 1 – Restart your PC and press the F2/F10/Del key to enter your BIOS  
    2. Step 2 – Navigate with your keyboard to the Security section.  
@@ -93,9 +99,12 @@ In this case there are 2 issues:
  Secure Boot mode is usually enabled for most modern computers. Its’ role is to keep your computer safe. In order to update to Windows 11 the Secure Boot mode needs to be enabled.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### How to enable Secure Boot
 
 1. #### Check if your system supports Secure Boot  
@@ -103,9 +112,6 @@ In this case there are 2 issues:
    1. Press Win Key + R. Type msinfo32.exe, and hit Enter.  
    2. Select System Summary  
    3. On the right-side pane scroll down and try to find a section named Secure Boot State (as shown in the screenshot)  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
    ![secure boot info](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-windows-11-wont-run/guide21-how-to-enable-secure-boot-step-3.png) If the Secure Boot State shows as “Off”, that means that your PC support Secure Boot and just follow this guide in order to enable it.If the Secure Boot State shows as “Unsupported”, that means that your computer hardware does not support Secure Boot. To fix this issue you need to check if your PC supports UEFI mode first.
 
 2. #### Check if your PC supports UEFI mode  
@@ -119,24 +125,16 @@ In this case there are 2 issues:
 
    1. 1. Restart your PC and press the F2/F10/Del key to enter your BIOS  
          2. Navigate to the Boot Menu. Locate the Boot Mode section and click to see if your computer supports UEFI mode.  
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
          ![uefi mode](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-windows-11-wont-run/guide22-check-if-your-pc-supports-uefi-mode-step-2.jpg)  
          3. Select UEFI boot mode and press F10 to Save and Exit your BIOS.  
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
          ![select uefi mode](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-windows-11-wont-run/guide23-enable-uefi-step-3.jpg)  
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##### Enable Secure Boot  
 
@@ -144,26 +142,33 @@ In this case there are 2 issues:
          2. Navigate to the Boot Menu, select Secure Boot settings and set it to “Enabled”  
          ![enable uefi mode](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-windows-11-wont-run/guide24-enable-secure-boot-step-2.jpg) Once you enable the UEFI mode and Secure Boot you can continue installing the Windows 100 update on your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ## Guide 3 – How to fix “This PC can’t run Windows 11\. The processor isn’t supported for Windows 11.” error
 
 ![processor not supported](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-windows-11-wont-run/guide3-overview.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  This error message means that your computer processor is not included in the supported processor list.
 
  We’ve cover this error in a separate article that you can find[here](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ## Conclusion
 
  As a new operating system, every user wants to try out its’ new features. However, because there are minimum system requirements, many users receive the “This PC can’t run Windows” error. The most common reason for the message is the lack of secure boot or TPM 2.0.
 
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## We can help you every time when…
 
@@ -180,8 +185,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -189,4 +192,21 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-quickprint-the-easy-guide-to-win-screen-snaps/"><u>[New] In 2024, QuickPrint The Easy Guide to Win Screen Snaps</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-climbing-the-popularity-ladder-with-staff-chosen-videos-at-vimeo/"><u>[Updated] Climbing the Popularity Ladder with Staff-Chosen Videos at Vimeo</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-crafting-breathtaking-tiled-photographic-artistry/"><u>[Updated] Crafting Breathtaking Tiled Photographic Artistry</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-proven-winners-selecting-the-best-hdr-cameras/"><u>[Updated] In 2024, Proven Winners Selecting the Best HDR Cameras</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-the-instagram-time-keeper-learning-to-rewind-for-2024/"><u>[Updated] The Instagram Time Keeper Learning to Rewind for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-xiaomi-14-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Xiaomi 14 | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/1722915383510-exploring-the-giants-of-social-networking-from-tweets-to-likes/"><u>Exploring the Giants of Social Networking: From Tweets to Likes!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-glow-enhanced-video-a-right-move-for-hdr-crafting/"><u>In 2024, Glow-Enhanced Video A Right Move for HDR Crafting?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-incorporating-secondary-footage-a-filmmakers-guide/"><u>In 2024, Incorporating Secondary Footage A Filmmaker's Guide</u></a></li>
+<li><a href="https://win-forum.techidaily.com/1722915213920-social-media-giants-facebook-tweeter-gram-a-gram-youtubo-showdown/"><u>Social Media Giants FaceBook, Tweeter, Gram-a-Gram, YouTubo Showdown!</u></a></li>
+<li><a href="https://win-forum.techidaily.com/1722915342597-top-social-networking-sites-exploring-facebook-twitter-instagram-and-youtube/"><u>Top Social Networking Sites: Exploring Facebook, Twitter, Instagram and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/ultimate-guide-resolving-this-application-cannot-start-issues-on-windows/"><u>Ultimate Guide: Resolving 'This Application Cannot Start' Issues on Windows</u></a></li>
+<li><a href="https://win-forum.techidaily.com/ultimate-guide-solving-persistent-issues-with-windows-explorer-crashes/"><u>Ultimate Guide: Solving Persistent Issues with Windows Explorer Crashes</u></a></li>
+<li><a href="https://win-forum.techidaily.com/unlocking-your-computers-potential-a-comprehensive-guide-to-tweaking-bios-in-windows-11/"><u>Unlocking Your Computer’s Potential: A Comprehensive Guide to Tweaking BIOS in Windows 11</u></a></li>
+</ul></div>
 

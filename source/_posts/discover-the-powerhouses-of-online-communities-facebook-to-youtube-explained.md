@@ -1,7 +1,7 @@
 ---
 title: "Discover the Powerhouses of Online Communities: Facebook to YouTube Explained!"
-date: 2024-08-12T04:53:02.972Z
-updated: 2024-08-13T04:53:02.972Z
+date: 2024-10-23T08:27:46.771Z
+updated: 2024-10-24T04:09:59.408Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/082fc262728d55c32a74b3f303edb941befed7588
 
 ## Understanding Digital Interaction: The Powerhouses - Facebook, Twitter, Instagram & Youtube
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## [What is BIOS](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1)
 
 * Share
@@ -38,14 +35,31 @@ thumbnail: https://thmb.techidaily.com/082fc262728d55c32a74b3f303edb941befed7588
  The BIOS includes instructions on how to load basic computer hardware. BIOS tests your system to verify the computer meets requirements to boot up properly. If the computer does not pass the test, you hear a combination of beeps indicating what is malfunctioning in the computer.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## What are the four main functions of a PC BIOS?
 
 * **POST** – BIOS performs a test on your computer hardware and make sure no errors exist before loading the operating system.
 * **Bootstrap Loader** – This function locates the operating system. If a capable operating system is located, the BIOS will pass control to it.
 * **BIOS drivers** – Low-level drivers that give the computer basic operational control over your computer’s hardware.
 * **BIOS setup or CMOS setup** – Configuration program that allows you to configure hardware settings including system settings, such as date, time, and computer passwords.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How does BIOS work?
 
@@ -54,8 +68,12 @@ thumbnail: https://thmb.techidaily.com/082fc262728d55c32a74b3f303edb941befed7588
  When you first start your computer BIOS checks if your system is operational. If everything is working on your system BIOS load the OS into the computer’s RAM (random access memory) from your hard disk.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Accessing BIOS
 
  You can access and configure BIOS through the BIOS Setup Utility. The way you can get access to BIOS varies and depends on the computer you are using. You can follow this general steps to get access to your BIOS:
@@ -72,23 +90,21 @@ thumbnail: https://thmb.techidaily.com/082fc262728d55c32a74b3f303edb941befed7588
 
  Another unique exploit involving the manipulation of BIOS was Plundervolt. Plundervolt could be used to mess with a computer’s power supply at the time data was being written to memory, causing errors that lead to security gaps. Intel released a BIOS patch to defend against it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Can a BIOS chip be upgraded or updated?
 
  Adding additional memory to a BIOS chip, as an upgrade, can only be done by replacing the existing BIOS chip with a new, more advanced BIOS chip.
 
  The data on a BIOS chip can be updated if it’s a flash BIOS. Using specially designed software, the BIOS can be updated to fix problems or add new features for the motherboard.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## We can help you every time when…
 
 * you cannot find the program in the Apps & Features list
@@ -104,8 +120,6 @@ thumbnail: https://thmb.techidaily.com/082fc262728d55c32a74b3f303edb941befed7588
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -113,4 +127,24 @@ thumbnail: https://thmb.techidaily.com/082fc262728d55c32a74b3f303edb941befed7588
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-beginners-blueprint-for-youtube-income-growth/"><u>[New] 2024 Approved Beginner's Blueprint for YouTube Income Growth</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-elevating-your-podcast-game-mastering-video-and-audio-techniques-on-zoom/"><u>[Updated] In 2024, Elevating Your Podcast Game Mastering Video and Audio Techniques on Zoom</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-mastering-mov-file-management-on-modern-windows-10/"><u>[Updated] Mastering .mov File Management on Modern Windows 10</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-nextgen-video-upscaler-mobiledesktop-edition/"><u>2024 Approved NextGen Video Upscaler Mobile/Desktop Edition</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-pros-hunters-rate-action-camera-winners/"><u>2024 Approved Pros Hunters Rate Action Camera Winners</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-thrifty-shopping-for-cameras-the-most-economical-lists-under-100/"><u>2024 Approved Thrifty Shopping for Cameras The Most Economical Lists Under $100</u></a></li>
+<li><a href="https://win-dash.techidaily.com/complete-tutorial-finding-and-updating-epson-printer-drivers-for-windows-10-systems/"><u>Complete Tutorial: Finding and Updating Epson Printer Drivers for Windows 10 Systems</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/insiders-look-at-3d-lut-design-for-2024/"><u>Insider's Look at 3D LUT Design for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/step-by-step-tutorial-on-converting-dvd-videots-to-avi-for-smooth-playback/"><u>Step-by-Step Tutorial on Converting DVD Video_TS to AVI for Smooth Playback</u></a></li>
+<li><a href="https://win-forum.techidaily.com/stop-the-constant-disruptions-fix-your-recurrently-crashing-windows-explorer-here/"><u>Stop the Constant Disruptions: Fix Your Recurrently Crashing Windows Explorer Here</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-dominant-forces-of-online-sharing-a-deep-dive-into-facebook-twitter-instagram-and-youtube/"><u>The Dominant Forces of Online Sharing - A Deep Dive Into Facebook, Twitter, Instagram & Youtube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-elite-group-of-social-media-giants-facebook-twitter-instagram-and-youtube-unveiled/"><u>The Elite Group of Social Media Giants - Facebook, Twitter, Instagram & YouTube Unveiled</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-power-quartet-of-social-networking-facebook-twitter-instagram-and-youtube/"><u>The Power Quartet of Social Networking: Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-ultimate-guide-to-major-social-applications-facebook-twitter-instagram-and-youtube/"><u>The Ultimate Guide to Major Social Applications: Facebook, Twitter, Instagram & Youtube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-social-networks-facebook-twitter-instagram-youtube/"><u>Top Social Networks: Facebook, Twitter, Instagram, YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/ultimate-tutorial-using-revo-uninstaller-for-permanent-file-deletion-on-windows-11-and-10/"><u>Ultimate Tutorial: Using Revo Uninstaller for Permanent File Deletion on Windows 11 & 10</u></a></li>
+<li><a href="https://win-forum.techidaily.com/unlock-remote-power-on-features-with-this-how-to-on-wake-on-lan-in-windows-11/"><u>Unlock Remote Power On Features with This How-To on Wake-on-LAN in Windows 11</u></a></li>
+</ul></div>
 

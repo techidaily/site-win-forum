@@ -1,7 +1,7 @@
 ---
 title: "Windows 11 Troubleshooting: Eliminating System Memory Dump Files Efficiently"
-date: 2024-08-12T04:48:11.595Z
-updated: 2024-08-13T04:48:11.595Z
+date: 2024-10-17T03:52:22.058Z
+updated: 2024-10-23T17:17:46.041Z
 tags:
   - win11
   - win10
@@ -35,8 +35,12 @@ thumbnail: https://thmb.techidaily.com/ad7d05b0030775951042fde08b0fbde9a0ebb4cf0
 ## So how can you install Windows 11 if your processor is not supported?
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Download the Windows 11 ISO
 
  This is a very important step. If you use the Windows 11 Install Assistant, this method won’t work.
@@ -46,28 +50,31 @@ thumbnail: https://thmb.techidaily.com/ad7d05b0030775951042fde08b0fbde9a0ebb4cf0
 3. Select your desired product language and click**Confirm** .
 4. Finally, click**64-bit Download** .
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### The next step is to edit the Windows Registry to skip the CPU Check during Windows 11 installation
 
 1. Open the Start Menu and in the Search Bar type “regedit”  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![regedit](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/install-windows-unsupported-cpu/regedit-exe.png)
 2. In the Registry Editor navigate to**Computer\\HKEY\_LOCAL\_MACHINE\\SYSTEM\\Setup\\MoSetup**
-3. In the right pane, right-click and select**New -> DWORD (32-bit) Value** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+3. In the right pane, right-click and select**New -> DWORD (32-bit) Value** .  
 ![dword](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/install-windows-unsupported-cpu/dword.png)
 4. Name the value “**AllowUpgradesWithUnsupportedTPMOrCPU** ” (don’t include the quotes).
-5. Double-click on the newly created value and enter 1 in the**Value data** filed.  
+
 <!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+5. Double-click on the newly created value and enter 1 in the**Value data** filed.  
 ![dword value](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/install-windows-unsupported-cpu/edit-dword-value.jpg)
 6. Click**OK** and close the registry editor.
 
@@ -85,8 +92,12 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## We can help you every time when…
 
 * you cannot find the program in the Apps & Features list
@@ -102,8 +113,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -111,4 +120,22 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-mastering-podcast-writing-tips-and-free-template-samples/"><u>[New] Mastering Podcast Writing Tips & Free Template Samples</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-how-to-upload-shorts-video-on-youtube/"><u>[Updated] 2024 Approved How to Upload Shorts Video on YouTube?</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-photographic-precision-the-ultimate-list-of-photo-framing-software/"><u>[Updated] 2024 Approved Photographic Precision The Ultimate List of Photo Framing Software</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-instas-power-players-a-guide-to-your-niches-movers-and-shakers/"><u>[Updated] In 2024, Insta’s Power Players A Guide to Your Niche's Movers & Shakers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-mastering-iphones-mirror-images-in-photos-for-2024/"><u>[Updated] Mastering iPhone's Mirror Images in Photos for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-seamless-temporal-annotation-perfecting-photo-date-insertion/"><u>[Updated] Seamless Temporal Annotation Perfecting Photo Date Insertion</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/complete-guide-setting-up-the-likuoo-plugin-for-unlimited-fun-with-likuoovideo-on-kodi-lea-and-krypton/"><u>Complete Guide: Setting Up the Likuoo Plugin for Unlimited Fun with likuoo.video on Kodi (Lea & Krypton)</u></a></li>
+<li><a href="https://win-forum.techidaily.com/defy-the-restrictions-a-step-by-step-to-run-windows-11-on-prohibited-cpus/"><u>Defy the Restrictions: A Step-by-Step to Run Windows 11 on Prohibited CPUs</u></a></li>
+<li><a href="https://win-forum.techidaily.com/digital-connection-leaders-delving-into-facebook-twitter-instagram-youtube/"><u>Digital Connection Leaders - Delving Into Facebook, Twitter, Instagram, Youtube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/discover-popular-sites-connect-and-share-on-facebook-twitter-instagram-youtube/"><u>Discover Popular Sites: Connect and Share on Facebook, Twitter, Instagram, Youtube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/discover-your-pc-specs-in-windows-11-a-detailed-walkthrough-of-the-system-summary-panel/"><u>Discover Your PC Specs in Windows 11 - A Detailed Walkthrough of the System Summary Panel</u></a></li>
+<li><a href="https://win-forum.techidaily.com/effective-solutions-for-tackling-full-hard-drive-use-in-windows-10-systems/"><u>Effective Solutions for Tackling Full Hard Drive Use in Windows 10 Systems</u></a></li>
+<li><a href="https://win-forum.techidaily.com/efficiently-deleting-windows-10-memory-dumps-for-optimal-performance/"><u>Efficiently Deleting Windows 10 Memory Dumps for Optimal Performance</u></a></li>
+<li><a href="https://win-forum.techidaily.com/efficiently-roll-back-windows-1011-patches-using-the-ultimate-tutorial-for-revouninstaller/"><u>Efficiently Roll Back Windows 10/11 Patches Using the Ultimate Tutorial for RevoUninstaller</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-step-by-step-tutorial-for-effective-morphvox-audio-changes/"><u>In 2024, Step-by-Step Tutorial for Effective MorphVOX Audio Changes</u></a></li>
+</ul></div>
 

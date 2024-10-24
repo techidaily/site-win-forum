@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Fresh Start Techniques for Windows 11 Computers
-date: 2024-08-12T04:53:12.280Z
-updated: 2024-08-13T04:53:12.280Z
+date: 2024-10-20T08:52:12.342Z
+updated: 2024-10-24T08:16:05.258Z
 tags:
   - win11
   - win10
@@ -33,20 +33,28 @@ thumbnail: https://thmb.techidaily.com/46486d3cf08c5d74abeb420acca02a4bdb0158ce8
 ## How to automatically free up drive space in Windows 11
 
 1. Press**Win Key + S** to open the Windows search and type Storage Settings and click on it.  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![Storage settings](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/free-up-drive-space/Method1-step-1.png)
 2. Click on**Storage**  
  If this is the first time you go into your Storage settings, it will take several seconds for your PC to analyze your stored data. You will get full information about your files on your PC such as temporary files, apps and features, and others.
 3. Turn ON the**Storage Sense** . By enabling this feature, your PC will automatically begin deleting temporary files, old downloads, and emptying your recycle bin when it is running low on space.  
 ![Storage sense](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/free-up-drive-space/Method1-step-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  When you turn on Storage Sense you will see a few more options. As we mention in the introduction, these options will help you determine which files are important, so you do not lose important information.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How to manually free drive space after you upgrade to Windows 11
 
  The good old Disk Cleanup utility can also be a reliable tool to free up drive space occupied by Windows backup and other temporary files.
@@ -58,16 +66,18 @@ thumbnail: https://thmb.techidaily.com/46486d3cf08c5d74abeb420acca02a4bdb0158ce8
 4. Click the**Clean up system files button** .  
 ![clean up system files](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/free-up-drive-space/Method2-step-4.png)
 5. Select the same system drive and click OK.
-6. Select**Windows Update Cleanup** and**Previous Windows Installation** options if available.  
+
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+6. Select**Windows Update Cleanup** and**Previous Windows Installation** options if available.  
 ![windows update cleanup](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/free-up-drive-space/Method2-step-6.png)
 7. Click**OK** and then click**Delete Files** to confirm the action. Make sure you are deleting the correct files. This is a permanent action and it will**permanently delete** all the files you’ve selected.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ## Free up drive space with Revo Uninstaller Pro
 
  The most common culprit of a full hard drive is the big number of apps and software installed on your computer.
@@ -77,24 +87,16 @@ thumbnail: https://thmb.techidaily.com/46486d3cf08c5d74abeb420acca02a4bdb0158ce8
  You can check our article on how you can[delete the software you are no longer using](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1) and it is filling up your disk space.
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Summary
 
  Performing a routine cleanup task can help you remove junk files that you have no use for and reclaim a ton of precious storage space. Enabling Storage Sense is an easy way to make sure that old temporary and junk files are removed from your hard drive and do not take extra space.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
 
 ## We can help you every time when…
@@ -112,8 +114,6 @@ thumbnail: https://thmb.techidaily.com/46486d3cf08c5d74abeb420acca02a4bdb0158ce8
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -121,4 +121,21 @@ thumbnail: https://thmb.techidaily.com/46486d3cf08c5d74abeb420acca02a4bdb0158ce8
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-revolutionizing-viewer-retention-on-youtube-with-these-powerful-strategies/"><u>[New] In 2024, Revolutionizing Viewer Retention on YouTube with These Powerful Strategies</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-elevating-your-youtube-comments-with-emoji-skills/"><u>[Updated] 2024 Approved Elevating Your YouTube Comments with Emoji Skills</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-dial-up-your-mobile-experience-vr-and-panoramic-videos-on-android/"><u>[Updated] In 2024, Dial Up Your Mobile Experience VR & Panoramic Videos on Android</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-premier-guidelines-for-broadcasting-sports-online/"><u>[Updated] Premier Guidelines for Broadcasting Sports Online</u></a></li>
+<li><a href="https://win-forum.techidaily.com/effective-techniques-for-handling-registry-key-operations-via-revouninstaller/"><u>Effective Techniques for Handling Registry Key Operations via RevoUninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-windows-11s-capabilities-the-basics-of-system-restore/"><u>Exploring Windows 11'S Capabilities: The Basics of System Restore</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-vivo-s18-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Vivo S18 | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Motorola Edge 40? | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-digital-landscape-with-leading-platforms-facebook-twitter-instagram-youtube/"><u>Navigating the Digital Landscape with Leading Platforms Facebook, Twitter, Instagram, Youtube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/social-networking-giants-unveiled-understanding-facebook-twitter-instagram-and-youtube/"><u>Social Networking Giants Unveiled: Understanding Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://fox-links.techidaily.com/step-by-written-by-john-smith-phd/"><u>Step-By Written by John Smith, PhD</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ltimate-android-resource-guide-to-download-videos-from-youtube/"><u>The Ultimate Android Resource Guide to Download Videos From YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/troubleshooting-and-fixing-issues-by-reverting-windows-11-system-updates/"><u>Troubleshooting and Fixing Issues by Reverting Windows 11 System Updates</u></a></li>
+<li><a href="https://win-forum.techidaily.com/wake-up-to-convenience-activating-the-wake-on-lan-protocol-in-windows-11/"><u>Wake Up to Convenience: Activating the Wake-on-LAN Protocol in Windows 11</u></a></li>
+</ul></div>
 

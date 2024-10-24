@@ -1,7 +1,7 @@
 ---
 title: "Fixing Continuous Freeze Frustration: Optimizing Your Computer's Performance"
-date: 2024-08-12T04:47:44.532Z
-updated: 2024-08-13T04:47:44.532Z
+date: 2024-10-17T01:53:18.944Z
+updated: 2024-10-24T03:50:11.201Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/d4011b13ce09e30b67e00ca49a12c263fc568d55d
 
 ## Harnessing Connections: Mastering Facebook, Twitter, Instagram and Youtube for Success
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## [How to delete files and folders with Command Prompt in Windows 10](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1)
 
 * Share
@@ -45,6 +42,13 @@ To use this method do the following:
 ![delete file with command prompt](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/delete-with-command-prompt/Method1-step2.png)
 3. After that press**Enter**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Lets’ see this example to clarify the whole process:
 
  You want to delete a file called_Info.txt_ that is located on your desktop. Use the following command in the Command Prompt where you replace username with your own username:
@@ -62,8 +66,12 @@ You can also add the /f parameter to force delete a read-only file.
  You can also use Revo Uninstallers’[force uninstall feature](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1) if you have trouble removing stubborn programs.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## To delete folders in Windows 10 with CMD you have to use the rmdir command
 
  This command will remove all folders including the subfolders and files in them.
@@ -73,11 +81,15 @@ To use this command do the following:
 1. Open the Start Menu and in the search bar type “cmd”. Right-click on the result and select “Run as Administrator”
 2. Type in the field the following command where PATH will be replaced with the full path to the file you want to delete.  
 **`rmdir PATH`**  
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remove folder with command prompt](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/delete-with-command-prompt/Method2-step2.png)
 3. Press**Enter** to finish the process
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  For example, to delete a folder named “Info” on your desktop, use the following command where you will replace username with your own username:
 
@@ -88,20 +100,18 @@ To use this command do the following:
  If you want to delete all the files and subfolders in the folder you want to delete, add the /s parameter. This will ensure that the folder is removed including the subfolders and files in it.
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Conclusion
 
  As you’ve noticed, commands to delete files and folders in Windows 10 can be pretty handy if you have trouble deleting them the regular way.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ## We can help you every time when…
 
 * you cannot find the program in the Apps & Features list
@@ -117,8 +127,6 @@ To use this command do the following:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -126,4 +134,20 @@ To use this command do the following:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/updated-guidelines-for-reducing-shake-in-mobile-videos/"><u>[Updated] Guidelines for Reducing Shake in Mobile Videos</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-premier-automatic-text-creators-from-videos-for-2024/"><u>[Updated] Premier Automatic Text Creators From Videos for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-oppo-a56s-5g-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Oppo A56s 5G | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/bios-essentials-and-how-revouninstaller-interacts-with-them/"><u>BIOS Essentials and How RevoUninstaller Interacts with Them</u></a></li>
+<li><a href="https://win-forum.techidaily.com/complete-tutorial-on-deleting-profiles-in-windows-n-11-with-revo-uninstaller-tool/"><u>Complete Tutorial on Deleting Profiles in Windows N 11 with Revo Uninstaller Tool</u></a></li>
+<li><a href="https://win-forum.techidaily.com/complete-tutorial-how-to-remove-kernel-memory-dumps-in-windows-10-easily/"><u>Complete Tutorial: How To Remove Kernel Memory Dumps in Windows 10 Easily</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/evaluating-the-performance-of-the-stylish-aukey-usb-nhub-is-it-worth-your-investment/"><u>Evaluating the Performance of the Stylish Aukey USB nHub: Is It Worth Your Investment?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-xiaomi-redmi-note-12r-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Xiaomi Redmi Note 12R to Outlook | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-enhancing-video-impact-interpreting-youtube-metrics-wisely/"><u>In 2024, Enhancing Video Impact Interpreting YouTube Metrics Wisely</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-vivo-y100i-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Vivo Y100i Pattern Lock Screen</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-lock-apps-on-motorola-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Motorola to Protect Your Individual Information</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/pc-hdd/"><u>PC HDDに保存されていたメールの復元法:重要データを取り戻すステップ</u></a></li>
+<li><a href="https://win-forum.techidaily.com/1722915348706-unleash-your-pcs-full-potential-with-the-latest-revo-uninstaller-pro-version-5/"><u>Unleash Your PC's Full Potential with the Latest: Revo Uninstaller Pro, Version 5</u></a></li>
+</ul></div>
 

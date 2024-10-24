@@ -1,7 +1,7 @@
 ---
 title: "Checking Your PowerShell Release: Essential Steps for Users of Windows 10 Operating System"
-date: 2024-08-12T04:49:30.579Z
-updated: 2024-08-13T04:49:30.579Z
+date: 2024-10-22T22:39:03.965Z
+updated: 2024-10-23T20:47:30.644Z
 tags:
   - win11
   - win10
@@ -31,13 +31,21 @@ thumbnail: https://thmb.techidaily.com/d0be551e2fb6faca9c1b4ad092d1becef6333157c
  The following article outlines the latest additions introduced in this new release.
 
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## What did we add in the new 5.0.0 version of Revo Uninstaller Pro?
 
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Uninstall History module
 
 ![History Module](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/introducing-revo-5/history-module.png)
@@ -50,12 +58,16 @@ thumbnail: https://thmb.techidaily.com/d0be551e2fb6faca9c1b4ad092d1becef6333157c
 
  There is also now an option to remove Browser Extensions. You can do this from the Command-Line interface. Supported are all of the most popular browsers.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3 new tools to Windows tools and possibility users to add their own tools
 
 ![Windows Tools](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/introducing-revo-5/3-new-windows-tools.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  In Revo Uninstaller Pro 5 we’ve added 3 new additional Windows tools for easy usage:
 
@@ -72,8 +84,12 @@ Standard user accounts can now uninstall programs and apps
  One of the biggest novelties in the latest release of Revo Uninstaller is the added possibility to uninstall programs and apps for standard (non-admin) users. This addition will enable users with standard accounts in Windows to uninstall apps, without the need for Administrator privileges.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Scanning for leftovers for all Windows accounts when uninstalling programs or apps
 
  Revo Uninstaller Pro allows you to scan and remove leftovers from different user accounts on your Windows computer.
@@ -86,9 +102,6 @@ Standard user accounts can now uninstall programs and apps
 
  Another major improvement we’ve made is to reduce the loading times when loading and scanning for leftovers. The speed is improved by up to 30-50%. This is especially noticeable when uninstalling large programs.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ### Batch uninstall of Windows Apps and Browser Extensions
 
  Revo Uninstaller Pro 5 allows you to uninstall multiple apps and browser extensions at once.
@@ -96,36 +109,38 @@ Standard user accounts can now uninstall programs and apps
  Another improvement to the Windows Apps module is the functionality of batch uninstall. This allows the users to uninstall multiple apps and browser extensions at once.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Dark Mode to the user interface (UI) of Revo Uninstaller Pro 5
 
 ![Dark mode](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/introducing-revo-5/dark-mode.png)
 
  Revo Uninstaller Pro 5 brings a new Dark mode to the user interface. If you prefer to use dark mode with your apps, you can now set Revo Uninstaller to match your preferences by enabling this feature.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Customization options for most program colors
 
  If Dark mode is not your thing, we’ve got you covered. Aside from Dark mode, Revo Uninstaller Pro 5 now lets you customize most of the program colors, so you can make it look the way you like. To make this easier, we’ve added an extended color customization palette.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Improved and Redesigned Quick Uninstall
 
  Our improved Quick Uninstall Module includes a better User Interface and visualization of the whole uninstallation process. Now Revo Uninstaller Pro 5 Quick Uninstall lists all Windows Apps and Browser Extensions, so you can get quick access to them and remove the ones you are not using.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Summary
 
  If you want to try out these new features, you can get Revo Uninstaller Pro 5[here](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1) . If you already have an active subscription all you need to do is update to the latest version.
 
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## We can help you every time when…
 
@@ -142,8 +157,6 @@ Standard user accounts can now uninstall programs and apps
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -151,4 +164,22 @@ Standard user accounts can now uninstall programs and apps
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-ladies-of-the-digital-battlefield-youtubes-leading-tens/"><u>[New] Ladies of the Digital Battlefield YouTube's Leading Tens</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-prime-audio-pads-for-the-web-for-2024/"><u>[New] Prime Audio Pads for the Web for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-secret-of-superiority-in-photo-hue-modification/"><u>[New] The Secret of Superiority in Photo Hue Modification</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-techniques-for-accelerating-playback-on-spotify/"><u>[Updated] 2024 Approved Techniques for Accelerating Playback on Spotify</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-zoom-class-chronicling/"><u>[Updated] Zoom Class Chronicling</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-socialsnatcher-grab-and-save-twitter-vids-in-a-flash/"><u>2024 Approved SocialSnatcher Grab and Save Twitter Vids in a Flash</u></a></li>
+<li><a href="https://win-forum.techidaily.com/discovering-the-current-version-of-powershell-in-windows-10/"><u>Discovering the Current Version of PowerShell in Windows 10</u></a></li>
+<li><a href="https://win-forum.techidaily.com/easy-deletion-of-windows-10-profiles-using-revo-uninstaller/"><u>Easy Deletion of Windows 10 Profiles Using Revo Uninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/effective-ways-to-remove-memorydump-in-windows-11-tutorial/"><u>Effective Ways to Remove MEMORY_DUMP in Windows 11 - Tutorial</u></a></li>
+<li><a href="https://win-forum.techidaily.com/effortless-file-removal-learn-to-use-command-prompt-in-windows-10/"><u>Effortless File Removal: Learn to Use Command Prompt in Windows 10</u></a></li>
+<li><a href="https://win-forum.techidaily.com/expert-advice-revo-uninstaller-alternatives-for-modifying-system-configuration-in-windows-11/"><u>Expert Advice: Revo Uninstaller Alternatives for Modifying System Configuration in Windows 11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/explore-the-world-of-social-networking-with-facebook-twitter-instagram-and-youtube/"><u>Explore the World of Social Networking with Facebook, Twitter, Instagram and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-bios-functionality-and-its-role-in-computing-systems/"><u>Exploring BIOS Functionality and Its Role in Computing Systems</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-oppo-k11x-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Oppo K11x FRP In 3 Different Ways</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-ultimate-guide-to-premium-automotive-camera-tech/"><u>In 2024, Ultimate Guide to Premium Automotive Camera Tech</u></a></li>
+</ul></div>
 

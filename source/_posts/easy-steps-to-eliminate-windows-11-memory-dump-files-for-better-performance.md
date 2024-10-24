@@ -1,7 +1,7 @@
 ---
 title: Easy Steps to Eliminate Windows 11 Memory Dump Files for Better Performance
-date: 2024-08-12T04:51:28.383Z
-updated: 2024-08-13T04:51:28.383Z
+date: 2024-10-22T08:37:20.981Z
+updated: 2024-10-24T03:27:36.477Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/937c541b992b0530a2d9f47c677a74bf9df2301f6
 
 ## The Ultimate Troubleshooting Steps to Get Windows 11 Up and Running Again
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## [How to fix Windows 11 Wont Run on my PC error](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1)
 
 * Share
@@ -56,8 +53,12 @@ thumbnail: https://thmb.techidaily.com/937c541b992b0530a2d9f47c677a74bf9df2301f6
 * [This PC can’t run Windows 11. The processor isn’t supported for Windows 11.](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1)
 
 <!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Guide 1: How to fix “This PC can’t run Windows 11\. TPM 2.0 is a requirement for running Windows 11” error
 
 ![TPM required](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-windows-11-wont-run/guide1-overview.jpg)
@@ -74,11 +75,16 @@ In this case there are 2 issues:
    2. Step 2 – When the TPM utility pops up, check if the chip is in use.  
     If yes, you’ll see it under the Status section, marked as The TPM is ready to use.  
    3. Step 3 – The TPM Manufacturer Information section will provide you with information about the TPM version.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
    ![TPM ready to use](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-windows-11-wont-run/guide1-step3.jpg) If it is TPM 2.0, you will be able to install and run Windows 11.If the version of TPM is not 2.0 or if it is lower, that means that you won’t be able to update to Windows 11.  
     When your computer warns “Compatible TPM cannot be found” or the TPM module version is lower than 2.0, staying with your current computer operating system will be a wise decision.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2. Enable TPM 2.0 chip for Windows 11  
    1. Step 1 – Restart your PC and press the F2/F10/Del key to enter your BIOS  
    2. Step 2 – Navigate with your keyboard to the Security section.  
@@ -88,10 +94,14 @@ In this case there are 2 issues:
 
 ## Guide 2 – How to fix “This PC can’t run Windows 11\. The PC must support Secure Boot” error
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![secure boot not supported](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-windows-11-wont-run/guide2-overview.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Secure Boot mode is usually enabled for most modern computers. Its’ role is to keep your computer safe. In order to update to Windows 11 the Secure Boot mode needs to be enabled.
 
@@ -102,11 +112,20 @@ In this case there are 2 issues:
    1. Press Win Key + R. Type msinfo32.exe, and hit Enter.  
    2. Select System Summary  
    3. On the right-side pane scroll down and try to find a section named Secure Boot State (as shown in the screenshot)  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
    ![secure boot info](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-windows-11-wont-run/guide21-how-to-enable-secure-boot-step-3.png) If the Secure Boot State shows as “Off”, that means that your PC support Secure Boot and just follow this guide in order to enable it.If the Secure Boot State shows as “Unsupported”, that means that your computer hardware does not support Secure Boot. To fix this issue you need to check if your PC supports UEFI mode first.
+
+<!-- affiliate ads begin -->
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 2. #### Check if your PC supports UEFI mode  
 
@@ -119,9 +138,6 @@ The ultimate burning program for all your needs!</a>
 
    1. 1. Restart your PC and press the F2/F10/Del key to enter your BIOS  
          2. Navigate to the Boot Menu. Locate the Boot Mode section and click to see if your computer supports UEFI mode.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
          ![uefi mode](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-windows-11-wont-run/guide22-check-if-your-pc-supports-uefi-mode-step-2.jpg)  
          3. Select UEFI boot mode and press F10 to Save and Exit your BIOS.  
          ![select uefi mode](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-windows-11-wont-run/guide23-enable-uefi-step-3.jpg)  
@@ -130,14 +146,8 @@ The ultimate burning program for all your needs!</a>
 
    1. 1. Restart your PC and re-enter your BIOS settings.  
          2. Navigate to the Boot Menu, select Secure Boot settings and set it to “Enabled”  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
          ![enable uefi mode](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-windows-11-wont-run/guide24-enable-secure-boot-step-2.jpg) Once you enable the UEFI mode and Secure Boot you can continue installing the Windows 100 update on your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ## Guide 3 – How to fix “This PC can’t run Windows 11\. The processor isn’t supported for Windows 11.” error
 
 ![processor not supported](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-windows-11-wont-run/guide3-overview.jpg)
@@ -147,13 +157,24 @@ The ultimate burning program for all your needs!</a>
  We’ve cover this error in a separate article that you can find[here](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1)
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Conclusion
 
  As a new operating system, every user wants to try out its’ new features. However, because there are minimum system requirements, many users receive the “This PC can’t run Windows” error. The most common reason for the message is the lack of secure boot or TPM 2.0.
 
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## We can help you every time when…
 
@@ -170,8 +191,6 @@ The ultimate burning program for all your needs!</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -179,4 +198,26 @@ The ultimate burning program for all your needs!</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/asterclass-in-glamour-beauty-tutorials-for-all-for-2024/"><u>[New] Masterclass in Glamour Beauty Tutorials for All for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-what-makes-virtual-reality-headsets-unique-in-2024/"><u>[New] What Makes Virtual Reality Headsets Unique, In 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-barefoot-tape-observation-and-supplementary-selections-for-2024/"><u>[Updated] Barefoot Tape Observation and Supplementary Selections for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-directsnap-recorder-for-modern-oses/"><u>[Updated] In 2024, DirectSnap Recorder for Modern OSes</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/clear-cache-in-firefox-step-by-step/"><u>Clear Cache in Firefox [Step by Step]</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/exclusive-gpodc-must-haves-for-2024/"><u>Exclusive GPodC Must-Haves for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/guide-to-encrypting-text-files-with-secure-passwords-using-revo-uninstaller/"><u>Guide to Encrypting Text Files with Secure Passwords Using Revo Uninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/harnessing-the-power-of-major-social-media-insights-into-facebook-twitter-instagram-and-youtube-strategies/"><u>Harnessing The Power Of Major Social Media: Insights Into Facebook, Twitter, Instagram & Youtube Strategies</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-get-rid-of-system-memory-logs-in-windows-11-a-comprehensive-guide/"><u>How to Get Rid of System Memory Logs in Windows 11: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-successfully-remove-stubborn-software-from-your-pc-or-mac/"><u>How To Successfully Remove Stubborn Software From Your PC or Mac</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-uninstall-windows-11-and-11-updates-revouninstaller/"><u>How to Uninstall Windows 11 and 11 Updates - RevoUninstaller</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Oppo Find X7 Ultra | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/introducing-the-latest-features-in-revo-uninstaller-pro-5-software-suite/"><u>Introducing the Latest Features in Revo Uninstaller Pro 5 Software Suite</u></a></li>
+<li><a href="https://win-forum.techidaily.com/locate-and-identify-your-active-powershell-version-on-a-windows-10-machine-effortlessly/"><u>Locate and Identify Your Active PowerShell Version on a Windows 10 Machine Effortlessly</u></a></li>
+<li><a href="https://win-forum.techidaily.com/master-the-art-of-android-app-management-and-declutter-your-interface/"><u>Master the Art of Android App Management and Declutter Your Interface</u></a></li>
+<li><a href="https://win-forum.techidaily.com/master-the-cmd-file-and-folder-removal-techniques-for-windows-11-users/"><u>Master the CMD: File & Folder Removal Techniques for Windows 11 Users</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-from-fast-to-slow-a-comprehensive-guide-to-windows-live-movie-makers-slow-motion-effect-for-2024/"><u>New From Fast to Slow A Comprehensive Guide to Windows Live Movie Makers Slow Motion Effect for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-vivo-s18-pro-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Vivo S18 Pro Location | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transforming-life-a-complete-guide-on-leveraging-chatgpt/"><u>Transforming Life: A Complete Guide on Leveraging ChatGPT</u></a></li>
+</ul></div>
 

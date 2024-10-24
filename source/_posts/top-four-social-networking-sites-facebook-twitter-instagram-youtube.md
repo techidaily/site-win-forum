@@ -1,7 +1,7 @@
 ---
 title: "Top Four Social Networking Sites: Facebook | Twitter | Instagram | YouTube"
-date: 2024-08-12T04:50:24.592Z
-updated: 2024-08-13T04:50:24.592Z
+date: 2024-10-17T18:24:41.637Z
+updated: 2024-10-24T05:30:56.601Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/a3b5ab34eaf3f37a9a75db4fff942183c1ae755ba
 
 ## Exploring the Biggest Networking Sites: Facebook, Twitter, Instagram, and YouTube
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ## [What is BIOS](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1)
 
 * Share
@@ -30,19 +27,27 @@ thumbnail: https://thmb.techidaily.com/a3b5ab34eaf3f37a9a75db4fff942183c1ae755ba
  BIOS (basic input/output system) is actually a program that the computer’s microprocessor is using to start the computer system. It’s other functions are to manage data flow between the computer’s operating system (OS) and attached devices, such as the hard disk, video adapter, keyboard, mouse and printer.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## First lets learn more about the history of BIOS
 
  The term BIOS was first used by Gary Kildall in 1975\. The first BIOS was incorporated in IBMs’ first personal computer in 198\. In the years to come, it gained popularity within other PCs, becoming an integral part of computers for some time.Unfortunately BIOS’ popularity starts to decline in favor of a newer technology: Unified Extensible Firmware Interface (UEFI). Intel announced a plan in 2017 to retire support for legacy BIOS systems by 2020, replacing them with UEFI.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## So what does a BIOS include?
 
  The BIOS includes instructions on how to load basic computer hardware. BIOS tests your system to verify the computer meets requirements to boot up properly. If the computer does not pass the test, you hear a combination of beeps indicating what is malfunctioning in the computer.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ## What are the four main functions of a PC BIOS?
 
 * **POST** – BIOS performs a test on your computer hardware and make sure no errors exist before loading the operating system.
@@ -56,6 +61,13 @@ thumbnail: https://thmb.techidaily.com/a3b5ab34eaf3f37a9a75db4fff942183c1ae755ba
 
  When you first start your computer BIOS checks if your system is operational. If everything is working on your system BIOS load the OS into the computer’s RAM (random access memory) from your hard disk.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Accessing BIOS
 
  You can access and configure BIOS through the BIOS Setup Utility. The way you can get access to BIOS varies and depends on the computer you are using. You can follow this general steps to get access to your BIOS:
@@ -66,19 +78,12 @@ thumbnail: https://thmb.techidaily.com/a3b5ab34eaf3f37a9a75db4fff942183c1ae755ba
 
  Once in BIOS Setup Utility, users can change hardware settings, manage memory settings, change the boot order or boot device, and reset the BIOS password, among other configuration tasks.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## BIOS security
 
  Usually not a lot of users talk about BIOS security, but it should not be overlooked. There is a case study by the Security Group – Cylance that showed how modern BIOS can have flaw in its security and ransomware programs can access the motherboard’s UEFI and exploit the other PC BIOS vulnerabilities.
 
  Another unique exploit involving the manipulation of BIOS was Plundervolt. Plundervolt could be used to mess with a computer’s power supply at the time data was being written to memory, causing errors that lead to security gaps. Intel released a BIOS patch to defend against it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## Can a BIOS chip be upgraded or updated?
 
  Adding additional memory to a BIOS chip, as an upgrade, can only be done by replacing the existing BIOS chip with a new, more advanced BIOS chip.
@@ -88,8 +93,12 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## We can help you every time when…
 
 * you cannot find the program in the Apps & Features list
@@ -105,8 +114,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -114,4 +121,18 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-elevating-your-tiktok-presence-by-merging-bio-and-linktree/"><u>[New] In 2024, Elevating Your TikTok Presence by Merging Bio & Linktree</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-your-ultimate-guide-to-streaming-google-meet-on-youtube/"><u>[Updated] Your Ultimate Guide to Streaming Google Meet on YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/engage-with-influence-a-guide-to-facebook-twitter-instagram-and-youtube-strategies/"><u>Engage with Influence: A Guide to Facebook, Twitter, Instagram & YouTube Strategies</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/enhance-your-pcs-performance-by-upgrading-to-free-killer-network-drivers-supports-windows-1087/"><u>Enhance Your PC's Performance by Upgrading to Free Killer Network Drivers - Supports Windows 10/8/7</u></a></li>
+<li><a href="https://win-forum.techidaily.com/expert-advice-on-clearing-out-memory-dump-files-in-windows-10-operating-system/"><u>Expert Advice on Clearing Out Memory Dump Files in Windows 10 Operating System</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-the-giants-of-social-networking-facebook-twitter-instagram-and-youtube/"><u>Exploring the Giants of Social Networking - Facebook, Twitter, Instagram and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-access-and-understand-bios-on-windows-11-a-comprehensive-guide/"><u>How to Access and Understand BIOS on Windows 11: A Comprehensive Guide</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-google-pixel-fold-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Google Pixel Fold to PC? | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-tricks-to-simulate-historical-alterations/"><u>In 2024, Tricks to Simulate Historical Alterations</u></a></li>
+<li><a href="https://some-skills.techidaily.com/timing-your-podcast-release-effectively-for-2024/"><u>Timing Your Podcast Release Effectively for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-resolving-the-sims-4-wont-open-problem/"><u>Troubleshooting Steps: Resolving the 'Sims 4 Won't Open' Problem</u></a></li>
+</ul></div>
 

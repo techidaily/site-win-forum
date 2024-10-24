@@ -1,7 +1,7 @@
 ---
 title: "The Big Four of Social Networking: Facebook, Twitter, Instagram & YouTube"
-date: 2024-08-12T04:54:51.662Z
-updated: 2024-08-13T04:54:51.662Z
+date: 2024-10-19T22:53:01.997Z
+updated: 2024-10-24T07:52:57.376Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/0637330b995d15dd54d33a9215c8a5f8a70563681
 
 ## The Big Four of Social Networking - Facebook, Twitter, Instagram, and YouTube Explained
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## [5 Ways to Lock your Windows PC](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1)
 
 * Share
@@ -35,12 +32,17 @@ thumbnail: https://thmb.techidaily.com/0637330b995d15dd54d33a9215c8a5f8a70563681
 
 1. Click on the**‘Start’** button located at the bottom left corner of the screen or press the**‘Windows’** key on your keyboard to open the Start menu. ![Start menu lock](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/lock-pc/method-1-start-menu.png)
 2. In the Start menu, click on your user profile icon or name located at the top.
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. This will open a menu with various options. Click on**‘Lock’** from the list of options.
 4. Alternatively, you can also press the**‘Windows’** key +**‘L’** on your keyboard as a shortcut to lock your PC instantly.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ## II. Another way to lock your Windows Computer and protect your data is through the Task Manager. Here are the steps you have to take in order to do that
 
 1. Right-click on the taskbar at the bottom of your screen. This will open a context menu.
@@ -48,12 +50,16 @@ thumbnail: https://thmb.techidaily.com/0637330b995d15dd54d33a9215c8a5f8a70563681
 3. Once Task Manager opens, go to the**“File”** menu located in the top left corner of the window.
 4. Select**“App History”**
 5. From the dropdown menu, select**“Run new task”** . ![Run new task](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/lock-pc/method-2-task-manager-1.png)
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. In the**“Create new task”** window, type**“tsdiscon”** (short for “Terminal Services Disconnect”) into the text field. ![Create new task](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/lock-pc/method-2-task-manager-2.png)
 7. Check the box next to**“Create this task with administrative privileges”** .
 8. Click**“OK”** .
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## III. How to Lock a Windows 11 computer via the Ctrl + Alt + Delete Menu
 
@@ -66,9 +72,6 @@ thumbnail: https://thmb.techidaily.com/0637330b995d15dd54d33a9215c8a5f8a70563681
  To initiate this process, begin by accessing the Start menu search bar. Enter “Command Prompt” and select the best match. Once the Command Prompt window opens, input the following command and press Enter:  
 **Rundll32.exe user32.dll,LockWorkStation**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## V. How to lock your computer with Dynamic Lock
 
  Locking your Windows 11 PC with Dynamic Lock offers an additional layer of security by automatically securing your device when you step away. Dynamic Lock utilizes the presence of a paired Bluetooth device to determine your proximity to the PC. When you move out of range, your PC locks itself to prevent unauthorized access. Here’s how to set it up:
@@ -84,14 +87,22 @@ thumbnail: https://thmb.techidaily.com/0637330b995d15dd54d33a9215c8a5f8a70563681
 
  In matters of cybersecurity, you represent the primary line of defense. The method you select to lock your PC is less crucial than ensuring that you do so consistently. Additionally, it’s essential to configure your PC to lock itself automatically in case of oversight.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## We can help you every time when…
 
 * you cannot find the program in the Apps & Features list
@@ -107,8 +118,6 @@ thumbnail: https://thmb.techidaily.com/0637330b995d15dd54d33a9215c8a5f8a70563681
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -116,4 +125,16 @@ thumbnail: https://thmb.techidaily.com/0637330b995d15dd54d33a9215c8a5f8a70563681
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-mastering-imovie-content-for-youtube-distribution/"><u>[Updated] In 2024, Mastering iMovie Content for YouTube Distribution</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-prime-posting-hours-the-key-to-youtube-dominance/"><u>[Updated] Prime Posting Hours The Key to YouTube Dominance</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-samsung-galaxy-z-flip-5-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/essential-platforms-in-digital-communication-facebook-twitter-instagram-and-youtube/"><u>Essential Platforms in Digital Communication: Facebook, Twitter, Instagram and Youtube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/expert-advice-factory-reinitialize-your-windows-11-system-effortlessly/"><u>Expert Advice: Factory Reinitialize Your Windows 11 System Effortlessly</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/fine-tuning-frames-a-comprehensible-approach-to-iphone-editing-for-2024/"><u>Fine-Tuning Frames A Comprehensible Approach to iPhone Editing for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/1722915430604-navigating-the-giants-of-digital-communication-facebook-twitter-instagram-and-youtube/"><u>Navigating the Giants of Digital Communication: Facebook, Twitter, Instagram and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/social-media-staples-decoded-exploring-facebook-twitter-instagram-and-youtube/"><u>Social Media Staples Decoded: Exploring Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unleash-your-creativity-best-5-artificeintelligence-writing-assistants/"><u>Unleash Your Creativity: Best 5 ArtificeIntelligence Writing Assistants</u></a></li>
+</ul></div>
 

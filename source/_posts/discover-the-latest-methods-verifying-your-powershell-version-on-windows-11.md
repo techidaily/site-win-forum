@@ -1,7 +1,7 @@
 ---
 title: "Discover the Latest Methods: Verifying Your PowerShell Version on Windows 11"
-date: 2024-08-12T04:54:36.012Z
-updated: 2024-08-13T04:54:36.012Z
+date: 2024-10-22T05:51:05.947Z
+updated: 2024-10-24T04:02:48.410Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/c6429f73427910ad10427b45e11889d34e56d443e
 
 ## Discover the Powerhouses of Online Communities: Facebook to YouTube Explained
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## [What is BIOS](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1)
 
 * Share
@@ -29,9 +26,6 @@ thumbnail: https://thmb.techidaily.com/c6429f73427910ad10427b45e11889d34e56d443e
 
  BIOS (basic input/output system) is actually a program that the computer’s microprocessor is using to start the computer system. It’s other functions are to manage data flow between the computer’s operating system (OS) and attached devices, such as the hard disk, video adapter, keyboard, mouse and printer.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## First lets learn more about the history of BIOS
 
  The term BIOS was first used by Gary Kildall in 1975\. The first BIOS was incorporated in IBMs’ first personal computer in 198\. In the years to come, it gained popularity within other PCs, becoming an integral part of computers for some time.Unfortunately BIOS’ popularity starts to decline in favor of a newer technology: Unified Extensible Firmware Interface (UEFI). Intel announced a plan in 2017 to retire support for legacy BIOS systems by 2020, replacing them with UEFI.
@@ -40,9 +34,6 @@ thumbnail: https://thmb.techidaily.com/c6429f73427910ad10427b45e11889d34e56d443e
 
  The BIOS includes instructions on how to load basic computer hardware. BIOS tests your system to verify the computer meets requirements to boot up properly. If the computer does not pass the test, you hear a combination of beeps indicating what is malfunctioning in the computer.
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What are the four main functions of a PC BIOS?
 
 * **POST** – BIOS performs a test on your computer hardware and make sure no errors exist before loading the operating system.
@@ -51,8 +42,12 @@ thumbnail: https://thmb.techidaily.com/c6429f73427910ad10427b45e11889d34e56d443e
 * **BIOS setup or CMOS setup** – Configuration program that allows you to configure hardware settings including system settings, such as date, time, and computer passwords.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How does BIOS work?
 
  Most computers come with included BIOS in them as firmware on the chip of your motherboard. BIOS is a program that is accessible by the microprocessor on an erasable programmable read-only memory (EPROM) chip. When you turn on your PC the microprocessor passes control to the BIOS.
@@ -69,11 +64,31 @@ thumbnail: https://thmb.techidaily.com/c6429f73427910ad10427b45e11889d34e56d443e
 
  Once in BIOS Setup Utility, users can change hardware settings, manage memory settings, change the boot order or boot device, and reset the BIOS password, among other configuration tasks.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## BIOS security
 
  Usually not a lot of users talk about BIOS security, but it should not be overlooked. There is a case study by the Security Group – Cylance that showed how modern BIOS can have flaw in its security and ransomware programs can access the motherboard’s UEFI and exploit the other PC BIOS vulnerabilities.
 
  Another unique exploit involving the manipulation of BIOS was Plundervolt. Plundervolt could be used to mess with a computer’s power supply at the time data was being written to memory, causing errors that lead to security gaps. Intel released a BIOS patch to defend against it.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Can a BIOS chip be upgraded or updated?
 
@@ -81,14 +96,15 @@ thumbnail: https://thmb.techidaily.com/c6429f73427910ad10427b45e11889d34e56d443e
 
  The data on a BIOS chip can be updated if it’s a flash BIOS. Using specially designed software, the BIOS can be updated to fix problems or add new features for the motherboard.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## We can help you every time when…
 
 * you cannot find the program in the Apps & Features list
@@ -104,8 +120,6 @@ thumbnail: https://thmb.techidaily.com/c6429f73427910ad10427b45e11889d34e56d443e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -113,4 +127,19 @@ thumbnail: https://thmb.techidaily.com/c6429f73427910ad10427b45e11889d34e56d443e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-how-to-innovate-your-tiktok-intro-video-a-mac-perspective/"><u>[New] How to Innovate Your TikTok Intro Video - A Mac Perspective</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-building-your-first-channel-essential-video-gear-list/"><u>[Updated] Building Your First Channel Essential Video Gear List</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exciting-joint-ventures-in-the-virtual-metaverse/"><u>2024 Approved Exciting Joint Ventures in the Virtual Metaverse</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-superfast-windows-images-scaner/"><u>2024 Approved Superfast Windows Images Scaner</u></a></li>
+<li><a href="https://win-forum.techidaily.com/comprehensive-troubleshooting-for-chronic-computer-freezing-expert-tips/"><u>Comprehensive Troubleshooting for Chronic Computer Freezing - Expert Tips</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722853495092-exploring-telecom-giants-what-is-a-carrier-responsible-for-in-the-world-of-mobile-connectivity/"><u>Exploring Telecom Giants: What Is a Carrier Responsible for in the World of Mobile Connectivity?</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-force-quit-an-app-on-your-windows-11-pc-revouninstaller/"><u>How to Force Quit an App on Your Windows 11 PC - RevoUninstaller</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-essential-strategies-to-save-instagram-stories/"><u>In 2024, Essential Strategies to Save Instagram Stories</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-why-is-ipogo-not-working-on-nubia-red-magic-8s-proplus-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Nubia Red Magic 8S Pro+? Fixed | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-application-shutdown-advanced-strategies-for-windows-11-users-facing-app-crashes/"><u>Mastering Application Shutdown: Advanced Strategies for Windows 11 Users Facing App Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/red-dead-online-for-pc-troubleshooting-persistent-crash-problems/"><u>Red Dead Online for PC - Troubleshooting Persistent Crash Problems</u></a></li>
+<li><a href="https://win-forum.techidaily.com/unleashing-your-brands-potential-on-top-platforms-facebook-twitter-instagram-youtube/"><u>Unleashing Your Brand's Potential on Top Platforms - Facebook, Twitter, Instagram, YouTube</u></a></li>
+</ul></div>
 

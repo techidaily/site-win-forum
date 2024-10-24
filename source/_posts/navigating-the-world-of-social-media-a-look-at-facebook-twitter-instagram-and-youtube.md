@@ -1,7 +1,7 @@
 ---
 title: "Navigating the World of Social Media: A Look at Facebook, Twitter, Instagram & YouTube"
-date: 2024-08-12T04:52:51.589Z
-updated: 2024-08-13T04:52:51.589Z
+date: 2024-10-22T20:23:10.492Z
+updated: 2024-10-23T23:39:32.993Z
 tags:
   - win11
   - win10
@@ -28,6 +28,13 @@ thumbnail: https://thmb.techidaily.com/064bb5c43db4056e998dcb4f406cb778296c7343d
 
  This scenario is quite inconvenient, but in our article, we have the solutions to solve this problem.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Here are the most common reasons why you see the “this app can’t run on your PC” error
 
 * Access is denied You will see this error if your[user account](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1) is not set up properly. Creating a new administrator account should fix it.
@@ -38,8 +45,12 @@ thumbnail: https://thmb.techidaily.com/064bb5c43db4056e998dcb4f406cb778296c7343d
 * Antivirus software – You can also stumble upon this error with Antivirus products.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Methods to fix “This app can’t run on your PC” error
 
 ### Method 1: Make a copy of the .exe files you are trying to run
@@ -48,20 +59,29 @@ thumbnail: https://thmb.techidaily.com/064bb5c43db4056e998dcb4f406cb778296c7343d
 
  To do that simply right-click on the file and click “Copy”. In the same folder or space right-click again and click “Paste”. Try to run the copied file and see if the error still shows up.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ![copy command](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-this-app-cant-run/Method-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Method 2: Disable SmartScreen
 
 1. Press the Windows key and in the search field type`smart screen`
 2. Click on Change SmartScreen from the shown results  
 ![change SmartScreen settings](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-this-app-cant-run/Method-2.png)
 3. Navigate to Security and locate**Windows SmartScreen**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Click Change settings and select “**Do not do anything** “
 5. Click OK to save the changes
 
@@ -76,9 +96,6 @@ thumbnail: https://thmb.techidaily.com/064bb5c43db4056e998dcb4f406cb778296c7343d
 1. Open the**Microsoft Store app** from the Start Menu
 2. Click the**3-dot menu** and open**Downloads and updates**
 3. Click on the “**Get Updates** ” button  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ![get updates button](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-this-app-cant-run/Method-3.png)
 
 ### Method 4: Create a new administrator account
@@ -99,8 +116,12 @@ thumbnail: https://thmb.techidaily.com/064bb5c43db4056e998dcb4f406cb778296c7343d
  In most cases the error was fixed by creating a new administrator account.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Method 5: Disable Proxy orVPN if you are running them
 
 1. Open the**Start Menu** and open**Control Panel**
@@ -113,46 +134,27 @@ thumbnail: https://thmb.techidaily.com/064bb5c43db4056e998dcb4f406cb778296c7343d
 
  If you are using this feature, there is a big chance that the connection to the Microsoft Store servers is being blocked. If your apps don’t run on your PC, disable these settings.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 6: Run anSFC scan
 
 1. Open the**Start Menu** . In the search bar type cmd. Right-click**Command Prompt** and select**Run as Administrator**  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![run as administrator](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-this-app-cant-run/Method-6.jpg)
 2. Type the`sfc/scannow` command  
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![scannow command](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-this-app-cant-run/Method-7-step2.jpg)
 3. Wait for the process to end and reboot your computer. This scan should fix all of your corrupted files
 
 ### Method 7: Enable App side-loading
 
 1. Open the**Start Menu** and click on**PC Settings**  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![developer mode](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-this-app-cant-run/Method-7-step1.jpg)
 2. Navigate to “**Update&Security** “
 3. Navigate to the “**For developers** ” tab and turn on “**Developer Mode** “
 
  This fix will prevent the “this app can’t run on your PC” error from appearing again.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ### Method 8: Check your disk for errors
 
  Another reason behind the “this app can’t run on your PC” error can be disk errors. To fix them open**Command Prompt** as mentioned in the previous step and type the command`chkdsk C: /f`
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ![chkdsk command](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-this-app-cant-run/Method-8.jpg)
 
 ### Method 9: Clear your browser cache
@@ -160,6 +162,13 @@ thumbnail: https://thmb.techidaily.com/064bb5c43db4056e998dcb4f406cb778296c7343d
  There are cases where during download the files are getting corrupted. This will result in files and folders not being fully downloaded. This usually happens if you don’t clean your browser cache regularly.
 
  You can check our article on how to[clear your computers’ cache](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1) with Revo Uninstaller Pro, including your browser.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 10: Clean your temporary files and folders
 
@@ -172,11 +181,6 @@ So how to clean your temporary files?
 3. Select “**Clean up system files** ”  
 ![clean up system files](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-this-app-cant-run/Method-10.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ### Method 11: Run a full Windows Defender scan
 
  As most of us know malware can be very bad for our PC. It can be the reason behind many error messages, it can also prevent many apps from running or from being installed.
@@ -200,9 +204,6 @@ To update your Windows:
 ![check for updates](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-this-app-cant-run/Method-12-step3.jpg)
 4. Install the latest Windows updates
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ### Method 13: Check if your PC is 32-bit or 64-bit Compatible
 
  WindowsOS has two versions: 32-bit and 64-bit. There is a chance that you are running a 32-bit version of Windows, but the app is 64-bit.
@@ -211,12 +212,16 @@ To confirm if that is the reason, check the PC specifications:
 
 1. Open the**Start Menu** and click on**PC Settings**
 2. Select**System**  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ![system](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-this-app-cant-run/Method-13-step2.png)
 3. Click on “**About** ”  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![about](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-this-app-cant-run/Method-13-step3.jpg)
 4. On the right-pane, under**Device specifications** , see what is your**System type**
 
@@ -227,8 +232,12 @@ To confirm if that is the reason, check the PC specifications:
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## We can help you every time when…
 
 * you cannot find the program in the Apps & Features list
@@ -244,8 +253,6 @@ To confirm if that is the reason, check the PC specifications:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -253,4 +260,24 @@ To confirm if that is the reason, check the PC specifications:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-maximizing-impact-making-an-engaging-podcast-trailer-for-2024/"><u>[New] Maximizing Impact Making an Engaging Podcast Trailer for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-perfecting-subtitles-in-media-ultimate-list-of-on-line-aid-sources/"><u>[New] Perfecting Subtitles in Media Ultimate List of On-Line Aid Sources</u></a></li>
+<li><a href="https://win-forum.techidaily.com/activating-the-revo-app-suite-essential-steps-and-tips-for-a-seamless-setup/"><u>Activating the Revo App Suite: Essential Steps & Tips for a Seamless Setup</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/are-expensive-ai-prompt-services-delivering-value-for-money/"><u>Are Expensive AI Prompt Services Delivering Value for Money?</u></a></li>
+<li><a href="https://win-forum.techidaily.com/boosting-performance-how-to-quickly-defrag-a-windows-10-system-with-revouninstaller-tools/"><u>Boosting Performance: How to Quickly Defrag a Windows 10 System with RevoUninstaller Tools</u></a></li>
+<li><a href="https://win-forum.techidaily.com/bypassing-control-panel-how-to-remove-hidden-software-on-your-pc/"><u>Bypassing Control Panel: How to Remove Hidden Software on Your PC</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/exploring-the-makeblock-mbot-a-comprehensive-guide-to-building-and-programming-your-own-robot/"><u>Exploring the Makeblock mBot: A Comprehensive Guide to Building & Programming Your Own Robot</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-samsung-galaxy-s24-by-fonelab-android-recover-photos/"><u>How To Restore Missing Photos Files from Samsung Galaxy S24.</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-samsung-galaxy-a05s-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Samsung Galaxy A05s | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Poco M6 Pro 4G? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/perfecting-tiktok-media-with-zoom-techniques-for-2024/"><u>Perfecting TikTok Media with Zoom Techniques for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/targus-peripheral-connection-made-simple-driver-download-here/"><u>Targus Peripheral Connection Made Simple – Driver Download Here!</u></a></li>
+<li><a href="https://win-forum.techidaily.com/ultimate-guide-securely-erase-data-on-your-windows-10-pc/"><u>Ultimate Guide: Securely Erase Data on Your Windows 10 PC</u></a></li>
+<li><a href="https://win-forum.techidaily.com/unlock-the-secrets-eradicating-full-hard-drive-congestion-in-windows-11-setups/"><u>Unlock the Secrets: Eradicating Full Hard Drive Congestion in Windows 11 Setups</u></a></li>
+<li><a href="https://win-forum.techidaily.com/unpacking-the-influential-four-a-deep-dive-into-facebook-twitter-instagram-and-youtube/"><u>Unpacking the Influential Four: A Deep Dive Into Facebook, Twitter, Instagram & Youtube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/unstuck-from-stubborn-folders-power-deletion-techniques-on-win-1011-via-revo-uninstaller/"><u>Unstuck From Stubborn Folders: Power Deletion Techniques on Win 10/11 via Revo Uninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/winning-strategies-for-forcefully-exiting-stuck-applications-in-windows-nix-11-devices/"><u>Winning Strategies for Forcefully Exiting Stuck Applications in Windows Nix 11 Devices</u></a></li>
+</ul></div>
 

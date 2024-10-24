@@ -1,7 +1,7 @@
 ---
 title: "Navigating the Giants of Social Networking: FB, TWITTER, IG, and YT"
-date: 2024-08-12T04:54:27.016Z
-updated: 2024-08-13T04:54:27.016Z
+date: 2024-10-17T05:19:56.080Z
+updated: 2024-10-23T19:40:49.257Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/7cdccda0c1b455cde02be352d145a5b4b55f977ca
 
 ## Connecting the World: The Impact of Facebook, Twitter, Instagram and YouTube on Social Media
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## [How to check Windows 10 PowerShell version](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1)
 
 * Share
@@ -34,8 +31,12 @@ thumbnail: https://thmb.techidaily.com/7cdccda0c1b455cde02be352d145a5b4b55f977ca
  Since 2016 PowerShell was announced as open-source and cross-platform. You can use it on macOS and Linux too. Although it is native to Windows OS, and Microsoft only supports security updates and bug fixes, PowerShell Core is being worked on to clear these issues with other OS.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Why is it important to know which PowerShell version you are running?
 
  PowerShell had many versions during the year starting with version 1.0 back in 2006\. The newest version( version 7) comes with the following new features:
@@ -47,30 +48,48 @@ thumbnail: https://thmb.techidaily.com/7cdccda0c1b455cde02be352d145a5b4b55f977ca
 
  We are saying all this, so you can know that not all PowerShell versions are the same. A lot of people need assistance when they try to figure out what PowerShell version they are running. Therefore we created this small guide with all the ways you can check.
 
+<!-- affiliate ads begin -->
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to check what PowerShell version I have installed?
 
  First, you need to open PowerShell. Simply open the Windows Start Menu and type in the search bar PowerShell, and click on the app.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ![start menu PowerShell](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/check-win10-powershell-version/start-menu-powershell.png)
 
  You will see a window, where you enter the following command**$PSVersionTable.PSVersion** , and hit Enter. In the screenshot below you can see an example where you can find the version.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![PSVersion command](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/check-win10-powershell-version/powershell-version-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Another method that you can use to check what PowerShell version you are running is to use the command “Get-Host”
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Get Host command](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/check-win10-powershell-version/powershell-version-2.png)
 
  The last method we will show you is by using the command “$host.version”. You will see the PowerShell version in a slightly different format. You will be able to see the Major and Minor release and the build number and revision.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How can I upgrade to a newer version of PowerShell?
 
@@ -80,9 +99,6 @@ thumbnail: https://thmb.techidaily.com/7cdccda0c1b455cde02be352d145a5b4b55f977ca
 
  Overall PowerShell can help you with automating some of the tasks that you are doing on regular basis on your PC. By knowing which version you are running and how to upgrade it you will be able to utilize it without any issues.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
 
 ## We can help you every time when…
@@ -100,8 +116,6 @@ thumbnail: https://thmb.techidaily.com/7cdccda0c1b455cde02be352d145a5b4b55f977ca
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -109,4 +123,26 @@ thumbnail: https://thmb.techidaily.com/7cdccda0c1b455cde02be352d145a5b4b55f977ca
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/dd-a-professional-touch-youtube-video-image-crafting-for-2024/"><u>[New] Add a Professional Touch YouTube Video Image Crafting for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-effortless-selfie-sending-learn-the-technique-now-for-2024/"><u>[New] Effortless Selfie Sending - Learn the Technique Now for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/comprehensive-breakdown-understanding-and-using-mobizen-recorders/"><u>Comprehensive Breakdown Understanding and Using Mobizen Recorders</u></a></li>
+<li><a href="https://win-forum.techidaily.com/connect-with-the-a-list-platforms-facebook-twitter-instagram-and-youtube-uncovered/"><u>Connect with the A-List Platforms: Facebook, Twitter, Instagram, and Youtube Uncovered</u></a></li>
+<li><a href="https://win-forum.techidaily.com/discover-the-powerhouses-of-online-communities-facebook-to-youtube-explained/"><u>Discover the Powerhouses of Online Communities: Facebook to YouTube Explained!</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/drone-racers-manual-fundamentals-to-high-scores-and-best-drones/"><u>Drone Racer's Manual Fundamentals to High Scores and Best Drones</u></a></li>
+<li><a href="https://win-forum.techidaily.com/essential-social-networking-sites-facebook-twitter-instagram-and-youtube/"><u>Essential Social Networking Sites - Facebook, Twitter, Instagram and YouTube</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-nokia-c12-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Nokia C12 Pattern Lock Screen</u></a></li>
+<li><a href="https://win-forum.techidaily.com/from-cluttered-to-clean-slate-a-users-handbook-for-performing-a-hard-reset-on-windows-11/"><u>From Cluttered to Clean Slate: A User’s Handbook for Performing a Hard Reset on Windows 11</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/from-gameplay-to-video-full-guide-on-ps4-with-obs-for-2024/"><u>From Gameplay to Video Full Guide on PS4 with OBS for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-oppo-k11-5g-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Oppo K11 5G Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-in-depth-asmr-video-insights/"><u>In 2024, In-Depth ASMR Video Insights</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-lightweight-or-heavy-duty-choose-between-m1-laptops/"><u>In 2024, Lightweight or Heavy-Duty Choose Between M1 Laptops</u></a></li>
+<li><a href="https://win-forum.techidaily.com/installing-and-launching-the-revoappmanager-through-revouninstaller-tutorial/"><u>Installing & Launching the RevoAppManager Through RevoUninstaller Tutorial</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/mastering-instagram-narratives-through-captioning-for-2024/"><u>Mastering Instagram Narratives Through Captioning for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-the-social-media-giants-facebook-twitter-instagram-and-youtube-strategies/"><u>Mastering the Social Media Giants: Facebook, Twitter, Instagram & YouTube Strategies</u></a></li>
+<li><a href="https://win-forum.techidaily.com/revamp-your-pcs-startup-speed-on-windows-11-expert-advice-and-techniques/"><u>Revamp Your PC's Startup Speed on Windows 11 - Expert Advice & Techniques</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-irreversible-file-deletion-on-windows-10/"><u>Step-by-Step Guide: Irreversible File Deletion on Windows 10</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-ultimate-social-media-journey-through-facebook-twitter-instagram-and-youtube/"><u>The Ultimate Social Media Journey Through Facebook, Twitter, Instagram & YouTube</u></a></li>
+</ul></div>
 

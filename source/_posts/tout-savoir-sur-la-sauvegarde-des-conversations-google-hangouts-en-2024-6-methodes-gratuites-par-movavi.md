@@ -1,7 +1,7 @@
 ---
 title: Tout Savoir Sur La Sauvegarde Des Conversations Google Hangouts en 2024 – 6 Méthodes Gratuites Par Movavi
-date: 2024-10-11T16:29:27.244Z
-updated: 2024-10-18T16:31:53.921Z
+date: 2024-10-22T21:01:50.728Z
+updated: 2024-10-23T16:36:45.070Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/48bbf816680af2439ef36580a7c2fe3c4155339daebaab90b2926193e2ffe8d4.png
@@ -156,6 +156,13 @@ Afficher plus
 
 ![](https://cdn.staticont.net/pages/0013/24/59bfacce83c98f6e29023d9167e646142e92751a.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [Télécharger gratuitement](https://tools.techidaily.com/movavi/products/)
 
 [Télécharger gratuitement](https://tools.techidaily.com/movavi/products/)
@@ -176,26 +183,26 @@ Cet article vous présente les réglages de performance pour les jeux que vous p
 
 Avant de commencer, il est toujours bon d'avoir un compteur de FPS dans le jeu, afin de pouvoir suivre vos progrès et tester les réglages qui fonctionnent. De nombreux jeux les ont préinstallés, mais si vous installez [MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards), vous ne serez jamais sans cet outil utile dans n'importe quel jeu.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 
 
 Comment rendre Windows 10 plus rapide pour les jeux (corrections rapides)
 
 ![](https://cdn.staticont.net/pages/0013/24/d54a84e68415bc2949ca1ec30e4cf5f5b067a4e1.webp)
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Vous voulez savoir comment rendre Windows 10 plus rapide pour jouer avec une solution rapide ? Suivez ces conseils et recommencez à jouer !
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Régler les paramètres graphiques d'un jeu
@@ -225,15 +232,22 @@ Voici quelques liens vers les mises à jour des pilotes des fabricants les plus 
 * [Pilotes Intel Graphics](https://www.intel.com/content/www/us/en/support/products/80939/graphics-drivers.html)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Installer DirectX 12
 
 ![](https://cdn.staticont.net/default/0012/47/72e52d810cb1f6f8d15a641fc4b287b8c43fbcd6.webp)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 DirectX 12 est un outil indispensable pour quiconque souhaite jouer à des jeux sur Windows 10\. Pour faire simple, DirectX est l'application que le jeu utilise pour communiquer avec votre ordinateur et lui dire quoi faire. DirectX 12 est une grande amélioration par rapport à son prédécesseur, DirectX 11, car il permet aux cartes graphiques de tirer des ressources de plus d'un cœur du processeur d'un PC, ce qui augmente les fréquences d'images, améliore les effets graphiques et réduit la consommation d'énergie. Des tests ont montré une différence de 85 à 300 % dans les performances de jeu entre la version 11 et la version 12.
 
@@ -299,13 +313,6 @@ Par ailleurs, les jeux sur Steam sont mis à jour en permanence et il arrive sou
 
 Pour ramener la version d'un jeu à celle dont vous avez besoin, ouvrez Steam, faites un clic droit sur le jeu, choisissez **Propriétés** et allez dans l'onglet **Bêta**. Choisissez la version souhaitée dans le menu déroulant.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Désactiver les notifications
 
 Les notifications au milieu d'un jeu consomment de la puissance CPU et peuvent nuire à votre champ de vision pendant le jeu. Suivez les étapes suivantes pour désactiver toutes les notifications avant de jouer :
@@ -326,13 +333,6 @@ Si vous utilisez une carte graphique NVIDIA, il existe des paramètres spécifiq
 5. Mode de gestion de l'énergie : Passez à **Préférer les performances maximales**.
 6. Optimisation Threaded : Passez à **Auto**.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Régler le centre de contrôle AMD/ATI
 
 Les cartes graphiques AMD ont également beaucoup de paramètres. Certains disent qu'elles rivalisent même avec leur concurrent NVIDIA. Modifiez ces paramètres pour optimiser les jeux de Windows 10.
@@ -344,6 +344,13 @@ Les cartes graphiques AMD ont également beaucoup de paramètres. Certains disen
 ### Réduire la résolution dans un jeu
 
 Cette solution entre facilement dans la catégorie des "solutions rapides". Parfois, votre système ne peut tout simplement pas gérer un jeu, et vous n'avez pas le temps de chercher des solutions à plus long terme. Allez dans les paramètres système du jeu et réduisez la résolution d'un niveau. Surveillez ensuite votre FPS jusqu'à ce que les choses s'améliorent.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Désactiver l'accélération de la souris
 
@@ -378,6 +385,19 @@ Mettez à niveau votre GPU et votre CPU environ tous les quatre ans pour que tou
 Le choix de la première mise à niveau dépend des types de jeux auxquels vous jouez. Si vous n'avez pas besoin de graphismes extrêmes et jouez à des jeux plus rapides, le processeur est le meilleur choix. Mais si vous aimez les histoires numériques ou les jeux basés sur le monde avec beaucoup de personnages et d'arrière-plans non jouables, un GPU pourrait vous être plus utile.
 
 Quoi qu'il en soit, assurez-vous que l'équilibre des performances entre les deux est délicat, car l'un ne fonctionne pas sans l'autre. Vérifiez la mémoire et la bande passante de toute mise à niveau potentielle.
+
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Mettez votre RAM à niveau
 
@@ -456,10 +476,10 @@ Les ordinateurs portables sont réputés pour leur surchauffe, car tous les comp
 4. Si vous le pouvez, jouez sur votre ordinateur portable dans un environnement frais.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Mettez à niveau votre GPU et votre RAM
@@ -497,19 +517,6 @@ Logiciel d'enregistrement de jeux et de streaming gratuit et simple
 
 ![Gecata&nbsp;by Movavi](https://cdn.staticont.net/products/0023/55/189f02c8904c7cafef6bd153dc2ff5755f569030.webp)
 
-<!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 
 
 Foire aux questions 
@@ -546,19 +553,6 @@ Si vous voulez savoir comment rendre votre ordinateur plus rapide pour jouer, vo
 ### Windows 10 est-il meilleur pour les jeux ?
 
 Lorsque l'on compare l'expérience de jeu des versions précédentes de Windows à Windows 10, l'amélioration des performances est extraordinaire. Si vous n'êtes pas sûr de vouloir faire une mise à jour, la décision est simple. Windows 10 offrira toujours une meilleure expérience.
-
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Comment obtenir 60 fps dans un jeu ?
 
@@ -613,21 +607,21 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-grasp-the-art-of-steadiness-in-photography/"><u>[New] 2024 Approved Grasp the Art of Steadiness in Photography</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-compact-and-cost-effective-mirrorless-4k-cameras-(1000/"><u>[New] Compact and Cost-Effective Mirrorless 4K Cameras <$1,000</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-how-to-sell-your-brand-through-innovative-youtuber-collaborations/"><u>[Updated] How To Sell Your Brand Through Innovative YouTuber Collaborations</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-how-to-create-a-playlist-on-youtube/"><u>[Updated] In 2024, How to Create a Playlist on YouTube</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-realme-gt-neo-5-se-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Realme GT Neo 5 SE | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-realme-note-50-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Realme Note 50 | Dr.fone</u></a></li>
-<li><a href="https://win-forum.techidaily.com/mastering-selection-define-your-print-range-in-excel-with-ease/"><u>Mastering Selection: Define Your Print Range in Excel with Ease</u></a></li>
-<li><a href="https://win-forum.techidaily.com/mastering-text-editing-in-excel-discover-these-9-powerful-features/"><u>Mastering Text Editing in Excel: Discover These 9 Powerful Features</u></a></li>
-<li><a href="https://win-forum.techidaily.com/say-goodbye-to-automatic-dates-in-microsoft-excel/"><u>Say Goodbye to Automatic Dates in Microsoft Excel!</u></a></li>
-<li><a href="https://win-forum.techidaily.com/seamless-conversion-techniques-from-csv-to-microsoft-excel-format/"><u>Seamless Conversion Techniques From CSV to Microsoft Excel Format</u></a></li>
-<li><a href="https://some-skills.techidaily.com/sift-through-these-top-9-online-portals-of-intricate-3d-letterforms-for-2024/"><u>Sift Through These Top 9 Online Portals of Intricate 3D Letterforms for 2024</u></a></li>
-<li><a href="https://win-forum.techidaily.com/simplify-your-spreadsheet-skills-on-android-and-ios-with-this-excel-tables-walkthrough/"><u>Simplify Your Spreadsheet Skills on Android & iOS with This Excel Tables Walkthrough</u></a></li>
-<li><a href="https://win-forum.techidaily.com/speedy-methods-for-locating-menus-within-microsoft-office-productivity-tools/"><u>Speedy Methods for Locating Menus Within Microsoft Office Productivity Tools</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-guide-crafting-interactive-visualizations-with-excels-dropdown-selection-feature/"><u>Step-by-Step Guide: Crafting Interactive Visualizations with Excel's Dropdown Selection Feature</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1721856656913-unlock-your-access-to-openais-latest-specialized-gpt-shopping-experience-right-away/"><u>Unlock Your Access to OpenAI's Latest Specialized GPT Shopping Experience Right Away</u></a></li>
-<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-nokia-c210-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Nokia C210? | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-incorporating-melodic-essence-into-your-creative-videos-with-premiere-pro/"><u>[New] Incorporating Melodic Essence Into Your Creative Videos with Premiere Pro</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-bilateral-screen-tracking/"><u>[Updated] 2024 Approved Bilateral Screen Tracking</u></a></li>
+<li><a href="https://win-forum.techidaily.com/addressing-windows-11-booting-problem-comprehensive-fixes-and-tips/"><u>Addressing 'Windows 11 Booting Problem': Comprehensive Fixes and Tips</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/automating-file-backups-on-your-windows-10-desktop-a-step-by-step-guide/"><u>Automating File Backups on Your Windows 10 Desktop: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/choosing-the-best-option-when-to-engage-chatgpt-for-psychological-support/"><u>Choosing the Best Option: When to Engage ChatGPT for Psychological Support</u></a></li>
+<li><a href="https://win-forum.techidaily.com/elevate-your-pc-maintenance-using-revouninstaller-pro-latest-edition-insights/"><u>Elevate Your PC Maintenance Using RevoUninstaller Pro - Latest Edition Insights</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-safeguard-your-windows-system-with-these-5-tips/"><u>How to Safeguard Your Windows System with These 5 Tips</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-transform-your-instagram-footage-with-the-leading-video-conversion-apps-of-the-year/"><u>How To Transform Your Instagram Footage With The Leading Video Conversion Apps of the Year</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-dissecting-digital-dynamics-comparative-channel-analysis/"><u>In 2024, Dissecting Digital Dynamics Comparative Channel Analysis</u></a></li>
+<li><a href="https://win-forum.techidaily.com/1722915399478-navigating-the-world-of-social-media-with-facebook-twitter-instagram-and-youtube/"><u>Navigating the World of Social Media with Facebook, Twitter, Instagram and YouTube</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolving-the-mystery-a-step-by-step-guide-to-correcting-stop-0x0000003d-errors/"><u>Resolving the Mystery: A Step-by-Step Guide to Correcting STOP 0X0000003D Errors</u></a></li>
+<li><a href="https://win-forum.techidaily.com/social-media-powerhouses-unveiling-the-secrets-of-facebook-twitter-instagram-and-youtube/"><u>Social Media Powerhouses: Unveiling the Secrets of Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/starting-out-top-pick-gopro-supplements/"><u>Starting Out Top Pick GoPro Supplements</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-dynamic-brightness-adjustment-in-windows-11/"><u>Unlocking Dynamic Brightness Adjustment in Windows 11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/unlocking-system-secrets-a-beginners-guide-to-bios-entry-on-windows-11-computers/"><u>Unlocking System Secrets: A Beginner's Guide to BIOS Entry on Windows 11 Computers</u></a></li>
+<li><a href="https://win-forum.techidaily.com/windows-10-file-management-delete-multiple-items-using-cmd-instructions/"><u>Windows 10 File Management: Delete Multiple Items Using CMD Instructions</u></a></li>
 </ul></div>
 

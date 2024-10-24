@@ -1,7 +1,7 @@
 ---
 title: How To Safeguard Text Files With Strong Passwords - Expert Advice & Solutions
-date: 2024-08-12T04:54:11.799Z
-updated: 2024-08-13T04:54:11.799Z
+date: 2024-10-20T04:07:36.058Z
+updated: 2024-10-24T02:53:33.691Z
 tags:
   - win11
   - win10
@@ -15,10 +15,6 @@ thumbnail: https://thmb.techidaily.com/cf4cfca74e707c3edc4a37fda10a303db8db8787c
 
 ## Trouble with Starting Programs? Here's How You Can Fix It on PC
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ## [13 solutions to Fix “Тhis app can’t run on your PC” Error](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1)
 
 * Share
@@ -43,6 +39,13 @@ thumbnail: https://thmb.techidaily.com/cf4cfca74e707c3edc4a37fda10a303db8db8787c
 
 ## Methods to fix “This app can’t run on your PC” error
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 1: Make a copy of the .exe files you are trying to run
 
  If you are getting the “this app can’t run on your PC” error you may attempt to fix it by creating a copy of the file you try to run.
@@ -52,8 +55,19 @@ thumbnail: https://thmb.techidaily.com/cf4cfca74e707c3edc4a37fda10a303db8db8787c
 ![copy command](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-this-app-cant-run/Method-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 2: Disable SmartScreen
 
 1. Press the Windows key and in the search field type`smart screen`
@@ -76,16 +90,10 @@ thumbnail: https://thmb.techidaily.com/cf4cfca74e707c3edc4a37fda10a303db8db8787c
 3. Click on the “**Get Updates** ” button  
 ![get updates button](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-this-app-cant-run/Method-3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ### Method 4: Create a new administrator account
 
 1. Open the Settings app. Navigate to**Accounts > Family & other users**
 2. Navigate to the “**Other users** ” section and click Add someone else to this PC  
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add someone else to this pc](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-this-app-cant-run/Method-4-step2.png)
 3. Select “**I don’t have this person’s sign-in information** “
 4. Choose “**Add a user without a Microsoft account** “
@@ -99,6 +107,19 @@ thumbnail: https://thmb.techidaily.com/cf4cfca74e707c3edc4a37fda10a303db8db8787c
 
  In most cases the error was fixed by creating a new administrator account.
 
+<!-- affiliate ads begin -->
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 5: Disable Proxy orVPN if you are running them
 
 1. Open the**Start Menu** and open**Control Panel**
@@ -109,22 +130,20 @@ thumbnail: https://thmb.techidaily.com/cf4cfca74e707c3edc4a37fda10a303db8db8787c
 ![Lan settings](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-this-app-cant-run/Method-5-step6.png)
 6. Click OK to confirm the changes and try to log-in again in to your Microsoft Account
 
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you are using this feature, there is a big chance that the connection to the Microsoft Store servers is being blocked. If your apps don’t run on your PC, disable these settings.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ### Method 6: Run anSFC scan
 
 1. Open the**Start Menu** . In the search bar type cmd. Right-click**Command Prompt** and select**Run as Administrator**  
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![run as administrator](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-this-app-cant-run/Method-6.jpg)
 2. Type the`sfc/scannow` command  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![scannow command](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-this-app-cant-run/Method-7-step2.jpg)
 3. Wait for the process to end and reboot your computer. This scan should fix all of your corrupted files
 
@@ -141,28 +160,21 @@ thumbnail: https://thmb.techidaily.com/cf4cfca74e707c3edc4a37fda10a303db8db8787c
 
  Another reason behind the “this app can’t run on your PC” error can be disk errors. To fix them open**Command Prompt** as mentioned in the previous step and type the command`chkdsk C: /f`
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![chkdsk command](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-this-app-cant-run/Method-8.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Method 9: Clear your browser cache
 
  There are cases where during download the files are getting corrupted. This will result in files and folders not being fully downloaded. This usually happens if you don’t clean your browser cache regularly.
@@ -178,14 +190,15 @@ So how to clean your temporary files?
 1. Open your**Start Menu** , type`Disk Cleanup` , and open the tool
 2. Select the partition you want to clean
 3. Select “**Clean up system files** ”  
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ![clean up system files](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-this-app-cant-run/Method-10.png)
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Method 11: Run a full Windows Defender scan
 
  As most of us know malware can be very bad for our PC. It can be the reason behind many error messages, it can also prevent many apps from running or from being installed.
@@ -206,15 +219,16 @@ To update your Windows:
 1. Open the**Start Menu** and click on**PC Settings**
 2. In the search bar type “**Windows Updates** “
 3. Click on the “**Check for Updates** ” button  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ![check for updates](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-this-app-cant-run/Method-12-step3.jpg)
 4. Install the latest Windows updates
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Method 13: Check if your PC is 32-bit or 64-bit Compatible
 
  WindowsOS has two versions: 32-bit and 64-bit. There is a chance that you are running a 32-bit version of Windows, but the app is 64-bit.
@@ -223,9 +237,6 @@ To confirm if that is the reason, check the PC specifications:
 
 1. Open the**Start Menu** and click on**PC Settings**
 2. Select**System**  
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ![system](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-this-app-cant-run/Method-13-step2.png)
 3. Click on “**About** ”  
 ![about](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-this-app-cant-run/Method-13-step3.jpg)
@@ -237,9 +248,6 @@ To confirm if that is the reason, check the PC specifications:
 
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## We can help you every time when…
 
 * you cannot find the program in the Apps & Features list
@@ -255,8 +263,6 @@ To confirm if that is the reason, check the PC specifications:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -264,4 +270,24 @@ To confirm if that is the reason, check the PC specifications:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/updated-learn-to-sharpen-images-blur-and-excise-background-edges-for-2024/"><u>[Updated] Learn to Sharpen Images Blur and Excise Background Edges for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-proven-methods-for-sensational-instagram-puzzle-creation/"><u>[Updated] Proven Methods for Sensational Instagram Puzzle Creation</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-vivo-y56-5g-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Vivo Y56 5G</u></a></li>
+<li><a href="https://win-forum.techidaily.com/comprehensive-tutorial-instructions-for-revo-uninstaller-application-setup-and-enabling-features/"><u>Comprehensive Tutorial: Instructions for Revo Uninstaller Application Setup & Enabling Features</u></a></li>
+<li><a href="https://win-forum.techidaily.com/dns-flush-tutorial-for-windows-1011-users-reset-internet-settings/"><u>DNS Flush Tutorial for Windows 10/11 Users - Reset Internet Settings!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/eliminating-chatgpts-memory-retention-feature/"><u>Eliminating ChatGPT’s Memory Retention Feature</u></a></li>
+<li><a href="https://common-error.techidaily.com/essential-tricks-for-enhancing-your-file-explorer-experience-on-windows-11/"><u>Essential Tricks for Enhancing Your File Explorer Experience on Windows 11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-the-big-four-of-social-networking-facebook-tweetdeck-gramflex-and-vidplay/"><u>Exploring the Big Four of Social Networking: FaceBook, TweetDeck, GramFlex & VidPlay</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/how-the-skagen-falster-3-combines-modern-functions-with-traditional-charm-for-an-unparalleled-wearable-experience/"><u>How the Skagen Falster 3 Combines Modern Functions with Traditional Charm for an Unparalleled Wearable Experience</u></a></li>
+<li><a href="https://driver-install.techidaily.com/nvidia-drivers-refreshed-gtx-970-for-w10-users/"><u>Nvidia Drivers Refreshed: GTX 970 For W10 Users</u></a></li>
+<li><a href="https://win-forum.techidaily.com/quick-tips-on-removing-windows-10-users-and-their-data-with-revouninstaller/"><u>Quick Tips on Removing Windows 10 Users and Their Data with RevoUninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/resolving-the-class-not-registered-issue-in-windows-environments/"><u>Resolving the 'Class Not Registered' Issue in Windows Environments</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/silencing-ambient-sounds-techniques-for-clearing-auditory-disturbances-for-2024/"><u>Silencing Ambient Sounds Techniques for Clearing Auditory Disturbances for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-clearing-your-pcs-cache-in-windows-11-using-revo-uninstaller/"><u>Step-by-Step Guide: Clearing Your PC's Cache in Windows 11 Using Revo Uninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-tutorial-on-forced-removal-of-resistant-folders-using-revo-uninstaller-in-windows-11/"><u>Step-by-Step Tutorial on Forced Removal of Resistant Folders Using Revo Uninstaller in Windows 11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-essentials-of-bios-explained-insights-for-revouninstaller-users/"><u>The Essentials of BIOS Explained: Insights for RevoUninstaller Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-the-most-popular-apple-watches-of-2024-professional-reviews-and-ratings/"><u>Ultimate Guide to the Most Popular Apple Watches of 2024: Professional Reviews and Ratings</u></a></li>
+</ul></div>
 

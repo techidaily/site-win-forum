@@ -1,7 +1,7 @@
 ---
 title: "Navigating the Giants of Social Media: Facebook, Twitter, Instagram, Youtube"
-date: 2024-08-12T04:52:30.599Z
-updated: 2024-08-13T04:52:30.599Z
+date: 2024-10-19T17:41:53.299Z
+updated: 2024-10-24T04:43:46.663Z
 tags:
   - win11
   - win10
@@ -30,9 +30,6 @@ thumbnail: https://thmb.techidaily.com/39537ef670f74abdd3937163bf686c62a000d8146
 
  In case you are running out of space on your PC(insert how to uninstall programs with Revo), or your problem is resolved, there are several methods that you can use to delete memory dump files on Windows 10
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Methods to delete memory dump files Windows 10
 
 * Delete system error dump files with Revo Uninstaller Pro
@@ -42,26 +39,53 @@ thumbnail: https://thmb.techidaily.com/39537ef670f74abdd3937163bf686c62a000d8146
 * Delete dump files from the File Location
 * Turn off Crash Dumps
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Delete system error dump files with Revo Uninstaller Pro
 
 1. Open Revo Uninstaller Pro
 2. Navigate to Tools  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Tools](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/screens/tools.png)
 3. Click on History Cleaner  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![History Cleaner](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/screens/history-cleaner.png)
 4. Select Windows Cleaner
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Select “Delete crash memory dump files”
 6. Click Clear  
 ![Windows Cleaner](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/screens/windows-cleaner-delete-crash-memory-dump-files.png)
+
+<!-- affiliate ads begin -->
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Clean system error dump files with Disk Cleanup
 
@@ -77,34 +101,26 @@ thumbnail: https://thmb.techidaily.com/39537ef670f74abdd3937163bf686c62a000d8146
 ### Remove system error dump files with Windows Settings
 
 1. Open the Start Menu and click PC Settings  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![PC settings](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/memory-dump-files/method-3-step1.png)
 2. Click on System  
 ![System](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/memory-dump-files/method-3-step2.png)
 3. Click on Storage  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![Storage](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/memory-dump-files/method-3-step3.jpg)
 4. In the Storage, section select Temporary Files  
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Temporary Files](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/memory-dump-files/method-3-step4.jpg)
 5. Check the System error memory dump file option
 6. Again optionally you can check the System error minidump files option  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![System error memory dump files](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/memory-dump-files/method-3-step5,6.png)
 7. Click the Remove files button
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Erase system error dump files with Command Prompt
 
 1. Open the Start Menu
@@ -114,27 +130,33 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 `del /f /s /q %systemroot%\memory.dmp`
 4. To optionally delete the system error minidump files type this command and press Enter:  
 `del /f /s /q %systemroot%\Minidump\*.*`  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![command prompt del command](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/memory-dump-files/method-4-command-prompt-step3,4.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Delete memory dump files from the File Location
 
 1. Open the Start Menu and type Control Panel in the search bar
 2. Click the top result and navigate to System and Security  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ![System and Security](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/memory-dump-files/method-5-step2.png)
 3. Click the System category  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![System](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/memory-dump-files/method-5-step3.png)
 4. Open the Advanced system settings  
 ![Advanced system settings](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/memory-dump-files/method-5-step4.png)
 5. Click the Settings button under Startup and Recovery  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Startup and recovery](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/memory-dump-files/method-5-step5.png)
 6. Navigate to Write debugging information. Click on the drop-down menu and select a type of dump file. Now you can see where the files are stored.
 7. Copy the location of the dump file  
@@ -144,6 +166,19 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 9. Select the MEMORY.dmp file and delete it permanently  
 ![memory.dmp file](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/memory-dump-files/method-5-step8.png)
 10. Restart your computer and the dump files will be removed
+
+<!-- affiliate ads begin -->
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Turn off Crash Dumps
 
@@ -159,9 +194,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  Deleting your system error memory dump files can free up a lot of storage space. In case that your device did not run into any problems recently or you like to regularly[clean your junk files](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1) , there is a good chance that there won’t be any dump files to delete. Products such as[Revo Uninstaller Pro](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1) give you the convenience to clean your computer easily and quickly with a couple of clicks.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
 
 ## We can help you every time when…
@@ -179,8 +211,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -188,4 +218,26 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-inside-track-to-optimizing-adobe-and-selective-non-adobe-solutions/"><u>[New] Inside Track to Optimizing Adobe and Selective Non-Adobe Solutions</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-shutter-smarts-expert-tips-for-photo-enhancement-for-2024/"><u>[New] Shutter Smarts Expert Tips for Photo Enhancement for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-whatsapp-web-chat-basics-for-pc-users/"><u>[New] WhatsApp Web Chat Basics for PC Users</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-hidden-gems-to-youtube-sensations-the-top-reasons-for-zero-views/"><u>[Updated] In 2024, From Hidden Gems to YouTube Sensations The Top Reasons for Zero Views</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/beginners-guide-to-the-top-10-filmmaking-cameras/"><u>Beginner's Guide to the Top 10 Filmmaking Cameras</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/complete-minecraft-filming-guidebook-for-2024/"><u>Complete Minecraft Filming Guidebook for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/expert-tips-for-a-clean-slate-full-system-reboot-on-windows-11/"><u>Expert Tips for a Clean Slate: Full System Reboot on Windows 11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/expert-tips-on-permanently-removing-sensitive-files-from-your-pc-using-windows-10-tools/"><u>Expert Tips on Permanently Removing Sensitive Files From Your PC Using Windows 10 Tools</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722965914278-get-your-msi-gs65-up-to-date-with-the-latest-windows-drivers-here/"><u>Get Your MSi GS65 Up-to-Date with the Latest Windows Drivers Here!</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-stop-windows-explorer-from-frequently-failing-a-step-by-step-solution-list/"><u>How to Stop Windows Explorer From Frequently Failing: A Step-by-Step Solution List</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-can-i-unlock-my-apple-iphone-15-after-forgetting-my-pin-code-by-drfone-ios/"><u>In 2024, How Can I Unlock My Apple iPhone 15 After Forgetting my PIN Code?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-locked-out-of-apple-iphone-12-pro-5-ways-to-get-into-a-locked-apple-iphone-12-pro-drfone-by-drfone-ios/"><u>In 2024, Locked Out of Apple iPhone 12 Pro? 5 Ways to get into a Locked Apple iPhone 12 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-premier-image-stabilization-action-recorders/"><u>In 2024, Premier Image Stabilization Action Recorders</u></a></li>
+<li><a href="https://win-forum.techidaily.com/master-the-art-of-quick-folder-cleanup-forced-deletion-techniques-for-windows-1011-using-revo-uninstaller-pro/"><u>Master the Art of Quick Folder Cleanup: Forced Deletion Techniques for Windows 10/11 Using Revo Uninstaller Pro</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-the-art-of-starting-over-in-windows-11-expert-tips-for-an-effective-factory-reset-using-revo-uninstaller/"><u>Mastering the Art of Starting Over in Windows 11: Expert Tips for an Effective Factory Reset Using Revo Uninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-the-troubleshooting-of-windows-11-installation-errors-essential-techniques-with-revouninstaller/"><u>Mastering the Troubleshooting of 'Windows 11 Installation Errors': Essential Techniques with RevoUninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-popular-platforms-an-insight-into-facebook-twitter-instagram-and-youtube/"><u>Navigating Popular Platforms: An Insight Into Facebook, Twitter, Instagram and Youtube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-giants-of-online-networking-fb-tw-ig-yt-explained/"><u>Navigating the Giants of Online Networking: FB, TW, IG, YT Explained</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-social-media-giants-facebook-twitter-and-instagram/"><u>Navigating the Social Media Giants: Facebook, Twitter & Instagram</u></a></li>
+</ul></div>
 

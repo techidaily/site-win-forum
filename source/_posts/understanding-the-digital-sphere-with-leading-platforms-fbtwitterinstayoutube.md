@@ -1,7 +1,7 @@
 ---
 title: Understanding the Digital Sphere with Leading Platforms - FbTwitterInstaYouTube
-date: 2024-08-12T04:54:29.943Z
-updated: 2024-08-13T04:54:29.943Z
+date: 2024-10-22T17:34:11.973Z
+updated: 2024-10-24T07:36:14.671Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/3f251edfe87940db023c8b9c0c8cf809bbc15f1b0
 
 ## Exploring the Giants of Social Networking - Facebook, Twitter, Instagram and YouTube
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## [What is BIOS](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1)
 
 * Share
@@ -29,9 +26,6 @@ thumbnail: https://thmb.techidaily.com/3f251edfe87940db023c8b9c0c8cf809bbc15f1b0
 
  BIOS (basic input/output system) is actually a program that the computer’s microprocessor is using to start the computer system. It’s other functions are to manage data flow between the computer’s operating system (OS) and attached devices, such as the hard disk, video adapter, keyboard, mouse and printer.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ## First lets learn more about the history of BIOS
 
  The term BIOS was first used by Gary Kildall in 1975\. The first BIOS was incorporated in IBMs’ first personal computer in 198\. In the years to come, it gained popularity within other PCs, becoming an integral part of computers for some time.Unfortunately BIOS’ popularity starts to decline in favor of a newer technology: Unified Extensible Firmware Interface (UEFI). Intel announced a plan in 2017 to retire support for legacy BIOS systems by 2020, replacing them with UEFI.
@@ -40,9 +34,6 @@ thumbnail: https://thmb.techidaily.com/3f251edfe87940db023c8b9c0c8cf809bbc15f1b0
 
  The BIOS includes instructions on how to load basic computer hardware. BIOS tests your system to verify the computer meets requirements to boot up properly. If the computer does not pass the test, you hear a combination of beeps indicating what is malfunctioning in the computer.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What are the four main functions of a PC BIOS?
 
 * **POST** – BIOS performs a test on your computer hardware and make sure no errors exist before loading the operating system.
@@ -57,8 +48,12 @@ thumbnail: https://thmb.techidaily.com/3f251edfe87940db023c8b9c0c8cf809bbc15f1b0
  When you first start your computer BIOS checks if your system is operational. If everything is working on your system BIOS load the OS into the computer’s RAM (random access memory) from your hard disk.
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Accessing BIOS
 
  You can access and configure BIOS through the BIOS Setup Utility. The way you can get access to BIOS varies and depends on the computer you are using. You can follow this general steps to get access to your BIOS:
@@ -69,6 +64,13 @@ thumbnail: https://thmb.techidaily.com/3f251edfe87940db023c8b9c0c8cf809bbc15f1b0
 
  Once in BIOS Setup Utility, users can change hardware settings, manage memory settings, change the boot order or boot device, and reset the BIOS password, among other configuration tasks.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## BIOS security
 
  Usually not a lot of users talk about BIOS security, but it should not be overlooked. There is a case study by the Security Group – Cylance that showed how modern BIOS can have flaw in its security and ransomware programs can access the motherboard’s UEFI and exploit the other PC BIOS vulnerabilities.
@@ -76,8 +78,12 @@ thumbnail: https://thmb.techidaily.com/3f251edfe87940db023c8b9c0c8cf809bbc15f1b0
  Another unique exploit involving the manipulation of BIOS was Plundervolt. Plundervolt could be used to mess with a computer’s power supply at the time data was being written to memory, causing errors that lead to security gaps. Intel released a BIOS patch to defend against it.
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Can a BIOS chip be upgraded or updated?
 
  Adding additional memory to a BIOS chip, as an upgrade, can only be done by replacing the existing BIOS chip with a new, more advanced BIOS chip.
@@ -87,8 +93,12 @@ thumbnail: https://thmb.techidaily.com/3f251edfe87940db023c8b9c0c8cf809bbc15f1b0
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## We can help you every time when…
 
 * you cannot find the program in the Apps & Features list
@@ -104,8 +114,6 @@ thumbnail: https://thmb.techidaily.com/3f251edfe87940db023c8b9c0c8cf809bbc15f1b0
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -113,4 +121,20 @@ thumbnail: https://thmb.techidaily.com/3f251edfe87940db023c8b9c0c8cf809bbc15f1b0
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-social-media-mastery-embedding-twitch-streams-on-fb/"><u>[Updated] In 2024, Social Media Mastery Embedding Twitch Streams on FB</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-realistic-or-risky-vrs-hidden-dangers/"><u>[Updated] Realistic or Risky? VR's Hidden Dangers</u></a></li>
+<li><a href="https://win-forum.techidaily.com/fix-the-windows-1n-wont-run-problem-top-tricks-for-seamless-boot-up/"><u>Fix the Windows 1N Wont Run Problem: Top Tricks for Seamless Boot-Up</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/gratuito-online-conversor-de-video-para-formatos-qt-e-wmv-aplicativo-facil-de-uso-do-movavi/"><u>Gratuito Online: Conversor De Vídeo Para Formatos QT E WMV - Aplicativo Fácil De Uso Do Movavi</u></a></li>
+<li><a href="https://win-forum.techidaily.com/guide-permanently-running-any-application-with-administrator-privileges-in-windows-11/"><u>Guide: Permanently Running Any Application with Administrator Privileges in Windows 11</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Poco X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-samsung-galaxy-s23-ultra-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Samsung Galaxy S23 Ultra without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/incredible-enlightenment-direct-dialogue-with-chatgpt/"><u>Incredible Enlightenment: Direct Dialogue With ChatGPT</u></a></li>
+<li><a href="https://fox-info.techidaily.com/infuse-projects-with-sounds-in-adobe-premiere-pro/"><u>Infuse Projects with Sounds in Adobe Premiere Pro</u></a></li>
+<li><a href="https://win-forum.techidaily.com/1722915215998-navigating-the-digital-landscape-a-guide-to-facebook-twitter-instagram-and-youtube/"><u>Navigating the Digital Landscape: A Guide to Facebook, Twitter, Instagram and Youtube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-instructions-permanently-deleting-tough-folders-in-win-1011-using-third-party-tools/"><u>Step-by-Step Instructions: Permanently Deleting Tough Folders in Win 10/11 Using Third-Party Tools</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-social-media-platforms-facebook-twitter-and-instagram-youtube-guide/"><u>Top Social Media Platforms: Facebook, Twitter & Instagram | YouTube Guide</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Fix 100%% Disk Usage in Windows 10
-date: 2024-08-12T04:50:14.713Z
-updated: 2024-08-13T04:50:14.713Z
+date: 2024-10-16T23:53:57.511Z
+updated: 2024-10-24T06:03:57.290Z
 tags:
   - win11
   - win10
@@ -25,6 +25,13 @@ thumbnail: https://thmb.techidaily.com/56e1f89334f10f1cb05f14f5231043c0f4d7f09cc
 [How to fix 100% disk usage on Windows 10](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-disk-usage/how-to-fix-100-disk-usage.jpg) ](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1)
 
  If your computer is slow and your Windows 10 Task Manager shows 100% disk usage, that means that there is an issue that is causing your hard drive to over-work. Read on to learn how you can fix the 100% disk usage in Windows 10.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What are the reasons behind 100% disk usage in Windows 10
 
@@ -50,9 +57,6 @@ To open the Task Manager:
 
 1. Select the process/program that you wish to stop running.
 2. Click “End Task” at the bottom of the window  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![end process in task manager](<https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-disk-usage/Task> Manager-method-1.png)
 
  This will force stop the software or the process that is causing the 100% disk usage and should improve the performance of your system.
@@ -74,9 +78,6 @@ To open the Task Manager:
 
  This is an all-knowing method for resolving some of the Windows 10 issues, including 100% disk usage. This method may not point you to the reason behind your issue, but it can fix it.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![restart screen](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-disk-usage/method-3-Restart.png)
 
 ### Method 4: Change the Energy Options
@@ -85,24 +86,28 @@ To open the Task Manager:
 
 1. Open and Windows Start Menu and click on Control Panel
 2. Go to Hardware and Sound -> Power Options  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![Power Options](<https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-disk-usage/method4> - step2- Power Options.png)
 3. Click on Change Plan settings  
 ![Change Plan settings](<https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-disk-usage/method4> - step3- Power Options.png)
 4. Click on “Change advanced power settings”  
 ![Change advanced power settings](<https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-disk-usage/method4> - step4- Power Options.png)
 5. Select the “High-performance” option from the drop-down menu  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![High-performance](<https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-disk-usage/method4> - step5- Power Options.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 5: Reset Virtual Memory in Windows 10
 
  Virtual memory is using your disk as if is RAM, by swapping temporary files when it runs out of actual RAM. Errors can start showing up in the_pagefile.sys_ and it can cause 100% disk usage on your Windows 10 computer.
@@ -112,24 +117,29 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 1. Open the Windows Start Menu and click on “PC Settings”  
 ![pc settings](<https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-disk-usage/method-5-step-1-PC> settings.png)
 2. Click on “System”  
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![system screen](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-disk-usage/method-5-step-2.png)
 3. Navigate to the “About” menu and click on “Advanced system settings”  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ![Advanced system settings](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-disk-usage/method-5-step-3.jpg)
 4. In the “System Properties“ window click on the “Advanced” tab and click the “Settings” button in the “Performance” section  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![system properties screen](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-disk-usage/method-5-step-4.png)
 5. Navigate to the “Advanced” tab and click on “Change”  
 ![change screen](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-disk-usage/method-5-step-5.png)
 6. Make sure the box titled “Automatically manage paging file size” is checked. Press OK and then reboot. By doing this your system will inhibit the use of virtual memory and may improve your disk performance.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 6: Reset or reinstall synchronization tools
 
@@ -142,9 +152,6 @@ To reset OneDrive for example you can do the following:
 
 This should fix the issue and your disk usage should go back to normal.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ### Method 7: Rebuild the Windows Search index
 
  Windows Search helps you find files, folders, or anything on your hard drive. To do that it scans your hard drive and turns into a super-fast index to show you your desired results.
@@ -171,22 +178,27 @@ Follow the steps to initiate a Disk Check:
 3. Hit**Enter** and type Y to confirm the Disk Check the next time you reboot your PC. The Disk Check will start the next time your system start to boot and sometimes it can take quite a while to complete.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Method 9: Stop the Superfetch Service
 
  Sometimes this service can cause problems and increase the usage of your hard drive.
 
  Similar to the previous step open again the Command prompt. Type the command:`net.exe stop superfetch` .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ![superfetch](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-disk-usage/method-9.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Method 10: Disable Windows Search
 
  There is a bug in Windows 8 and Windows 10 that can cause a search loop when you are using Windows Search. This can cause 100% disk usage and a drop in performance.
@@ -194,15 +206,8 @@ Follow the steps to initiate a Disk Check:
 To disable the Windows Search follow these steps:
 
 1. Open the Command Prompt(as mentioned in Method 8)  
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Command Prompt](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-disk-usage/method-10-.png)
 2. Enter the command net.exe stop “Windows search”  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![windows search](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-disk-usage/method-10.1.jpg)
 
  This will temporarily stop Window search from running until the next time Windows is restarted.
@@ -219,23 +224,19 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  Deleting the temporary files is a solution you need to look into to fix the problem.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## So what if the 100% disk usage in Windows 10 issue persists?
 
  If you can’t solve your 100% disk usage with the above methods, that means that you probably have to replace your hard drive. Your hard drive should never be at 100% usage. In case it is constantly showing this number there is some reason for the condition. If you don’t address the issue you are risking having a very slow computer.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## We can help you every time when…
 
 * you cannot find the program in the Apps & Features list
@@ -251,8 +252,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -260,4 +259,22 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-harnessing-the-power-of-mov-recording-in-windows-10/"><u>[New] Harnessing the Power of MOV Recording in Windows 10</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-uncomplicated-methods-sharing-igtv-in-stories/"><u>[New] In 2024, Uncomplicated Methods Sharing IGTV in Stories</u></a></li>
+<li><a href="https://win-forum.techidaily.com/advanced-techniques-for-editing-deleting-and-adding-new-registry-entries-via-revo-uninstaller/"><u>Advanced Techniques for Editing, Deleting and Adding New Registry Entries via Revo Uninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/an-in-depth-look-at-the-windows-registry-and-its-functions/"><u>An In-Depth Look at The Windows Registry and Its Functions</u></a></li>
+<li><a href="https://win-forum.techidaily.com/complete-tutorial-on-reversing-recent-windows-11-system-updates/"><u>Complete Tutorial on Reversing Recent Windows 11 System Updates</u></a></li>
+<li><a href="https://win-forum.techidaily.com/decoding-computer-boot-processes-how-revouninstaller-sheds-light-on-bios/"><u>Decoding Computer Boot Processes - How RevoUninstaller Sheds Light on BIOS</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/enhancing-visuals-with-paradox-creation/"><u>Enhancing Visuals with Paradox Creation</u></a></li>
+<li><a href="https://win-forum.techidaily.com/essential-digital-networking-sites-exploring-facebook-twitter-instagram-and-youtube/"><u>Essential Digital Networking Sites: Exploring Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/essential-tips-safeguard-your-windows-machine-in-just-five-steps/"><u>Essential Tips: Safeguard Your Windows Machine in Just Five Steps</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-repairing-wacom-pen-connectivity-in-microsofts-latest-operating-systems/"><u>Expert Advice: Repairing Wacom Pen Connectivity in Microsoft's Latest Operating Systems</u></a></li>
+<li><a href="https://win-forum.techidaily.com/expert-techniques-to-disable-and-delete-windows-10-11-updates-via-revosofts-solution/"><u>Expert Techniques to Disable and Delete Windows 10, 11 Updates via RevoSoft's Solution</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigating-sideload-charges-and-app-reviews-on-iphones-with-apples-latest-plan/"><u>Navigating Sideload Charges & App Reviews on iPhones with Apple's Latest Plan</u></a></li>
+<li><a href="https://windows11.techidaily.com/restoring-normal-operations-for-deleted-characters/"><u>Restoring Normal Operations for Deleted Characters</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transfer-your-iphone-pictures-to-a-pc-easily-no-need-for-itunes/"><u>Transfer Your iPhone Pictures to a PC Easily: No Need for iTunes!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-text-reception-problems-on-your-android-device/"><u>Troubleshooting Text Reception Problems on Your Android Device</u></a></li>
+</ul></div>
 

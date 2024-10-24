@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Tutorial on Deleting Resistant Directories in Windows 11 Using Revo Uninstaller
-date: 2024-08-12T04:53:24.749Z
-updated: 2024-08-13T04:53:24.749Z
+date: 2024-10-19T20:55:51.259Z
+updated: 2024-10-23T23:02:45.188Z
 tags:
   - win11
   - win10
@@ -32,11 +32,6 @@ thumbnail: https://thmb.techidaily.com/b025fc7ab394893f7e8a7b25d81a217b766fc055b
 
  Note: If you use this method, Microsoft reserves the right to deny updates on your OS.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ## So how can you install Windows 11 if your processor is not supported?
 
 ### Download the Windows 11 ISO
@@ -49,29 +44,46 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 4. Finally, click**64-bit Download** .
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### The next step is to edit the Windows Registry to skip the CPU Check during Windows 11 installation
 
 1. Open the Start Menu and in the Search Bar type “regedit”  
 ![regedit](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/install-windows-unsupported-cpu/regedit-exe.png)
 2. In the Registry Editor navigate to**Computer\\HKEY\_LOCAL\_MACHINE\\SYSTEM\\Setup\\MoSetup**
-3. In the right pane, right-click and select**New -> DWORD (32-bit) Value** .  
+
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+3. In the right pane, right-click and select**New -> DWORD (32-bit) Value** .  
 ![dword](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/install-windows-unsupported-cpu/dword.png)
 4. Name the value “**AllowUpgradesWithUnsupportedTPMOrCPU** ” (don’t include the quotes).
-5. Double-click on the newly created value and enter 1 in the**Value data** filed.  
+
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+5. Double-click on the newly created value and enter 1 in the**Value data** filed.  
 ![dword value](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/install-windows-unsupported-cpu/edit-dword-value.jpg)
 6. Click**OK** and close the registry editor.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### The final step is the following
 
  Remember the Windows 11 ISO that you started downloading at the beginning of this article?
@@ -79,14 +91,18 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 1. Right-click on it and select**Open with -> Windows Explorer** to mount the virtual disc.
 2. Double-click the setup file to begin the Windows 11 installation.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## Summary
 
  If you’ve followed all the steps, you should see a warning message that your CPU is not “the perfect match” for Windows 11, but you will be allowed to install it on your PC. **Just keep in mind that Microsoft reserves the right to stop your security updates if you decide to use this method** .
 
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## We can help you every time when…
 
@@ -103,8 +119,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -112,4 +126,17 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-creating-magnetic-storylines-for-your-vlog-videos/"><u>[New] 2024 Approved Creating Magnetic Storylines for Your Vlog Videos</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-cutting-edge-screen-capturing-with-the-latest-camstudio-release/"><u>[New] 2024 Approved Cutting-Edge Screen Capturing with the Latest CamStudio Release</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-discover-the-secrets-to-youtubes-rankings-with-keywords/"><u>[New] In 2024, Discover the Secrets to YouTube's Rankings with Keywords</u></a></li>
+<li><a href="https://win-forum.techidaily.com/complete-guide-removing-directories-and-files-using-cmd-on-windows-11/"><u>Complete Guide: Removing Directories & Files Using CMD on Windows 11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/connect-and-share-on-major-platforms-twitter-instagram-facebook-and-youtube/"><u>Connect and Share on Major Platforms: Twitter, Instagram, Facebook & YouTube</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-factory-reset-ipad-or-apple-iphone-15-pro-without-icloud-password-or-apple-id-by-drfone-ios/"><u>In 2024, How to Factory Reset iPad or Apple iPhone 15 Pro without iCloud Password or Apple ID?</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-the-major-online-hubs-a-guide-to-facebook-twitter-instagram-and-youtube/"><u>Mastering the Major Online Hubs: A Guide to Facebook, Twitter, Instagram and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-essentials-of-social-media-mastery-from-instagram-and-twitter-to-youtube/"><u>The Essentials of Social Media Mastery: From Instagram and Twitter to YouTube</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-fixing-your-logitech-c920-camera-issues/"><u>Troubleshooting Tips: Fixing Your Logitech C920 Camera Issues</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ate-livestream-guidebook-recommended-tools-and-devices-compilation-for-2024/"><u>Ultimate Livestream Guidebook Recommended Tools and Devices Compilation for 2024</u></a></li>
+</ul></div>
 
