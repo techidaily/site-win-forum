@@ -1,7 +1,7 @@
 ---
 title: "Bypassing Control Panel: How to Remove Hidden Software on Your PC"
-date: 2024-08-18T10:25:11.427Z
-updated: 2024-08-19T10:25:11.427Z
+date: 2024-10-24T01:20:05.214Z
+updated: 2024-10-29T18:30:01.761Z
 tags:
   - win11
   - win10
@@ -32,9 +32,6 @@ thumbnail: https://thmb.techidaily.com/965071db1f866296dbd6b7c6cdfb4395621995dd5
 
  Note: If you use this method, Microsoft reserves the right to deny updates on your OS.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## So how can you install Windows 11 if your processor is not supported?
 
 ### Download the Windows 11 ISO
@@ -49,23 +46,29 @@ thumbnail: https://thmb.techidaily.com/965071db1f866296dbd6b7c6cdfb4395621995dd5
 ### The next step is to edit the Windows Registry to skip the CPU Check during Windows 11 installation
 
 1. Open the Start Menu and in the Search Bar type “regedit”  
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ![regedit](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/install-windows-unsupported-cpu/regedit-exe.png)
 2. In the Registry Editor navigate to**Computer\\HKEY\_LOCAL\_MACHINE\\SYSTEM\\Setup\\MoSetup**
 3. In the right pane, right-click and select**New -> DWORD (32-bit) Value** .  
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dword](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/install-windows-unsupported-cpu/dword.png)
 4. Name the value “**AllowUpgradesWithUnsupportedTPMOrCPU** ” (don’t include the quotes).
-5. Double-click on the newly created value and enter 1 in the**Value data** filed.  
+
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+5. Double-click on the newly created value and enter 1 in the**Value data** filed.  
 ![dword value](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/install-windows-unsupported-cpu/edit-dword-value.jpg)
 6. Click**OK** and close the registry editor.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### The final step is the following
 
@@ -74,23 +77,26 @@ thumbnail: https://thmb.techidaily.com/965071db1f866296dbd6b7c6cdfb4395621995dd5
 1. Right-click on it and select**Open with -> Windows Explorer** to mount the virtual disc.
 2. Double-click the setup file to begin the Windows 11 installation.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Summary
 
  If you’ve followed all the steps, you should see a warning message that your CPU is not “the perfect match” for Windows 11, but you will be allowed to install it on your PC. **Just keep in mind that Microsoft reserves the right to stop your security updates if you decide to use this method** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## We can help you every time when…
 
 * you cannot find the program in the Apps & Features list
@@ -106,8 +112,6 @@ thumbnail: https://thmb.techidaily.com/965071db1f866296dbd6b7c6cdfb4395621995dd5
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -115,4 +119,26 @@ thumbnail: https://thmb.techidaily.com/965071db1f866296dbd6b7c6cdfb4395621995dd5
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/updated-champion-firefox-capture-extensions-for-2024/"><u>[Updated] Champion FireFox Capture Extensions for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-how-to-take-your-tweets-visual-aesthetics-from-vids-to-dynamic-gifs/"><u>[Updated] In 2024, How To Take Your Tweets Visual Aesthetics From Vids to Dynamic GIFs</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-kinemaster-tutorials-for-amazing-memes/"><u>2024 Approved KineMaster Tutorials for Amazing Memes</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-quick-fixes-how-to-shorten-youtube-videos-easily/"><u>2024 Approved Quick Fixes How to Shorten YouTube Videos Easily</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/2024-approved-youtube-seo-guide-how-to-improve-youtube-videos-rankings/"><u>2024 Approved YouTube SEO Guide How to Improve YouTube Videos Rankings</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/actionable-guide-xml-to-srt-conversion-techniques-for-2024/"><u>Actionable Guide XMl-to-Srt Conversion Techniques for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/advanced-techniques-to-modify-delete-and-add-new-entries-into-the-windows-registry/"><u>Advanced Techniques to Modify, Delete and Add New Entries Into the Windows Registry</u></a></li>
+<li><a href="https://win-forum.techidaily.com/an-overview-of-what-the-windows-registry-is-and-how-it-works/"><u>An Overview of What The Windows Registry Is & How It Works</u></a></li>
+<li><a href="https://win-forum.techidaily.com/comparing-major-networks-facebook-twitter-instagram-and-youtube/"><u>Comparing Major Networks: Facebook, Twitter, Instagram and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/explore-the-top-online-tech-training-courses-available/"><u>Explore the Top Online Tech Training Courses Available</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-major-social-hubs-online-from-twitter-to-instagram/"><u>Exploring Major Social Hubs Online: From Twitter to Instagram</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-online-connectivity-a-comparison-of-facebook-twitter-instagram-and-youtube/"><u>Exploring Online Connectivity: A Comparison of Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://facebook.techidaily.com/freeing-up-from-facebooks-pervasive-tracking/"><u>Freeing Up From Facebook's Pervasive Tracking</u></a></li>
+<li><a href="https://win-forum.techidaily.com/guarantee-computer-security-master-the-5-key-steps-for-windows-protection/"><u>Guarantee Computer Security: Master the 5 Key Steps for Windows Protection</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-oppo-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Oppo Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-ultimate-auditory-playscripts-collection/"><u>In 2024, Ultimate Auditory Playscripts Collection</u></a></li>
+<li><a href="https://win-forum.techidaily.com/social-networking-titans-exploring-facebook-twitter-instagram-and-youtubes-impact/"><u>Social Networking Titans: Exploring Facebook, Twitter, Instagram & YouTube's Impact</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-ultimate-guide-to-major-social-media-sites-facebook-twitter-instagram-and-youtube/"><u>The Ultimate Guide to Major Social Media Sites: Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-resolving-0x80072efd-issue-on-windows-10-systems/"><u>Troubleshooting and Resolving 0X80072EFD Issue on Windows 10 Systems</u></a></li>
+</ul></div>
 

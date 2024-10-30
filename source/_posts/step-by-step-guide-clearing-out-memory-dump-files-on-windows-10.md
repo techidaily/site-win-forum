@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Clearing Out Memory Dump Files on Windows 10"
-date: 2024-08-18T10:17:30.830Z
-updated: 2024-08-19T10:17:30.830Z
+date: 2024-10-27T23:48:48.897Z
+updated: 2024-10-30T04:34:46.683Z
 tags:
   - win11
   - win10
@@ -41,16 +41,10 @@ thumbnail: https://thmb.techidaily.com/0c4c453f95a612f76b387ff712305941e5398ae6d
 
  We are saying all this, so you can know that not all PowerShell versions are the same. A lot of people need assistance when they try to figure out what PowerShell version they are running. Therefore we created this small guide with all the ways you can check.
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to check what PowerShell version I have installed?
 
  First, you need to open PowerShell. Simply open the Windows Start Menu and type in the search bar PowerShell, and click on the app.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ![start menu PowerShell](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/check-win10-powershell-version/start-menu-powershell.png)
 
  You will see a window, where you enter the following command**$PSVersionTable.PSVersion** , and hit Enter. In the screenshot below you can see an example where you can find the version.
@@ -59,32 +53,48 @@ thumbnail: https://thmb.techidaily.com/0c4c453f95a612f76b387ff712305941e5398ae6d
 
  Another method that you can use to check what PowerShell version you are running is to use the command “Get-Host”
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Get Host command](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/check-win10-powershell-version/powershell-version-2.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The last method we will show you is by using the command “$host.version”. You will see the PowerShell version in a slightly different format. You will be able to see the Major and Minor release and the build number and revision.
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ## How can I upgrade to a newer version of PowerShell?
 
  You can run both Windows PowerShell and PowerShell 7.2 on the same computer. You do not have to worry about the lack of feature parity by upgrading. Simply keep the current Windows PowerShell installed and also download PowerShell. You can do that by going to its[GitHub release page](https://github.com/PowerShell/PowerShell/releases) . You will see a list of assets, where you can simply choose the OS you want to download for.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
  Overall PowerShell can help you with automating some of the tasks that you are doing on regular basis on your PC. By knowing which version you are running and how to upgrade it you will be able to utilize it without any issues.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## We can help you every time when…
 
 * you cannot find the program in the Apps & Features list
@@ -100,8 +110,6 @@ thumbnail: https://thmb.techidaily.com/0c4c453f95a612f76b387ff712305941e5398ae6d
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -109,4 +117,26 @@ thumbnail: https://thmb.techidaily.com/0c4c453f95a612f76b387ff712305941e5398ae6d
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-prime-platforms-3d-models-in-animation/"><u>[New] Prime Platforms 3D Models in Animation</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/trategies-for-building-a-hit-youtube-video-preview-for-2024/"><u>[New] Strategies for Building a Hit YouTube Video Preview for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-installation-of-logitech-devices-on-windows-with-driver-updates/"><u>Effortless Installation of Logitech Devices on Windows with Driver Updates</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-can-we-unlock-our-honor-v-purse-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Honor V Purse Phone Screen?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-lock-apps-on-xiaomi-redmi-k70-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Xiaomi Redmi K70 to Protect Your Individual Information</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Motorola Edge 40 | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/lyric-purifier-toolkit-assemble-custom-music-beds-for-2024/"><u>Lyric Purifier Toolkit Assemble Custom Music Beds for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/social-media-unveiled-a-closer-look-at-facebook-twitter-instagram-and-youtube-dynamics/"><u>Social Media Unveiled: A Closer Look at Facebook, Twitter, Instagram and YouTube Dynamics</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-deleting-items-using-the-command-line-on-windows-10/"><u>Step-by-Step Guide: Deleting Items Using the Command Line on Windows 10</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-erasing-tracking-cookies-from-your-windows-11-and-android-device/"><u>Step-by-Step Guide: Erasing Tracking Cookies From Your Windows 11 & Android Device</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-removing-files-and-folders-via-command-line-on-windows-10/"><u>Step-by-Step Guide: Removing Files & Folders via Command Line on Windows 10</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-solutions-to-overcome-access-denied-errors-in-windows-environment/"><u>Step-by-Step Solutions to Overcome Access Denied Errors in Windows Environment</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-big-four-in-online-connectivity-a-dive-into-facebook-twitter-instagram-and-youtube/"><u>The Big Four in Online Connectivity: A Dive Into Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-big-four-of-social-media-connecting-through-facebook-twitter-instagram-and-youtube/"><u>The Big Four of Social Media: Connecting Through Facebook, Twitter, Instagram and Youtube</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/the-flip-side-of-perspectives-crafting-engaging-images-with-angled-spins-on-instagram-sites/"><u>The Flip-Side of Perspectives Crafting Engaging Images with Angled Spins on Instagram Sites</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-four-major-hubs-of-digital-interaction-facebook-twitter-instagram-youtube/"><u>The Four Major Hubs of Digital Interaction: Facebook, Twitter, Instagram, YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-power-players-in-todays-social-media-scene-an-analysis-of-facebook-twitter-instagram-and-youtube/"><u>The Power Players in Today's Social Media Scene: An Analysis of Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/unmute-the-silence-how-to-address-no-sound-problems-on-a-lenovo-computer-systematically/"><u>Unmute the Silence: How to Address No Sound Problems on a Lenovo Computer Systematically</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211140344-9781961364073-women-who-dream/"><u>Women Who Dream | Free Book</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Protecting Your Privacy: Five Essential Tips for Windows Security"
-date: 2024-08-18T10:20:45.095Z
-updated: 2024-08-19T10:20:45.095Z
+date: 2024-10-27T20:34:23.280Z
+updated: 2024-10-30T05:39:00.957Z
 tags:
   - win11
   - win10
@@ -28,11 +28,15 @@ thumbnail: https://thmb.techidaily.com/b1cba008df1c48de3d3ce1280dbcf873e7a62b2d4
 
  Below we will go through several methods of how to lock your Windows PC:
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## I. To lock your Windows 11 PC through the Start menu, follow these steps
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 1. Click on the**‘Start’** button located at the bottom left corner of the screen or press the**‘Windows’** key on your keyboard to open the Start menu. ![Start menu lock](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/lock-pc/method-1-start-menu.png)
 2. In the Start menu, click on your user profile icon or name located at the top.
 3. This will open a menu with various options. Click on**‘Lock’** from the list of options.
@@ -44,28 +48,31 @@ thumbnail: https://thmb.techidaily.com/b1cba008df1c48de3d3ce1280dbcf873e7a62b2d4
 2. From the context menu, select**“Task Manager”** . Alternatively, you can press**Ctrl + Shift + Esc** on your keyboard to open Task Manager directly.
 3. Once Task Manager opens, go to the**“File”** menu located in the top left corner of the window.
 4. Select**“App History”**
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 5. From the dropdown menu, select**“Run new task”** . ![Run new task](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/lock-pc/method-2-task-manager-1.png)
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. In the**“Create new task”** window, type**“tsdiscon”** (short for “Terminal Services Disconnect”) into the text field. ![Create new task](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/lock-pc/method-2-task-manager-2.png)
-7. Check the box next to**“Create this task with administrative privileges”** .
-8. Click**“OK”** .
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+7. Check the box next to**“Create this task with administrative privileges”** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+8. Click**“OK”** .
+
 ## III. How to Lock a Windows 11 computer via the Ctrl + Alt + Delete Menu
 
  Pressing**Ctrl + Alt + Delete** triggers a distinct Windows menu to appear on your screen, offering a range of functionalities. Among these options is the Task Manager, granting you the capability to perform several actions, including switching user accounts, changing passwords, and, most notably for our discussion, locking your PC. Simply selecting**“Lock”** from this menu instantly secures your Windows 11 device.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## IV. Lock your PC via the Command Prompt
 
  Locking your Windows 11 system is also possible through the Command Prompt, which is a text-based user interface accepting keyboard input.
@@ -88,10 +95,14 @@ The ultimate burning program for all your needs!</a>
 
  In matters of cybersecurity, you represent the primary line of defense. The method you select to lock your PC is less crucial than ensuring that you do so consistently. Additionally, it’s essential to configure your PC to lock itself automatically in case of oversight.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## We can help you every time when…
 
@@ -108,8 +119,6 @@ The ultimate burning program for all your needs!</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -117,4 +126,26 @@ The ultimate burning program for all your needs!</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/iscal-horizons-exploring-mr-beasts-income-for-2024/"><u>[New] Fiscal Horizons Exploring Mr. Beast's Income for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-leverage-canva-design-top-10-stealthy-methods-revealed-for-2024/"><u>[New] Leverage Canva Design Top 10 Stealthy Methods Revealed for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-ideal-7-video-capture-tools-for-engaging-social-media-presentations/"><u>[Updated] 2024 Approved Ideal 7 Video Capture Tools for Engaging Social Media Presentations</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-easy-steps-for-achieving-facebooks-prestigious-blue-badge-for-2024/"><u>[Updated] Easy Steps for Achieving Facebook's Prestigious Blue Badge for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-7-key-tools-to-convert-youtube-videos-easily/"><u>[Updated] In 2024, 7 Key Tools to Convert YouTube Videos Easily</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-step-by-step-guide-to-time-stamping-for-higher-youtube-rankings/"><u>[Updated] In 2024, Step-by-Step Guide to Time Stamping for Higher YouTube Rankings</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-step-into-the-realm-of-3d-graffiti-a-guide-to-10-exceptional-websites/"><u>2024 Approved Step Into the Realm of 3D Graffiti A Guide to 10 Exceptional Websites</u></a></li>
+<li><a href="https://win-forum.techidaily.com/bypass-the-restrictions-install-windows-11-on-unsupported-cpu-systems-via-revouninstaller-tips/"><u>Bypass the Restrictions: Install Windows 11 on Unsupported CPU Systems via RevoUninstaller Tips</u></a></li>
+<li><a href="https://win-forum.techidaily.com/complete-guide-to-permanently-remove-a-login-account-from-your-pc-windows-11-and-revo-uninstaller-techniques/"><u>Complete Guide to Permanently Remove a Login Account From Your PC: Windows 11 and Revo Uninstaller Techniques</u></a></li>
+<li><a href="https://win-forum.techidaily.com/connect-and-share-with-leading-networks-explore-facebook-to-youtube/"><u>Connect and Share with Leading Networks: Explore Facebook to YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/discover-the-power-of-social-networking-with-fb-tw-ig-and-yt/"><u>Discover the Power of Social Networking with FB, TW, IG and YT</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-honor-play-7t-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Honor Play 7T Location Settings | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-your-infinix-hot-40-lock-screen-password-by-drfone-android/"><u>How to Reset your Infinix Hot 40 Lock Screen Password</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-nokia-g310-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Nokia G310 | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/ultimate-guide-managing-windows-registry-entries-with-revo-uninstaller/"><u>Ultimate Guide: Managing Windows Registry Entries with Revo Uninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/understanding-popular-online-communities-a-guide-to-facebook-twitter-instagram-and-youtube/"><u>Understanding Popular Online Communities: A Guide to Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/understanding-the-windows-registry-a-comprehensive-guide/"><u>Understanding the Windows Registry: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-forum.techidaily.com/unlock-the-secrets-to-a-swift-windows-1n-boot-tactics-and-tools-for-efficiency/"><u>Unlock the Secrets to a Swift Windows 1N Boot: Tactics and Tools for Efficiency</u></a></li>
+<li><a href="https://win-forum.techidaily.com/upgrade-your-system-the-ultimate-tutorial-on-refreshing-windows-11-driver-software/"><u>Upgrade Your System: The Ultimate Tutorial on Refreshing Windows 11 Driver Software</u></a></li>
+</ul></div>
 

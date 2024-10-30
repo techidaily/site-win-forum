@@ -1,7 +1,7 @@
 ---
 title: Clicca Qui per Imparare Come Registrare Lo Schermo Di Windows O Mac Usando OBS - Tutorial Completo!
-date: 2024-10-17T09:15:25.521Z
-updated: 2024-10-23T16:46:46.996Z
+date: 2024-10-25T00:46:24.320Z
+updated: 2024-10-29T21:54:34.875Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/729729197b22ccebe2bbfe977aa7bc85dbf69a72f989ad7aa422cd7f1d76fb4a.jpg
@@ -182,6 +182,13 @@ Comment rendre Windows 10 plus rapide pour les jeux (corrections rapides)
 
 ![](https://cdn.staticont.net/pages/0013/24/d54a84e68415bc2949ca1ec30e4cf5f5b067a4e1.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Vous voulez savoir comment rendre Windows 10 plus rapide pour jouer avec une solution rapide ? Suivez ces conseils et recommencez à jouer !
 
 ### Régler les paramètres graphiques d'un jeu
@@ -210,16 +217,16 @@ Voici quelques liens vers les mises à jour des pilotes des fabricants les plus 
 * [Pilotes NVIDIA](https://www.nvidia.com/Download/index.aspx)
 * [Pilotes Intel Graphics](https://www.intel.com/content/www/us/en/support/products/80939/graphics-drivers.html)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Installer DirectX 12
 
 ![](https://cdn.staticont.net/default/0012/47/72e52d810cb1f6f8d15a641fc4b287b8c43fbcd6.webp)
+
+<!-- affiliate ads begin -->
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 DirectX 12 est un outil indispensable pour quiconque souhaite jouer à des jeux sur Windows 10\. Pour faire simple, DirectX est l'application que le jeu utilise pour communiquer avec votre ordinateur et lui dire quoi faire. DirectX 12 est une grande amélioration par rapport à son prédécesseur, DirectX 11, car il permet aux cartes graphiques de tirer des ressources de plus d'un cœur du processeur d'un PC, ce qui augmente les fréquences d'images, améliore les effets graphiques et réduit la consommation d'énergie. Des tests ont montré une différence de 85 à 300 % dans les performances de jeu entre la version 11 et la version 12.
 
@@ -234,13 +241,6 @@ Si vous n'avez pas DirectX 12, allez-y et installez-le ; le processus ne prendra
 Utiliser le mode de jeu Windows 10
 
 ![](https://cdn.staticont.net/default/0012/47/d22e37788bfd390747dc00a19758815599d522df.webp)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Voici un moyen simple et rapide d'optimiser Windows 10 pour les jeux en utilisant un outil intégré au système. Le mode Jeu, apparu dans les versions les plus récentes du système d'exploitation, est conçu pour améliorer l'expérience de jeu en consacrant davantage de ressources système aux jeux. Il empêche également d'autres programmes, tels que Windows Update, d'accaparer les ressources du système pendant que vous jouez.
 
@@ -313,10 +313,10 @@ Si vous utilisez une carte graphique NVIDIA, il existe des paramètres spécifiq
 6. Optimisation Threaded : Passez à **Auto**.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Régler le centre de contrôle AMD/ATI
@@ -331,6 +331,13 @@ Les cartes graphiques AMD ont également beaucoup de paramètres. Certains disen
 
 Cette solution entre facilement dans la catégorie des "solutions rapides". Parfois, votre système ne peut tout simplement pas gérer un jeu, et vous n'avez pas le temps de chercher des solutions à plus long terme. Allez dans les paramètres système du jeu et réduisez la résolution d'un niveau. Surveillez ensuite votre FPS jusqu'à ce que les choses s'améliorent.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Désactiver l'accélération de la souris
 
 Celui-ci n'a rien à voir avec l'amélioration des performances de votre PC en matière de jeu, mais il s'agit plutôt d'un conseil pour vous permettre d'améliorer vos performances personnelles en matière de jeu. L'accélération de la souris est un paramètre qui fait bouger votre souris en se basant non seulement sur la détection des mouvements physiques mais aussi sur la vitesse. Cette option rend en fait les mouvements de votre souris moins précis, car elle ajoute un paramètre supplémentaire au mouvement que vous transmettez à la souris. Étant donné que la précision est cruciale pour la précision de la visée dans les jeux de tir à la première personne, si vous êtes un fan de Call of Duty, Counter-Strike ou Overwatch, vous devriez absolument désactiver cette option.
@@ -344,13 +351,6 @@ Vous pouvez également modifier le curseur de la vitesse du pointeur pour créer
 Comment améliorer les performances de jeu sur Windows 10 (corrections avancées)
 
 ![](https://cdn.staticont.net/pages/0013/24/72b5f58442a79243cce53c3224e26755b436a620.webp)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Vous ne savez toujours pas comment rendre Windows 10 plus rapide pour les jeux ? Utilisez ces correctifs avancés pour une solution à long terme.
 
@@ -380,6 +380,13 @@ De nombreux jeux requièrent une mémoire vive de 8 Go, mais ce chiffre augmente
 
 Si vous voulez rester en tête de la courbe, 16 Go suffiront pour l'instant. Mais si vous voulez utiliser des services de streaming en arrière-plan comme Twitch, Discord et YouTube, vous devrez passer à 32 Go pour pouvoir tout faire fonctionner sans problème.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Désactiver l'algorithme de Nagle
 
 En gros, l'algorithme de Nagle améliore l'efficacité des réseaux TCP/IP en créant des paquets de données, ce qui réduit le nombre de paquets à envoyer sur le réseau. Ce processus affecte votre connexion Internet, la rendant moins stable. La désactivation de cet algorithme sur votre PC peut contribuer à des problèmes de latence lorsque vous jouez à des jeux en ligne.
@@ -400,6 +407,13 @@ Pour overclocker :
 2. Utilisez un programme comme MSI Afterburner pour augmenter l'horloge centrale de la carte. Faites-le par intervalles de 10 MHz et réinitialisez les benchmarks au fur et à mesure.
 3. En option, vous pouvez également augmenter le voltage et l'horloge de la mémoire, mais surveillez de près la température de votre carte lorsque vous faites cela.
 4. Jouez à un jeu et vérifiez les performances.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Désactiver SysMain et Prefetch
 
@@ -423,13 +437,6 @@ C'est l'un des services faciles à désactiver sur Windows 10\. Ces programmes e
 * Définissez la **valeur** sur **0**.
 * Cliquez sur **OK**.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 
 
 Comment accélérer l'exécution des jeux sur un ordinateur portable Windows 10
@@ -438,16 +445,16 @@ Comment accélérer l'exécution des jeux sur un ordinateur portable Windows 10
 
 Vous voulez savoir comment améliorer les performances de jeu sur un ordinateur portable Windows 10 ? Ces conseils vous aideront à accélérer les choses !
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Utiliser une alimentation externe
 
 Windows 10 dispose de nombreuses fonctions d'économie d'énergie pour les ordinateurs portables afin de les maintenir en vie pendant de plus longues durées. Cela affectera considérablement l'expérience de jeu car votre RAM, vos cartes graphiques et votre CPU ne fonctionneront pas à pleine capacité. Pour remédier à ce problème, connectez votre ordinateur portable à son alimentation externe et assurez-vous que vos paramètres de contrôle permettent d'obtenir des performances optimales lorsqu'il est connecté.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Utiliser un plan d'alimentation performant
 
@@ -461,13 +468,6 @@ Les ordinateurs portables sont réputés pour leur surchauffe, car tous les comp
 2. Pour la ventilation, essayez de surélever votre ordinateur portable ou utilisez un bureau conçu pour les ordinateurs portables.
 3. Réglez les paramètres de vos ventilateurs pour qu'ils ne soient pas trop sollicités.
 4. Si vous le pouvez, jouez sur votre ordinateur portable dans un environnement frais.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Mettez à niveau votre GPU et votre RAM
 
@@ -503,6 +503,13 @@ Logiciel d'enregistrement de jeux et de streaming gratuit et simple
 [Télécharger gratuitement](https://tools.techidaily.com/movavi/products/)[À propos de la version Windows](https://www.gecata.com/)
 
 ![Gecata&nbsp;by Movavi](https://cdn.staticont.net/products/0023/55/189f02c8904c7cafef6bd153dc2ff5755f569030.webp)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 
 
@@ -551,13 +558,6 @@ Atteindre 60 FPS dans un jeu n'est pas différent des conseils pour accélérer 
 4. Vérifiez les paramètres graphiques de votre jeu.
 5. Installez les derniers pilotes pour votre carte graphique
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Pourquoi ai-je des fps faibles sur mon PC haut de gamme ?
 
 La baisse du nombre de FPS se produit lorsque votre ordinateur n'a pas la mémoire ou la puissance nécessaire pour faire tourner le jeu à pleine vitesse. Parmi les problèmes les plus courants à l'origine d'une baisse du nombre d'images par seconde, citons les pilotes de cartes graphiques obsolètes, les cartes graphiques de qualité inférieure, les vieux processeurs et le manque de mémoire vive. 
@@ -601,22 +601,20 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-boosting-bank-balance-effective-tactics-for-mobile-video-money-making/"><u>[New] 2024 Approved Boosting Bank Balance Effective Tactics for Mobile Video Money-Making</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-srs-mastery-innovative-conversion-techniques/"><u>[New] 2024 Approved SRS Mastery Innovative Conversion Techniques</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-harness-your-creativity-with-high-quality-free-images-from-these-12-sites/"><u>[New] Harness Your Creativity with High-Quality, Free Images From These 12 Sites</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-professional-voice-capture-on-mac-compiling-the-best-5-apps/"><u>[New] Professional Voice Capture on Mac Compiling The Best 5 Apps</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-the-art-of-amusement-master-memes-with-kapwing/"><u>[Updated] 2024 Approved The Art of Amusement – Master Memes with Kapwing</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-revealing-the-12-paths-fixing-non-appearing-fb-video-posts-now/"><u>[Updated] Revealing The 12 Paths Fixing Non-Appearing FB Video Posts, Now</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-illuminating-pathways-through-mixed-realitys-domain/"><u>2024 Approved Illuminating Pathways Through Mixed Reality's Domain</u></a></li>
-<li><a href="https://win-forum.techidaily.com/connect-with-billions-on-leading-platforms-facebook-twitter-instagram-and-youtube/"><u>Connect with Billions on Leading Platforms - Facebook, Twitter, Instagram & Youtube</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-fixes-for-when-your-pc-cant-convert-to-pdf-using-windows-built-in-tools/"><u>Effective Fixes for When Your PC Can't Convert to PDF Using Windows Built-In Tools</u></a></li>
-<li><a href="https://win-forum.techidaily.com/effective-solutions-for-when-programs-refuse-to-open-on-your-personal-computer/"><u>Effective Solutions for When Programs Refuse to Open on Your Personal Computer</u></a></li>
-<li><a href="https://win-forum.techidaily.com/1722915228207-exploring-the-giants-of-social-networking-facebook-twitter-instagram-and-youtube/"><u>Exploring the Giants of Social Networking: Facebook, Twitter, Instagram, and YouTube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/how-to-identify-your-installed-powershell-version-for-windows-11-systems/"><u>How to Identify Your Installed PowerShell Version for Windows 11 Systems</u></a></li>
-<li><a href="https://win-forum.techidaily.com/maximize-storage-on-your-windows-11-pc-with-these-clever-tricks/"><u>Maximize Storage on Your Windows 11 PC with These Clever Tricks</u></a></li>
-<li><a href="https://win-forum.techidaily.com/top-four-social-media-giants-exploring-facebook-twitter-instagram-and-youtube/"><u>Top Four Social Media Giants: Exploring Facebook, Twitter, Instagram & YouTube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/top-social-networks-facebook-twitter-instagram-and-youtube-unveiled/"><u>Top Social Networks: Facebook, Twitter, Instagram & YouTube Unveiled</u></a></li>
-<li><a href="https://win-forum.techidaily.com/troubleshooting-and-activation-of-wake-on-lan-for-pcs-running-windows-11/"><u>Troubleshooting and Activation of Wake-on-LAN for PCs Running Windows 11</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-how-to-convert-mp3-to-text-online-3-easy-ways/"><u>Updated In 2024, How to Convert MP3 to Text Online 3 Easy Ways</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-diy-instagram-videos-simple-steps-to-success/"><u>[New] In 2024, DIY Instagram Videos Simple Steps to Success</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-journey-through-depths-with-premium-underwater-cameras-2023-for-2024/"><u>[New] Journey Through Depths with Premium Underwater Cameras 2023 for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-transforming-raw-footage-expert-pc-editing-tips-for-youtube-creators/"><u>[New] Transforming Raw Footage Expert PC Editing Tips for YouTube Creators</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-best-voice-modification-tools-for-mobile-devices-for-2024/"><u>[Updated] Best Voice Modification Tools for Mobile Devices for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/best-practices-for-installing-and-refreshing-your-epson-et-3760-windows-operating-system-driver/"><u>Best Practices for Installing and Refreshing Your Epson ET-3760 Windows Operating System Driver</u></a></li>
+<li><a href="https://win-forum.techidaily.com/convert-your-wma-audio-files-to-mp3-for-free-effortless-conversion-using-movavis-tool/"><u>Convert Your WMA Audio Files to MP3 for Free - Effortless Conversion Using Movavi's Tool</u></a></li>
+<li><a href="https://win-forum.techidaily.com/enhance-client-engagement-with-movavis-contact-hubs/"><u>Enhance Client Engagement with Movavis Contact Hubs</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-key-players-transforming-vr-landscape/"><u>In 2024, Key Players Transforming VR Landscape</u></a></li>
+<li><a href="https://win-forum.techidaily.com/movavis-free-online-video-converter-convert-mov-to-mp4-and-more/"><u>Movavi's Free Online Video Converter: Convert MOV to MP4 & More</u></a></li>
+<li><a href="https://win-forum.techidaily.com/movavis-top-free-flv-to-mp4-video-format-converter-convert-online-in-just-one-click/"><u>Movavi's Top Free FLV to MP4 Video Format Converter - Convert Online in Just One Click!</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-discover-the-best-free-green-screen-apps-for-android-and-ios/"><u>New Discover the Best Free Green Screen Apps for Android and iOS</u></a></li>
+<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your OnePlus Ace 3 | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/telechargement-gratuit-comment-transformer-un-fichier-asf-en-mp3-sans-effort-sur-internet-movavi/"><u>Téléchargement Gratuit : Comment Transformer Un Fichier ASF en MP3 Sans Effort Sur Internet - Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transcoding-tvs-files-to-mp4-format-using-teamviewer-and-wonderfox-video-tools/"><u>Transcoding TVS Files to MP4 Format Using TeamViewer & WonderFox Video Tools</u></a></li>
+<li><a href="https://win-forum.techidaily.com/vrije-omzettingen-voor-qt-fiches-veerkrachtigheid-vergroten-doorzichtig-met-movavi-online/"><u>Vrije Omzettingen Voor QT-Fiches: Veerkrachtigheid Vergroten Doorzichtig Met Movavi Online</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Unforeseen Complications in Windows 11: Fixing Unexpected Execution Errors"
-date: 2024-08-18T10:19:20.629Z
-updated: 2024-08-19T10:19:20.629Z
+date: 2024-10-22T19:05:34.754Z
+updated: 2024-10-30T03:54:56.866Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/e238ad00eb0e97c8dd57c3ad56e056f669853f212
 
 ## Find Out the Version of PowerShell in Windows 10 with Simple Tricks
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ## [How to check Windows 10 PowerShell version](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1)
 
 * Share
@@ -29,27 +26,30 @@ thumbnail: https://thmb.techidaily.com/e238ad00eb0e97c8dd57c3ad56e056f669853f212
 
  PowerShell is an amazing tool created by Microsoft so you can automate tasks. By knowing which PowerShell version you have access to, you will know what features you can use. There are more than 200 commands that can be used within PowerShell and it is a super flexible framework that will save you a bunch of time.
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Can you use PowerShell only on your Windows computer?
 
  Since 2016 PowerShell was announced as open-source and cross-platform. You can use it on macOS and Linux too. Although it is native to Windows OS, and Microsoft only supports security updates and bug fixes, PowerShell Core is being worked on to clear these issues with other OS.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Why is it important to know which PowerShell version you are running?
 
  PowerShell had many versions during the year starting with version 1.0 back in 2006\. The newest version( version 7) comes with the following new features:
@@ -62,15 +62,16 @@ Key features:
  We are saying all this, so you can know that not all PowerShell versions are the same. A lot of people need assistance when they try to figure out what PowerShell version they are running. Therefore we created this small guide with all the ways you can check.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How to check what PowerShell version I have installed?
 
  First, you need to open PowerShell. Simply open the Windows Start Menu and type in the search bar PowerShell, and click on the app.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ![start menu PowerShell](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/check-win10-powershell-version/start-menu-powershell.png)
 
  You will see a window, where you enter the following command**$PSVersionTable.PSVersion** , and hit Enter. In the screenshot below you can see an example where you can find the version.
@@ -91,14 +92,15 @@ Key features:
 
  Overall PowerShell can help you with automating some of the tasks that you are doing on regular basis on your PC. By knowing which version you are running and how to upgrade it you will be able to utilize it without any issues.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## We can help you every time when…
 
 * you cannot find the program in the Apps & Features list
@@ -114,8 +116,6 @@ Key features:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -123,4 +123,26 @@ Key features:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-traverse-times-tapestry-with-public-domain-art/"><u>[New] Traverse Time's Tapestry with Public Domain Art</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-navigating-the-world-of-online-video-conferencing-for-2024/"><u>[Updated] Navigating the World of Online Video Conferencing for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-amuse-others-via-adobe-meme-making/"><u>2024 Approved Amuse Others via Adobe Meme-Making</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-streamlining-your-youtube-earnings-post-monetization-processes/"><u>2024 Approved Streamlining Your YouTube Earnings Post-Monetization Processes</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/iuwbnuwplusqes4jeidveobruegseodoeodvoodqplusocouocqplusocpuodsplusodioockuwpluociuaiuplusobmeaipuevptog6lplus344gj44gf44go44gn44gu44os44oz44oiig/"><u>回復不能の熱メールアカウントを取り戻す戦略: 迷ったときのヒント</u></a></li>
+<li><a href="https://program-issues.techidaily.com/boost-your-gaming-experience-by-overcoming-dying-lights-latency-problems/"><u>Boost Your Gaming Experience by Overcoming Dying Light's Latency Problems</u></a></li>
+<li><a href="https://win11.techidaily.com/bridging-the-gap-integrating-gmail-with-outlook-app-for-windows/"><u>Bridging the Gap: Integrating Gmail with Outlook App for Windows</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/how-to-facetime-on-android-easily-for-2024/"><u>How To Facetime on Android Easily for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/lone-audio-device-repair-manual-for-2024/"><u>Lone Audio Device Repair Manual for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-your-systems-bios-with-the-help-of-revo-uninstaller-techniques/"><u>Mastering Your System's BIOS with the Help of Revo Uninstaller Techniques</u></a></li>
+<li><a href="https://win-forum.techidaily.com/maximize-storage-efficiency-remove-files-and-apps-in-windows-11-using-revo-uninstaller/"><u>Maximize Storage Efficiency: Remove Files & Apps in Windows 11 Using Revo Uninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/maximize-your-storage-efficiently-clearing-disk-space-on-windows-11/"><u>Maximize Your Storage: Efficiently Clearing Disk Space on Windows 11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigate-digital-connections-on-popular-channels-fb-twttr-insta-and-ytub/"><u>Navigate Digital Connections on Popular Channels: FB, Twttr, Insta & YTub</u></a></li>
+<li><a href="https://win-forum.techidaily.com/protecting-files-from-unauthorized-access-how-to-encrypt-text-files/"><u>Protecting Files From Unauthorized Access: How to Encrypt Text Files</u></a></li>
+<li><a href="https://win-forum.techidaily.com/reverting-windows-11-enhancements-a-comprehensive-how-to-guide/"><u>Reverting Windows 11 Enhancements: A Comprehensive How-To Guide</u></a></li>
+<li><a href="https://win-forum.techidaily.com/securing-your-documents-a-step-by-step-guide-to-encrypting-text-files/"><u>Securing Your Documents: A Step-by-Step Guide to Encrypting Text Files</u></a></li>
+<li><a href="https://win-forum.techidaily.com/social-media-showdown-benchmarks-for-facebook-twitter-instagram-and-youtube-engagement-strategies/"><u>Social Media Showdown: Benchmarks for Facebook, Twitter, Instagram, and YouTube Engagement Strategies</u></a></li>
+<li><a href="https://win-forum.techidaily.com/social-media-success-tactics-engaging-audiences-across-facebook-twitter-instagram-and-youtube/"><u>Social Media Success Tactics: Engaging Audiences Across Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-answers.techidaily.com/the-complete-2024-solution-manual-for-overcoming-battlenet-startup-problems/"><u>The Complete 2024 Solution Manual for Overcoming Battle.net Startup Problems</u></a></li>
+</ul></div>
 

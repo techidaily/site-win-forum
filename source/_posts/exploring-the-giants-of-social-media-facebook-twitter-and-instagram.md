@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Giants of Social Media: Facebook, Twitter & Instagram"
-date: 2024-08-18T10:17:33.754Z
-updated: 2024-08-19T10:17:33.754Z
+date: 2024-10-23T18:31:02.873Z
+updated: 2024-10-29T23:05:56.014Z
 tags:
   - win11
   - win10
@@ -29,21 +29,26 @@ thumbnail: https://thmb.techidaily.com/9452709ea5278a965307bf042e7d92a12b881e1c8
  Below we will go through several methods of how to lock your Windows PC:
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## I. To lock your Windows 11 PC through the Start menu, follow these steps
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 1. Click on the**‘Start’** button located at the bottom left corner of the screen or press the**‘Windows’** key on your keyboard to open the Start menu. ![Start menu lock](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/lock-pc/method-1-start-menu.png)
 2. In the Start menu, click on your user profile icon or name located at the top.
 3. This will open a menu with various options. Click on**‘Lock’** from the list of options.
 4. Alternatively, you can also press the**‘Windows’** key +**‘L’** on your keyboard as a shortcut to lock your PC instantly.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## II. Another way to lock your Windows Computer and protect your data is through the Task Manager. Here are the steps you have to take in order to do that
 
 1. Right-click on the taskbar at the bottom of your screen. This will open a context menu.
@@ -51,11 +56,16 @@ thumbnail: https://thmb.techidaily.com/9452709ea5278a965307bf042e7d92a12b881e1c8
 3. Once Task Manager opens, go to the**“File”** menu located in the top left corner of the window.
 4. Select**“App History”**
 5. From the dropdown menu, select**“Run new task”** . ![Run new task](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/lock-pc/method-2-task-manager-1.png)
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 6. In the**“Create new task”** window, type**“tsdiscon”** (short for “Terminal Services Disconnect”) into the text field. ![Create new task](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/lock-pc/method-2-task-manager-2.png)
 7. Check the box next to**“Create this task with administrative privileges”** .
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 8. Click**“OK”** .
 
 ## III. How to Lock a Windows 11 computer via the Ctrl + Alt + Delete Menu
@@ -69,9 +79,6 @@ thumbnail: https://thmb.techidaily.com/9452709ea5278a965307bf042e7d92a12b881e1c8
  To initiate this process, begin by accessing the Start menu search bar. Enter “Command Prompt” and select the best match. Once the Command Prompt window opens, input the following command and press Enter:  
 **Rundll32.exe user32.dll,LockWorkStation**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ## V. How to lock your computer with Dynamic Lock
 
  Locking your Windows 11 PC with Dynamic Lock offers an additional layer of security by automatically securing your device when you step away. Dynamic Lock utilizes the presence of a paired Bluetooth device to determine your proximity to the PC. When you move out of range, your PC locks itself to prevent unauthorized access. Here’s how to set it up:
@@ -90,8 +97,12 @@ thumbnail: https://thmb.techidaily.com/9452709ea5278a965307bf042e7d92a12b881e1c8
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## We can help you every time when…
 
 * you cannot find the program in the Apps & Features list
@@ -107,8 +118,6 @@ thumbnail: https://thmb.techidaily.com/9452709ea5278a965307bf042e7d92a12b881e1c8
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -116,4 +125,24 @@ thumbnail: https://thmb.techidaily.com/9452709ea5278a965307bf042e7d92a12b881e1c8
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2023-how-to-find-videos-on-facebook-for-2024/"><u>[New] 2023 | How to Find Videos on Facebook for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-optimal-videography-minimizing-sound-interference-effectively/"><u>[Updated] In 2024, Optimal Videography Minimizing Sound Interference Effectively</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-the-411-on-navigating-youtube-shorts/"><u>[Updated] In 2024, The 411 on Navigating YouTube Shorts</u></a></li>
+<li><a href="https://win-forum.techidaily.com/building-connections-online-strategies-for-facebook-twitter-instagram-and-youtube-presence-boost/"><u>Building Connections Online: Strategies for Facebook, Twitter, Instagram & YouTube Presence Boost</u></a></li>
+<li><a href="https://win-forum.techidaily.com/clear-disk-clutter-on-windows-11-a-step-by-step-guide-with-revo-uninstaller/"><u>Clear Disk Clutter on Windows 11: A Step-by-Step Guide with Revo Uninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/clearing-system-caches-on-windows-10-using-easy-methods/"><u>Clearing System Caches on Windows 10 Using Easy Methods</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/googles-ar-stickers-an-overview-with-comparison-to-rival-products/"><u>Google's AR Stickers An Overview with Comparison to Rival Products</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-xbox-game-pass-0x00000001-error-in-windows-10-and-11/"><u>How to Fix the Xbox Game Pass 0X00000001 Error in Windows 10 & 11</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-high-revenue-streaming-star-across-the-globe/"><u>In 2024, High Revenue Streaming Star Across the Globe</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-laugh-and-cry-on-instagram-best-meme-accounts-of-the-year/"><u>In 2024, Laugh and Cry on Instagram Best Meme Accounts of the Year</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-the-mobile-filmmakers-playbook-crafting-compelling-youtubes-thumbnails/"><u>In 2024, The Mobile Filmmaker’s Playbook Crafting Compelling YouTubes Thumbnails</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/mastering-metaverse-marketing-techniques-for-2024/"><u>Mastering Metaverse Marketing Techniques for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/1722915398281-revolutionize-your-computer-maintenance-the-new-and-improved-revo-uninstaller-pro-5/"><u>Revolutionize Your Computer Maintenance: The New and Improved Revo Uninstaller Pro 5!</u></a></li>
+<li><a href="https://win-forum.techidaily.com/understanding-modern-communication-channels-a-deep-dive-into-facebook-twitter-instagram-and-youtube/"><u>Understanding Modern Communication Channels: A Deep Dive Into Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/understanding-the-role-of-bios-in-system-configuration-with-revo-uninstaller/"><u>Understanding the Role of BIOS in System Configuration with Revo Uninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/unlocking-android-11s-potential-manage-app-permissions-with-ease-using-revouninstaller/"><u>Unlocking Android 11'S Potential: Manage App Permissions with Ease Using RevoUninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/windows-10-and-the-art-of-system-recovery-unveiling-system-restore/"><u>Windows 10 and the Art of System Recovery: Unveiling System Restore</u></a></li>
+</ul></div>
 
