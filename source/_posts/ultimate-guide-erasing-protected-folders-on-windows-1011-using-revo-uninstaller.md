@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Erasing Protected Folders on Windows 10/11 Using Revo Uninstaller"
-date: 2024-08-18T10:28:46.887Z
-updated: 2024-08-19T10:28:46.887Z
+date: 2024-10-29T18:56:29.493Z
+updated: 2024-11-04T19:09:58.473Z
 tags:
   - win11
   - win10
@@ -31,33 +31,41 @@ thumbnail: https://thmb.techidaily.com/92290ca438acc7b53d6d463fb220788f23c7aae03
  The following article outlines the latest additions introduced in this new release.
 
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## What did we add in the new 5.0.0 version of Revo Uninstaller Pro?
 
 ### Uninstall History module
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ![History Module](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/introducing-revo-5/history-module.png)
 
  With Revo Uninstaller Pro 5 you can now view your uninstall history. The goal is to let our users keep track of all of the completed uninstall operations.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Command-Line support for Windows Apps and Browser Extensions
 
  In the latest release of Revo Uninstaller, we’ve made a few changes to the Windows Apps module. Aside from having the ability to uninstall Windows Apps via the standard graphical user interface, we’ve also added the choice of uninstalling them via the command-line interface (CLI).
 
  There is also now an option to remove Browser Extensions. You can do this from the Command-Line interface. Supported are all of the most popular browsers.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3 new tools to Windows tools and possibility users to add their own tools
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Windows Tools](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/introducing-revo-5/3-new-windows-tools.png)
 
  In Revo Uninstaller Pro 5 we’ve added 3 new additional Windows tools for easy usage:
@@ -69,17 +77,18 @@ thumbnail: https://thmb.techidaily.com/92290ca438acc7b53d6d463fb220788f23c7aae03
  Additionally, we added the capability to add custom tools to the Windows Tools module so you can access them easily.
 
 <!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Possibility to uninstall programs and apps for standard (non-admin) users
 
 Standard user accounts can now uninstall programs and apps
 
  One of the biggest novelties in the latest release of Revo Uninstaller is the added possibility to uninstall programs and apps for standard (non-admin) users. This addition will enable users with standard accounts in Windows to uninstall apps, without the need for Administrator privileges.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Scanning for leftovers for all Windows accounts when uninstalling programs or apps
 
  Revo Uninstaller Pro allows you to scan and remove leftovers from different user accounts on your Windows computer.
@@ -88,16 +97,23 @@ Standard user accounts can now uninstall programs and apps
 
  With the Improved Autorun Manager, you can see a list of Windows Apps and manage their automatic startup for better System Boot speed.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Improved leftover and scanning speed
 
  Another major improvement we’ve made is to reduce the loading times when loading and scanning for leftovers. The speed is improved by up to 30-50%. This is especially noticeable when uninstalling large programs.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Batch uninstall of Windows Apps and Browser Extensions
 
  Revo Uninstaller Pro 5 allows you to uninstall multiple apps and browser extensions at once.
@@ -110,6 +126,13 @@ Standard user accounts can now uninstall programs and apps
 
  Revo Uninstaller Pro 5 brings a new Dark mode to the user interface. If you prefer to use dark mode with your apps, you can now set Revo Uninstaller to match your preferences by enabling this feature.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Customization options for most program colors
 
  If Dark mode is not your thing, we’ve got you covered. Aside from Dark mode, Revo Uninstaller Pro 5 now lets you customize most of the program colors, so you can make it look the way you like. To make this easier, we’ve added an extended color customization palette.
@@ -118,15 +141,25 @@ Standard user accounts can now uninstall programs and apps
 
  Our improved Quick Uninstall Module includes a better User Interface and visualization of the whole uninstallation process. Now Revo Uninstaller Pro 5 Quick Uninstall lists all Windows Apps and Browser Extensions, so you can get quick access to them and remove the ones you are not using.
 
+<!-- affiliate ads begin -->
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Summary
 
  If you want to try out these new features, you can get Revo Uninstaller Pro 5[here](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1) . If you already have an active subscription all you need to do is update to the latest version.
 
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ## We can help you every time when…
 
 * you cannot find the program in the Apps & Features list
@@ -142,8 +175,6 @@ Standard user accounts can now uninstall programs and apps
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -151,4 +182,18 @@ Standard user accounts can now uninstall programs and apps
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-retroactive-video-mastery-for-android-users-for-2024/"><u>[New] Retroactive Video Mastery for Android Users for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-exploring-snapseed-a-simple-guide-for-new-users/"><u>[Updated] 2024 Approved Exploring Snapseed A Simple Guide for New Users</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-cutting-edge-look-ups-top-15-luts-for-gopro-action-footage/"><u>[Updated] Cutting-Edge Look-Ups Top 15 LUTs for GoPro Action Footage</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-messengervideo-snapper-directaccess/"><u>2024 Approved MessengerVideo Snapper – DirectAccess</u></a></li>
+<li><a href="https://blog-min.techidaily.com/copiez-des-fichiers-de-dvd-vers-votre-disque-dur-sous-windows-11-10-et-7/"><u>Copiez Des Fichiers De DVD Vers Votre Disque Dur Sous Windows 11, 10 Et 7</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-giants-of-social-platforms-facebook-to-youtube-explained/"><u>Navigating the Giants of Social Platforms: Facebook to YouTube Explained</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-major-platforms-of-social-networking-facebook-twitter-instagram-and-youtube/"><u>Navigating the Major Platforms of Social Networking: Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/optimize-hard-drive-on-windows-11-with-easy-steps-to-reclaim-space/"><u>Optimize Hard Drive on Windows 11 with Easy Steps to Reclaim Space</u></a></li>
+<li><a href="https://win-forum.techidaily.com/optimizing-windows-11-drives-by-removing-unnecessary-files/"><u>Optimizing Windows 11 Drives by Removing Unnecessary Files</u></a></li>
+<li><a href="https://win-forum.techidaily.com/quick-setup-for-revoappmanager-activation-via-revouninstaller-detailed-steps/"><u>Quick Setup for RevoAppManager Activation via RevoUninstaller - Detailed Steps</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210877203-9781609256623-the-yod-book/"><u>The Yod Book | Free Book</u></a></li>
+</ul></div>
 

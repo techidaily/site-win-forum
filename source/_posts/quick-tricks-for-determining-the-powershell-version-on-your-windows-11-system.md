@@ -1,7 +1,7 @@
 ---
 title: Quick Tricks for Determining the PowerShell Version on Your Windows 11 System
-date: 2024-08-18T10:31:22.368Z
-updated: 2024-08-19T10:31:22.368Z
+date: 2024-11-03T16:21:52.847Z
+updated: 2024-11-04T23:23:38.432Z
 tags:
   - win11
   - win10
@@ -41,11 +41,15 @@ Here are the methods you can use to speed up your Windows 11 boot time:
 
 1. Press**Windows + I** to open Windows**Settings** .
 2. Click the**Apps** tab from the sidebar and tap on**Startup** in the right-hand pane to view all your startup apps.  
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![startup tab](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/speed-up-windows-11-boot-time/disable-startup-programs-in-windows-11-step-2.jpg)
 3. Finally, toggle the switch next to the apps you don’t want to run at startup. Under the toggle switch, you’ll see the status impact of each, which indicates what disabling them does to your system.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## II. Remove unnecessary files and programs
 
@@ -62,9 +66,6 @@ Here is how you can turn Fast Starup On:
 1. Press**Win + R** to open**Run** .
 2. Type`control` and click**OK** to open the Control Panel.
 3. Go to**System and Security** and then click on**Power Options** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![startup options](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/speed-up-windows-11-boot-time/enable-fast-startup-step-2.png)
 4. In the left pane, click on**Choose what the power buttons do** .
 5. Next, click the**Change settings that are currently unavailable** link.
@@ -74,14 +75,12 @@ Here is how you can turn Fast Starup On:
 8. Click**Save changes** to apply the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## IV. Defragment your hard drive
 
  If you are experiencing slow boot times on your Windows 11 computer, one possible cause could be a fragmented hard drive.
@@ -95,18 +94,6 @@ Here is how you can turn Fast Starup On:
 4. Click on the Optimize button.
 5. Wait for the defragmentation process to complete.
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## V. Use an SSD
 
  If you have a modern PC running Windows 11, chances are that it uses an SSD (Solid State Drive), which is faster than a traditional hard disk drive. However, if you’re experiencing slow boot times, upgrading to a new SSD can help improve your boot time.
@@ -125,14 +112,28 @@ Here is how you can turn Fast Starup On:
 
  In conclusion, these are some tips on how to speed up your Windows 11 boot time. By following these steps, you can optimize your computer’s performance and reduce the time it takes to start up.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## We can help you every time when…
 
 * you cannot find the program in the Apps & Features list
@@ -148,8 +149,6 @@ Here is how you can turn Fast Starup On:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -157,4 +156,18 @@ Here is how you can turn Fast Starup On:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/updated-expanding-storytelling-with-alternative-cinematography/"><u>[Updated] Expanding Storytelling with Alternative Cinematography</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-secrets-from-the-pros-high-quality-roblox-recordings-mac-edition/"><u>[Updated] In 2024, Secrets From the Pros High-Quality Roblox Recordings (Mac Edition)</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/correcting-windows-10-screen-rotation/"><u>Correcting Windows 10 Screen Rotation</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/fresh-dell-v305-printer-driver-installation-tutorial-for-windows-7-users/"><u>Fresh Dell V305 Printer Driver Installation Tutorial for Windows 7 Users</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-leveraging-libraries-improving-efficiency-in-your-javascript-projects/"><u>In 2024, Leveraging Libraries Improving Efficiency in Your JavaScript Projects</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-instructions-to-uninstall-windows-1nflections-and-update-rollbacks/"><u>Step-by-Step Instructions to Uninstall Windows 1Nflections & Update Rollbacks</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-big-four-of-social-networks-strategies-for-success-on-facebook-twitter-instagram-and-youtube/"><u>The Big Four of Social Networks: Strategies for Success on Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-big-four-navigating-the-world-of-facebook-twitter-instagram-and-youtube/"><u>The Big Four: Navigating the World of Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-essentials-of-the-windows-registry-explained-expert-advice-from-revouninstaller/"><u>The Essentials of the Windows Registry Explained - Expert Advice From RevoUninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-powerhouse-quartet-of-social-media-understanding-facebook-twitter-instagram-and-youtube-dynamics/"><u>The Powerhouse Quartet of Social Media: Understanding Facebook, Twitter, Instagram & YouTube Dynamics</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-the-secrets-how-to-find-your-pcs-identity/"><u>Unlocking the Secrets: How to Find Your PC's Identity</u></a></li>
+</ul></div>
 

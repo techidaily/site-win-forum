@@ -1,7 +1,7 @@
 ---
 title: "Quick Guide: Steps to Forcibly Close Unresponsive Programs in Windows 11"
-date: 2024-08-18T10:29:30.520Z
-updated: 2024-08-19T10:29:30.520Z
+date: 2024-10-31T16:01:41.573Z
+updated: 2024-11-04T18:02:03.118Z
 tags:
   - win11
   - win10
@@ -35,19 +35,19 @@ Here are the methods you can use to speed up your Windows 11 boot time:
 5. [Use an SSD](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1)
 6. [Adjust BIOS settings](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## I. Disable startup programs in Windows 11
 
  Windows 11 comes with several programs that start automatically with the operating system. While some of these programs may be useful, others can slow down your computer’s startup and take up valuable resources. Disabling unnecessary startup programs can help speed up your Windows 11 boot time. This is how you can disable them:
 
 1. Press**Windows + I** to open Windows**Settings** .
 2. Click the**Apps** tab from the sidebar and tap on**Startup** in the right-hand pane to view all your startup apps.  
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ![startup tab](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/speed-up-windows-11-boot-time/disable-startup-programs-in-windows-11-step-2.jpg)
 3. Finally, toggle the switch next to the apps you don’t want to run at startup. Under the toggle switch, you’ll see the status impact of each, which indicates what disabling them does to your system.
 
@@ -66,18 +66,11 @@ Here is how you can turn Fast Starup On:
 1. Press**Win + R** to open**Run** .
 2. Type`control` and click**OK** to open the Control Panel.
 3. Go to**System and Security** and then click on**Power Options** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![startup options](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/speed-up-windows-11-boot-time/enable-fast-startup-step-2.png)
 4. In the left pane, click on**Choose what the power buttons do** .
 5. Next, click the**Change settings that are currently unavailable** link.
 6. Under the**Shutdown settings** section, check the**Turn on fast startup (recommended)** option to turn on the feature.
 7. Uncheck the**Turn on fast startup option** to turn it off.  
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ![fast startup](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/speed-up-windows-11-boot-time/enable-fast-startup-step-5.jpg)
 8. Click**Save changes** to apply the changes.
 
@@ -92,11 +85,23 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 3. Select the hard drive you want to defragment.  
 ![defragment hard drive](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/speed-up-windows-11-boot-time/defragment-your-hard-drive-step-3.png)
 4. Click on the Optimize button.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Wait for the defragmentation process to complete.
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## V. Use an SSD
 
  If you have a modern PC running Windows 11, chances are that it uses an SSD (Solid State Drive), which is faster than a traditional hard disk drive. However, if you’re experiencing slow boot times, upgrading to a new SSD can help improve your boot time.
@@ -115,16 +120,15 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
  In conclusion, these are some tips on how to speed up your Windows 11 boot time. By following these steps, you can optimize your computer’s performance and reduce the time it takes to start up.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## We can help you every time when…
 
 * you cannot find the program in the Apps & Features list
@@ -140,8 +144,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -149,4 +151,24 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-clips.techidaily.com/new-a-complete-guide-to-registering-with-youtube/"><u>[New] A Complete Guide to Registering with YouTube</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mastering-audio-capture-on-windows-11-top-5-proven-strategies/"><u>[Updated] Mastering Audio Capture on Windows 11 Top 5 Proven Strategies</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-learn-to-negate-video-ordering-in-android/"><u>2024 Approved Learn To Negate Video Ordering in Android</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-oppo-find-x7-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Oppo Find X7 | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/faster-boot-times-on-windows-11-expert-tips-and-tricks-with-revo-uninstaller/"><u>Faster Boot Times on Windows 11: Expert Tips & Tricks with Revo Uninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-enhance-boot-performance-for-your-windows-11-computer/"><u>How to Enhance Boot Performance for Your Windows 11 Computer</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-safely-remove-a-user-from-windows-10-leveraging-revo-uninstaller/"><u>How To Safely Remove a User From Windows 10: Leveraging Revo Uninstaller</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oppo-a2-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Oppo A2 to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/identifying-powershell-versions-in-windows-1n-effective-techniques-and-tools/"><u>Identifying PowerShell Versions in Windows 1N: Effective Techniques and Tools</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-optimized-vimeo-video-exporting-apps/"><u>In 2024, Optimized Vimeo Video Exporting Apps</u></a></li>
+<li><a href="https://win-forum.techidaily.com/installing-windows-11-with-a-disallowed-cpu-step-by-step-guide/"><u>Installing Windows 11 with a Disallowed CPU: Step-by-Step Guide</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/live-stream-to-instagram-from-obs/"><u>Live Stream to Instagram From OBS</u></a></li>
+<li><a href="https://win-forum.techidaily.com/master-the-art-of-disk-cleanup-and-defragmentation-on-windows-10-via-revo-uninstaller/"><u>Master the Art of Disk Cleanup & Defragmentation on Windows 10 via Revo Uninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-the-digital-age-a-guide-to-facebook-twitter-instagram-and-youtube-usage/"><u>Mastering the Digital Age: A Guide to Facebook, Twitter, Instagram & YouTube Usage</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-the-social-media-titans-facebook-twitter-instagram-and-youtube-tactics-revealed/"><u>Mastering the Social Media Titans: Facebook, Twitter, Instagram & YouTube Tactics Revealed</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/resolving-power-supply-issues-to-gpu/"><u>Resolving Power Supply Issues to GPU</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/warum-die-datenwiederherstellung-fehlschlug-verstandnis-der-check-disk-fehler/"><u>Warum Die Datenwiederherstellung Fehlschlug: Verständnis Der Check-Disk-Fehler</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Experience the World of Online Connectivity: Dive Into Facebook, Twitter, Instagram, and YouTube"
-date: 2024-08-18T10:26:17.647Z
-updated: 2024-08-19T10:26:17.647Z
+date: 2024-11-03T22:44:24.952Z
+updated: 2024-11-04T17:31:03.242Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/389119a9b1ef7454e728ac8598e8590bfc343297a
 
 ## Connecting the World: The Impact of Facebook, Twitter, Instagram and YouTube on Social Media
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## [How to check Windows 10 PowerShell version](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1)
 
 * Share
@@ -29,9 +26,6 @@ thumbnail: https://thmb.techidaily.com/389119a9b1ef7454e728ac8598e8590bfc343297a
 
  PowerShell is an amazing tool created by Microsoft so you can automate tasks. By knowing which PowerShell version you have access to, you will know what features you can use. There are more than 200 commands that can be used within PowerShell and it is a super flexible framework that will save you a bunch of time.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Can you use PowerShell only on your Windows computer?
 
  Since 2016 PowerShell was announced as open-source and cross-platform. You can use it on macOS and Linux too. Although it is native to Windows OS, and Microsoft only supports security updates and bug fixes, PowerShell Core is being worked on to clear these issues with other OS.
@@ -47,15 +41,6 @@ thumbnail: https://thmb.techidaily.com/389119a9b1ef7454e728ac8598e8590bfc343297a
 
  We are saying all this, so you can know that not all PowerShell versions are the same. A lot of people need assistance when they try to figure out what PowerShell version they are running. Therefore we created this small guide with all the ways you can check.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ## How to check what PowerShell version I have installed?
 
  First, you need to open PowerShell. Simply open the Windows Start Menu and type in the search bar PowerShell, and click on the app.
@@ -64,23 +49,38 @@ thumbnail: https://thmb.techidaily.com/389119a9b1ef7454e728ac8598e8590bfc343297a
 
  You will see a window, where you enter the following command**$PSVersionTable.PSVersion** , and hit Enter. In the screenshot below you can see an example where you can find the version.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![PSVersion command](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/check-win10-powershell-version/powershell-version-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Another method that you can use to check what PowerShell version you are running is to use the command “Get-Host”
 
 ![Get Host command](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/check-win10-powershell-version/powershell-version-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The last method we will show you is by using the command “$host.version”. You will see the PowerShell version in a slightly different format. You will be able to see the Major and Minor release and the build number and revision.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How can I upgrade to a newer version of PowerShell?
 
  You can run both Windows PowerShell and PowerShell 7.2 on the same computer. You do not have to worry about the lack of feature parity by upgrading. Simply keep the current Windows PowerShell installed and also download PowerShell. You can do that by going to its[GitHub release page](https://github.com/PowerShell/PowerShell/releases) . You will see a list of assets, where you can simply choose the OS you want to download for.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -89,8 +89,12 @@ thumbnail: https://thmb.techidaily.com/389119a9b1ef7454e728ac8598e8590bfc343297a
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## We can help you every time when…
 
 * you cannot find the program in the Apps & Features list
@@ -106,8 +110,6 @@ thumbnail: https://thmb.techidaily.com/389119a9b1ef7454e728ac8598e8590bfc343297a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -115,4 +117,20 @@ thumbnail: https://thmb.techidaily.com/389119a9b1ef7454e728ac8598e8590bfc343297a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-capture-spectacular-video-on-youtube-top-webcam-picks-for-2024/"><u>[New] Capture Spectacular Video on YouTube Top Webcam Picks for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-enhancing-engagement-top-20-best-practices-for-video-ads-on-facebook-for-2024/"><u>[New] Enhancing Engagement Top 20 Best Practices for Video Ads on Facebook for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-navigating-the-financial-frontier-of-youtube-creators/"><u>[New] Navigating the Financial Frontier of YouTube Creators</u></a></li>
+<li><a href="https://win-forum.techidaily.com/a-comprehvew-into-popular-social-channels-facebook-twitter-instagram-you-tube/"><u>A Comprehvew Into Popular Social Channels: Facebook, Twitter, Instagram, You Tube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/1722915383510-exploring-the-giants-of-social-networking-from-tweets-to-likes/"><u>Exploring the Giants of Social Networking: From Tweets to Likes!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/keeping-your-asus-portable-computer-running-smoothly-with-latest-driver-downloads/"><u>Keeping Your ASUS Portable Computer Running Smoothly with Latest Driver Downloads</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-infinix-gt-10-pro-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Infinix GT 10 Pro</u></a></li>
+<li><a href="https://win-forum.techidaily.com/1722915213920-social-media-giants-facebook-tweeter-gram-a-gram-youtubo-showdown/"><u>Social Media Giants FaceBook, Tweeter, Gram-a-Gram, YouTubo Showdown!</u></a></li>
+<li><a href="https://win-forum.techidaily.com/1722915342597-top-social-networking-sites-exploring-facebook-twitter-instagram-and-youtube/"><u>Top Social Networking Sites: Exploring Facebook, Twitter, Instagram and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/ultimate-guide-solving-persistent-issues-with-windows-explorer-crashes/"><u>Ultimate Guide: Solving Persistent Issues with Windows Explorer Crashes</u></a></li>
+<li><a href="https://win-forum.techidaily.com/unlocking-your-computers-potential-a-comprehensive-guide-to-tweaking-bios-in-windows-11/"><u>Unlocking Your Computer’s Potential: A Comprehensive Guide to Tweaking BIOS in Windows 11</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-synthesis-and-shaping-sounds-the-essential-list-of-digital-audio-effects-to-explore/"><u>Updated 2024 Approved Synthesis and Shaping Sounds The Essential List of Digital Audio Effects to Explore</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-the-best-free-mpeg-video-splitters-a-comprehensive-guide/"><u>Updated 2024 Approved The Best Free MPEG Video Splitters A Comprehensive Guide</u></a></li>
+</ul></div>
 

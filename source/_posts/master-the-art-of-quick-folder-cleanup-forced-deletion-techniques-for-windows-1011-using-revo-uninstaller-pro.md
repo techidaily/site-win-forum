@@ -1,7 +1,7 @@
 ---
 title: "Master the Art of Quick Folder Cleanup: Forced Deletion Techniques for Windows 10/11 Using Revo Uninstaller Pro"
-date: 2024-08-18T10:28:16.827Z
-updated: 2024-08-19T10:28:16.827Z
+date: 2024-10-28T17:23:31.730Z
+updated: 2024-11-04T22:06:59.859Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/988b0aa2e48e125d13283fa19f222d53a696ba967
 
 ## Find Out the Version of PowerShell in Windows 10 with Simple Tricks
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## [How to check Windows 10 PowerShell version](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1)
 
 * Share
@@ -44,31 +41,43 @@ thumbnail: https://thmb.techidaily.com/988b0aa2e48e125d13283fa19f222d53a696ba967
 
  We are saying all this, so you can know that not all PowerShell versions are the same. A lot of people need assistance when they try to figure out what PowerShell version they are running. Therefore we created this small guide with all the ways you can check.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to check what PowerShell version I have installed?
 
  First, you need to open PowerShell. Simply open the Windows Start Menu and type in the search bar PowerShell, and click on the app.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![start menu PowerShell](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/check-win10-powershell-version/start-menu-powershell.png)
 
  You will see a window, where you enter the following command**$PSVersionTable.PSVersion** , and hit Enter. In the screenshot below you can see an example where you can find the version.
 
 ![PSVersion command](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/check-win10-powershell-version/powershell-version-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Another method that you can use to check what PowerShell version you are running is to use the command “Get-Host”
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ![Get Host command](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/check-win10-powershell-version/powershell-version-2.png)
 
  The last method we will show you is by using the command “$host.version”. You will see the PowerShell version in a slightly different format. You will be able to see the Major and Minor release and the build number and revision.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How can I upgrade to a newer version of PowerShell?
 
  You can run both Windows PowerShell and PowerShell 7.2 on the same computer. You do not have to worry about the lack of feature parity by upgrading. Simply keep the current Windows PowerShell installed and also download PowerShell. You can do that by going to its[GitHub release page](https://github.com/PowerShell/PowerShell/releases) . You will see a list of assets, where you can simply choose the OS you want to download for.
@@ -77,20 +86,15 @@ thumbnail: https://thmb.techidaily.com/988b0aa2e48e125d13283fa19f222d53a696ba967
 
  Overall PowerShell can help you with automating some of the tasks that you are doing on regular basis on your PC. By knowing which version you are running and how to upgrade it you will be able to utilize it without any issues.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## We can help you every time when…
 
 * you cannot find the program in the Apps & Features list
@@ -106,8 +110,6 @@ thumbnail: https://thmb.techidaily.com/988b0aa2e48e125d13283fa19f222d53a696ba967
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -115,4 +117,24 @@ thumbnail: https://thmb.techidaily.com/988b0aa2e48e125d13283fa19f222d53a696ba967
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-depth-look-at-voice-memo-features-on-your-ios-device-for-2024/"><u>[Updated] In-Depth Look at Voice Memo Features on Your iOS Device for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/a-complete-tutorial-on-verifying-powershell-versions-specifically-for-windows-10-users/"><u>A Complete Tutorial on Verifying PowerShell Versions Specifically for Windows 10 Users</u></a></li>
+<li><a href="https://win-forum.techidaily.com/a-comprehvew-into-popular-digital-platforms-facebook-twitter-instagram-and-youtube/"><u>A Comprehvew Into Popular Digital Platforms: Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/a-guide-to-understanding-popular-networks-facebook-twitter-instagram-versus-youtube/"><u>A Guide to Understanding Popular Networks: Facebook, Twitter, Instagram versus YouTube</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/asrock-unveils-new-feature-enabling-overclocking-on-secured-comet-lake-s-processors-with-non-z-moms/"><u>ASRock Unveils New Feature: Enabling Overclocking on Secured Comet Lake-S Processors with Non-Z Moms</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/best-11-affordable-2d-animation-programs-available-in-sweden-free-trials-included/"><u>Best 11 Affordable 2D Animation Programs Available in Sweden - Free Trials Included!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/identifying-inauthentic-connections-a-guide-to-detecting-bogus-friend-requests/"><u>Identifying Inauthentic Connections: A Guide to Detecting Bogus Friend Requests</u></a></li>
+<li><a href="https://win-able.techidaily.com/improved-gameplay-cyberpunk-2nk77-overcomes-previous-fps-lag-problems/"><u>Improved Gameplay: Cyberpunk 2Nk77 Overcomes Previous FPS Lag Problems</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-ultimate-guide-twitter-video-enhancers/"><u>In 2024, Ultimate Guide Twitter Video Enhancers</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-tecno-spark-go-2023-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Tecno Spark Go (2023)? Fixed | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/navigating-through-luts-for-improved-photography-techniques/"><u>Navigating Through LUTs for Improved Photography Techniques</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-essential-guide-to-navigating-the-windows-registry-with-helpful-revouninstaller-strategies/"><u>The Essential Guide to Navigating the Windows Registry with Helpful RevoUninstaller Strategies</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-ultimate-guide-to-mastering-major-social-sites-facebook-twitter-instagram-you-tube/"><u>The Ultimate Guide to Mastering Major Social Sites: Facebook, Twitter, Instagram, You Tube</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-gaming-processor-pick-optimal-cpus-reviewed/"><u>Top Gaming Processor Pick: Optimal CPUs Reviewed</u></a></li>
+<li><a href="https://win-forum.techidaily.com/ultimate-guide-ensuring-administrator-access-every-time-for-windows-11-apps-with-ease/"><u>Ultimate Guide: Ensuring Administrator Access Every Time for Windows 11 Apps with Ease</u></a></li>
+<li><a href="https://win-forum.techidaily.com/unlocking-remote-power-on-a-how-to-guide-to-configuring-wake-nwlan-with-windows-11/"><u>Unlocking Remote Power On: A How-To Guide to Configuring Wake-nWLan with Windows 11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/unlocking-success-on-major-social-platforms-mastering-facebook-twitter-instagram-and-youtube/"><u>Unlocking Success on Major Social Platforms: Mastering Facebook, Twitter, Instagram & YouTube</u></a></li>
+</ul></div>
 

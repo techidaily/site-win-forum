@@ -1,7 +1,7 @@
 ---
 title: "Keep Your Computer Safe: A Quick Look at Locking Down Windows Systems"
-date: 2024-08-18T10:29:15.775Z
-updated: 2024-08-19T10:29:15.775Z
+date: 2024-10-30T19:11:08.280Z
+updated: 2024-11-04T21:33:24.062Z
 tags:
   - win11
   - win10
@@ -44,15 +44,19 @@ Here are the methods you can use to speed up your Windows 11 boot time:
 ![startup tab](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/speed-up-windows-11-boot-time/disable-startup-programs-in-windows-11-step-2.jpg)
 3. Finally, toggle the switch next to the apps you don’t want to run at startup. Under the toggle switch, you’ll see the status impact of each, which indicates what disabling them does to your system.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## II. Remove unnecessary files and programs
 
  Over time, your computer may become cluttered with unnecessary files and programs that can slow down your computer’s startup time. By removing these files and programs, you can speed up your Windows 11 boot time and improve your overall computer performance.
 
  We’ve covered in this[article](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1) how you can remove unnecessary files and programs with Revo Uninstaller and many other methods.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ## III. Enable Fast Startup
 
  Windows 11 comes with a variety of features that can help speed up your computer’s boot time. One such feature is Fast Startup, which allows your computer to start up faster by using a hybrid sleep mode that saves system information to a file on the hard drive.
@@ -62,18 +66,19 @@ Here is how you can turn Fast Starup On:
 1. Press**Win + R** to open**Run** .
 2. Type`control` and click**OK** to open the Control Panel.
 3. Go to**System and Security** and then click on**Power Options** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![startup options](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/speed-up-windows-11-boot-time/enable-fast-startup-step-2.png)
 4. In the left pane, click on**Choose what the power buttons do** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Next, click the**Change settings that are currently unavailable** link.
 6. Under the**Shutdown settings** section, check the**Turn on fast startup (recommended)** option to turn on the feature.
 7. Uncheck the**Turn on fast startup option** to turn it off.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![fast startup](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/speed-up-windows-11-boot-time/enable-fast-startup-step-5.jpg)
 8. Click**Save changes** to apply the changes.
 
@@ -91,8 +96,12 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 5. Wait for the defragmentation process to complete.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## V. Use an SSD
 
  If you have a modern PC running Windows 11, chances are that it uses an SSD (Solid State Drive), which is faster than a traditional hard disk drive. However, if you’re experiencing slow boot times, upgrading to a new SSD can help improve your boot time.
@@ -111,14 +120,15 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  In conclusion, these are some tips on how to speed up your Windows 11 boot time. By following these steps, you can optimize your computer’s performance and reduce the time it takes to start up.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## We can help you every time when…
 
 * you cannot find the program in the Apps & Features list
@@ -134,8 +144,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -143,4 +151,17 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/ed-scoring-big-on-youtube-how-much-do-ad-revenues-add-up-in-2024/"><u>[Updated] Scoring Big on YouTube How Much Do Ad Revenues Add Up, In 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1726026535627-pcdvd/"><u>「PCで無料でDVDの内容をインポートする手順」</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-itel-a05s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Itel A05s | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/chrome-optimized-how-to-stop-overloading-your-cpu/"><u>Chrome Optimized: How to Stop Overloading Your CPU</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/lenovos-thunderbolt-3-port-accessory-updates-and-compatibility-guide/"><u>Lenovo's Thunderbolt 3 Port Accessory Updates and Compatibility Guide</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-instructions-for-handling-windows-registry-through-create-delete-and-adjust-operations-with-revouninstaller/"><u>Step-by-Step Instructions for Handling Windows Registry Through Create, Delete and Adjust Operations with RevoUninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/tackling-complete-disk-congestion-in-windows-10-essential-techniques-and-solutions/"><u>Tackling Complete Disk Congestion in Windows 10: Essential Techniques and Solutions</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-big-four-in-social-media-a-look-at-facebook-twitter-instagram-and-youtube/"><u>The Big Four in Social Media: A Look at Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-quintessential-social-networking-sites-navigating-through-facebook-twitter-instagram-and-youtube/"><u>The Quintessential Social Networking Sites: Navigating Through Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-transition-like-a-pro-10-best-premiere-pro-plugins-for-smooth-edits-for-2024/"><u>Updated Transition Like a Pro 10 Best Premiere Pro Plugins for Smooth Edits for 2024</u></a></li>
+</ul></div>
 

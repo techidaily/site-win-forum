@@ -1,7 +1,7 @@
 ---
 title: Maximize Drive Capacity in Windows 11 - Expert Tips for Freeing Up Space
-date: 2024-08-18T10:32:18.142Z
-updated: 2024-08-19T10:32:18.142Z
+date: 2024-11-03T20:28:13.314Z
+updated: 2024-11-04T23:37:33.976Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/e4e90e7c9acadc523d8e4202425b18a9d8056d3f1
 
 ## DNS Flush Tutorial for Windows 10/11 Users - Reset Internet Settings
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## [How to flush DNS on Windows 10 and Windows 11](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1)
 
 * Share
@@ -33,24 +30,39 @@ thumbnail: https://thmb.techidaily.com/e4e90e7c9acadc523d8e4202425b18a9d8056d3f1
 
  DNS stands for Domain Network System. The main role of the DNS is to translate familiar domain names like revouninstaller.com into IP addresses computers use to connect with each other. For example, if you want to connect to google.com, your computer queries a DNS server on the internet to get the corresponding IP address connected to the google.com domain. Windows 10 and Windows 11 store a copy of the information it gets from the DNS server on your PC, so the process can be faster.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## When will you have to flush your DNS cache
 
  Most of the systems connected to the internet automatically update the cache and hostnames, you can have problems when the IP address of a webpage changes before the update. If that is the case you can have connectivity issues, with the page failing to load in your browser. When you flush your DNS all the stored information on your PC is removed. This forces your computer to retrieve new data that will solve your connectivity issues.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## So how can you flush your DNS on your Windows 10 or Windows 11 PC?
 
 1. ### Using Command Prompt  
 
    1. Open the Start Menu and in the search bar type`cmd` and select**Run as Administrator** .  
    2. Copy and paste the following command:`ipconfig /flushdns` and press**Enter** .  
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
    ![cmd window](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/flush-dns-windows/method-1-command-prompt.png)  
  Your Windows 10 or Windows 11 DNS cache should be flushed. You will get a message saying the operation is successful.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 2. ### Using Windows PowerShell  
 
@@ -58,16 +70,17 @@ thumbnail: https://thmb.techidaily.com/e4e90e7c9acadc523d8e4202425b18a9d8056d3f1
 
    1. Open the Start Menu. In the Search bar type`PowerShell` and click**Run as administrator** .  
    2. Copy and paste the following command:`ipconfig /flushdns` and press**Enter** . This will clear the DNS cache on your computer.  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
    ![powershell window](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/flush-dns-windows/method-2-powershell.png)
    3. ### Using a Run Command  
 
-   1. Press**Win Key + R** and type the following command:`ipconfig /flushdns` and hit**Enter** .  
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+   1. Press**Win Key + R** and type the following command:`ipconfig /flushdns` and hit**Enter** .  
    ![run window](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/flush-dns-windows/method-3-run.png)  
    2. Your DNS cache should be erased from your Windows 10 or Windows 11 computer.
 
@@ -79,9 +92,6 @@ thumbnail: https://thmb.techidaily.com/e4e90e7c9acadc523d8e4202425b18a9d8056d3f1
 
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ## We can help you every time when…
 
 * you cannot find the program in the Apps & Features list
@@ -97,8 +107,6 @@ thumbnail: https://thmb.techidaily.com/e4e90e7c9acadc523d8e4202425b18a9d8056d3f1
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -106,4 +114,20 @@ thumbnail: https://thmb.techidaily.com/e4e90e7c9acadc523d8e4202425b18a9d8056d3f1
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-reclaim-your-social-space-after-a-hack/"><u>[Updated] 2024 Approved Reclaim Your Social Space After a Hack</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expanding-horizons-with-vr-filmmaking/"><u>[Updated] Expanding Horizons with VR Filmmaking</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-surging-up-the-search-results-with-effective-podcast-seo/"><u>[Updated] Surging Up the Search Results with Effective Podcast SEO</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-naming-success-strategies-for-engaging-titles/"><u>2024 Approved Naming Success Strategies for Engaging Titles</u></a></li>
+<li><a href="https://win-forum.techidaily.com/connect-share-engage-on-leading-websites-facebook-twitter-instagram-and-youtube/"><u>Connect, Share, Engage on Leading Websites: Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-on-realme-c51-by-drfone-android/"><u>How to Bypass FRP on Realme C51?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-honor-play-40c-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Honor Play 40C PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-digital-world-a-guide-to-facebook-twitter-instagram-and-youtube/"><u>Navigating the Digital World: A Guide to Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/revouninstaller-your-tool-for-disentangling-windows-11-installations-and-patches/"><u>RevoUninstaller: Your Tool for Disentangling Windows 11 Installations & Patches</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/secure-your-windows-server-on-onedrive-with-these-3-effective-methods/"><u>Secure Your Windows Server on OneDrive with These 3 Effective Methods</u></a></li>
+<li><a href="https://games-able.techidaily.com/superior-handheld-games-using-gamepads/"><u>Superior Handheld Games Using Gamepads</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-quintessential-quartet-of-online-connections-facebook-twitter-instagram-and-youtube/"><u>The Quintessential Quartet of Online Connections: Facebook, Twitter, Instagram & Youtube</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/unveiling-tiktoks-visual-makeover-techniques-for-2024/"><u>Unveiling TikTok's Visual Makeover Techniques for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Expert Advice: How to Get Rid of Crash Dump Files on Your Windows 10 Machine"
-date: 2024-08-18T10:30:06.915Z
-updated: 2024-08-19T10:30:06.915Z
+date: 2024-11-01T20:32:36.354Z
+updated: 2024-11-04T21:15:13.836Z
 tags:
   - win11
   - win10
@@ -15,18 +15,6 @@ thumbnail: https://thmb.techidaily.com/dbe86f0410f8e9bad5bf3228390b329f698cfe445
 
 ## DNS Flush Tutorial for Windows 10/11 Users - Reset Internet Settings
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## [How to flush DNS on Windows 10 and Windows 11](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1)
 
 * Share
@@ -39,16 +27,16 @@ thumbnail: https://thmb.techidaily.com/dbe86f0410f8e9bad5bf3228390b329f698cfe445
  In some cases when you have trouble connecting to the internet the reason behind it can be your PC’s DNS cache. If you have already tried to[clear your browser cache and cookies](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1) , you will have to flush your Windows 10 or Windows 11 DNS. In this article, we will discover how to flush DNS on your Windows PC.
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## First let’s discover what the Windows DNS cache does
 
  DNS stands for Domain Network System. The main role of the DNS is to translate familiar domain names like revouninstaller.com into IP addresses computers use to connect with each other. For example, if you want to connect to google.com, your computer queries a DNS server on the internet to get the corresponding IP address connected to the google.com domain. Windows 10 and Windows 11 store a copy of the information it gets from the DNS server on your PC, so the process can be faster.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ## When will you have to flush your DNS cache
 
  Most of the systems connected to the internet automatically update the cache and hostnames, you can have problems when the IP address of a webpage changes before the update. If that is the case you can have connectivity issues, with the page failing to load in your browser. When you flush your DNS all the stored information on your PC is removed. This forces your computer to retrieve new data that will solve your connectivity issues.
@@ -59,11 +47,15 @@ thumbnail: https://thmb.techidaily.com/dbe86f0410f8e9bad5bf3228390b329f698cfe445
 
    1. Open the Start Menu and in the search bar type`cmd` and select**Run as Administrator** .  
    2. Copy and paste the following command:`ipconfig /flushdns` and press**Enter** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
    ![cmd window](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/flush-dns-windows/method-1-command-prompt.png)  
  Your Windows 10 or Windows 11 DNS cache should be flushed. You will get a message saying the operation is successful.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 2. ### Using Windows PowerShell  
 
@@ -74,10 +66,14 @@ thumbnail: https://thmb.techidaily.com/dbe86f0410f8e9bad5bf3228390b329f698cfe445
    ![powershell window](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/flush-dns-windows/method-2-powershell.png)
    3. ### Using a Run Command  
 
-   1. Press**Win Key + R** and type the following command:`ipconfig /flushdns` and hit**Enter** .  
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+   1. Press**Win Key + R** and type the following command:`ipconfig /flushdns` and hit**Enter** .  
    ![run window](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/flush-dns-windows/method-3-run.png)  
    2. Your DNS cache should be erased from your Windows 10 or Windows 11 computer.
 
@@ -87,10 +83,14 @@ thumbnail: https://thmb.techidaily.com/dbe86f0410f8e9bad5bf3228390b329f698cfe445
 
  So, go ahead and flush your Windows 11 computer’s cached DNS data to resolve any underlying connectivity issues and improve your privacy.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## We can help you every time when…
 
@@ -107,8 +107,6 @@ thumbnail: https://thmb.techidaily.com/dbe86f0410f8e9bad5bf3228390b329f698cfe445
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -116,4 +114,26 @@ thumbnail: https://thmb.techidaily.com/dbe86f0410f8e9bad5bf3228390b329f698cfe445
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-fresh-perspectives-on-logo-design-for-podcast-brands/"><u>[New] In 2024, Fresh Perspectives on Logo Design for Podcast Brands</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-disable-unsolicited-youtube-video-listings/"><u>[Updated] 2024 Approved Disable Unsolicited YouTube Video Listings</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-explore-the-world-of-drawing-on-your-chromebook-today/"><u>[Updated] Explore the World of Drawing on Your Chromebook Today</u></a></li>
+<li><a href="https://video-capture.techidaily.com/1726030642528-top7/"><u>最新ベストのフリーダウンロードサイト: おすすめのビデオダウンローダーTOP7</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/a-comprehvew-into-aol-instant-messenger-aim-its-origins-and-legacy/"><u>A Comprehvew Into AOL Instant Messenger (AIM): Its Origins and Legacy</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/sing-your-video-streaming-needs-to-subscribe-or-not-to-subscribe/"><u>Assessing Your Video Streaming Needs To Subscribe or Not to Subscribe?</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-innovative-igtv-thumbnail-upgrades-guide/"><u>In 2024, Innovative IGTV Thumbnail Upgrades Guide</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-htc-u23-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For HTC U23 | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/master-the-art-of-forced-deletion-windows-1011-file-management-with-revo-uninstaller-explained/"><u>Master the Art of Forced Deletion: Windows 10/11 File Management with Revo Uninstaller Explained</u></a></li>
+<li><a href="https://common-error.techidaily.com/master-the-art-of-repairing-overwatch-voice-chat-glitches-quickly-and-easily/"><u>Master the Art of Repairing Overwatch Voice Chat Glitches Quickly and Easily</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-oppo-reno-10-proplus-5g-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Oppo Reno 10 Pro+ 5G Device</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-online-presence-with-leading-platforms-facebook-twitter-instagram-and-youtube-strategies/"><u>Mastering Online Presence with Leading Platforms: Facebook, Twitter, Instagram & YouTube Strategies.</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-the-clean-up-effective-strategies-for-profile-deletion-on-a-windows-10-machine/"><u>Mastering the Clean-Up: Effective Strategies for Profile Deletion on a Windows 10 Machine</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-the-major-social-networks-an-in-depth-guide-to-facebook-twitter-instagram-and-youtube/"><u>Mastering the Major Social Networks: An In-Depth Guide to Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-your-pcs-firmware-how-bios-works-alongside-revo-uninstaller/"><u>Mastering Your PC's Firmware: How BIOS Works Alongside Revo Uninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-big-four-of-social-networking-fb-tw-instagram-yt/"><u>Navigating the Big Four of Social Networking: FB, TW, INSTAGRAM, YT</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-big-four-facebook-twitter-instagram-and-youtube-strategies/"><u>Navigating the Big Four: Facebook, Twitter, Instagram & Youtube Strategies</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-major-networks-a-guide-to-facebook-twitter-instagram-and-youtube/"><u>Navigating the Major Networks: A Guide to Facebook, Twitter, Instagram and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-major-players-facebook-twitter-instagram-and-youtube/"><u>Navigating the Major Players: Facebook, Twitter, Instagram, and Youtube</u></a></li>
+</ul></div>
 

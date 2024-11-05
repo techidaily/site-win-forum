@@ -1,7 +1,7 @@
 ---
 title: DNS Flush Tutorial for Windows 10/11 Users - Reset Internet Settings
-date: 2024-08-18T10:28:55.319Z
-updated: 2024-08-19T10:28:55.319Z
+date: 2024-11-03T18:21:54.943Z
+updated: 2024-11-04T18:34:26.511Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/c834e1885a4b3f3f1ee7dd2c9fc2dd5ec6f5c9eae
 
 ## DNS Flush Tutorial for Windows 10/11 Users - Reset Internet Settings
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ## [How to flush DNS on Windows 10 and Windows 11](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1)
 
 * Share
@@ -29,12 +26,16 @@ thumbnail: https://thmb.techidaily.com/c834e1885a4b3f3f1ee7dd2c9fc2dd5ec6f5c9eae
 
  In some cases when you have trouble connecting to the internet the reason behind it can be your PC’s DNS cache. If you have already tried to[clear your browser cache and cookies](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1) , you will have to flush your Windows 10 or Windows 11 DNS. In this article, we will discover how to flush DNS on your Windows PC.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ## First let’s discover what the Windows DNS cache does
 
  DNS stands for Domain Network System. The main role of the DNS is to translate familiar domain names like revouninstaller.com into IP addresses computers use to connect with each other. For example, if you want to connect to google.com, your computer queries a DNS server on the internet to get the corresponding IP address connected to the google.com domain. Windows 10 and Windows 11 store a copy of the information it gets from the DNS server on your PC, so the process can be faster.
+
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will you have to flush your DNS cache
 
@@ -46,9 +47,6 @@ thumbnail: https://thmb.techidaily.com/c834e1885a4b3f3f1ee7dd2c9fc2dd5ec6f5c9eae
 
    1. Open the Start Menu and in the search bar type`cmd` and select**Run as Administrator** .  
    2. Copy and paste the following command:`ipconfig /flushdns` and press**Enter** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
    ![cmd window](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/flush-dns-windows/method-1-command-prompt.png)  
  Your Windows 10 or Windows 11 DNS cache should be flushed. You will get a message saying the operation is successful.
 
@@ -61,10 +59,14 @@ thumbnail: https://thmb.techidaily.com/c834e1885a4b3f3f1ee7dd2c9fc2dd5ec6f5c9eae
    ![powershell window](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/flush-dns-windows/method-2-powershell.png)
    3. ### Using a Run Command  
 
-   1. Press**Win Key + R** and type the following command:`ipconfig /flushdns` and hit**Enter** .  
 <!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+   1. Press**Win Key + R** and type the following command:`ipconfig /flushdns` and hit**Enter** .  
    ![run window](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/flush-dns-windows/method-3-run.png)  
    2. Your DNS cache should be erased from your Windows 10 or Windows 11 computer.
 
@@ -74,15 +76,22 @@ thumbnail: https://thmb.techidaily.com/c834e1885a4b3f3f1ee7dd2c9fc2dd5ec6f5c9eae
 
  So, go ahead and flush your Windows 11 computer’s cached DNS data to resolve any underlying connectivity issues and improve your privacy.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## We can help you every time when…
 
 * you cannot find the program in the Apps & Features list
@@ -98,8 +107,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -107,4 +114,20 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-in-2024-market-mastery-strategys-first-impressions/"><u>[New] In 2024, Market Mastery Strategy's First Impressions</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-outlining-expenditures-the-price-tag-of-video-capturing-tunes-for-2024/"><u>[New] Outlining Expenditures The Price Tag of Video Capturing Tunes for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-the-blueprint-to-instagram-profit-partnerships-beyond-likes-and-shares-for-2024/"><u>[New] The Blueprint to Instagram Profit Partnerships Beyond Likes and Shares for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-experts-choice-best-action-cameras-for-winter-sports/"><u>[Updated] Expert's Choice Best Action Cameras for Winter Sports</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-tips-for-effective-mov-file-saving-on-windows-11-for-2024/"><u>[Updated] Tips for Effective MOV File Saving on Windows 11 for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/a-comprehensive-guide-to-what-bing-really-is-and-how-it-works/"><u>A Comprehensive Guide to What Bing Really Is and How It Works</u></a></li>
+<li><a href="https://win-forum.techidaily.com/connect-and-share-with-giants-facebook-twitter-instagram-and-youtube-insights/"><u>Connect and Share with Giants: Facebook, Twitter, Instagram, and Youtube Insights</u></a></li>
+<li><a href="https://win-forum.techidaily.com/connect-with-millions-an-exploration-of-facebook-twitter-instagram-and-youtubes-influence/"><u>Connect with Millions: An Exploration of Facebook, Twitter, Instagram & YouTube's Influence</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/crafting-serenity-a-spiritual-journey-through-6-intellectually-designed-minecraft-modern-houses/"><u>Crafting Serenity A Spiritual Journey Through 6 Intellectually Designed Minecraft Modern Houses</u></a></li>
+<li><a href="https://win-forum.techidaily.com/discover-the-giants-of-social-engagement-facebook-tweeting-gramming-and-video-sharing/"><u>Discover the Giants of Social Engagement: Facebook, Tweeting, Gramming & Video Sharing</u></a></li>
+<li><a href="https://win-forum.techidaily.com/effective-techniques-for-resetting-dns-settings-in-modern-windows-operating-systems/"><u>Effective Techniques for Resetting DNS Settings in Modern Windows Operating Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-windows-update-issue-fixing-error-code-0x802e401c-on-windows-10-and-11/"><u>Resolving the Windows Update Issue: Fixing Error Code 0X802e401C on Windows 10 & 11</u></a></li>
+<li><a href="https://fox-links.techidaily.com/your-comprehensive-directory-of-vector-arts-online/"><u>Your Comprehensive Directory of Vector Arts Online</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Social Media Strategies Using Leading Networks - Facebook, Twitter, Instagram and YouTube
-date: 2024-08-18T10:25:43.568Z
-updated: 2024-08-19T10:25:43.568Z
+date: 2024-11-03T20:48:45.658Z
+updated: 2024-11-04T19:36:14.968Z
 tags:
   - win11
   - win10
@@ -30,13 +30,25 @@ thumbnail: https://thmb.techidaily.com/3e4359dd584ef6e6b8909874d88727d66b87bd9dc
 
 ## I. To lock your Windows 11 PC through the Start menu, follow these steps
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 1. Click on the**‘Start’** button located at the bottom left corner of the screen or press the**‘Windows’** key on your keyboard to open the Start menu. ![Start menu lock](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/lock-pc/method-1-start-menu.png)
 2. In the Start menu, click on your user profile icon or name located at the top.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. This will open a menu with various options. Click on**‘Lock’** from the list of options.
 4. Alternatively, you can also press the**‘Windows’** key +**‘L’** on your keyboard as a shortcut to lock your PC instantly.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## II. Another way to lock your Windows Computer and protect your data is through the Task Manager. Here are the steps you have to take in order to do that
 
@@ -44,27 +56,30 @@ thumbnail: https://thmb.techidaily.com/3e4359dd584ef6e6b8909874d88727d66b87bd9dc
 2. From the context menu, select**“Task Manager”** . Alternatively, you can press**Ctrl + Shift + Esc** on your keyboard to open Task Manager directly.
 3. Once Task Manager opens, go to the**“File”** menu located in the top left corner of the window.
 4. Select**“App History”**
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 5. From the dropdown menu, select**“Run new task”** . ![Run new task](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/lock-pc/method-2-task-manager-1.png)
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 6. In the**“Create new task”** window, type**“tsdiscon”** (short for “Terminal Services Disconnect”) into the text field. ![Create new task](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/lock-pc/method-2-task-manager-2.png)
 7. Check the box next to**“Create this task with administrative privileges”** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 8. Click**“OK”** .
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## III. How to Lock a Windows 11 computer via the Ctrl + Alt + Delete Menu
 
  Pressing**Ctrl + Alt + Delete** triggers a distinct Windows menu to appear on your screen, offering a range of functionalities. Among these options is the Task Manager, granting you the capability to perform several actions, including switching user accounts, changing passwords, and, most notably for our discussion, locking your PC. Simply selecting**“Lock”** from this menu instantly secures your Windows 11 device.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## IV. Lock your PC via the Command Prompt
 
  Locking your Windows 11 system is also possible through the Command Prompt, which is a text-based user interface accepting keyboard input.
@@ -89,9 +104,6 @@ thumbnail: https://thmb.techidaily.com/3e4359dd584ef6e6b8909874d88727d66b87bd9dc
 
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## We can help you every time when…
 
 * you cannot find the program in the Apps & Features list
@@ -107,8 +119,6 @@ thumbnail: https://thmb.techidaily.com/3e4359dd584ef6e6b8909874d88727d66b87bd9dc
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -116,4 +126,22 @@ thumbnail: https://thmb.techidaily.com/3e4359dd584ef6e6b8909874d88727d66b87bd9dc
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-perfect-snapchat-video-maximizing-mac-capabilities/"><u>[Updated] 2024 Approved Perfect Snapchat Video Maximizing Mac Capabilities</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-step-by-step-guide-to-stunning-instagram-videos/"><u>[Updated] In 2024, Step-by-Step Guide to Stunning Instagram Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-zoomers-guide-to-enhancing-call-quality-with-filters/"><u>2024 Approved The Zoomer's Guide to Enhancing Call Quality with Filters</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/complete-guide-to-installing-printer-drivers-brother-l2absolutely-here-are-five-new-seo-friendly-titles-similar-to-brother-mfc-l2700dw-driver-download-and-i26/"><u>Complete Guide To Installing Printer Drivers - Brother L2absolutely! Here Are Five New SEO-Friendly Titles Similar to Brother MFC-L2700DW Driver Download & Install for Windows:</u></a></li>
+<li><a href="https://win-forum.techidaily.com/comprehensive-tutorial-on-deleting-windows-11-dumps-of-system-memory/"><u>Comprehensive Tutorial on Deleting Windows 11 Dumps of System Memory</u></a></li>
+<li><a href="https://win-forum.techidaily.com/connect-with-billions-mastery-in-using-facebook-twitter-instagram-and-youtube-effectively/"><u>Connect with Billions: Mastery in Using Facebook, Twitter, Instagram, and YouTube Effectively</u></a></li>
+<li><a href="https://win-forum.techidaily.com/determining-your-current-windows-10-powershell-edition-a-step-by-step-guide/"><u>Determining Your Current Windows 10 PowerShell Edition: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-forum.techidaily.com/digital-connectivity-leaders-a-deep-dive-into-facebook-twitter-instagram-youtube/"><u>Digital Connectivity Leaders: A Deep Dive Into Facebook, Twitter, Instagram, YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/discover-the-giants-of-social-networking-exploring-facebook-twitter-instagram-and-youtube/"><u>Discover the Giants of Social Networking: Exploring Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/easy-steps-to-get-started-with-revo-uninstaller-on-your-mobile-device-full-guide/"><u>Easy Steps to Get Started with Revo Uninstaller on Your Mobile Device - Full Guide</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-change-your-iphone-se-2020-apple-id-on-macbook-by-drfone-ios/"><u>How To Change Your iPhone SE (2020) Apple ID on MacBook</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-bringing-smiles-without-dollars-the-mememakers-way/"><u>In 2024, Bringing Smiles without Dollars – The MemeMaker’s Way</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-crossing-platforms-upload-video-to-twittertumblr/"><u>In 2024, Crossing Platforms Upload Video to Twitter/Tumblr</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-leading-speech-recording-software-for-mac-discovering-our-five-favorites/"><u>In 2024, Leading Speech Recording Software for Mac Discovering Our Five Favorites</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-8-concerning-issues-of-using-openais-chatgpt/"><u>Top 8 Concerning Issues of Using OpenAI's ChatGPT</u></a></li>
+</ul></div>
 

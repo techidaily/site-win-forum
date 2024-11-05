@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Tips: How To Quickly Close Frozen Programs on Windows 11 Computers"
-date: 2024-08-18T10:28:44.724Z
-updated: 2024-08-19T10:28:44.724Z
+date: 2024-11-01T23:40:10.866Z
+updated: 2024-11-04T17:16:25.423Z
 tags:
   - win11
   - win10
@@ -30,11 +30,16 @@ thumbnail: https://thmb.techidaily.com/fb9dc69321147c58e76f643c816e11fbbc732b6fd
 
 ## I. To lock your Windows 11 PC through the Start menu, follow these steps
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 1. Click on the**‘Start’** button located at the bottom left corner of the screen or press the**‘Windows’** key on your keyboard to open the Start menu. ![Start menu lock](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/lock-pc/method-1-start-menu.png)
 2. In the Start menu, click on your user profile icon or name located at the top.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. This will open a menu with various options. Click on**‘Lock’** from the list of options.
 4. Alternatively, you can also press the**‘Windows’** key +**‘L’** on your keyboard as a shortcut to lock your PC instantly.
 
@@ -44,30 +49,42 @@ thumbnail: https://thmb.techidaily.com/fb9dc69321147c58e76f643c816e11fbbc732b6fd
 2. From the context menu, select**“Task Manager”** . Alternatively, you can press**Ctrl + Shift + Esc** on your keyboard to open Task Manager directly.
 3. Once Task Manager opens, go to the**“File”** menu located in the top left corner of the window.
 4. Select**“App History”**
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 5. From the dropdown menu, select**“Run new task”** . ![Run new task](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/lock-pc/method-2-task-manager-1.png)
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 6. In the**“Create new task”** window, type**“tsdiscon”** (short for “Terminal Services Disconnect”) into the text field. ![Create new task](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/lock-pc/method-2-task-manager-2.png)
 7. Check the box next to**“Create this task with administrative privileges”** .
+
+<!-- affiliate ads begin -->
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 8. Click**“OK”** .
 
 ## III. How to Lock a Windows 11 computer via the Ctrl + Alt + Delete Menu
 
  Pressing**Ctrl + Alt + Delete** triggers a distinct Windows menu to appear on your screen, offering a range of functionalities. Among these options is the Task Manager, granting you the capability to perform several actions, including switching user accounts, changing passwords, and, most notably for our discussion, locking your PC. Simply selecting**“Lock”** from this menu instantly secures your Windows 11 device.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## IV. Lock your PC via the Command Prompt
 
  Locking your Windows 11 system is also possible through the Command Prompt, which is a text-based user interface accepting keyboard input.
 
  To initiate this process, begin by accessing the Start menu search bar. Enter “Command Prompt” and select the best match. Once the Command Prompt window opens, input the following command and press Enter:  
 **Rundll32.exe user32.dll,LockWorkStation**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## V. How to lock your computer with Dynamic Lock
 
@@ -84,14 +101,21 @@ thumbnail: https://thmb.techidaily.com/fb9dc69321147c58e76f643c816e11fbbc732b6fd
 
  In matters of cybersecurity, you represent the primary line of defense. The method you select to lock your PC is less crucial than ensuring that you do so consistently. Additionally, it’s essential to configure your PC to lock itself automatically in case of oversight.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## We can help you every time when…
 
 * you cannot find the program in the Apps & Features list
@@ -107,8 +131,6 @@ thumbnail: https://thmb.techidaily.com/fb9dc69321147c58e76f643c816e11fbbc732b6fd
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -116,4 +138,26 @@ thumbnail: https://thmb.techidaily.com/fb9dc69321147c58e76f643c816e11fbbc732b6fd
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-instagram-video-collage-app-for-androidandios-for-2024/"><u>[New] Instagram Video Collage App for Android&iOS for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-securing-your-videos-on-facebook-pc-plus-android-methods/"><u>[New] Securing Your Videos on Facebook PC + Android Methods</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-maximizing-recording-4-strategies-for-facebook-live/"><u>[Updated] 2024 Approved Maximizing Recording 4 Strategies for Facebook Live</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-from-the-field-expertly-chosen-5-gamer-friendly-webcams/"><u>[Updated] In 2024, From the Field Expertly Chosen 5 Gamer-Friendly Webcams</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-priority-picks-high-rated-graphics-cards-for-seamless-playback/"><u>2024 Approved Priority Picks High-Rated Graphics Cards for Seamless Playback</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/boost-your-proposal-game-with-smart-ai-tools/"><u>Boost Your Proposal Game with Smart AI Tools</u></a></li>
+<li><a href="https://win-forum.techidaily.com/digital-social-giants-mastering-interactions-on-facebook-twitter-instagram-youtube/"><u>Digital Social Giants: Mastering Interactions on Facebook, Twitter, Instagram, YouTube</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721370165947-discover-the-ios-version-of-chatgpt/"><u>Discover the iOS Version of ChatGPT!</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/effective-techniques-for-implementing-audio-fade-inout-transitions/"><u>Effective Techniques for Implementing Audio Fade-In/Out Transitions</u></a></li>
+<li><a href="https://win-forum.techidaily.com/effective-techniques-for-undoing-windows-update-installations-in-win10-and-win11-via-revouninstaller/"><u>Effective Techniques for Undoing Windows Update Installations in Win10 & Win11 via RevoUninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/effective-techniques-to-combat-maximum-disk-use-on-windows-11/"><u>Effective Techniques to Combat Maximum Disk Use on Windows 11</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/eliminazione-backup-con-wbadmin-su-server-windows-versioni-2016-2012-e-2008/"><u>Eliminazione Backup Con WBAdmin Su Server Windows - Versioni 2016, 2012 E 2008</u></a></li>
+<li><a href="https://win-forum.techidaily.com/essential-techniques-for-forcing-quit-applications-that-wont-close-in-windows-11-systems/"><u>Essential Techniques for Forcing Quit Applications that Won't Close in Windows 11 Systems</u></a></li>
+<li><a href="https://win-forum.techidaily.com/guide-determining-the-powershell-versions-available-in-windows-10/"><u>Guide: Determining the PowerShell Versions Available in Windows 10</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-configure-your-pc-with-wake-on-lan-on-the-latest-windows-11-operating-system/"><u>How to Configure Your PC with Wake-on-LAN on the Latest Windows 11 Operating System</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-forcefully-renew-your-dns-settings-on-windows-operating-systems-10-and-11/"><u>How to Forcefully Renew Your DNS Settings on Windows Operating Systems (10 and 11)</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-manage-and-delete-system-memory-dump-files-on-windows-11/"><u>How To Manage and Delete System Memory Dump Files on Windows 11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-manage-and-learn-about-bios-with-revouninstaller-tools/"><u>How to Manage and Learn About BIOS with RevoUninstaller Tools</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/updated-2024-approved-20-wonderful-stop-motion-ideas-for-beginners-and-kids/"><u>Updated 2024 Approved 20 Wonderful Stop Motion Ideas for Beginners and Kids</u></a></li>
+</ul></div>
 
