@@ -1,7 +1,7 @@
 ---
 title: "Navigating the Social Media Giants: Facebook, Twitter & Instagram vs YouTube"
-date: 2024-08-18T10:42:39.792Z
-updated: 2024-08-19T10:42:39.792Z
+date: 2024-11-19T16:02:23.732Z
+updated: 2024-11-24T16:00:57.087Z
 tags:
   - win11
   - win10
@@ -26,9 +26,6 @@ thumbnail: https://thmb.techidaily.com/3053aa186a22e246fde2fd4dd8f2c112e4536c6f6
 
  PowerShell is an amazing tool created by Microsoft so you can automate tasks. By knowing which PowerShell version you have access to, you will know what features you can use. There are more than 200 commands that can be used within PowerShell and it is a super flexible framework that will save you a bunch of time.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Can you use PowerShell only on your Windows computer?
 
  Since 2016 PowerShell was announced as open-source and cross-platform. You can use it on macOS and Linux too. Although it is native to Windows OS, and Microsoft only supports security updates and bug fixes, PowerShell Core is being worked on to clear these issues with other OS.
@@ -45,32 +42,32 @@ thumbnail: https://thmb.techidaily.com/3053aa186a22e246fde2fd4dd8f2c112e4536c6f6
  We are saying all this, so you can know that not all PowerShell versions are the same. A lot of people need assistance when they try to figure out what PowerShell version they are running. Therefore we created this small guide with all the ways you can check.
 
 <!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to check what PowerShell version I have installed?
 
  First, you need to open PowerShell. Simply open the Windows Start Menu and type in the search bar PowerShell, and click on the app.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![start menu PowerShell](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/check-win10-powershell-version/start-menu-powershell.png)
 
  You will see a window, where you enter the following command**$PSVersionTable.PSVersion** , and hit Enter. In the screenshot below you can see an example where you can find the version.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![PSVersion command](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/check-win10-powershell-version/powershell-version-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Another method that you can use to check what PowerShell version you are running is to use the command “Get-Host”
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Get Host command](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/check-win10-powershell-version/powershell-version-2.png)
 
  The last method we will show you is by using the command “$host.version”. You will see the PowerShell version in a slightly different format. You will be able to see the Major and Minor release and the build number and revision.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How can I upgrade to a newer version of PowerShell?
 
@@ -80,10 +77,15 @@ thumbnail: https://thmb.techidaily.com/3053aa186a22e246fde2fd4dd8f2c112e4536c6f6
 
  Overall PowerShell can help you with automating some of the tasks that you are doing on regular basis on your PC. By knowing which version you are running and how to upgrade it you will be able to utilize it without any issues.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## We can help you every time when…
 
@@ -100,8 +102,6 @@ thumbnail: https://thmb.techidaily.com/3053aa186a22e246fde2fd4dd8f2c112e4536c6f6
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -109,4 +109,23 @@ thumbnail: https://thmb.techidaily.com/3053aa186a22e246fde2fd4dd8f2c112e4536c6f6
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-clip-curator-platform/"><u>[Updated] 2024 Approved Clip Curator Platform</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-how-to-excel-at-ppt-delivery-google-meet-tactics-for-any-device/"><u>[Updated] 2024 Approved How to Excel at PPT Delivery Google Meet Tactics for Any Device</u></a></li>
+<li><a href="https://win-forum.techidaily.com/deciphering-and-repairing-windows-11s-unforeseen-process-failures-expert-advice/"><u>Deciphering and Repairing Windows 11'S Unforeseen Process Failures: Expert Advice</u></a></li>
+<li><a href="https://win-forum.techidaily.com/discovering-your-pcs-power-the-ultimate-guide-to-finding-the-windows-11-powershell-version/"><u>Discovering Your PC's Power: The Ultimate Guide to Finding the Windows 11 PowerShell Version</u></a></li>
+<li><a href="https://win-forum.techidaily.com/easy-steps-to-erase-profiles-on-your-windows-11-computer-using-simple-tools/"><u>Easy Steps to Erase Profiles on Your Windows 11 Computer Using Simple Tools</u></a></li>
+<li><a href="https://win-forum.techidaily.com/easy-to-follow-instructions-on-enabling-revo-uninstallers-powerful-features/"><u>Easy-to-Follow Instructions on Enabling Revo Uninstaller's Powerful Features</u></a></li>
+<li><a href="https://win-forum.techidaily.com/effective-techniques-for-manipulating-windows-registry-a-step-by-step-guide-using-revo-uninstaller/"><u>Effective Techniques for Manipulating Windows Registry: A Step-by-Step Guide Using Revo Uninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/essential-networking-sites-explore-facebook-twitter-instagram-and-youtube/"><u>Essential Networking Sites: Explore Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/explore-social-media-universe-with-facebook-twitter-instagram-and-youtube/"><u>Explore Social Media Universe with Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-a-visionary-leap-to-4k-the-eizo-coloredge-monitor-review/"><u>In 2024, A Visionary Leap to 4K The EIZO ColorEdge Monitor Review</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-choreographing-attractive-podcast-briefs/"><u>In 2024, Choreographing Attractive Podcast Briefs</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/keep-your-tweets-compliant-with-aspect-ratio-requirements/"><u>Keep Your Tweets Compliant with Aspect Ratio Requirements</u></a></li>
+<li><a href="https://article-files.techidaily.com/proven-strategies-for-premium-picture-acquisition-gratis-for-2024/"><u>Proven Strategies for Premium Picture Acquisition Gratis for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-repair-instructions-for-stop-error-0x0000001d-nospinlockavailable-fixes/"><u>Step-by-Step Repair Instructions for Stop Error 0X0000001D – NO_SPIN_LOCK_AVAILABLE Fixes</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95782041-9781620551769-the-esoteric-secrets-of-surrealism/"><u>The Esoteric Secrets of Surrealism | Free Book</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-hidden-features-of-the-ring-spotlight-cam-pro-a-fresh-perspective-from-zdnet/"><u>Unveiling the Hidden Features of The Ring Spotlight Cam Pro – A Fresh Perspective From ZDNet</u></a></li>
+</ul></div>
 

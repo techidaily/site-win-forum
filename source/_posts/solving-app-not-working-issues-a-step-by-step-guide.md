@@ -1,7 +1,7 @@
 ---
 title: "Solving 'App Not Working' Issues: A Step-by-Step Guide"
-date: 2024-08-18T10:41:48.113Z
-updated: 2024-08-19T10:41:48.113Z
+date: 2024-11-22T16:01:38.277Z
+updated: 2024-11-24T16:00:59.830Z
 tags:
   - win11
   - win10
@@ -36,26 +36,15 @@ Here are the methods you can use to speed up your Windows 11 boot time:
 6. [Adjust BIOS settings](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1)
 
 <!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## I. Disable startup programs in Windows 11
 
  Windows 11 comes with several programs that start automatically with the operating system. While some of these programs may be useful, others can slow down your computer’s startup and take up valuable resources. Disabling unnecessary startup programs can help speed up your Windows 11 boot time. This is how you can disable them:
 
 1. Press**Windows + I** to open Windows**Settings** .
 2. Click the**Apps** tab from the sidebar and tap on**Startup** in the right-hand pane to view all your startup apps.  
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![startup tab](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/speed-up-windows-11-boot-time/disable-startup-programs-in-windows-11-step-2.jpg)
 3. Finally, toggle the switch next to the apps you don’t want to run at startup. Under the toggle switch, you’ll see the status impact of each, which indicates what disabling them does to your system.
 
@@ -76,18 +65,17 @@ Here is how you can turn Fast Starup On:
 3. Go to**System and Security** and then click on**Power Options** .  
 ![startup options](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/speed-up-windows-11-boot-time/enable-fast-startup-step-2.png)
 4. In the left pane, click on**Choose what the power buttons do** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Next, click the**Change settings that are currently unavailable** link.
 6. Under the**Shutdown settings** section, check the**Turn on fast startup (recommended)** option to turn on the feature.
 7. Uncheck the**Turn on fast startup option** to turn it off.  
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ![fast startup](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/speed-up-windows-11-boot-time/enable-fast-startup-step-5.jpg)
 8. Click**Save changes** to apply the changes.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## IV. Defragment your hard drive
 
  If you are experiencing slow boot times on your Windows 11 computer, one possible cause could be a fragmented hard drive.
@@ -99,11 +87,13 @@ Here is how you can turn Fast Starup On:
 3. Select the hard drive you want to defragment.  
 ![defragment hard drive](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/speed-up-windows-11-boot-time/defragment-your-hard-drive-step-3.png)
 4. Click on the Optimize button.
-5. Wait for the defragmentation process to complete.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+5. Wait for the defragmentation process to complete.
+
 ## V. Use an SSD
 
  If you have a modern PC running Windows 11, chances are that it uses an SSD (Solid State Drive), which is faster than a traditional hard disk drive. However, if you’re experiencing slow boot times, upgrading to a new SSD can help improve your boot time.
@@ -111,9 +101,9 @@ Here is how you can turn Fast Starup On:
  In addition to upgrading your SSD, another way to speed up your PC’s boot time is to upgrade your RAM. With more RAM, your PC will have more volatile memory available to load temporary items, resulting in faster boot times and an overall improvement in your PC’s performance.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## VI. Adjust BIOS settings for faster Windows 11 boot time
 
  Adjusting the BIOS settings can help speed up the boot time on your Windows 11 computer. Here are the steps you need to follow in order to adjust your BIOS settings to improve your Windows 11 boot time:
@@ -127,6 +117,10 @@ Here is how you can turn Fast Starup On:
  In conclusion, these are some tips on how to speed up your Windows 11 boot time. By following these steps, you can optimize your computer’s performance and reduce the time it takes to start up.
 
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## We can help you every time when…
 
@@ -143,8 +137,6 @@ Here is how you can turn Fast Starup On:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -152,4 +144,26 @@ Here is how you can turn Fast Starup On:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-understanding-group-dynamics-in-zoom-sessions/"><u>[Updated] 2024 Approved Understanding Group Dynamics in Zoom Sessions</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-the-non-negotiables-of-beginning-a-youtube-channel/"><u>[Updated] In 2024, The Non-Negotiables of Beginning a YouTube Channel</u></a></li>
+<li><a href="https://facebook.techidaily.com/cross-platform-content-posting-instagram-reels-to-facebook/"><u>Cross-Platform Content: Posting Instagram Reels to Facebook</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/diy-repair-how-to-restore-smooth-operation-of-your-surface-pros-screen/"><u>DIY Repair: How to Restore Smooth Operation of Your Surface Pro's Screen</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-realme-v30-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Realme V30 Screen Black But Still Works? | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-master-communication-in-todays-world-leveraging-facebook-twitter-instagram-and-youtube/"><u>How to Master Communication in Today's World: Leveraging Facebook, Twitter, Instagram and YouTube</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Samsung Galaxy M14 5G? | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, All You Need To Know About Mega Greninja For Apple iPhone 15 Plus | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/installing-windows-11-on-non-supported-cpus-using-revouninstaller-a-complete-walkthrough/"><u>Installing Windows 11 on Non-Supported CPUs Using RevoUninstaller: A Complete Walkthrough</u></a></li>
+<li><a href="https://win-forum.techidaily.com/master-your-pc-with-the-advanced-uninstallation-tool-revo-uninstaller-pro-version/"><u>Master Your PC with the Advanced Uninstallation Tool: Revo Uninstaller Pro Version 지</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-file-deletion-command-prompt-techniques-for-windows-users/"><u>Mastering File Deletion: Command Prompt Techniques for Windows Users</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-social-media-facebook-twitter-instagram-and-youtube/"><u>Mastering Social Media: Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-the-big-4-in-social-media-a-guide-to-facebook-twitter-instagram-and-youtube/"><u>Mastering the Big 4 in Social Media: A Guide to Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/maximizing-b-roll-value-essential-techniques/"><u>Maximizing B-Roll Value Essential Techniques</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/my-ai-vs-chatgpt-making-the-right-choice-on-snapchat/"><u>My AI vs ChatGPT: Making the Right Choice on Snapchat</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigate-through-driver-updates-in-windows-10-effortlessly-using-revo-uninstaller-a-comprehensive-guide/"><u>Navigate Through Driver Updates in Windows 10 Effortlessly Using Revo Uninstaller – A Comprehensive Guide</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-big-four-of-social-networks-facebook-twitter-instagram-and-youtube/"><u>Navigating the Big Four of Social Networks: Facebook, Twitter, Instagram and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-digital-landscape-insights-into-facebook-twitter-instagram-youtube/"><u>Navigating the Digital Landscape: Insights Into Facebook, Twitter, Instagram, YouTube</u></a></li>
+<li><a href="https://win11.techidaily.com/tailoring-screen-layout-embedding-this-pc-icon/"><u>Tailoring Screen Layout: Embedding 'This PC' Icon</u></a></li>
+</ul></div>
 

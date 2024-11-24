@@ -1,7 +1,7 @@
 ---
 title: How To Perform a DNS Cache Purge in Windows 10 and 11 Easily
-date: 2024-08-18T10:43:31.924Z
-updated: 2024-08-19T10:43:31.924Z
+date: 2024-11-18T16:01:48.139Z
+updated: 2024-11-24T16:02:24.226Z
 tags:
   - win11
   - win10
@@ -35,9 +35,6 @@ Here are the methods you can use to speed up your Windows 11 boot time:
 5. [Use an SSD](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1)
 6. [Adjust BIOS settings](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ## I. Disable startup programs in Windows 11
 
  Windows 11 comes with several programs that start automatically with the operating system. While some of these programs may be useful, others can slow down your computer’s startup and take up valuable resources. Disabling unnecessary startup programs can help speed up your Windows 11 boot time. This is how you can disable them:
@@ -53,6 +50,10 @@ Here are the methods you can use to speed up your Windows 11 boot time:
 
  We’ve covered in this[article](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1) how you can remove unnecessary files and programs with Revo Uninstaller and many other methods.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## III. Enable Fast Startup
 
  Windows 11 comes with a variety of features that can help speed up your computer’s boot time. One such feature is Fast Startup, which allows your computer to start up faster by using a hybrid sleep mode that saves system information to a file on the hard drive.
@@ -64,18 +65,17 @@ Here is how you can turn Fast Starup On:
 3. Go to**System and Security** and then click on**Power Options** .  
 ![startup options](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/speed-up-windows-11-boot-time/enable-fast-startup-step-2.png)
 4. In the left pane, click on**Choose what the power buttons do** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Next, click the**Change settings that are currently unavailable** link.
 6. Under the**Shutdown settings** section, check the**Turn on fast startup (recommended)** option to turn on the feature.
 7. Uncheck the**Turn on fast startup option** to turn it off.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ![fast startup](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/speed-up-windows-11-boot-time/enable-fast-startup-step-5.jpg)
 8. Click**Save changes** to apply the changes.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## IV. Defragment your hard drive
 
  If you are experiencing slow boot times on your Windows 11 computer, one possible cause could be a fragmented hard drive.
@@ -85,18 +85,23 @@ Here is how you can turn Fast Starup On:
 1. Press the Windows key + S to open the search bar.
 2. Type in “Defragment and Optimize Drives” and select it from the search results.
 3. Select the hard drive you want to defragment.  
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![defragment hard drive](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/speed-up-windows-11-boot-time/defragment-your-hard-drive-step-3.png)
 4. Click on the Optimize button.
 5. Wait for the defragmentation process to complete.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## V. Use an SSD
 
  If you have a modern PC running Windows 11, chances are that it uses an SSD (Solid State Drive), which is faster than a traditional hard disk drive. However, if you’re experiencing slow boot times, upgrading to a new SSD can help improve your boot time.
 
  In addition to upgrading your SSD, another way to speed up your PC’s boot time is to upgrade your RAM. With more RAM, your PC will have more volatile memory available to load temporary items, resulting in faster boot times and an overall improvement in your PC’s performance.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## VI. Adjust BIOS settings for faster Windows 11 boot time
 
@@ -110,14 +115,12 @@ Here is how you can turn Fast Starup On:
 
  In conclusion, these are some tips on how to speed up your Windows 11 boot time. By following these steps, you can optimize your computer’s performance and reduce the time it takes to start up.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
 
 <!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## We can help you every time when…
 
 * you cannot find the program in the Apps & Features list
@@ -133,8 +136,6 @@ Here is how you can turn Fast Starup On:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -142,4 +143,24 @@ Here is how you can turn Fast Starup On:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-leveraging-view-counts-for-financial-freedom-online/"><u>[New] 2024 Approved Leveraging View Counts for Financial Freedom Online</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-ultra-clear-gaming-best-21-hdmi-compatible-monitors-ps5/"><u>[Updated] 2024 Approved Ultra Clear Gaming Best 2.1 HDMI Compatible Monitors [PS5]</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/beyond-the-basics-advanced-insights-into-snapchat-filters-for-2024/"><u>Beyond the Basics Advanced Insights Into Snapchat Filters for 2024</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/discover-top-tier-full-stack-javascript-solutions-explore-3-elegant-nodejs-premium-themes-and-templates-from-creative-tim/"><u>Discover Top-Tier Full-Stack JavaScript Solutions: Explore 3 Elegant NodeJS Premium Themes & Templates From Creative Tim</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/wers-in-motion-analyzer-for-2024/"><u>Followers in Motion Analyzer for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-deciphering-intermittent-stoppages-in-photobooth-videos/"><u>In 2024, Deciphering Intermittent Stoppages in Photobooth Videos</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-from-0-to-million-views-the-ultimate-content-blueprint/"><u>In 2024, From 0 to Million Views The Ultimate Content Blueprint</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-visual-storytelling-on-facebook-crafting-compelling-slideshows/"><u>In 2024, Visual Storytelling on Facebook Crafting Compelling Slideshows</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-file-deletion-with-revo-uninstaller-pro-version-5-features-guide/"><u>Mastering File Deletion with Revo Uninstaller Pro Version 5 Features Guide</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-quick-fixes-for-stubborn-files-use-revo-uninstaller-on-windows-10-and-11/"><u>Mastering Quick Fixes for Stubborn Files: Use Revo Uninstaller on Windows 10 & 11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-the-social-sphere-strategies-for-facebook-twitter-instagram-and-youtube-presence/"><u>Mastering the Social Sphere: Strategies for Facebook, Twitter, Instagram & YouTube Presence</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-digital-interaction-hubs-the-powerhouses-facebook-twittle-instagram-you-tube/"><u>Navigating Digital Interaction Hubs: The Powerhouses - FaceBook, Twittle, InstaGram, You-Tube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-digital-landscape-essential-sites-fb-twtr-ig-yt/"><u>Navigating the Digital Landscape: Essential Sites (FB, TWTR, IG, YT)</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-giants-of-social-platforms-facebook-to-youtube-explained/"><u>Navigating the Giants of Social Platforms: Facebook to YouTube Explained</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-major-platforms-of-social-networking-facebook-twitter-instagram-and-youtube/"><u>Navigating the Major Platforms of Social Networking: Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/optimize-hard-drive-on-windows-11-with-easy-steps-to-reclaim-space/"><u>Optimize Hard Drive on Windows 11 with Easy Steps to Reclaim Space</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/top-quality-free-fb-image-and-video-designer/"><u>Top Quality FREE FB Image & Video Designer</u></a></li>
+</ul></div>
 
