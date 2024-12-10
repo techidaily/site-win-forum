@@ -1,7 +1,7 @@
 ---
 title: "Leading Platforms in the Digital Age: Facebook, Twitter, Instagram, and YouTube"
-date: 2024-08-18T10:52:10.003Z
-updated: 2024-08-19T10:52:10.003Z
+date: 2024-11-27T18:36:37.638Z
+updated: 2024-12-03T02:10:10.220Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/545f7379c0befa5a44cab74ccb395e1f4653a53c6
 
 ## The Big Four of Social Networking - Facebook, Twitter, Instagram, and YouTube Explained
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## [5 Ways to Lock your Windows PC](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1)
 
 * Share
@@ -33,47 +30,53 @@ thumbnail: https://thmb.techidaily.com/545f7379c0befa5a44cab74ccb395e1f4653a53c6
 
 ## I. To lock your Windows 11 PC through the Start menu, follow these steps
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 1. Click on the**‘Start’** button located at the bottom left corner of the screen or press the**‘Windows’** key on your keyboard to open the Start menu. ![Start menu lock](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/lock-pc/method-1-start-menu.png)
 2. In the Start menu, click on your user profile icon or name located at the top.
 3. This will open a menu with various options. Click on**‘Lock’** from the list of options.
 4. Alternatively, you can also press the**‘Windows’** key +**‘L’** on your keyboard as a shortcut to lock your PC instantly.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## II. Another way to lock your Windows Computer and protect your data is through the Task Manager. Here are the steps you have to take in order to do that
 
 1. Right-click on the taskbar at the bottom of your screen. This will open a context menu.
 2. From the context menu, select**“Task Manager”** . Alternatively, you can press**Ctrl + Shift + Esc** on your keyboard to open Task Manager directly.
 3. Once Task Manager opens, go to the**“File”** menu located in the top left corner of the window.
 4. Select**“App History”**
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 5. From the dropdown menu, select**“Run new task”** . ![Run new task](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/lock-pc/method-2-task-manager-1.png)
 6. In the**“Create new task”** window, type**“tsdiscon”** (short for “Terminal Services Disconnect”) into the text field. ![Create new task](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/lock-pc/method-2-task-manager-2.png)
 7. Check the box next to**“Create this task with administrative privileges”** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Click**“OK”** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## III. How to Lock a Windows 11 computer via the Ctrl + Alt + Delete Menu
 
  Pressing**Ctrl + Alt + Delete** triggers a distinct Windows menu to appear on your screen, offering a range of functionalities. Among these options is the Task Manager, granting you the capability to perform several actions, including switching user accounts, changing passwords, and, most notably for our discussion, locking your PC. Simply selecting**“Lock”** from this menu instantly secures your Windows 11 device.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## IV. Lock your PC via the Command Prompt
 
  Locking your Windows 11 system is also possible through the Command Prompt, which is a text-based user interface accepting keyboard input.
 
  To initiate this process, begin by accessing the Start menu search bar. Enter “Command Prompt” and select the best match. Once the Command Prompt window opens, input the following command and press Enter:  
 **Rundll32.exe user32.dll,LockWorkStation**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## V. How to lock your computer with Dynamic Lock
 
@@ -107,8 +110,6 @@ thumbnail: https://thmb.techidaily.com/545f7379c0befa5a44cab74ccb395e1f4653a53c6
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -116,4 +117,24 @@ thumbnail: https://thmb.techidaily.com/545f7379c0befa5a44cab74ccb395e1f4653a53c6
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-net.techidaily.com/y-x2-6x-plus-9-5/"><u> [Y = -(X^2 - 6X + 9) - 5 </u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-avoid-story-filler-how-to-use-multiple-images-wisely-on-insta-for-2024/"><u>[New] Avoid Story Filler How to Use Multiple Images Wisely on Insta for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-popular-meme-ideas-for-every-occasion/"><u>2024 Approved Top Popular Meme Ideas for Every Occasion</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/4-ways-to-unlock-iphone-15-pro-max-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>4 Ways to Unlock iPhone 15 Pro Max to Use USB Accessories Without Passcode</u></a></li>
+<li><a href="https://win-forum.techidaily.com/comparing-popular-online-interaction-sites-the-titans-facebook-twitter-instagram-and-youtube/"><u>Comparing Popular Online Interaction Sites: The Titans - Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/complete-guide-steps-to-perform-a-full-system-restore-on-windows-11/"><u>Complete Guide: Steps to Perform a Full System Restore on Windows 11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/connect-with-billions-mastering-facebook-twitter-instagram-and-youtube-for-ultimate-engagement/"><u>Connect With Billions: Mastering Facebook, Twitter, Instagram, and YouTube for Ultimate Engagement</u></a></li>
+<li><a href="https://win-forum.techidaily.com/deciphering-the-role-and-importance-of-the-windows-registry-in-your-operating-system/"><u>Deciphering the Role and Importance of the Windows Registry in Your Operating System</u></a></li>
+<li><a href="https://win-forum.techidaily.com/discover-popular-online-channels-faceybook-youtube-tweetspace-snapgram/"><u>Discover Popular Online Channels: FaceyBook, Youtube, TweetSpace, Snapgram</u></a></li>
+<li><a href="https://win-forum.techidaily.com/discovering-your-pcs-power-locating-the-latest-windows-10-powershell-version/"><u>Discovering Your PC's Power: Locating the Latest Windows 10 PowerShell Version</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-installation-process-for-the-epson-xp-410-printer-driver-on-windows-systems/"><u>Easy Installation Process for the Epson XP-410 Printer Driver on Windows Systems</u></a></li>
+<li><a href="https://win-forum.techidaily.com/easy-solutions-to-overcome-missing-class-registration-errors-in-windows-os/"><u>Easy Solutions to Overcome 'Missing Class Registration' Errors in Windows OS</u></a></li>
+<li><a href="https://win-forum.techidaily.com/effective-file-management-with-command-prompt-in-windows-11-a-step-by-step-tutorial/"><u>Effective File Management with Command Prompt in Windows 11 - A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-lowering-sounds-on-mac-and-pc-gradually-and-invisibly/"><u>In 2024, Lowering Sounds On Mac & PC Gradually and Invisibly</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/navigating-the-world-of-live-periscope-streaming-for-2024/"><u>Navigating the World of Live Periscope Streaming for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/tailoring-your-gaming-mastery-of-steam-deck-keys/"><u>Tailoring Your Gaming: Mastery of Steam Deck Keys</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/unlocking-the-secrets-of-iphone-recording/"><u>Unlocking the Secrets of iPhone Recording</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Effective Techniques to Combat Maximum Disk Use on Windows 11
-date: 2024-08-18T10:45:07.242Z
-updated: 2024-08-19T10:45:07.242Z
+date: 2024-11-26T21:59:00.008Z
+updated: 2024-12-03T08:10:07.399Z
 tags:
   - win11
   - win10
@@ -16,8 +16,9 @@ thumbnail: https://thmb.techidaily.com/8398659134dc24374c71d0ed649ae9e802ceefac0
 ## Protect Your Sensitive Information: How to Securely Password-Lock Text Files with Revo Uninstaller
 
 <!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## [How to Password protect a text file](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1)
 
 * Share
@@ -37,12 +38,16 @@ After that, you need to do the following:
 
 1. Right-click on the text file and choose**Properties** .
 2. Under the General tab, click the**Advanced** button and then select**Encrypt Contents to Secure Data** on the new window. Click**OK** and then**Apply** .  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ![encrypt contents](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/password-protect-text-files/how-to-password-protect-a-text-files-step-2.png)
 3. Continue clicking the**Encrypt the File Only** option and click**OK** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to encrypt your text file
 
@@ -62,9 +67,6 @@ Some of the popular encryption tools are
 
  These tools will allow you to encrypt your file with a password. Choose the one that suits your needs and download it from their official website. Once downloaded, install the software on your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Encrypt your text files with WinRar to password protect your text files
 
  To show you an example we will take a look at how to encrypt your text files with WinRar.
@@ -75,24 +77,23 @@ So, here are the steps to follow:
 
 1. Right-click on the text file you want to password-protect and select**“Add to archive”** .
 2. Under the**General tab** , you can choose an Archive format among RAR, RAR5, and ZIP, and click**Set password** .  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ![set password](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/password-protect-text-files/encrypt-your-text-files-with-winrar-step-2.png)
 3. Enter the password you prepared and click**OK** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
  Password-protecting your text files is a simple yet effective way to safeguard sensitive information. By using encryption software, you can easily protect your files from unauthorized access. Remember to choose a strong password and delete the original unencrypted text file to ensure maximum security.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## We can help you every time when…
 
 * you cannot find the program in the Apps & Features list
@@ -108,8 +109,6 @@ So, here are the steps to follow:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -117,4 +116,23 @@ So, here are the steps to follow:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-boosting-engagement-from-the-start-premium-paid-free-intra-creators/"><u>[New] Boosting Engagement From the Start Premium, Paid-Free Intra Creators</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-unveiling-the-secrets-to-successful-youtube-channel-earnings-for-2024/"><u>[Updated] Unveiling the Secrets to Successful YouTube Channel Earnings for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/winx-mediatrans-iphoneipadpcandwindows1n/"><u>公式WinX MediaTrans | iPhone/iPadの最適なデータ管理・バックアップソフトウェア：簡単PC間転送&Windows(1n)対応</u></a></li>
+<li><a href="https://win-forum.techidaily.com/complete-guide-to-managing-and-fixing-100-disk-space-usage-on-windows-10/"><u>Complete Guide to Managing and Fixing 100% Disk Space Usage on Windows 10</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-fix-pc-issues-when-your-game-of-thrones-style-strategy-game-crusader-kings-iii/"><u>How to Fix PC Issues When Your Game of Thrones-Style Strategy Game - Crusader Kings III</u></a></li>
+<li><a href="https://win-forum.techidaily.com/improve-pc-efficiency-comprehensive-techniques-for-defragmentation-in-windows-11-using-revouninstaller/"><u>Improve PC Efficiency: Comprehensive Techniques for Defragmentation in Windows 11 Using RevoUninstaller</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-stream-like-a-pro-top-5-devices-for-live-recording-success/"><u>In 2024, Stream Like a Pro Top 5 Devices for Live Recording Success</u></a></li>
+<li><a href="https://win-forum.techidaily.com/social-networks-uncovered-insights-on-facebook-twitter-instagram-and-youtube-usage/"><u>Social Networks Uncovered: Insights on Facebook, Twitter, Instagram and Youtube Usage</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-tutorial-erasing-stubborn-files-and-folders-from-windows-1011/"><u>Step-by-Step Tutorial: Erasing Stubborn Files & Folders From Windows 10/11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-ultimate-social-media-quartet-mastering-facebook-twitter-instagram-and-youtube/"><u>The Ultimate Social Media Quartet: Mastering Facebook, Twitter, Instagram, & YouTube</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/transcode-video-flv-en-audio-mp3-gratuite-en-ligne-avec-mp3-converter/"><u>Transcode Vidéo FLV en Audio MP3 Gratuite en Ligne Avec Mp3-Converter</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/transforming-your-tiktok-presence-with-exceptional-photos-for-2024/"><u>Transforming Your TikTok Presence with Exceptional Photos for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/understanding-the-landscape-of-digital-interaction-facebook-twitter-instagram-and-youtubian-networks/"><u>Understanding the Landscape of Digital Interaction: Facebook, Twitter, Instagram and YouTubian Networks</u></a></li>
+<li><a href="https://driver-error.techidaily.com/uninterrupted-graphics-in-win11/"><u>Uninterrupted Graphics in Win11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/unlisted-program-removal-a-guide-beyond-the-control-panel/"><u>Unlisted Program Removal: A Guide Beyond the Control Panel</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-oppo-f23-5g-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Oppo F23 5G Has Black Screen of Death? | Dr.fone</u></a></li>
+</ul></div>
 

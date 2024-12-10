@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Accessing System Properties & BIOS on Windows 11"
-date: 2024-08-18T10:46:41.604Z
-updated: 2024-08-19T10:46:41.604Z
+date: 2024-12-02T07:55:55.207Z
+updated: 2024-12-02T22:05:24.898Z
 tags:
   - win11
   - win10
@@ -31,8 +31,9 @@ thumbnail: https://thmb.techidaily.com/700877a9102ebfac6b027a9da8135a8597355f7b4
 * Force Uninstall
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Deleting files on Windows 10 with command prompt
 
  The built-in del command can help you delete files on Windows 10\. You have to point out the specific path to this file on your PC.
@@ -44,6 +45,10 @@ To use this method do the following:
 **`del path`**  
 ![delete file with command prompt](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/delete-with-command-prompt/Method1-step2.png)
 3. After that press**Enter**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lets’ see this example to clarify the whole process:
 
@@ -62,8 +67,9 @@ You can also add the /f parameter to force delete a read-only file.
  You can also use Revo Uninstallers’[force uninstall feature](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1) if you have trouble removing stubborn programs.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## To delete folders in Windows 10 with CMD you have to use the rmdir command
 
  This command will remove all folders including the subfolders and files in them.
@@ -73,9 +79,6 @@ To use this command do the following:
 1. Open the Start Menu and in the search bar type “cmd”. Right-click on the result and select “Run as Administrator”
 2. Type in the field the following command where PATH will be replaced with the full path to the file you want to delete.  
 **`rmdir PATH`**  
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![remove folder with command prompt](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/delete-with-command-prompt/Method2-step2.png)
 3. Press**Enter** to finish the process
 
@@ -88,20 +91,19 @@ To use this command do the following:
  If you want to delete all the files and subfolders in the folder you want to delete, add the /s parameter. This will ensure that the folder is removed including the subfolders and files in it.
 
 <!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Conclusion
 
  As you’ve noticed, commands to delete files and folders in Windows 10 can be pretty handy if you have trouble deleting them the regular way.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## We can help you every time when…
 
 * you cannot find the program in the Apps & Features list
@@ -117,8 +119,6 @@ To use this command do the following:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -126,4 +126,24 @@ To use this command do the following:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-clips.techidaily.com/new-boost-traffic-to-your-videos-top-seo-practices-for-youtube-success/"><u>[New] Boost Traffic to Your Videos Top SEO Practices for YouTube Success</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-final-cuts-ultimate-10-plug-in-essentials-list-for-2024/"><u>[New] Final Cut's Ultimate 10 Plug-In Essentials List for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-the-perfect-blueprint-recording-google-voice-calls/"><u>[Updated] In 2024, The Perfect Blueprint Recording Google Voice Calls</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/bridging-video-and-gif-a-practical-path-from-vimeo-to-animation/"><u>Bridging Video and GIF A Practical Path From Vimeo to Animation</u></a></li>
+<li><a href="https://win-forum.techidaily.com/complete-guide-step-by-step-process-of-performing-a-system-restore-on-windows-11/"><u>Complete Guide: Step-by-Step Process of Performing a System Restore on Windows 11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/complete-guide-using-revo-uninstaller-pro-to-perform-an-efficient-and-secure-factory-reset-on-windows-10/"><u>Complete Guide: Using Revo Uninstaller Pro to Perform an Efficient and Secure Factory Reset on Windows 10</u></a></li>
+<li><a href="https://win-forum.techidaily.com/engaging-audiences-across-top-social-networks-a-guide-to-facebook-twitter-instagram-and-youtube-success/"><u>Engaging Audiences Across Top Social Networks: A Guide to Facebook, Twitter, Instagram & YouTube Success</u></a></li>
+<li><a href="https://extra-information.techidaily.com/excellent-spots-for-tamil-ringtones-acquisition-guide/"><u>Excellent Spots for Tamil Ringtones Acquisition Guide</u></a></li>
+<li><a href="https://win-forum.techidaily.com/expert-advice-how-to-erase-crash-dump-files-from-your-windows-11-computer/"><u>Expert Advice: How to Erase Crash Dump Files From Your Windows 11 Computer</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-excel-2007-workbook-by-stellar-guide/"><u>How to Repair Corrupt Excel 2007 Workbook?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/prime-iphone-photography-top-app-picks-x-7/"><u>Prime iPhone Photography Top App Picks (X, 7)</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/tion-mastery-on-youtube-top-6-methods-for-engaged-audience-growth-for-2024/"><u>Retention Mastery on YouTube Top 6 Methods for Engaged Audience Growth for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/stop-the-cycle-of-crashes-top-7-solutions-for-stable-windows-explorer-experience/"><u>Stop the Cycle of Crashes - Top 7 Solutions for Stable Windows Explorer Experience</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-leading-digital-hubs-a-guide-to-facebook-twitter-instagram-and-youtube-engagement/"><u>The Leading Digital Hubs: A Guide to Facebook, Twitter, Instagram, and YouTube Engagement</u></a></li>
+<li><a href="https://win-forum.techidaily.com/troubleshooting-the-windows-11-wont-start-on-your-pc-issue-a-step-by-step-guide/"><u>Troubleshooting the 'Windows 11 Won't Start On Your PC' Issue: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-forum.techidaily.com/understanding-digital-interactions-unveiling-facebook-twitter-instagram-and-youtubes-impact/"><u>Understanding Digital Interactions: Unveiling Facebook, Twitter, Instagram & YouTube's Impact</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-is-my-iphone-screen-not-powering-off-quickly-and-what-can-i-do/"><u>Why Is My iPhone Screen Not Powering Off Quickly and What Can I Do?</u></a></li>
+</ul></div>
 

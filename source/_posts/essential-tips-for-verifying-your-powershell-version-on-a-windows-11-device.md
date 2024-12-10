@@ -1,7 +1,7 @@
 ---
 title: Essential Tips for Verifying Your PowerShell Version on a Windows 11 Device
-date: 2024-08-18T10:50:03.458Z
-updated: 2024-08-19T10:50:03.458Z
+date: 2024-12-01T08:23:28.424Z
+updated: 2024-12-03T00:06:14.873Z
 tags:
   - win11
   - win10
@@ -35,30 +35,25 @@ Here are the methods you can use to speed up your Windows 11 boot time:
 5. [Use an SSD](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1)
 6. [Adjust BIOS settings](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## I. Disable startup programs in Windows 11
 
  Windows 11 comes with several programs that start automatically with the operating system. While some of these programs may be useful, others can slow down your computer’s startup and take up valuable resources. Disabling unnecessary startup programs can help speed up your Windows 11 boot time. This is how you can disable them:
 
 1. Press**Windows + I** to open Windows**Settings** .
 2. Click the**Apps** tab from the sidebar and tap on**Startup** in the right-hand pane to view all your startup apps.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![startup tab](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/speed-up-windows-11-boot-time/disable-startup-programs-in-windows-11-step-2.jpg)
 3. Finally, toggle the switch next to the apps you don’t want to run at startup. Under the toggle switch, you’ll see the status impact of each, which indicates what disabling them does to your system.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## II. Remove unnecessary files and programs
 
  Over time, your computer may become cluttered with unnecessary files and programs that can slow down your computer’s startup time. By removing these files and programs, you can speed up your Windows 11 boot time and improve your overall computer performance.
 
  We’ve covered in this[article](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1) how you can remove unnecessary files and programs with Revo Uninstaller and many other methods.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## III. Enable Fast Startup
 
  Windows 11 comes with a variety of features that can help speed up your computer’s boot time. One such feature is Fast Startup, which allows your computer to start up faster by using a hybrid sleep mode that saves system information to a file on the hard drive.
@@ -73,15 +68,13 @@ Here is how you can turn Fast Starup On:
 5. Next, click the**Change settings that are currently unavailable** link.
 6. Under the**Shutdown settings** section, check the**Turn on fast startup (recommended)** option to turn on the feature.
 7. Uncheck the**Turn on fast startup option** to turn it off.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![fast startup](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/speed-up-windows-11-boot-time/enable-fast-startup-step-5.jpg)
 8. Click**Save changes** to apply the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## IV. Defragment your hard drive
 
  If you are experiencing slow boot times on your Windows 11 computer, one possible cause could be a fragmented hard drive.
@@ -102,8 +95,9 @@ Here is how you can turn Fast Starup On:
  In addition to upgrading your SSD, another way to speed up your PC’s boot time is to upgrade your RAM. With more RAM, your PC will have more volatile memory available to load temporary items, resulting in faster boot times and an overall improvement in your PC’s performance.
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## VI. Adjust BIOS settings for faster Windows 11 boot time
 
  Adjusting the BIOS settings can help speed up the boot time on your Windows 11 computer. Here are the steps you need to follow in order to adjust your BIOS settings to improve your Windows 11 boot time:
@@ -117,6 +111,14 @@ Here is how you can turn Fast Starup On:
  In conclusion, these are some tips on how to speed up your Windows 11 boot time. By following these steps, you can optimize your computer’s performance and reduce the time it takes to start up.
 
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## We can help you every time when…
 
@@ -133,8 +135,6 @@ Here is how you can turn Fast Starup On:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -142,4 +142,24 @@ Here is how you can turn Fast Starup On:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/ed-banner-bonanza-unlimited-50-free-youtube-designs-in-2024/"><u>[Updated] Banner Bonanza Unlimited 50 FREE YouTube Designs, In 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-perfecting-the-snap-a-step-by-step-guide-for-effective-promotions/"><u>[Updated] In 2024, Perfecting the Snap A Step-by-Step Guide for Effective Promotions</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-capture-clarity-best-webcams-to-elevate-your-podcasts/"><u>2024 Approved Capture Clarity Best Webcams to Elevate Your Podcasts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-photographers-manual-how-to-crop-images-seamlessly-online/"><u>2024 Approved The Photographer's Manual How To Crop Images Seamlessly Online</u></a></li>
+<li><a href="https://win-forum.techidaily.com/1726225090854-ogvwmv-movavi/"><u>免費線上 OGV/WMV 影片交換技術：如何使用 Movavi 工具</u></a></li>
+<li><a href="https://win-forum.techidaily.com/convert-wma-to-wmv-for-free-quick-and-easy-online-tool-by-movievault/"><u>Convert WMA to WMV for Free - Quick and Easy Online Tool by MovieVault</u></a></li>
+<li><a href="https://win-forum.techidaily.com/convert-your-videos-from-avi-to-mp3-for-free-on-the-web-quick-and-trustworthy-conversion-by-movavi/"><u>Convert Your Videos From AVI to MP3 for Free on the Web: Quick and Trustworthy Conversion by Movavi</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/delving-into-the-drawbacks-of-vr-experiences/"><u>Delving Into the Drawbacks of VR Experiences</u></a></li>
+<li><a href="https://win-forum.techidaily.com/discover-the-ultimate-list-of-no-cost-webcam-tools-for-pc-users-windows-nt/"><u>Discover the Ultimate List of No-Cost Webcam Tools for PC Users (Windows nT)</u></a></li>
+<li><a href="https://fox-that.techidaily.com/error-14-on-your-iphone-heres-how-to-fix-it/"><u>Error 14 on Your iPhone? Here's How to Fix It</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-a-frozen-windows-10-taskbar-best-practices-and-techniques-that-work/"><u>Fixing a Frozen Windows 10 Taskbar: Best Practices and Techniques That Work</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-your-samsung-galaxy-xcover-7-lock-screen-password-by-drfone-android/"><u>How to Reset your Samsung Galaxy XCover 7 Lock Screen Password</u></a></li>
+<li><a href="https://win-forum.techidaily.com/no-cost-file-conversion-to-wmv-with-movavis-reliable-online-service/"><u>No Cost File Conversion to WMV with Movavi's Reliable Online Service</u></a></li>
+<li><a href="https://win-forum.techidaily.com/nyttarns-11-bedste-programvare-for-professionell-videoredigering-din-guide-for-202naet/"><u>Nyttårns 11 Bedste Programvare for Professionell Videoredigering: Din Guide for 202Nået</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-free-watermark-free-video-editors-for-windows-users/"><u>Top Free Watermark-Free Video Editors for Windows Users</u></a></li>
+<li><a href="https://win-forum.techidaily.com/trasformare-i-file-dpx-in-formato-tiff-gratuitamente-online-con-movavi/"><u>Trasformare I File DPX in Formato TIFF Gratuitamente Online Con Movavi</u></a></li>
+<li><a href="https://driver-install.techidaily.com/update-xerox-c6515-os/"><u>Update Xerox C6515 OS</u></a></li>
+</ul></div>
 

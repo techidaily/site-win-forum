@@ -1,7 +1,7 @@
 ---
 title: "Social Media Showdown: Unpacking Facebook, Twitter, Instagram vs YouTube Influence"
-date: 2024-08-18T10:51:17.612Z
-updated: 2024-08-19T10:51:17.612Z
+date: 2024-12-01T01:43:57.284Z
+updated: 2024-12-03T03:08:14.648Z
 tags:
   - win11
   - win10
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/d4a369170dd24048d49b11ae6cda29b689bc2d38a
 ---
 
 ## Connecting the World: The Impact of Facebook, Twitter, Instagram and YouTube on Social Media
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## [How to check Windows 10 PowerShell version](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1)
 
@@ -31,8 +35,9 @@ thumbnail: https://thmb.techidaily.com/d4a369170dd24048d49b11ae6cda29b689bc2d38a
  Since 2016 PowerShell was announced as open-source and cross-platform. You can use it on macOS and Linux too. Although it is native to Windows OS, and Microsoft only supports security updates and bug fixes, PowerShell Core is being worked on to clear these issues with other OS.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Why is it important to know which PowerShell version you are running?
 
  PowerShell had many versions during the year starting with version 1.0 back in 2006\. The newest version( version 7) comes with the following new features:
@@ -44,9 +49,6 @@ thumbnail: https://thmb.techidaily.com/d4a369170dd24048d49b11ae6cda29b689bc2d38a
 
  We are saying all this, so you can know that not all PowerShell versions are the same. A lot of people need assistance when they try to figure out what PowerShell version they are running. Therefore we created this small guide with all the ways you can check.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to check what PowerShell version I have installed?
 
  First, you need to open PowerShell. Simply open the Windows Start Menu and type in the search bar PowerShell, and click on the app.
@@ -55,19 +57,21 @@ thumbnail: https://thmb.techidaily.com/d4a369170dd24048d49b11ae6cda29b689bc2d38a
 
  You will see a window, where you enter the following command**$PSVersionTable.PSVersion** , and hit Enter. In the screenshot below you can see an example where you can find the version.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![PSVersion command](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/check-win10-powershell-version/powershell-version-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Another method that you can use to check what PowerShell version you are running is to use the command “Get-Host”
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ![Get Host command](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/check-win10-powershell-version/powershell-version-2.png)
 
  The last method we will show you is by using the command “$host.version”. You will see the PowerShell version in a slightly different format. You will be able to see the Major and Minor release and the build number and revision.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How can I upgrade to a newer version of PowerShell?
 
@@ -77,15 +81,12 @@ thumbnail: https://thmb.techidaily.com/d4a369170dd24048d49b11ae6cda29b689bc2d38a
 
  Overall PowerShell can help you with automating some of the tasks that you are doing on regular basis on your PC. By knowing which version you are running and how to upgrade it you will be able to utilize it without any issues.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## We can help you every time when…
 
 * you cannot find the program in the Apps & Features list
@@ -101,8 +102,6 @@ thumbnail: https://thmb.techidaily.com/d4a369170dd24048d49b11ae6cda29b689bc2d38a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -110,4 +109,23 @@ thumbnail: https://thmb.techidaily.com/d4a369170dd24048d49b11ae6cda29b689bc2d38a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-top-igtv-gurus-you-cant-miss/"><u>[New] 2024 Approved Top IGTV Gurus You Can't Miss</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-canon-cameras-vividness-with-free-and-paid-lut-sets/"><u>[New] Canon Cameras' Vividness with Free & Paid LUT Sets</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-thor-vs-jormungandr-ragnaroks-eve/"><u>[Updated] 2024 Approved Thor vs Jormungandr Ragnarok's Eve</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-from-novice-to-expert-pro-gopro-filming-made-easy/"><u>[Updated] From Novice to Expert Pro Gopro Filming Made Easy</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-seamlessly-download-youtube-thumbnails-online/"><u>2024 Approved Seamlessly Download YouTube Thumbnails Online</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/expert-evaluation-of-philips-somneo-premier-alarm-clock-assessment/"><u>Expert Evaluation of Philips Somneo: Premier Alarm Clock Assessment</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-major-social-channels-insights-on-facebook-twitter-instagram-and-youtube/"><u>Navigating Major Social Channels: Insights on Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-giants-of-online-networking-fb-twitter-instagram-and-yt/"><u>Navigating the Giants of Online Networking: FB, TWITTER, INSTAGRAM & YT</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-social-sphere-an-in-depth-look-at-facebook-twitter-instagram-and-youtube-trends/"><u>Navigating the Social Sphere: An In-Depth Look at Facebook, Twitter, Instagram, and YouTube Trends</u></a></li>
+<li><a href="https://win-forum.techidaily.com/new-release-alert-elevate-your-computers-performance-with-revo-uninstaller-pro-eb-version/"><u>New Release Alert: Elevate Your Computer's Performance with Revo Uninstaller Pro Eb Version</u></a></li>
+<li><a href="https://win-forum.techidaily.com/overcoming-computer-lockups-expert-strategies-to-keep-your-system-flowing/"><u>Overcoming Computer Lockups: Expert Strategies to Keep Your System Flowing</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/pioneering-tools-to-embellish-photos-with-words-for-2024/"><u>Pioneering Tools to Embellish Photos with Words for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/professional-methods-to-uninstall-users-from-windows-10-platform-effectively/"><u>Professional Methods to Uninstall Users From Windows 10 Platform Effectively</u></a></li>
+<li><a href="https://win-forum.techidaily.com/quick-fix-guide-resolve-persistent-crashing-issues-with-windows-explorer/"><u>Quick Fix Guide: Resolve Persistent Crashing Issues with Windows Explorer</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transferez-facilement-un-fichier-pgm-en-format-bmp-sans-couts-mouvavi/"><u>Transférez Facilement Un Fichier PGM en Format BMP Sans Coûts - Mouvavi</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/vimeo-to-visual-story-crafting-gifs-from-captivating-videos/"><u>Vimeo to Visual Story Crafting GIFs From Captivating Videos</u></a></li>
+</ul></div>
 

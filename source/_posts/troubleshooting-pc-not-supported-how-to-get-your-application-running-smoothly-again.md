@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting 'PC Not Supported': How to Get Your Application Running Smoothly Again"
-date: 2024-08-18T10:45:50.239Z
-updated: 2024-08-19T10:45:50.239Z
+date: 2024-11-30T19:13:09.665Z
+updated: 2024-12-03T05:44:01.493Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/37824763b4fe230259d6bef6fbaeb97e72f010976
 
 ## Navigating the Web of Communication on Leading Platforms: Facebook, Twitter, Instagram, and Youtube
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ## [How to Force Delete a Folder – Windows 10 & 11](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1)
 
 * Share
@@ -37,19 +34,17 @@ thumbnail: https://thmb.techidaily.com/37824763b4fe230259d6bef6fbaeb97e72f010976
 
  If nothing of the aforementioned scenarios applies to your situation, you could choose to use one of the following:
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## Method 1: Use Command Prompt
 
  Using Command Prompt is a quick way to delete a folder. You can use this tool to run a command that deletes the folder you’ve chosen.
 
  To begin, open your “Start” menu and look for “Command Prompt.” Then, on the right, select “Run as Administrator.”
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ![run as Administrator](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/force-delete-folder/method-1-command-prompt.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 A “User Account Control” prompt will appear. Choose “Yes.”
 
@@ -67,8 +62,9 @@ If your path contains spaces, enclose it with double quotes.
 ![command prompt](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/force-delete-folder/method-1-command-prompts-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Method 2: Boot in Windows Safe Mode
 
  If you are unsure which app has hijacked your folder and prevented you from deleting it, restart your PC in safe mode and then attempt to delete the folder. In safe mode, your PC only loads the necessary Windows files, preventing any third-party apps from launching automatically.
@@ -83,6 +79,10 @@ Your folder has been deleted.
 
  You may also want to remove the folder from the Recycle Bin, which you can do by opening it, right-clicking your folder, and selecting**“Delete”** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 3: Use WinRAR to Force Remove Folders
 
  This may sound strange, but you can delete stubborn folders using[WinRAR](https://www.win-rar.com/) (a file compression app). This works by creating an archive from your “undeletable” folder and then asking the app to delete the original folder after the archive is created.
@@ -93,16 +93,10 @@ Your folder has been deleted.
 
  When your computer restarts, launch File Explorer and navigate to the folder you want to delete. Then, right-click on this folder and select**“Add to Archive”**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add to archive](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/force-delete-folder/method-3-add-to-archive.jpg)
 
  On the “Archive Name and Parameters” window, in the “Archiving Options” section, enable the “Delete Files After Archiving” option. Then, at the bottom of the window, select “OK.”
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ![archive](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/force-delete-folder/method-3-add-to-archive-2.jpg)
 
  Allow WinRAR to create an archive from the folder you’ve chosen. After that, WinRAR will delete the original folder. You may now delete your recently created archive.
@@ -110,6 +104,14 @@ Your folder has been deleted.
  That’s how you get rid of any unwanted or stubborn folders on your Windows PC.
 
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## We can help you every time when…
 
@@ -126,8 +128,6 @@ Your folder has been deleted.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -135,4 +135,20 @@ Your folder has been deleted.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-best-of-breed-pages-for-sparkling-3d-text/"><u>[Updated] In 2024, Best of Breed Pages for Sparkling 3D Text</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/about-vivo-y78plus-frp-bypass-by-drfone-android/"><u>About Vivo Y78+ FRP Bypass</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/best-5-fpv-goggles-for-drone-racing-for-2024/"><u>Best 5 FPV Goggles for Drone Racing for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/break-the-1k-barrier-stream-youtube-successfully-from-a-phone-for-2024/"><u>Break the 1K Barrier Stream Youtube Successfully From a Phone for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/enhancing-your-virtual-wellbeing-by-organizing-your-cyber-footprint-discover-how/"><u>Enhancing Your Virtual Wellbeing by Organizing Your Cyber Footprint - Discover How!</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/fixing-printer-network-issues-a-step-by-step-guide-by-yl-technology-experts/"><u>Fixing Printer Network Issues: A Step-by-Step Guide by YL Technology Experts</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/leveraging-social-giants-tactics-for-facebook-twitter-instagram-and-youtube-success/"><u>Leveraging Social Giants: Tactics for Facebook, Twitter, Instagram & YouTube Success</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-major-networking-sites-insights-into-facebook-twitter-instagram-and-youtube/"><u>Navigating Major Networking Sites: Insights Into Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/new-beginnings-in-windows-11-heres-your-guide-to-a-full-system-restore/"><u>New Beginnings in Windows 11? Here's Your Guide to a Full System Restore</u></a></li>
+<li><a href="https://win-forum.techidaily.com/solve-internet-issues-with-ease-flushing-the-dns-on-your-windows-pcs/"><u>Solve Internet Issues with Ease: Flushing the DNS on Your Windows PCs</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-top-four-digital-connectors-facebook-twitter-instagram-and-you-tube/"><u>The Top Four Digital Connectors: Facebook, Twitter, Instagram and You-Tube</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/why-ai-based-plagiarism-tools-fail-the-hidden-consequences/"><u>Why AI-Based Plagiarism Tools Fail - The Hidden Consequences</u></a></li>
+</ul></div>
 
