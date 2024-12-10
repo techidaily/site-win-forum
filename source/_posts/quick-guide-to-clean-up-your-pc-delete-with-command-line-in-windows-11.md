@@ -1,7 +1,7 @@
 ---
 title: "Quick Guide to Clean Up Your PC: Delete with Command Line in Windows 11"
-date: 2024-08-18T10:55:04.001Z
-updated: 2024-08-19T10:55:04.001Z
+date: 2024-12-05T05:14:15.556Z
+updated: 2024-12-10T01:19:08.281Z
 tags:
   - win11
   - win10
@@ -15,6 +15,10 @@ thumbnail: https://thmb.techidaily.com/6a3b42ee0f491feaaae6060437bee4c1fe86f210f
 
 ## Protect Your Sensitive Information: How to Securely Password-Lock Text Files with Revo Uninstaller
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## [How to Password protect a text file](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1)
 
 * Share
@@ -26,9 +30,6 @@ thumbnail: https://thmb.techidaily.com/6a3b42ee0f491feaaae6060437bee4c1fe86f210f
 
  Text file password protection is an essential feature when it comes to safeguarding sensitive information. In today’s digital age, there are various ways to protect your confidential files from unauthorized access. One of the most common methods is by password-protecting your text files. This article will guide you through the steps on how to password-protect a text file.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Password protect a text file
 
  To ensure data protection and password-protect your text file, create the file you wish to safeguard. You may utilize any text editor, such as Notepad, TextEdit, or Microsoft Word, to generate a new text file.
@@ -37,11 +38,12 @@ After that, you need to do the following:
 
 1. Right-click on the text file and choose**Properties** .
 2. Under the General tab, click the**Advanced** button and then select**Encrypt Contents to Secure Data** on the new window. Click**OK** and then**Apply** .  
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![encrypt contents](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/password-protect-text-files/how-to-password-protect-a-text-files-step-2.png)
 3. Continue clicking the**Encrypt the File Only** option and click**OK** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to encrypt your text file
 
@@ -62,8 +64,9 @@ Some of the popular encryption tools are
  These tools will allow you to encrypt your file with a password. Choose the one that suits your needs and download it from their official website. Once downloaded, install the software on your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Encrypt your text files with WinRar to password protect your text files
 
  To show you an example we will take a look at how to encrypt your text files with WinRar.
@@ -78,20 +81,19 @@ So, here are the steps to follow:
 3. Enter the password you prepared and click**OK** .
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
  Password-protecting your text files is a simple yet effective way to safeguard sensitive information. By using encryption software, you can easily protect your files from unauthorized access. Remember to choose a strong password and delete the original unencrypted text file to ensure maximum security.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## We can help you every time when…
 
 * you cannot find the program in the Apps & Features list
@@ -107,8 +109,6 @@ So, here are the steps to follow:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -116,4 +116,19 @@ So, here are the steps to follow:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/ed-champion-of-cinematography-audio-visual-artistry/"><u>[Updated] Champion of Cinematography Audio-Visual Artistry</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-fishing-footage-kings-select-the-best-camers-for-2024/"><u>[Updated] Fishing Footage Kings Select the Best Camers for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-making-a-splash-with-youtube-ad-banners-and-thumbnails/"><u>2024 Approved Making a Splash with YouTube Ad Banners & Thumbnails</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/complete-data-restoration-tools-universal-software-solutions-by-expert-techies/"><u>Complete Data Restoration Tools: Universal Software Solutions by Expert Techies</u></a></li>
+<li><a href="https://win-forum.techidaily.com/connect-share-engage-unleashing-the-power-of-facebook-twitter-instagram-and-youtube/"><u>Connect, Share, Engage: Unleashing the Power of Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/decoding-the-progression-of-ipados-a-chronological-versions-overview/"><u>Decoding the Progression of iPadOS: A Chronological Versions Overview</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-erase-user-data-from-your-pc-a-focus-on-windows-10-and-revouninstaller-techniques/"><u>How to Erase User Data From Your PC: A Focus on Windows 10 and RevoUninstaller Techniques</u></a></li>
+<li><a href="https://win-forum.techidaily.com/master-the-art-of-force-quitting-stubborn-windows-software-instantly/"><u>Master the Art of Force Quitting Stubborn Windows Software Instantly!</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-solving-non-functional-dell-audio-devices/"><u>Troubleshooting Guide: Solving Non-Functional Dell Audio Devices</u></a></li>
+<li><a href="https://win-forum.techidaily.com/ultimate-walkthrough-for-eliminating-users-in-windows-10-via-revo-uninstaller/"><u>Ultimate Walkthrough for Eliminating Users in Windows 10 via Revo Uninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/understanding-the-big-four-a-deep-dive-into-facebook-twitter-instagram-and-youtube/"><u>Understanding the Big Four: A Deep Dive Into Facebook, Twitter, Instagram and Youtube</u></a></li>
+<li><a href="https://win11.techidaily.com/workspace-efficiency-attach-gmail-to-desktop-border/"><u>Workspace Efficiency: Attach Gmail to Desktop Border</u></a></li>
+</ul></div>
 

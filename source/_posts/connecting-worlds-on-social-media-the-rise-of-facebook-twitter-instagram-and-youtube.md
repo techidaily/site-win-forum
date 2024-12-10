@@ -1,7 +1,7 @@
 ---
 title: "Connecting Worlds on Social Media: The Rise of Facebook, Twitter, Instagram & Youtube"
-date: 2024-08-18T10:55:31.860Z
-updated: 2024-08-19T10:55:31.860Z
+date: 2024-12-07T21:36:33.953Z
+updated: 2024-12-10T03:04:17.608Z
 tags:
   - win11
   - win10
@@ -41,17 +41,15 @@ thumbnail: https://thmb.techidaily.com/fb9800d0908e1be810fcc7b3cec05fac87c5747d2
  Windows 11 is a relatively new operating system, and as with any software, it may have certain bugs or compatibility issues that can trigger error messages. When Microsoft releases updates for Windows 11, it aims to address these issues and improve the system’s stability. However, sometimes the update process itself can encounter errors, leading to the “Something Didn’t Go As Planned” error.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## So how do you resolve the “Something Didn’t Go As Planned” error?
 
 1. Restart your computer: A simple restart can often resolve many software-related issues. Click on the Start button, select the Power icon, and choose Restart. Allow your computer to restart and see if the error message persists.
 2. Update Windows 11: Microsoft regularly releases updates to address bugs and improve system stability. Ensure that your Windows 11 installation is up to date.  
    1. Go to Settings, select Windows Update  
    2. Click on the**“Check for updates”** button.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
    ![check for updates](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/something-didnt-go-as-planned-error/method-2-windows-update.jpg)  
    3. If any updates are available, download and install them.  
    4. Restart your computer if prompted.
@@ -59,30 +57,36 @@ thumbnail: https://thmb.techidaily.com/fb9800d0908e1be810fcc7b3cec05fac87c5747d2
    1. Open the Settings app, and navigate to Update & Security.  
    2. Select Troubleshoot from the left-hand side menu.  
    3. Click on Additional Troubleshooters  
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
    ![troubleshoot](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/something-didnt-go-as-planned-error/method-3-windows-update.jpg)  
    4. Select Windows Update and follow the on-screen instructions to run the troubleshooter.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Check for hardware compatibility issues: Windows 11 has specific system requirements, and not all computers may be compatible with the new operating system. Ensure that your hardware meets the minimum requirements for Windows 11\. Visit the official Microsoft website or use the PC Health Check tool to determine if your system is compatible.
 5. Perform a clean boot: Sometimes, third-party applications or services can conflict with Windows and cause errors. Performing a clean boot helps you identify if any non-Microsoft services are causing the “Something Didn’t Go As Planned” error.  
    1. Press Windows + R, type “msconfig,” and hit Enter.  
    2. In the System Configuration window, go to the Services tab and check the “Hide all Microsoft services” box.  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
    ![system configuration](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/something-didnt-go-as-planned-error/method-5-system-configuration-step-b.jpg)  
    3. Click on “Disable all” and then go to the Startup tab, selecting “Open Task Manager.”  
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
    ![system configuration](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/something-didnt-go-as-planned-error/method-5-system-configuration-step-c.jpg)  
    4. Disable all the startup applications one by one.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
    5. Restart your computer, and check if the error persists.
 6. Use System File Checker (SFC) and DISM: Corrupted system files can lead to various errors in Windows, including the “Something Didn’t Go As Planned” error. To fix this, you can use the built-in System File Checker (SFC) and Deployment Image Servicing and Management (DISM) tools. Open Command Prompt as an administrator, then run the following commands one by one:  
    * sfc /scannow  
    ![command prompt](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/something-didnt-go-as-planned-error/method-6-command-prompt-1.jpg)  
    * dism /online /cleanup-image /restorehealth  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
    ![command prompt](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/something-didnt-go-as-planned-error/method-6-command-prompt-2.jpg)  
 Wait for the process to complete and restart your computer.
 7. Perform a system restore: If you recently made any changes to your system, such as installing new software or drivers, and started encountering the error, performing a system restore can help revert your system back to a working state. Open the Control Panel, select System and Security, and choose System. Click on “System Protection” from the left-hand side menu, then click on[“System Restore.”](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1) Follow the on-screen instructions to restore your system to an earlier point.
@@ -92,10 +96,11 @@ Wait for the process to complete and restart your computer.
 
  In conclusion, encountering errors in Windows 11, such as the “Something Didn’t Go As Planned” error, can be frustrating. However, by following the troubleshooting steps outlined above, you can increase your chances of resolving the issue and getting your system back up and running smoothly.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## We can help you every time when…
 
@@ -112,8 +117,6 @@ Wait for the process to complete and restart your computer.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -121,4 +124,21 @@ Wait for the process to complete and restart your computer.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-channel-conclusion-mastery-customized-screens-in-focus/"><u>[Updated] In 2024, Channel Conclusion Mastery Customized Screens in Focus</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-sculpting-soundscapes-the-fading-trick/"><u>[Updated] Sculpting Soundscapes The Fading Trick</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-advanced-computers-at-your-fingertips/"><u>2024 Approved Advanced Computers at Your Fingertips</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/7-best-real-time-video-translation-apps/"><u>7 Best Real Time Video Translation Apps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/building-compelling-dandd-figures-using-gpt-and-generative-ai/"><u>Building Compelling D&D Figures Using GPT and Generative AI</u></a></li>
+<li><a href="https://win-forum.techidaily.com/connecting-worlds-on-major-websites-friendsbook-chirper-pictureshare-and-moviemaker/"><u>Connecting Worlds on Major Websites: FriendsBook, Chirper, PictureShare, and Moviemaker</u></a></li>
+<li><a href="https://win-forum.techidaily.com/efficiently-reclaim-disk-space-on-your-computer-running-windows-11/"><u>Efficiently Reclaim Disk Space on Your Computer Running Windows 11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-the-basics-of-bios-and-its-relation-to-uninstallers-like-revo/"><u>Exploring the Basics of BIOS and Its Relation to Uninstallers Like Revo</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-my-nokia-c22-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Nokia C22 Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-vivo-y17s-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Vivo Y17s | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-frame-finesse-selecting-superior-video-cams-for-slow-motion/"><u>In 2024, Frame Finesse Selecting Superior Video Cams for Slow Motion</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/installez-aucun-cout-la-cle-de-chiffrement-dvd-premium-polyvalente-pour-tous-modeles-dvd/"><u>Installez Aucun Coût: La Clé De Chiffrement DVD Premium Polyvalente Pour Tous Modèles DVD</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-powerhouses-of-online-engagement-facebook-twitter-instagram-and-youtube-explained/"><u>The Powerhouses of Online Engagement: Facebook, Twitter, Instagram & YouTube Explained</u></a></li>
+<li><a href="https://win-forum.techidaily.com/ultimate-solution-force-quitting-non-responding-windows-software-via-revouninstaller/"><u>Ultimate Solution: Force Quitting Non-Responding Windows Software via RevoUninstaller</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Social Media Unveiled: From Tweets and Snaps (Instagram) to Videos and Likes"
-date: 2024-08-18T10:57:19.395Z
-updated: 2024-08-19T10:57:19.395Z
+date: 2024-12-03T07:19:35.896Z
+updated: 2024-12-10T06:23:29.139Z
 tags:
   - win11
   - win10
@@ -16,8 +16,9 @@ thumbnail: https://thmb.techidaily.com/7677f4cd9df16c6a66672a56bd970deac980e4b07
 ## The Ultimate Guide to Major Social Media Sites: Twitter, Instagram & More
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## [How to Free Up Drive Space in Windows 11](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1)
 
 * Share
@@ -33,22 +34,25 @@ thumbnail: https://thmb.techidaily.com/7677f4cd9df16c6a66672a56bd970deac980e4b07
 
  Windows 11 has several neat settings that you can use to get rid of temporary and system files or any other files that can fill up your storage space. Note that your important files will be safe as Windows 11 helps you decide what you need to delete to improve the performance of your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ## How to automatically free up drive space in Windows 11
 
 1. Press**Win Key + S** to open the Windows search and type Storage Settings and click on it.  
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Storage settings](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/free-up-drive-space/Method1-step-1.png)
 2. Click on**Storage**  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If this is the first time you go into your Storage settings, it will take several seconds for your PC to analyze your stored data. You will get full information about your files on your PC such as temporary files, apps and features, and others.
 3. Turn ON the**Storage Sense** . By enabling this feature, your PC will automatically begin deleting temporary files, old downloads, and emptying your recycle bin when it is running low on space.  
 ![Storage sense](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/free-up-drive-space/Method1-step-2.jpg)
 
  When you turn on Storage Sense you will see a few more options. As we mention in the introduction, these options will help you determine which files are important, so you do not lose important information.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to manually free drive space after you upgrade to Windows 11
 
@@ -59,21 +63,16 @@ thumbnail: https://thmb.techidaily.com/7677f4cd9df16c6a66672a56bd970deac980e4b07
 ![disk cleanup](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/free-up-drive-space/Method2-step-2.png)
 3. Select the drive you want to scan. In 99% of the cases, it is drive C: where most of the temporary and junk files are stored.
 4. Click the**Clean up system files button** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![clean up system files](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/free-up-drive-space/Method2-step-4.png)
 5. Select the same system drive and click OK.
 6. Select**Windows Update Cleanup** and**Previous Windows Installation** options if available.  
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![windows update cleanup](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/free-up-drive-space/Method2-step-6.png)
 7. Click**OK** and then click**Delete Files** to confirm the action. Make sure you are deleting the correct files. This is a permanent action and it will**permanently delete** all the files you’ve selected.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Free up drive space with Revo Uninstaller Pro
 
  The most common culprit of a full hard drive is the big number of apps and software installed on your computer.
@@ -87,6 +86,10 @@ thumbnail: https://thmb.techidaily.com/7677f4cd9df16c6a66672a56bd970deac980e4b07
  Performing a routine cleanup task can help you remove junk files that you have no use for and reclaim a ton of precious storage space. Enabling Storage Sense is an easy way to make sure that old temporary and junk files are removed from your hard drive and do not take extra space.
 
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## We can help you every time when…
 
@@ -103,8 +106,6 @@ thumbnail: https://thmb.techidaily.com/7677f4cd9df16c6a66672a56bd970deac980e4b07
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -112,4 +113,24 @@ thumbnail: https://thmb.techidaily.com/7677f4cd9df16c6a66672a56bd970deac980e4b07
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-capture-your-overwatch-saga-effortlessly/"><u>[Updated] In 2024, Capture Your Overwatch Saga Effortlessly</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-navigating-board-usage-a-universal-guide-for-ios-android-and-windows-platforms-for-2024/"><u>[Updated] Navigating Board Usage A Universal Guide for iOS, Android & Windows Platforms for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-ace-your-workflow-fast-signature-backdrop-elimination/"><u>2024 Approved Ace Your Workflow Fast Signature Backdrop Elimination</u></a></li>
+<li><a href="https://win-forum.techidaily.com/comparing-the-giants-of-digital-sharing-facebook-twitter-instagram-and-youtube/"><u>Comparing the Giants of Digital Sharing: Facebook, Twitter, Instagram and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/fix-your-crashing-file-explorer-7-essential-troubleshooting-steps/"><u>Fix Your Crashing File Explorer: 7 Essential Troubleshooting Steps</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/free-online-webinar-conduct-with-youtube/"><u>Free Online Webinar Conduct with YouTube</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Oppo Find X7? | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-camera-cuts-quality-is-splitcam-best/"><u>In 2024, Camera Cuts Quality Is SplitCam Best?</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-interpreting-differences-360-and-virtual-reality-cinematography/"><u>In 2024, Interpreting Differences 360° and Virtual Reality Cinematography</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-world-of-social-media-with-facebook-twitter-instagram-and-youtube/"><u>Navigating the World of Social Media with Facebook, Twitter, Instagram, and Youtube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/revo-uninstaller-pro-5-the-ultimate-software-removal-solution/"><u>Revo Uninstaller Pro 5: The Ultimate Software Removal Solution</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-disabling-and-uninstalling-browser-add-ons-in-windows-11/"><u>Step-by-Step Guide: Disabling & Uninstalling Browser Add-Ons in Windows 11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/telechargement-gratuit-transformez-vos-fichiers-wav-en-format-aiff-via-le-convertisseur-en-ligne-de-movavi/"><u>Téléchargement Gratuit : Transformez Vos Fichiers WAV en Format AIFF via Le Convertisseur en Ligne De Movavi</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-big-four-in-digital-sphere-exploring-facebook-twitter-instagram-and-youtube/"><u>The Big Four in Digital Sphere: Exploring Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-big-four-in-social-sphere-connecting-with-facebook-twitter-instagram-and-youtube/"><u>The Big Four in Social Sphere: Connecting with Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-12-prominent-samsung-galaxy-f34-5g-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Samsung Galaxy F34 5G Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://win-forum.techidaily.com/understanding-modern-communication-with-facebook-twitter-instagram-and-youtube/"><u>Understanding Modern Communication with Facebook, Twitter, Instagram & Youtube</u></a></li>
+</ul></div>
 
