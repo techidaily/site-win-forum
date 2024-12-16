@@ -1,7 +1,7 @@
 ---
 title: "The Quintessential Quadruplet of Online Networks: Facebook, Twitter, Instagram & Youtube Unveiled"
-date: 2024-08-18T11:01:01.197Z
-updated: 2024-08-19T11:01:01.197Z
+date: 2024-12-11T00:12:12.047Z
+updated: 2024-12-16T14:07:12.342Z
 tags:
   - win11
   - win10
@@ -26,16 +26,14 @@ thumbnail: https://thmb.techidaily.com/a488fef564f5e308e5c3875f24f2cb9db2970eba8
 
  PowerShell is an amazing tool created by Microsoft so you can automate tasks. By knowing which PowerShell version you have access to, you will know what features you can use. There are more than 200 commands that can be used within PowerShell and it is a super flexible framework that will save you a bunch of time.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Can you use PowerShell only on your Windows computer?
 
  Since 2016 PowerShell was announced as open-source and cross-platform. You can use it on macOS and Linux too. Although it is native to Windows OS, and Microsoft only supports security updates and bug fixes, PowerShell Core is being worked on to clear these issues with other OS.
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Why is it important to know which PowerShell version you are running?
 
  PowerShell had many versions during the year starting with version 1.0 back in 2006\. The newest version( version 7) comes with the following new features:
@@ -48,8 +46,9 @@ thumbnail: https://thmb.techidaily.com/a488fef564f5e308e5c3875f24f2cb9db2970eba8
  We are saying all this, so you can know that not all PowerShell versions are the same. A lot of people need assistance when they try to figure out what PowerShell version they are running. Therefore we created this small guide with all the ways you can check.
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to check what PowerShell version I have installed?
 
  First, you need to open PowerShell. Simply open the Windows Start Menu and type in the search bar PowerShell, and click on the app.
@@ -58,23 +57,25 @@ thumbnail: https://thmb.techidaily.com/a488fef564f5e308e5c3875f24f2cb9db2970eba8
 
  You will see a window, where you enter the following command**$PSVersionTable.PSVersion** , and hit Enter. In the screenshot below you can see an example where you can find the version.
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![PSVersion command](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/check-win10-powershell-version/powershell-version-1.png)
 
  Another method that you can use to check what PowerShell version you are running is to use the command “Get-Host”
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ![Get Host command](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/check-win10-powershell-version/powershell-version-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The last method we will show you is by using the command “$host.version”. You will see the PowerShell version in a slightly different format. You will be able to see the Major and Minor release and the build number and revision.
 
 ## How can I upgrade to a newer version of PowerShell?
 
  You can run both Windows PowerShell and PowerShell 7.2 on the same computer. You do not have to worry about the lack of feature parity by upgrading. Simply keep the current Windows PowerShell installed and also download PowerShell. You can do that by going to its[GitHub release page](https://github.com/PowerShell/PowerShell/releases) . You will see a list of assets, where you can simply choose the OS you want to download for.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -83,8 +84,9 @@ thumbnail: https://thmb.techidaily.com/a488fef564f5e308e5c3875f24f2cb9db2970eba8
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## We can help you every time when…
 
 * you cannot find the program in the Apps & Features list
@@ -100,8 +102,6 @@ thumbnail: https://thmb.techidaily.com/a488fef564f5e308e5c3875f24f2cb9db2970eba8
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -109,4 +109,23 @@ thumbnail: https://thmb.techidaily.com/a488fef564f5e308e5c3875f24f2cb9db2970eba8
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-ultraview-app-functionality-survey/"><u>[New] In 2024, UltraView App Functionality Survey</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-immersion-in-metaverse-leading-hmds-reviewed/"><u>[Updated] 2024 Approved Immersion in Metaverse Leading HMDs Reviewed</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/a-comprehensive-guide-to-lut-customization-in-premiere-pro-workflows/"><u>A Comprehensive Guide to LUT Customization in Premiere Pro Workflows</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Tecno Spark 20C | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Oppo A79 5G | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/lenovo-tap-failure-now-fully-operational/"><u>Lenovo Tap Failure, Now Fully Operational</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/pro-gear-for-documenting-excursions/"><u>Pro Gear for Documenting Excursions</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-solutions-to-curb-full-hard-drive-utilization-in-windows-10/"><u>Step-by-Step Solutions to Curb Full Hard Drive Utilization in Windows 10</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-strategies-to-reduce-excessive-disk-load-and-improve-efficiency-in-windows-11/"><u>Step-by-Step Strategies to Reduce Excessive Disk Load and Improve Efficiency in Windows 11</u></a></li>
+<li><a href="https://howto.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-sony-xperia-1-v-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Sony Xperia 1 V | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-big-four-of-social-networking-navigating-facebook-twitter-instagram-and-youtube/"><u>The Big Four of Social Networking: Navigating Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-essential-playbook-for-social-media-savvy-understanding-facebook-twitter-instagram-and-youtube-dynamics/"><u>The Essential Playbook for Social Media Savvy: Understanding Facebook, Twitter, Instagram and YouTube Dynamics</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-top-social-media-giants-facebook-twitter-instagram-and-youtube/"><u>The Top Social Media Giants: Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-ultimate-tutorial-to-remove-resistant-folders-permanently-from-windows-11-computers/"><u>The Ultimate Tutorial to Remove Resistant Folders Permanently From Windows 11 Computers</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-four-platforms-of-social-networking-facebook-twitter-instagram-and-youtube/"><u>Top Four Platforms of Social Networking: Facebook, Twitter, Instagram & Youtube</u></a></li>
+<li><a href="https://win-guides.techidaily.com/vier-ansatze-zur-wiederherstellung-von-windows-11-aus-einer-fruheren-windows-10-version/"><u>Vier Ansätze Zur Wiederherstellung Von Windows 11 Aus Einer Früheren Windows 10-Version</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Easy Defrag Techniques on Windows 11 - Enhance Speed Using Revo Uninstaller Steps
-date: 2024-08-18T11:00:19.440Z
-updated: 2024-08-19T11:00:19.440Z
+date: 2024-12-14T18:19:07.134Z
+updated: 2024-12-16T05:41:47.090Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/0b4741c5a95a2eb27426575b3e77bfe93d41de0ce
 
 ## Windows 11 Launches Swiftly: Techniques for a Quicker Boot Experience
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## [How to Speed up Windows 11 boot time](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1)
 
 * Share
@@ -44,15 +41,9 @@ Here are the methods you can use to speed up your Windows 11 boot time:
 
 1. Press**Windows + I** to open Windows**Settings** .
 2. Click the**Apps** tab from the sidebar and tap on**Startup** in the right-hand pane to view all your startup apps.  
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![startup tab](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/speed-up-windows-11-boot-time/disable-startup-programs-in-windows-11-step-2.jpg)
 3. Finally, toggle the switch next to the apps you don’t want to run at startup. Under the toggle switch, you’ll see the status impact of each, which indicates what disabling them does to your system.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## II. Remove unnecessary files and programs
 
  Over time, your computer may become cluttered with unnecessary files and programs that can slow down your computer’s startup time. By removing these files and programs, you can speed up your Windows 11 boot time and improve your overall computer performance.
@@ -68,16 +59,22 @@ Here is how you can turn Fast Starup On:
 1. Press**Win + R** to open**Run** .
 2. Type`control` and click**OK** to open the Control Panel.
 3. Go to**System and Security** and then click on**Power Options** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ![startup options](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/speed-up-windows-11-boot-time/enable-fast-startup-step-2.png)
 4. In the left pane, click on**Choose what the power buttons do** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Next, click the**Change settings that are currently unavailable** link.
 6. Under the**Shutdown settings** section, check the**Turn on fast startup (recommended)** option to turn on the feature.
 7. Uncheck the**Turn on fast startup option** to turn it off.  
 ![fast startup](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/speed-up-windows-11-boot-time/enable-fast-startup-step-5.jpg)
 8. Click**Save changes** to apply the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## IV. Defragment your hard drive
 
@@ -88,12 +85,13 @@ Here is how you can turn Fast Starup On:
 1. Press the Windows key + S to open the search bar.
 2. Type in “Defragment and Optimize Drives” and select it from the search results.
 3. Select the hard drive you want to defragment.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![defragment hard drive](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/speed-up-windows-11-boot-time/defragment-your-hard-drive-step-3.png)
 4. Click on the Optimize button.
 5. Wait for the defragmentation process to complete.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## V. Use an SSD
 
@@ -102,8 +100,9 @@ Here is how you can turn Fast Starup On:
  In addition to upgrading your SSD, another way to speed up your PC’s boot time is to upgrade your RAM. With more RAM, your PC will have more volatile memory available to load temporary items, resulting in faster boot times and an overall improvement in your PC’s performance.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## VI. Adjust BIOS settings for faster Windows 11 boot time
 
  Adjusting the BIOS settings can help speed up the boot time on your Windows 11 computer. Here are the steps you need to follow in order to adjust your BIOS settings to improve your Windows 11 boot time:
@@ -117,6 +116,10 @@ Here is how you can turn Fast Starup On:
  In conclusion, these are some tips on how to speed up your Windows 11 boot time. By following these steps, you can optimize your computer’s performance and reduce the time it takes to start up.
 
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## We can help you every time when…
 
@@ -133,8 +136,6 @@ Here is how you can turn Fast Starup On:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -142,4 +143,17 @@ Here is how you can turn Fast Starup On:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-vectors-demystified-starting-point-and-software-selection-tips/"><u>[New] Vectors Demystified Starting Point & Software Selection Tips</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-maximizing-video-impact-a-comprehensive-guide-to-youtube-popularity/"><u>[Updated] In 2024, Maximizing Video Impact A Comprehensive Guide to YouTube Popularity</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-quintessential-preview-reels-set/"><u>2024 Approved Quintessential Preview Reels Set</u></a></li>
+<li><a href="https://win-answers.techidaily.com/clean-up/"><u>Clean-Up</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1810258-9781459731202-haunted-ontario-4/"><u>Haunted Ontario 4 | Free Book</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/integrating-multiple-m4v-videos-into-a-single-file-without-compromising-on-clarity/"><u>Integrating Multiple M4V Videos Into a Single File Without Compromising on Clarity</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-ultimate-cheat-sheet-for-executing-a-flawless-factory-reset-on-your-windows-10-system-with-revo-uninstaller-pro/"><u>The Ultimate Cheat Sheet for Executing a Flawless Factory Reset on Your Windows 10 System with Revo Uninstaller Pro</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-5-methods-for-securing-your-pc-expert-tips-on-fortifying-your-windows-defenses/"><u>Top 5 Methods for Securing Your PC: Expert Tips on Fortifying Your Windows Defenses</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-social-media-platforms-facebook-twitter-instagram-youtube-unveiled/"><u>Top Social Media Platforms: Facebook, Twitter, Instagram, YouTube Unveiled</u></a></li>
+<li><a href="https://win-forum.techidaily.com/troubleshooting-pc-not-supported-how-to-get-your-application-running-smoothly-again/"><u>Troubleshooting 'PC Not Supported': How to Get Your Application Running Smoothly Again</u></a></li>
+</ul></div>
 

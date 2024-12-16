@@ -1,7 +1,7 @@
 ---
 title: "Understanding the Impact of Major Social Sites: Facebook, Twitter, Instagram, YouTube"
-date: 2024-08-18T11:02:52.645Z
-updated: 2024-08-19T11:02:52.645Z
+date: 2024-12-11T01:45:01.370Z
+updated: 2024-12-16T10:05:51.794Z
 tags:
   - win11
   - win10
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/3d11ea0bfdce60d31e046d3cc7ec8c1b61d6f0342
 ---
 
 ## The Big Four of Social Networking - Facebook, Twitter, Instagram, and YouTube Explained
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## [5 Ways to Lock your Windows PC](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1)
 
@@ -28,13 +32,19 @@ thumbnail: https://thmb.techidaily.com/3d11ea0bfdce60d31e046d3cc7ec8c1b61d6f0342
 
  Below we will go through several methods of how to lock your Windows PC:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## I. To lock your Windows 11 PC through the Start menu, follow these steps
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 1. Click on the**‘Start’** button located at the bottom left corner of the screen or press the**‘Windows’** key on your keyboard to open the Start menu. ![Start menu lock](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/lock-pc/method-1-start-menu.png)
 2. In the Start menu, click on your user profile icon or name located at the top.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. This will open a menu with various options. Click on**‘Lock’** from the list of options.
 4. Alternatively, you can also press the**‘Windows’** key +**‘L’** on your keyboard as a shortcut to lock your PC instantly.
 
@@ -44,24 +54,20 @@ thumbnail: https://thmb.techidaily.com/3d11ea0bfdce60d31e046d3cc7ec8c1b61d6f0342
 2. From the context menu, select**“Task Manager”** . Alternatively, you can press**Ctrl + Shift + Esc** on your keyboard to open Task Manager directly.
 3. Once Task Manager opens, go to the**“File”** menu located in the top left corner of the window.
 4. Select**“App History”**
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 5. From the dropdown menu, select**“Run new task”** . ![Run new task](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/lock-pc/method-2-task-manager-1.png)
 6. In the**“Create new task”** window, type**“tsdiscon”** (short for “Terminal Services Disconnect”) into the text field. ![Create new task](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/lock-pc/method-2-task-manager-2.png)
 7. Check the box next to**“Create this task with administrative privileges”** .
-8. Click**“OK”** .
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+8. Click**“OK”** .
+
 ## III. How to Lock a Windows 11 computer via the Ctrl + Alt + Delete Menu
 
  Pressing**Ctrl + Alt + Delete** triggers a distinct Windows menu to appear on your screen, offering a range of functionalities. Among these options is the Task Manager, granting you the capability to perform several actions, including switching user accounts, changing passwords, and, most notably for our discussion, locking your PC. Simply selecting**“Lock”** from this menu instantly secures your Windows 11 device.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ## IV. Lock your PC via the Command Prompt
 
  Locking your Windows 11 system is also possible through the Command Prompt, which is a text-based user interface accepting keyboard input.
@@ -69,9 +75,6 @@ thumbnail: https://thmb.techidaily.com/3d11ea0bfdce60d31e046d3cc7ec8c1b61d6f0342
  To initiate this process, begin by accessing the Start menu search bar. Enter “Command Prompt” and select the best match. Once the Command Prompt window opens, input the following command and press Enter:  
 **Rundll32.exe user32.dll,LockWorkStation**
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ## V. How to lock your computer with Dynamic Lock
 
  Locking your Windows 11 PC with Dynamic Lock offers an additional layer of security by automatically securing your device when you step away. Dynamic Lock utilizes the presence of a paired Bluetooth device to determine your proximity to the PC. When you move out of range, your PC locks itself to prevent unauthorized access. Here’s how to set it up:
@@ -90,8 +93,9 @@ thumbnail: https://thmb.techidaily.com/3d11ea0bfdce60d31e046d3cc7ec8c1b61d6f0342
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## We can help you every time when…
 
 * you cannot find the program in the Apps & Features list
@@ -107,8 +111,6 @@ thumbnail: https://thmb.techidaily.com/3d11ea0bfdce60d31e046d3cc7ec8c1b61d6f0342
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -116,4 +118,22 @@ thumbnail: https://thmb.techidaily.com/3d11ea0bfdce60d31e046d3cc7ec8c1b61d6f0342
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-conduct-a-symphony-on-the-ppt-stage/"><u>[New] In 2024, Conduct a Symphony on the PPT Stage</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-reinstate-windows-photo-viewer-on-windows-10-dual-fixes-explained/"><u>[Updated] 2024 Approved Reinstate Windows Photo Viewer on Windows 10 Dual Fixes Explained</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-drones-for-beginners-10-must-have-mini-choices/"><u>[Updated] In 2024, Drones for Beginners 10 Must-Have Mini Choices</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-the-art-of-amplification-masterful-youtube-tagging-tips/"><u>2024 Approved The Art of Amplification Masterful YouTube Tagging Tips</u></a></li>
+<li><a href="https://win-premium.techidaily.com/enhance-gaming-and-performance-how-to-install-latest-gpu-drivers-in-windows-with-yls-expert-advice/"><u>Enhance Gaming & Performance: How to Install Latest GPU Drivers in Windows with YL's Expert Advice</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Infinix Hot 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/oneplus-9-review/"><u>OnePlus 9 Review</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-social-media-powerhouses-a-guide-to-facebook-twitter-instagram-and-youtube-strategies/"><u>The Social Media Powerhouses: A Guide to Facebook, Twitter, Instagram and YouTube Strategies</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-windows-registry-explained-key-insights-from-revouninstallers-perspective/"><u>The Windows Registry Explained - Key Insights From RevoUninstaller's Perspective</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-social-platforms-explored-facebook-twitter-instagram-and-youtube/"><u>Top Social Platforms Explored: Facebook, Twitter, Instagram and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/troubleshooting-persistent-frozen-screen-solutions-and-tips/"><u>Troubleshooting Persistent Frozen Screen: Solutions & Tips</u></a></li>
+<li><a href="https://win-forum.techidaily.com/troubleshooting-tips-how-to-quickly-close-frozen-programs-on-windows-11-computers/"><u>Troubleshooting Tips: How To Quickly Close Frozen Programs on Windows 11 Computers</u></a></li>
+<li><a href="https://win-forum.techidaily.com/troubleshooting-tips-how-to-rollback-recent-windows-11-updates-successfully/"><u>Troubleshooting Tips: How to Rollback Recent Windows 11 Updates Successfully</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-crafting-silent-elegance-the-art-of-audio-ducking-in-video-editing-with-adobe-premiere-pro-on-mac/"><u>Updated 2024 Approved Crafting Silent Elegance The Art of Audio Ducking in Video Editing with Adobe Premiere Pro on Mac</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/voice-recording-for-powerpoint-visuals/"><u>Voice Recording for PowerPoint Visuals</u></a></li>
+</ul></div>
 

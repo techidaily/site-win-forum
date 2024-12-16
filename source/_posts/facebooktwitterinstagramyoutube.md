@@ -1,7 +1,7 @@
 ---
 title: FacebookTwitterInstagramYoutube
-date: 2024-08-18T11:00:30.286Z
-updated: 2024-08-19T11:00:30.286Z
+date: 2024-12-09T03:47:31.695Z
+updated: 2024-12-15T21:40:41.274Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/bbe5738e0d8808e6028f714bcae487dd6fc59c525
 
 ## Harnessing Connections: Mastering Facebook, Twitter, Instagram and Youtube for Success
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## [How to delete files and folders with Command Prompt in Windows 10](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1)
 
 * Share
@@ -34,8 +31,9 @@ thumbnail: https://thmb.techidaily.com/bbe5738e0d8808e6028f714bcae487dd6fc59c525
 * Force Uninstall
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Deleting files on Windows 10 with command prompt
 
  The built-in del command can help you delete files on Windows 10\. You have to point out the specific path to this file on your PC.
@@ -45,11 +43,12 @@ To use this method do the following:
 1. Open the Start Menu and in the search bar type “cmd”. Right-click on the result and select “Run as Administrator”
 2. Type in the field the following command where PATH will be replaced with the full path to the file you want to delete.  
 **`del path`**  
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![delete file with command prompt](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/delete-with-command-prompt/Method1-step2.png)
 3. After that press**Enter**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lets’ see this example to clarify the whole process:
 
@@ -67,6 +66,10 @@ You can also add the /f parameter to force delete a read-only file.
 
  You can also use Revo Uninstallers’[force uninstall feature](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1) if you have trouble removing stubborn programs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## To delete folders in Windows 10 with CMD you have to use the rmdir command
 
  This command will remove all folders including the subfolders and files in them.
@@ -76,9 +79,6 @@ To use this command do the following:
 1. Open the Start Menu and in the search bar type “cmd”. Right-click on the result and select “Run as Administrator”
 2. Type in the field the following command where PATH will be replaced with the full path to the file you want to delete.  
 **`rmdir PATH`**  
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remove folder with command prompt](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/delete-with-command-prompt/Method2-step2.png)
 3. Press**Enter** to finish the process
 
@@ -91,8 +91,9 @@ To use this command do the following:
  If you want to delete all the files and subfolders in the folder you want to delete, add the /s parameter. This will ensure that the folder is removed including the subfolders and files in it.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Conclusion
 
  As you’ve noticed, commands to delete files and folders in Windows 10 can be pretty handy if you have trouble deleting them the regular way.
@@ -100,8 +101,9 @@ To use this command do the following:
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## We can help you every time when…
 
 * you cannot find the program in the Apps & Features list
@@ -117,8 +119,6 @@ To use this command do the following:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -126,4 +126,17 @@ To use this command do the following:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-step-by-step-guide-to-creating-a-video-channel-reviewing-tech-accessories/"><u>[New] Step-by-Step Guide to Creating a Video Channel Reviewing Tech Accessories</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-a-comprehensive-guide-to-thumbnail-production-for-2024/"><u>[Updated] A Comprehensive Guide to Thumbnail Production for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-frequent-monetization-is-it-real-on-youtube/"><u>[Updated] Frequent Monetization Is It Real on YouTube?</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-tailoring-trending-topics-to-endings/"><u>[Updated] In 2024, Tailoring Trending Topics to Endings</u></a></li>
+<li><a href="https://win-forum.techidaily.com/explore-popular-networking-sites-the-powerhouse-trio-facebook-twitter-instagram-with-a-focus-on-video-sharing-at-youtube/"><u>Explore Popular Networking Sites: The Powerhouse Trio - Facebook, Twitter, Instagram with a Focus on Video Sharing at YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-giants-of-social-networks-a-deep-dive-into-facebook-twitter-instagram-and-youtube/"><u>Exploring Giants of Social Networks: A Deep Dive Into Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-the-digital-landscape-of-facebook-twitter-instagram-and-youtube/"><u>Exploring the Digital Landscape of Facebook, Twitter, Instagram, and Youtube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-the-dominance-of-facebook-twitter-instagram-and-youtube-in-todays-online-landscape/"><u>Exploring the Dominance of Facebook, Twitter, Instagram & Youtube in Today's Online Landscape</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-resolve-connection-issues-when-launching-a-minecraft-realm/"><u>How to Resolve Connection Issues When Launching a Minecraft Realm</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-13t-bootloader-easily-by-drfone-android/"><u>How to Unlock Xiaomi 13T Bootloader Easily</u></a></li>
+</ul></div>
 

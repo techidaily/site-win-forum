@@ -1,7 +1,7 @@
 ---
 title: "スピーディかつコストなし: MOVAVIによるM2P オンラインAVI形式変換サービス"
-date: 2024-12-08T18:43:59.803Z
-updated: 2024-12-10T01:03:23.286Z
+date: 2024-12-13T00:06:45.274Z
+updated: 2024-12-16T09:17:26.908Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/33d2c913be55d31e549acb89b4370208c20960b474ce8b9b8af13ad1eeef19a7.jpg
@@ -45,10 +45,6 @@ Si vous avez besoin d'un enregistreur de jeu, essayez Gecata by Movavi.
 [Télécharger gratuitement](https://tools.techidaily.com/movavi/products/)
 
 [![](https://cdn.staticont.net/pages/0023/55/8e3299ceec11a282886103c3bfcf9215af3372c3.webp)](https://tools.techidaily.com/movavi/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Édité par [Elinor Zucchet](https://tools.techidaily.com/movavi/products/)
 
@@ -166,13 +162,13 @@ Afficher plus
 
 Un facteur clé qui peut ralentir votre expérience de jeu est l'utilisation d'un enregistreur de qualité inférieure pendant le jeu. C'est pourquoi notre choix spécial pour optimiser votre PC pour les jeux sur Windows 10 est Gecata by Movavi. Ce programme peut enregistrer le gameplay en 4K et jusqu'à 120 FPS sans perte de performance. Il est facile à utiliser et est livré avec une version d'essai gratuite.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Qu'est-ce qu'un FPS faible et comment puis-je le vérifier ?
 
 ![](https://cdn.staticont.net/pages/0013/24/1698d2ec33be3cf4f4bedd243e199c87dbd8ac34.webp)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Si votre jeu commence à ralentir et que l'image est saccadée, surtout lorsqu'elle bouge, c'est que votre taux d'images par seconde (IPS) est faible. Cela se produit lorsque le matériel de votre ordinateur a du mal à faire fonctionner votre jeu ou fait des heures supplémentaires. S'il travaille trop, la vitesse du jeu ralentit.
 
@@ -183,10 +179,6 @@ Le PC surpasse les consoles à cet égard, car il est toujours possible d'accél
 Cet article vous présente les réglages de performance pour les jeux que vous pouvez effectuer sur Windows 10 pour améliorer votre expérience de jeu.
 
 Avant de commencer, il est toujours bon d'avoir un compteur de FPS dans le jeu, afin de pouvoir suivre vos progrès et tester les réglages qui fonctionnent. De nombreux jeux les ont préinstallés, mais si vous installez [MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards), vous ne serez jamais sans cet outil utile dans n'importe quel jeu.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 
 
@@ -226,6 +218,10 @@ Voici quelques liens vers les mises à jour des pilotes des fabricants les plus 
 
 ![](https://cdn.staticont.net/default/0012/47/72e52d810cb1f6f8d15a641fc4b287b8c43fbcd6.webp)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 DirectX 12 est un outil indispensable pour quiconque souhaite jouer à des jeux sur Windows 10\. Pour faire simple, DirectX est l'application que le jeu utilise pour communiquer avec votre ordinateur et lui dire quoi faire. DirectX 12 est une grande amélioration par rapport à son prédécesseur, DirectX 11, car il permet aux cartes graphiques de tirer des ressources de plus d'un cœur du processeur d'un PC, ce qui augmente les fréquences d'images, améliore les effets graphiques et réduit la consommation d'énergie. Des tests ont montré une différence de 85 à 300 % dans les performances de jeu entre la version 11 et la version 12.
 
 Pour bénéficier des fonctionnalités de DirectX 12, le jeu doit avoir été développé avec cette version. La bonne nouvelle est que la liste de ces jeux s'allonge chaque jour, car de plus en plus de sociétés de jeux adoptent cette version.
@@ -234,11 +230,19 @@ Pour vérifier que vous disposez de la dernière version de DirectX, appuyez sur
 
 Si vous n'avez pas DirectX 12, allez-y et installez-le ; le processus ne prendra que quelques minutes. Appuyez sur la   **touche Windows** \+ **I**, choisissez **Mise à jour et sécurité** et cliquez sur **Vérifier les mises à jour** dans l'onglet **Windows. Mise à jour**. Attendez que l'installation se termine.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 
 
 Utiliser le mode de jeu Windows 10
 
 ![](https://cdn.staticont.net/default/0012/47/d22e37788bfd390747dc00a19758815599d522df.webp)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Voici un moyen simple et rapide d'optimiser Windows 10 pour les jeux en utilisant un outil intégré au système. Le mode Jeu, apparu dans les versions les plus récentes du système d'exploitation, est conçu pour améliorer l'expérience de jeu en consacrant davantage de ressources système aux jeux. Il empêche également d'autres programmes, tels que Windows Update, d'accaparer les ressources du système pendant que vous jouez.
 
@@ -277,6 +281,10 @@ Si vous souhaitez conserver un minimum de graphismes pour que votre interface n'
 * Afficher les vignettes au lieu des icônes.
 * Afficher le contenu de la fenêtre pendant le glissement.
 * Lisser les bords des polices d'écran.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Gérer les mises à jour automatiques de Steam
 
@@ -318,10 +326,6 @@ Les cartes graphiques AMD ont également beaucoup de paramètres. Certains disen
 2. Augmentez vos performances graphiques en utilisant l'overclocking. Pour ce faire, cliquez sur l'onglet **Performance**, puis sur **Tuning**, sélectionnez **Automatique**, et enfin **GPU Overclocked**.
 3. Si vous utilisez une carte AMD, vous n'avez pas besoin de MSI Afterburner pour contrôler les performances. Il vous suffit d'appuyer sur **Ctrl** \+ **Shift** \+ **O** pour que vos statistiques apparaissent dans le jeu.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Réduire la résolution dans un jeu
 
 Cette solution entre facilement dans la catégorie des "solutions rapides". Parfois, votre système ne peut tout simplement pas gérer un jeu, et vous n'avez pas le temps de chercher des solutions à plus long terme. Allez dans les paramètres système du jeu et réduisez la résolution d'un niveau. Surveillez ensuite votre FPS jusqu'à ce que les choses s'améliorent.
@@ -335,7 +339,7 @@ Pour ce faire, appuyez sur la   **touche Windows** \+ **I**. Tapez "pointeur de 
 Vous pouvez également modifier le curseur de la vitesse du pointeur pour créer la configuration qui vous convient le mieux.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 
@@ -343,10 +347,6 @@ Vous pouvez également modifier le curseur de la vitesse du pointeur pour créer
 Comment améliorer les performances de jeu sur Windows 10 (corrections avancées)
 
 ![](https://cdn.staticont.net/pages/0013/24/72b5f58442a79243cce53c3224e26755b436a620.webp)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Vous ne savez toujours pas comment rendre Windows 10 plus rapide pour les jeux ? Utilisez ces correctifs avancés pour une solution à long terme.
 
@@ -367,10 +367,6 @@ Mettez à niveau votre GPU et votre CPU environ tous les quatre ans pour que tou
 Le choix de la première mise à niveau dépend des types de jeux auxquels vous jouez. Si vous n'avez pas besoin de graphismes extrêmes et jouez à des jeux plus rapides, le processeur est le meilleur choix. Mais si vous aimez les histoires numériques ou les jeux basés sur le monde avec beaucoup de personnages et d'arrière-plans non jouables, un GPU pourrait vous être plus utile.
 
 Quoi qu'il en soit, assurez-vous que l'équilibre des performances entre les deux est délicat, car l'un ne fonctionne pas sans l'autre. Vérifiez la mémoire et la bande passante de toute mise à niveau potentielle.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Mettez votre RAM à niveau
 
@@ -429,6 +425,10 @@ Comment accélérer l'exécution des jeux sur un ordinateur portable Windows 10
 
 ![](https://cdn.staticont.net/pages/0013/24/e045d566ab9cee25f15459463af7614838747945.webp)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Vous voulez savoir comment améliorer les performances de jeu sur un ordinateur portable Windows 10 ? Ces conseils vous aideront à accélérer les choses !
 
 ### Utiliser une alimentation externe
@@ -440,7 +440,7 @@ Windows 10 dispose de nombreuses fonctions d'économie d'énergie pour les ordin
 Pour modifier votre plan d'alimentation, cliquez sur la   **touche Windows** \+ **I**, tapez "alimentation" dans la zone de recherche, choisissez **Paramètres d'alimentation et de veille**, puis **Paramètres d'alimentation supplémentaires**. Si vous ne voyez pas de plan d'alimentation haute performance dans la partie gauche de l'écran, cliquez sur **Créer un plan d'alimentation** et choisissez **Haute performance**.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Empêchez votre ordinateur portable de surchauffer
@@ -500,6 +500,10 @@ L'article ci-dessus énumère une série de mesures que vous pouvez prendre pour
 * Mettez à niveau votre GPU et/ou votre CPU
 * Vérifiez les paramètres de performance de votre Windows.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Qu'est-ce qui ralentit mon ordinateur ?
 
 Il y a une longue liste de choses qui pourraient ralentir votre ordinateur. Voici une liste de raisons que vous pouvez vérifier :
@@ -524,10 +528,6 @@ Si vous voulez savoir comment rendre votre ordinateur plus rapide pour jouer, vo
 
 Lorsque l'on compare l'expérience de jeu des versions précédentes de Windows à Windows 10, l'amélioration des performances est extraordinaire. Si vous n'êtes pas sûr de vouloir faire une mise à jour, la décision est simple. Windows 10 offrira toujours une meilleure expérience.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Comment obtenir 60 fps dans un jeu ?
 
 Atteindre 60 FPS dans un jeu n'est pas différent des conseils pour accélérer votre système en général, mais voici ce que vous pouvez faire :
@@ -547,7 +547,7 @@ Ce n'est pas parce que vous dépensez de l'argent pour un ordinateur qu'il est �
 ![Avez-vous des questions&nbsp;?](https://cdn.staticont.net/global/0023/54/e832fd4fe897893df1de795a67cafcd74a13283a.webp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Avez-vous des questions ?
@@ -585,16 +585,17 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-expert-tips-for-superior-4k-visual-quality-with-gear-for-2024/"><u>[New] Expert Tips for Superior 4K Visual Quality with Gear for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-accelerating-your-creative-process-a-guide-to-crafting-fast-google-collage-images/"><u>[Updated] Accelerating Your Creative Process A Guide to Crafting Fast Google Collage Images</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-imagination-unleashed-building-engaging-animated-videos-in-windows-movie-maker/"><u>2024 Approved Imagination Unleashed Building Engaging Animated Videos in Windows Movie Maker</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/get-acquainted-with-the-10-best-sketching-apps-for-chrome-os/"><u>Get Acquainted with The 10 Best Sketching Apps for Chrome OS</u></a></li>
-<li><a href="https://win-forum.techidaily.com/gif-mov-movavi/"><u>GIF에서 MOV으로의 원활한 교체: Movavi를 사용하여 무료 바이너리화</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-14-pro-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 14 Pro Passcode without iTunes without Knowing Passcode?</u></a></li>
-<li><a href="https://win-forum.techidaily.com/individual-variability-in-response-to-injury-and-recovery-is-significant-affecting-the-design-of-personalized-treatment-plans/"><u>Individual Variability in Response to Injury and Recovery Is Significant, Affecting the Design of Personalized Treatment Plans.</u></a></li>
-<li><a href="https://win-forum.techidaily.com/scopri-i-migliori-7-stili-animati-per-il-tuo-prossimo-progetto-creativo/"><u>Scopri I Migliori 7 Stili Animati per Il Tuo Prossimo Progetto Creativo</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solutions-when-you-encounter-internet-explorer-has-stopped-working/"><u>Step-by-Step Solutions When You Encounter 'Internet Explorer Has Stopped Working'</u></a></li>
-<li><a href="https://win-forum.techidaily.com/technii-corecte-pentru-a-reduce-temporul-de-renderizare-unui-videoclip-in-adobe-after-effects/"><u>Technii Corecte Pentru a Reduce Temporul De Renderizare Unui Videoclip in Adobe After Effects</u></a></li>
-<li><a href="https://win-forum.techidaily.com/mpeg-flv-onliner-movavi/"><u>영구 무료 MPEG FLV 변환기: Onliner - Movavi</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-champion-video-grabbers-ranked-1-8/"><u>[New] Champion Video Grabbers Ranked 1-8</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-easy-steps-to-personalize-your-snapchat-pin/"><u>[New] In 2024, Easy Steps to Personalize Your Snapchat Pin</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-the-science-behind-the-best-sized-videos-for-your-instagram-story-for-2024/"><u>[New] The Science Behind the Best-Sized Videos for Your Instagram Story for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-retroactive-video-mastery-for-android-users/"><u>[Updated] Retroactive Video Mastery for Android Users</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-unleashing-virtual-reality-making-spherical-videos-on-iphone/"><u>[Updated] Unleashing Virtual Reality Making Spherical Videos on iPhone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/elevating-photo-clarity-mastering-iphoneipad-camera-settings/"><u>Elevating Photo Clarity: Mastering iPhone/iPad Camera Settings</u></a></li>
+<li><a href="https://win-forum.techidaily.com/enhance-windows-1astoff-speed-strategies-and-tools/"><u>Enhance Windows 1Astoff Speed - Strategies & Tools</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/essential-ios-resources-for-enjoying-psp-games/"><u>Essential iOS Resources for Enjoying PSP Games</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-networked-boot-controls-activating-wake-on-lan-for-windows-10-and-11-users/"><u>Mastering Networked Boot Controls: Activating Wake-on-LAN for Windows 10 & 11 Users</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-social-media-engagement-on-major-sites-like-facebook-twitter-instagram-and-youtube/"><u>Mastering Social Media Engagement on Major Sites Like Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://discover-help.techidaily.com/nutzen-sie-die-ki-von-winxvideo-um-ihre-videoqualitat-zu-verbessern/"><u>Nutzen Sie Die KI Von Winxvideo, Um Ihre Videoqualität Zu Verbessern!</u></a></li>
+<li><a href="https://win-forum.techidaily.com/resolving-internet-issues-by-flushing-your-dns-cache-on-windows-10-and-11-a-how-to/"><u>Resolving Internet Issues by Flushing Your DNS Cache on Windows 10 & 11 – A How-To</u></a></li>
 </ul></div>
 

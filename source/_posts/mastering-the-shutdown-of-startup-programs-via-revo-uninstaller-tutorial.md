@@ -1,7 +1,7 @@
 ---
 title: Mastering the Shutdown of Startup Programs via Revo Uninstaller Tutorial
-date: 2024-08-18T10:59:41.194Z
-updated: 2024-08-19T10:59:41.194Z
+date: 2024-12-09T09:59:44.377Z
+updated: 2024-12-16T04:06:49.182Z
 tags:
   - win11
   - win10
@@ -30,9 +30,6 @@ thumbnail: https://thmb.techidaily.com/b47fd0e753c3df7e85d7c99e9dd6f25592469353c
 
  In case you are running out of space on your PC(insert how to uninstall programs with Revo), or your problem is resolved, there are several methods that you can use to delete memory dump files on Windows 10
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ## Methods to delete memory dump files Windows 10
 
 * Delete system error dump files with Revo Uninstaller Pro
@@ -42,29 +39,30 @@ thumbnail: https://thmb.techidaily.com/b47fd0e753c3df7e85d7c99e9dd6f25592469353c
 * Delete dump files from the File Location
 * Turn off Crash Dumps
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Delete system error dump files with Revo Uninstaller Pro
 
 1. Open Revo Uninstaller Pro
 2. Navigate to Tools  
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Tools](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/screens/tools.png)
 3. Click on History Cleaner  
 ![History Cleaner](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/screens/history-cleaner.png)
 4. Select Windows Cleaner
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Select “Delete crash memory dump files”
 6. Click Clear  
 ![Windows Cleaner](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/screens/windows-cleaner-delete-crash-memory-dump-files.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Clean system error dump files with Disk Cleanup
 
@@ -75,42 +73,48 @@ thumbnail: https://thmb.techidaily.com/b47fd0e753c3df7e85d7c99e9dd6f25592469353c
 ![Disk cleanup](<https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/memory-dump-files/method-2-disk> cleanup-4-step4.png)
 5. Click the OK button
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After the process is completed the memory dump and minidump files will be removed from your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Remove system error dump files with Windows Settings
 
 1. Open the Start Menu and click PC Settings  
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ![PC settings](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/memory-dump-files/method-3-step1.png)
 2. Click on System  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![System](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/memory-dump-files/method-3-step2.png)
 3. Click on Storage  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Storage](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/memory-dump-files/method-3-step3.jpg)
 4. In the Storage, section select Temporary Files  
 ![Temporary Files](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/memory-dump-files/method-3-step4.jpg)
 5. Check the System error memory dump file option
 6. Again optionally you can check the System error minidump files option  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ![System error memory dump files](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/memory-dump-files/method-3-step5,6.png)
 7. Click the Remove files button
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ### Erase system error dump files with Command Prompt
 
 1. Open the Start Menu
 2. Search for Command Prompt. Right-click the top result and select the Run as administrator option  
 ![Run as administrator](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/memory-dump-files/method-4-command-prompt-step1,2.png)
 3. Type the following commands in the windows and press Enter:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `del /f /s /q %systemroot%\memory.dmp`
 4. To optionally delete the system error minidump files type this command and press Enter:  
 `del /f /s /q %systemroot%\Minidump\*.*`  
@@ -122,52 +126,30 @@ thumbnail: https://thmb.techidaily.com/b47fd0e753c3df7e85d7c99e9dd6f25592469353c
 2. Click the top result and navigate to System and Security  
 ![System and Security](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/memory-dump-files/method-5-step2.png)
 3. Click the System category  
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![System](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/memory-dump-files/method-5-step3.png)
 4. Open the Advanced system settings  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Advanced system settings](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/memory-dump-files/method-5-step4.png)
 5. Click the Settings button under Startup and Recovery  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Startup and recovery](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/memory-dump-files/method-5-step5.png)
 6. Navigate to Write debugging information. Click on the drop-down menu and select a type of dump file. Now you can see where the files are stored.
-7. Copy the location of the dump file  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+7. Copy the location of the dump file  
 ![Write debugging information](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/memory-dump-files/method-5-step6.png)
 8. Open Run by pressing Win Key + R and paste the dump file location and hit Enter  
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Run command](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/memory-dump-files/method-5-step7.png)
 9. Select the MEMORY.dmp file and delete it permanently  
 ![memory.dmp file](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/memory-dump-files/method-5-step8.png)
 10. Restart your computer and the dump files will be removed
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ### Turn off Crash Dumps
 
 1. Open the Start Menu and in the search bar type Settings
@@ -184,9 +166,6 @@ Key features:
 
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## We can help you every time when…
 
 * you cannot find the program in the Apps & Features list
@@ -202,8 +181,6 @@ Key features:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -211,4 +188,26 @@ Key features:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-the-beauty-bard-in-depth-gear-and-tutorial-roundups/"><u>[Updated] The Beauty Bard In-Depth Gear & Tutorial Roundups</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722971631570-brother-hl2280dw-driver-downloads-for-windows-111087-install-now/"><u>Brother HL2280DW Driver Downloads for Windows 11/10/8/7 – Install Now</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/download-free-imgburn-software-securely-convert-cpd-discs-into-iso-files/"><u>Download Free IMGBurn Software: Securely Convert CPD Discs Into ISO Files</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/fix-the-windows-media-player-plays-sound-no-video-problem-with-these-easy-fixes/"><u>Fix the 'Windows Media Player Plays Sound, No Video' Problem with These Easy Fixes</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-successfully-install-and-turn-on-revo-uninstaller-app-for-effective-cleanup/"><u>How to Successfully Install & Turn On Revo Uninstaller App for Effective Cleanup</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-completely-uninstalling-a-user-account-in-windows-10-operating-system/"><u>How To: Completely Uninstalling a User Account in Windows 10 Operating System</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/how-to-optimizing-vlc-for-mac-performance/"><u>How-To Optimizing VLC for Mac Performance</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-lava-yuva-3-pro-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Lava Yuva 3 Pro ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-clicker-article-titles-maker/"><u>In 2024, Top Clicker Article Titles Maker</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/inside-the-apple-watch-ultra-2-leak-release-dates-price-forecasts-and-cutting-edge-technology-sneak-peek/"><u>Inside the Apple Watch Ultra 2 Leak: Release Dates, Price Forecasts, and Cutting-Edge Technology Sneak Peek</u></a></li>
+<li><a href="https://win-forum.techidaily.com/installing-windows-11-on-ineligible-cpus-expert-tips-and-tricks/"><u>Installing Windows 11 on Ineligible CPUs: Expert Tips and Tricks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/master-the-art-of-quick-fixes-for-windows-update-error-8007000e-your-guide-to-a-smooth-computer-experience/"><u>Master the Art of Quick-Fixes for Windows Update Error 8007000E - Your Guide to a Smooth Computer Experience!</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-computer-maintenance-how-to-perform-a-defrag-on-windows-11-with-revo-uninstaller-instructions/"><u>Mastering Computer Maintenance: How to Perform a Defrag on Windows 11 with Revo Uninstaller Instructions</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-fresh-installation-of-windows-11-for-optimal-performance/"><u>Mastering Fresh Installation of Windows 11 for Optimal Performance</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-social-media-platforms-facebook-twitter-instagram-and-youtube/"><u>Mastering Social Media Platforms: Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-the-art-of-device-driver-updates-for-a-smooth-windows-10-experience/"><u>Mastering the Art of Device Driver Updates for a Smooth Windows 10 Experience</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-the-process-of-fresh-device-drivers-for-your-windows-11-setup/"><u>Mastering the Process of Fresh Device Drivers for Your Windows 11 Setup.</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-the-titans-of-social-interaction-facebook-twitter-instagram-and-youtube/"><u>Mastering The Titans of Social Interaction - Facebook, Twitter, Instagram and YouTube</u></a></li>
+<li><a href="https://techidaily.com/vivo-x90s-tutorial-bypass-lock-screen-security-password-pin-fingerprint-pattern-by-drfone-android-unlock-android-unlock/"><u>Vivo X90S Tutorial - Bypass Lock Screen,Security Password Pin,Fingerprint,Pattern</u></a></li>
+</ul></div>
 

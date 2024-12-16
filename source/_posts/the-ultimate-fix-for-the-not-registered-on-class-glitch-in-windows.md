@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Fix for the Not Registered on Class Glitch in Windows
-date: 2024-08-18T11:02:44.871Z
-updated: 2024-08-19T11:02:44.871Z
+date: 2024-12-08T22:44:56.396Z
+updated: 2024-12-15T23:59:15.186Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/3b3b313aac4422406d268b9ec86a52f71522ac5df
 
 ## Fix Slow Network Issues with These Simple DNS Flush Steps for Windows Users
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## [How to flush DNS on Windows 10 and Windows 11](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1)
 
 * Share
@@ -34,24 +31,23 @@ thumbnail: https://thmb.techidaily.com/3b3b313aac4422406d268b9ec86a52f71522ac5df
  DNS stands for Domain Network System. The main role of the DNS is to translate familiar domain names like revouninstaller.com into IP addresses computers use to connect with each other. For example, if you want to connect to google.com, your computer queries a DNS server on the internet to get the corresponding IP address connected to the google.com domain. Windows 10 and Windows 11 store a copy of the information it gets from the DNS server on your PC, so the process can be faster.
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## When will you have to flush your DNS cache
 
  Most of the systems connected to the internet automatically update the cache and hostnames, you can have problems when the IP address of a webpage changes before the update. If that is the case you can have connectivity issues, with the page failing to load in your browser. When you flush your DNS all the stored information on your PC is removed. This forces your computer to retrieve new data that will solve your connectivity issues.
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## So how can you flush your DNS on your Windows 10 or Windows 11 PC?
 
 1. ### Using Command Prompt  
 
    1. Open the Start Menu and in the search bar type`cmd` and select**Run as Administrator** .  
    2. Copy and paste the following command:`ipconfig /flushdns` and press**Enter** .  
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
    ![cmd window](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/flush-dns-windows/method-1-command-prompt.png)  
  Your Windows 10 or Windows 11 DNS cache should be flushed. You will get a message saying the operation is successful.
 
@@ -64,17 +60,17 @@ thumbnail: https://thmb.techidaily.com/3b3b313aac4422406d268b9ec86a52f71522ac5df
    ![powershell window](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/flush-dns-windows/method-2-powershell.png)
    3. ### Using a Run Command  
 
-   1. Press**Win Key + R** and type the following command:`ipconfig /flushdns` and hit**Enter** .  
 <!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+   1. Press**Win Key + R** and type the following command:`ipconfig /flushdns` and hit**Enter** .  
    ![run window](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/flush-dns-windows/method-3-run.png)  
    2. Your DNS cache should be erased from your Windows 10 or Windows 11 computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Flushing the DNS cache may seem like a lot of technical jargon, but it’s a simple process, as you now know.
 
@@ -82,10 +78,11 @@ thumbnail: https://thmb.techidaily.com/3b3b313aac4422406d268b9ec86a52f71522ac5df
 
  So, go ahead and flush your Windows 11 computer’s cached DNS data to resolve any underlying connectivity issues and improve your privacy.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## We can help you every time when…
 
@@ -102,8 +99,6 @@ thumbnail: https://thmb.techidaily.com/3b3b313aac4422406d268b9ec86a52f71522ac5df
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -111,4 +106,16 @@ thumbnail: https://thmb.techidaily.com/3b3b313aac4422406d268b9ec86a52f71522ac5df
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-from-concept-to-capture-the-breakdown-of-apeaks-recorder-software/"><u>[New] 2024 Approved From Concept to Capture The Breakdown of Apeak's Recorder Software</u></a></li>
+<li><a href="https://win-forum.techidaily.com/battle-with-a-crashy-windows-explorer-try-these-7-tactics/"><u>Battle with a Crashy Windows Explorer? Try These 7 Tactics</u></a></li>
+<li><a href="https://win-forum.techidaily.com/beyond-default-options-evaluating-the-need-for-a-third-party-app-to-remove-programs/"><u>Beyond Default Options: Evaluating the Need for a Third-Party App to Remove Programs</u></a></li>
+<li><a href="https://win-forum.techidaily.com/clearing-storage-on-your-pc-efficient-ways-to-reclaim-disk-space-with-windows-11/"><u>Clearing Storage on Your PC: Efficient Ways to Reclaim Disk Space with Windows 11</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-oppo-find-n3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Oppo Find N3 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-honor-x50-gt-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Honor X50 GT Phone with Broken Screen</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/live-feed-capture-via-obs-for-instagram-for-2024/"><u>Live Feed Capture via OBS for Instagram for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/masterclass-in-overcoming-directxs-most-challenging-errors/"><u>Masterclass in Overcoming DirectX's Most Challenging Errors</u></a></li>
+<li><a href="https://win-forum.techidaily.com/1722915400483-mastering-digital-interaction-on-popular-platforms-like-facebook-twitter-instagram-youtube/"><u>Mastering Digital Interaction on Popular Platforms Like Facebook, Twitter, Instagram, Youtube.</u></a></li>
+</ul></div>
 

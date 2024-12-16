@@ -1,7 +1,7 @@
 ---
 title: The Beginner's Handbook to Manipulating Registry Keys with Revo Uninstaller Features
-date: 2024-08-18T11:02:36.643Z
-updated: 2024-08-19T11:02:36.643Z
+date: 2024-12-09T17:20:17.280Z
+updated: 2024-12-16T12:42:37.582Z
 tags:
   - win11
   - win10
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/b865d1fe2bcace495751c454db93866647380420b
 
  There are several workarounds and if you follow this guide, we will show you how to fix the “This PC Can’t Run Windows 11” error.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## So why are you getting the “This PC Can’t Run Windows 11” error?
 
  When you run PC Health Check and you get the error it is probably because your PC does not meet the minimum system requirements. Check the table below to see if you cover the requirements:
@@ -52,21 +56,19 @@ thumbnail: https://thmb.techidaily.com/b865d1fe2bcace495751c454db93866647380420b
 * [This PC can’t run Windows 11. The PC must support Secure Boot.](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1)
 * [This PC can’t run Windows 11. The processor isn’t supported for Windows 11.](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Guide 1: How to fix “This PC can’t run Windows 11\. TPM 2.0 is a requirement for running Windows 11” error
 
 ![TPM required](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-windows-11-wont-run/guide1-overview.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 In this case there are 2 issues:
 
 1. Your PC contains a TPM chip, but it is not enabled.
 2. Your PC does not have a TPM chip and you won’t be able to update to Windows 11.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ### How to fix the issue
 
 1. Check if your PC supports TPM:  
@@ -74,36 +76,34 @@ In this case there are 2 issues:
    2. Step 2 – When the TPM utility pops up, check if the chip is in use.  
     If yes, you’ll see it under the Status section, marked as The TPM is ready to use.  
    3. Step 3 – The TPM Manufacturer Information section will provide you with information about the TPM version.  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
    ![TPM ready to use](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-windows-11-wont-run/guide1-step3.jpg) If it is TPM 2.0, you will be able to install and run Windows 11.If the version of TPM is not 2.0 or if it is lower, that means that you won’t be able to update to Windows 11.  
     When your computer warns “Compatible TPM cannot be found” or the TPM module version is lower than 2.0, staying with your current computer operating system will be a wise decision.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2. Enable TPM 2.0 chip for Windows 11  
    1. Step 1 – Restart your PC and press the F2/F10/Del key to enter your BIOS  
    2. Step 2 – Navigate with your keyboard to the Security section.  
    3. Step 3 – Enable the TMP State  
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
    ![enable tpm chip](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-windows-11-wont-run/enable-tpm-20-chip-for-windows-11-step-3.jpg)  
    4. Step 4 – Hit the F10 key and press Enter to exit the BIOS.Restart your PC and get the Windows 11 update successfully.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Guide 2 – How to fix “This PC can’t run Windows 11\. The PC must support Secure Boot” error
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ![secure boot not supported](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-windows-11-wont-run/guide2-overview.png)
 
  Secure Boot mode is usually enabled for most modern computers. Its’ role is to keep your computer safe. In order to update to Windows 11 the Secure Boot mode needs to be enabled.
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### How to enable Secure Boot
 
 1. #### Check if your system supports Secure Boot  
@@ -134,25 +134,26 @@ In this case there are 2 issues:
          2. Navigate to the Boot Menu, select Secure Boot settings and set it to “Enabled”  
          ![enable uefi mode](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-windows-11-wont-run/guide24-enable-secure-boot-step-2.jpg) Once you enable the UEFI mode and Secure Boot you can continue installing the Windows 100 update on your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Guide 3 – How to fix “This PC can’t run Windows 11\. The processor isn’t supported for Windows 11.” error
 
 ![processor not supported](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-windows-11-wont-run/guide3-overview.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This error message means that your computer processor is not included in the supported processor list.
 
  We’ve cover this error in a separate article that you can find[here](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
  As a new operating system, every user wants to try out its’ new features. However, because there are minimum system requirements, many users receive the “This PC can’t run Windows” error. The most common reason for the message is the lack of secure boot or TPM 2.0.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
 
 ## We can help you every time when…
@@ -170,8 +171,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -179,4 +178,26 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-cutting-edge-pc-editing-techniques-enhancing-your-youtube-presence/"><u>[New] 2024 Approved Cutting-Edge PC Editing Techniques Enhancing Your YouTube Presence</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-inside-the-headset-comprehensive-vr-gear-analysis/"><u>[New] 2024 Approved Inside the Headset Comprehensive VR Gear Analysis</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-effortless-downloads-choose-from-amongst-4-best-sites/"><u>[New] In 2024, Effortless Downloads Choose From Amongst 4 Best Sites</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-individual-tracks-to-albums-building-a-personalized-soundtrack-on-web-and-mobile/"><u>[New] In 2024, From Individual Tracks to Albums Building a Personalized Soundtrack on Web & Mobile</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-launching-successful-online-gaming-shows-on-youtube/"><u>[New] Launching Successful Online Gaming Shows on YouTube</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-the-art-of-low-volume-playback-system-guide/"><u>[Updated] 2024 Approved The Art of Low-Volume Playback System Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-vanguard-websites-for-3d-letterforms/"><u>[Updated] Vanguard Websites for 3D Letterforms</u></a></li>
+<li><a href="https://win-forum.techidaily.com/a-beginners-guide-to-locking-down-your-text-files-with-robust-passwords-and-revouninstaller-tools/"><u>A Beginner's Guide to Locking Down Your Text Files With Robust Passwords and RevoUninstaller Tools</u></a></li>
+<li><a href="https://win-forum.techidaily.com/beat-100-hard-drive-use-in-windows-11-proven-strategies-and-techniques/"><u>Beat 100% Hard Drive Use in Windows 11: Proven Strategies and Techniques</u></a></li>
+<li><a href="https://win-forum.techidaily.com/clear-the-clutter-how-to-easily-expand-free-storage-in-windows-11-systems/"><u>Clear the Clutter: How to Easily Expand Free Storage in Windows 11 Systems</u></a></li>
+<li><a href="https://win-forum.techidaily.com/comprehensive-solutions-for-curing-100-drive-saturation-in-windows-11-computers/"><u>Comprehensive Solutions for Curing 100% Drive Saturation in Windows 11 Computers</u></a></li>
+<li><a href="https://win-forum.techidaily.com/connecting-the-world-through-social-networks-exploring-facebook-twitter-instagram-and-youtube/"><u>Connecting the World Through Social Networks: Exploring Facebook, Twitter, Instagram & Youtube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/connecting-with-a-global-community-through-popular-platforms-fb-tw-ig-yt/"><u>Connecting with a Global Community Through Popular Platforms: FB, TW, IG, YT</u></a></li>
+<li><a href="https://win-forum.techidaily.com/connecting-worlds-an-exploration-of-facebook-twitter-instagram-and-youtube-usage/"><u>Connecting Worlds: An Exploration of Facebook, Twitter, Instagram & YouTube Usage</u></a></li>
+<li><a href="https://win-forum.techidaily.com/1722915133043-dns-flush-tutorial-for-windows-1011-users-reset-internet-settings/"><u>DNS Flush Tutorial for Windows 10/11 Users - Reset Internet Settings</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-revealing-the-best-of-both-worlds-1-tiktoks-on-twitter/"><u>In 2024, Revealing the Best of Both Worlds #1 TikToks on Twitter</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-system-performance-for-god-of-war-with-lowered-cpu-usage/"><u>Optimizing System Performance for God of War with Lowered CPU Usage</u></a></li>
+<li><a href="https://win-forum.techidaily.com/1722915423487-understanding-the-giants-of-social-networking-facebook-twitter-instagram-and-youtube/"><u>Understanding the Giants of Social Networking: Facebook, Twitter, Instagram and Youtube</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/zoom-mastery-embracing-intricate-screen-images-for-2024/"><u>Zoom Mastery Embracing Intricate Screen Images for 2024</u></a></li>
+</ul></div>
 

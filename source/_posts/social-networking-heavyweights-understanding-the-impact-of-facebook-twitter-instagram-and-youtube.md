@@ -1,7 +1,7 @@
 ---
 title: "Social Networking Heavyweights: Understanding the Impact of Facebook, Twitter, Instagram, and YouTube"
-date: 2024-08-18T11:03:26.858Z
-updated: 2024-08-19T11:03:26.858Z
+date: 2024-12-13T18:02:12.774Z
+updated: 2024-12-15T19:05:09.142Z
 tags:
   - win11
   - win10
@@ -16,8 +16,9 @@ thumbnail: https://thmb.techidaily.com/3de73e34857cd0f78a7df37ffea6db9e6fc87f29f
 ## Connecting the World: The Impact of Facebook, Twitter, Instagram and YouTube on Social Media
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## [How to check Windows 10 PowerShell version](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1)
 
 * Share
@@ -33,9 +34,6 @@ thumbnail: https://thmb.techidaily.com/3de73e34857cd0f78a7df37ffea6db9e6fc87f29f
 
  Since 2016 PowerShell was announced as open-source and cross-platform. You can use it on macOS and Linux too. Although it is native to Windows OS, and Microsoft only supports security updates and bug fixes, PowerShell Core is being worked on to clear these issues with other OS.
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Why is it important to know which PowerShell version you are running?
 
  PowerShell had many versions during the year starting with version 1.0 back in 2006\. The newest version( version 7) comes with the following new features:
@@ -53,18 +51,16 @@ thumbnail: https://thmb.techidaily.com/3de73e34857cd0f78a7df37ffea6db9e6fc87f29f
 
 ![start menu PowerShell](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/check-win10-powershell-version/start-menu-powershell.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You will see a window, where you enter the following command**$PSVersionTable.PSVersion** , and hit Enter. In the screenshot below you can see an example where you can find the version.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![PSVersion command](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/check-win10-powershell-version/powershell-version-1.png)
 
  Another method that you can use to check what PowerShell version you are running is to use the command “Get-Host”
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Get Host command](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/check-win10-powershell-version/powershell-version-2.png)
 
  The last method we will show you is by using the command “$host.version”. You will see the PowerShell version in a slightly different format. You will be able to see the Major and Minor release and the build number and revision.
@@ -74,8 +70,9 @@ thumbnail: https://thmb.techidaily.com/3de73e34857cd0f78a7df37ffea6db9e6fc87f29f
  You can run both Windows PowerShell and PowerShell 7.2 on the same computer. You do not have to worry about the lack of feature parity by upgrading. Simply keep the current Windows PowerShell installed and also download PowerShell. You can do that by going to its[GitHub release page](https://github.com/PowerShell/PowerShell/releases) . You will see a list of assets, where you can simply choose the OS you want to download for.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Conclusion
 
  Overall PowerShell can help you with automating some of the tasks that you are doing on regular basis on your PC. By knowing which version you are running and how to upgrade it you will be able to utilize it without any issues.
@@ -83,8 +80,13 @@ thumbnail: https://thmb.techidaily.com/3de73e34857cd0f78a7df37ffea6db9e6fc87f29f
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## We can help you every time when…
 
 * you cannot find the program in the Apps & Features list
@@ -100,8 +102,6 @@ thumbnail: https://thmb.techidaily.com/3de73e34857cd0f78a7df37ffea6db9e6fc87f29f
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -109,4 +109,23 @@ thumbnail: https://thmb.techidaily.com/3de73e34857cd0f78a7df37ffea6db9e6fc87f29f
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-ultimate-free-switch-console-simulations-for-2024/"><u>[New] Ultimate Free Switch Console Simulations for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-leading-live-tv-streams-combo-of-global-and-locals/"><u>[Updated] 2024 Approved Leading Live TV Streams Combo of Global and Locals</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-mastering-sound-selecting-mics-for-varied-youtube-formats/"><u>[Updated] Mastering Sound Selecting Mics for Varied YouTube Formats</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-modern-methods-rapidly-turning-srt-into-txt-format/"><u>2024 Approved Modern Methods Rapidly Turning SRT Into TXT Format</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-perfect-your-podcast-sound-editing-techniques-in-garageband/"><u>2024 Approved Perfect Your Podcast Sound Editing Techniques in GarageBand</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-test-of-the-motorola-mg7700-swift-and-steady-connectivity/"><u>Comprehensive Test of the Motorola MG#7700 - Swift and Steady Connectivity</u></a></li>
+<li><a href="https://win-forum.techidaily.com/confronting-the-something-went-awry-message-comprehensive-solutions-for-windows-eon-users/"><u>Confronting the Something Went Awry Message: Comprehensive Solutions for Windows Eon Users</u></a></li>
+<li><a href="https://win-forum.techidaily.com/digital-connections-unleashed-leveraging-facebook-twitter-instagram-and-youtube/"><u>Digital Connections Unleashed: Leveraging Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/easy-methods-to-refresh-device-drivers-on-a-windows-10-pc-with-revo-uninstaller/"><u>Easy Methods to Refresh Device Drivers on a Windows 10 PC with Revo Uninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/easy-techniques-to-uninstall-apps-not-shown-in-the-pcs-control-panel-interface/"><u>Easy Techniques to Uninstall Apps Not Shown in the PC's Control Panel Interface</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-the-world-of-social-media-facebook-twitter-instagram-and-youtube/"><u>Exploring the World of Social Media: Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-the-ultimate-list-15-best-apps-to-create-cartoon-avatars-on-mobile/"><u>New In 2024, The Ultimate List 15 Best Apps to Create Cartoon Avatars on Mobile</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/pushing-boundaries-3d-text-in-adobe-illustrator-for-2024/"><u>Pushing Boundaries 3D Text in Adobe Illustrator for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/tailoring-ai-to-yourselves-a-how-to-for-unique-prose/"><u>Tailoring AI to Yourselves: A How-To for Unique Prose</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-big-four-of-social-networking-facebook-twitter-instagram-youtube/"><u>The Big Four of Social Networking: Facebook | Twitter | Instagram | YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-real-deal-on-revo-uninstaller-and-other-third-party-removal-tools/"><u>The Real Deal on Revo Uninstaller and Other Third-Party Removal Tools</u></a></li>
+</ul></div>
 

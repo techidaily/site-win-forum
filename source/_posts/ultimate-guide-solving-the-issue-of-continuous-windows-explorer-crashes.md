@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Solving the Issue of Continuous Windows Explorer Crashes"
-date: 2024-08-18T11:01:04.411Z
-updated: 2024-08-19T11:01:04.411Z
+date: 2024-12-11T09:29:58.698Z
+updated: 2024-12-16T03:06:11.960Z
 tags:
   - win11
   - win10
@@ -26,16 +26,10 @@ thumbnail: https://thmb.techidaily.com/55ff105adfb563907b6c1c05420f78a6c5ab084d0
 
  PowerShell is an amazing tool created by Microsoft so you can automate tasks. By knowing which PowerShell version you have access to, you will know what features you can use. There are more than 200 commands that can be used within PowerShell and it is a super flexible framework that will save you a bunch of time.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Can you use PowerShell only on your Windows computer?
 
  Since 2016 PowerShell was announced as open-source and cross-platform. You can use it on macOS and Linux too. Although it is native to Windows OS, and Microsoft only supports security updates and bug fixes, PowerShell Core is being worked on to clear these issues with other OS.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Why is it important to know which PowerShell version you are running?
 
  PowerShell had many versions during the year starting with version 1.0 back in 2006\. The newest version( version 7) comes with the following new features:
@@ -53,11 +47,12 @@ thumbnail: https://thmb.techidaily.com/55ff105adfb563907b6c1c05420f78a6c5ab084d0
 
 ![start menu PowerShell](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/check-win10-powershell-version/start-menu-powershell.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You will see a window, where you enter the following command**$PSVersionTable.PSVersion** , and hit Enter. In the screenshot below you can see an example where you can find the version.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![PSVersion command](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/check-win10-powershell-version/powershell-version-1.png)
 
  Another method that you can use to check what PowerShell version you are running is to use the command “Get-Host”
@@ -67,33 +62,31 @@ thumbnail: https://thmb.techidaily.com/55ff105adfb563907b6c1c05420f78a6c5ab084d0
  The last method we will show you is by using the command “$host.version”. You will see the PowerShell version in a slightly different format. You will be able to see the Major and Minor release and the build number and revision.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How can I upgrade to a newer version of PowerShell?
 
  You can run both Windows PowerShell and PowerShell 7.2 on the same computer. You do not have to worry about the lack of feature parity by upgrading. Simply keep the current Windows PowerShell installed and also download PowerShell. You can do that by going to its[GitHub release page](https://github.com/PowerShell/PowerShell/releases) . You will see a list of assets, where you can simply choose the OS you want to download for.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
  Overall PowerShell can help you with automating some of the tasks that you are doing on regular basis on your PC. By knowing which version you are running and how to upgrade it you will be able to utilize it without any issues.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
 
 <!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## We can help you every time when…
 
 * you cannot find the program in the Apps & Features list
@@ -109,8 +102,6 @@ thumbnail: https://thmb.techidaily.com/55ff105adfb563907b6c1c05420f78a6c5ab084d0
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -118,4 +109,24 @@ thumbnail: https://thmb.techidaily.com/55ff105adfb563907b6c1c05420f78a6c5ab084d0
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-navigating-the-virtual-landscape-an-overview/"><u>[New] Navigating the Virtual Landscape An Overview</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-essential-tips-for-using-instagrams-sound-emojis-for-2024/"><u>[Updated] Essential Tips for Using Instagram's Sound Emojis for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlock-your-creativity-with-photoshops-radial-blur-and-shadow-tools/"><u>[Updated] Unlock Your Creativity with Photoshop's Radial Blur & Shadow Tools</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-honor-70-lite-5g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Honor 70 Lite 5G</u></a></li>
+<li><a href="https://win-forum.techidaily.com/easy-activation-of-wake-on-lan-on-windows-10-and-11-computers/"><u>Easy Activation of Wake-on-LAN on Windows 10 and 11 Computers</u></a></li>
+<li><a href="https://win-forum.techidaily.com/easy-tech-tips-how-to-successfully-install-new-drivers-on-a-windows-10-pc/"><u>Easy Tech Tips: How to Successfully Install New Drivers on a Windows 10 PC</u></a></li>
+<li><a href="https://win-forum.techidaily.com/engagement-on-a-massive-scale-unpacking-the-impacts-of-facebook-twitter-instagram-and-youtube/"><u>Engagement on a Massive Scale: Unpacking the Impacts of Facebook, Twitter, Instagram and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/essential-guide-do-you-truly-need-a-third-party-app-for-uninstalling-software/"><u>Essential Guide: Do You Truly Need a Third-Party App for Uninstalling Software?</u></a></li>
+<li><a href="https://win-forum.techidaily.com/expert-hack-enabling-windows-11-os-on-disallowed-cpu-models/"><u>Expert Hack: Enabling Windows 11 OS on Disallowed CPU Models</u></a></li>
+<li><a href="https://win-forum.techidaily.com/explore-the-social-scene-with-facebook-twitter-instagram-youtube/"><u>Explore the Social Scene with Facebook, Twitter, Instagram, Youtube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-major-networking-sites-insights-into-facebook-twitter-instagram-and-youtube/"><u>Exploring Major Networking Sites: Insights Into Facebook, Twitter, Instagram and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-top-digital-platforms-an-insight-into-facebook-twitter-instagram-and-youtube/"><u>Exploring Top Digital Platforms: An Insight Into Facebook, Twitter, Instagram & Youtube</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/five-fantastic-iphones-for-podcast-fans-for-2024/"><u>Five Fantastic iPhones for Podcast Fans for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-harmonizing-visuals-and-audio-in-unboxing-videos/"><u>In 2024, Harmonizing Visuals & Audio in Unboxing Videos</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Vivo Y28 5G | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/next-level-designers-post-acid-tools-explored/"><u>Next-Level Designers Post-ACID Tools Explored</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Navigating and Deleting Files/Folders Through Command Line in Windows 10
-date: 2024-08-18T11:01:36.359Z
-updated: 2024-08-19T11:01:36.359Z
+date: 2024-12-12T17:03:43.066Z
+updated: 2024-12-16T07:33:51.442Z
 tags:
   - win11
   - win10
@@ -16,8 +16,9 @@ thumbnail: https://thmb.techidaily.com/6110f59d84b8b2836afe3cb9128ab55b4983bac7c
 ## Mastering the Process of Fresh Device Drivers for Your Windows 11 Setup
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## [How to update Windows 10 device drivers](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1)
 
 * Share
@@ -38,16 +39,14 @@ thumbnail: https://thmb.techidaily.com/6110f59d84b8b2836afe3cb9128ab55b4983bac7c
  To check if any of your hardware devices has issues you need to check the Device Manager. In order to open the Device Manager you need to open the Windows Start Menu and in the search bar type “Device Manager”. If there are devices with issues they will appear under the respective category, marked with an exclamation mark warning sign.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to update Windows 10 drivers?
 
 1. ### Via Windows Update  
 
    1. Press Win Button + I and click**Updates & Security** .  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
    ![update and security](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/update-windows-10-device-drivers/method-1-step-1-update-and-security.png)  
    2. Click on**Windows Updates** . Your PC should automatically check for updates.  
    ![check for updates](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/update-windows-10-device-drivers/method-1-step-2-check-for-updates.png)  
@@ -61,9 +60,6 @@ thumbnail: https://thmb.techidaily.com/6110f59d84b8b2836afe3cb9128ab55b4983bac7c
    3. Right-click on the component you want to check for driver updates and click on**Update driver** .  
    ![update driver](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/update-windows-10-device-drivers/method-2-step-3-update-driver.png)  
    4. You will be presented with two choices. You can select the first one if you want the system to automatically search for a driver. The second is for when you already downloaded a driver and so you will have to point to its location.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
    ![update drivers](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/update-windows-10-device-drivers/method-2-step-4-update-choices.png)  
    5. If a driver update is available, the wizard will automatically install it, if not, your driver is already up to date.
 
@@ -86,27 +82,30 @@ thumbnail: https://thmb.techidaily.com/6110f59d84b8b2836afe3cb9128ab55b4983bac7c
 
    1. Locate where the installation files of your drivers are.  
    2. Right-click on the drivers setup file and select Troubleshoot compatibility.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
    ![troubleshoot compatibility](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/update-windows-10-device-drivers/method-4-step-1-troubleshoot.png)  
    3. The Program Compatibility Troubleshooter will look for any problems.  
-   4. Click on**Troubleshoot program** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+   4. Click on**Troubleshoot program** .  
    ![program compatibility troubleshoot](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/update-windows-10-device-drivers/method-4-step-2-compatability-troubleshooter.png)  
    5. Select which is the problem with the program. If the driver worked as intended, select the first option and click**Next** .  
+
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
    ![program compatibility troubleshoot](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/update-windows-10-device-drivers/method-4-step-3-compatability-troubleshooter-2.png)  
    6. Choose the Windows version where the driver worked fine, and click**Next** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
    ![program compatibility troubleshoot](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/update-windows-10-device-drivers/method-4-step-4-compatability-troubleshooter-3.png)  
    7. Click on Test the program and hit**Next** again.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
    ![test the program](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/update-windows-10-device-drivers/method-4-step-5-compatability-troubleshooter-4.png)  
    8. Follow the instructions to install the drivers as you usually do.
 
@@ -119,6 +118,11 @@ thumbnail: https://thmb.techidaily.com/6110f59d84b8b2836afe3cb9128ab55b4983bac7c
    5. Choose**Troubleshoot** .  
    ![BIOS troubleshoot](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/update-windows-10-device-drivers/method-5-step-1-bios.png)  
    6. Click**Advanced** options and select**UEFI Firmware Settings** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
    ![UEFI Firmware Settings](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/update-windows-10-device-drivers/method-5-step-2-uefi-firmware-settings.png)  
    7. Finally, select**Restart** and use the menus to update the BIOS / UEFI.  
  Understanding what BIOS is can feel like an overwhelming task.. We’ve created a separate article where we cover the topic[what is BIOS](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1)
@@ -142,8 +146,6 @@ thumbnail: https://thmb.techidaily.com/6110f59d84b8b2836afe3cb9128ab55b4983bac7c
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -151,4 +153,21 @@ thumbnail: https://thmb.techidaily.com/6110f59d84b8b2836afe3cb9128ab55b4983bac7c
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/updated-premiers-top-12-gps-enhanced-surveillance-cameras-for-2024/"><u>[Updated] Premier's Top 12 GPS-Enhanced Surveillance Cameras for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-inshot-guide-successfully-load-tracks-into-videos/"><u>2024 Approved InShot Guide Successfully Load Tracks Into Videos</u></a></li>
+<li><a href="https://techtrends.techidaily.com/all-about-wi-fi-calls-what-you-need-to-know-explained/"><u>All About Wi-Fi Calls: What You Need to Know Explained</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-pictures-from-samsung-galaxy-f54-5g-by-fonelab-android-recover-pictures/"><u>How to Rescue Lost Pictures from Samsung Galaxy F54 5G?</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-elite-game-line-up-best-7-fps-classics/"><u>In 2024, Elite Game Line-Up Best 7 FPS Classics</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/secure-your-data-with-aomeis-professional-technician-plus-and-server-safe-cyber-backup-solutions/"><u>Secure Your Data with AOMEI's Professional Technician Plus and Server-Safe Cyber Backup Solutions</u></a></li>
+<li><a href="https://win-forum.techidaily.com/solutions-to-overcome-something-went-wrong-error-during-windows-n-installation/"><u>Solutions to Overcome Something Went Wrong Error During Windows N Installation</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-erasing-memory-dump-files-on-windows-11/"><u>Step-by-Step Guide: Erasing Memory Dump Files on Windows 11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-setting-up-and-enabling-revo-uninstaller-application-manager/"><u>Step-by-Step Guide: Setting Up & Enabling Revo Uninstaller Application Manager</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-process-for-freeing-up-space-by-removing-programs-on-windows-11/"><u>Step-by-Step Process for Freeing Up Space by Removing Programs on Windows 11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-quintessential-hubs-for-digital-engagement-exploring-facebook-twitter-instagram-and-youtube/"><u>The Quintessential Hubs for Digital Engagement: Exploring Facebook, Twitter, Instagram and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-role-of-bios-in-computers-and-how-revo-uninstaller-helps/"><u>The Role of BIOS in Computers and How Revo Uninstaller Helps</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-voice-communication-problems-in-warzone-for-both-desktop-and-gaming-console-players/"><u>Troubleshooting Voice Communication Problems in Warzone for Both Desktop and Gaming Console Players</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/unlock-your-data-simple-steps-for-free-deleted-excel-file-restoration/"><u>Unlock Your Data: Simple Steps for Free Deleted Excel File Restoration</u></a></li>
+</ul></div>
 

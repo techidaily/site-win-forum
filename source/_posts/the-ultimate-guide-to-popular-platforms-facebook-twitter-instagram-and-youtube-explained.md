@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Guide to Popular Platforms: Facebook, Twitter, Instagram, and YouTube Explained"
-date: 2024-08-18T11:02:47.255Z
-updated: 2024-08-19T11:02:47.255Z
+date: 2024-12-13T16:02:50.492Z
+updated: 2024-12-16T03:06:41.949Z
 tags:
   - win11
   - win10
@@ -31,8 +31,9 @@ thumbnail: https://thmb.techidaily.com/c1b8f5eb5059b436ba72d1c75d15b589d4913c1c7
 * Force Uninstall
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Deleting files on Windows 10 with command prompt
 
  The built-in del command can help you delete files on Windows 10\. You have to point out the specific path to this file on your PC.
@@ -42,9 +43,6 @@ To use this method do the following:
 1. Open the Start Menu and in the search bar type “cmd”. Right-click on the result and select “Run as Administrator”
 2. Type in the field the following command where PATH will be replaced with the full path to the file you want to delete.  
 **`del path`**  
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ![delete file with command prompt](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/delete-with-command-prompt/Method1-step2.png)
 3. After that press**Enter**
 
@@ -65,8 +63,9 @@ You can also add the /f parameter to force delete a read-only file.
  You can also use Revo Uninstallers’[force uninstall feature](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1) if you have trouble removing stubborn programs.
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## To delete folders in Windows 10 with CMD you have to use the rmdir command
 
  This command will remove all folders including the subfolders and files in them.
@@ -76,11 +75,12 @@ To use this command do the following:
 1. Open the Start Menu and in the search bar type “cmd”. Right-click on the result and select “Run as Administrator”
 2. Type in the field the following command where PATH will be replaced with the full path to the file you want to delete.  
 **`rmdir PATH`**  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remove folder with command prompt](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/delete-with-command-prompt/Method2-step2.png)
 3. Press**Enter** to finish the process
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  For example, to delete a folder named “Info” on your desktop, use the following command where you will replace username with your own username:
 
@@ -90,17 +90,19 @@ To use this command do the following:
 
  If you want to delete all the files and subfolders in the folder you want to delete, add the /s parameter. This will ensure that the folder is removed including the subfolders and files in it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ## Conclusion
 
  As you’ve noticed, commands to delete files and folders in Windows 10 can be pretty handy if you have trouble deleting them the regular way.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## We can help you every time when…
 
@@ -117,8 +119,6 @@ To use this command do the following:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -126,4 +126,16 @@ To use this command do the following:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-the-ultimate-conclusion-to-your-youtube-journey/"><u>[New] In 2024, The Ultimate Conclusion to Your YouTube Journey</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-code-commanders-elite-females-on-yt/"><u>[Updated] 2024 Approved Code Commanders Elite Females on YT</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-mastering-footage-select-best-gimbals-and-handhelds-guide/"><u>[Updated] In 2024, Mastering Footage Select Best Gimbals & Handhelds Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-how-to-locate-individuals-fast-on-facebook-in-6-steps/"><u>Discover How to Locate Individuals Fast on Facebook in 6 Steps</u></a></li>
+<li><a href="https://win-forum.techidaily.com/essential-social-hubs-for-online-engagement-facebook-twitter-instagram-youtube/"><u>Essential Social Hubs for Online Engagement - Facebook, Twitter, Instagram, Youtube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/expert-tips-for-a-clean-slate-full-system-reboot-on-windows-11/"><u>Expert Tips for a Clean Slate: Full System Reboot on Windows 11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/expert-tips-on-permanently-removing-sensitive-files-from-your-pc-using-windows-10-tools/"><u>Expert Tips on Permanently Removing Sensitive Files From Your PC Using Windows 10 Tools</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-honor-x50-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Honor X50 Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-stop-windows-explorer-from-frequently-failing-a-step-by-step-solution-list/"><u>How to Stop Windows Explorer From Frequently Failing: A Step-by-Step Solution List</u></a></li>
+</ul></div>
 

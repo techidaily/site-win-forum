@@ -1,7 +1,7 @@
 ---
 title: Connect with the Masses Through Facebook, Twitter, Instagram & YouTube
-date: 2024-08-18T11:01:17.985Z
-updated: 2024-08-19T11:01:17.985Z
+date: 2024-12-09T10:26:07.523Z
+updated: 2024-12-15T18:13:38.149Z
 tags:
   - win11
   - win10
@@ -31,8 +31,9 @@ thumbnail: https://thmb.techidaily.com/c38adae2e42bb33172470753ec027ccdb4d1aafb8
 * Force Uninstall
 
 <!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Deleting files on Windows 10 with command prompt
 
  The built-in del command can help you delete files on Windows 10\. You have to point out the specific path to this file on your PC.
@@ -62,8 +63,9 @@ You can also add the /f parameter to force delete a read-only file.
  You can also use Revo Uninstallers’[force uninstall feature](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1) if you have trouble removing stubborn programs.
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## To delete folders in Windows 10 with CMD you have to use the rmdir command
 
  This command will remove all folders including the subfolders and files in them.
@@ -73,9 +75,6 @@ To use this command do the following:
 1. Open the Start Menu and in the search bar type “cmd”. Right-click on the result and select “Run as Administrator”
 2. Type in the field the following command where PATH will be replaced with the full path to the file you want to delete.  
 **`rmdir PATH`**  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remove folder with command prompt](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/delete-with-command-prompt/Method2-step2.png)
 3. Press**Enter** to finish the process
 
@@ -88,20 +87,23 @@ To use this command do the following:
  If you want to delete all the files and subfolders in the folder you want to delete, add the /s parameter. This will ensure that the folder is removed including the subfolders and files in it.
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Conclusion
 
  As you’ve noticed, commands to delete files and folders in Windows 10 can be pretty handy if you have trouble deleting them the regular way.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## We can help you every time when…
 
 * you cannot find the program in the Apps & Features list
@@ -117,8 +119,6 @@ To use this command do the following:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -126,4 +126,17 @@ To use this command do the following:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-more-than-just-likes-and-watch-time-the-complexity-of-youtubes-view-tally/"><u>[Updated] More than Just Likes and Watch Time The Complexity of YouTube's View Tally</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/2024-approved-generating-the-roll-safe-think-about-it-meme/"><u>2024 Approved Generating the Roll Safe-Think About It Meme</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-tutorial-how-to-clean-up-installed-apps-on-macos/"><u>Comprehensive Tutorial: How to Clean Up Installed Apps on macOS</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/diagnose-and-solve-stadia-headset-connection-problems-quickly/"><u>Diagnose and Solve Stadia Headset Connection Problems Quickly</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/embark-on-a-detective-journey-with-4-innovative-ai-enhanced-murder-mystery-games-online/"><u>Embark on a Detective Journey with 4 Innovative, AI-Enhanced Murder Mystery Games Online</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/exploring-meme-coins-the-basics-and-impact-on-digital-economy/"><u>Exploring 'Meme Coins': The Basics and Impact on Digital Economy</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-social-sphere-a-guide-to-facebook-twitter-instagram-and-youtube/"><u>Navigating the Social Sphere: A Guide to Facebook, Twitter, Instagram and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/regain-control-over-your-pc-7-ways-to-stop-file-explorer-crashing-issues/"><u>Regain Control Over Your PC: 7 Ways to Stop File Explorer Crashing Issues</u></a></li>
+<li><a href="https://win-forum.techidaily.com/resolving-complete-disk-saturation-on-your-windows-10-machine-a-step-by-step-guide/"><u>Resolving Complete Disk Saturation on Your Windows 10 Machine: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-forum.techidaily.com/social-media-evolution-how-facebook-twitter-instagram-and-youtube-shape-communication/"><u>Social Media Evolution: How Facebook, Twitter, Instagram & YouTube Shape Communication</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Mastering the Resolution of 'Windows 11 Wont Run' Problems
-date: 2024-08-18T11:00:42.333Z
-updated: 2024-08-19T11:00:42.333Z
+date: 2024-12-11T16:13:26.652Z
+updated: 2024-12-15T16:36:49.903Z
 tags:
   - win11
   - win10
@@ -16,9 +16,9 @@ thumbnail: https://thmb.techidaily.com/d497f73b0e9d6d12401c69e51bc9e28d9e854d954
 ## The Ultimate Troubleshooting Steps to Get Windows 11 Up and Running Again
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## [How to fix Windows 11 Wont Run on my PC error](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1)
 
 * Share
@@ -34,9 +34,6 @@ thumbnail: https://thmb.techidaily.com/d497f73b0e9d6d12401c69e51bc9e28d9e854d954
 
  There are several workarounds and if you follow this guide, we will show you how to fix the “This PC Can’t Run Windows 11” error.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## So why are you getting the “This PC Can’t Run Windows 11” error?
 
  When you run PC Health Check and you get the error it is probably because your PC does not meet the minimum system requirements. Check the table below to see if you cover the requirements:
@@ -61,15 +58,20 @@ thumbnail: https://thmb.techidaily.com/d497f73b0e9d6d12401c69e51bc9e28d9e854d954
 
 ## Guide 1: How to fix “This PC can’t run Windows 11\. TPM 2.0 is a requirement for running Windows 11” error
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![TPM required](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-windows-11-wont-run/guide1-overview.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 In this case there are 2 issues:
 
 1. Your PC contains a TPM chip, but it is not enabled.
 2. Your PC does not have a TPM chip and you won’t be able to update to Windows 11.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to fix the issue
 
@@ -78,9 +80,6 @@ In this case there are 2 issues:
    2. Step 2 – When the TPM utility pops up, check if the chip is in use.  
     If yes, you’ll see it under the Status section, marked as The TPM is ready to use.  
    3. Step 3 – The TPM Manufacturer Information section will provide you with information about the TPM version.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
    ![TPM ready to use](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-windows-11-wont-run/guide1-step3.jpg) If it is TPM 2.0, you will be able to install and run Windows 11.If the version of TPM is not 2.0 or if it is lower, that means that you won’t be able to update to Windows 11.  
     When your computer warns “Compatible TPM cannot be found” or the TPM module version is lower than 2.0, staying with your current computer operating system will be a wise decision.
 2. Enable TPM 2.0 chip for Windows 11  
@@ -90,6 +89,10 @@ In this case there are 2 issues:
    ![enable tpm chip](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-windows-11-wont-run/enable-tpm-20-chip-for-windows-11-step-3.jpg)  
    4. Step 4 – Hit the F10 key and press Enter to exit the BIOS.Restart your PC and get the Windows 11 update successfully.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Guide 2 – How to fix “This PC can’t run Windows 11\. The PC must support Secure Boot” error
 
 ![secure boot not supported](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-windows-11-wont-run/guide2-overview.png)
@@ -97,8 +100,9 @@ In this case there are 2 issues:
  Secure Boot mode is usually enabled for most modern computers. Its’ role is to keep your computer safe. In order to update to Windows 11 the Secure Boot mode needs to be enabled.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### How to enable Secure Boot
 
 1. #### Check if your system supports Secure Boot  
@@ -106,9 +110,6 @@ In this case there are 2 issues:
    1. Press Win Key + R. Type msinfo32.exe, and hit Enter.  
    2. Select System Summary  
    3. On the right-side pane scroll down and try to find a section named Secure Boot State (as shown in the screenshot)  
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
    ![secure boot info](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-windows-11-wont-run/guide21-how-to-enable-secure-boot-step-3.png) If the Secure Boot State shows as “Off”, that means that your PC support Secure Boot and just follow this guide in order to enable it.If the Secure Boot State shows as “Unsupported”, that means that your computer hardware does not support Secure Boot. To fix this issue you need to check if your PC supports UEFI mode first.
 
 2. #### Check if your PC supports UEFI mode  
@@ -124,26 +125,25 @@ In this case there are 2 issues:
          2. Navigate to the Boot Menu. Locate the Boot Mode section and click to see if your computer supports UEFI mode.  
          ![uefi mode](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-windows-11-wont-run/guide22-check-if-your-pc-supports-uefi-mode-step-2.jpg)  
          3. Select UEFI boot mode and press F10 to Save and Exit your BIOS.  
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
          ![select uefi mode](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-windows-11-wont-run/guide23-enable-uefi-step-3.jpg)  
 
 ##### Enable Secure Boot  
 
    1. 1. Restart your PC and re-enter your BIOS settings.  
          2. Navigate to the Boot Menu, select Secure Boot settings and set it to “Enabled”  
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
          ![enable uefi mode](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-windows-11-wont-run/guide24-enable-secure-boot-step-2.jpg) Once you enable the UEFI mode and Secure Boot you can continue installing the Windows 100 update on your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Guide 3 – How to fix “This PC can’t run Windows 11\. The processor isn’t supported for Windows 11.” error
 
 ![processor not supported](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-windows-11-wont-run/guide3-overview.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This error message means that your computer processor is not included in the supported processor list.
 
@@ -170,8 +170,6 @@ In this case there are 2 issues:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -179,4 +177,22 @@ In this case there are 2 issues:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-comprehensive-overview-of-final-cut-pro-techniques-for-2024/"><u>[New] Comprehensive Overview of Final Cut Pro Techniques for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/comprehensive-insight-into-the-workings-of-on-device-artificial-intelligence/"><u>Comprehensive Insight Into the Workings of On-Device Artificial Intelligence</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/configuring-proxies-on-windows-11-pc/"><u>Configuring Proxies on Windows 11 PC</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-best-scribblers-ios-and-androids-leading-image-editors/"><u>In 2024, Best Scribblers IOS & Android's Leading Image Editors</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Vivo Y200e 5G | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-giants-of-online-networking-facebook-to-youtube-journey/"><u>Navigating the Giants of Online Networking: Facebook to YouTube Journey</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-social-media-giants-facebook-twitter-and-instagram-vs-youtube/"><u>Navigating the Social Media Giants: Facebook, Twitter & Instagram vs YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-worlds-most-popular-platforms-facebook-twitter-instagram-and-youtube-explained/"><u>Navigating the World's Most Popular Platforms: Facebook, Twitter, Instagram, and YouTube Explained</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-through-social-media-titans-a-guide-to-facebook-twitter-instagram-and-youtube/"><u>Navigating Through Social Media Titans: A Guide to Facebook, Twitter, Instagram & Youtube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/overcoming-hardware-limitations-how-to-activate-windows-11-on-ineligible-processors-with-revouninstaller-techniques/"><u>Overcoming Hardware Limitations: How to Activate Windows 11 on Ineligible Processors with RevoUninstaller Techniques</u></a></li>
+<li><a href="https://win-forum.techidaily.com/resolving-windows-11-failed-operation-or-miscalculation-errors/"><u>Resolving Windows 11: Failed Operation or Miscalculation Errors</u></a></li>
+<li><a href="https://win-forum.techidaily.com/solving-windows-11-cannot-launch-issues-a-comprehensive-guide/"><u>Solving 'Windows 11 Cannot Launch' Issues – A Comprehensive Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unleash-creativity-with-gopros-time-lapse-technology-for-2024/"><u>Unleash Creativity with GoPro's Time-Lapse Technology for 2024</u></a></li>
+<li><a href="https://techidaily.com/unlock-android-phone-if-you-don-t-have-t2-5g-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you don't have T2 5G fingerprint</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-exploring-the-essence-of-digital-audio-studios-debunking-myths-about-daw-technology/"><u>Updated 2024 Approved Exploring the Essence of Digital Audio Studios Debunking Myths About DAW Technology</u></a></li>
+</ul></div>
 

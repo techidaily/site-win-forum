@@ -1,7 +1,7 @@
 ---
 title: Unlock the Secrets to Managing and Deleting Windows 11 Dump Files
-date: 2024-08-18T11:00:07.697Z
-updated: 2024-08-19T11:00:07.697Z
+date: 2024-12-12T11:39:06.056Z
+updated: 2024-12-15T18:44:19.130Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/4e23cb6eaa9892de917d72be96ca092225859934d
 
 ## Complete Disk Usage Overload in Windows S 10? Here's How to Fix It
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## [How to fix 100% disk usage on Windows 10](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1)
 
 * Share
@@ -29,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/4e23cb6eaa9892de917d72be96ca092225859934d
 
  If your computer is slow and your Windows 10 Task Manager shows 100% disk usage, that means that there is an issue that is causing your hard drive to over-work. Read on to learn how you can fix the 100% disk usage in Windows 10.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What are the reasons behind 100% disk usage in Windows 10
 
  The easiest way to discover what is causing the 100% disk usage is to go to the Windows Task Manager. You will see which process is overloading your system and which issue you need to fix.
@@ -39,21 +40,16 @@ To open the Task Manager:
 2. Click on the Processes Tab
 3. Arrange the Disk column to show the processes with the highest disk usage.
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![task manager screen](<https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-disk-usage/Task> Manager.png)
 
  If there are items that are utilizing more than 1 to 2 MB per second is a concern. The performance of your system can be harmed even if there is slightly higher disk usage.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Once you’ve checked your Task Manager and there are some issues, you can see how you can solve them below
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Method 1: Close applications that are running in the background
 
  If there are a lot of background applications that are running may cause 100% disk usage in Windows 10\. You can[uninstall](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1) some of the ones that you are not using, but most of the time you can stop them from running.
@@ -71,25 +67,28 @@ To open the Task Manager:
  Updating your Windows 10 to its latest version can many times solve problems of unknown nature. You can check if your Windows is up to date by:
 
 1. Go to PC Settings  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ![pc settings](<https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-disk-usage/method-2-step-1-PC> settings.png)
 2. Click on “Update & Security settings”  
 ![Update & Security settings](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-disk-usage/method-2-step2-UpdateandSecurity.png)
 3. Navigate to “Windows Update”  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Windows Update](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-disk-usage/method-2-step3-WindowsUpdates.jpg)
 
  By updating your system you can improve the overall performance including that of your hard drive.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 3: Restart Your Computer
 
  This is an all-knowing method for resolving some of the Windows 10 issues, including 100% disk usage. This method may not point you to the reason behind your issue, but it can fix it.
 
 ![restart screen](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-disk-usage/method-3-Restart.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 4: Change the Energy Options
 
@@ -101,14 +100,8 @@ To open the Task Manager:
 3. Click on Change Plan settings  
 ![Change Plan settings](<https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-disk-usage/method4> - step3- Power Options.png)
 4. Click on “Change advanced power settings”  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Change advanced power settings](<https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-disk-usage/method4> - step4- Power Options.png)
 5. Select the “High-performance” option from the drop-down menu  
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![High-performance](<https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-disk-usage/method4> - step5- Power Options.png)
 
 ### Method 5: Reset Virtual Memory in Windows 10
@@ -118,21 +111,17 @@ To open the Task Manager:
  To solve this issue you will have to reset your virtual memory settings:
 
 1. Open the Windows Start Menu and click on “PC Settings”  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ![pc settings](<https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-disk-usage/method-5-step-1-PC> settings.png)
 2. Click on “System”  
 ![system screen](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-disk-usage/method-5-step-2.png)
 3. Navigate to the “About” menu and click on “Advanced system settings”  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ![Advanced system settings](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-disk-usage/method-5-step-3.jpg)
 4. In the “System Properties“ window click on the “Advanced” tab and click the “Settings” button in the “Performance” section  
+
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![system properties screen](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-disk-usage/method-5-step-4.png)
 5. Navigate to the “Advanced” tab and click on “Change”  
 ![change screen](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-disk-usage/method-5-step-5.png)
@@ -158,11 +147,13 @@ This should fix the issue and your disk usage should go back to normal.
 To solve this problem you can rebuild the index:
 
 1. Click on the Windows “Start Menu” button and in the search bar type –`indexing`  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![search index](<https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-disk-usage/method7> - step1.png)
 2. Select “Indexing Options” in the search results. Click on “Advanced” and hit the “Rebuild” button.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Indexing Options](<https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-disk-usage/method7> - step2.png)
 
  This will erase and rebuilt the index and fix the errors that are behind the 100% disk usage in Windows 10
@@ -183,14 +174,12 @@ Follow the steps to initiate a Disk Check:
 
  Similar to the previous step open again the Command prompt. Type the command:`net.exe stop superfetch` .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![superfetch](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-disk-usage/method-9.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 10: Disable Windows Search
 
  There is a bug in Windows 8 and Windows 10 that can cause a search loop when you are using Windows Search. This can cause 100% disk usage and a drop in performance.
@@ -200,9 +189,11 @@ To disable the Windows Search follow these steps:
 1. Open the Command Prompt(as mentioned in Method 8)  
 ![Command Prompt](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-disk-usage/method-10-.png)
 2. Enter the command net.exe stop “Windows search”  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![windows search](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-disk-usage/method-10.1.jpg)
 
  This will temporarily stop Window search from running until the next time Windows is restarted.
@@ -219,17 +210,19 @@ To disable the Windows Search follow these steps:
 
  Deleting the temporary files is a solution you need to look into to fix the problem.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ## So what if the 100% disk usage in Windows 10 issue persists?
 
  If you can’t solve your 100% disk usage with the above methods, that means that you probably have to replace your hard drive. Your hard drive should never be at 100% usage. In case it is constantly showing this number there is some reason for the condition. If you don’t address the issue you are risking having a very slow computer.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## We can help you every time when…
 
@@ -246,8 +239,6 @@ To disable the Windows Search follow these steps:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -255,4 +246,22 @@ To disable the Windows Search follow these steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-navigating-google-meet-enrollment/"><u>[New] 2024 Approved Navigating Google Meet Enrollment</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-secrets-to-gaining-traction-for-your-fb-page/"><u>[New] In 2024, Secrets to Gaining Traction for Your FB Page</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-the-double-edged-sword-of-virtual-reality/"><u>[Updated] The Double-Edged Sword of Virtual Reality</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-exploring-metaverse-frontiers-with-elite-vr-equipment/"><u>2024 Approved Exploring Metaverse Frontiers with Elite VR Equipment</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fast-track-to-wireless-free-techkey-bluetooth-adapter-drivers-for-windows-1078-download-today/"><u>Fast Track to Wireless: Free Techkey Bluetooth Adapter Drivers for Windows 10/7/8 – Download Today!</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-sculpting-the-visual-narrative-a-composers-approach-to-transition-craftsmanship/"><u>In 2024, Sculpting the Visual Narrative A Composers Approach to Transition Craftsmanship</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/mastering-passkey-creation-and-management-in-windows-11/"><u>Mastering Passkey Creation & Management in Windows 11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-the-main-hubs-an-insight-into-facebook-twitter-instagram-and-youtube/"><u>Mastering the Main Hubs: An Insight Into Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-windows-a-step-by-step-guide-to-modifying-registry-entries/"><u>Mastering Windows: A Step-by-Step Guide to Modifying Registry Entries</u></a></li>
+<li><a href="https://win-forum.techidaily.com/maximize-windows-11-performance-by-deleting-unneeded-files/"><u>Maximize Windows 11 Performance by Deleting Unneeded Files</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-system-firmware-bios-explained-through-a-revouninstaller-perspective/"><u>Navigating System Firmware - BIOS Explained Through a RevoUninstaller Perspective</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-social-media-landscape-facebook-twitter-instagram-and-youtube/"><u>Navigating the Social Media Landscape: Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-web-of-fame-insights-into-facebook-twitter-instagram-and-youtube/"><u>Navigating the Web of Fame: Insights Into Facebook, Twitter, Instagram and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/removing-hidden-applications-without-accessing-the-control-panel/"><u>Removing Hidden Applications Without Accessing the Control Panel</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-5-from-infinix-smart-8-hd-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Infinix Smart 8 HD to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+</ul></div>
 

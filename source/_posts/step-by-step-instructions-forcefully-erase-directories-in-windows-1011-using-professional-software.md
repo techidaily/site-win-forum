@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Instructions: Forcefully Erase Directories in Windows 10/11 Using Professional Software"
-date: 2024-08-18T11:00:54.730Z
-updated: 2024-08-19T11:00:54.730Z
+date: 2024-12-13T01:49:32.911Z
+updated: 2024-12-16T10:32:57.528Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/9828bf793f93780e9596bdf90064698c2faf8ab44
 
 ## DNS Flush Tutorial for Windows 10/11 Users - Reset Internet Settings
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## [How to flush DNS on Windows 10 and Windows 11](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1)
 
 * Share
@@ -29,40 +26,30 @@ thumbnail: https://thmb.techidaily.com/9828bf793f93780e9596bdf90064698c2faf8ab44
 
  In some cases when you have trouble connecting to the internet the reason behind it can be your PC’s DNS cache. If you have already tried to[clear your browser cache and cookies](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1) , you will have to flush your Windows 10 or Windows 11 DNS. In this article, we will discover how to flush DNS on your Windows PC.
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## First let’s discover what the Windows DNS cache does
 
  DNS stands for Domain Network System. The main role of the DNS is to translate familiar domain names like revouninstaller.com into IP addresses computers use to connect with each other. For example, if you want to connect to google.com, your computer queries a DNS server on the internet to get the corresponding IP address connected to the google.com domain. Windows 10 and Windows 11 store a copy of the information it gets from the DNS server on your PC, so the process can be faster.
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## When will you have to flush your DNS cache
 
  Most of the systems connected to the internet automatically update the cache and hostnames, you can have problems when the IP address of a webpage changes before the update. If that is the case you can have connectivity issues, with the page failing to load in your browser. When you flush your DNS all the stored information on your PC is removed. This forces your computer to retrieve new data that will solve your connectivity issues.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ## So how can you flush your DNS on your Windows 10 or Windows 11 PC?
 
 1. ### Using Command Prompt  
 
    1. Open the Start Menu and in the search bar type`cmd` and select**Run as Administrator** .  
    2. Copy and paste the following command:`ipconfig /flushdns` and press**Enter** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
    ![cmd window](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/flush-dns-windows/method-1-command-prompt.png)  
  Your Windows 10 or Windows 11 DNS cache should be flushed. You will get a message saying the operation is successful.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 2. ### Using Windows PowerShell  
 
@@ -77,16 +64,25 @@ thumbnail: https://thmb.techidaily.com/9828bf793f93780e9596bdf90064698c2faf8ab44
    ![run window](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/flush-dns-windows/method-3-run.png)  
    2. Your DNS cache should be erased from your Windows 10 or Windows 11 computer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Flushing the DNS cache may seem like a lot of technical jargon, but it’s a simple process, as you now know.
 
  In Windows 10 and Windows 11, there are several ways to flush the DNS cache, including using the Command Prompt, PowerShell, and the Run command.
 
  So, go ahead and flush your Windows 11 computer’s cached DNS data to resolve any underlying connectivity issues and improve your privacy.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## We can help you every time when…
 
@@ -103,8 +99,6 @@ thumbnail: https://thmb.techidaily.com/9828bf793f93780e9596bdf90064698c2faf8ab44
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -112,4 +106,23 @@ thumbnail: https://thmb.techidaily.com/9828bf793f93780e9596bdf90064698c2faf8ab44
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-stabilizing-pixels-the-truth-behind-photoshop-shake/"><u>[New] 2024 Approved Stabilizing Pixels The Truth Behind Photoshop Shake</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-elite-selections-8-incredible-tools-to-elevate-your-4k-video/"><u>[New] Elite Selections 8 Incredible Tools to Elevate Your 4K Video</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-combining-youtube-videos-for-seamless-playback/"><u>[Updated] 2024 Approved Combining YouTube Videos for Seamless Playback</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/1-navigating-tax-consequences-a-comprehensive-guide-to-crypto-investment-and-its-fiscal-effects-insights-by-yl-computing/"><u>1. Navigating Tax Consequences: A Comprehensive Guide to Crypto Investment and Its Fiscal Effects - Insights by YL Computing</u></a></li>
+<li><a href="https://win-forum.techidaily.com/complete-guide-to-performing-a-clean-slate-on-your-pc-factory-resetting-windows-11-with-ease/"><u>Complete Guide to Performing a Clean Slate on Your PC: Factory Resetting Windows 11 with Ease</u></a></li>
+<li><a href="https://win-forum.techidaily.com/complete-guide-erasing-your-account-from-windows-11-using-revo-uninstaller/"><u>Complete Guide: Erasing Your Account From Windows 11 Using Revo Uninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/comprehensive-guide-overcoming-not-registered-fault-in-windows-applications/"><u>Comprehensive Guide: Overcoming 'Not Registered' Fault in Windows Applications</u></a></li>
+<li><a href="https://win-forum.techidaily.com/comprehensive-overview-of-popular-social-networks-facebook-twitter-instagram-youtube/"><u>Comprehensive Overview of Popular Social Networks: Facebook, Twitter, Instagram, YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/comprehensive-steps-for-deleting-programs-from-your-pc-running-windows-11/"><u>Comprehensive Steps for Deleting Programs From Your PC Running Windows 11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/comprehensive-tutorial-on-creatingeditingdeleting-registry-keys-using-revo-uninstaller/"><u>Comprehensive Tutorial on Creating/Editing/Deleting Registry Keys Using Revo Uninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/comprehensive-tutorial-to-set-up-wake-on-lan-in-microsofts-latest-os/"><u>Comprehensive Tutorial to Set Up Wake-on-LAN in Microsoft's Latest OS</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-an-exceptional-windows-based-lighter-alternative-to-macbook-air-packed-with-cutting-edge-features-pcmag/"><u>Discover an Exceptional Windows-Based Lighter Alternative to MacBook Air, Packed with Cutting-Edge Features | PCMag</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/enhancing-click-through-high-roi-strategies-for-fb-animatons-for-2024/"><u>Enhancing Click-Through High-ROI Strategies for FB Animatons for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/from-shoot-to-spectacle-editing-techniques-for-drones/"><u>From Shoot to Spectacle Editing Techniques for Drones</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-samsung-galaxy-a05s-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Samsung Galaxy A05s Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For HTC U23 Pro? | Dr.fone</u></a></li>
+</ul></div>
 

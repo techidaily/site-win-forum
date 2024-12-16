@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Free PDF Tools - Add Text to Documents on PC/Mac
-date: 2024-11-09T22:32:35.419Z
-updated: 2024-11-15T06:33:43.690Z
+date: 2024-12-10T12:20:47.885Z
+updated: 2024-12-16T06:50:57.489Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/192a8b490dda7b2810c72f377a9e089461747eddc1922b17a723c29b678176ef.jpg
@@ -28,6 +28,10 @@ Nous utilisons des cookies pour améliorer les services que nous vous proposons.
 [Télécharger](https://tools.techidaily.com/movavi/products/)
 
 ![](https://cdn.staticont.net/page_type/0023/57/3a45fddc2fda7d8feb51ac11d684aec7db796584.webp)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 
 
@@ -162,6 +166,10 @@ Afficher plus
 
 Un facteur clé qui peut ralentir votre expérience de jeu est l'utilisation d'un enregistreur de qualité inférieure pendant le jeu. C'est pourquoi notre choix spécial pour optimiser votre PC pour les jeux sur Windows 10 est Gecata by Movavi. Ce programme peut enregistrer le gameplay en 4K et jusqu'à 120 FPS sans perte de performance. Il est facile à utiliser et est livré avec une version d'essai gratuite.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Qu'est-ce qu'un FPS faible et comment puis-je le vérifier ?
 
 ![](https://cdn.staticont.net/pages/0013/24/1698d2ec33be3cf4f4bedd243e199c87dbd8ac34.webp)
@@ -175,13 +183,6 @@ Le PC surpasse les consoles à cet égard, car il est toujours possible d'accél
 Cet article vous présente les réglages de performance pour les jeux que vous pouvez effectuer sur Windows 10 pour améliorer votre expérience de jeu.
 
 Avant de commencer, il est toujours bon d'avoir un compteur de FPS dans le jeu, afin de pouvoir suivre vos progrès et tester les réglages qui fonctionnent. De nombreux jeux les ont préinstallés, mais si vous installez [MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards), vous ne serez jamais sans cet outil utile dans n'importe quel jeu.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 
 
@@ -243,16 +244,13 @@ Dans le menu qui s'ouvre, cliquez sur **Mode Jeu**. Passez à **On** pour active
 
 Si vous ne trouvez pas ces paramètres, cela signifie que la dernière Windows Creators Update n'est pas installée sur votre PC.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Gérez vos heures actives
 
 ![](https://cdn.staticont.net/pages/0012/47/719892cfb3ccc9e05c269dd850ef3c6c37589035.webp)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Oui, Windows 10 peut installer des mises à jour et redémarrer votre ordinateur en plein milieu de votre session de jeu sans même un simple "excusez-moi". Ouch. Cela peut être décevant, c'est le moins que l'on puisse dire, surtout si vous êtes un joueur compétitif et que votre sortie non planifiée peut affecter vos coéquipiers ou votre classement.
 
@@ -267,6 +265,10 @@ Pour définir vos heures actives, appuyez sur la   **touche Windows** \+ **I**, 
 Si vous êtes un joueur de nuit ou si vos heures de sommeil varient considérablement, de sorte que vous ne pouvez pas définir une heure de repos spécifique, nous vous conseillons (en plus de changer vos habitudes de sommeil) de vous assurer que Windows vous rappelle chaque fois qu'il voudra redémarrer afin que, si cela se produit pendant que vous jouez, vous puissiez toujours le retarder.
 
 Pour ce faire, retournez à Windows Update, cliquez sur **Advanced options** et assurez-vous que l'interrupteur sous **We'll show a reminder when we're going to restart** est activé.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Réglez les paramètres de vos effets visuels
 
@@ -291,6 +293,10 @@ Pour empêcher Steam de mettre à jour les jeux pendant que vous jouez, allez da
 Par ailleurs, les jeux sur Steam sont mis à jour en permanence et il arrive souvent que de nouveaux bogues apparaissent dans les nouvelles mises à jour ou que certains éléments cessent de fonctionner.
 
 Pour ramener la version d'un jeu à celle dont vous avez besoin, ouvrez Steam, faites un clic droit sur le jeu, choisissez **Propriétés** et allez dans l'onglet **Bêta**. Choisissez la version souhaitée dans le menu déroulant.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Désactiver les notifications
 
@@ -338,13 +344,6 @@ Comment améliorer les performances de jeu sur Windows 10 (corrections avancées
 
 ![](https://cdn.staticont.net/pages/0013/24/72b5f58442a79243cce53c3224e26755b436a620.webp)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Vous ne savez toujours pas comment rendre Windows 10 plus rapide pour les jeux ? Utilisez ces correctifs avancés pour une solution à long terme.
 
 ### Optez pour un SSD
@@ -364,13 +363,6 @@ Mettez à niveau votre GPU et votre CPU environ tous les quatre ans pour que tou
 Le choix de la première mise à niveau dépend des types de jeux auxquels vous jouez. Si vous n'avez pas besoin de graphismes extrêmes et jouez à des jeux plus rapides, le processeur est le meilleur choix. Mais si vous aimez les histoires numériques ou les jeux basés sur le monde avec beaucoup de personnages et d'arrière-plans non jouables, un GPU pourrait vous être plus utile.
 
 Quoi qu'il en soit, assurez-vous que l'équilibre des performances entre les deux est délicat, car l'un ne fonctionne pas sans l'autre. Vérifiez la mémoire et la bande passante de toute mise à niveau potentielle.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Mettez votre RAM à niveau
 
@@ -423,13 +415,6 @@ C'est l'un des services faciles à désactiver sur Windows 10\. Ces programmes e
 * Définissez la **valeur** sur **0**.
 * Cliquez sur **OK**.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 
 
 Comment accélérer l'exécution des jeux sur un ordinateur portable Windows 10
@@ -439,10 +424,7 @@ Comment accélérer l'exécution des jeux sur un ordinateur portable Windows 10
 Vous voulez savoir comment améliorer les performances de jeu sur un ordinateur portable Windows 10 ? Ces conseils vous aideront à accélérer les choses !
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Utiliser une alimentation externe
@@ -462,22 +444,12 @@ Les ordinateurs portables sont réputés pour leur surchauffe, car tous les comp
 3. Réglez les paramètres de vos ventilateurs pour qu'ils ne soient pas trop sollicités.
 4. Si vous le pouvez, jouez sur votre ordinateur portable dans un environnement frais.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Mettez à niveau votre GPU et votre RAM
 
 Nous avons déjà abordé ce sujet pour les PC, mais votre ordinateur portable peut également être équipé d'un processeur graphique et d'une mémoire vive. Suivez les mêmes protocoles, et si vous n'avez pas l'habitude de travailler avec des ordinateurs portables, il est préférable de confier l'installation à un technicien expérimenté.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 
@@ -544,6 +516,10 @@ Si vous voulez savoir comment rendre votre ordinateur plus rapide pour jouer, vo
 4. Passez en revue votre programme de démarrage et désactivez ceux que vous n'utilisez pas.
 5. Installez de la RAM supplémentaire
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Windows 10 est-il meilleur pour les jeux ?
 
 Lorsque l'on compare l'expérience de jeu des versions précédentes de Windows à Windows 10, l'amélioration des performances est extraordinaire. Si vous n'êtes pas sûr de vouloir faire une mise à jour, la décision est simple. Windows 10 offrira toujours une meilleure expérience.
@@ -565,6 +541,14 @@ La baisse du nombre de FPS se produit lorsque votre ordinateur n'a pas la mémoi
 Ce n'est pas parce que vous dépensez de l'argent pour un ordinateur qu'il est équipé du dernier cri. Le matériel est plus important que les autres caractéristiques de conception ou de logiciel. En outre, les jeux vidéo modernes placent toujours la barre plus haut en matière de capacité de performance, ce qui est donc relatif d'un jeu à l'autre.
 
 ![Avez-vous des questions&nbsp;?](https://cdn.staticont.net/global/0023/54/e832fd4fe897893df1de795a67cafcd74a13283a.webp)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Avez-vous des questions ?
 
@@ -601,20 +585,20 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-achieving-sharper-screen-focus-zooming-tips-for-google-meet/"><u>[New] 2024 Approved Achieving Sharper Screen Focus Zooming Tips for Google Meet</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-on-the-lookout-for-economical-vr-experience-china/"><u>[New] 2024 Approved On the Lookout for Economical VR Experience (China)</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-hilarity-and-sobriety-a-list-of-top-10-memetic-spots-on-insta/"><u>[Updated] 2024 Approved Hilarity & Sobriety A List of Top 10 Memetic Spots on Insta</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-from-raw-to-radiant-youtubes-art-of-visual-aesthetic/"><u>[Updated] From Raw to Radiant Youtube's Art of Visual Aesthetic</u></a></li>
-<li><a href="https://win-forum.techidaily.com/advanced-tutorial-deleting-undetected-programs-from-windows-operating-systems/"><u>Advanced Tutorial: Deleting Undetected Programs From Windows Operating Systems</u></a></li>
-<li><a href="https://win-forum.techidaily.com/exploring-major-online-communities-a-look-at-facebook-twitter-instagram-youtube/"><u>Exploring Major Online Communities - A Look at Facebook, Twitter, Instagram, Youtube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/guide-enabling-wake-on-lan-feature-on-your-pc-with-windows-11/"><u>Guide: Enabling Wake-on-LAN Feature on Your PC with Windows 11</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/inhibiting-factors-using-ai-for-analyzing-digital-coins/"><u>Inhibiting Factors: Using AI for Analyzing Digital Coins</u></a></li>
-<li><a href="https://fox-access.techidaily.com/innovating-visual-content-mastery-of-windows-11-editing-tools-for-2024/"><u>Innovating Visual Content Mastery of Windows 11 Editing Tools for 2024</u></a></li>
-<li><a href="https://win-forum.techidaily.com/master-the-factory-reset-process-in-windows-11-with-ease/"><u>Master the Factory Reset Process in Windows 11 with Ease</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/navigating-us-sanctions-with-innovation-lenovos-adoption-of-16-core-loongson-chips-for-enhanced-server-performance/"><u>Navigating U.S. Sanctions with Innovation: Lenovo's Adoption of 16-Core Loongson Chips for Enhanced Server Performance</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/overcoming-unshutdown-challenges-in-windows-11-effective-solutions/"><u>Overcoming Unshutdown Challenges in Windows 11 – Effective Solutions</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-guide-closing-unresponsive-windows-programs-using-quick-fixes/"><u>Step-by-Step Guide: Closing Unresponsive Windows Programs Using Quick Fixes</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-tutorial-for-fixing-a-change-of-plan-error-on-windows-11-machines/"><u>Step-by-Step Tutorial for Fixing 'A Change of Plan' Error on Windows 11 Machines</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-top-social-networking-platforms-facebook-twitter-instagram-and-youtube/"><u>The Top Social Networking Platforms: Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-expert-picks-ideal-software-for-screenshots-and-recordings/"><u>[New] 2024 Approved Expert Picks Ideal Software for Screenshots & Recordings</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-kickstart-cinematic-craft-install-xp-movie-maker/"><u>[New] Kickstart Cinematic Craft Install XP Movie Maker</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-free-custom-minecraft-gif-templates/"><u>[Updated] Free Custom Minecraft GIF Templates</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-maximizing-visibility-how-to-upload-videos-to-instagram-desktop/"><u>[Updated] Maximizing Visibility How to Upload Videos to Instagram Desktop</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mac-users-guide-to-best-4k-display-technology/"><u>2024 Approved Mac Users' Guide to Best 4K Display Technology</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-beginners-tips-shooting-hero5-time-lapse-footage/"><u>In 2024, Beginner's Tips Shooting Hero5 Time-Lapse Footage</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-oppo-reno-8t-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Oppo Reno 8T in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-spreadsheet-management-customizing-row-heights-and-column-sizes-in-excel-tutorial/"><u>Mastering Spreadsheet Management: Customizing Row Heights and Column Sizes in Excel Tutorial</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-the-sumif-function-in-microsoft-excel-a-step-by-step-guide/"><u>Mastering the SUMIF Function in Microsoft Excel - A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-forum.techidaily.com/microsoft-introduces-new-template-design-tool-a-fresh-take-on-office-layouts/"><u>Microsoft Introduces New Template Design Tool: A Fresh Take on Office Layouts</u></a></li>
+<li><a href="https://win-forum.techidaily.com/new-features-in-microsoft-excels-integrated-python-environment-what-you-need-to-know-about-the-update/"><u>New Features in Microsoft Excel's Integrated Python Environment – What You Need to Know About the Update</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-adding-images-inside-cells-on-google-sheets/"><u>Step-by-Step Guide: Adding Images Inside Cells on Google Sheets</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-adding-watermarks-to-your-ms-excel-2013-spreadsheets/"><u>Step-by-Step Guide: Adding Watermarks to Your MS Excel 2013 Spreadsheets</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-naming-cell-ranges-efficiently-in-microsoft-excel/"><u>Step-by-Step Guide: Naming Cell Ranges Efficiently in Microsoft Excel</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-reviews-for-a-cutting-edge-android-tablet-the-alluring-world-of-samsung-galaxy-tab-s5e/"><u>Top Reviews for a Cutting-Edge Android Tablet: The Alluring World of Samsung Galaxy Tab S5e</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "A Comprehvew Into Popular Social Channels: Facebook, Twitter, Instagram, You Tube"
-date: 2024-08-18T11:00:15.056Z
-updated: 2024-08-19T11:00:15.056Z
+date: 2024-12-10T21:10:11.214Z
+updated: 2024-12-16T01:58:22.252Z
 tags:
   - win11
   - win10
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/dbcd91d398192e490625be17ab539ce0390575e1c
 ---
 
 ## Discover Popular Sites: Connect and Share on Facebook, Twitter, Instagram, Youtube
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## [How to delete files and folders with Command Prompt in Windows 10](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1)
 
@@ -30,10 +34,6 @@ thumbnail: https://thmb.techidaily.com/dbcd91d398192e490625be17ab539ce0390575e1c
 * How to delete folders on Windows 10 with CMD
 * Force Uninstall
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## Deleting files on Windows 10 with command prompt
 
  The built-in del command can help you delete files on Windows 10\. You have to point out the specific path to this file on your PC.
@@ -43,9 +43,6 @@ To use this method do the following:
 1. Open the Start Menu and in the search bar type “cmd”. Right-click on the result and select “Run as Administrator”
 2. Type in the field the following command where PATH will be replaced with the full path to the file you want to delete.  
 **`del path`**  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ![delete file with command prompt](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/delete-with-command-prompt/Method1-step2.png)
 3. After that press**Enter**
 
@@ -65,9 +62,6 @@ You can also add the /f parameter to force delete a read-only file.
 
  You can also use Revo Uninstallers’[force uninstall feature](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1) if you have trouble removing stubborn programs.
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## To delete folders in Windows 10 with CMD you have to use the rmdir command
 
  This command will remove all folders including the subfolders and files in them.
@@ -77,11 +71,12 @@ To use this command do the following:
 1. Open the Start Menu and in the search bar type “cmd”. Right-click on the result and select “Run as Administrator”
 2. Type in the field the following command where PATH will be replaced with the full path to the file you want to delete.  
 **`rmdir PATH`**  
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ![remove folder with command prompt](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/delete-with-command-prompt/Method2-step2.png)
 3. Press**Enter** to finish the process
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  For example, to delete a folder named “Info” on your desktop, use the following command where you will replace username with your own username:
 
@@ -92,9 +87,9 @@ To use this command do the following:
  If you want to delete all the files and subfolders in the folder you want to delete, add the /s parameter. This will ensure that the folder is removed including the subfolders and files in it.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Conclusion
 
  As you’ve noticed, commands to delete files and folders in Windows 10 can be pretty handy if you have trouble deleting them the regular way.
@@ -102,8 +97,13 @@ To use this command do the following:
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## We can help you every time when…
 
 * you cannot find the program in the Apps & Features list
@@ -119,8 +119,6 @@ To use this command do the following:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -128,4 +126,24 @@ To use this command do the following:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-harmonic-horizons-exploring-fade-effects/"><u>[New] 2024 Approved Harmonic Horizons Exploring Fade Effects</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-instantaneous-youtube-audiences-trackers/"><u>[Updated] Instantaneous YouTube Audiences Trackers</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-undo-livestream-progress-with-twitch-tricks/"><u>[Updated] Undo Livestream Progress with Twitch Tricks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/banishing-silence-effective-solutions-to-the-roblox-audio-problem-on-win11-win10/"><u>Banishing Silence: Effective Solutions to the Roblox Audio Problem on Win11, Win10</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-htc-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from HTC Devices</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-oneplus-nord-n30-sefrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your OnePlus Nord N30 SEFRP Lock</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-quick-fixes-for-stubborn-files-use-revo-uninstaller-on-windows-10-and-11/"><u>Mastering Quick Fixes for Stubborn Files: Use Revo Uninstaller on Windows 10 & 11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-the-social-sphere-strategies-for-facebook-twitter-instagram-and-youtube-presence/"><u>Mastering the Social Sphere: Strategies for Facebook, Twitter, Instagram & YouTube Presence</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-digital-interaction-hubs-the-powerhouses-facebook-twittle-instagram-you-tube/"><u>Navigating Digital Interaction Hubs: The Powerhouses - FaceBook, Twittle, InstaGram, You-Tube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-digital-landscape-essential-sites-fb-twtr-ig-yt/"><u>Navigating the Digital Landscape: Essential Sites (FB, TWTR, IG, YT)</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-giants-of-social-platforms-facebook-to-youtube-explained/"><u>Navigating the Giants of Social Platforms: Facebook to YouTube Explained</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-major-platforms-of-social-networking-facebook-twitter-instagram-and-youtube/"><u>Navigating the Major Platforms of Social Networking: Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/optimize-hard-drive-on-windows-11-with-easy-steps-to-reclaim-space/"><u>Optimize Hard Drive on Windows 11 with Easy Steps to Reclaim Space</u></a></li>
+<li><a href="https://win-forum.techidaily.com/optimizing-windows-11-drives-by-removing-unnecessary-files/"><u>Optimizing Windows 11 Drives by Removing Unnecessary Files</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/snapseed-essentials-for-image-enthusiasts/"><u>Snapseed Essentials for Image Enthusiasts</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/streamlining-the-timestamp-process-for-youtubers/"><u>Streamlining the Timestamp Process for YouTubers</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/updated-how-to-make-a-flv-photo-slideshow/"><u>Updated How to Make a FLV Photo Slideshow</u></a></li>
+</ul></div>
 

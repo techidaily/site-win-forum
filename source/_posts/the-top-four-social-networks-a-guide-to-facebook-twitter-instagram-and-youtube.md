@@ -1,7 +1,7 @@
 ---
 title: "The Top Four Social Networks: A Guide to Facebook, Twitter, Instagram and YouTube"
-date: 2024-08-18T11:01:52.372Z
-updated: 2024-08-19T11:01:52.372Z
+date: 2024-12-11T06:25:31.511Z
+updated: 2024-12-15T23:46:08.385Z
 tags:
   - win11
   - win10
@@ -30,9 +30,6 @@ thumbnail: https://thmb.techidaily.com/178e67f42d6ae355b4752027c9ad22197720cab14
 
  Since 2016 PowerShell was announced as open-source and cross-platform. You can use it on macOS and Linux too. Although it is native to Windows OS, and Microsoft only supports security updates and bug fixes, PowerShell Core is being worked on to clear these issues with other OS.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ## Why is it important to know which PowerShell version you are running?
 
  PowerShell had many versions during the year starting with version 1.0 back in 2006\. The newest version( version 7) comes with the following new features:
@@ -44,47 +41,51 @@ thumbnail: https://thmb.techidaily.com/178e67f42d6ae355b4752027c9ad22197720cab14
 
  We are saying all this, so you can know that not all PowerShell versions are the same. A lot of people need assistance when they try to figure out what PowerShell version they are running. Therefore we created this small guide with all the ways you can check.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to check what PowerShell version I have installed?
 
  First, you need to open PowerShell. Simply open the Windows Start Menu and type in the search bar PowerShell, and click on the app.
 
 ![start menu PowerShell](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/check-win10-powershell-version/start-menu-powershell.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You will see a window, where you enter the following command**$PSVersionTable.PSVersion** , and hit Enter. In the screenshot below you can see an example where you can find the version.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![PSVersion command](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/check-win10-powershell-version/powershell-version-1.png)
 
  Another method that you can use to check what PowerShell version you are running is to use the command “Get-Host”
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Get Host command](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/check-win10-powershell-version/powershell-version-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The last method we will show you is by using the command “$host.version”. You will see the PowerShell version in a slightly different format. You will be able to see the Major and Minor release and the build number and revision.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How can I upgrade to a newer version of PowerShell?
 
  You can run both Windows PowerShell and PowerShell 7.2 on the same computer. You do not have to worry about the lack of feature parity by upgrading. Simply keep the current Windows PowerShell installed and also download PowerShell. You can do that by going to its[GitHub release page](https://github.com/PowerShell/PowerShell/releases) . You will see a list of assets, where you can simply choose the OS you want to download for.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ## Conclusion
 
  Overall PowerShell can help you with automating some of the tasks that you are doing on regular basis on your PC. By knowing which version you are running and how to upgrade it you will be able to utilize it without any issues.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## We can help you every time when…
 
@@ -101,8 +102,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -110,4 +109,22 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-busting-the-myth-of-perfect-follower-numbers-on-social-media/"><u>[New] In 2024, Busting the Myth of 'Perfect' Follower Numbers on Social Media</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-clear-cut-strategies-for-watermark-free-photography/"><u>[Updated] Clear-Cut Strategies for Watermark-Free Photography</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-driving-traffic-to-long-form-videos-via-shorts-for-2024/"><u>[Updated] Driving Traffic to Long-Form Videos via Shorts for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-masterful-date-trackers-for-android-and-ios-wedding-planners/"><u>2024 Approved Masterful Date-Trackers for Android and iOS Wedding Planners</u></a></li>
+<li><a href="https://apple-account.techidaily.com/everything-to-know-about-apple-id-password-requirements-for-iphone-14-by-drfone-ios/"><u>Everything To Know About Apple ID Password Requirements For iPhone 14</u></a></li>
+<li><a href="https://win-forum.techidaily.com/tackling-the-failure-to-execute-properly-problem-a-how-to-for-windows-11-users/"><u>Tackling the 'Failure to Execute Properly' Problem: A How-To for Windows 11 Users</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-big-four-in-digital-communication-insights-on-facebook-twitter-instagram-and-youtube/"><u>The Big Four in Digital Communication: Insights on Facebook, Twitter, Instagram and YouTube</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-downward-spiral-exploring-reasons-for-increasingly-complex-generative-ai-vulnerabilities/"><u>The Downward Spiral: Exploring Reasons for Increasingly Complex Generative AI Vulnerabilities</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-essential-guide-to-windows-registry-for-efficient-use-of-revo-uninstaller/"><u>The Essential Guide to Windows Registry for Efficient Use of Revo Uninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-5-strategies-for-overcoming-recurring-windows-explorer-malfunctions/"><u>Top 5 Strategies for Overcoming Recurring Windows Explorer Malfunctions</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-four-social-networks-exploring-facebook-twitter-instagram-and-youtube/"><u>Top Four Social Networks: Exploring Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-social-networks-explore-facebook-twitter-instagram-and-youtube/"><u>Top Social Networks - Explore Facebook, Twitter, Instagram & Youtube</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/troubleshooting-and-fix-how-to-show-windows-server-backup-r2-on-your-system/"><u>Troubleshooting and Fix: How to Show Windows Server Backup R2 on Your System</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/ultimate-6-film-repository-on-fb/"><u>Ultimate 6 Film Repository on Fb</u></a></li>
+<li><a href="https://win-forum.techidaily.com/ultimate-guide-resolve-class-registration-errors-on-your-pc/"><u>Ultimate Guide: Resolve Class Registration Errors on Your PC</u></a></li>
+</ul></div>
 

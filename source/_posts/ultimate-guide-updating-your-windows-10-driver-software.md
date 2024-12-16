@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Updating Your Windows 10 Driver Software"
-date: 2024-08-18T11:03:38.845Z
-updated: 2024-08-19T11:03:38.845Z
+date: 2024-12-15T00:35:26.818Z
+updated: 2024-12-15T22:26:43.642Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/cc0866b80e38550ff25e3009719b526ea4484f9d3
 
 ## Find Out the Version of PowerShell in Windows 10 with Simple Tricks
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## [How to check Windows 10 PowerShell version](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1)
 
 * Share
@@ -29,17 +26,10 @@ thumbnail: https://thmb.techidaily.com/cc0866b80e38550ff25e3009719b526ea4484f9d3
 
  PowerShell is an amazing tool created by Microsoft so you can automate tasks. By knowing which PowerShell version you have access to, you will know what features you can use. There are more than 200 commands that can be used within PowerShell and it is a super flexible framework that will save you a bunch of time.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## Can you use PowerShell only on your Windows computer?
 
  Since 2016 PowerShell was announced as open-source and cross-platform. You can use it on macOS and Linux too. Although it is native to Windows OS, and Microsoft only supports security updates and bug fixes, PowerShell Core is being worked on to clear these issues with other OS.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Why is it important to know which PowerShell version you are running?
 
  PowerShell had many versions during the year starting with version 1.0 back in 2006\. The newest version( version 7) comes with the following new features:
@@ -51,6 +41,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  We are saying all this, so you can know that not all PowerShell versions are the same. A lot of people need assistance when they try to figure out what PowerShell version they are running. Therefore we created this small guide with all the ways you can check.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to check what PowerShell version I have installed?
 
  First, you need to open PowerShell. Simply open the Windows Start Menu and type in the search bar PowerShell, and click on the app.
@@ -59,23 +53,29 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  You will see a window, where you enter the following command**$PSVersionTable.PSVersion** , and hit Enter. In the screenshot below you can see an example where you can find the version.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![PSVersion command](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/check-win10-powershell-version/powershell-version-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Another method that you can use to check what PowerShell version you are running is to use the command “Get-Host”
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ![Get Host command](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/check-win10-powershell-version/powershell-version-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The last method we will show you is by using the command “$host.version”. You will see the PowerShell version in a slightly different format. You will be able to see the Major and Minor release and the build number and revision.
 
 ## How can I upgrade to a newer version of PowerShell?
 
  You can run both Windows PowerShell and PowerShell 7.2 on the same computer. You do not have to worry about the lack of feature parity by upgrading. Simply keep the current Windows PowerShell installed and also download PowerShell. You can do that by going to its[GitHub release page](https://github.com/PowerShell/PowerShell/releases) . You will see a list of assets, where you can simply choose the OS you want to download for.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -84,8 +84,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## We can help you every time when…
 
 * you cannot find the program in the Apps & Features list
@@ -101,8 +102,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -110,4 +109,26 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-step-by-step-guide-removing-photo-backdrops/"><u>[New] 2024 Approved Step-by-Step Guide Removing Photo Backdrops</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-analyzing-the-impact-of-reduced-photo-jiggles-in-adobe/"><u>[New] Analyzing the Impact of Reduced Photo Jiggles in Adobe</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-designing-impactful-social-media-fb-ads/"><u>[New] Designing Impactful Social Media FB Ads</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-from-zero-to-hero-in-instagram-world-top-9-pathways-unveiled/"><u>[New] From Zero to Hero in Instagram World Top 9 Pathways Unveiled</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-navigating-the-nooks-and-crannies-of-concurrent-youtube-watching/"><u>[New] In 2024, Navigating the Nooks and Crannies of Concurrent YouTube Watching</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-step-by-step-process-to-master-color-grading-with-luts-in-pscc/"><u>[New] In 2024, Step-by-Step Process to Master Color Grading with LUTs in PSCC</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-spectre-3-melee-illusionist-4-strikes-for-2024/"><u>[New] Spectre 3 Melee Illusionist 4 Strikes for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-growth-strategies-for-youtube-videos-6-effortless-approaches/"><u>[Updated] In 2024, Growth Strategies for YouTube Videos 6 Effortless Approaches</u></a></li>
+<li><a href="https://win-forum.techidaily.com/activating-wake-on-lan-feature-a-step-by-step-guide-for-windows-10-and-11/"><u>Activating Wake-on-LAN Feature: A Step-by-Step Guide for Windows 10 & 11</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/connect-with-the-world-on-major-platforms-facebook-twitter-instagram-and-youtube/"><u>Connect with the World on Major Platforms: Facebook, Twitter, Instagram and Youtube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/connecting-with-audience-online-mastering-facebook-twitter-instagram-and-youtube-strategies/"><u>Connecting with Audience Online: Mastering Facebook, Twitter, Instagram, and YouTube Strategies</u></a></li>
+<li><a href="https://win-forum.techidaily.com/decoding-popular-online-platforms-the-power-of-facebook-twitter-instagram-and-youtube-in-digital-conversations/"><u>Decoding Popular Online Platforms: The Power of Facebook, Twitter, Instagram & Youtube in Digital Conversations</u></a></li>
+<li><a href="https://win-forum.techidaily.com/easy-steps-to-enter-the-computers-motherboard-information-in-windows-11/"><u>Easy Steps to Enter the Computer's Motherboard Information in Windows 11</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/instagram-pro-tips-effortless-video-upload-from-pcmac/"><u>Instagram Pro Tips Effortless Video Upload From PC/Mac</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-the-art-of-system-refresh-your-step-by-step-windows-11-hard-reset/"><u>Mastering the Art of System Refresh: Your Step-by-Step Windows 11 Hard Reset</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-tutorial-for-configuring-wake-on-lan-on-windows-11-pcs/"><u>Step-by-Step Tutorial for Configuring Wake-on-LAN on Windows 11 PCs</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-big-4-of-online-interaction-your-guide-to-facebook-twitter-instagram-and-youtube/"><u>The Big 4 of Online Interaction: Your Guide to Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-powerhouse-quartet-of-social-media-navigating-facebook-twitter-instagram-and-youtube/"><u>The Powerhouse Quartet of Social Media: Navigating Facebook, Twitter, Instagram and YouTube</u></a></li>
+</ul></div>
 

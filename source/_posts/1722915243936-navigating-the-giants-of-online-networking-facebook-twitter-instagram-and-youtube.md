@@ -1,7 +1,7 @@
 ---
 title: "Navigating the Giants of Online Networking: Facebook, Twitter, Instagram and YouTube"
-date: 2024-08-18T11:03:49.148Z
-updated: 2024-08-19T11:03:49.148Z
+date: 2024-12-12T19:45:20.743Z
+updated: 2024-12-15T19:34:44.611Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/3d2f504c7a28917e2aef95be2fd0b9c5130c134ee
 
 ## Connecting the World: The Impact of Facebook, Twitter, Instagram and YouTube on Social Media
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## [How to check Windows 10 PowerShell version](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1)
 
 * Share
@@ -30,15 +27,13 @@ thumbnail: https://thmb.techidaily.com/3d2f504c7a28917e2aef95be2fd0b9c5130c134ee
  PowerShell is an amazing tool created by Microsoft so you can automate tasks. By knowing which PowerShell version you have access to, you will know what features you can use. There are more than 200 commands that can be used within PowerShell and it is a super flexible framework that will save you a bunch of time.
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Can you use PowerShell only on your Windows computer?
 
  Since 2016 PowerShell was announced as open-source and cross-platform. You can use it on macOS and Linux too. Although it is native to Windows OS, and Microsoft only supports security updates and bug fixes, PowerShell Core is being worked on to clear these issues with other OS.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Why is it important to know which PowerShell version you are running?
 
  PowerShell had many versions during the year starting with version 1.0 back in 2006\. The newest version( version 7) comes with the following new features:
@@ -51,8 +46,9 @@ thumbnail: https://thmb.techidaily.com/3d2f504c7a28917e2aef95be2fd0b9c5130c134ee
  We are saying all this, so you can know that not all PowerShell versions are the same. A lot of people need assistance when they try to figure out what PowerShell version they are running. Therefore we created this small guide with all the ways you can check.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to check what PowerShell version I have installed?
 
  First, you need to open PowerShell. Simply open the Windows Start Menu and type in the search bar PowerShell, and click on the app.
@@ -65,18 +61,6 @@ thumbnail: https://thmb.techidaily.com/3d2f504c7a28917e2aef95be2fd0b9c5130c134ee
 
  Another method that you can use to check what PowerShell version you are running is to use the command “Get-Host”
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Get Host command](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/check-win10-powershell-version/powershell-version-2.png)
 
  The last method we will show you is by using the command “$host.version”. You will see the PowerShell version in a slightly different format. You will be able to see the Major and Minor release and the build number and revision.
@@ -85,14 +69,23 @@ thumbnail: https://thmb.techidaily.com/3d2f504c7a28917e2aef95be2fd0b9c5130c134ee
 
  You can run both Windows PowerShell and PowerShell 7.2 on the same computer. You do not have to worry about the lack of feature parity by upgrading. Simply keep the current Windows PowerShell installed and also download PowerShell. You can do that by going to its[GitHub release page](https://github.com/PowerShell/PowerShell/releases) . You will see a list of assets, where you can simply choose the OS you want to download for.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
  Overall PowerShell can help you with automating some of the tasks that you are doing on regular basis on your PC. By knowing which version you are running and how to upgrade it you will be able to utilize it without any issues.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## We can help you every time when…
 
@@ -109,8 +102,6 @@ thumbnail: https://thmb.techidaily.com/3d2f504c7a28917e2aef95be2fd0b9c5130c134ee
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -118,4 +109,24 @@ thumbnail: https://thmb.techidaily.com/3d2f504c7a28917e2aef95be2fd0b9c5130c134ee
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-top-earners-in-youtube-enterprises/"><u>[New] Top Earners in YouTube Enterprises</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-androids-free-screen-snip-picks-our-best-8-on-display/"><u>[Updated] Android's Free Screen Snip Picks – Our Best 8 on Display</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-ideal-audio-gear-compatible-with-cutting-edge-4k-technology-for-2024/"><u>[Updated] Ideal Audio Gear Compatible with Cutting-Edge 4K Technology for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlocking-creative-potential-using-luts-for-color-grading-in-ae/"><u>[Updated] Unlocking Creative Potential Using LUTs for Color Grading in AE</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/accelerate-your-computers-performance-by-eliminating-unnecessary-files/"><u>Accelerate Your Computer's Performance by Eliminating Unnecessary Files</u></a></li>
+<li><a href="https://win-forum.techidaily.com/comprehensive-guide-to-popular-social-channels-facebook-twitter-instagram-and-youtube/"><u>Comprehensive Guide to Popular Social Channels - Facebook, Twitter, Instagram & Youtube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/customizing-your-pc-installation-tutorial-for-windows-11-on-prohibited-cpus/"><u>Customizing Your PC: Installation Tutorial for Windows 11 on Prohibited CPUs</u></a></li>
+<li><a href="https://win-forum.techidaily.com/digital-content-dynamics-the-power-players-facebook-twitter-instagram-and-youtube/"><u>Digital Content Dynamics: The Power Players - Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-realme-12-5g-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Realme 12 5G FRP In 3 Different Ways</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-10-steadicam-choices-for-drone-cinematography-pros/"><u>In 2024, Top 10 Steadicam Choices for Drone Cinematography Pros</u></a></li>
+<li><a href="https://win-forum.techidaily.com/overcome-cannot-run-windows-11-hurdles-on-your-pc-using-revouninstaller-techniques/"><u>Overcome 'Cannot Run Windows 11' Hurdles on Your PC Using RevoUninstaller Techniques</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/prime-day-alert-discover-the-most-efficient-laptop-thats-not-a-thinkpad-or-macbook-and-save-300-zdnet-exclusive-review/"><u>Prime Day Alert: Discover the Most Efficient Laptop That's Not a ThinkPad or MacBook & Save $300 | ZDNET Exclusive Review</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-powerhouse-of-online-networking-understanding-facebook-twitter-instagram-and-youtube/"><u>The Powerhouse of Online Networking: Understanding Facebook, Twitter, Instagram & Youtube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-ultimate-trick-to-erase-files-and-folders-using-windows-command-prompt/"><u>The Ultimate Trick to Erase Files & Folders Using Windows Command Prompt</u></a></li>
+<li><a href="https://win-forum.techidaily.com/ultimate-solution-free-techniques-to-clean-up-system-memory-dumps-in-windows-10/"><u>Ultimate Solution: Free Techniques to Clean Up System Memory Dumps in Windows 10</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-videopad-video-editor-review-does-it-live-up-to-the-hype/"><u>Updated In 2024, Videopad Video Editor Review Does It Live Up to the Hype?</u></a></li>
+<li><a href="https://win-forum.techidaily.com/windows-11-insider-tip-finding-and-reading-your-motherboard-information-via-device-manager/"><u>Windows 11 Insider Tip: Finding and Reading Your Motherboard Information via Device Manager</u></a></li>
+</ul></div>
 

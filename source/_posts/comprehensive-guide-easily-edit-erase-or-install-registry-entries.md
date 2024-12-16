@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Guide: Easily Edit, Erase or Install Registry Entries"
-date: 2024-08-18T11:03:53.498Z
-updated: 2024-08-19T11:03:53.498Z
+date: 2024-12-15T11:42:50.571Z
+updated: 2024-12-16T06:23:22.115Z
 tags:
   - win11
   - win10
@@ -15,6 +15,10 @@ thumbnail: https://thmb.techidaily.com/a6de986a3fdb94c7142abb7e1738397c8994a30f4
 
 ## Resolve Persistent Windows Explorer Freezing with These 7 Tips
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## [7 Fixes If Windows Explorer Keeps Crashing](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1)
 
 * Share
@@ -26,9 +30,6 @@ thumbnail: https://thmb.techidaily.com/a6de986a3fdb94c7142abb7e1738397c8994a30f4
 
  File Explorer( also known as Windows Explorer) is the default file manager in Windows, but it is so much more. The explorer.exe process is responsible for generating part of your user interface – Start Menu, Desktop icons, and more. If your Windows Explorer keeps crashing your experience using your PC will be awful.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ## If you are not aware of the reasoning why your Windows Explorer is crashing, try these methods to solve your problem
 
 * [Method 1: Clear Windows Explorer History](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1)
@@ -38,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/a6de986a3fdb94c7142abb7e1738397c8994a30f4
 * [Method 5: Separate File Explorer Processes](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1)
 * [Method 6: Scan your PC for Malware](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1)
 * [Method 7: Check Windows Error Logs](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 1: Clear Windows Explorer History
 
@@ -52,8 +57,9 @@ To clear your Windows Explorer history do the following:
 ![Clear option](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-windows-explorer/Method1-step3.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 2: Run System File Checker
 
  If your File Explorer keeps crashing there is a chance that a file is corrupted or missing. To check if this is the issue and repair the file you will have to perform a system check with the System File Checker tool. You will have to use the Windows PowerShell and to open it do the following:
@@ -65,6 +71,10 @@ To clear your Windows Explorer history do the following:
 
  By performing this the SFC tool will scan your computer for file errors. If it detects errors Windows will repair and replace the files, which should fix your File Explorer crashing issues.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 3: Update your Windows OS
 
  If your Windows OS is outdated and your Windows File Explorer keeps crashing, maybe the fix of the issue lies there.
@@ -75,16 +85,14 @@ To check for new system updates:
 2. Navigate to**Update&Security** and click on**Windows Updates**  
 ![update and security](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-windows-explorer/Method3-step2.png)
 3. If you see that there are many pending updates press**Install now** . If there aren’t any you can manually check for new updates by pressing Check for updates  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![windows update](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-windows-explorer/Method3-step3.jpg)
 
  If there are any available updates Windows will download them. Restart your PC to install them.
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 4: Disable 3rd-Party Explorer Extensions
 
  3rd-party Explorer extensions sometimes can be the reason behind Windows Explorer crashes.
@@ -124,28 +132,20 @@ This method will prevent your Windows Explorer to crash entirely.
 You can perform a malware scan with Windows Security:
 
 1. Right-click the**Start Menu** and select**Run**  
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![run](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-windows-explorer/Method6-step1.png)
 2. Type`windowsdefender` and press**OK**  
 ![windowsdefender command](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-windows-explorer/Method6-step2.png)
 3. In the Windows Security windows press**Virus & threat protection** , and press **Scan options**  
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **![virus and threat protection](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-windows-explorer/Method6-step3.png)**
 4. Select Microsoft Defender Offline scan and press**Scan Now**  
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![scan now](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-windows-explorer/Method6-step4.png)
 
  After this Windows will reboot and begin the scan for malware on your PC. If malware is being detected Windows security will try to remove it or quarantine it. This should fix your stability issues and make your PC safe to use again.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 7: Check Windows Error Logs
 
  If all of the above methods did not help you to resolve your crashing File Explorer issue, you will need to look for specific problems that are causing the crash.
@@ -155,14 +155,8 @@ You can investigate the cause in Windows error logs.
 To do this follow the instructions below:
 
 1. Right-click the**Start Menu** and select**Run**  
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ![run](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-windows-explorer/Method7-step1.png)
 2. In the Run box type`eventvwr` and press**OK** . This will launch the Event Viewer  
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![even view command](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-windows-explorer/Method7-step2.png)
 3. In the “**Event View** ” click on**Windows Logs -> Application** in the left-hand menu  
 ![windows logs](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-windows-explorer/Method7-step3.png)
@@ -170,23 +164,26 @@ To do this follow the instructions below:
 ![event properties](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-windows-explorer/Method7-step4.png)
 5. If you find such errors, select it and check the General tab information. This will give you a bit of information on what the issue is and with further investigation and troubleshooting you will be able to fix it
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  For example, if a third-party app is the reason behind the Windows Explorer crash, it will be listed here and you will be able to remove it to solve the problem.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Conclusion
 
  Hopefully, the above methods managed to help you fix your File Explorer crashes. If the issue persists you will probably have to turn to a specialist or reinstall your Windows OS.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## We can help you every time when…
 
 * you cannot find the program in the Apps & Features list
@@ -202,8 +199,6 @@ To do this follow the instructions below:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -211,4 +206,22 @@ To do this follow the instructions below:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-flv-video-unification-techniques/"><u>[New] 2024 Approved FLV Video Unification Techniques</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-masterful-phone-apps-altering-speech-patterns/"><u>[New] In 2024, Masterful Phone Apps Altering Speech Patterns</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-leading-free-art-pages-for-easy-no-cost-illustrations-for-2024/"><u>[Updated] Leading Free Art Pages for Easy, No-Cost Illustrations for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/diy-repair-techniques-to-get-your-wrath-of-the-righteeous-game-running-smoothly/"><u>DIY Repair Techniques to Get Your 'Wrath of the Righteeous' Game Running Smoothly</u></a></li>
+<li><a href="https://win-forum.techidaily.com/experience-next-level-software-removal-with-revo-uninstaller-pro-5/"><u>Experience Next-Level Software Removal with Revo Uninstaller Pro 5</u></a></li>
+<li><a href="https://win-forum.techidaily.com/expert-tips-for-forcing-windows-app-closure-with-ease-via-revouninstaller-tools/"><u>Expert Tips for Forcing Windows App Closure with Ease via RevoUninstaller Tools</u></a></li>
+<li><a href="https://win-forum.techidaily.com/harnessing-the-reach-of-top-social-platforms-tips-for-facebook-twitter-instagram-and-youtube-success/"><u>Harnessing the Reach of Top Social Platforms: Tips for Facebook, Twitter, Instagram & Youtube Success</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-execute-a-thorough-factory-reset-on-windows-11-insights-from-revo-uninstaller-pro-4/"><u>How to Execute a Thorough Factory Reset on Windows 11: Insights From Revo Uninstaller Pro 4</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/how-to-stay-on-top-of-youtube-moderation-standards/"><u>How to Stay on Top of YouTube Moderation Standards</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-creating-a-singular-stream-from-diverse-youtube-videos/"><u>In 2024, Creating a Singular Stream From Diverse YouTube Videos</u></a></li>
+<li><a href="https://win-forum.techidaily.com/keep-ahead-with-technology-the-ultimate-guide-for-updating-device-drivers-in-windows-10/"><u>Keep Ahead with Technology: The Ultimate Guide for Updating Device Drivers in Windows 10</u></a></li>
+<li><a href="https://win-blog.techidaily.com/master-the-techniques-preventing-battlefield-1-from-crashing-instantly/"><u>Master the Techniques: Preventing Battlefield 1 From Crashing Instantly</u></a></li>
+<li><a href="https://review-topics.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Honor Magic 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-determining-your-windows-10-powershell-edition/"><u>Step-by-Step Guide: Determining Your Windows 10 PowerShell Edition</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96326874-9781501169328-the-energy-codes/"><u>The Energy Codes | Free Book</u></a></li>
+</ul></div>
 

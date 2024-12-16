@@ -1,7 +1,7 @@
 ---
 title: "Essential Social Networking Sites: Exploring FB, TW, IG, YT"
-date: 2024-08-18T11:04:09.621Z
-updated: 2024-08-19T11:04:09.621Z
+date: 2024-12-08T23:40:31.802Z
+updated: 2024-12-16T13:18:51.538Z
 tags:
   - win11
   - win10
@@ -16,8 +16,9 @@ thumbnail: https://thmb.techidaily.com/82b525816e76358af913747ae984d059f5f8a464e
 ## The Big Four of Social Networking - Facebook, Twitter, Instagram, and YouTube Explained
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## [5 Ways to Lock your Windows PC](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1)
 
 * Share
@@ -32,8 +33,9 @@ thumbnail: https://thmb.techidaily.com/82b525816e76358af913747ae984d059f5f8a464e
  Below we will go through several methods of how to lock your Windows PC:
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## I. To lock your Windows 11 PC through the Start menu, follow these steps
 
 1. Click on the**‘Start’** button located at the bottom left corner of the screen or press the**‘Windows’** key on your keyboard to open the Start menu. ![Start menu lock](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/lock-pc/method-1-start-menu.png)
@@ -41,26 +43,26 @@ thumbnail: https://thmb.techidaily.com/82b525816e76358af913747ae984d059f5f8a464e
 3. This will open a menu with various options. Click on**‘Lock’** from the list of options.
 4. Alternatively, you can also press the**‘Windows’** key +**‘L’** on your keyboard as a shortcut to lock your PC instantly.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## II. Another way to lock your Windows Computer and protect your data is through the Task Manager. Here are the steps you have to take in order to do that
 
 1. Right-click on the taskbar at the bottom of your screen. This will open a context menu.
 2. From the context menu, select**“Task Manager”** . Alternatively, you can press**Ctrl + Shift + Esc** on your keyboard to open Task Manager directly.
 3. Once Task Manager opens, go to the**“File”** menu located in the top left corner of the window.
 4. Select**“App History”**
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. From the dropdown menu, select**“Run new task”** . ![Run new task](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/lock-pc/method-2-task-manager-1.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 6. In the**“Create new task”** window, type**“tsdiscon”** (short for “Terminal Services Disconnect”) into the text field. ![Create new task](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/lock-pc/method-2-task-manager-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Check the box next to**“Create this task with administrative privileges”** .
 8. Click**“OK”** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## III. How to Lock a Windows 11 computer via the Ctrl + Alt + Delete Menu
 
  Pressing**Ctrl + Alt + Delete** triggers a distinct Windows menu to appear on your screen, offering a range of functionalities. Among these options is the Task Manager, granting you the capability to perform several actions, including switching user accounts, changing passwords, and, most notably for our discussion, locking your PC. Simply selecting**“Lock”** from this menu instantly secures your Windows 11 device.
@@ -87,10 +89,11 @@ thumbnail: https://thmb.techidaily.com/82b525816e76358af913747ae984d059f5f8a464e
 
  In matters of cybersecurity, you represent the primary line of defense. The method you select to lock your PC is less crucial than ensuring that you do so consistently. Additionally, it’s essential to configure your PC to lock itself automatically in case of oversight.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## We can help you every time when…
 
@@ -107,8 +110,6 @@ thumbnail: https://thmb.techidaily.com/82b525816e76358af913747ae984d059f5f8a464e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -116,4 +117,23 @@ thumbnail: https://thmb.techidaily.com/82b525816e76358af913747ae984d059f5f8a464e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-top-approaches-to-non-audio-recording/"><u>[New] 2024 Approved Top Approaches to Non-Audio Recording</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-strategic-planning-for-effective-live-video-production-on-fb/"><u>[New] Strategic Planning for Effective Live Video Production on FB</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-the-ultimate-checklist-for-zoom-recording/"><u>[Updated] 2024 Approved The Ultimate Checklist for Zoom Recording</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-step-by-step-guide-to-joining-and-initiating-zoom-meetings-on-android/"><u>2024 Approved Step-By-Step Guide to Joining & Initiating Zoom Meetings on Android</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-unlocking-user-generated-content-harnessing-community-influence/"><u>2024 Approved Unlocking User-Generated Content Harnessing Community Influence</u></a></li>
+<li><a href="https://techtrends.techidaily.com/are-minecraft-realms-worth-your-time-an-in-depth-analysis/"><u>Are Minecraft Realms Worth Your Time? An In-Depth Analysis</u></a></li>
+<li><a href="https://win-forum.techidaily.com/comprehensive-guide-using-revo-uninstaller-pro-for-a-fresh-start-on-your-windows-11-pc/"><u>Comprehensive Guide: Using Revo Uninstaller Pro for a Fresh Start on Your Windows 11 PC</u></a></li>
+<li><a href="https://win-forum.techidaily.com/connecting-the-world-an-overview-of-top-platforms-facebook-twitter-instagram-and-youtube/"><u>Connecting the World: An Overview of Top Platforms - Facebook, Twitter, Instagram & Youtube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-major-social-media-platforms-facebook-twitter-instagram-and-youtube/"><u>Exploring Major Social Media Platforms: Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-online-communities-across-facebook-twitter-instagram-and-youtube-platforms/"><u>Exploring Online Communities Across Facebook, Twitter, Instagram & YouTube Platforms</u></a></li>
+<li><a href="https://media-tips.techidaily.com/free-netflix-streaming-application-downloader-for-windows-10-users/"><u>Free Netflix Streaming Application Downloader for Windows 10 Users</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-change-credit-card-from-your-iphone-14-plus-apple-id-and-apple-pay-by-drfone-ios/"><u>How to Change Credit Card from Your iPhone 14 Plus Apple ID and Apple Pay</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-worlds-most-influential-social-sites-a-closer-look-at-facebook-twitter-instagram-and-youtube/"><u>Navigating the World's Most Influential Social Sites: A Closer Look at Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-the-palworld-search-session-error-proven-techniques-for-a-smoother-experience/"><u>Solving the 'Palworld Search Session Error': Proven Techniques for a Smoother Experience</u></a></li>
+<li><a href="https://win-forum.techidaily.com/troubleshooting-class-not-registration-problems-on-windows-systems/"><u>Troubleshooting 'Class Not Registration' Problems on Windows Systems</u></a></li>
+<li><a href="https://win-forum.techidaily.com/troubleshooting-tips-how-to-rollback-windows-11-updates/"><u>Troubleshooting Tips: How To Rollback Windows 11 Updates</u></a></li>
+</ul></div>
 

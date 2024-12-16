@@ -1,7 +1,7 @@
 ---
 title: "The Alternative Path: Operating System Setup for Incompatible Processors with Windows 11"
-date: 2024-08-18T11:03:32.308Z
-updated: 2024-08-19T11:03:32.308Z
+date: 2024-12-15T06:56:11.257Z
+updated: 2024-12-16T10:09:02.170Z
 tags:
   - win11
   - win10
@@ -15,10 +15,6 @@ thumbnail: https://thmb.techidaily.com/e2b3e6d5f3444ca9eb9fe2e05133bcedc239a2116
 
 ## Resolve Persistent Windows Explorer Freezing with These 7 Tips
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## [7 Fixes If Windows Explorer Keeps Crashing](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1)
 
 * Share
@@ -30,6 +26,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  File Explorer( also known as Windows Explorer) is the default file manager in Windows, but it is so much more. The explorer.exe process is responsible for generating part of your user interface – Start Menu, Desktop icons, and more. If your Windows Explorer keeps crashing your experience using your PC will be awful.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## If you are not aware of the reasoning why your Windows Explorer is crashing, try these methods to solve your problem
 
 * [Method 1: Clear Windows Explorer History](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1)
@@ -40,9 +40,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 * [Method 6: Scan your PC for Malware](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1)
 * [Method 7: Check Windows Error Logs](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ### Method 1: Clear Windows Explorer History
 
  It is not very common for Windows users to clear their Windows Explorer history. Using Windows Explorer for long periods of time can accumulate a lot of files which can cause the utility to crash.
@@ -54,6 +51,14 @@ To clear your Windows Explorer history do the following:
 ![file explorer options](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-windows-explorer/Method1-step2.png)
 3. Locate the**Privacy** section and click the “**Clear** ” button  
 ![Clear option](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-windows-explorer/Method1-step3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2: Run System File Checker
 
@@ -67,8 +72,9 @@ To clear your Windows Explorer history do the following:
  By performing this the SFC tool will scan your computer for file errors. If it detects errors Windows will repair and replace the files, which should fix your File Explorer crashing issues.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 3: Update your Windows OS
 
  If your Windows OS is outdated and your Windows File Explorer keeps crashing, maybe the fix of the issue lies there.
@@ -77,18 +83,12 @@ To check for new system updates:
 
 1. 1\. Right-click on the**Start Menu** and press**Settings**
 2. Navigate to**Update&Security** and click on**Windows Updates**  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![update and security](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-windows-explorer/Method3-step2.png)
 3. If you see that there are many pending updates press**Install now** . If there aren’t any you can manually check for new updates by pressing Check for updates  
 ![windows update](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-windows-explorer/Method3-step3.jpg)
 
  If there are any available updates Windows will download them. Restart your PC to install them.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 4: Disable 3rd-Party Explorer Extensions
 
  3rd-party Explorer extensions sometimes can be the reason behind Windows Explorer crashes.
@@ -105,9 +105,6 @@ You will ask – but what are 3rd-party Explorer extensions?
 2. When you install it run the app to scan for extensions. To ensure that only 3rd-party extensions are being scanned go to**Options->Hide All Microsoft Extensions**
 3. Select all the extensions after the scan is complete, right-click and press**Disable Selected items**
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 5: Separate File Explorer Processes
 
  File Explorer runs as a single process on your PC. Every time you open a new Windows File Explorer window is placed in a single system process. If your PC is slower it can cause some stability issues and in rare cases, File Explorer crashes.
@@ -118,18 +115,20 @@ To fix the issue do the following:
 ![change folder and search options](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-windows-explorer/Method5-step1.png)
 2. In the Folder Options windows navigate to the**View** tab
 3. In the Advanced settings windows check the “**Launch windows in a separate process** ” checkbox  
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ![launch windows in separate process](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-windows-explorer/Method5-step2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Click OK to save and apply the settings.
 
 This method will prevent your Windows Explorer to crash entirely.
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 6: Scan your PC for Malware
 
  If your Windows Explorer keeps crashing there is a chance that your PC is infected with malware. An infected PC is not safe to use and can be the reason behind the instability issues.
@@ -143,10 +142,11 @@ You can perform a malware scan with Windows Security:
 3. In the Windows Security windows press**Virus & threat protection** , and press **Scan options**  
 **![virus and threat protection](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-windows-explorer/Method6-step3.png)**
 4. Select Microsoft Defender Offline scan and press**Scan Now**  
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![scan now](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-windows-explorer/Method6-step4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After this Windows will reboot and begin the scan for malware on your PC. If malware is being detected Windows security will try to remove it or quarantine it. This should fix your stability issues and make your PC safe to use again.
 
@@ -159,25 +159,25 @@ You can investigate the cause in Windows error logs.
 To do this follow the instructions below:
 
 1. Right-click the**Start Menu** and select**Run**  
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ![run](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-windows-explorer/Method7-step1.png)
 2. In the Run box type`eventvwr` and press**OK** . This will launch the Event Viewer  
 ![even view command](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-windows-explorer/Method7-step2.png)
 3. In the “**Event View** ” click on**Windows Logs -> Application** in the left-hand menu  
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![windows logs](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-windows-explorer/Method7-step3.png)
 4. In the Application panel on the right, search for Event IDs with the value 1000\. Event ID 1000 usually points to an error with the Windows Explorer process  
+
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![event properties](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/fix-windows-explorer/Method7-step4.png)
 5. If you find such errors, select it and check the General tab information. This will give you a bit of information on what the issue is and with further investigation and troubleshooting you will be able to fix it
 
  For example, if a third-party app is the reason behind the Windows Explorer crash, it will be listed here and you will be able to remove it to solve the problem.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -185,10 +185,6 @@ To do this follow the instructions below:
 
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ## We can help you every time when…
 
 * you cannot find the program in the Apps & Features list
@@ -204,8 +200,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -213,4 +207,24 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/new-effortlessly-download-top-5-chromium-plug-ins-for-fb-video-access/"><u>[New] Effortlessly Download Top 5 Chromium Plug-Ins for FB Video Access</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-youtube-earnings-update-what-you-need-to-know/"><u>[New] In 2024, YouTube Earnings Update - What You Need to Know</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-ethical-path-to-engaging-interviews/"><u>[New] The Ethical Path to Engaging Interviews</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-how-to-use-periscope-the-complete-guide/"><u>[Updated] How to Use Periscope The Complete Guide</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-10-ways-free-and-paid-to-record-skype-calls-on-windows-and-mac/"><u>[Updated] In 2024, 10 Ways [Free & Paid] to Record Skype Calls on Windows & Mac</u></a></li>
+<li><a href="https://win-forum.techidaily.com/activating-network-device-wakeup-for-windows-11-users/"><u>Activating Network Device Wakeup for Windows 11 Users</u></a></li>
+<li><a href="https://win-forum.techidaily.com/clear-up-disk-space-in-windows-11-quickly-using-revouninstaller/"><u>Clear Up Disk Space in Windows 11 Quickly Using RevoUninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/guide-reducing-and-managing-full-disk-consumption-on-your-windows-11-pc/"><u>Guide: Reducing and Managing Full Disk Consumption on Your Windows 11 PC</u></a></li>
+<li><a href="https://win-forum.techidaily.com/guide-resolving-application-cannot-execute-problems-on-personal-computers/"><u>Guide: Resolving ‘Application Cannot Execute’ Problems on Personal Computers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-art-and-craft-of-podcast-storytelling/"><u>In 2024, The Art and Craft of Podcast Storytelling</u></a></li>
+<li><a href="https://win-dash.techidaily.com/install-latest-graphics-drivers-nvidias-geforce-rtx-3090-on-windows-10-8-and-7/"><u>Install Latest Graphics Drivers: NVIDIA's GeForce RTX 3090 on Windows 10, 8 & 7</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/integrating-meta-quest-workout-metrics-into-apple-health-step-by-step-instructions/"><u>Integrating Meta Quest Workout Metrics Into Apple Health: Step-by-Step Instructions</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-digital-engagement-with-facebook-twitter-instagram-and-youtube/"><u>Mastering Digital Engagement with Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-file-management-a-step-by-step-tutorial-for-force-removing-directories-in-windows-11-using-revouninstaller/"><u>Mastering File Management: A Step-by-Step Tutorial for Force Removing Directories in Windows 11 Using RevoUninstaller</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/newest-geforce-rtx-2080-drivers-compatible-with-windows-10-7-and-8/"><u>Newest GeForce RTX 2080 Drivers: Compatible with Windows 10, 7 & 8</u></a></li>
+<li><a href="https://win-forum.techidaily.com/optimize-your-windows-11-experience-by-updating-device-drivers-swiftly-and-smartly/"><u>Optimize Your Windows 11 Experience by Updating Device Drivers Swiftly and Smartly</u></a></li>
+<li><a href="https://win-forum.techidaily.com/resolve-frequent-windows-explorer-disruptions-using-our-proven-7-step-troubleshooting-guide-and-revouninstaller-assistance/"><u>Resolve Frequent Windows Explorer Disruptions Using Our Proven 7-Step Troubleshooting Guide & RevoUninstaller Assistance</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "The Big Four of Online Communication: Exploring Facebook, Twitter, Instagram & Youtube"
-date: 2024-08-18T11:01:47.941Z
-updated: 2024-08-19T11:01:47.941Z
+date: 2024-12-09T03:14:34.000Z
+updated: 2024-12-15T22:43:03.177Z
 tags:
   - win11
   - win10
@@ -15,6 +15,10 @@ thumbnail: https://thmb.techidaily.com/5f29ab47c82493b144af09fd3ee1e6f095ceaed40
 
 ## Exploring Key Social Networks: Unpacking the Influence of Facebook, Twitter, Instagram & YouTube
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## [How to Fix the “Something Didn’t Go As Planned” Error in Windows 11](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1)
 
 * Share
@@ -24,9 +28,6 @@ thumbnail: https://thmb.techidaily.com/5f29ab47c82493b144af09fd3ee1e6f095ceaed40
 
 [How to Fix the “Something Didn’t Go As Planned” Error in Windows 11](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/something-didnt-go-as-planned-error/cover.png) ](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## What is the “Something Didn’t Go As Planned” error and why you can encounter it
 
  The “Something Didn’t Go As Planned” error is a common occurrence that Windows 11 users may encounter while using their computers. This error message typically appears when an unexpected issue arises during the execution of a task or operation on the operating system. While the error message itself doesn’t provide much information about the specific cause of the problem, there are several common factors that can contribute to its occurrence.
@@ -51,6 +52,11 @@ thumbnail: https://thmb.techidaily.com/5f29ab47c82493b144af09fd3ee1e6f095ceaed40
    2. Click on the**“Check for updates”** button.  
    ![check for updates](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/something-didnt-go-as-planned-error/method-2-windows-update.jpg)  
    3. If any updates are available, download and install them.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
    4. Restart your computer if prompted.
 3. Run Windows Update Troubleshooter: If updating Windows didn’t resolve the issue, you can try running the built-in Windows Update Troubleshooter.  
    1. Open the Settings app, and navigate to Update & Security.  
@@ -62,36 +68,23 @@ thumbnail: https://thmb.techidaily.com/5f29ab47c82493b144af09fd3ee1e6f095ceaed40
 5. Perform a clean boot: Sometimes, third-party applications or services can conflict with Windows and cause errors. Performing a clean boot helps you identify if any non-Microsoft services are causing the “Something Didn’t Go As Planned” error.  
    1. Press Windows + R, type “msconfig,” and hit Enter.  
    2. In the System Configuration window, go to the Services tab and check the “Hide all Microsoft services” box.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
    ![system configuration](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/something-didnt-go-as-planned-error/method-5-system-configuration-step-b.jpg)  
    3. Click on “Disable all” and then go to the Startup tab, selecting “Open Task Manager.”  
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
    ![system configuration](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/something-didnt-go-as-planned-error/method-5-system-configuration-step-c.jpg)  
    4. Disable all the startup applications one by one.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
    5. Restart your computer, and check if the error persists.
 6. Use System File Checker (SFC) and DISM: Corrupted system files can lead to various errors in Windows, including the “Something Didn’t Go As Planned” error. To fix this, you can use the built-in System File Checker (SFC) and Deployment Image Servicing and Management (DISM) tools. Open Command Prompt as an administrator, then run the following commands one by one:  
    * sfc /scannow  
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
    ![command prompt](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/something-didnt-go-as-planned-error/method-6-command-prompt-1.jpg)  
    * dism /online /cleanup-image /restorehealth  
    ![command prompt](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/blog/something-didnt-go-as-planned-error/method-6-command-prompt-2.jpg)  
@@ -103,23 +96,12 @@ Wait for the process to complete and restart your computer.
 
  In conclusion, encountering errors in Windows 11, such as the “Something Didn’t Go As Planned” error, can be frustrating. However, by following the troubleshooting steps outlined above, you can increase your chances of resolving the issue and getting your system back up and running smoothly.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## We can help you every time when…
 
 * you cannot find the program in the Apps & Features list
@@ -135,8 +117,6 @@ Wait for the process to complete and restart your computer.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -144,4 +124,20 @@ Wait for the process to complete and restart your computer.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-battlefield-geniuses-discovering-the-quintessential-7-total-war-experiences/"><u>[New] Battlefield Geniuses Discovering the Quintessential 7 Total War Experiences</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-enhanced-google-chats-essential-techniques-4-ways-for-2024/"><u>[New] Enhanced Google Chats Essential Techniques, 4 Ways for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-transform-ideas-into-visuals-free-templates-for-video-makers/"><u>[New] In 2024, Transform Ideas Into Visuals Free Templates for Video Makers</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-the-innovators-choice-best-gimbal-systems-for-video-creators-for-2024/"><u>[New] The Innovator’s Choice Best Gimbal Systems for Video Creators for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-creative-stop-motion-cinema-top-15-selections/"><u>[Updated] Creative Stop-Motion Cinema - Top 15 Selections</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-from-your-iphone-15-pro-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code From your iPhone 15 Pro</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conquering-error-0x8000ffff-in-windows-based-printers/"><u>Conquering Error 0X8000FFFF in Windows-Based Printers</u></a></li>
+<li><a href="https://win-forum.techidaily.com/guide-to-encrypting-text-files-with-secure-passwords-using-revo-uninstaller/"><u>Guide to Encrypting Text Files with Secure Passwords Using Revo Uninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/guide-successfully-installing-windows-11-on-non-supported-processors/"><u>Guide: Successfully Installing Windows 11 on Non-Supported Processors</u></a></li>
+<li><a href="https://win-forum.techidaily.com/harnessing-the-power-of-major-social-media-insights-into-facebook-twitter-instagram-and-youtube-strategies/"><u>Harnessing The Power Of Major Social Media: Insights Into Facebook, Twitter, Instagram & Youtube Strategies</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-get-rid-of-system-memory-logs-in-windows-11-a-comprehensive-guide/"><u>How to Get Rid of System Memory Logs in Windows 11: A Comprehensive Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Vivo Y27 4G | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/tles-made-simple-top-10-zero-cost-downloaders-for-2024/"><u>Subtitles Made Simple Top 10 Zero-Cost Downloaders for 2024</u></a></li>
+</ul></div>
 

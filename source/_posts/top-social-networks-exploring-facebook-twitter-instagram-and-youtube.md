@@ -1,7 +1,7 @@
 ---
 title: Top Social Networks - Exploring Facebook, Twitter, Instagram and YouTube
-date: 2024-08-18T11:01:56.324Z
-updated: 2024-08-19T11:01:56.324Z
+date: 2024-12-13T18:06:34.732Z
+updated: 2024-12-16T00:11:22.924Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/6304baca930779dbe6ae3412704c6577c66eb8d78
 
 ## Exploring the Biggest Networking Sites: Facebook, Twitter, Instagram, and YouTube
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## [What is BIOS](https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1)
 
 * Share
@@ -30,8 +27,9 @@ thumbnail: https://thmb.techidaily.com/6304baca930779dbe6ae3412704c6577c66eb8d78
  BIOS (basic input/output system) is actually a program that the computer’s microprocessor is using to start the computer system. It’s other functions are to manage data flow between the computer’s operating system (OS) and attached devices, such as the hard disk, video adapter, keyboard, mouse and printer.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## First lets learn more about the history of BIOS
 
  The term BIOS was first used by Gary Kildall in 1975\. The first BIOS was incorporated in IBMs’ first personal computer in 198\. In the years to come, it gained popularity within other PCs, becoming an integral part of computers for some time.Unfortunately BIOS’ popularity starts to decline in favor of a newer technology: Unified Extensible Firmware Interface (UEFI). Intel announced a plan in 2017 to retire support for legacy BIOS systems by 2020, replacing them with UEFI.
@@ -40,9 +38,6 @@ thumbnail: https://thmb.techidaily.com/6304baca930779dbe6ae3412704c6577c66eb8d78
 
  The BIOS includes instructions on how to load basic computer hardware. BIOS tests your system to verify the computer meets requirements to boot up properly. If the computer does not pass the test, you hear a combination of beeps indicating what is malfunctioning in the computer.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What are the four main functions of a PC BIOS?
 
 * **POST** – BIOS performs a test on your computer hardware and make sure no errors exist before loading the operating system.
@@ -50,11 +45,19 @@ thumbnail: https://thmb.techidaily.com/6304baca930779dbe6ae3412704c6577c66eb8d78
 * **BIOS drivers** – Low-level drivers that give the computer basic operational control over your computer’s hardware.
 * **BIOS setup or CMOS setup** – Configuration program that allows you to configure hardware settings including system settings, such as date, time, and computer passwords.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How does BIOS work?
 
  Most computers come with included BIOS in them as firmware on the chip of your motherboard. BIOS is a program that is accessible by the microprocessor on an erasable programmable read-only memory (EPROM) chip. When you turn on your PC the microprocessor passes control to the BIOS.
 
  When you first start your computer BIOS checks if your system is operational. If everything is working on your system BIOS load the OS into the computer’s RAM (random access memory) from your hard disk.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Accessing BIOS
 
@@ -73,22 +76,21 @@ thumbnail: https://thmb.techidaily.com/6304baca930779dbe6ae3412704c6577c66eb8d78
  Another unique exploit involving the manipulation of BIOS was Plundervolt. Plundervolt could be used to mess with a computer’s power supply at the time data was being written to memory, causing errors that lead to security gaps. Intel released a BIOS patch to defend against it.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Can a BIOS chip be upgraded or updated?
 
  Adding additional memory to a BIOS chip, as an upgrade, can only be done by replacing the existing BIOS chip with a new, more advanced BIOS chip.
 
  The data on a BIOS chip can be updated if it’s a flash BIOS. Using specially designed software, the BIOS can be updated to fix problems or add new features for the motherboard.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![icon of revo uninstaller pro](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/icons/rup5-64.png)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## We can help you every time when…
 
 * you cannot find the program in the Apps & Features list
@@ -104,8 +106,6 @@ thumbnail: https://thmb.techidaily.com/6304baca930779dbe6ae3412704c6577c66eb8d78
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -113,4 +113,24 @@ thumbnail: https://thmb.techidaily.com/6304baca930779dbe6ae3412704c6577c66eb8d78
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-behind-the-scenes-windows-pc-essentials-for-flawless-live-tv-screen-capture/"><u>[New] 2024 Approved Behind the Scenes Windows PC Essentials for Flawless Live TV Screen Capture</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-experience-the-ps3-gaming-prowess-on-modern-pcs/"><u>[New] 2024 Approved Experience the PS3 Gaming Prowess on Modern PCs</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-ultimate-tutorial-on-3d-lut-tools/"><u>[Updated] 2024 Approved Ultimate Tutorial on 3D LUT Tools</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-how-to-automatically-resize-videos-for-instagram-on-mac-for-2024/"><u>[Updated] How to Automatically Resize Videos for Instagram on Mac for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-twitch-and-friendly-networks-efficient-crossposting-for-2024/"><u>[Updated] Twitch and Friendly Networks Efficient Crossposting for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-drafting-a-compelling-closing-statement-for-tiktok/"><u>2024 Approved Drafting a Compelling Closing Statement for TikTok</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-retrospective-viewing-inventive-approaches-for-backward-youtube-content/"><u>2024 Approved Retrospective Viewing Inventive Approaches for Backward YouTube Content</u></a></li>
+<li><a href="https://win-web3.techidaily.com/dysfunctional-interneurons-are-implicated-in-various-neurological-disorders/"><u>Dysfunctional Interneurons Are Implicated in Various Neurological Disorders.</u></a></li>
+<li><a href="https://win-forum.techidaily.com/finding-the-right-powershell-version-for-windows-10-using-command-prompt-or-powershell/"><u>Finding the Right PowerShell Version for Windows 10 Using Command Prompt or Powershell</u></a></li>
+<li><a href="https://win-forum.techidaily.com/fixing-windows-11-wont-run-problems-expert-strategies-and-solutions/"><u>Fixing 'Windows 11 Wont Run' Problems: Expert Strategies and Solutions</u></a></li>
+<li><a href="https://win-forum.techidaily.com/guide-to-enhanced-privacy-5-techniques-for-locking-down-your-windows-system/"><u>Guide to Enhanced Privacy: 5 Techniques for Locking Down Your Windows System</u></a></li>
+<li><a href="https://win-forum.techidaily.com/guide-successfully-setting-up-windows-11-on-non-compatible-processors/"><u>Guide: Successfully Setting Up Windows 11 on Non-Compatible Processors</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-manually-delete-blue-screen-error-dumps-from-your-windows-10-pc/"><u>How to Manually Delete Blue Screen Error Dumps From Your Windows 10 PC</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-power-management-configuring-wake-on-lan-on-windows-11-systems/"><u>Mastering Power Management: Configuring Wake-on-LAN on Windows 11 Systems</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-social-media-engagement-across-facebook-twitter-instagram-and-youtube-channels/"><u>Mastering Social Media Engagement Across Facebook, Twitter, Instagram & YouTube Channels</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-the-art-of-force-quitting-essential-techniques-for-windows-software-using-revouninstaller/"><u>Mastering the Art of Force Quitting: Essential Techniques for Windows Software Using RevoUninstaller</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-the-purchase-of-apple-vision-pro-expert-advice-on-optimizing-your-facial-recognition-experience-unveiled-strategies/"><u>Mastering the Purchase of Apple Vision Pro: Expert Advice on Optimizing Your Facial Recognition Experience - Unveiled Strategies</u></a></li>
+</ul></div>
 
