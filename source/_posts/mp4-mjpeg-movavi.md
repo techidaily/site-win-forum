@@ -1,7 +1,7 @@
 ---
 title: 線上免費 MP4 到 MJPEG 格式轉換 - 使用 Movavi 工具
-date: 2024-12-09T08:08:05.364Z
-updated: 2024-12-16T12:40:05.095Z
+date: 2025-01-05T16:58:53.705Z
+updated: 2025-01-10T11:11:25.578Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/bf80edb76b200416e748e081aeadfa243850d855fed3e04f595dd2c29ba995d4.jpg
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/bf80edb76b200416e748e081aeadfa243850d855f
 
 ![](https://cdn.staticont.net/page_type/0023/57/559e477e783936a5a58b105465a668a3338a02f2.webp)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 
 
 2024 **年最佳 Windows 相片檢視器**
@@ -58,10 +54,6 @@ Movavi Photo Editor
 [免費下載](https://tools.techidaily.com/movavi/products/)
 
 [![](https://cdn.staticont.net/pages/0023/55/a1d7ead2c461be068f9b2b2ab55c0f6d943eb66d.webp)](https://tools.techidaily.com/movavi/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [Alex Weng](https://tools.techidaily.com/movavi/products/)
 
@@ -165,6 +157,10 @@ Movavi 的首要目標是就是為您提供經過驗證的資訊。為了確保�
 
 ![](https://cdn.staticont.net/default/0023/55/0a43aca722d72a76f5dadbc9d81350a623b7681e.webp)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Windows Photo Viewer 圖片瀏覽器的最佳替代方案
 
 接著我們就來介紹一下 Windows 10 的 7 大桌面式相片檢視器。各個軟體都有不同程度的編輯功能，包括可以新增外掛程式，使軟體更適合專業任務，如批次編輯、製作電影或動畫等等。無論您是要快速處理大型圖像、簡單的使用者介面還是打開各類檔案格式的能力，都請您繼續閱讀，以便找到最適合自己的相片檢查器。
@@ -200,7 +196,7 @@ Photo Editor 是Movavi最新一代圖片瀏覽器，不僅能秀圖，也支援�
 ![](https://cdn.staticont.net/page_type/0013/45/45fecd0579324a4520e69e9420f2563d91051f49.webp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 使用者首次啟動 Apowersoft Photo Viewer 並開啟相片後，馬上就會注意到沒有任何控制項或工具。這是因為控制項或工具就巧妙隱藏在某個彈出式選單列之中，只要將滑鼠游標懸停特定位置 (底部和兩側)，選單列就會出現。這使得本相片檢視器成為最簡潔的應用程式之一，而圖像則會填滿整個視窗，成為焦點。本軟體能在圖像上充分新增形狀、線條和文字，但外觀和行為卻和早期的 Microsoft Paint 非常相似。不過，該軟體的優點是可以儲存到雲端，也可以直接將圖片分享到社群媒體上，讓使用者能輕易在網際網路上與朋友和家人分享照片。
@@ -218,7 +214,7 @@ Apowersoft Photo Viewer 也是十大照片管理工具的首選之一。要完�
 * GUI 看起來很舊，簡直像 XP，而且功能有限
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 
@@ -226,6 +222,10 @@ Apowersoft Photo Viewer 也是十大照片管理工具的首選之一。要完�
 [**FastStone Image Viewer**](https://www.faststone.org/)
 
 ![](https://cdn.staticont.net/page_type/0013/45/c659fda2308b16d082fd5654e28d9733cac48c1a.webp)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 FastStone 可能是最牢靠的看圖軟體了。該軟體在瀏覽、簡單的圖像編輯，以及快速檢視/比較圖片等方面，擁有卓越的成績。在處理大型圖像檔時，速度有時可能會減慢，但在一般的解析度下，該軟體能夠瞬間載入任何相片。左上角也有目錄式瀏覽，讓您不用匯入照片，就能輕鬆瀏覽電腦和硬碟內容。縮圖十分清晰，而且在捲動所述縮圖時，還會擴展為特寫視圖。值得注意的是，儘管 FastStone Image Viewer 對於個人和教育用途是免費的，但若要用於商業用途，則需要購買授權。授權需花費 34.95 美元，不過對多數人來說，這都不是問題。
 
@@ -236,6 +236,10 @@ FastStone 可能是最牢靠的看圖軟體了。該軟體在瀏覽、簡單的�
 缺點：
 
 * 對普通使用者而言工具太多了
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 
 
@@ -259,6 +263,10 @@ FastStone 可能是最牢靠的看圖軟體了。該軟體在瀏覽、簡單的�
 
 ![](https://cdn.staticont.net/page_type/0013/40/9462b44dd7787a9d521c67727a9d947cbc74b9ef.webp)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 與 FastStone 的圖片檢視器類似，XnView 的介面易於瀏覽，可以清晰顯示所有圖像，並為使用者提供所選照片的大型視圖。該軟體支援所有標準的圖像檔案類型，如 JPEG、PNG 和 TIFF，甚至還支援其他一些編解碼器，如相機的 RAW 檔等等。甚至還能當作多媒體瀏覽平台來使用，讓您開啟並檢查影音檔。雖然在新增動畫和轉換檔案方面沒有 Windows Photo Viewer 那麼全面，但仍不失為 XnView Classic 的推薦替代品，或者只需支付少量費用就能獲得強化的 MP 版本。
 
 優點：
@@ -269,15 +277,15 @@ FastStone 可能是最牢靠的看圖軟體了。該軟體在瀏覽、簡單的�
 
 * 圖片只能在單一頁籤中開啟且無法捲動
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 
 
 [**Nomacs**](https://github.com/nomacs/nomacs)
 
 ![](https://cdn.staticont.net/page_type/0013/45/3c872b24e843d2a8619d1d110f90c6a4aef905b7.webp)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 除了 Windows 10 相片檢視器的標準檢視選項外，Nomacs 還多了一個整潔的備註方塊。該放塊可供您放入評論，以供日後使用。無論您是需要匯出圖像以便日後在更複雜的軟體中進行編輯，還是僅僅是為了提醒自己相片中的人事物，這項功能都十分有用。在「調整」索引標籤中，也有些既實用又有趣的工具。其中一個叫做「Tiny Planet」，可以將您的圖像轉換為酷似地球儀的正方形裁剪照片，非常適合將風景照製作成 360 度的全景。更棒的是，無論您是要私下使用，還是有商業用途，Nomacs 都可以免費下載。
 
@@ -289,19 +297,11 @@ FastStone 可能是最牢靠的看圖軟體了。該軟體在瀏覽、簡單的�
 
 * 佈局過於簡單，可能會使初學者困惑
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 
 
 [**Google Photos**](https://www.google.com/intl/zh-TW/photos/about/)
 
 ![](https://cdn.staticont.net/page_type/0013/45/d64fdda203dbd8ccf5369a8901c4a494f69794ae.webp)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Google Photos 與其套件中的其他 Google 應用程式一起運作。這些應用程式都是在線上提供，而不會儲存在本機裝置上。這使得本工具非常適合那些隨時保持網路連線、並用多種裝置 (筆記型電腦、智慧型手機、平板電腦等等)，而且需要同步編輯的數位游牧民。然而，您仍可從五種不同的儲存模式中進行選擇，其中一種便是離線模式。離線儲存使您無論身在何方，都能存取檔案，而不需要網際網路連線。正如您所期望的那樣，Google 的介面流暢而現代，視窗中的工具都很直觀，但確實缺乏像 Windows Photo Viewer 那樣建立電影或新增動畫的能力。
 
@@ -329,6 +329,10 @@ Movavi Photo Editor
 
 ## 常見問題集
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 最好的 Windows 相片檢視器是什麼？
 
 以下是 Windows PC 最好的相片檢視器：
@@ -344,13 +348,13 @@ Movavi Photo Editor
 
 我們認為 Movavi Photo Editor 可以贏得這個頭銜! 本app不僅可秀圖 & 瀏覽照片，亦可用來分類與組織照片。透過便利的方式，輕鬆解決管理大批照片的難題。而且，它的AI臉部識別技術，能為每位家人自動開設相簿，賞圖與管理都超簡單。本app還內建了實用的照片編輯功能，能順暢地為你處理修圖大小事。只要擁有一套Photo Editor，便足以滿足所有照片相關之日常需求!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 什麼是Windows照片瀏覽器的良好替代品?
 
 這一個項目，我們推薦 Nomacs，它的外觀與操作均十分簡單。除了擁有近似 Windows 10 相片檢視器的基本選項外，Nomacs 還多了一個備註方塊。此欄位可以填入自己的評論或說明，以供日後參考。此外，它的「Tiny Planet」功能，可用來把照片轉換為類似地球儀的正方形裁切照片，相當適合用來產生富有創意的 360 度全景風景照。
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 那一個工具可以稱為最棒的Windows 10免費照片應用程式?
 
@@ -411,10 +415,6 @@ Movavi Photo Editor
 
 ![](https://cdn.staticont.net/large/0023/57/cf8906a2f1d2d8afde4fca802515cea44f819eb7.jpg)![](https://cdn.staticont.net/large/0023/57/a26cd736bdba4b196180fd96537ae9b75b6253ba.jpg)![](https://cdn.staticont.net/large/0023/57/c2e7dff79a124e18600d55aec01616cde09d6c5b.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 超過 150萬位用戶已訂閱我們的電子報
 
 您的電子郵件
@@ -438,16 +438,24 @@ Movavi Photo Editor
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-expert-guide-downloading-and-converting-vimeo-video-mp4/"><u>[Updated] 2024 Approved Expert Guide Downloading and Converting Vimeo Video (MP4)</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-masterful-methods-to-log-lol-bouts/"><u>[Updated] 2024 Approved Masterful Methods to Log LOL Bouts</u></a></li>
-<li><a href="https://win-forum.techidaily.com/pngmovavi/"><u>「オンラインPNG変換ツール：無料で迅速、Movaviが最適解」</u></a></li>
-<li><a href="https://win-forum.techidaily.com/convert-your-videos-from-avi-to-mp3-for-free-on-the-web-quick-and-trustworthy-conversion-by-movavi/"><u>Convert Your Videos From AVI to MP3 for Free on the Web: Quick and Trustworthy Conversion by Movavi</u></a></li>
-<li><a href="https://win-forum.techidaily.com/gratis-omzetten-van-m4a-naar-flv-online-simpelweg-en-efficient-met-movavi/"><u>Gratis Omzetten Van M4A Naar FLV Online - Simpelweg en Efficiënt Met Movavi</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-oppo-a2-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Oppo A2 | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-achieve-a-3-screen-display-connecting-monitors-with-your-device/"><u>How To Achieve A 3-Screen Display: Connecting Monitors With Your Device</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-pro-level-motion-capture-cameras-with-satellite-position-tracking/"><u>In 2024, Pro-Level Motion Capture Cameras with Satellite Position Tracking</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/optimizing-your-pc-to-handle-resource-intensive-applications-smoothly/"><u>Optimizing Your PC to Handle Resource-Intensive Applications Smoothly</u></a></li>
-<li><a href="https://win-forum.techidaily.com/trasformare-i-file-dpx-in-formato-tiff-gratuitamente-online-con-movavi/"><u>Trasformare I File DPX in Formato TIFF Gratuitamente Online Con Movavi</u></a></li>
-<li><a href="https://win-dash.techidaily.com/update-your-hid-keyboard-with-simplicity-direct-driver-access-and-downloads/"><u>Update Your HID Keyboard with Simplicity: Direct Driver Access & Downloads</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/icro-music-moments-character-compositions/"><u>[New] Micro-Music Moments Character Compositions</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-motion-magic-quick-photography-tricks-for-samsung-users/"><u>[New] Motion Magic Quick Photography Tricks for Samsung Users</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-gaining-clarity-on-your-youtube-audiences-behavior/"><u>[Updated] Gaining Clarity on Your YouTube Audience's Behavior</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-prime-17-solutions-for-removing-picture-outlines/"><u>2024 Approved Prime 17 Solutions for Removing Picture Outlines</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Samsung Galaxy A14 4G | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/connecting-the-world-exploring-facebook-twitter-instagram-and-youtube/"><u>Connecting the World: Exploring Facebook, Twitter, Instagram and YouTube</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/discover-the-power-of-snapchat-boomers-quickly-and-effectively/"><u>Discover the Power of Snapchat Boomers – Quickly & Effectively</u></a></li>
+<li><a href="https://win-forum.techidaily.com/easy-ways-to-cleanly-retract-windows-11-and-its-updates-via-revo-software/"><u>Easy Ways to Cleanly Retract Windows 11 and Its Updates via Revo Software</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/eloquentaiartisan-the-ai-empowered-editor/"><u>EloquentAIArtisan The AI-Empowered Editor</u></a></li>
+<li><a href="https://win-forum.techidaily.com/essential-platforms-in-digital-marketing-fb-tw-ig-yt-analysis/"><u>Essential Platforms in Digital Marketing: FB, TW, IG, YT Analysis</u></a></li>
+<li><a href="https://win-forum.techidaily.com/expert-techniques-to-wipe-out-files-and-folders-in-windows-aturate-using-command-prompt/"><u>Expert Techniques to Wipe Out Files and Folders in Windows Aturate Using Command Prompt</u></a></li>
+<li><a href="https://win-forum.techidaily.com/expert-tips-for-deleting-temporary-files-in-windows-10-systems/"><u>Expert Tips for Deleting Temporary Files in Windows 10 Systems</u></a></li>
+<li><a href="https://win-forum.techidaily.com/finding-out-what-powershell-version-is-installed-on-your-pc-with-windows-10/"><u>Finding Out What PowerShell Version Is Installed on Your PC with Windows 10</u></a></li>
+<li><a href="https://win-forum.techidaily.com/fixing-windows-11-wont-run-issues-expert-advice-and-solutions/"><u>Fixing Windows 11 Won't Run Issues: Expert Advice & Solutions</u></a></li>
+<li><a href="https://win-forum.techidaily.com/forcefully-close-unresponsive-windows-programs-a-step-by-step-guide-using-revouninstaller/"><u>Forcefully Close Unresponsive Windows Programs: A Step-by-Step Guide Using RevoUninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-disable-or-remove-specific-windows-11-updates-on-your-pc/"><u>How to Disable or Remove Specific Windows 11 Updates on Your PC</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/mastering-multimedia-balancing-audio-visuals-and-content-quality-live-for-2024/"><u>Mastering Multimedia Balancing Audio, Visuals, and Content Quality Live for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/the-ultimate-guide-to-supercharge-your-facebook-video-speed-for-2024/"><u>The Ultimate Guide to Supercharge Your Facebook Video Speed for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-a-non-responsive-huion-pen-with-these-5-effective-techniques/"><u>Troubleshoot a Non-Responsive Huion Pen with These 5 Effective Techniques</u></a></li>
 </ul></div>
 

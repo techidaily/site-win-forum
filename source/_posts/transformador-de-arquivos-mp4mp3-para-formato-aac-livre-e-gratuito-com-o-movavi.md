@@ -1,7 +1,7 @@
 ---
 title: Transformador De Arquivos MP4/MP3 Para Formato AAC Livre E Gratuito Com O Movavi
-date: 2024-12-30T16:06:48.875Z
-updated: 2025-01-03T17:21:18.718Z
+date: 2025-01-09T00:18:34.985Z
+updated: 2025-01-09T17:41:12.503Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/27d9679823f15c1f840af178653026beb0d15afa85251ef89317616bbcd9f8d8.jpg
@@ -32,10 +32,6 @@ We use cookies to improve the services we offer you. By continuing to browse thi
 [Download](https://tools.techidaily.com/movavi/slideshow-maker/)
 
 ![](https://cdn.staticont.net/page_type/0023/57/da3a4ba1ea2028efbf403f888f955e681fd3ba6f.webp)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 
 
@@ -138,6 +134,10 @@ Cons:
 
 * Some features behind a paywall
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 
 
 2\. [ThunderSoft Free Slideshow Maker](https://thundersoft-free-slideshow-maker.en.softonic.com)
@@ -176,6 +176,10 @@ Cons:
 3\. [Free Bolide Slideshow Creator](https://tools.techidaily.com/creator/products/)
 
 ![Free Bolide Slideshow Creator](https://cdn.staticont.net/pages/0012/31/fcf16c1e1d40036a3a6e88133febc8c6849beee5.webp)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **OS**: Windows
 
@@ -242,10 +246,6 @@ Cons:
 
 ![NCH](https://cdn.staticont.net/pages/0012/31/a82a5b53848242317bb23283bad7d2bcdb65ae08.webp)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **OS**: Windows, macOS
 
 **Licensing**: free version, paid home and pro versions
@@ -279,6 +279,10 @@ Cons:
 
 ![Focusky](https://cdn.staticont.net/pages/0012/31/56b132644ac2a5d34655944486f118bd8c663248.webp)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **OS**: Windows, macOS
 
 **Licensing**: free version, paid subscription or lifetime version
@@ -306,15 +310,15 @@ Cons:
 * Some features behind a paywall
 * The full version may seem a little bit expensive
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 
 
 7\. [Freemake Video Converter](https://www.freemake.com/free%5Fvideo%5Fconverter/)
 
 ![](https://cdn.staticont.net/pages/0012/82/46c9a54cb59fdcaf3ceb7f74209bac9f053d7429.webp)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **OS**: Windows
 
@@ -348,6 +352,10 @@ Cons:
 8\. [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/)
 
 ![](https://cdn.staticont.net/pages/0012/82/1f61eaa655d93982c06943be284ad3df116c6ae8.webp)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **OS**: macOS, Windows, Linux
 
@@ -408,6 +416,10 @@ Cons:
 * Limited functionality
 * No video export
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 
 
 10\. [Icecream Slideshow Maker](https://icecreamapps.com/Slideshow-Maker/)
@@ -441,10 +453,6 @@ Cons:
 * No multiplatform
 * Trial limitations
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Best free online slideshow makers
 
 Free online slideshow makers do not fundamentally differ from each other and many desktop applications. Anyway, we'll point out some general information and their features.
@@ -477,6 +485,10 @@ Pros:
 Cons:
 
 * Watermark in the free version
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 
 
@@ -566,6 +578,10 @@ Cons:
 * Lack of available customizations
 * Difficult registration
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 
 
 15\. [InVideo](https://invideo.io/)
@@ -594,15 +610,15 @@ Cons:
 
 * Registration required
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 
 
 16\. [Kizoa Slideshow Maker](https://www.kizoa.com/Slideshow-Maker)
 
 ![](https://cdn.staticont.net/pages/0012/82/a68e639c068022b156655cc135fbf279ccab3387.webp)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Licensing**: free and paid versions
 
@@ -774,10 +790,6 @@ Pros:
 Cons:
 
 * Restrictions in the free version
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 
 
@@ -1132,6 +1144,10 @@ An easy-to-use, yet efficient slideshow making program
 
 ![Movavi Slideshow Maker](https://cdn.staticont.net/products/0023/55/9129600187506a46e3b66e9652559bef0542cce5.webp)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Frequently asked questions
 
 ### What is the easiest slideshow maker?
@@ -1143,10 +1159,6 @@ Here are some of the easiest slideshow makers:
 * Renderforest
 * Smilebox
 * SlideLab
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How do I make a slideshow with music for free?
 
@@ -1174,10 +1186,6 @@ It depends on the tools and functions you are looking for. You can choose yourse
 * Microsoft PowerPoint
 * Icecream Slideshow Maker
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### What common file types are used for slideshow makers?
 
 Slideshow makers usually support popular video, audio, and image formats.
@@ -1197,10 +1205,6 @@ To create a well-made slideshow follow the tips below:
 * Keep the slideshow short to engage the audience
 * Add text, animation, video clips, and transitions to spice up the slideshow
 * Choose a user-friendly slideshow maker
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to choose a slideshow-making program?
 
@@ -1243,10 +1247,6 @@ Join for how-to guides, speсial offers, and app tips!
 
 ![](https://cdn.staticont.net/large/0023/57/cf8906a2f1d2d8afde4fca802515cea44f819eb7.jpg)![](https://cdn.staticont.net/large/0023/57/a26cd736bdba4b196180fd96537ae9b75b6253ba.jpg)![](https://cdn.staticont.net/large/0023/57/c2e7dff79a124e18600d55aec01616cde09d6c5b.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 1.5М+ users already subscribed to our newsletter
 
 Email
@@ -1270,24 +1270,24 @@ By signing up, I agree to receive marketing emails from Movavi and agree to [Mov
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/updated-noir-effects-in-adobe-premiere/"><u>[Updated] Noir Effects in Adobe Premiere</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-premium-lineup-best-8-devices-for-superior-uhd-viewing/"><u>2024 Approved Premium Lineup Best 8 Devices for Superior UHD Viewing</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Samsung Galaxy F54 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/canon-pixma-ts3322-driver-update-free-download-options-and-easy-setup-processes-for-optimal-print-performance/"><u>Canon PIXMA TS3322 Driver Update: Free Download Options and Easy Setup Processes for Optimal Print Performance</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/expert-advice-dealing-with-frequent-freezing-in-sovled-warno-a-comprehensive-fix-guide-for-pc-users/"><u>Expert Advice: Dealing with Frequent Freezing in [SOVLED] Warno – A Comprehensive Fix Guide for PC Users</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/explore-the-best-9-gif-recorders-for-windows-seamless-animation-saving-for-2024/"><u>Explore the Best 9 GIF Recorders for Windows Seamless Animation Saving for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/high-quality-fb-vids-on-demand-for-2024/"><u>High-Quality FB Vids on Demand for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-apple-iphone-15-pro-max-online-without-jailbreak-by-drfone-ios/"><u>In 2024, How to Unlock SIM Card on Apple iPhone 15 Pro Max online without jailbreak</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-mastering-video-capturing-across-devices-and-platforms/"><u>In 2024, Mastering Video Capturing Across Devices and Platforms</u></a></li>
-<li><a href="https://win-forum.techidaily.com/navigating-the-top-social-media-sites-faceook-tweetbook-instagram-yootube/"><u>Navigating the Top Social Media Sites: Faceook | TweetBook | InstaGram | YooTube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/popular-networking-sites-navigating-through-facebook-twitter-instagram-youtube/"><u>Popular Networking Sites: Navigating Through Facebook, Twitter, Instagram, YouTube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/social-giants-overview-understanding-facebook-twitter-instagram-and-youtube-impact/"><u>Social Giants Overview: Understanding Facebook, Twitter, Instagram & YouTube Impact</u></a></li>
-<li><a href="https://win-forum.techidaily.com/social-media-giants-explained-how-to-excel-on-facebook-twitter-instagram-and-youtube/"><u>Social Media Giants Explained: How to Excel on Facebook, Twitter, Instagram and YouTube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/social-media-titans-unleashing-potential-on-facebook-twitter-instagram-and-youtube/"><u>Social Media Titans: Unleashing Potential on Facebook, Twitter, Instagram & YouTube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/social-media-unveiled-inside-stories-of-facebook-twitter-instagram-and-youtube-users/"><u>Social Media Unveiled: Inside Stories of Facebook, Twitter, Instagram and YouTube Users</u></a></li>
-<li><a href="https://win-forum.techidaily.com/social-network-showdown-insights-into-facebook-twitter-instagram-and-youtube-usage/"><u>Social Network Showdown: Insights Into Facebook, Twitter, Instagram, and YouTube Usage</u></a></li>
-<li><a href="https://win-forum.techidaily.com/solving-excessive-hard-drive-load-on-windows-11-a-step-by-step-guide/"><u>Solving Excessive Hard Drive Load on Windows 11 - A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-guide-removing-a-user-account-from-windows-11/"><u>Step-by-Step Guide: Removing a User Account From Windows 11</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/1719578502910-what-languages-does-santa-claus-speak-find-out-now/"><u>What Languages Does Santa Claus Speak? Find Out Now!</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-leading-4k-gaming-pcs-top-ten-selection/"><u>[New] 2024 Approved Leading 4K Gaming PCs - Top Ten Selection</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-the-epitome-of-visual-perfection-top-10-monitors-for-mac-users/"><u>[New] 2024 Approved The Epitome of Visual Perfection - Top 10 Monitors for Mac Users</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-correcting-obs-darkness-during-live-streams/"><u>[Updated] In 2024, Correcting OBS Darkness During Live Streams</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-top-6-pro-rated-gopro-head-straps-and-mastering-usage/"><u>[Updated] In 2024, Top 6 Pro-Rated GoPro Head Straps & Mastering Usage</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-innovative-book-trailers-displayed/"><u>2024 Approved Innovative Book Trailers Displayed</u></a></li>
+<li><a href="https://win-forum.techidaily.com/bypass-limits-how-to-get-windows-11-working-on-unsupported-chips-via-revouninstaller/"><u>Bypass Limits: How to Get Windows 11 Working on Unsupported Chips via RevoUninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/expert-techniques-to-delete-foldersfiles-with-powershell-or-command-prompt-on-windows-11/"><u>Expert Techniques to Delete Folders/Files with PowerShell or Command Prompt on Windows 11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-the-big-4-in-social-media-an-insight-into-facebook-twitter-instagram-and-youtube/"><u>Exploring the Big 4 in Social Media - An Insight Into Facebook, Twitter, Instagram and Youtube</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-revive-your-bricked-google-pixel-7a-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Google Pixel 7a in Minutes | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-itel-a05s-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Itel A05s? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-lock-on-your-iphone-11-pro-and-ipad-by-drfone-ios/"><u>In 2024, How to Unlock iCloud lock on your iPhone 11 Pro and iPad?</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-digital-engagement-with-top-platforms-facebook-twitter-instagram-and-youtube/"><u>Mastering Digital Engagement with Top Platforms: Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-big-four-of-social-media-strategies-for-successful-presence-on-facebook-twitter-instagram-and-youtube/"><u>Navigating the Big Four of Social Media - Strategies for Successful Presence on Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-digital-landscape-a-dive-into-facebook-twitter-instagram-and-youtube/"><u>Navigating the Digital Landscape: A Dive Into Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/oem-windows-10-zu-ubertragen-schnell-lernen-wie-sie-ihre-lizenz-einfach-auf-eine-neue-festplatte-verschieben-konnen/"><u>OEM Windows 10 Zu Übertragen: Schnell Lernen, Wie Sie Ihre Lizenz Einfach Auf Eine Neue Festplatte Verschieben Können!</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-firefox-stalls-and-lockups-advanced-solutions-users/"><u>Overcoming Firefox Stalls & Lockups: Advanced Solutions Users</u></a></li>
+<li><a href="https://win-forum.techidaily.com/quick-guide-mastering-forced-closure-of-windows-programs-with-revo-uninstaller/"><u>Quick Guide: Mastering Forced Closure of Windows Programs with Revo Uninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-quintessential-social-media-mix-harnessing-facebook-twitter-instagram-and-youtube-for-success/"><u>The Quintessential Social Media Mix: Harnessing Facebook, Twitter, Instagram & YouTube for Success</u></a></li>
+<li><a href="https://win-forum.techidaily.com/understanding-the-giants-of-social-media-a-look-at-facebook-twitter-instagram-and-youtube/"><u>Understanding the Giants of Social Media: A Look at Facebook, Twitter, Instagram and YouTube</u></a></li>
 </ul></div>
 
