@@ -1,7 +1,7 @@
 ---
 title: Online VOB-to-WAV Transformation with No Fee Available at Movavi
-date: 2025-01-22T17:03:50.832Z
-updated: 2025-01-29T21:55:13.688Z
+date: 2025-02-16T04:03:48.910Z
+updated: 2025-02-20T02:34:57.041Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/dbfa6019d8b3f211a2d4346989a8be20fa1fb2520363f53adb487ff9f78fd127.jpg
@@ -166,10 +166,6 @@ Un facteur clé qui peut ralentir votre expérience de jeu est l'utilisation d'u
 
 ![](https://cdn.staticont.net/pages/0013/24/1698d2ec33be3cf4f4bedd243e199c87dbd8ac34.webp)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Si votre jeu commence à ralentir et que l'image est saccadée, surtout lorsqu'elle bouge, c'est que votre taux d'images par seconde (IPS) est faible. Cela se produit lorsque le matériel de votre ordinateur a du mal à faire fonctionner votre jeu ou fait des heures supplémentaires. S'il travaille trop, la vitesse du jeu ralentit.
 
 La carte graphique travaille pour rendre les images fixes, ou frames, pendant que vous jouez à un jeu. Elle travaille en collaboration avec d'autres composants matériels tels que la RAM, le CPU et le GPU pour créer une expérience de jeu complète. En cas d'arrêt de l'un de ces composants, votre FPS commencera à baisser. La plupart des joueurs préfèrent un taux de 60 FPS en jouant, mais la plupart des jeux sont en fait très bien à 30 FPS.
@@ -180,21 +176,17 @@ Cet article vous présente les réglages de performance pour les jeux que vous p
 
 Avant de commencer, il est toujours bon d'avoir un compteur de FPS dans le jeu, afin de pouvoir suivre vos progrès et tester les réglages qui fonctionnent. De nombreux jeux les ont préinstallés, mais si vous installez [MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards), vous ne serez jamais sans cet outil utile dans n'importe quel jeu.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 
 
 Comment rendre Windows 10 plus rapide pour les jeux (corrections rapides)
 
 ![](https://cdn.staticont.net/pages/0013/24/d54a84e68415bc2949ca1ec30e4cf5f5b067a4e1.webp)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Vous voulez savoir comment rendre Windows 10 plus rapide pour jouer avec une solution rapide ? Suivez ces conseils et recommencez à jouer !
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Régler les paramètres graphiques d'un jeu
 
@@ -247,6 +239,10 @@ Pour localiser les paramètres du mode jeu, appuyez sur la   **touche Windows** 
 Dans le menu qui s'ouvre, cliquez sur **Mode Jeu**. Passez à **On** pour activer le Game Mode. Si votre PC prend en charge le Mode Jeu, le système optimisera les performances de votre PC pour les jeux.
 
 Si vous ne trouvez pas ces paramètres, cela signifie que la dernière Windows Creators Update n'est pas installée sur votre PC.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Gérez vos heures actives
 
@@ -330,11 +326,19 @@ Pour ce faire, appuyez sur la   **touche Windows** \+ **I**. Tapez "pointeur de 
 
 Vous pouvez également modifier le curseur de la vitesse du pointeur pour créer la configuration qui vous convient le mieux.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 
 
 Comment améliorer les performances de jeu sur Windows 10 (corrections avancées)
 
 ![](https://cdn.staticont.net/pages/0013/24/72b5f58442a79243cce53c3224e26755b436a620.webp)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Vous ne savez toujours pas comment rendre Windows 10 plus rapide pour les jeux ? Utilisez ces correctifs avancés pour une solution à long terme.
 
@@ -346,16 +350,12 @@ Passer d'un disque dur à un disque SSD n'améliorera pas radicalement les perfo
 
 Quant à l'aspect financier, si un gros SSD pour votre système d'exploitation et vos jeux est trop cher pour vous, prenez un petit SSD pour votre système d'exploitation et gardez un gros disque dur pour les jeux.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Mettez à niveau votre GPU/CPU
 
 ![](https://cdn.staticont.net/default/0012/47/4d8d362406e5747022cddcbbe642fe7d57c6a558.webp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Mettez à niveau votre GPU et votre CPU environ tous les quatre ans pour que tout fonctionne bien. Mais si vous êtes un joueur, vous devrez peut-être le faire plus tôt, car la technologie évolue beaucoup plus rapidement dans ce secteur.
@@ -371,6 +371,10 @@ La mise à niveau de votre RAM n'aura pas un effet aussi important que la mise �
 De nombreux jeux requièrent une mémoire vive de 8 Go, mais ce chiffre augmente régulièrement, car les titres les plus récents recommandent une mémoire vive de 12 Go. 
 
 Si vous voulez rester en tête de la courbe, 16 Go suffiront pour l'instant. Mais si vous voulez utiliser des services de streaming en arrière-plan comme Twitch, Discord et YouTube, vous devrez passer à 32 Go pour pouvoir tout faire fonctionner sans problème.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Désactiver l'algorithme de Nagle
 
@@ -415,19 +419,11 @@ C'est l'un des services faciles à désactiver sur Windows 10\. Ces programmes e
 * Définissez la **valeur** sur **0**.
 * Cliquez sur **OK**.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 
 
 Comment accélérer l'exécution des jeux sur un ordinateur portable Windows 10
 
 ![](https://cdn.staticont.net/pages/0013/24/e045d566ab9cee25f15459463af7614838747945.webp)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Vous voulez savoir comment améliorer les performances de jeu sur un ordinateur portable Windows 10 ? Ces conseils vous aideront à accélérer les choses !
 
@@ -436,7 +432,7 @@ Vous voulez savoir comment améliorer les performances de jeu sur un ordinateur 
 Windows 10 dispose de nombreuses fonctions d'économie d'énergie pour les ordinateurs portables afin de les maintenir en vie pendant de plus longues durées. Cela affectera considérablement l'expérience de jeu car votre RAM, vos cartes graphiques et votre CPU ne fonctionneront pas à pleine capacité. Pour remédier à ce problème, connectez votre ordinateur portable à son alimentation externe et assurez-vous que vos paramètres de contrôle permettent d'obtenir des performances optimales lorsqu'il est connecté.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Utiliser un plan d'alimentation performant
@@ -455,6 +451,10 @@ Les ordinateurs portables sont réputés pour leur surchauffe, car tous les comp
 ### Mettez à niveau votre GPU et votre RAM
 
 Nous avons déjà abordé ce sujet pour les PC, mais votre ordinateur portable peut également être équipé d'un processeur graphique et d'une mémoire vive. Suivez les mêmes protocoles, et si vous n'avez pas l'habitude de travailler avec des ordinateurs portables, il est préférable de confier l'installation à un technicien expérimenté.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 
 
@@ -487,10 +487,6 @@ Logiciel d'enregistrement de jeux et de streaming gratuit et simple
 
 ![Gecata&nbsp;by Movavi](https://cdn.staticont.net/products/0023/55/189f02c8904c7cafef6bd153dc2ff5755f569030.webp)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 
 
 Foire aux questions 
@@ -505,7 +501,7 @@ L'article ci-dessus énumère une série de mesures que vous pouvez prendre pour
 * Vérifiez les paramètres de performance de votre Windows.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Qu'est-ce qui ralentit mon ordinateur ?
@@ -527,6 +523,10 @@ Si vous voulez savoir comment rendre votre ordinateur plus rapide pour jouer, vo
 3. Effectuez un nettoyage du disque et une maintenance du système
 4. Passez en revue votre programme de démarrage et désactivez ceux que vous n'utilisez pas.
 5. Installez de la RAM supplémentaire
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Windows 10 est-il meilleur pour les jeux ?
 
@@ -585,22 +585,21 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-in-depth-exploration-of-morphvox-modification-methods/"><u>[New] In-Depth Exploration of MorphVOX Modification Methods</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-ultimate-sfpr-levels-in-slow-motion-content/"><u>[New] Ultimate SFPR Levels in Slow-Motion Content</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-experts-selection-best-full-screen-recorders-for-pc-and-mac/"><u>[Updated] 2024 Approved Expert's Selection Best Full-Screen Recorders for PC and Mac</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/a-deep-dive-into-the-stunning-imac-with-m1-unmatched-graphics-meets-improved-processing/"><u>A Deep Dive Into the Stunning iMac with M1: Unmatched Graphics Meets Improved Processing</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/diy-solutions-repairing-top-issues-with-your-television/"><u>DIY Solutions: Repairing Top Issues with Your Television</u></a></li>
-<li><a href="https://win-forum.techidaily.com/guarding-against-android-security-risks-how-to-uncover-malicious-software-using-revouninstaller/"><u>Guarding Against Android Security Risks: How to Uncover Malicious Software Using RevoUninstaller</u></a></li>
-<li><a href="https://win-forum.techidaily.com/guide-enabling-wake-on-lan-feature-on-windows-10-and-11-systems/"><u>Guide: Enabling Wake-on-LAN Feature on Windows 10 & 11 Systems</u></a></li>
-<li><a href="https://win-forum.techidaily.com/harnessing-popular-social-channels-strategies-for-facebook-twitter-instagram-and-youtube-success/"><u>Harnessing Popular Social Channels: Strategies for Facebook, Twitter, Instagram & YouTube Success</u></a></li>
-<li><a href="https://win-forum.techidaily.com/hidden-removal-techniques-a-comprehensive-guide-to-eradicating-offscreen-apps-on-windows-systems/"><u>Hidden Removal Techniques: A Comprehensive Guide to Eradicating Offscreen Apps on Windows Systems</u></a></li>
-<li><a href="https://win-forum.techidaily.com/how-to-free-up-space-by-eliminating-memory-dump-archives-on-windows-10-devices/"><u>How to Free Up Space by Eliminating Memory Dump Archives on Windows 10 Devices</u></a></li>
-<li><a href="https://win-forum.techidaily.com/how-to-refresh-your-computer-factory-resetting-windows-11-using-the-powerful-revouninstaller/"><u>How to Refresh Your Computer: Factory Resetting Windows 11 Using the Powerful RevoUninstaller</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-poco-c65-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Poco C65 Location Settings | Dr.fone</u></a></li>
-<li><a href="https://win-forum.techidaily.com/in-depth-walkthrough-eliminating-system-memory-dumps-on-windows-11-devices/"><u>In-Depth Walkthrough: Eliminating System Memory Dumps on Windows 11 Devices</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/incor-cooker-adding-cli-to-task-manager-windowed-console/"><u>Incor Cooker: Adding CLI to Task Manager Windowed Console</u></a></li>
-<li><a href="https://win-forum.techidaily.com/mastering-digital-connections-with-facebook-twitter-instagram-and-youtube/"><u>Mastering Digital Connections with Facebook, Twitter, Instagram & YouTube</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/section-4a-advanced-topic-epigenetics-and-gene-regulation/"><u>Section 4A: Advanced Topic - Epigenetics and Gene Regulation</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-samsungs-new-z-flip-releasing-soon-price-range-and-feature-highlights-inside/"><u>The Ultimate Guide to Samsung's New Z Flip ✨: Releasing Soon? Price Range and Feature Highlights Inside</u></a></li>
+<li><a href="https://facebook.techidaily.com/log-off-decoding-instagrams-call-to-social-media-sabbatical/"><u>'Log Off': Decoding Instagram's Call to Social Media Sabbatical</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ackling-legal-differences-youtubes-restrictions-and-creative-commons-licensing/"><u>[New] Tackling Legal Differences YouTube's Restrictions & Creative Commons Licensing</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-optimal-strategies-for-selective-youtube-video-downloads/"><u>[Updated] 2024 Approved Optimal Strategies for Selective YouTube Video Downloads</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-to-turn-off-or-not-navigating-through-your-off-facebook-activities/"><u>[Updated] To Turn Off or Not Navigating Through Your Off-Facebook Activities</u></a></li>
+<li><a href="https://extra-information.techidaily.com/a-deeper-dive-into-the-game-five-easy-zooming-methods-for-2024/"><u>A Deeper Dive Into the Game Five Easy Zooming Methods for 2024</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/assistenza-on-line-esperta-di-tecnologia-per-winx-dvd-rip-e-winx-video-intelligente/"><u>Assistenza On-Line Esperta Di Tecnologia Per WinX DVD Rip E WinX Video Intelligente</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-new-corsair-h80i-v2-liquid-cpu-cooler-drivers/"><u>Get Your New Corsair H80i V2 Liquid CPU Cooler Drivers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-removal-4-effective-ways-to-delete-a-drives-segmentation/"><u>Quick Removal: 4 Effective Ways to Delete a Drive's Segmentation</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/mline-your-viewing-experience-youtube-ad-block-strategies/"><u>Streamline Your Viewing Experience - YouTube Ad-Block Strategies</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-complete-tutorial-on-how-to-alter-remove-and-establish-system-keys-in-windows/"><u>The Complete Tutorial on How to Alter, Remove and Establish System Keys in Windows</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-fast-track-effectively-forcing-end-to-non-responsive-applications-in-windows-systems/"><u>The Fast Track: Effectively Forcing End to Non-Responsive Applications in Windows Systems</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-power-users-handbook-crash-course-on-forced-app-closures-for-windows-11/"><u>The Power User's Handbook: Crash Course on Forced App Closures for Windows 11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-ultimate-social-media-mix-connecting-through-facebook-twitter-instagram-and-youtube/"><u>The Ultimate Social Media Mix: Connecting Through Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-social-networks-navigating-facebook-twitter-instagram-and-youtube/"><u>Top Social Networks: Navigating Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/understanding-bios-functions-and-boosting-performance-using-revouninstaller/"><u>Understanding BIOS Functions and Boosting Performance Using RevoUninstaller</u></a></li>
+<li><a href="https://win-forum.techidaily.com/understanding-global-connectivity-with-major-players-twitter-instagram-facebook-and-youtube/"><u>Understanding Global Connectivity with Major Players: Twitter, Instagram, Facebook and YouTube</u></a></li>
 </ul></div>
 
